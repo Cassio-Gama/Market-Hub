@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Market Hub Lite | Real-Time Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Top Ticker Bar -->
+        <header class="ticker-bar">
+            <div class="ticker-wrapper" id="ticker-wrapper">
+                <!-- Ticker items will be injected by JS -->
+                <span>LOADING MARKET DATA...</span>
+            </div>
+        </header>
+
+        <main class="dashboard-grid">
+            <!-- Left Panel: Asset List -->
+            <aside class="panel left-panel">
+                <h2 class="panel-title">ASSETS</h2>
+                <div class="asset-list" id="asset-list">
+                    <!-- Assets will be injected by JS -->
+                </div>
+            </aside>
+
+            <!-- Center: Chart Area -->
+            <section class="panel center-panel">
+                <div class="chart-header">
+                    <h2 class="panel-title">IBOVESPA <span class="chart-subtitle">HISTORICAL VIEW</span></h2>
+                    <div id="chart-price" class="current-price">0.00</div>
+                </div>
+                <div class="chart-container">
+                    <canvas id="mainChart"></canvas>
+                </div>
+            </section>
+
+            <!-- Right Panel: News Feed -->
+            <aside class="panel right-panel">
+                <h2 class="panel-title">LATEST NEWS</h2>
+                <div class="news-feed" id="news-feed">
+                    <div class="news-item">
+                        <span class="news-time">16:30</span>
+                        <p class="news-text">Market sentiment remains cautious ahead of FED meeting.</p>
+                    </div>
+                    <div class="news-item">
+                        <span class="news-time">15:45</span>
+                        <p class="news-text">PETR4 rises on oil price surge after Middle East reports.</p>
+                    </div>
+                    <div class="news-item">
+                        <span class="news-time">14:20</span>
+                        <p class="news-text">USD/BRL hits 3-month high as fiscal concerns grow.</p>
+                    </div>
+                    <div class="news-item">
+                        <span class="news-time">12:00</span>
+                        <p class="news-text">New tech IPO shows strong debut on NASDAQ.</p>
+                    </div>
+                </div>
+            </aside>
+        </main>
+
+        <!-- Footer / Status Bar -->
+        <footer class="status-bar">
+            <span>TERMINAL CONNECTED</span>
+            <span id="last-update">LAST SYNC: --:--:--</span>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

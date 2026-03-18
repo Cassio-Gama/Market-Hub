@@ -1,0 +1,218 @@
+/* Market Hub Lite - Dark Terminal Theme */
+
+:root {
+    --bg-main: #02040a;
+    --bg-panel: #0d1117;
+    --border-color: #30363d;
+    --text-primary: #e6edf3;
+    --text-secondary: #8b949e;
+    --accent-blue: #2f81f7;
+    --positive: #3fb950;
+    --negative: #f85149;
+    --font-mono: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+    font-family: var(--font-mono);
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+/* Ticker Bar */
+.ticker-bar {
+    background: #161b22;
+    border-bottom: 1px solid var(--border-color);
+    padding: 10px 0;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.ticker-wrapper {
+    display: flex;
+    gap: 40px;
+    padding-left: 100%;
+    animation: ticker 40s linear infinite;
+    white-space: nowrap;
+}
+
+@keyframes ticker {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
+
+.ticker-item {
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.ticker-item span {
+    font-weight: bold;
+}
+
+/* Dashboard Grid */
+.dashboard-grid {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 280px 1fr 300px;
+    grid-template-rows: 1fr;
+    gap: 1px;
+    background-color: var(--border-color);
+    overflow: hidden;
+}
+
+.panel {
+    background-color: var(--bg-panel);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+.panel-title {
+    font-size: 12px;
+    color: var(--text-secondary);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+/* Asset List */
+.asset-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 10px;
+    border-bottom: 1px solid rgba(48, 54, 61, 0.4);
+    transition: background 0.2s;
+    cursor: pointer;
+}
+
+.asset-item:hover {
+    background: rgba(47, 129, 247, 0.1);
+}
+
+.asset-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.asset-name { font-weight: bold; font-size: 14px; }
+.asset-desc { font-size: 11px; color: var(--text-secondary); }
+
+.asset-values {
+    text-align: right;
+}
+
+.asset-price { font-size: 14px; font-weight: bold; }
+.asset-change { font-size: 12px; }
+
+/* Chart Area */
+.center-panel {
+    background-color: var(--bg-main);
+    display: flex;
+    flex-direction: column;
+}
+
+.chart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 30px;
+}
+
+.chart-subtitle {
+    font-size: 10px;
+    margin-left: 10px;
+    font-weight: normal;
+}
+
+.current-price {
+    font-size: 32px;
+    font-weight: bold;
+    color: var(--positive);
+}
+
+.chart-container {
+    flex: 1;
+    position: relative;
+    min-height: 300px;
+}
+
+/* News Feed */
+.news-item {
+    margin-bottom: 20px;
+    padding-left: 10px;
+    border-left: 2px solid var(--accent-blue);
+}
+
+.news-time {
+    font-size: 10px;
+    color: var(--accent-blue);
+    display: block;
+    margin-bottom: 4px;
+}
+
+.news-text {
+    font-size: 13px;
+    line-height: 1.4;
+    color: var(--text-primary);
+}
+
+/* Footer */
+.status-bar {
+    background: #161b22;
+    border-top: 1px solid var(--border-color);
+    padding: 5px 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    color: var(--text-secondary);
+}
+
+/* Price Classes */
+.up { color: var(--positive); }
+.down { color: var(--negative); }
+
+.blink {
+    animation: blinker 0.5s linear 2;
+}
+
+@keyframes blinker {
+    50% { opacity: 0; }
+}
+
+/* Responsive */
+@media (max-width: 1200px) {
+    .dashboard-grid {
+        grid-template-columns: 240px 1fr;
+    }
+    .right-panel { display: none; }
+}
+
+@media (max-width: 800px) {
+    .dashboard-grid {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto 1fr;
+    }
+    .left-panel { display: none; }
+    .panel { overflow-y: visible; }
+}
