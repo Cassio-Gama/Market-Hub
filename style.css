@@ -106,8 +106,12 @@ body {
     cursor: pointer;
 }
 
-.asset-item:hover {
+.asset-item:hover, .asset-item.active {
     background: rgba(47, 129, 247, 0.1);
+}
+
+.asset-item.active {
+    border-left: 2px solid var(--accent-blue);
 }
 
 .asset-info {
