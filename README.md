@@ -7,6 +7,8 @@ O **Market Hub Lite** é uma interface de monitoramento de mercado financeiro de
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/2394830a-6244-4a96-93dc-417bb28d5658" />
 
 
+Link de Acesso: https://cassio-gama.github.io/Market-Hub/
+
 ## ✨ Principais Funcionalidades
 
 - **📡 Conexão Real-Time**: Integração via **Brapi API** para cotações de ativos da B3 (Ações e IBOVESPA).
