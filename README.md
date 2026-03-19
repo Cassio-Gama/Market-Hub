@@ -27,15 +27,11 @@ Link de Acesso: https://cassio-gama.github.io/Market-Hub/
   - [Brapi API](https://brapi.dev) (Stocks & Indices)
   - [Frankfurter API](https://www.frankfurter.app) (Currency Fallback)
 
-## 🛠️ Como Executar o Projeto
 
-Como o navegador bloqueia requisições de API a partir de arquivos locais (`file://`), você deve rodar o projeto através de um servidor local:
 
-1. Clone o repositório.
-2. No VS Code, instale a extensão **Live Server**.
-3. Clique com o botão direito no arquivo `index.html` e selecione **"Open with Live Server"**.
-4. Configure seu token da Brapi no topo do arquivo `script.js`:
-   ```javascript
+
+
+
    const BRAPI_TOKEN = 'SEU_TOKEN_AQUI';
    ```
 
