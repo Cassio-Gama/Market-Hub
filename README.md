@@ -1,53 +1,48 @@
-# 📈 Market Hub Lite - Dashboard de Terminal Financeiro
+# 📈 Market Hub Lite
 
-Um dashboard financeiro minimalista e poderoso que traz cotações em tempo real da B3 e do mercado de moedas global directly para o seu navegador. Com uma estética inspirada em terminais de trading modernos e foco em performance.
+> **Dashboard Financeiro Real-Time** sob uma estética de terminal hacker/premium. 
 
-![Market Hub Preview](https://via.placeholder.com/1200x600/0d1117/e6edf3?text=MARKET+HUB+LITE+DASHBOARD)
+O **Market Hub Lite** é uma interface de monitoramento de mercado financeiro desenvolvida com **HTML5, CSS3 vanilla e JavaScript Puro**. O projeto integra APIs de dados reais para fornecer cotações atualizadas da B3 (Ações e Índices) e câmbio global.
 
-## 🚀 Funcionalidades
+![Market Hub Preview](https://img.shields.io/badge/Status-Live-3fb950?style=for-the-badge)
+![Tech Stack](https://img.shields.io/badge/Made%20with-JS%20|%20HTML%20|%20CSS-2f81f7?style=for-the-badge)
 
-- **Cotações em Tempo Real**: Integração robusta com a [Brapi API](https://brapi.dev) para ações (PETR4, VALE3, ITUB4) e índices (^BVSP).
-- **Gráficos Dinâmicos**: Visualização histórica de 1 mês para qualquer ativo selecionado usando [Chart.js](https://www.chartjs.org/).
-- **Câmbio Inteligente**: Monitoramento do Dólar (USD/BRL) com fallback automático via Frankfurter API para máxima disponibilidade.
-- **Interface Terminal (Foda)**: Tema Dark Premium com animações de ticker e efeitos visuais estilo trading floor.
-- **Interatividade Total**: Clique em qualquer ativo na lateral para carregar instantaneamente o gráfico e detalhes correspondentes.
+## ✨ Principais Funcionalidades
 
-## 🛠️ Tecnologias
+- **📡 Conexão Real-Time**: Integração via **Brapi API** para cotações de ativos da B3 (Ações e IBOVESPA).
+- **📊 Gráficos Dinâmicos**: Visualização interativa usando **Chart.js** com suporte a seleção de ativos.
+- **🛡️ Fallback Inteligente**: Sistema de redundância para câmbio (USD/BRL) usando a **Frankfurter API** caso a Brapi atinja limites.
+- **🖥️ Estética Terminal High-End**: Design dark inspirado em terminais de trading profissionais com animações fluidas e efeitos de "blinking" em atualizações de preço.
+- **📱 Ticker Infinito**: Barra de rolagem superior com os principais ativos, sincronizada em tempo real.
 
-- **HTML5 & CSS3**: Estrutura e estilização Vanilla (sem frameworks pesados).
-- **JavaScript (ES6+)**: Lógica assíncrona para consumo de APIs e manipulação dinâmica do DOM.
-- **Chart.js**: Renderização de gráficos de alta performance com gradientes personalizados.
-- **Brapi API**: Fonte principal de dados para o mercado brasileiro.
-- **Frankfurter API**: Fonte de contingência para dados de câmbio.
+## 🚀 Tecnologias Utilizadas
 
-## 📦 Como Instalar e Rodar
+- **HTML5 Semantic Markup**
+- **Vanilla CSS3** (Custom Properties, Flexbox, Grid)
+- **JavaScript (ES6+)** (Async/Await, Fetch API)
+- **Chart.js** (Visualização de dados)
+- **APIs**:
+  - [Brapi API](https://brapi.dev) (Stocks & Indices)
+  - [Frankfurter API](https://www.frankfurter.app) (Currency Fallback)
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/market-hub-lite.git
+## 🛠️ Como Executar o Projeto
+
+Como o navegador bloqueia requisições de API a partir de arquivos locais (`file://`), você deve rodar o projeto através de um servidor local:
+
+1. Clone o repositório.
+2. No VS Code, instale a extensão **Live Server**.
+3. Clique com o botão direito no arquivo `index.html` e selecione **"Open with Live Server"**.
+4. Configure seu token da Brapi no topo do arquivo `script.js`:
+   ```javascript
+   const BRAPI_TOKEN = 'SEU_TOKEN_AQUI';
    ```
 
-2. **Configure sua API Key:**
-   - Obtenha um token gratuito em [brapi.dev](https://brapi.dev).
-   - No arquivo `script.js`, altere a linha 8:
-     ```javascript
-     const BRAPI_TOKEN = 'SEU_TOKEN_AQUI';
-     ```
-
-3. **Inicie o Servidor Local (Crítico):**
-   Para evitar erros de segurança (CORS) do navegador, você **deve** rodar o projeto em um servidor local:
-   - No **VS Code**: Instale a extensão **Live Server**, clique com o botão direito no `index.html` e selecione **"Open with Live Server"**.
-   - Via Terminal: `npx serve .`
-
-## 📊 Estrutura do Projeto
-
-```text
-/Market Hub
-├── index.html     # Estrutura principal e dashboard grid
-├── style.css      # Design Terminal Dark e responsividade
-├── script.js      # Lógica de API e atualização dos gráficos
-└── README.md      # Este guia incrível
-```
+## 📈 Próximos Passos (Roadmap)
+- [ ] Implementar busca de ativos por nome.
+- [ ] Adicionar suporte a Cryptomoedas.
+- [ ] Criar alertas sonoros configuráveis para variações de preço.
+- [ ] Implementar persistência de ativos selecionados via LocalStorage.
 
 ---
-Desenvolvido com ☕ e foco em dados reais. Sinta-se à vontade para contribuir!
+
+Desenvolvido com ☕ e ⚡ por [Seu Nome/GitHub](https://github.com/SeuUsuario)
