@@ -1,11 +1,11 @@
-# 📈 Market Hub Lite
+# 📈 Market Hub 
 
 > **Dashboard Financeiro Real-Time** sob uma estética de terminal hacker/premium. 
 
 O **Market Hub Lite** é uma interface de monitoramento de mercado financeiro desenvolvida com **HTML5, CSS3 vanilla e JavaScript Puro**. O projeto integra APIs de dados reais para fornecer cotações atualizadas da B3 (Ações e Índices) e câmbio global.
 
-![Market Hub Preview](https://img.shields.io/badge/Status-Live-3fb950?style=for-the-badge)
-![Tech Stack](https://img.shields.io/badge/Made%20with-JS%20|%20HTML%20|%20CSS-2f81f7?style=for-the-badge)
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/2394830a-6244-4a96-93dc-417bb28d5658" />
+
 
 ## ✨ Principais Funcionalidades
 
@@ -37,12 +37,5 @@ Como o navegador bloqueia requisições de API a partir de arquivos locais (`fil
    const BRAPI_TOKEN = 'SEU_TOKEN_AQUI';
    ```
 
-## 📈 Próximos Passos (Roadmap)
-- [ ] Implementar busca de ativos por nome.
-- [ ] Adicionar suporte a Cryptomoedas.
-- [ ] Criar alertas sonoros configuráveis para variações de preço.
-- [ ] Implementar persistência de ativos selecionados via LocalStorage.
 
----
-
-Desenvolvido com ☕ e ⚡ por [Seu Nome/GitHub](https://github.com/SeuUsuario)
+Desenvolvido com ☕ e por Cassio Gama
