@@ -27,13 +27,4 @@ Link de Acesso: https://cassio-gama.github.io/Market-Hub/
   - [Brapi API](https://brapi.dev) (Stocks & Indices)
   - [Frankfurter API](https://www.frankfurter.app) (Currency Fallback)
 
-
-
-
-
-
-   const BRAPI_TOKEN = 'SEU_TOKEN_AQUI';
-   ```
-
-
 Desenvolvido com ☕ e por Cassio Gama
