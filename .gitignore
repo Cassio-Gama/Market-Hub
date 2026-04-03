@@ -18,4 +18,5 @@ dist/
 *.pdb
 
 # Local data
-data.json
+# Permite que o GitHub Pages use o data.json
+# data.json
