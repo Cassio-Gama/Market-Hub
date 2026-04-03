@@ -1,0 +1,38 @@
+name: Deploy MarketHub to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 * * * *' # Roda a cada hora para atualizar dados
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.x'
+
+      - name: Restore dependencies
+        run: dotnet restore MarketHub.Worker/MarketHub.Worker.csproj
+
+      - name: Build and Run DataWorker
+        run: dotnet run --project MarketHub.Worker/MarketHub.Worker.csproj
+        env:
+          HG_API_KEY: ${{ secrets.HG_API_KEY }}
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          exclude_assets: 'MarketHub.Worker'
+          publish_branch: gh-pages

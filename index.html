@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MarketHub | Dashboard Financeiro Premium</title>
+    <meta name="description" content="Dashboard financeiro em tempo real com IBOVESPA, Dólar e notícias do mercado.">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Outfit:wght@300;500;700&display=swap" rel="stylesheet">
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-theme">
+    <!-- Ticker Tape (Stock Market Style) -->
+    <div class="ticker-tape-container">
+        <div class="ticker-tape" id="ticker-slider">
+            <!-- Items populated by app.js from C# data.json -->
+        </div>
+    </div>
+
+    <header class="navbar">
+        <div class="logo">
+            <h1>Market<span>Hub</span></h1>
+        </div>
+        <div class="market-status" id="market-status-container">
+            <span class="status-dot"></span>
+            <span id="status-text">Mercado Fechado</span>
+            <!-- Tooltip Hover -->
+            <div class="market-tooltip">
+                <strong>Horários B3 (Brasília)</strong>
+                <ul>
+                    <li>Segunda - Sexta: 10:00 - 18:00</li>
+                    <li>Sábado - Domingo: Fechado</li>
+                    <li>Feriados Nacionais: Fechado</li>
+                </ul>
+            </div>
+        </div>
+        <div class="time-widget" id="current-time">00:00:00</div>
+    </header>
+
+    <main class="container">
+        <!-- Market Explorer -->
+        <section class="market-explorer glass-card">
+            <div class="explorer-header categories">
+                <div class="category-group">
+                    <h3>Ativos Disponíveis (B3)</h3>
+                    <div class="quick-chips">
+                        <button class="chip active" data-ticker="^BVSP">IBOVESPA</button>
+                        <button class="chip" data-ticker="PETR4">PETR4</button>
+                        <button class="chip" data-ticker="VALE3">VALE3</button>
+                        <button class="chip" data-ticker="ITUB4">ITUB4</button>
+                        <button class="chip" data-ticker="BBDC4">BBDC4</button>
+                        <button class="chip" data-ticker="BBAS3">BBAS3</button>
+                        <button class="chip" data-ticker="MGLU3">MGLU3</button>
+                        <button class="chip" data-ticker="ABEV3">ABEV3</button>
+                        <button class="chip" data-ticker="USD-BRL">Dólar (USD)</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="dashboard-grid">
+            <!-- Main Chart Area -->
+            <div class="chart-container glass-card">
+                <div class="card-header">
+                    <h2 id="chart-title">Performance IBOVESPA</h2>
+                    <div class="chart-info"> 
+                        <span id="chart-price" class="price">--</span>
+                        <span id="chart-change" class="change">--</span>
+                    </div>
+                </div>
+                <div class="canvas-wrapper">
+                    <canvas id="mainChart"></canvas>
+                </div>
+            </div>
+
+            <!-- News Sidebar -->
+            <aside class="newsroom glass-card">
+                <div class="card-header">
+                    <h2>Notícias</h2>
+                </div>
+                <div id="news-container" class="news-list">
+                    <!-- News items populated by app.js -->
+                    <div class="news-skeleton"></div>
+                    <div class="news-skeleton"></div>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2026 MarketHub Terminal. Powered by C# DataWorker & GitHub Actions.</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
