@@ -66,6 +66,43 @@ body {
     min-height: 100vh;
 }
 
+/* Ticker Tape Animation */
+.ticker-tape-container {
+    background: #000;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.ticker-tape {
+    display: inline-flex;
+    animation: ticker 120s linear infinite;
+    gap: 40px;
+    padding-left: 100%; /* Inicia fora da tela */
+}
+
+@keyframes ticker {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
+
+.ticker-item-tape {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #fff;
+    font-family: var(--font-main);
+}
+
+.ticker-item-tape .symbol { color: var(--text-secondary); }
+.ticker-item-tape .price { font-weight: 700; color: #fff; }
+
 .navbar {
     display: flex;
     justify-content: space-between;

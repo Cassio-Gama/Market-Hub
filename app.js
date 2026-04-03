@@ -40,9 +40,11 @@ async function init() {
 
 async function loadInitialData() {
     try {
-        const response = await fetch('data.json');
+        // Cache busting para evitar dados antigos no GitHub Pages
+        const response = await fetch('data.json?v=' + Date.now());
         if (!response.ok) return;
         const data = await response.json();
+        console.log('MarketHub Data Loaded:', data);
         
         // 1. Slider (Ticker Tape)
         if (data.slider) {
