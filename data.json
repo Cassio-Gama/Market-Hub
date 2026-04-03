@@ -1,0 +1,120 @@
+{
+  "slider": [
+    {
+      "symbol": "^BVSP",
+      "price": 188052.02,
+      "change": 0.05,
+      "changeStr": "\u002B0,05%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 48.15,
+      "change": 1.65,
+      "changeStr": "\u002B1,65%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 83.55,
+      "change": 0.66,
+      "changeStr": "\u002B0,66%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 43.3,
+      "change": -1.21,
+      "changeStr": "-1,21%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 19.12,
+      "change": -1.6,
+      "changeStr": "-1,60%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 23.39,
+      "change": -1.02,
+      "changeStr": "-1,02%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 8.75,
+      "change": -1.02,
+      "changeStr": "-1,02%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 15.28,
+      "change": -0.52,
+      "changeStr": "-0,52%"
+    },
+    {
+      "symbol": "WEGE3",
+      "price": 50.31,
+      "change": -1.37,
+      "changeStr": "-1,37%"
+    }
+  ],
+  "news": [
+    {
+      "title": "Por que guerra no Ir\u00E3 fez a\u00E7\u00F5es da Petrobras baterem recorde \u2013 e como isso impacta a empresa e o Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/03/por-que-guerra-no-ira-fez-acoes-da-petrobras-baterem-recorde-e-como-isso-impacta-a-empresa-e-o-brasil.ghtml",
+      "date": "Fri, 03 Apr 2026 19:50:21 -0000"
+    },
+    {
+      "title": "Veja dicas e boas pr\u00E1ticas para o plantio de oliveiras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/04/03/veja-dicas-e-boas-praticas-para-o-plantio-de-oliveiras.ghtml",
+      "date": "Fri, 03 Apr 2026 18:45:33 -0000"
+    },
+    {
+      "title": "Taxa das blusinhas: arrecada\u00E7\u00E3o do governo sobe 25% em janeiro, para R$ 425 milh\u00F5es; Alckmin avalia que medida protege o emprego",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/03/taxa-das-blusinhas-arrecadacao-do-governo-sobe-25percent-em-janeiro-para-r-425-milhoes-alckmin-avalia-que-medida-protege-o-emprego.ghtml",
+      "date": "Fri, 03 Apr 2026 13:16:50 -0000"
+    },
+    {
+      "title": "Criticado por Trump e defendido por Lula: veja as novidades previstas para o PIX, que bateu recorde em 2025",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/03/criticado-por-trump-e-defendido-por-lula-veja-as-novidades-previstas-para-o-pix-que-bateu-recorde-em-2025.ghtml",
+      "date": "Fri, 03 Apr 2026 11:32:18 -0000"
+    },
+    {
+      "title": "P\u00E1scoa salgada: ovos de chocolate ficam at\u00E9 19,8% mais caros no interior de SP e podem perder espa\u00E7o para colombas; aponta USP",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/04/03/ovos-de-pascoa-estao-ate-198percent-mais-caros-em-piracicaba-e-podem-perder-espaco-para-colombas.ghtml",
+      "date": "Fri, 03 Apr 2026 09:47:14 -0000"
+    },
+    {
+      "title": "Trabalho an\u00E1logo \u00E0 escravid\u00E3o: imigrantes s\u00E3o resgatados em oficinas que produziam para marcas de roupas em MG",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/03/trabalho-analogo-a-escravidao-imigrantes-sao-resgatados-em-oficinas-que-produziam-para-marcas-de-roupas-em-mg.ghtml",
+      "date": "Fri, 03 Apr 2026 09:00:58 -0000"
+    },
+    {
+      "title": "\u2018O primeiro contato foi um boleto\u2019: empreendedores denunciam envio de cobran\u00E7as que induzem ao erro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/04/03/o-primeiro-contato-foi-um-boleto-empreendedores-denunciam-envio-de-cobrancas-que-induzem-ao-erro.ghtml",
+      "date": "Fri, 03 Apr 2026 07:01:19 -0000"
+    },
+    {
+      "title": "Fertilizantes disparam com a guerra, mas pre\u00E7o dos alimentos n\u00E3o deve subir agora; veja proje\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/03/fertilizantes-disparam-com-a-guerra-mas-preco-dos-alimentos-nao-deve-subir-agora-veja-projecoes.ghtml",
+      "date": "Fri, 03 Apr 2026 06:01:03 -0000"
+    },
+    {
+      "title": "Robot\u00E1xis sofrem pane, param no meio da rua e obrigam motoristas a desviar em cidade na China",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/03/robotaxis-sofrem-pane-param-no-meio-da-rua-e-obrigam-motoristas-a-desviar-em-cidade-na-china.ghtml",
+      "date": "Fri, 03 Apr 2026 06:00:34 -0000"
+    },
+    {
+      "title": "Vai viajar? Veja onde instalar a cadeirinha infantil e como evitar erros fatais ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/03/veja-onde-instalar-a-cadeirinha-infantil-e-como-evitar-erros-fatais.ghtml",
+      "date": "Fri, 03 Apr 2026 04:00:36 -0000"
+    }
+  ]
+}
