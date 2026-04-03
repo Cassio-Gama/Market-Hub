@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+dist/
+.DS_Store
+
+# .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.doccache
+*.suo
+*.userprefs
+*.vshost.exe
+*.vshost.exe.config
+*.vshost.exe.manifest
+*.xml
+*.pdb
+
+# Local data
+data.json
