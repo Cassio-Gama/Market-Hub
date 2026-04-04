@@ -69,7 +69,7 @@ Este projeto foi desenhado para rodar perfeitamente no GitHub Pages.
 
 ## 👤 Autor
 
-Desenvolvido por **Cássio Gama** & **Antigravity AI**. 🚀📈💹
+Desenvolvido por **Cássio Gama** 
 
 ---
 *Este é um projeto com fins educacionais e de visualização de dados financeiros. Utilize com responsabilidade.*
