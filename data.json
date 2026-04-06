@@ -2,62 +2,68 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 188134.88,
-      "change": 0.04,
-      "changeStr": "\u002B0.04%"
+      "price": 188584.3,
+      "change": 0.28,
+      "changeStr": "\u002B0.28%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.21,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 84.05,
-      "change": 0.6,
-      "changeStr": "\u002B0.60%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 43.33,
-      "change": 0.07,
-      "changeStr": "\u002B0.07%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 19.22,
+      "price": 48.4,
       "change": 0.52,
       "changeStr": "\u002B0.52%"
     },
     {
+      "symbol": "VALE3",
+      "price": 83.44,
+      "change": -0.13,
+      "changeStr": "-0.13%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 43.56,
+      "change": 0.6,
+      "changeStr": "\u002B0.60%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 19.34,
+      "change": 1.15,
+      "changeStr": "\u002B1.15%"
+    },
+    {
       "symbol": "BBAS3",
-      "price": 23.42,
-      "change": 0.13,
-      "changeStr": "\u002B0.13%"
+      "price": 23.55,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.85,
-      "change": 1.14,
-      "changeStr": "\u002B1.14%"
+      "price": 8.83,
+      "change": 0.91,
+      "changeStr": "\u002B0.91%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.34,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 15.49,
+      "change": 1.37,
+      "changeStr": "\u002B1.37%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.6,
-      "change": 0.58,
-      "changeStr": "\u002B0.58%"
+      "price": 50.52,
+      "change": 0.42,
+      "changeStr": "\u002B0.42%"
     }
   ],
   "news": [
     {
-      "title": "Petr\u00F3leo cai ap\u00F3s proposta de cessar-fogo entre EUA e Ir\u00E3",
+      "title": "Volkswagen lan\u00E7a T-Cross Sele\u00E7\u00E3o por R$ 129.990; veja tudo da edi\u00E7\u00E3o limitada do SUV",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/06/volkswagen-lanca-t-cross-selecao-por-r-129990-veja-tudo-da-edicao-limitada-do-suv.ghtml",
+      "date": "Mon, 06 Apr 2026 14:00:41 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo sobe ap\u00F3s Ir\u00E3 e EUA rejeitarem proposta de cessar-fogo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/06/cotacao-petroleo.ghtml",
       "date": "Mon, 06 Apr 2026 13:14:24 -0000"
@@ -75,7 +81,7 @@
       "date": "Mon, 06 Apr 2026 12:03:53 -0000"
     },
     {
-      "title": "D\u00F3lar abre em queda com poss\u00EDvel cessar-fogo entre Ir\u00E3 e EUA",
+      "title": "D\u00F3lar cai e Ibovespa sobe com foco em poss\u00EDvel cessar-fogo entre EUA e Ir\u00E3",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/06/dolar-ibovespa.ghtml",
       "date": "Mon, 06 Apr 2026 12:00:23 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/g1-explica/noticia/2026/04/06/como-navios-parados-do-outro-lado-do-mundo-atrapalham-a-sua-vida-aqui-no-brasil-g1-explica.ghtml",
       "date": "Mon, 06 Apr 2026 07:01:35 -0000"
-    },
-    {
-      "title": "Presidente da Col\u00F4mbia defende PIX ap\u00F3s cr\u00EDticas dos EUA: \u0027Pe\u00E7o ao Brasil que estenda o sistema\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/06/presidente-da-colombia-defende-pix.ghtml",
-      "date": "Mon, 06 Apr 2026 04:54:48 -0000"
     }
   ]
 }
