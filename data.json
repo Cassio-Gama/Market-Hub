@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 188191.83,
-      "change": 0.07,
-      "changeStr": "\u002B0.07%"
+      "price": 188161.97,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.8,
-      "change": 1.35,
-      "changeStr": "\u002B1.35%"
+      "price": 48.94,
+      "change": 1.64,
+      "changeStr": "\u002B1.64%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.14,
-      "change": -0.49,
-      "changeStr": "-0.49%"
+      "price": 83.09,
+      "change": -0.55,
+      "changeStr": "-0.55%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.44,
-      "change": 0.32,
-      "changeStr": "\u002B0.32%"
+      "price": 43.49,
+      "change": 0.44,
+      "changeStr": "\u002B0.44%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.3,
-      "change": 0.94,
-      "changeStr": "\u002B0.94%"
+      "price": 19.33,
+      "change": 1.1,
+      "changeStr": "\u002B1.10%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.45,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 23.43,
+      "change": 0.17,
+      "changeStr": "\u002B0.17%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.79,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 8.82,
+      "change": 0.8,
+      "changeStr": "\u002B0.80%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.5,
-      "change": 1.44,
-      "changeStr": "\u002B1.44%"
+      "price": 15.45,
+      "change": 1.11,
+      "changeStr": "\u002B1.11%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.79,
-      "change": 0.95,
-      "changeStr": "\u002B0.95%"
+      "price": 50.62,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     }
   ],
   "news": [
+    {
+      "title": "Governo zera imposto sobre querosene de avia\u00E7\u00E3o para tentar conter alta das passagens a\u00E9reas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/politico/ao-vivo/coletiva-governo-medidas-combustiveis.ghtml",
+      "date": "Mon, 06 Apr 2026 20:34:40 -0000"
+    },
+    {
+      "title": "Governo anuncia subven\u00E7\u00E3o \u00E0 importa\u00E7\u00E3o de g\u00E1s liquefeito para reduzir impacto da guerra sobre o pre\u00E7o do botij\u00E3o ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/04/06/governo-anuncia-subvencao-a-importacao-de-gas-liquefeito-para-reduzir-impacto-sobre-o-preco-do-botijao.ghtml",
+      "date": "Mon, 06 Apr 2026 20:34:28 -0000"
+    },
+    {
+      "title": "Carne de paca: post em que Janja prepara prato para Lula gera d\u00FAvidas sobre consumo; entenda regras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/06/carne-paca-post-janja.ghtml",
+      "date": "Mon, 06 Apr 2026 19:46:14 -0000"
+    },
+    {
+      "title": "Governo zera PIS e Cofins sobre o combust\u00EDvel de avia\u00E7\u00E3o para conter alta do pre\u00E7o das passagens a\u00E9reas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/06/governo-lanca-medidas-para-conter-aumento-do-querosene-de-aviacao-alta-deve-elevar-preco-de-passagens-aereas.ghtml",
+      "date": "Mon, 06 Apr 2026 19:34:05 -0000"
+    },
+    {
+      "title": "Governo anuncia pacote de medidas para tentar frear alta nos pre\u00E7os de combust\u00EDveis",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/06/governo-medidas-preco-combustivel.ghtml",
+      "date": "Mon, 06 Apr 2026 19:25:36 -0000"
+    },
+    {
+      "title": "Leapmotor ter\u00E1 modelos B10 e C10 produzidos pela Stellantis em Pernambuco",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/06/leapmotor-tera-veiculos-produzidos-pela-stellantis-em-pernambuco.ghtml",
+      "date": "Mon, 06 Apr 2026 19:08:46 -0000"
+    },
     {
       "title": "Apple, 50 anos: 3 sucessos e 3 fracassos da empresa em sua hist\u00F3ria",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/06/tribunal-italiano-ordena-netflix-a-reembolsar-clientes-por-reajustes-ilegais.ghtml",
       "date": "Mon, 06 Apr 2026 14:58:38 -0000"
-    },
-    {
-      "title": "Volkswagen lan\u00E7a T-Cross Sele\u00E7\u00E3o por R$ 129.990; veja tudo da edi\u00E7\u00E3o limitada do SUV",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/06/volkswagen-lanca-t-cross-selecao-por-r-129990-veja-tudo-da-edicao-limitada-do-suv.ghtml",
-      "date": "Mon, 06 Apr 2026 14:00:41 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo sobe ap\u00F3s Ir\u00E3 e EUA rejeitarem proposta de cessar-fogo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/06/cotacao-petroleo.ghtml",
-      "date": "Mon, 06 Apr 2026 13:14:24 -0000"
-    },
-    {
-      "title": "BYD Dolphin ganha vers\u00E3o mais potente e maior para enfrentar rivais como a Chevrolet no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/06/byd-dolphin-2027-preco.ghtml",
-      "date": "Mon, 06 Apr 2026 12:26:41 -0000"
-    },
-    {
-      "title": "Benefici\u00E1rios de programas sociais sem cadastro biom\u00E9trico ganham mais prazo para fazer nova identidade",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/06/beneficiarios-de-programas-sociais-sem-cadastro-biometrico-ganham-mais-prazo-para-fazer-nova-carteira-de-identidade.ghtml",
-      "date": "Mon, 06 Apr 2026 12:03:53 -0000"
-    },
-    {
-      "title": "D\u00F3lar cai e Ibovespa sobe com foco em poss\u00EDvel cessar-fogo entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/06/dolar-ibovespa.ghtml",
-      "date": "Mon, 06 Apr 2026 12:00:23 -0000"
-    },
-    {
-      "title": "Em meio a guerra, analistas do mercado sobem estimativa de infla\u00E7\u00E3o pela 4\u00AA semana seguida",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/06/com-guerra-no-oriente-medio-analistas-do-mercado-sobem-estimativa-de-inflacao-pela-4a-semana-seguida.ghtml",
-      "date": "Mon, 06 Apr 2026 11:28:58 -0000"
     }
   ]
 }
