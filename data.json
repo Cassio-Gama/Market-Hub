@@ -1,55 +1,67 @@
 {
   "slider": [
     {
+      "symbol": "^BVSP",
+      "price": 188038.3,
+      "change": -0.01,
+      "changeStr": "-0.01%"
+    },
+    {
       "symbol": "PETR4",
-      "price": 48.63,
-      "change": 1,
-      "changeStr": "\u002B1.00%"
+      "price": 48.75,
+      "change": 1.25,
+      "changeStr": "\u002B1.25%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.27,
-      "change": -0.34,
-      "changeStr": "-0.34%"
+      "price": 82.97,
+      "change": -0.69,
+      "changeStr": "-0.69%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.52,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
+      "price": 43.33,
+      "change": 0.07,
+      "changeStr": "\u002B0.07%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.35,
-      "change": 1.2,
-      "changeStr": "\u002B1.20%"
+      "price": 19.29,
+      "change": 0.89,
+      "changeStr": "\u002B0.89%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.52,
-      "change": 0.56,
-      "changeStr": "\u002B0.56%"
+      "price": 23.45,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.77,
-      "change": 0.23,
-      "changeStr": "\u002B0.23%"
+      "price": 8.69,
+      "change": -0.69,
+      "changeStr": "-0.69%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.45,
-      "change": 1.11,
-      "changeStr": "\u002B1.11%"
+      "price": 15.41,
+      "change": 0.85,
+      "changeStr": "\u002B0.85%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.83,
-      "change": 1.03,
-      "changeStr": "\u002B1.03%"
+      "price": 50.58,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     }
   ],
   "news": [
+    {
+      "title": "Apple, 50 anos: 3 sucessos e 3 fracassos da empresa em sua hist\u00F3ria",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/06/apple-50-anos-3-sucessos-e-3-fracassos-da-empresa-em-sua-historia.ghtml",
+      "date": "Mon, 06 Apr 2026 17:26:05 -0000"
+    },
     {
       "title": "Colheita de soja chega a 82% da \u00E1rea no Brasil, enquanto milho sofre com clima seco",
       "source": "G1 Economia",
@@ -103,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/06/com-guerra-no-oriente-medio-analistas-do-mercado-sobem-estimativa-de-inflacao-pela-4a-semana-seguida.ghtml",
       "date": "Mon, 06 Apr 2026 11:28:58 -0000"
-    },
-    {
-      "title": "Programas sociais turbinados e isen\u00E7\u00E3o do IR: os bilh\u00F5es que Lula vai injetar na economia em ano eleitoral",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/06/programas-sociais-turbinados-e-isencao-do-ir-os-bilhoes-que-lula-vai-injetar-na-economia-em-ano-eleitoral.ghtml",
-      "date": "Mon, 06 Apr 2026 11:22:47 -0000"
     }
   ]
 }
