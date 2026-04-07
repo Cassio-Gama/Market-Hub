@@ -2,68 +2,104 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 188161.97,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 187454.27,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.94,
-      "change": 1.64,
-      "changeStr": "\u002B1.64%"
+      "price": 49.23,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.09,
-      "change": -0.55,
-      "changeStr": "-0.55%"
+      "price": 83.37,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.49,
-      "change": 0.44,
-      "changeStr": "\u002B0.44%"
+      "price": 43.13,
+      "change": -0.83,
+      "changeStr": "-0.83%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.33,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
+      "price": 18.96,
+      "change": -1.91,
+      "changeStr": "-1.91%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.43,
-      "change": 0.17,
-      "changeStr": "\u002B0.17%"
+      "price": 23.26,
+      "change": -0.73,
+      "changeStr": "-0.73%"
     },
     {
       "symbol": "MGLU3",
       "price": 8.82,
-      "change": 0.8,
-      "changeStr": "\u002B0.80%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.45,
-      "change": 1.11,
-      "changeStr": "\u002B1.11%"
+      "price": 15.28,
+      "change": -1.1,
+      "changeStr": "-1.10%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.62,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 49.99,
+      "change": -1.24,
+      "changeStr": "-1.24%"
     }
   ],
   "news": [
     {
-      "title": "Pershing Square prop\u00F5e a aquisi\u00E7\u00E3o da Universal Music Group por US$ 64 bilh\u00F5es",
+      "title": "Crise atual de petr\u00F3leo e g\u00E1s \u00E9 pior do que as de 1973, 1979 e 2022 juntas, diz chefe de ag\u00EAncia internacional",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/07/crise-atual-de-petroleo-e-gas-e-pior-do-que-as-de-1973-1979-e-2022-juntas-diz-chefe-de-agencia-internacional.ghtml",
+      "date": "Tue, 07 Apr 2026 13:34:18 -0000"
+    },
+    {
+      "title": "Segundo leil\u00E3o de transmiss\u00E3o de energia do ano entra em consulta, com projeto Brasil-Col\u00F4mbia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/07/segundo-leilao-de-transmissao-de-energia-do-ano-entra-em-consulta-com-projeto-brasil-colombia.ghtml",
+      "date": "Tue, 07 Apr 2026 13:34:00 -0000"
+    },
+    {
+      "title": "Recall no Brasil: Ford Maverick e Ford F-150 t\u00EAm poss\u00EDvel falha em freio do reboque",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/07/recall-no-brasil-ford-maverick-e-ford-f-150-tem-possivel-falha-em-freio-do-reboque.ghtml",
+      "date": "Tue, 07 Apr 2026 12:45:50 -0000"
+    },
+    {
+      "title": "D\u00F3lar sobe com mercado atento ao ultimato de Trump sobre Ormuz; Ibovespa recua",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/07/dolar-ibovespa.ghtml",
+      "date": "Tue, 07 Apr 2026 12:00:21 -0000"
+    },
+    {
+      "title": "Governo indica Guilherme Santos Mello para conselho da Petrobras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/07/governo-indica-guilherme-santos-mello-para-conselho-da-petrobras.ghtml",
+      "date": "Tue, 07 Apr 2026 11:45:18 -0000"
+    },
+    {
+      "title": "Pre\u00E7o do petr\u00F3leo sobe em dia de ultimato de Trump para que Ir\u00E3 reabra Estreito de Ormuz ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/07/preco-do-petroleo-terca-7-de-abril.ghtml",
+      "date": "Tue, 07 Apr 2026 11:28:49 -0000"
+    },
+    {
+      "title": "Fundo de Bill Ackman prop\u00F5e aquisi\u00E7\u00E3o da Universal Music por US$ 64 bilh\u00F5es",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/07/pershing-square-universal-music-group.ghtml",
       "date": "Tue, 07 Apr 2026 10:45:22 -0000"
     },
     {
-      "title": "\u0027Lista suja\u0027 do trabalho escravo \u00E9 atualizada; Amado Batista e BYD s\u00E3o inclu\u00EDdos ",
+      "title": "Governo atualiza \u0027lista suja\u0027 do trabalho escravo e inclui Amado Batista e BYD",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/07/lista-suja-do-trabalho-escravo-e-atualizada-veja-quem-entrou.ghtml",
       "date": "Tue, 07 Apr 2026 10:14:56 -0000"
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/04/07/mega-sena-pode-pagar-r-15-milhoes-nesta-terca-feira.ghtml",
       "date": "Tue, 07 Apr 2026 03:01:20 -0000"
-    },
-    {
-      "title": "\u0027Project Maven\u0027: como os EUA usam IA como tecnologia de guerra para lan\u00E7ar ataques letais em minutos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/07/project-maven-como-os-eua-usam-ia-como-tecnologia-de-guerra-para-lancar-ataques-letais-em-minutos.ghtml",
-      "date": "Tue, 07 Apr 2026 03:01:13 -0000"
-    },
-    {
-      "title": "Governo zera impostos do combust\u00EDvel de avia\u00E7\u00E3o: o que pode acontecer com as passagens a\u00E9reas?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/07/governo-zera-impostos-do-combustivel-de-aviacao-o-que-pode-acontecer-com-as-passagens-aereas.ghtml",
-      "date": "Tue, 07 Apr 2026 03:01:08 -0000"
-    },
-    {
-      "title": "O pacote do governo Lula contra alta do diesel e outros combust\u00EDveis em 5 pontos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/07/o-pacote-do-governo-lula-contra-alta-do-diesel-e-outros-combustiveis-em-5-pontos.ghtml",
-      "date": "Tue, 07 Apr 2026 03:01:06 -0000"
-    },
-    {
-      "title": "Imposto de Renda 2026: declara\u00E7\u00E3o online ou programa no computador? Veja diferen\u00E7as",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/04/07/imposto-de-renda-2026-declaracao-online-ou-programa-no-computador-veja-diferencas.ghtml",
-      "date": "Tue, 07 Apr 2026 03:00:42 -0000"
-    },
-    {
-      "title": "Petrobras anuncia Marcelo Weick como presidente do conselho de administra\u00E7\u00E3o at\u00E9 escolha de nome definitivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/06/petrobras-anuncia-marcelo-weick-como-novo-presidente-do-conselho-de-administracao.ghtml",
-      "date": "Mon, 06 Apr 2026 23:46:22 -0000"
-    },
-    {
-      "title": "Medidas para frear alta dos combust\u00EDveis custar\u00E3o R$ 30,5 bilh\u00F5es; governo decide mexer na tributa\u00E7\u00E3o dos cigarros para compensar parte dos gastos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/06/medidas-para-frear-alta-dos-combustiveis-custarao-r-305-bilhoes-governo-decide-mexer-na-tributacao-dos-cigarros-para-compensar-parte-dos-gastos.ghtml",
-      "date": "Mon, 06 Apr 2026 22:26:33 -0000"
     }
   ]
 }
