@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187454.27,
-      "change": -0.38,
-      "changeStr": "-0.38%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 49.23,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 83.37,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 43.13,
-      "change": -0.83,
-      "changeStr": "-0.83%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 18.96,
-      "change": -1.91,
-      "changeStr": "-1.91%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 23.26,
+      "price": 186797.67,
       "change": -0.73,
       "changeStr": "-0.73%"
     },
     {
+      "symbol": "PETR4",
+      "price": 49.35,
+      "change": 0.84,
+      "changeStr": "\u002B0.84%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 83.05,
+      "change": -0.05,
+      "changeStr": "-0.05%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 42.94,
+      "change": -1.26,
+      "changeStr": "-1.26%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 18.89,
+      "change": -2.28,
+      "changeStr": "-2.28%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 23.21,
+      "change": -0.94,
+      "changeStr": "-0.94%"
+    },
+    {
       "symbol": "MGLU3",
-      "price": 8.82,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 8.64,
+      "change": -2.04,
+      "changeStr": "-2.04%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.28,
-      "change": -1.1,
-      "changeStr": "-1.10%"
+      "price": 15.31,
+      "change": -0.91,
+      "changeStr": "-0.91%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.99,
-      "change": -1.24,
-      "changeStr": "-1.24%"
+      "price": 50.04,
+      "change": -1.15,
+      "changeStr": "-1.15%"
     }
   ],
   "news": [
+    {
+      "title": "Brasil n\u00E3o \u00E9 o \u00FAnico agindo para conter efeitos da guerra: veja o que outros pa\u00EDses est\u00E3o fazendo, alguns com medidas inusitadas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/07/brasil-nao-e-o-unico-agindo-para-conter-efeitos-da-guerra-veja-o-que-outros-paises-estao-fazendo-alguns-com-medidas-inusitadas.ghtml",
+      "date": "Tue, 07 Apr 2026 14:51:22 -0000"
+    },
+    {
+      "title": "FGC inicia pagamento a 312 mil credores do Will Bank que t\u00EAm mais de R$ 1 mil a receber; valor total soma R$ 6 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/07/fgc-inicia-pagamento-a-312-mil-credores-do-will-bank-que-tem-mais-de-r-1-mil-a-receber-valor-soma-r-6-bilhoes.ghtml",
+      "date": "Tue, 07 Apr 2026 14:44:41 -0000"
+    },
     {
       "title": "Crise atual de petr\u00F3leo e g\u00E1s \u00E9 pior do que as de 1973, 1979 e 2022 juntas, diz chefe de ag\u00EAncia internacional",
       "source": "G1 Economia",
@@ -63,7 +75,7 @@
       "date": "Tue, 07 Apr 2026 13:34:18 -0000"
     },
     {
-      "title": "Segundo leil\u00E3o de transmiss\u00E3o de energia do ano entra em consulta, com projeto Brasil-Col\u00F4mbia",
+      "title": "Projeto de interliga\u00E7\u00E3o Brasil\u2013Col\u00F4mbia entra em consulta p\u00FAblica em novo leil\u00E3o de energia",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/07/segundo-leilao-de-transmissao-de-energia-do-ano-entra-em-consulta-com-projeto-brasil-colombia.ghtml",
       "date": "Tue, 07 Apr 2026 13:34:00 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/07/lista-suja-do-trabalho-escravo-e-atualizada-veja-quem-entrou.ghtml",
       "date": "Tue, 07 Apr 2026 10:14:56 -0000"
-    },
-    {
-      "title": "Picanha brasileira entra em ranking internacional de melhores pratos do mundo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/07/picanha-brasileira-entra-em-ranking-internacional-de-melhores-pratos-do-mundo.ghtml",
-      "date": "Tue, 07 Apr 2026 06:01:08 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 15 milh\u00F5es nesta ter\u00E7a-feira",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/04/07/mega-sena-pode-pagar-r-15-milhoes-nesta-terca-feira.ghtml",
-      "date": "Tue, 07 Apr 2026 03:01:20 -0000"
     }
   ]
 }
