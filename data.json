@@ -1,61 +1,85 @@
 {
   "slider": [
     {
-      "symbol": "^BVSP",
-      "price": 187444.48,
-      "change": -0.38,
-      "changeStr": "-0.38%"
-    },
-    {
       "symbol": "PETR4",
-      "price": 48.69,
-      "change": -0.51,
-      "changeStr": "-0.51%"
+      "price": 48.74,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.31,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 83.16,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.13,
-      "change": -0.83,
-      "changeStr": "-0.83%"
+      "price": 43.08,
+      "change": -0.94,
+      "changeStr": "-0.94%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19,
-      "change": -1.71,
-      "changeStr": "-1.71%"
+      "price": 18.96,
+      "change": -1.91,
+      "changeStr": "-1.91%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.23,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 23.2,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.72,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 8.61,
+      "change": -2.38,
+      "changeStr": "-2.38%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.34,
-      "change": -0.71,
-      "changeStr": "-0.71%"
+      "price": 15.32,
+      "change": -0.84,
+      "changeStr": "-0.84%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.22,
-      "change": -0.79,
-      "changeStr": "-0.79%"
+      "price": 50.07,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     }
   ],
   "news": [
+    {
+      "title": "Fam\u00EDlia Vorcaro \u00E9 processada por d\u00EDvida de R$ 12 milh\u00F5es ap\u00F3s venda do Grupo Promed",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/04/07/familia-vorcaro-e-processada-por-divida-de-r-12-milhoes-apos-venda-do-grupo-promed.ghtml",
+      "date": "Tue, 07 Apr 2026 19:02:37 -0000"
+    },
+    {
+      "title": "Governo avalia liberar parte do FGTS para o pagamento de d\u00EDvidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/04/07/governo-avalia-liberar-parte-do-fgts-para-o-pagamento-de-dividas.ghtml",
+      "date": "Tue, 07 Apr 2026 18:33:42 -0000"
+    },
+    {
+      "title": "Endividamento das fam\u00EDlias chega a 80,4% e atinge novo recorde, diz CNC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/07/endividamento-familias-cnc.ghtml",
+      "date": "Tue, 07 Apr 2026 18:27:36 -0000"
+    },
+    {
+      "title": "Balan\u00E7a comercial tem super\u00E1vit de US$ 6,4 bilh\u00F5es em mar\u00E7o, pior resultado para o m\u00EAs em seis anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/07/balanca-comercial-tem-superavit-de-us-64-bilhoes-em-marco-pior-resultado-para-o-mes-em-seis-anos.ghtml",
+      "date": "Tue, 07 Apr 2026 18:00:33 -0000"
+    },
+    {
+      "title": "Google adiciona recursos ao Gemini ap\u00F3s processo por suic\u00EDdio de usu\u00E1rio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/07/google-adiciona-recursos-ao-gemini-apos-processo-por-suicidio-de-usuario.ghtml",
+      "date": "Tue, 07 Apr 2026 17:18:16 -0000"
+    },
     {
       "title": "Golpistas criam p\u00E1ginas falsas para vender ingressos de shows do BTS no Brasil; veja como se proteger",
       "source": "G1 Economia",
@@ -85,36 +109,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/07/fgc-inicia-pagamento-a-312-mil-credores-do-will-bank-que-tem-mais-de-r-1-mil-a-receber-valor-soma-r-6-bilhoes.ghtml",
       "date": "Tue, 07 Apr 2026 14:44:41 -0000"
-    },
-    {
-      "title": "Crise do petr\u00F3leo e g\u00E1s supera as de 1973, 1979 e 2022, diz chefe de ag\u00EAncia internacional",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/07/crise-atual-de-petroleo-e-gas-e-pior-do-que-as-de-1973-1979-e-2022-juntas-diz-chefe-de-agencia-internacional.ghtml",
-      "date": "Tue, 07 Apr 2026 13:34:18 -0000"
-    },
-    {
-      "title": "Projeto de interliga\u00E7\u00E3o Brasil\u2013Col\u00F4mbia entra em consulta p\u00FAblica em novo leil\u00E3o de energia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/07/segundo-leilao-de-transmissao-de-energia-do-ano-entra-em-consulta-com-projeto-brasil-colombia.ghtml",
-      "date": "Tue, 07 Apr 2026 13:34:00 -0000"
-    },
-    {
-      "title": "Recall no Brasil: Ford Maverick e Ford F-150 t\u00EAm poss\u00EDvel falha em freio do reboque",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/07/recall-no-brasil-ford-maverick-e-ford-f-150-tem-possivel-falha-em-freio-do-reboque.ghtml",
-      "date": "Tue, 07 Apr 2026 12:45:50 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe com mercado atento ao ultimato de Trump sobre Ormuz; Ibovespa recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/07/dolar-ibovespa.ghtml",
-      "date": "Tue, 07 Apr 2026 12:00:21 -0000"
-    },
-    {
-      "title": "Governo indica Guilherme Santos Mello para conselho da Petrobras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/07/governo-indica-guilherme-santos-mello-para-conselho-da-petrobras.ghtml",
-      "date": "Tue, 07 Apr 2026 11:45:18 -0000"
     }
   ]
 }
