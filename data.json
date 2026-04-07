@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186797.67,
-      "change": -0.73,
-      "changeStr": "-0.73%"
+      "price": 187444.48,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.35,
-      "change": 0.84,
-      "changeStr": "\u002B0.84%"
+      "price": 48.69,
+      "change": -0.51,
+      "changeStr": "-0.51%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.05,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 83.31,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.94,
-      "change": -1.26,
-      "changeStr": "-1.26%"
+      "price": 43.13,
+      "change": -0.83,
+      "changeStr": "-0.83%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.89,
-      "change": -2.28,
-      "changeStr": "-2.28%"
+      "price": 19,
+      "change": -1.71,
+      "changeStr": "-1.71%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.21,
-      "change": -0.94,
-      "changeStr": "-0.94%"
+      "price": 23.23,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.64,
-      "change": -2.04,
-      "changeStr": "-2.04%"
+      "price": 8.72,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.31,
-      "change": -0.91,
-      "changeStr": "-0.91%"
+      "price": 15.34,
+      "change": -0.71,
+      "changeStr": "-0.71%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.04,
-      "change": -1.15,
-      "changeStr": "-1.15%"
+      "price": 50.22,
+      "change": -0.79,
+      "changeStr": "-0.79%"
     }
   ],
   "news": [
+    {
+      "title": "Golpistas criam p\u00E1ginas falsas para vender ingressos de shows do BTS no Brasil; veja como se proteger",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/07/golpistas-criam-paginas-falsas-para-vender-ingressos-de-shows-do-bts-no-brasil-veja-como-se-proteger.ghtml",
+      "date": "Tue, 07 Apr 2026 17:00:17 -0000"
+    },
+    {
+      "title": "Venda de ve\u00EDculos novos surpreende em mar\u00E7o e dispara para quase 270 mil unidades",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/07/venda-de-veiculos-novos-em-marco.ghtml",
+      "date": "Tue, 07 Apr 2026 16:51:10 -0000"
+    },
+    {
+      "title": "Caixa Tem passa por atualiza\u00E7\u00E3o de seguran\u00E7a e usu\u00E1rios relatam dificuldades de acesso",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/07/caixa-tem-atualizacao-de-seguranca-usuarios-relatam-dificuldades-de-acesso.ghtml",
+      "date": "Tue, 07 Apr 2026 16:11:10 -0000"
+    },
     {
       "title": "Brasil n\u00E3o \u00E9 o \u00FAnico agindo para conter efeitos da guerra: veja o que outros pa\u00EDses est\u00E3o fazendo, alguns com medidas inusitadas",
       "source": "G1 Economia",
@@ -69,7 +87,7 @@
       "date": "Tue, 07 Apr 2026 14:44:41 -0000"
     },
     {
-      "title": "Crise atual de petr\u00F3leo e g\u00E1s \u00E9 pior do que as de 1973, 1979 e 2022 juntas, diz chefe de ag\u00EAncia internacional",
+      "title": "Crise do petr\u00F3leo e g\u00E1s supera as de 1973, 1979 e 2022, diz chefe de ag\u00EAncia internacional",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/07/crise-atual-de-petroleo-e-gas-e-pior-do-que-as-de-1973-1979-e-2022-juntas-diz-chefe-de-agencia-internacional.ghtml",
       "date": "Tue, 07 Apr 2026 13:34:18 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/07/governo-indica-guilherme-santos-mello-para-conselho-da-petrobras.ghtml",
       "date": "Tue, 07 Apr 2026 11:45:18 -0000"
-    },
-    {
-      "title": "Pre\u00E7o do petr\u00F3leo sobe em dia de ultimato de Trump para que Ir\u00E3 reabra Estreito de Ormuz ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/07/preco-do-petroleo-terca-7-de-abril.ghtml",
-      "date": "Tue, 07 Apr 2026 11:28:49 -0000"
-    },
-    {
-      "title": "Fundo de Bill Ackman prop\u00F5e aquisi\u00E7\u00E3o da Universal Music por US$ 64 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/07/pershing-square-universal-music-group.ghtml",
-      "date": "Tue, 07 Apr 2026 10:45:22 -0000"
-    },
-    {
-      "title": "Governo atualiza \u0027lista suja\u0027 do trabalho escravo e inclui Amado Batista e BYD",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/07/lista-suja-do-trabalho-escravo-e-atualizada-veja-quem-entrou.ghtml",
-      "date": "Tue, 07 Apr 2026 10:14:56 -0000"
     }
   ]
 }
