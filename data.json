@@ -1,55 +1,73 @@
 {
   "slider": [
     {
+      "symbol": "^BVSP",
+      "price": 188258.9,
+      "change": 0.05,
+      "changeStr": "\u002B0.05%"
+    },
+    {
       "symbol": "PETR4",
-      "price": 48.74,
-      "change": -0.41,
-      "changeStr": "-0.41%"
+      "price": 48.51,
+      "change": -0.88,
+      "changeStr": "-0.88%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.16,
-      "change": 0.08,
-      "changeStr": "\u002B0.08%"
+      "price": 83.69,
+      "change": 0.72,
+      "changeStr": "\u002B0.72%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.08,
-      "change": -0.94,
-      "changeStr": "-0.94%"
+      "price": 43.46,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.96,
-      "change": -1.91,
-      "changeStr": "-1.91%"
+      "price": 19.21,
+      "change": -0.62,
+      "changeStr": "-0.62%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.2,
-      "change": -0.98,
-      "changeStr": "-0.98%"
+      "price": 23.44,
+      "change": 0.04,
+      "changeStr": "\u002B0.04%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.61,
-      "change": -2.38,
-      "changeStr": "-2.38%"
+      "price": 8.78,
+      "change": -0.45,
+      "changeStr": "-0.45%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.32,
-      "change": -0.84,
-      "changeStr": "-0.84%"
+      "price": 15.48,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.07,
-      "change": -1.09,
-      "changeStr": "-1.09%"
+      "price": 50.65,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     }
   ],
   "news": [
+    {
+      "title": "Hackers iranianos miram ataques \u00E0 infraestrutura cr\u00EDtica dos EUA, alertam ag\u00EAncias americanas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/07/ataque-hacker-infraestrutura-eua.ghtml",
+      "date": "Tue, 07 Apr 2026 20:48:59 -0000"
+    },
+    {
+      "title": "Escala 6x1: Motta diz que proposta dever\u00E1 ser votada na semana que vem na CCJ; governo cogitou propor novo texto",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/04/07/escala-6x1-motta-diz-que-proposta-devera-ser-votada-na-semana-que-vem-na-ccj-governo-cogitou-propor-novo-texto.ghtml",
+      "date": "Tue, 07 Apr 2026 19:45:03 -0000"
+    },
     {
       "title": "Fam\u00EDlia Vorcaro \u00E9 processada por d\u00EDvida de R$ 12 milh\u00F5es ap\u00F3s venda do Grupo Promed",
       "source": "G1 Economia",
@@ -63,7 +81,7 @@
       "date": "Tue, 07 Apr 2026 18:33:42 -0000"
     },
     {
-      "title": "Endividamento das fam\u00EDlias chega a 80,4% e atinge novo recorde, diz CNC",
+      "title": "Endividamento atinge 80,4% das fam\u00EDlias e bate novo recorde, diz CNC",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/07/endividamento-familias-cnc.ghtml",
       "date": "Tue, 07 Apr 2026 18:27:36 -0000"
@@ -97,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/07/caixa-tem-atualizacao-de-seguranca-usuarios-relatam-dificuldades-de-acesso.ghtml",
       "date": "Tue, 07 Apr 2026 16:11:10 -0000"
-    },
-    {
-      "title": "Brasil n\u00E3o \u00E9 o \u00FAnico agindo para conter efeitos da guerra: veja o que outros pa\u00EDses est\u00E3o fazendo, alguns com medidas inusitadas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/07/brasil-nao-e-o-unico-agindo-para-conter-efeitos-da-guerra-veja-o-que-outros-paises-estao-fazendo-alguns-com-medidas-inusitadas.ghtml",
-      "date": "Tue, 07 Apr 2026 14:51:22 -0000"
-    },
-    {
-      "title": "FGC inicia pagamento a 312 mil credores do Will Bank que t\u00EAm mais de R$ 1 mil a receber; valor total soma R$ 6 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/07/fgc-inicia-pagamento-a-312-mil-credores-do-will-bank-que-tem-mais-de-r-1-mil-a-receber-valor-soma-r-6-bilhoes.ghtml",
-      "date": "Tue, 07 Apr 2026 14:44:41 -0000"
     }
   ]
 }
