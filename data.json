@@ -2,65 +2,95 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 192529.61,
-      "change": 2.27,
-      "changeStr": "\u002B2.27%"
+      "price": 191957.19,
+      "change": 1.96,
+      "changeStr": "\u002B1.96%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.77,
-      "change": -5.65,
-      "changeStr": "-5.65%"
+      "price": 46.46,
+      "change": -4.23,
+      "changeStr": "-4.23%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.87,
-      "change": 2.6,
-      "changeStr": "\u002B2.60%"
+      "price": 85.61,
+      "change": 2.29,
+      "changeStr": "\u002B2.29%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.05,
-      "change": 3.66,
-      "changeStr": "\u002B3.66%"
+      "price": 44.84,
+      "change": 3.18,
+      "changeStr": "\u002B3.18%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.19,
-      "change": 5.1,
-      "changeStr": "\u002B5.10%"
+      "price": 20.04,
+      "change": 4.32,
+      "changeStr": "\u002B4.32%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.57,
-      "change": 4.82,
-      "changeStr": "\u002B4.82%"
+      "price": 24.19,
+      "change": 3.2,
+      "changeStr": "\u002B3.20%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.3,
-      "change": 5.92,
-      "changeStr": "\u002B5.92%"
+      "price": 9.05,
+      "change": 3.08,
+      "changeStr": "\u002B3.08%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.92,
-      "change": 2.84,
-      "changeStr": "\u002B2.84%"
+      "price": 15.88,
+      "change": 2.58,
+      "changeStr": "\u002B2.58%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.52,
-      "change": 3.69,
-      "changeStr": "\u002B3.69%"
+      "price": 52.58,
+      "change": 3.81,
+      "changeStr": "\u002B3.81%"
     }
   ],
   "news": [
+    {
+      "title": "Conflito no Oriente M\u00E9dio derruba exporta\u00E7\u00F5es de carne bovina e de frango para a regi\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/08/conflito-no-oriente-medio-derruba-exportacoes-de-carne-bovina-e-de-frango-para-a-regiao.ghtml",
+      "date": "Wed, 08 Apr 2026 19:12:01 -0000"
+    },
+    {
+      "title": "Meta revela Muse Spark, primeiro modelo de IA de sua equipe de superintelig\u00EAncia; veja como ele funciona",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/08/meta-revela-muse-spark-primeiro-modelo-de-ia-de-sua-equipe-de-superinteligencia.ghtml",
+      "date": "Wed, 08 Apr 2026 19:06:49 -0000"
+    },
+    {
+      "title": "TikTok construir\u00E1 segundo data center de 1 bilh\u00E3o de euros na Finl\u00E2ndia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/08/tiktok-construira-segundo-data-center-de-1-bilhao-de-euros-na-finlandia.ghtml",
+      "date": "Wed, 08 Apr 2026 18:37:14 -0000"
+    },
+    {
+      "title": "Guerra no Oriente prejudica exporta\u00E7\u00F5es de pimenta e caf\u00E9, e produtores t\u00EAm dificuldade de negociar produtos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/04/08/guerra-no-oriente-prejudica-exportacoes-de-pimenta-e-cafe-e-produtores-tem-dificuldade-de-negociar-produtos.ghtml",
+      "date": "Wed, 08 Apr 2026 17:45:23 -0000"
+    },
     {
       "title": "WhatsApp, Instagram e Facebook registram instabilidade nesta quarta (8)",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/04/08/whatsapp-instagram-e-facebook-registram-instabilidade-nesta-quarta-8.ghtml",
       "date": "Wed, 08 Apr 2026 16:54:58 -0000"
+    },
+    {
+      "title": "Pre\u00E7o dos ovos na quaresma \u00E9 o menor dos \u00FAltimos tr\u00EAs anos em polo produtor de SP, aponta USP",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/04/08/preco-do-ovos-na-quaresma-e-o-menor-dos-ultimos-tres-anos-em-polo-produtor-de-sp-aponta-usp.ghtml",
+      "date": "Wed, 08 Apr 2026 15:26:54 -0000"
     },
     {
       "title": "Conflito no Oriente M\u00E9dio amea\u00E7a espa\u00E7o para cortes de juros no Brasil",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/08/em-relatorio-sobre-america-latina-banco-mundial-diz-que-argentina-se-destaca-e-que-brasil-sofre-com-a-perda-de-dinamismo.ghtml",
       "date": "Wed, 08 Apr 2026 14:22:35 -0000"
-    },
-    {
-      "title": "Produ\u00E7\u00E3o de ve\u00EDculos no Brasil aumenta 27,6% no m\u00EAs e bate recorde de antes da pandemia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/08/producao-de-veiculos-no-brasil-bate-recorde-antes-de-pandemia-exportacoes-aumentam.ghtml",
-      "date": "Wed, 08 Apr 2026 14:00:33 -0000"
-    },
-    {
-      "title": "O que sucesso de assistente de IA na China diz sobre ambi\u00E7\u00F5es do pa\u00EDs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/08/o-que-sucesso-de-assistente-de-ia-na-china-diz-sobre-ambicoes-do-pais.ghtml",
-      "date": "Wed, 08 Apr 2026 13:33:05 -0000"
-    },
-    {
-      "title": "Crise de energia por guerra com o Ir\u00E3 n\u00E3o ser\u00E1 curta, diz Uni\u00E3o Europeia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/08/crise-de-energia-por-guerra-com-o-ira-nao-sera-curta-diz.ghtml",
-      "date": "Wed, 08 Apr 2026 13:28:17 -0000"
-    },
-    {
-      "title": "Shell sinaliza menor produ\u00E7\u00E3o de g\u00E1s em meio \u00E0 guerra no Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/08/shell-sinaliza-menor-producao-de-gas-em-meio-a-guerra-no-ira.ghtml",
-      "date": "Wed, 08 Apr 2026 13:18:54 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo despenca ap\u00F3s an\u00FAncio de cessar-fogo entre EUA e Ir\u00E3: como isso afeta o Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/08/petroleo-despenca-apos-anuncio-de-cessar-fogo-entre-eua-e-ira-como-isso-afeta-o-brasil.ghtml",
-      "date": "Wed, 08 Apr 2026 12:52:53 -0000"
     }
   ]
 }
