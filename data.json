@@ -2,62 +2,110 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 188258.9,
-      "change": 0.05,
-      "changeStr": "\u002B0.05%"
+      "price": 191900.1,
+      "change": 1.93,
+      "changeStr": "\u002B1.93%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.51,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "price": 44.9,
+      "change": -7.44,
+      "changeStr": "-7.44%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.69,
-      "change": 0.72,
-      "changeStr": "\u002B0.72%"
+      "price": 85.98,
+      "change": 2.74,
+      "changeStr": "\u002B2.74%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.46,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 45.39,
+      "change": 4.44,
+      "changeStr": "\u002B4.44%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.21,
-      "change": 0.66,
-      "changeStr": "\u002B0.66%"
+      "price": 20.2,
+      "change": 5.15,
+      "changeStr": "\u002B5.15%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.44,
-      "change": 0.04,
-      "changeStr": "\u002B0.04%"
+      "price": 24.68,
+      "change": 5.29,
+      "changeStr": "\u002B5.29%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.78,
-      "change": -0.45,
-      "changeStr": "-0.45%"
+      "price": 9.37,
+      "change": 6.72,
+      "changeStr": "\u002B6.72%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.48,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 15.83,
+      "change": 2.26,
+      "changeStr": "\u002B2.26%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.65,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 52.7,
+      "change": 4.05,
+      "changeStr": "\u002B4.05%"
     }
   ],
   "news": [
     {
-      "title": "Petr\u00F3leo despenca nesta quarta e vai abaixo de US$100 ap\u00F3s Trump anunciar cessar-fogo de duas semanas",
+      "title": "O que sucesso de assistente de IA na China diz sobre ambi\u00E7\u00F5es do pa\u00EDs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/08/o-que-sucesso-de-assistente-de-ia-na-china-diz-sobre-ambicoes-do-pais.ghtml",
+      "date": "Wed, 08 Apr 2026 13:33:05 -0000"
+    },
+    {
+      "title": "Crise de energia por guerra com o Ir\u00E3 n\u00E3o ser\u00E1 curta, diz Uni\u00E3o Europeia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/08/crise-de-energia-por-guerra-com-o-ira-nao-sera-curta-diz.ghtml",
+      "date": "Wed, 08 Apr 2026 13:28:17 -0000"
+    },
+    {
+      "title": "Shell sinaliza menor produ\u00E7\u00E3o de g\u00E1s em meio \u00E0 guerra no Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/08/shell-sinaliza-menor-producao-de-gas-em-meio-a-guerra-no-ira.ghtml",
+      "date": "Wed, 08 Apr 2026 13:18:54 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo despenca ap\u00F3s an\u00FAncio de cessar-fogo entre EUA e Ir\u00E3: como isso afeta o Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/08/petroleo-despenca-apos-anuncio-de-cessar-fogo-entre-eua-e-ira-como-isso-afeta-o-brasil.ghtml",
+      "date": "Wed, 08 Apr 2026 12:52:53 -0000"
+    },
+    {
+      "title": "Funcion\u00E1rio da Meta \u00E9 acusado de baixar 30 mil fotos privadas de usu\u00E1rios do Facebook",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/08/funcionario-da-meta-e-acusado-de-baixar-30-mil-fotos-privadas-de-usuarios-do-facebook.ghtml",
+      "date": "Wed, 08 Apr 2026 12:43:00 -0000"
+    },
+    {
+      "title": "Ibovespa dispara com cessar-fogo entre EUA e Ir\u00E3 no radar; d\u00F3lar cai a R$ 5,07",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/08/dolar-ibovespa.ghtml",
+      "date": "Wed, 08 Apr 2026 12:00:27 -0000"
+    },
+    {
+      "title": "Trump anuncia taxa\u00E7\u00E3o de 50% a pa\u00EDses que fornecerem armas ao Ir\u00E3 ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/04/08/trump-anuncia-taxacao-a-paises-que-fornecerem-armas-ao-ira.ghtml",
+      "date": "Wed, 08 Apr 2026 11:41:57 -0000"
+    },
+    {
+      "title": "Governo pro\u00EDbe venda da marca de azeite Afonso",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/08/governo-proibe-venda-da-marca-de-azeite-afonso.ghtml",
+      "date": "Wed, 08 Apr 2026 11:31:21 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo despenca mais de 15% e vai abaixo de US$ 100, ap\u00F3s Trump anunciar cessar-fogo de duas semanas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/08/petroleo-despenca-nesta-quarta-e-vai-abaixo-de-us100-apos-trump-anunciar-cessar-fogo-de-duas-semanas.ghtml",
       "date": "Wed, 08 Apr 2026 10:28:56 -0000"
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/08/china-reage-a-inclusao-da-montadora-de-carros-eletricos-byd-em-lista-suja-do-trabalho-escravo.ghtml",
       "date": "Wed, 08 Apr 2026 09:49:07 -0000"
-    },
-    {
-      "title": "A\u00E7\u00F5es europeias sobem com a onda de al\u00EDvio ap\u00F3s o cessar-fogo no Oriente M\u00E9dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/08/acoes-europeias-sobem-com-a-apos-o-cessar-fogo-no-oriente-medio.ghtml",
-      "date": "Wed, 08 Apr 2026 08:07:44 -0000"
-    },
-    {
-      "title": "ASAP, brainstorming, mindset: entenda os principais termos do \u2018corporativ\u00EAs\u2019",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/08/asap-brainstorming-mindset-entenda-os-principais-termos-do-corporatives.ghtml",
-      "date": "Wed, 08 Apr 2026 07:01:35 -0000"
-    },
-    {
-      "title": "Cria\u00E7\u00E3o de pacas para produ\u00E7\u00E3o de carne exige autoriza\u00E7\u00E3o ambiental; investimento pode chegar a R$ 400 mil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/04/08/criacao-de-pacas-para-producao-de-carne-exige-autorizacao-ambiental.ghtml",
-      "date": "Wed, 08 Apr 2026 06:00:59 -0000"
-    },
-    {
-      "title": "\u0027\u00C9 guerra, n\u00E3o gan\u00E2ncia\u0027: o que amea\u00E7a o pacote de Lula para segurar o pre\u00E7o do diesel",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/08/o-que-ameaca-o-pacote-de-lula-para-segurar-o-preco-do-diesel.ghtml",
-      "date": "Wed, 08 Apr 2026 06:00:37 -0000"
-    },
-    {
-      "title": "Governo adia novamente exig\u00EAncia de biometria para benef\u00EDcios sociais; veja novos prazos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/08/governo-adia-novamente-exigencia-de-biometria-para-beneficios-sociais-veja-novos-prazos.ghtml",
-      "date": "Wed, 08 Apr 2026 05:00:54 -0000"
-    },
-    {
-      "title": "Bolsas asi\u00E1ticas saltam ap\u00F3s queda nos pre\u00E7os do petr\u00F3leo em resposta ao cessar-fogo no Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/08/bolsas-asiaticas-saltam-apos-queda-nos-precos-do-petroleo-em-resposta-ao-cessar-fogo-no-ira.ghtml",
-      "date": "Wed, 08 Apr 2026 04:56:24 -0000"
-    },
-    {
-      "title": "Governo publica MP com medidas para tentar frear alta nos pre\u00E7os de combust\u00EDveis",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/08/governo-publica-mp-com-medidas-para-tentar-frear-alta-nos-precos-de-combustiveis.ghtml",
-      "date": "Wed, 08 Apr 2026 03:20:52 -0000"
-    },
-    {
-      "title": "D\u00F3lar fraco ou real forte? Entenda por que a moeda americana est\u00E1 caindo no ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/04/08/dolar-fraco-ou-real-forte-entenda-por-que-a-moeda-americana-esta-caindo-no-ano.ghtml",
-      "date": "Wed, 08 Apr 2026 03:01:11 -0000"
     }
   ]
 }
