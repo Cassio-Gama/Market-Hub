@@ -27,8 +27,8 @@
     {
       "symbol": "BBDC4",
       "price": 19.21,
-      "change": -0.62,
-      "changeStr": "-0.62%"
+      "change": 0.66,
+      "changeStr": "\u002B0.66%"
     },
     {
       "symbol": "BBAS3",
@@ -56,6 +56,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Petr\u00F3leo despenca nesta quarta e vai abaixo de US$100 ap\u00F3s Trump anunciar cessar-fogo de duas semanas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/08/petroleo-despenca-nesta-quarta-e-vai-abaixo-de-us100-apos-trump-anunciar-cessar-fogo-de-duas-semanas.ghtml",
+      "date": "Wed, 08 Apr 2026 10:28:56 -0000"
+    },
+    {
+      "title": "China reage \u00E0 inclus\u00E3o da montadora de carros el\u00E9tricos BYD em \u0027lista suja\u0027 do trabalho escravo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/08/china-reage-a-inclusao-da-montadora-de-carros-eletricos-byd-em-lista-suja-do-trabalho-escravo.ghtml",
+      "date": "Wed, 08 Apr 2026 09:49:07 -0000"
+    },
     {
       "title": "A\u00E7\u00F5es europeias sobem com a onda de al\u00EDvio ap\u00F3s o cessar-fogo no Oriente M\u00E9dio",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/g1-explica/noticia/2026/04/08/dolar-fraco-ou-real-forte-entenda-por-que-a-moeda-americana-esta-caindo-no-ano.ghtml",
       "date": "Wed, 08 Apr 2026 03:01:11 -0000"
-    },
-    {
-      "title": "Mega-Sena, concurso 2.993: pr\u00EAmio acumula e vai a R$ 20 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/04/07/mega-sena-concurso-2993-resultado.ghtml",
-      "date": "Wed, 08 Apr 2026 00:03:12 -0000"
-    },
-    {
-      "title": "O que \u00E9 o Estreito de Ormuz, crucial para petr\u00F3leo global; Ir\u00E3 indica reabertura ap\u00F3s 39 dias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/07/o-que-e-o-estreito-de-ormuz-crucial-para-o-petroleo-global-ira-indica-reabertura-apos-39-dias-de-impacto-na-economia.ghtml",
-      "date": "Tue, 07 Apr 2026 23:37:02 -0000"
     }
   ]
 }
