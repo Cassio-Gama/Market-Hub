@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 191957.19,
-      "change": 1.96,
-      "changeStr": "\u002B1.96%"
+      "price": 192201.16,
+      "change": 2.09,
+      "changeStr": "\u002B2.09%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.46,
-      "change": -4.23,
-      "changeStr": "-4.23%"
+      "price": 46.61,
+      "change": -3.92,
+      "changeStr": "-3.92%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.61,
-      "change": 2.29,
-      "changeStr": "\u002B2.29%"
+      "price": 85.59,
+      "change": 2.27,
+      "changeStr": "\u002B2.27%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.84,
-      "change": 3.18,
-      "changeStr": "\u002B3.18%"
+      "price": 44.98,
+      "change": 3.5,
+      "changeStr": "\u002B3.50%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.04,
-      "change": 4.32,
-      "changeStr": "\u002B4.32%"
+      "price": 20.17,
+      "change": 5,
+      "changeStr": "\u002B5.00%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.19,
-      "change": 3.2,
-      "changeStr": "\u002B3.20%"
+      "price": 24.49,
+      "change": 4.48,
+      "changeStr": "\u002B4.48%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.05,
-      "change": 3.08,
-      "changeStr": "\u002B3.08%"
+      "price": 8.95,
+      "change": 1.94,
+      "changeStr": "\u002B1.94%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.88,
-      "change": 2.58,
-      "changeStr": "\u002B2.58%"
+      "price": 15.86,
+      "change": 2.45,
+      "changeStr": "\u002B2.45%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.58,
-      "change": 3.81,
-      "changeStr": "\u002B3.81%"
+      "price": 52.77,
+      "change": 4.19,
+      "changeStr": "\u002B4.19%"
     }
   ],
   "news": [
+    {
+      "title": "\u00C9 #FAKE mensagem de WhatsApp do TSE cobrando dinheiro para \u0027regularizar pend\u00EAncias eleitorais\u0027; trata-se de golpe",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/04/08/e-fake-mensagem-de-whatsapp-do-tse-cobrando-dinheiro-para-regularizar-pendencias-eleitorais-trata-se-de-golpe.ghtml",
+      "date": "Wed, 08 Apr 2026 20:25:19 -0000"
+    },
     {
       "title": "Conflito no Oriente M\u00E9dio derruba exporta\u00E7\u00F5es de carne bovina e de frango para a regi\u00E3o",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/08/guerras-impoem-custos-economicos-profundos-e-prolongados-aos-paises-diz-pesquisa-do-fmi.ghtml",
       "date": "Wed, 08 Apr 2026 14:27:52 -0000"
-    },
-    {
-      "title": "Em relat\u00F3rio sobre Am\u00E9rica Latina, Banco Mundial diz que Argentina se destaca e que Brasil \u0027sofre\u0027 com a perda de dinamismo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/08/em-relatorio-sobre-america-latina-banco-mundial-diz-que-argentina-se-destaca-e-que-brasil-sofre-com-a-perda-de-dinamismo.ghtml",
-      "date": "Wed, 08 Apr 2026 14:22:35 -0000"
     }
   ]
 }
