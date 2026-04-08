@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 191900.1,
-      "change": 1.93,
-      "changeStr": "\u002B1.93%"
+      "price": 191413.27,
+      "change": 1.68,
+      "changeStr": "\u002B1.68%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.9,
-      "change": -7.44,
-      "changeStr": "-7.44%"
+      "price": 45.85,
+      "change": -5.48,
+      "changeStr": "-5.48%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.98,
-      "change": 2.74,
-      "changeStr": "\u002B2.74%"
+      "price": 85.27,
+      "change": 1.89,
+      "changeStr": "\u002B1.89%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.39,
-      "change": 4.44,
-      "changeStr": "\u002B4.44%"
+      "price": 44.91,
+      "change": 3.34,
+      "changeStr": "\u002B3.34%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.2,
-      "change": 5.15,
-      "changeStr": "\u002B5.15%"
+      "price": 20,
+      "change": 4.11,
+      "changeStr": "\u002B4.11%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.68,
-      "change": 5.29,
-      "changeStr": "\u002B5.29%"
+      "price": 24.56,
+      "change": 4.78,
+      "changeStr": "\u002B4.78%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.37,
-      "change": 6.72,
-      "changeStr": "\u002B6.72%"
+      "price": 9.3,
+      "change": 5.92,
+      "changeStr": "\u002B5.92%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.83,
-      "change": 2.26,
-      "changeStr": "\u002B2.26%"
+      "price": 15.89,
+      "change": 2.65,
+      "changeStr": "\u002B2.65%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.7,
-      "change": 4.05,
-      "changeStr": "\u002B4.05%"
+      "price": 52.51,
+      "change": 3.67,
+      "changeStr": "\u002B3.67%"
     }
   ],
   "news": [
+    {
+      "title": "Antes cotado para o Banco Central, Guilherme Mello ser\u00E1 secret\u00E1rio-executivo do Minist\u00E9rio do Planejamento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/08/antes-cotado-para-o-banco-central-guilherme-mello-sera-secretario-executivo-do-ministerio-do-planejamento.ghtml",
+      "date": "Wed, 08 Apr 2026 15:08:37 -0000"
+    },
+    {
+      "title": "Guerras imp\u00F5em custos econ\u00F4micos profundos e prolongados aos pa\u00EDses, diz pesquisa do FMI",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/08/guerras-impoem-custos-economicos-profundos-e-prolongados-aos-paises-diz-pesquisa-do-fmi.ghtml",
+      "date": "Wed, 08 Apr 2026 14:27:52 -0000"
+    },
+    {
+      "title": "Em relat\u00F3rio sobre Am\u00E9rica Latina, Banco Mundial diz que Argentina se destaca e que Brasil \u0027sofre\u0027 com a perda de dinamismo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/08/em-relatorio-sobre-america-latina-banco-mundial-diz-que-argentina-se-destaca-e-que-brasil-sofre-com-a-perda-de-dinamismo.ghtml",
+      "date": "Wed, 08 Apr 2026 14:22:35 -0000"
+    },
+    {
+      "title": "Produ\u00E7\u00E3o de ve\u00EDculos no Brasil aumenta 27,6% no m\u00EAs e bate recorde de antes da pandemia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/08/producao-de-veiculos-no-brasil-bate-recorde-antes-de-pandemia-exportacoes-aumentam.ghtml",
+      "date": "Wed, 08 Apr 2026 14:00:33 -0000"
+    },
     {
       "title": "O que sucesso de assistente de IA na China diz sobre ambi\u00E7\u00F5es do pa\u00EDs",
       "source": "G1 Economia",
@@ -87,34 +111,10 @@
       "date": "Wed, 08 Apr 2026 12:43:00 -0000"
     },
     {
-      "title": "Ibovespa dispara com cessar-fogo entre EUA e Ir\u00E3 no radar; d\u00F3lar cai a R$ 5,07",
+      "title": "Ibovespa dispara com cessar-fogo entre EUA e Ir\u00E3 no radar; d\u00F3lar cai a R$ 5,10",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/08/dolar-ibovespa.ghtml",
       "date": "Wed, 08 Apr 2026 12:00:27 -0000"
-    },
-    {
-      "title": "Trump anuncia taxa\u00E7\u00E3o de 50% a pa\u00EDses que fornecerem armas ao Ir\u00E3 ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/04/08/trump-anuncia-taxacao-a-paises-que-fornecerem-armas-ao-ira.ghtml",
-      "date": "Wed, 08 Apr 2026 11:41:57 -0000"
-    },
-    {
-      "title": "Governo pro\u00EDbe venda da marca de azeite Afonso",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/08/governo-proibe-venda-da-marca-de-azeite-afonso.ghtml",
-      "date": "Wed, 08 Apr 2026 11:31:21 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo despenca mais de 15% e vai abaixo de US$ 100, ap\u00F3s Trump anunciar cessar-fogo de duas semanas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/08/petroleo-despenca-nesta-quarta-e-vai-abaixo-de-us100-apos-trump-anunciar-cessar-fogo-de-duas-semanas.ghtml",
-      "date": "Wed, 08 Apr 2026 10:28:56 -0000"
-    },
-    {
-      "title": "China reage \u00E0 inclus\u00E3o da montadora de carros el\u00E9tricos BYD em \u0027lista suja\u0027 do trabalho escravo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/08/china-reage-a-inclusao-da-montadora-de-carros-eletricos-byd-em-lista-suja-do-trabalho-escravo.ghtml",
-      "date": "Wed, 08 Apr 2026 09:49:07 -0000"
     }
   ]
 }
