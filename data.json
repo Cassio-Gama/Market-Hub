@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 191413.27,
-      "change": 1.68,
-      "changeStr": "\u002B1.68%"
+      "price": 192529.61,
+      "change": 2.27,
+      "changeStr": "\u002B2.27%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.85,
-      "change": -5.48,
-      "changeStr": "-5.48%"
+      "price": 45.77,
+      "change": -5.65,
+      "changeStr": "-5.65%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.27,
-      "change": 1.89,
-      "changeStr": "\u002B1.89%"
+      "price": 85.87,
+      "change": 2.6,
+      "changeStr": "\u002B2.60%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.91,
-      "change": 3.34,
-      "changeStr": "\u002B3.34%"
+      "price": 45.05,
+      "change": 3.66,
+      "changeStr": "\u002B3.66%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20,
-      "change": 4.11,
-      "changeStr": "\u002B4.11%"
+      "price": 20.19,
+      "change": 5.1,
+      "changeStr": "\u002B5.10%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.56,
-      "change": 4.78,
-      "changeStr": "\u002B4.78%"
+      "price": 24.57,
+      "change": 4.82,
+      "changeStr": "\u002B4.82%"
     },
     {
       "symbol": "MGLU3",
@@ -44,18 +44,30 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 15.89,
-      "change": 2.65,
-      "changeStr": "\u002B2.65%"
+      "price": 15.92,
+      "change": 2.84,
+      "changeStr": "\u002B2.84%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.51,
-      "change": 3.67,
-      "changeStr": "\u002B3.67%"
+      "price": 52.52,
+      "change": 3.69,
+      "changeStr": "\u002B3.69%"
     }
   ],
   "news": [
+    {
+      "title": "WhatsApp, Instagram e Facebook registram instabilidade nesta quarta (8)",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/08/whatsapp-instagram-e-facebook-registram-instabilidade-nesta-quarta-8.ghtml",
+      "date": "Wed, 08 Apr 2026 16:54:58 -0000"
+    },
+    {
+      "title": "Conflito no Oriente M\u00E9dio amea\u00E7a espa\u00E7o para cortes de juros no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/08/conflito-oriente-medio-juros-brasil.ghtml",
+      "date": "Wed, 08 Apr 2026 15:17:46 -0000"
+    },
     {
       "title": "Antes cotado para o Banco Central, Guilherme Mello ser\u00E1 secret\u00E1rio-executivo do Minist\u00E9rio do Planejamento",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/08/petroleo-despenca-apos-anuncio-de-cessar-fogo-entre-eua-e-ira-como-isso-afeta-o-brasil.ghtml",
       "date": "Wed, 08 Apr 2026 12:52:53 -0000"
-    },
-    {
-      "title": "Funcion\u00E1rio da Meta \u00E9 acusado de baixar 30 mil fotos privadas de usu\u00E1rios do Facebook",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/08/funcionario-da-meta-e-acusado-de-baixar-30-mil-fotos-privadas-de-usuarios-do-facebook.ghtml",
-      "date": "Wed, 08 Apr 2026 12:43:00 -0000"
-    },
-    {
-      "title": "Ibovespa dispara com cessar-fogo entre EUA e Ir\u00E3 no radar; d\u00F3lar cai a R$ 5,10",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/08/dolar-ibovespa.ghtml",
-      "date": "Wed, 08 Apr 2026 12:00:27 -0000"
     }
   ]
 }
