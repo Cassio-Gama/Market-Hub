@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 194180.44,
-      "change": 1.03,
-      "changeStr": "\u002B1.03%"
+      "price": 195008.08,
+      "change": 1.46,
+      "changeStr": "\u002B1.46%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.79,
-      "change": 2.53,
-      "changeStr": "\u002B2.53%"
+      "price": 47.41,
+      "change": 1.72,
+      "changeStr": "\u002B1.72%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.13,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 85.08,
+      "change": -0.6,
+      "changeStr": "-0.60%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.24,
-      "change": 0.58,
-      "changeStr": "\u002B0.58%"
+      "price": 45.58,
+      "change": 1.33,
+      "changeStr": "\u002B1.33%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.15,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 20.23,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.53,
-      "change": 0.16,
-      "changeStr": "\u002B0.16%"
+      "price": 24.66,
+      "change": 0.69,
+      "changeStr": "\u002B0.69%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.13,
-      "change": 2.01,
-      "changeStr": "\u002B2.01%"
+      "price": 9.07,
+      "change": 1.34,
+      "changeStr": "\u002B1.34%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.06,
-      "change": 1.26,
-      "changeStr": "\u002B1.26%"
+      "price": 16.22,
+      "change": 2.27,
+      "changeStr": "\u002B2.27%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.37,
-      "change": -0.76,
-      "changeStr": "-0.76%"
+      "price": 52.7,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     }
   ],
   "news": [
+    {
+      "title": "Pedidos de aux\u00EDlio-desemprego crescem nos EUA em meio a incertezas econ\u00F4micas e tens\u00F5es geopol\u00EDticas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/09/pedidos-de-auxilio-desemprego-crescem-nos-eua.ghtml",
+      "date": "Thu, 09 Apr 2026 16:18:32 -0000"
+    },
+    {
+      "title": "Estreito de Ormuz est\u00E1 praticamente paralisado; Ir\u00E3 alerta para risco de  minas navais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/04/09/estreito-de-ormuz-esta-praticamente-paralisado-ira-alerta-navios-em-transito.ghtml",
+      "date": "Thu, 09 Apr 2026 15:59:15 -0000"
+    },
+    {
+      "title": "Guerra no Ir\u00E3 pode elevar em at\u00E9 US$ 50 bilh\u00F5es a demanda por apoio financeiro do FMI",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/09/guerra-pode-elevar-demanda-por-apoio-financeiro-do-fmi-em-ate-us-50-bilhoes.ghtml",
+      "date": "Thu, 09 Apr 2026 15:01:13 -0000"
+    },
+    {
+      "title": "BYD \u00E9 retirada da \u2018lista suja\u2019 do trabalho escravo ap\u00F3s decis\u00E3o da Justi\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/09/byd-lista-suja-do-trabalho-escravo-entenda.ghtml",
+      "date": "Thu, 09 Apr 2026 14:51:06 -0000"
+    },
+    {
+      "title": "Por que a guerra do Ir\u00E3 amea\u00E7a o cora\u00E7\u00E3o do agroneg\u00F3cio brasileiro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/09/por-que-a-guerra-do-ira-ameaca-o-coracao-do-agronegocio-brasileiro.ghtml",
+      "date": "Thu, 09 Apr 2026 14:33:46 -0000"
+    },
+    {
+      "title": "Prot\u00F3tipo de \u0027carro voador\u0027 da Embraer completa 50 voos de teste",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/04/09/prototipo-de-carro-voador-da-embraer-completa-50-voos-de-teste.ghtml",
+      "date": "Thu, 09 Apr 2026 14:15:39 -0000"
+    },
+    {
+      "title": "Autua\u00E7\u00F5es da Receita Federal somam R$ 233 bilh\u00F5es em 2025",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/09/autuacoes-da-receita-federal-somam-r-233-bilhoes-em-2025.ghtml",
+      "date": "Thu, 09 Apr 2026 14:04:09 -0000"
+    },
     {
       "title": "Governo calcula que R$ 7 bilh\u00F5es do FGTS podem ser liberados a 10 milh\u00F5es de pessoas para pagamento de d\u00EDvidas, diz ministro",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/09/em-manifesto-varejistas-dizem-que-consumidor-tambem-foi-beneficiado-pela-taxa-das-blusinhas-e-defendem-manutencao.ghtml",
       "date": "Thu, 09 Apr 2026 13:21:06 -0000"
-    },
-    {
-      "title": "Vil\u00E3o do endividamento, cart\u00E3o de cr\u00E9dito rotativo cresce; empr\u00E9stimos beiraram R$ 400 bilh\u00F5es em 2025",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/09/vilao-do-endividamento-cartao-de-credito-rotativo-cresceu-no-pospandemia-emprestimos-beiraram-r-400-bilhoes-em-2025.ghtml",
-      "date": "Thu, 09 Apr 2026 13:02:45 -0000"
-    },
-    {
-      "title": "GR Yaris: testamos o hatch de duas portas com unidades limitadas e que custa R$ 354.990",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/09/gr-yaris-o-hatch-de-duas-portas-com-unidades-limitadas-e-que-custa-r-354990.ghtml",
-      "date": "Thu, 09 Apr 2026 13:00:33 -0000"
-    },
-    {
-      "title": "Gal\u00EDpolo diz que BC n\u00E3o negocia autonomia de mandato e chama Focus de \u0027b\u00FAssola\u0027 da pol\u00EDtica monet\u00E1ria",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/09/gabriel-galipolo-premiacao-banco-central.ghtml",
-      "date": "Thu, 09 Apr 2026 12:37:49 -0000"
-    },
-    {
-      "title": "D\u00F3lar recua ao menor n\u00EDvel em dois anos com tr\u00E9gua no Oriente M\u00E9dio no radar; Ibovespa renova recorde",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/09/dolar-ibovespa.ghtml",
-      "date": "Thu, 09 Apr 2026 12:00:05 -0000"
-    },
-    {
-      "title": "Pre\u00E7o do petr\u00F3leo volta a subir ap\u00F3s preocupa\u00E7\u00F5es com cessar-fogo no Oriente M\u00E9dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/09/preco-do-petroleo-volta-a-subir-apos-preocupacoes-com-cessar-fogo-no-oriente-medio.ghtml",
-      "date": "Thu, 09 Apr 2026 11:25:47 -0000"
-    },
-    {
-      "title": "\nPresidente interina da Venezuela promete aumento de sal\u00E1rios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/09/presidente-interina-da-venezuela-promete-aumento-de-salarios.ghtml",
-      "date": "Thu, 09 Apr 2026 10:58:53 -0000"
-    },
-    {
-      "title": "Em que parte do boi fica a picanha, o patinho e o fil\u00E9 mignon? D\u00EA play no game e teste seus conhecimentos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/09/em-que-parte-do-boi-fica-a-picanha-o-patinho-e-o-file-mignon-de-play-no-game-e-teste-seus-conhecimentos.ghtml",
-      "date": "Thu, 09 Apr 2026 09:01:24 -0000"
     }
   ]
 }
