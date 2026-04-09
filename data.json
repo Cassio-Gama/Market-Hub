@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 195164.16,
-      "change": 1.54,
-      "changeStr": "\u002B1.54%"
+      "price": 195129.25,
+      "change": 1.52,
+      "changeStr": "\u002B1.52%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.86,
-      "change": 2.68,
-      "changeStr": "\u002B2.68%"
+      "price": 47.9,
+      "change": 2.77,
+      "changeStr": "\u002B2.77%"
     },
     {
       "symbol": "VALE3",
-      "price": 84.62,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 84.69,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.87,
-      "change": 1.98,
-      "changeStr": "\u002B1.98%"
+      "price": 45.75,
+      "change": 1.71,
+      "changeStr": "\u002B1.71%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.28,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 20.29,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.7,
-      "change": 0.86,
-      "changeStr": "\u002B0.86%"
+      "price": 24.72,
+      "change": 0.94,
+      "changeStr": "\u002B0.94%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.22,
-      "change": 3.02,
-      "changeStr": "\u002B3.02%"
+      "price": 9.23,
+      "change": 3.13,
+      "changeStr": "\u002B3.13%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.14,
-      "change": 1.77,
-      "changeStr": "\u002B1.77%"
+      "price": 16.06,
+      "change": 1.26,
+      "changeStr": "\u002B1.26%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.79,
-      "change": 0.04,
-      "changeStr": "\u002B0.04%"
+      "price": 52.5,
+      "change": -0.51,
+      "changeStr": "-0.51%"
     }
   ],
   "news": [
+    {
+      "title": "Governo estuda liberar R$ 17 bilh\u00F5es do FGTS para ajudar trabalhadores endividados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/09/pacote-medidas-fgts-dividas-trabalhadores.ghtml",
+      "date": "Thu, 09 Apr 2026 19:57:48 -0000"
+    },
     {
       "title": "Ir\u00E3 imp\u00F5e restri\u00E7\u00F5es sobre Estreito de Ormuz, e movimento de navios \u00E9 praticamente nulo; incerteza faz pre\u00E7o do petr\u00F3leo oscilar",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/09/autuacoes-da-receita-federal-somam-r-233-bilhoes-em-2025.ghtml",
       "date": "Thu, 09 Apr 2026 14:04:09 -0000"
-    },
-    {
-      "title": "Governo calcula que R$ 7 bilh\u00F5es do FGTS podem ser liberados a 10 milh\u00F5es de pessoas para pagamento de d\u00EDvidas, diz ministro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/09/governo-calcula-que-r-7-bilhoes-do-fgts-podem-ser-liberados-a-10-milhoes-de-pessoas-para-pagamento-de-dividas-diz-ministro.ghtml",
-      "date": "Thu, 09 Apr 2026 13:45:47 -0000"
     }
   ]
 }
