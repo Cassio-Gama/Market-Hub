@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 195236.3,
-      "change": 1.58,
-      "changeStr": "\u002B1.58%"
+      "price": 195164.16,
+      "change": 1.54,
+      "changeStr": "\u002B1.54%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.35,
-      "change": 1.59,
-      "changeStr": "\u002B1.59%"
+      "price": 47.86,
+      "change": 2.68,
+      "changeStr": "\u002B2.68%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.15,
-      "change": -0.51,
-      "changeStr": "-0.51%"
+      "price": 84.62,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     },
     {
       "symbol": "ITUB4",
@@ -26,36 +26,42 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 20.35,
-      "change": 0.89,
-      "changeStr": "\u002B0.89%"
+      "price": 20.28,
+      "change": 0.55,
+      "changeStr": "\u002B0.55%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.85,
-      "change": 1.47,
-      "changeStr": "\u002B1.47%"
+      "price": 24.7,
+      "change": 0.86,
+      "changeStr": "\u002B0.86%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.19,
-      "change": 2.68,
-      "changeStr": "\u002B2.68%"
+      "price": 9.22,
+      "change": 3.02,
+      "changeStr": "\u002B3.02%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.22,
-      "change": 2.27,
-      "changeStr": "\u002B2.27%"
+      "price": 16.14,
+      "change": 1.77,
+      "changeStr": "\u002B1.77%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.77,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 52.79,
+      "change": 0.04,
+      "changeStr": "\u002B0.04%"
     }
   ],
   "news": [
+    {
+      "title": "Ir\u00E3 imp\u00F5e restri\u00E7\u00F5es sobre Estreito de Ormuz, e movimento de navios \u00E9 praticamente nulo; incerteza faz pre\u00E7o do petr\u00F3leo oscilar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/04/09/ira-impoe-restricoes-sobre-estreito-de-ormuz-e-movimento-de-navios-e-praticamente-nulo-incerteza-faz-preco-do-petroleo-oscilar.ghtml",
+      "date": "Thu, 09 Apr 2026 19:38:37 -0000"
+    },
     {
       "title": "Gangorra de pre\u00E7os: com carne bovina em alta e su\u00EDna em queda, diferen\u00E7a nas cota\u00E7\u00F5es \u00E9 a maior em 4 anos; aponta USP",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/09/governo-calcula-que-r-7-bilhoes-do-fgts-podem-ser-liberados-a-10-milhoes-de-pessoas-para-pagamento-de-dividas-diz-ministro.ghtml",
       "date": "Thu, 09 Apr 2026 13:45:47 -0000"
-    },
-    {
-      "title": "Imposto de Renda: Receita Federal cobrou mais de R$ 5 bilh\u00F5es em 2025 por conta de irregularidades ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/04/09/imposto-de-renda-receita-federal-cobrou-mais-de-r-5-bilhoes-em-2025-por-conta-de-irregularidades.ghtml",
-      "date": "Thu, 09 Apr 2026 13:37:35 -0000"
     }
   ]
 }
