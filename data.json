@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 195129.25,
-      "change": 1.52,
-      "changeStr": "\u002B1.52%"
+      "price": 196260.66,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.9,
-      "change": 2.77,
-      "changeStr": "\u002B2.77%"
+      "price": 48.09,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
     },
     {
       "symbol": "VALE3",
-      "price": 84.69,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 85.2,
+      "change": 0.6,
+      "changeStr": "\u002B0.60%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.75,
-      "change": 1.71,
-      "changeStr": "\u002B1.71%"
+      "price": 46.09,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.29,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 20.45,
+      "change": 0.79,
+      "changeStr": "\u002B0.79%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.72,
-      "change": 0.94,
-      "changeStr": "\u002B0.94%"
+      "price": 24.92,
+      "change": 0.81,
+      "changeStr": "\u002B0.81%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.23,
-      "change": 3.13,
-      "changeStr": "\u002B3.13%"
+      "price": 9.26,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.06,
-      "change": 1.26,
-      "changeStr": "\u002B1.26%"
+      "price": 16.25,
+      "change": 1.18,
+      "changeStr": "\u002B1.18%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.5,
-      "change": -0.51,
-      "changeStr": "-0.51%"
+      "price": 53.14,
+      "change": 1.22,
+      "changeStr": "\u002B1.22%"
     }
   ],
   "news": [
+    {
+      "title": "Allianz encerra naming rights com est\u00E1dio do Palmeiras ap\u00F3s 13 anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/allianz-encerra-naming-rights-com-estadio-do-palmeiras-apos-13-anos.ghtml",
+      "date": "Fri, 10 Apr 2026 12:57:57 -0000"
+    },
+    {
+      "title": "Tribunal de com\u00E9rcio dos EUA avalia legalidade da tarifa global de 10% de Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/tribunal-de-comercio-dos-eua-avalia-legalidade-da-tarifa-global-de-10percent-de-trump.ghtml",
+      "date": "Fri, 10 Apr 2026 12:38:31 -0000"
+    },
+    {
+      "title": "SpaceX, de Musk, teve preju\u00EDzo de quase US$ 5 bilh\u00F5es em 2025, diz site",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/10/spacex-de-musk-teve-prejuizo-de-quase-us-5-bilhoes-em-2025-diz-site.ghtml",
+      "date": "Fri, 10 Apr 2026 12:38:21 -0000"
+    },
+    {
+      "title": "Pre\u00E7o dos alimentos em mar\u00E7o: o que ficou mais caro e o que ficou mais barato",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/10/preco-dos-alimentos-em-marco-o-que-ficou-mais-caro-e-o-que-ficou-mais-barato.ghtml",
+      "date": "Fri, 10 Apr 2026 12:19:52 -0000"
+    },
+    {
+      "title": "D\u00F3lar cai a R$ 5,02 com infla\u00E7\u00E3o no radar e tens\u00E3o no Oriente M\u00E9dio; Ibovespa renova recorde",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/dolar-ibovespa.ghtml",
+      "date": "Fri, 10 Apr 2026 12:00:33 -0000"
+    },
+    {
+      "title": "IPCA: infla\u00E7\u00E3o fica em 0,88% em mar\u00E7o, acima das expectativas e puxada por combust\u00EDveis",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/ipca-marco.ghtml",
+      "date": "Fri, 10 Apr 2026 12:00:20 -0000"
+    },
+    {
+      "title": "Governo anuncia parceria entre Receita e ag\u00EAncia dos EUA para combate ao crime organizado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/governo-anuncia-parceria-entre-receita-federal-e-agencia-de-fronteiras-dos-estados-unidos-para-combate-ao-crime-organizado.ghtml",
+      "date": "Fri, 10 Apr 2026 11:53:35 -0000"
+    },
     {
       "title": "Por que governo Trump voltou a atacar o Pix (e o que EUA podem fazer contra ele)?",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/g1-explica/noticia/2026/04/10/como-trump-fez-o-dolar-flopar-e-ajudou-a-valorizar-o-real.ghtml",
       "date": "Fri, 10 Apr 2026 07:01:50 -0000"
-    },
-    {
-      "title": "Os seis quitutes que ganharam da coxinha como melhor comida de rua da Am\u00E9rica do Sul ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/10/os-seis-quitutes-que-ganharam-da-coxinha-como-melhor-comida-de-rua-da-america-do-sul.ghtml",
-      "date": "Fri, 10 Apr 2026 06:01:04 -0000"
-    },
-    {
-      "title": "Por que estados americanos podem proibir a constru\u00E7\u00E3o de data centers",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/10/por-que-estados-americanos-podem-proibir-a-construcao-de-data-centers.ghtml",
-      "date": "Fri, 10 Apr 2026 06:00:41 -0000"
-    },
-    {
-      "title": "Plano do governo para liberar FGTS e quitar d\u00EDvidas reacende debate sobre uso do fundo; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/10/plano-governo-fgts-dividas-especialistas-entenda.ghtml",
-      "date": "Fri, 10 Apr 2026 05:00:42 -0000"
-    },
-    {
-      "title": "Posso sacar o FGTS para quitar d\u00EDvidas? Entenda o plano em estudo pelo governo que pode liberar R$ 17 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/10/fgts-dividas-entenda.ghtml",
-      "date": "Fri, 10 Apr 2026 03:01:03 -0000"
-    },
-    {
-      "title": "Maior distribuidora do pa\u00EDs, Vibra anuncia ades\u00E3o a programa de subven\u00E7\u00E3o do diesel",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/09/vibra-subvencao-diesel.ghtml",
-      "date": "Fri, 10 Apr 2026 00:40:18 -0000"
-    },
-    {
-      "title": "Mega-Sena, concurso 2.994: pr\u00EAmio acumula e vai a R$ 40 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/04/09/mega-sena-concurso-2994-resultado.ghtml",
-      "date": "Fri, 10 Apr 2026 00:03:15 -0000"
-    },
-    {
-      "title": "Governo estuda liberar R$ 17 bilh\u00F5es do FGTS para ajudar trabalhadores endividados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/09/pacote-medidas-fgts-dividas-trabalhadores.ghtml",
-      "date": "Thu, 09 Apr 2026 19:57:48 -0000"
     }
   ]
 }
