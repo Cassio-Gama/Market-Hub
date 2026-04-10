@@ -2,33 +2,33 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 196282.69,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 196772.66,
+      "change": 0.84,
+      "changeStr": "\u002B0.84%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.24,
-      "change": 0.71,
-      "changeStr": "\u002B0.71%"
+      "price": 48.42,
+      "change": 1.09,
+      "changeStr": "\u002B1.09%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.6,
-      "change": 1.07,
-      "changeStr": "\u002B1.07%"
+      "price": 85.76,
+      "change": 1.26,
+      "changeStr": "\u002B1.26%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.93,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 46.07,
+      "change": 0.7,
+      "changeStr": "\u002B0.70%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.41,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 20.39,
+      "change": 0.49,
+      "changeStr": "\u002B0.49%"
     },
     {
       "symbol": "BBAS3",
@@ -38,24 +38,30 @@
     },
     {
       "symbol": "MGLU3",
-      "price": 9.08,
-      "change": -1.63,
-      "changeStr": "-1.63%"
+      "price": 9.1,
+      "change": -1.41,
+      "changeStr": "-1.41%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.06,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 16.1,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.59,
-      "change": 0.17,
-      "changeStr": "\u002B0.17%"
+      "price": 52.78,
+      "change": 0.53,
+      "changeStr": "\u002B0.53%"
     }
   ],
   "news": [
+    {
+      "title": "CEO da OpenAI tem casa atingida por coquetel molotov, diz site",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/10/ataque-casa-sam-altman.ghtml",
+      "date": "Fri, 10 Apr 2026 17:48:13 -0000"
+    },
     {
       "title": "Greve na Lufthansa afeta milhares de passageiros na Alemanha",
       "source": "G1 Economia",
@@ -75,7 +81,7 @@
       "date": "Fri, 10 Apr 2026 16:04:58 -0000"
     },
     {
-      "title": "Tesouro estima que carga tribut\u00E1ria somou 32,4% do PIB em 2025 e bateu novo recorde",
+      "title": "Carga tribut\u00E1ria soma 32,4% do PIB em 2025 e atinge maior valor da s\u00E9rie hist\u00F3rica, estima Tesouro",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/10/tesouro-nacional-estima-que-carga-tributaria-somou-324percent-do-pib-em-2025-e-bateu-novo-recorde.ghtml",
       "date": "Fri, 10 Apr 2026 15:51:55 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/10/nubank-naming-rights-palmeiras.ghtml",
       "date": "Fri, 10 Apr 2026 14:21:10 -0000"
-    },
-    {
-      "title": "Cofundador e presidente da Dolce \u0026 Gabbana renuncia ao cargo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/10/cofundador-e-presidente-da-dolce-and-gabbana-renuncia-ao-cargo.ghtml",
-      "date": "Fri, 10 Apr 2026 14:09:39 -0000"
     }
   ]
 }
