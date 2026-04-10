@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 197260.34,
-      "change": 1.09,
-      "changeStr": "\u002B1.09%"
+      "price": 196907.56,
+      "change": 0.91,
+      "changeStr": "\u002B0.91%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.07,
-      "change": 0.35,
-      "changeStr": "\u002B0.35%"
+      "price": 48.36,
+      "change": 0.96,
+      "changeStr": "\u002B0.96%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.95,
-      "change": 1.49,
-      "changeStr": "\u002B1.49%"
+      "price": 85.91,
+      "change": 1.44,
+      "changeStr": "\u002B1.44%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.2,
-      "change": 0.98,
-      "changeStr": "\u002B0.98%"
+      "price": 46.06,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.52,
-      "change": 1.13,
-      "changeStr": "\u002B1.13%"
+      "price": 20.45,
+      "change": 0.79,
+      "changeStr": "\u002B0.79%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.93,
-      "change": 0.85,
-      "changeStr": "\u002B0.85%"
+      "price": 24.89,
+      "change": 0.69,
+      "changeStr": "\u002B0.69%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.18,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 9.13,
+      "change": -1.08,
+      "changeStr": "-1.08%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.22,
-      "change": 1,
-      "changeStr": "\u002B1.00%"
+      "price": 16.13,
+      "change": 0.44,
+      "changeStr": "\u002B0.44%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.88,
-      "change": 0.72,
-      "changeStr": "\u002B0.72%"
+      "price": 52.71,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
     }
   ],
   "news": [
+    {
+      "title": "Tesouro Nacional estima que carga tribut\u00E1ria somou 32,4% do PIB em 2025 e bateu novo recorde",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/tesouro-nacional-estima-que-carga-tributaria-somou-324percent-do-pib-em-2025-e-bateu-novo-recorde.ghtml",
+      "date": "Fri, 10 Apr 2026 15:51:55 -0000"
+    },
+    {
+      "title": "Justi\u00E7a mant\u00E9m suspens\u00E3o do imposto de exporta\u00E7\u00E3o de petr\u00F3leo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/justica-mantem-suspensao-do-imposto-de-exportacao-de-petroleo.ghtml",
+      "date": "Fri, 10 Apr 2026 15:42:35 -0000"
+    },
+    {
+      "title": "Trabalho dom\u00E9stico com carteira assinada cai 21% em 10 anos no Brasil, diz governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/10/trabalho-domestico-com-carteira-assinada.ghtml",
+      "date": "Fri, 10 Apr 2026 15:10:33 -0000"
+    },
     {
       "title": "Veja dicas sobre o plantio de coco an\u00E3o",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/04/10/spacex-de-musk-teve-prejuizo-de-quase-us-5-bilhoes-em-2025-diz-site.ghtml",
       "date": "Fri, 10 Apr 2026 12:38:21 -0000"
-    },
-    {
-      "title": "Pre\u00E7o dos alimentos em mar\u00E7o: o que ficou mais caro e o que ficou mais barato",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/10/preco-dos-alimentos-em-marco-o-que-ficou-mais-caro-e-o-que-ficou-mais-barato.ghtml",
-      "date": "Fri, 10 Apr 2026 12:19:52 -0000"
-    },
-    {
-      "title": "D\u00F3lar cai a R$ 5 com infla\u00E7\u00E3o no radar e tens\u00E3o no Oriente M\u00E9dio; Ibovespa alcan\u00E7a 197 mil pontos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/10/dolar-ibovespa.ghtml",
-      "date": "Fri, 10 Apr 2026 12:00:33 -0000"
-    },
-    {
-      "title": "IPCA: infla\u00E7\u00E3o fica em 0,88% em mar\u00E7o, acima das expectativas e puxada por combust\u00EDveis",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/10/ipca-marco.ghtml",
-      "date": "Fri, 10 Apr 2026 12:00:20 -0000"
     }
   ]
 }
