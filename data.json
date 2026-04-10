@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 196772.66,
-      "change": 0.84,
-      "changeStr": "\u002B0.84%"
+      "price": 197323.88,
+      "change": 1.12,
+      "changeStr": "\u002B1.12%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.42,
-      "change": 1.09,
-      "changeStr": "\u002B1.09%"
+      "price": 49.03,
+      "change": 2.36,
+      "changeStr": "\u002B2.36%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.76,
-      "change": 1.26,
-      "changeStr": "\u002B1.26%"
+      "price": 85.59,
+      "change": 1.06,
+      "changeStr": "\u002B1.06%"
     },
     {
       "symbol": "ITUB4",
@@ -26,36 +26,54 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 20.39,
-      "change": 0.49,
-      "changeStr": "\u002B0.49%"
+      "price": 20.44,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.78,
-      "change": 0.24,
-      "changeStr": "\u002B0.24%"
+      "price": 24.73,
+      "change": 0.04,
+      "changeStr": "\u002B0.04%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.1,
-      "change": -1.41,
-      "changeStr": "-1.41%"
+      "price": 9.15,
+      "change": -0.87,
+      "changeStr": "-0.87%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.1,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 16.12,
+      "change": 0.37,
+      "changeStr": "\u002B0.37%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.78,
-      "change": 0.53,
-      "changeStr": "\u002B0.53%"
+      "price": 52.88,
+      "change": 0.72,
+      "changeStr": "\u002B0.72%"
     }
   ],
   "news": [
+    {
+      "title": "Justi\u00E7a suspendeu imposto de exporta\u00E7\u00E3o a petroleiras com base em trecho que n\u00E3o existe em MP, diz governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/justica-suspendeu-imposto-de-importacao-a-petroleiras-com-base-em-trecho-de-mp-que-nao-existe-diz-procuradoria.ghtml",
+      "date": "Fri, 10 Apr 2026 19:14:40 -0000"
+    },
+    {
+      "title": "Por que Casa Branca orientou funcion\u00E1rios a n\u00E3o fazerem apostas em mercados de previs\u00F5es como Kalshi e Polymarket",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/por-que-casa-branca-orientou-funcionarios-a-nao-fazerem-apostas-em-mercados-de-previsoes-como-kalshi-e-polymarket.ghtml",
+      "date": "Fri, 10 Apr 2026 19:13:15 -0000"
+    },
+    {
+      "title": "\u0027Nubank Parque\u0027? Por que empresas pagam milh\u00F5es por naming rights de est\u00E1dios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/04/10/naming-rights-estadios.ghtml",
+      "date": "Fri, 10 Apr 2026 19:06:41 -0000"
+    },
     {
       "title": "CEO da OpenAI tem casa atingida por coquetel molotov, diz site",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/10/justica-mantem-suspensao-do-imposto-de-exportacao-de-petroleo.ghtml",
       "date": "Fri, 10 Apr 2026 15:42:35 -0000"
-    },
-    {
-      "title": "Trabalho dom\u00E9stico com carteira assinada cai 21% em 10 anos no Brasil, diz governo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/10/trabalho-domestico-com-carteira-assinada.ghtml",
-      "date": "Fri, 10 Apr 2026 15:10:33 -0000"
-    },
-    {
-      "title": "Veja dicas sobre o plantio de coco an\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/04/10/veja-dicas-sobre-o-plantio-de-coco-anao.ghtml",
-      "date": "Fri, 10 Apr 2026 14:50:47 -0000"
-    },
-    {
-      "title": "Nubank adquire naming rights do est\u00E1dio do Palmeiras; nome ser\u00E1 escolhido pela torcida",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/10/nubank-naming-rights-palmeiras.ghtml",
-      "date": "Fri, 10 Apr 2026 14:21:10 -0000"
     }
   ]
 }
