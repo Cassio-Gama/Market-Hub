@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 196260.66,
-      "change": 0.58,
-      "changeStr": "\u002B0.58%"
+      "price": 197260.34,
+      "change": 1.09,
+      "changeStr": "\u002B1.09%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.09,
-      "change": 0.4,
-      "changeStr": "\u002B0.40%"
+      "price": 48.07,
+      "change": 0.35,
+      "changeStr": "\u002B0.35%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.2,
-      "change": 0.6,
-      "changeStr": "\u002B0.60%"
+      "price": 85.95,
+      "change": 1.49,
+      "changeStr": "\u002B1.49%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.09,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 46.2,
+      "change": 0.98,
+      "changeStr": "\u002B0.98%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.45,
-      "change": 0.79,
-      "changeStr": "\u002B0.79%"
+      "price": 20.52,
+      "change": 1.13,
+      "changeStr": "\u002B1.13%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.92,
-      "change": 0.81,
-      "changeStr": "\u002B0.81%"
+      "price": 24.93,
+      "change": 0.85,
+      "changeStr": "\u002B0.85%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.26,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
+      "price": 9.18,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.25,
-      "change": 1.18,
-      "changeStr": "\u002B1.18%"
+      "price": 16.22,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 53.14,
-      "change": 1.22,
-      "changeStr": "\u002B1.22%"
+      "price": 52.88,
+      "change": 0.72,
+      "changeStr": "\u002B0.72%"
     }
   ],
   "news": [
+    {
+      "title": "Veja dicas sobre o plantio de coco an\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/04/10/veja-dicas-sobre-o-plantio-de-coco-anao.ghtml",
+      "date": "Fri, 10 Apr 2026 14:50:47 -0000"
+    },
+    {
+      "title": "Nubank adquire naming rights do est\u00E1dio do Palmeiras; nome ser\u00E1 escolhido pela torcida",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/nubank-naming-rights-palmeiras.ghtml",
+      "date": "Fri, 10 Apr 2026 14:21:10 -0000"
+    },
+    {
+      "title": "Cofundador e presidente da Dolce \u0026 Gabbana renuncia ao cargo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/cofundador-e-presidente-da-dolce-and-gabbana-renuncia-ao-cargo.ghtml",
+      "date": "Fri, 10 Apr 2026 14:09:39 -0000"
+    },
+    {
+      "title": "Governo pro\u00EDbe lote de alecrim por presen\u00E7a de insetos vivos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/10/governo-proibe-lote-de-alecrim-por-presenca-de-insetos-vivos.ghtml",
+      "date": "Fri, 10 Apr 2026 13:57:39 -0000"
+    },
     {
       "title": "Allianz encerra naming rights com est\u00E1dio do Palmeiras ap\u00F3s 13 anos",
       "source": "G1 Economia",
@@ -81,7 +105,7 @@
       "date": "Fri, 10 Apr 2026 12:19:52 -0000"
     },
     {
-      "title": "D\u00F3lar cai a R$ 5,02 com infla\u00E7\u00E3o no radar e tens\u00E3o no Oriente M\u00E9dio; Ibovespa renova recorde",
+      "title": "D\u00F3lar cai a R$ 5 com infla\u00E7\u00E3o no radar e tens\u00E3o no Oriente M\u00E9dio; Ibovespa alcan\u00E7a 197 mil pontos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/10/dolar-ibovespa.ghtml",
       "date": "Fri, 10 Apr 2026 12:00:33 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/10/ipca-marco.ghtml",
       "date": "Fri, 10 Apr 2026 12:00:20 -0000"
-    },
-    {
-      "title": "Governo anuncia parceria entre Receita e ag\u00EAncia dos EUA para combate ao crime organizado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/10/governo-anuncia-parceria-entre-receita-federal-e-agencia-de-fronteiras-dos-estados-unidos-para-combate-ao-crime-organizado.ghtml",
-      "date": "Fri, 10 Apr 2026 11:53:35 -0000"
-    },
-    {
-      "title": "Por que governo Trump voltou a atacar o Pix (e o que EUA podem fazer contra ele)?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/10/por-que-governo-trump-voltou-a-atacar-o-pix-e-o-que-eua-podem-fazer-contra-ele.ghtml",
-      "date": "Fri, 10 Apr 2026 08:35:24 -0000"
-    },
-    {
-      "title": "\u00C9 #FATO: Banco Central da Fran\u00E7a tirou todo o ouro que o pa\u00EDs armazenava nos Estados Unidos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/04/10/e-fato-banco-central-da-franca-tirou-todo-o-ouro-que-o-pais-armazenava-nos-estados-unidos.ghtml",
-      "date": "Fri, 10 Apr 2026 08:03:49 -0000"
-    },
-    {
-      "title": "Como Trump fez o d\u00F3lar \u0027flopar\u0027 - e ajudou a valorizar o real",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/04/10/como-trump-fez-o-dolar-flopar-e-ajudou-a-valorizar-o-real.ghtml",
-      "date": "Fri, 10 Apr 2026 07:01:50 -0000"
     }
   ]
 }
