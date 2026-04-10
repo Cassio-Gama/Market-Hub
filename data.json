@@ -2,65 +2,89 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 196907.56,
-      "change": 0.91,
-      "changeStr": "\u002B0.91%"
+      "price": 196282.69,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.36,
-      "change": 0.96,
-      "changeStr": "\u002B0.96%"
+      "price": 48.24,
+      "change": 0.71,
+      "changeStr": "\u002B0.71%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.91,
-      "change": 1.44,
-      "changeStr": "\u002B1.44%"
+      "price": 85.6,
+      "change": 1.07,
+      "changeStr": "\u002B1.07%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.06,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 45.93,
+      "change": 0.39,
+      "changeStr": "\u002B0.39%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.45,
-      "change": 0.79,
-      "changeStr": "\u002B0.79%"
+      "price": 20.41,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.89,
-      "change": 0.69,
-      "changeStr": "\u002B0.69%"
+      "price": 24.78,
+      "change": 0.24,
+      "changeStr": "\u002B0.24%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.13,
-      "change": -1.08,
-      "changeStr": "-1.08%"
+      "price": 9.08,
+      "change": -1.63,
+      "changeStr": "-1.63%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.13,
-      "change": 0.44,
-      "changeStr": "\u002B0.44%"
+      "price": 16.06,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.71,
-      "change": 0.4,
-      "changeStr": "\u002B0.40%"
+      "price": 52.59,
+      "change": 0.17,
+      "changeStr": "\u002B0.17%"
     }
   ],
   "news": [
     {
-      "title": "Tesouro Nacional estima que carga tribut\u00E1ria somou 32,4% do PIB em 2025 e bateu novo recorde",
+      "title": "Greve na Lufthansa afeta milhares de passageiros na Alemanha",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/greve-na-lufthansa-afeta-milhares-de-passageiros-na-alemanha.ghtml",
+      "date": "Fri, 10 Apr 2026 16:34:53 -0000"
+    },
+    {
+      "title": "Entenda por que o Cade apura poss\u00EDvel acordo antecipado entre Azul e American Airlines",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/04/10/entenda-por-que-o-cade-apura-possivel-acordo-antecipado-entre-azul-e-american-airlines.ghtml",
+      "date": "Fri, 10 Apr 2026 16:26:33 -0000"
+    },
+    {
+      "title": "ANP cria novo canal para denunciar irregularidades em postos e revendas de g\u00E1s; veja como fazer",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/10/anp-canal-denuncias-irregularidades-postos-glp.ghtml",
+      "date": "Fri, 10 Apr 2026 16:04:58 -0000"
+    },
+    {
+      "title": "Tesouro estima que carga tribut\u00E1ria somou 32,4% do PIB em 2025 e bateu novo recorde",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/10/tesouro-nacional-estima-que-carga-tributaria-somou-324percent-do-pib-em-2025-e-bateu-novo-recorde.ghtml",
       "date": "Fri, 10 Apr 2026 15:51:55 -0000"
+    },
+    {
+      "title": "Meta deve enfrentar novo processo nos EUA por acusa\u00E7\u00E3o de v\u00EDcio em redes sociais entre jovens",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/10/facebook-meta-processo-redes-sociais.ghtml",
+      "date": "Fri, 10 Apr 2026 15:43:02 -0000"
     },
     {
       "title": "Justi\u00E7a mant\u00E9m suspens\u00E3o do imposto de exporta\u00E7\u00E3o de petr\u00F3leo",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/10/cofundador-e-presidente-da-dolce-and-gabbana-renuncia-ao-cargo.ghtml",
       "date": "Fri, 10 Apr 2026 14:09:39 -0000"
-    },
-    {
-      "title": "Governo pro\u00EDbe lote de alecrim por presen\u00E7a de insetos vivos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/10/governo-proibe-lote-de-alecrim-por-presenca-de-insetos-vivos.ghtml",
-      "date": "Fri, 10 Apr 2026 13:57:39 -0000"
-    },
-    {
-      "title": "Allianz encerra naming rights com est\u00E1dio do Palmeiras ap\u00F3s 13 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/10/allianz-encerra-naming-rights-com-estadio-do-palmeiras-apos-13-anos.ghtml",
-      "date": "Fri, 10 Apr 2026 12:57:57 -0000"
-    },
-    {
-      "title": "Tribunal de com\u00E9rcio dos EUA avalia legalidade da tarifa global de 10% de Trump",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/10/tribunal-de-comercio-dos-eua-avalia-legalidade-da-tarifa-global-de-10percent-de-trump.ghtml",
-      "date": "Fri, 10 Apr 2026 12:38:31 -0000"
-    },
-    {
-      "title": "SpaceX, de Musk, teve preju\u00EDzo de quase US$ 5 bilh\u00F5es em 2025, diz site",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/10/spacex-de-musk-teve-prejuizo-de-quase-us-5-bilhoes-em-2025-diz-site.ghtml",
-      "date": "Fri, 10 Apr 2026 12:38:21 -0000"
     }
   ]
 }
