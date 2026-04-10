@@ -57,6 +57,30 @@
   ],
   "news": [
     {
+      "title": "\u00C9 #FATO: Banco Central da Fran\u00E7a tirou todo o ouro que o pa\u00EDs armazenava nos Estados Unidos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/04/10/e-fato-banco-central-da-franca-tirou-todo-o-ouro-que-o-pais-armazenava-nos-estados-unidos.ghtml",
+      "date": "Fri, 10 Apr 2026 08:03:49 -0000"
+    },
+    {
+      "title": "Como Trump fez o d\u00F3lar \u0027flopar\u0027 - e ajudou a valorizar o real",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/04/10/como-trump-fez-o-dolar-flopar-e-ajudou-a-valorizar-o-real.ghtml",
+      "date": "Fri, 10 Apr 2026 07:01:50 -0000"
+    },
+    {
+      "title": "Os seis quitutes que ganharam da coxinha como melhor comida de rua da Am\u00E9rica do Sul ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/10/os-seis-quitutes-que-ganharam-da-coxinha-como-melhor-comida-de-rua-da-america-do-sul.ghtml",
+      "date": "Fri, 10 Apr 2026 06:01:04 -0000"
+    },
+    {
+      "title": "Por que estados americanos podem proibir a constru\u00E7\u00E3o de data centers",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/10/por-que-estados-americanos-podem-proibir-a-construcao-de-data-centers.ghtml",
+      "date": "Fri, 10 Apr 2026 06:00:41 -0000"
+    },
+    {
       "title": "Plano do governo para liberar FGTS e quitar d\u00EDvidas reacende debate sobre uso do fundo; entenda",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/10/plano-governo-fgts-dividas-especialistas-entenda.ghtml",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/04/09/ira-impoe-restricoes-sobre-estreito-de-ormuz-e-movimento-de-navios-e-praticamente-nulo-incerteza-faz-preco-do-petroleo-oscilar.ghtml",
       "date": "Thu, 09 Apr 2026 19:38:37 -0000"
-    },
-    {
-      "title": "Gangorra de pre\u00E7os: com carne bovina em alta e su\u00EDna em queda, diferen\u00E7a nas cota\u00E7\u00F5es \u00E9 a maior em 4 anos; aponta USP",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/04/09/gangorra-de-precos-com-carne-bovina-em-alta-e-suina-em-queda-diferenca-nas-cotacoes-e-a-maior-em-4-anos-aponta-usp.ghtml",
-      "date": "Thu, 09 Apr 2026 17:02:44 -0000"
-    },
-    {
-      "title": "Pedidos de aux\u00EDlio-desemprego crescem nos EUA em meio a incertezas econ\u00F4micas e tens\u00F5es geopol\u00EDticas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/09/pedidos-de-auxilio-desemprego-crescem-nos-eua.ghtml",
-      "date": "Thu, 09 Apr 2026 16:18:32 -0000"
-    },
-    {
-      "title": "Estreito de Ormuz est\u00E1 praticamente paralisado; Ir\u00E3 alerta para risco de  minas navais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/04/09/estreito-de-ormuz-esta-praticamente-paralisado-ira-alerta-navios-em-transito.ghtml",
-      "date": "Thu, 09 Apr 2026 15:59:15 -0000"
-    },
-    {
-      "title": "Guerra no Ir\u00E3 pode elevar em at\u00E9 US$ 50 bilh\u00F5es a demanda por apoio financeiro do FMI",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/09/guerra-pode-elevar-demanda-por-apoio-financeiro-do-fmi-em-ate-us-50-bilhoes.ghtml",
-      "date": "Thu, 09 Apr 2026 15:01:13 -0000"
     }
   ]
 }
