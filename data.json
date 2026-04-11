@@ -57,6 +57,12 @@
   ],
   "news": [
     {
+      "title": "Quem \u00E9 Satoshi Nakamoto? Investiga\u00E7\u00E3o reacende debate sobre identidade de criador do bitcoin",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/11/quem-e-satoshi-nakamoto-investigacao-reacende-debate-sobre-identidade-de-criador-do-bitcoin.ghtml",
+      "date": "Sat, 11 Apr 2026 08:01:11 -0000"
+    },
+    {
       "title": "OpenAI, dona do ChatGPT, v\u00EA amea\u00E7a da IA ao emprego e defende semana de 4 dias",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/04/11/openai-dona-do-chatgpt-ve-ameaca-da-ia-ao-emprego-e-defende-semana-de-4-dias.ghtml",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/04/10/ataque-casa-sam-altman.ghtml",
       "date": "Fri, 10 Apr 2026 17:48:13 -0000"
-    },
-    {
-      "title": "Greve na Lufthansa afeta milhares de passageiros na Alemanha",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/10/greve-na-lufthansa-afeta-milhares-de-passageiros-na-alemanha.ghtml",
-      "date": "Fri, 10 Apr 2026 16:34:53 -0000"
     }
   ]
 }
