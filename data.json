@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 197887.14,
-      "change": 0.29,
-      "changeStr": "\u002B0.29%"
+      "price": 198000.7,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.54,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 87.01,
-      "change": 1.66,
-      "changeStr": "\u002B1.66%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 45.85,
-      "change": -0.48,
-      "changeStr": "-0.48%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 20.65,
-      "change": 1.03,
-      "changeStr": "\u002B1.03%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 24.78,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 9.29,
+      "price": 49.78,
       "change": 1.53,
       "changeStr": "\u002B1.53%"
     },
     {
+      "symbol": "VALE3",
+      "price": 87.36,
+      "change": 2.07,
+      "changeStr": "\u002B2.07%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 45.83,
+      "change": -0.52,
+      "changeStr": "-0.52%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 20.59,
+      "change": 0.73,
+      "changeStr": "\u002B0.73%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 24.75,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 9.21,
+      "change": 0.66,
+      "changeStr": "\u002B0.66%"
+    },
+    {
       "symbol": "ABEV3",
-      "price": 15.98,
-      "change": -0.87,
-      "changeStr": "-0.87%"
+      "price": 15.93,
+      "change": -1.18,
+      "changeStr": "-1.18%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.39,
-      "change": -0.93,
-      "changeStr": "-0.93%"
+      "price": 52.04,
+      "change": -1.59,
+      "changeStr": "-1.59%"
     }
   ],
   "news": [
+    {
+      "title": "D\u00F3lar abaixo de R$ 5: o que explica a queda da moeda americana?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/13/dolar-abaixo-de-r-5-o-que-explica-a-queda-da-moda-americana.ghtml",
+      "date": "Mon, 13 Apr 2026 20:42:05 -0000"
+    },
+    {
+      "title": "Delegado brasileiro que atua no ICE contribuiu para pris\u00E3o de Ramagem nos EUA, diz PF",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/13/delegado-brasileiro-que-atua-no-ice-contribuiu-para-prisao-de-ramagem-nos-eua-diz-pf.ghtml",
+      "date": "Mon, 13 Apr 2026 19:44:38 -0000"
+    },
+    {
+      "title": "Por que gigantes de tecnologia est\u00E3o investindo em energia nuclear",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/13/por-que-gigantes-de-tecnologia-estao-investindo-em-energia-nuclear.ghtml",
+      "date": "Mon, 13 Apr 2026 19:37:33 -0000"
+    },
     {
       "title": "Uber enfrenta novo julgamento por agress\u00E3o sexual ap\u00F3s indeniza\u00E7\u00E3o de US$ 8,5 milh\u00F5es",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/pix/noticia/2026/04/13/bc-diz-que-pix-permitiu-inclusao-financeira-dos-mais-pobres-ferramenta-esta-na-mira-dos-eua.ghtml",
       "date": "Mon, 13 Apr 2026 13:43:12 -0000"
-    },
-    {
-      "title": "Banco Mundial alerta para crise global de empregos mesmo ap\u00F3s fim da guerra no Oriente M\u00E9dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/13/chefe-do-banco-mundial-alerta-para-crise-iminente-de-empregos-mesmo-apos-fim-da-guerra.ghtml",
-      "date": "Mon, 13 Apr 2026 12:28:29 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo sobe mais de 5% ap\u00F3s bloqueio do Estreito de Ormuz pelos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/13/petroleo-precos.ghtml",
-      "date": "Mon, 13 Apr 2026 12:20:10 -0000"
-    },
-    {
-      "title": "Petrobras faz nova descoberta no pr\u00E9-sal da Bacia de Campos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/13/petrobras-faz-nova-descoberta-no-pre-sal-da-bacia-de-campos.ghtml",
-      "date": "Mon, 13 Apr 2026 12:08:02 -0000"
     }
   ]
 }
