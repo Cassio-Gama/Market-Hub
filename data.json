@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 196414.45,
-      "change": -0.46,
-      "changeStr": "-0.46%"
+      "price": 197076.2,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.7,
-      "change": 1.37,
-      "changeStr": "\u002B1.37%"
+      "price": 49.42,
+      "change": 0.8,
+      "changeStr": "\u002B0.80%"
     },
     {
       "symbol": "VALE3",
-      "price": 86.32,
-      "change": 0.85,
-      "changeStr": "\u002B0.85%"
+      "price": 86.67,
+      "change": 1.26,
+      "changeStr": "\u002B1.26%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.39,
-      "change": -1.48,
-      "changeStr": "-1.48%"
+      "price": 45.62,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.36,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 20.48,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.58,
-      "change": -0.61,
-      "changeStr": "-0.61%"
+      "price": 24.59,
+      "change": -0.57,
+      "changeStr": "-0.57%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.03,
-      "change": -1.31,
-      "changeStr": "-1.31%"
+      "price": 9.18,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.87,
-      "change": -1.55,
-      "changeStr": "-1.55%"
+      "price": 15.92,
+      "change": -1.24,
+      "changeStr": "-1.24%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.31,
-      "change": -1.08,
-      "changeStr": "-1.08%"
+      "price": 52.51,
+      "change": -0.7,
+      "changeStr": "-0.70%"
     }
   ],
   "news": [
+    {
+      "title": "Governo diz que fila do INSS recuou em mar\u00E7o, mas que est\u00E1 no mesmo tamanho de um ano atr\u00E1s",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/13/governo-diz-que-fila-do-inss-recuou-em-marco-mas-que-esta-no-mesmo-tamanho-de-um-ano-atras.ghtml",
+      "date": "Mon, 13 Apr 2026 16:09:03 -0000"
+    },
     {
       "title": "Fiat Toro tem recall no Brasil por risco de inc\u00EAndio",
       "source": "G1 Economia",
@@ -63,7 +69,7 @@
       "date": "Mon, 13 Apr 2026 14:37:35 -0000"
     },
     {
-      "title": "Quase 130 milh\u00F5es de pessoas t\u00EAm d\u00E9bitos banc\u00E1rios, e BC v\u00EA superendividamento como \u0027problema crescente\u0027 no Brasil",
+      "title": "117 milh\u00F5es de pessoas t\u00EAm d\u00E9bitos banc\u00E1rios, e BC v\u00EA superendividamento como \u0027problema crescente\u0027 no Brasil",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/13/com-quase-130-milhoes-de-pessoas-com-debitos-bancarios-bc-avalia-que-superendividamento-e-problema-crescente-no-brasil.ghtml",
       "date": "Mon, 13 Apr 2026 14:25:27 -0000"
@@ -93,7 +99,7 @@
       "date": "Mon, 13 Apr 2026 12:28:29 -0000"
     },
     {
-      "title": "Petr\u00F3leo sobe mais de 7% e supera US$ 102 antes de bloqueio dos EUA ao Ir\u00E3",
+      "title": "Petr\u00F3leo sobe mais de 5% ap\u00F3s bloqueio do Estreito de Ormuz pelos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/13/petroleo-precos.ghtml",
       "date": "Mon, 13 Apr 2026 12:20:10 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/13/jbs-chega-a-acordo-provisorio-com-trabalhadores-em-greve-em-fabrica-nos-eua.ghtml",
       "date": "Mon, 13 Apr 2026 12:00:57 -0000"
-    },
-    {
-      "title": "Ibovespa recua com petr\u00F3leo em alta e amea\u00E7a de Trump sobre Ormuz; d\u00F3lar sobe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/13/dolar-ibovespa.ghtml",
-      "date": "Mon, 13 Apr 2026 12:00:13 -0000"
     }
   ]
 }
