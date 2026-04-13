@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 196507.02,
-      "change": -0.41,
-      "changeStr": "-0.41%"
+      "price": 196414.45,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.91,
-      "change": 1.79,
-      "changeStr": "\u002B1.79%"
+      "price": 49.7,
+      "change": 1.37,
+      "changeStr": "\u002B1.37%"
     },
     {
       "symbol": "VALE3",
-      "price": 86.34,
-      "change": 0.88,
-      "changeStr": "\u002B0.88%"
+      "price": 86.32,
+      "change": 0.85,
+      "changeStr": "\u002B0.85%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.4,
-      "change": -1.45,
-      "changeStr": "-1.45%"
+      "price": 45.39,
+      "change": -1.48,
+      "changeStr": "-1.48%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.24,
-      "change": -0.98,
-      "changeStr": "-0.98%"
+      "price": 20.36,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.51,
-      "change": -0.89,
-      "changeStr": "-0.89%"
+      "price": 24.58,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.04,
-      "change": -1.2,
-      "changeStr": "-1.20%"
+      "price": 9.03,
+      "change": -1.31,
+      "changeStr": "-1.31%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.95,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 15.87,
+      "change": -1.55,
+      "changeStr": "-1.55%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.43,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 52.31,
+      "change": -1.08,
+      "changeStr": "-1.08%"
     }
   ],
   "news": [
+    {
+      "title": "Fiat Toro tem recall no Brasil por risco de inc\u00EAndio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/13/fiat-toro-tem-recall-no-brasil-por-risco-de-incendio.ghtml",
+      "date": "Mon, 13 Apr 2026 14:37:35 -0000"
+    },
+    {
+      "title": "Quase 130 milh\u00F5es de pessoas t\u00EAm d\u00E9bitos banc\u00E1rios, e BC v\u00EA superendividamento como \u0027problema crescente\u0027 no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/13/com-quase-130-milhoes-de-pessoas-com-debitos-bancarios-bc-avalia-que-superendividamento-e-problema-crescente-no-brasil.ghtml",
+      "date": "Mon, 13 Apr 2026 14:25:27 -0000"
+    },
+    {
+      "title": "Volta \u00E0 Lua custa bilh\u00F5es \u2014 mas o que os EUA ganham com isso?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/13/quanto-custou-retorno-historico-a-lua-e-quem-ganha-com-isso.ghtml",
+      "date": "Mon, 13 Apr 2026 14:18:45 -0000"
+    },
+    {
+      "title": "Novo Volkswagen Tiguan aposta em desempenho para enfrentar SUVs chineses, mas pre\u00E7o amarga; V\u00CDDEO",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/13/novo-vw-tiguan-teste.ghtml",
+      "date": "Mon, 13 Apr 2026 14:00:33 -0000"
+    },
     {
       "title": "BC diz que PIX permitiu inclus\u00E3o financeira dos mais pobres; ferramenta est\u00E1 na mira dos EUA",
       "source": "G1 Economia",
@@ -87,34 +111,10 @@
       "date": "Mon, 13 Apr 2026 12:00:57 -0000"
     },
     {
-      "title": "D\u00F3lar sobe ap\u00F3s fracasso nas negocia\u00E7\u00F5es e amea\u00E7a de Trump sobre Ormuz; Ibovespa abre em queda",
+      "title": "Ibovespa recua com petr\u00F3leo em alta e amea\u00E7a de Trump sobre Ormuz; d\u00F3lar sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/13/dolar-ibovespa.ghtml",
       "date": "Mon, 13 Apr 2026 12:00:13 -0000"
-    },
-    {
-      "title": "Com guerra no Oriente M\u00E9dio, mercado sobe estimativa de novo e passa a prever estouro da meta de infla\u00E7\u00E3o neste ano ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/13/com-guerra-no-oriente-medio-mercado-sobe-estimativa-de-novo-e-passa-a-prever-estouro-da-meta-de-inflacao-neste-ano.ghtml",
-      "date": "Mon, 13 Apr 2026 11:28:40 -0000"
-    },
-    {
-      "title": "R\u00FAssia, China e Uni\u00E3o Europeia criticam EUA e Ir\u00E3 pelo bloqueio do Estreito de Ormuz",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/04/13/russia-china-uniao-europeia-criticam-eua-ira-bloqueio-estreito-ormuz.ghtml",
-      "date": "Mon, 13 Apr 2026 10:54:21 -0000"
-    },
-    {
-      "title": "EUA dizem que bloqueio naval ao estreito de Ormuz come\u00E7ar\u00E1 em poucas horas e pre\u00E7o do petr\u00F3leo dispara novamente",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/13/eua-dizem-que-bloqueio-naval-ao-estreito-de-ormuz-comecara-em-poucas-horas-e-preco-do-petroleo-dispara-novamente.ghtml",
-      "date": "Mon, 13 Apr 2026 10:25:29 -0000"
-    },
-    {
-      "title": "Brasileiro trabalha pouco? O que \u00E9 produtividade e por que ela se tornou central no debate sobre escala 6x1",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/13/brasileiro-trabalha-pouco-o-que-e-produtividade-e-por-que-ela-se-tornou-central-no-debate-sobre-escala-6x1.ghtml",
-      "date": "Mon, 13 Apr 2026 10:22:42 -0000"
     }
   ]
 }
