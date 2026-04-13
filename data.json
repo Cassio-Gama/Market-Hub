@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 197323.88,
-      "change": 1.12,
-      "changeStr": "\u002B1.12%"
+      "price": 196507.02,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.03,
-      "change": 2.36,
-      "changeStr": "\u002B2.36%"
+      "price": 49.91,
+      "change": 1.79,
+      "changeStr": "\u002B1.79%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.59,
-      "change": 1.06,
-      "changeStr": "\u002B1.06%"
+      "price": 86.34,
+      "change": 0.88,
+      "changeStr": "\u002B0.88%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.07,
-      "change": 0.7,
-      "changeStr": "\u002B0.70%"
+      "price": 45.4,
+      "change": -1.45,
+      "changeStr": "-1.45%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.44,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 20.24,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.73,
-      "change": 0.04,
-      "changeStr": "\u002B0.04%"
+      "price": 24.51,
+      "change": -0.89,
+      "changeStr": "-0.89%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.15,
-      "change": -0.87,
-      "changeStr": "-0.87%"
+      "price": 9.04,
+      "change": -1.2,
+      "changeStr": "-1.20%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.12,
-      "change": 0.37,
-      "changeStr": "\u002B0.37%"
+      "price": 15.95,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.88,
-      "change": 0.72,
-      "changeStr": "\u002B0.72%"
+      "price": 52.43,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     }
   ],
   "news": [
+    {
+      "title": "BC diz que PIX permitiu inclus\u00E3o financeira dos mais pobres; ferramenta est\u00E1 na mira dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/pix/noticia/2026/04/13/bc-diz-que-pix-permitiu-inclusao-financeira-dos-mais-pobres-ferramenta-esta-na-mira-dos-eua.ghtml",
+      "date": "Mon, 13 Apr 2026 13:43:12 -0000"
+    },
+    {
+      "title": "Banco Mundial alerta para crise global de empregos mesmo ap\u00F3s fim da guerra no Oriente M\u00E9dio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/13/chefe-do-banco-mundial-alerta-para-crise-iminente-de-empregos-mesmo-apos-fim-da-guerra.ghtml",
+      "date": "Mon, 13 Apr 2026 12:28:29 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo sobe mais de 7% e supera US$ 102 antes de bloqueio dos EUA ao Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/13/petroleo-precos.ghtml",
+      "date": "Mon, 13 Apr 2026 12:20:10 -0000"
+    },
+    {
+      "title": "Petrobras faz nova descoberta no pr\u00E9-sal da Bacia de Campos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/13/petrobras-faz-nova-descoberta-no-pre-sal-da-bacia-de-campos.ghtml",
+      "date": "Mon, 13 Apr 2026 12:08:02 -0000"
+    },
+    {
+      "title": "JBS chega a acordo provis\u00F3rio com trabalhadores em greve em f\u00E1brica nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/13/jbs-chega-a-acordo-provisorio-com-trabalhadores-em-greve-em-fabrica-nos-eua.ghtml",
+      "date": "Mon, 13 Apr 2026 12:00:57 -0000"
+    },
+    {
+      "title": "D\u00F3lar sobe ap\u00F3s fracasso nas negocia\u00E7\u00F5es e amea\u00E7a de Trump sobre Ormuz; Ibovespa abre em queda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/13/dolar-ibovespa.ghtml",
+      "date": "Mon, 13 Apr 2026 12:00:13 -0000"
+    },
+    {
+      "title": "Com guerra no Oriente M\u00E9dio, mercado sobe estimativa de novo e passa a prever estouro da meta de infla\u00E7\u00E3o neste ano ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/13/com-guerra-no-oriente-medio-mercado-sobe-estimativa-de-novo-e-passa-a-prever-estouro-da-meta-de-inflacao-neste-ano.ghtml",
+      "date": "Mon, 13 Apr 2026 11:28:40 -0000"
+    },
     {
       "title": "R\u00FAssia, China e Uni\u00E3o Europeia criticam EUA e Ir\u00E3 pelo bloqueio do Estreito de Ormuz",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/13/brasileiro-trabalha-pouco-o-que-e-produtividade-e-por-que-ela-se-tornou-central-no-debate-sobre-escala-6x1.ghtml",
       "date": "Mon, 13 Apr 2026 10:22:42 -0000"
-    },
-    {
-      "title": "Licen\u00E7a\u2011paternidade de at\u00E9 20 dias: o que muda para MEIs e aut\u00F4nomos e quando come\u00E7a a valer",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/04/13/licencapaternidade-meis-autonomos.ghtml",
-      "date": "Mon, 13 Apr 2026 05:00:34 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo sobe acima de US$ 100 ap\u00F3s fracasso nas negocia\u00E7\u00F5es e amea\u00E7a de Trump sobre Ormuz",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/12/petroleo-precos.ghtml",
-      "date": "Sun, 12 Apr 2026 22:56:43 -0000"
-    },
-    {
-      "title": "O cofre nos EUA que guarda toneladas de barras de ouro de v\u00E1rios pa\u00EDses \u2013 e por que europeus querem tir\u00E1-las de l\u00E1",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/12/o-cofre-nos-eua-que-guarda-toneladas-de-barras-de-ouro-de-varios-paises-e-por-que-europeus-querem-tira-las-de-la.ghtml",
-      "date": "Sun, 12 Apr 2026 20:56:49 -0000"
-    },
-    {
-      "title": "O castelo de 250 quartos de fam\u00EDlia bilion\u00E1ria que conta como foi a Era Dourada dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/04/12/o-castelo-de-250-quartos-de-familia-bilionaria-que-conta-como-foi-a-era-dourada-dos-eua.ghtml",
-      "date": "Sun, 12 Apr 2026 15:57:48 -0000"
-    },
-    {
-      "title": "Expo Agro de Itapetininga: a tradi\u00E7\u00E3o que une gera\u00E7\u00F5es e movimenta milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/12/expo-agro-de-itapetininga-a-tradicao-que-une-geracoes-e-movimenta-milhoes.ghtml",
-      "date": "Sun, 12 Apr 2026 10:30:41 -0000"
-    },
-    {
-      "title": "Maracuj\u00E1 no interior de SP: produtores usam t\u00E9cnica pr\u00F3pria para driblar pre\u00E7o baixo e clima",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/12/maracuja-no-interior-de-sp-produtores-usam-tecnica-propria-para-driblar-preco-baixo-e-clima.ghtml",
-      "date": "Sun, 12 Apr 2026 10:30:39 -0000"
-    },
-    {
-      "title": "Alta do diesel preocupa produtores de cana no in\u00EDcio da safra no interior de SP",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/12/alta-do-diesel-preocupa-produtores-de-cana-no-inicio-da-safra-no-interior-de-sp.ghtml",
-      "date": "Sun, 12 Apr 2026 10:30:38 -0000"
     }
   ]
 }
