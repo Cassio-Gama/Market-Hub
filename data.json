@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 198944.33,
-      "change": 0.48,
-      "changeStr": "\u002B0.48%"
+      "price": 198399.55,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.36,
-      "change": -2.85,
-      "changeStr": "-2.85%"
+      "price": 48.07,
+      "change": -3.44,
+      "changeStr": "-3.44%"
     },
     {
       "symbol": "VALE3",
-      "price": 88.33,
-      "change": 1.11,
-      "changeStr": "\u002B1.11%"
+      "price": 87.72,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.61,
-      "change": 1.7,
-      "changeStr": "\u002B1.70%"
+      "price": 46.46,
+      "change": 1.37,
+      "changeStr": "\u002B1.37%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.87,
-      "change": 1.36,
-      "changeStr": "\u002B1.36%"
+      "price": 20.74,
+      "change": 0.73,
+      "changeStr": "\u002B0.73%"
     },
     {
       "symbol": "BBAS3",
-      "price": 25.03,
-      "change": 1.13,
-      "changeStr": "\u002B1.13%"
+      "price": 25.21,
+      "change": 1.86,
+      "changeStr": "\u002B1.86%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.36,
-      "change": 1.63,
-      "changeStr": "\u002B1.63%"
+      "price": 9.23,
+      "change": 0.22,
+      "changeStr": "\u002B0.22%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.96,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 15.83,
+      "change": -0.63,
+      "changeStr": "-0.63%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.09,
-      "change": -1.83,
-      "changeStr": "-1.83%"
+      "price": 51.69,
+      "change": -0.67,
+      "changeStr": "-0.67%"
     }
   ],
   "news": [
+    {
+      "title": "Governo amplia fiscaliza\u00E7\u00E3o sobre distribuidoras de combust\u00EDveis que tenham subs\u00EDdios e muda valores do G\u00E1s do Povo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/14/governo-aumenta-fiscalizacao-sobre-distribuidoras-de-combustiveis-que-tenham-subsidio-e-reajusta-precos-do-gas-do-povo.ghtml",
+      "date": "Tue, 14 Apr 2026 15:15:02 -0000"
+    },
+    {
+      "title": "FBI faz opera\u00E7\u00E3o em casa de suspeito de atacar resid\u00EAncia do CEO da OpenAI com coquetel molotov",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/14/fbi-operacao-suspeito-ataque-residencia-ceo-openai.ghtml",
+      "date": "Tue, 14 Apr 2026 15:08:28 -0000"
+    },
     {
       "title": "Falhas sist\u00EAmicas no INSS causaram preju\u00EDzo de R$ 233 milh\u00F5es e travam an\u00E1lise de 1,7 milh\u00E3o de processos",
       "source": "G1 Economia",
@@ -69,7 +81,7 @@
       "date": "Tue, 14 Apr 2026 13:49:24 -0000"
     },
     {
-      "title": "FMI eleva proje\u00E7\u00E3o de crescimento do Brasil em 2026 e cita impacto positivo da guerra no Oriente M\u00E9dio",
+      "title": "Guerra leva FMI a reduzir proje\u00E7\u00E3o de crescimento global; Brasil deve ter alta de 1,9%",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/14/fmi-eleva-projecao-de-crescimento-do-brasil-em-2026-e-cita-impacto-positivo-da-guerra-no-oriente-medio.ghtml",
       "date": "Tue, 14 Apr 2026 13:38:25 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/04/14/trump-phone-celular-da-marca-de-donald-trump-ganha-nova-versao-e-mantem-visual-dourado.ghtml",
       "date": "Tue, 14 Apr 2026 13:00:36 -0000"
-    },
-    {
-      "title": "Meta cria \u0027clone\u0027 de Mark Zuckerberg com intelig\u00EAncia artificial, diz jornal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/14/meta-cria-clone-de-mark-zuckerberg-com-inteligencia-artificial-diz-jornal.ghtml",
-      "date": "Tue, 14 Apr 2026 12:55:19 -0000"
-    },
-    {
-      "title": "Porto e Fleury desistem de criar nova empresa com a Oncocl\u00EDnicas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/14/porto-e-fleury-desistem-de-criar-nova-empresa-com-a-oncoclinicas.ghtml",
-      "date": "Tue, 14 Apr 2026 12:54:53 -0000"
     }
   ]
 }
