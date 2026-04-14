@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 198399.55,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 198670.4,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.07,
-      "change": -3.44,
-      "changeStr": "-3.44%"
+      "price": 47.77,
+      "change": -4.04,
+      "changeStr": "-4.04%"
     },
     {
       "symbol": "VALE3",
-      "price": 87.72,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 88.01,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.46,
-      "change": 1.37,
-      "changeStr": "\u002B1.37%"
+      "price": 46.59,
+      "change": 1.66,
+      "changeStr": "\u002B1.66%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.74,
-      "change": 0.73,
-      "changeStr": "\u002B0.73%"
+      "price": 20.78,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "BBAS3",
-      "price": 25.21,
-      "change": 1.86,
-      "changeStr": "\u002B1.86%"
+      "price": 25.46,
+      "change": 2.87,
+      "changeStr": "\u002B2.87%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.23,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 9.21,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.83,
-      "change": -0.63,
-      "changeStr": "-0.63%"
+      "price": 15.92,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.69,
-      "change": -0.67,
-      "changeStr": "-0.67%"
+      "price": 51.84,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     }
   ],
   "news": [
+    {
+      "title": "\u2018Caso ela diga n\u00E3o\u2019: trend brasileira que promove viol\u00EAncia contra mulheres  escandaliza imprensa francesa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/04/14/caso-ela-diga-nao-trend-brasileira-que-promove-violencia-contra-mulheres-escandaliza-imprensa-francesa.ghtml",
+      "date": "Tue, 14 Apr 2026 15:52:46 -0000"
+    },
     {
       "title": "Governo amplia fiscaliza\u00E7\u00E3o sobre distribuidoras de combust\u00EDveis que tenham subs\u00EDdios e muda valores do G\u00E1s do Povo",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/04/14/gemini-ia-do-google-aumenta-integracao-com-gmail-e-youtube-para-personalizar-respostas.ghtml",
       "date": "Tue, 14 Apr 2026 13:00:38 -0000"
-    },
-    {
-      "title": "Trump Phone: celular da marca de Donald Trump ganha nova vers\u00E3o e mant\u00E9m visual dourado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/14/trump-phone-celular-da-marca-de-donald-trump-ganha-nova-versao-e-mantem-visual-dourado.ghtml",
-      "date": "Tue, 14 Apr 2026 13:00:36 -0000"
     }
   ]
 }
