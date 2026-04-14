@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 198670.4,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 198773.4,
+      "change": 0.39,
+      "changeStr": "\u002B0.39%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.77,
-      "change": -4.04,
-      "changeStr": "-4.04%"
+      "price": 47.96,
+      "change": -3.66,
+      "changeStr": "-3.66%"
     },
     {
       "symbol": "VALE3",
-      "price": 88.01,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 88.45,
+      "change": 1.25,
+      "changeStr": "\u002B1.25%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.59,
-      "change": 1.66,
-      "changeStr": "\u002B1.66%"
+      "price": 46.69,
+      "change": 1.88,
+      "changeStr": "\u002B1.88%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.78,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 20.73,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "BBAS3",
-      "price": 25.46,
-      "change": 2.87,
-      "changeStr": "\u002B2.87%"
+      "price": 25.39,
+      "change": 2.59,
+      "changeStr": "\u002B2.59%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.21,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 9.28,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.92,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 15.89,
+      "change": -0.25,
+      "changeStr": "-0.25%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.84,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 51.97,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     }
   ],
   "news": [
+    {
+      "title": "Entenda como a USP apura, em Piracicaba, o principal indicador do pre\u00E7o comercial do caf\u00E9 do Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/04/14/entenda-como-a-usp-apura-em-piracicaba-o-principal-indicador-do-preco-comercial-do-cafe-do-brasil.ghtml",
+      "date": "Tue, 14 Apr 2026 17:30:36 -0000"
+    },
     {
       "title": "\u2018Caso ela diga n\u00E3o\u2019: trend brasileira que promove viol\u00EAncia contra mulheres  escandaliza imprensa francesa",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/04/14/bndes-aprova-financiamento-de-r-279-milhoes-para-projetos-de-inovacao-da-embraer.ghtml",
       "date": "Tue, 14 Apr 2026 13:02:08 -0000"
-    },
-    {
-      "title": "Gemini, IA do Google, aumenta integra\u00E7\u00E3o com Gmail e YouTube para personalizar respostas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/14/gemini-ia-do-google-aumenta-integracao-com-gmail-e-youtube-para-personalizar-respostas.ghtml",
-      "date": "Tue, 14 Apr 2026 13:00:38 -0000"
     }
   ]
 }
