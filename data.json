@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 198773.4,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 198657.33,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.96,
-      "change": -3.66,
-      "changeStr": "-3.66%"
+      "price": 47.88,
+      "change": -3.82,
+      "changeStr": "-3.82%"
     },
     {
       "symbol": "VALE3",
-      "price": 88.45,
-      "change": 1.25,
-      "changeStr": "\u002B1.25%"
+      "price": 88.3,
+      "change": 1.08,
+      "changeStr": "\u002B1.08%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.69,
-      "change": 1.88,
-      "changeStr": "\u002B1.88%"
+      "price": 46.53,
+      "change": 1.53,
+      "changeStr": "\u002B1.53%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.73,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 20.78,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "BBAS3",
-      "price": 25.39,
-      "change": 2.59,
-      "changeStr": "\u002B2.59%"
+      "price": 25.38,
+      "change": 2.55,
+      "changeStr": "\u002B2.55%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.28,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 9.25,
+      "change": 0.43,
+      "changeStr": "\u002B0.43%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,18 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 51.97,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 51.9,
+      "change": -0.27,
+      "changeStr": "-0.27%"
     }
   ],
   "news": [
+    {
+      "title": "Argentina: infla\u00E7\u00E3o acelera a 3,4% em mar\u00E7o, maior n\u00EDvel mensal em um ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/14/inflacao-argentina-marco.ghtml",
+      "date": "Tue, 14 Apr 2026 21:45:30 -0000"
+    },
     {
       "title": "Entenda como a USP apura, em Piracicaba, o principal indicador do pre\u00E7o comercial do caf\u00E9 do Brasil",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/04/14/coalizao-empresarial-contra-a-desinformacao-no-brasil.ghtml",
       "date": "Tue, 14 Apr 2026 13:33:58 -0000"
-    },
-    {
-      "title": "BNDES aprova financiamento de R$ 279 milh\u00F5es para projetos de inova\u00E7\u00E3o da Embraer",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/04/14/bndes-aprova-financiamento-de-r-279-milhoes-para-projetos-de-inovacao-da-embraer.ghtml",
-      "date": "Tue, 14 Apr 2026 13:02:08 -0000"
     }
   ]
 }
