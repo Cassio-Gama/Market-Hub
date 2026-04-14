@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 198000.7,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 198944.33,
+      "change": 0.48,
+      "changeStr": "\u002B0.48%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.78,
-      "change": 1.53,
-      "changeStr": "\u002B1.53%"
+      "price": 48.36,
+      "change": -2.85,
+      "changeStr": "-2.85%"
     },
     {
       "symbol": "VALE3",
-      "price": 87.36,
-      "change": 2.07,
-      "changeStr": "\u002B2.07%"
+      "price": 88.33,
+      "change": 1.11,
+      "changeStr": "\u002B1.11%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.83,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 46.61,
+      "change": 1.7,
+      "changeStr": "\u002B1.70%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.59,
-      "change": 0.73,
-      "changeStr": "\u002B0.73%"
+      "price": 20.87,
+      "change": 1.36,
+      "changeStr": "\u002B1.36%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.75,
-      "change": 0.08,
-      "changeStr": "\u002B0.08%"
+      "price": 25.03,
+      "change": 1.13,
+      "changeStr": "\u002B1.13%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.21,
-      "change": 0.66,
-      "changeStr": "\u002B0.66%"
+      "price": 9.36,
+      "change": 1.63,
+      "changeStr": "\u002B1.63%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.93,
-      "change": -1.18,
-      "changeStr": "-1.18%"
+      "price": 15.96,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.04,
-      "change": -1.59,
-      "changeStr": "-1.59%"
+      "price": 51.09,
+      "change": -1.83,
+      "changeStr": "-1.83%"
     }
   ],
   "news": [
     {
-      "title": "Valores a receber: mais de 47 milh\u00F5es de pessoas ainda t\u00EAm dinheiro esquecido nos bancos; veja como sacar os recursos",
+      "title": "Falhas sist\u00EAmicas no INSS causaram preju\u00EDzo de R$ 233 milh\u00F5es e travam an\u00E1lise de 1,7 milh\u00E3o de processos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/14/valores-a-receber-mais-de-47-milhoes-de-pessoas-ainda-tem-dinheiro-esquecido-nos-bancos-veja-como-sacar-os-recursos.ghtml",
-      "date": "Tue, 14 Apr 2026 11:49:08 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/04/14/falhas-sistemicas-no-inss-causaram-prejuizo-de-r-233-milhoes-e-travam-analise-de-17-milhao-de-processos.ghtml",
+      "date": "Tue, 14 Apr 2026 14:34:28 -0000"
     },
     {
-      "title": "Dia Mundial do Caf\u00E9: teste seus conhecimentos sobre a bebida queridinha dos brasileiros",
+      "title": "MBRF avan\u00E7a em parceria com fundo saudita na Sadia Halal em prepara\u00E7\u00E3o para oferta de a\u00E7\u00F5es",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/14/dia-mundial-do-cafe-teste-seus-conhecimentos-sobre-a-bebida-queridinha-dos-brasileiros.ghtml",
-      "date": "Tue, 14 Apr 2026 11:28:39 -0000"
+      "url": "https://g1.globo.com/economia/negocios/noticia/2026/04/14/mbrf-obtem-aprovacoes-para-joint-venture-com-fundo-soberano-da-arabia-saudita.ghtml",
+      "date": "Tue, 14 Apr 2026 13:49:24 -0000"
     },
     {
-      "title": "Passageiro de transporte a\u00E9reo tem novo canal da Anac para registrar reclama\u00E7\u00F5es e conferir seus direitos",
+      "title": "FMI eleva proje\u00E7\u00E3o de crescimento do Brasil em 2026 e cita impacto positivo da guerra no Oriente M\u00E9dio",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/14/passageiro-de-transporte-aereo-tem-novo-canal-da-anac-para-registrar-reclamacoes-e-conferir-seus-direitos.ghtml",
-      "date": "Tue, 14 Apr 2026 11:28:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/04/14/fmi-eleva-projecao-de-crescimento-do-brasil-em-2026-e-cita-impacto-positivo-da-guerra-no-oriente-medio.ghtml",
+      "date": "Tue, 14 Apr 2026 13:38:25 -0000"
     },
     {
-      "title": "Novo Nordisk, dona do Ozempic, anuncia alian\u00E7a com OpenAI para desenvolver rem\u00E9dios",
+      "title": "CEO da United Airlines falou com Trump sobre fus\u00E3o com a American, diz ag\u00EAncia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/14/novo-nordisk-anuncia-alianca-com-a-openai-para-o-desenvolvimento-de-medicamentos.ghtml",
-      "date": "Tue, 14 Apr 2026 10:43:14 -0000"
+      "url": "https://g1.globo.com/economia/negocios/noticia/2026/04/14/united-airlines-fusao-american-airlines-trump.ghtml",
+      "date": "Tue, 14 Apr 2026 13:34:58 -0000"
     },
     {
-      "title": "Fundador do grupo imobili\u00E1rio chin\u00EAs Evergrande se declara culpado de fraude",
+      "title": "Associa\u00E7\u00F5es empresariais lan\u00E7am coaliz\u00E3o contra a desinforma\u00E7\u00E3o no Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/14/fundador-do-grupo-imobiliario-chines-evergrande-se-declara-culpado-de-fraude.ghtml",
-      "date": "Tue, 14 Apr 2026 10:42:52 -0000"
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/04/14/coalizao-empresarial-contra-a-desinformacao-no-brasil.ghtml",
+      "date": "Tue, 14 Apr 2026 13:33:58 -0000"
     },
     {
-      "title": "\nGreve na Lufthansa vai at\u00E9 quinta e afeta voos para o Brasil",
+      "title": "BNDES aprova financiamento de R$ 279 milh\u00F5es para projetos de inova\u00E7\u00E3o da Embraer",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/14/greve-na-lufthansa-vai-ate-quinta-e-afeta-voos-para-o-brasil.ghtml",
-      "date": "Tue, 14 Apr 2026 10:31:27 -0000"
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/04/14/bndes-aprova-financiamento-de-r-279-milhoes-para-projetos-de-inovacao-da-embraer.ghtml",
+      "date": "Tue, 14 Apr 2026 13:02:08 -0000"
     },
     {
-      "title": "V\u00CDDEO: rob\u00F4 chin\u00EAs corre 100 metros em 10 segundos e se aproxima da marca de Usain Bolt",
+      "title": "Gemini, IA do Google, aumenta integra\u00E7\u00E3o com Gmail e YouTube para personalizar respostas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/04/14/robo-chines-usain-bolt.ghtml",
-      "date": "Tue, 14 Apr 2026 06:01:10 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/14/gemini-ia-do-google-aumenta-integracao-com-gmail-e-youtube-para-personalizar-respostas.ghtml",
+      "date": "Tue, 14 Apr 2026 13:00:38 -0000"
     },
     {
-      "title": "Ovo de R$ 150 e couro mais caro que o de boi: produtor lucra com mercado de avestruz no Brasil",
+      "title": "Trump Phone: celular da marca de Donald Trump ganha nova vers\u00E3o e mant\u00E9m visual dourado",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/04/14/ovo-de-r-150-e-couro-mais-caro-que-o-de-boi-produtor-lucra-com-mercado-de-avestruz-no-brasil.ghtml",
-      "date": "Tue, 14 Apr 2026 06:01:07 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/14/trump-phone-celular-da-marca-de-donald-trump-ganha-nova-versao-e-mantem-visual-dourado.ghtml",
+      "date": "Tue, 14 Apr 2026 13:00:36 -0000"
     },
     {
-      "title": "Abono salarial PIS/Pasep 2026 ter\u00E1 novo pagamento na quarta-feira; veja quem tem direito",
+      "title": "Meta cria \u0027clone\u0027 de Mark Zuckerberg com intelig\u00EAncia artificial, diz jornal",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/14/abono-salarial-pispasep-2026-veja-quem-tem-direito.ghtml",
-      "date": "Tue, 14 Apr 2026 05:01:01 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/14/meta-cria-clone-de-mark-zuckerberg-com-inteligencia-artificial-diz-jornal.ghtml",
+      "date": "Tue, 14 Apr 2026 12:55:19 -0000"
     },
     {
-      "title": "Como chatbot de IA descobriu condi\u00E7\u00E3o rara de mulher ap\u00F3s anos de diagn\u00F3sticos errados",
+      "title": "Porto e Fleury desistem de criar nova empresa com a Oncocl\u00EDnicas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/14/como-chatbot-de-ia-descobriu-condicao-rara-de-mulher-apos-anos-de-diagnosticos-errados.ghtml",
-      "date": "Tue, 14 Apr 2026 05:00:39 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/04/14/porto-e-fleury-desistem-de-criar-nova-empresa-com-a-oncoclinicas.ghtml",
+      "date": "Tue, 14 Apr 2026 12:54:53 -0000"
     }
   ]
 }
