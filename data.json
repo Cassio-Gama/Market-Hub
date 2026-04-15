@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 197412.98,
-      "change": -0.63,
-      "changeStr": "-0.63%"
+      "price": 197737.61,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.85,
-      "change": -2.15,
-      "changeStr": "-2.15%"
+      "price": 46.89,
+      "change": -2.07,
+      "changeStr": "-2.07%"
     },
     {
       "symbol": "VALE3",
-      "price": 88.54,
-      "change": 0.27,
-      "changeStr": "\u002B0.27%"
+      "price": 88.44,
+      "change": 0.16,
+      "changeStr": "\u002B0.16%"
     },
     {
       "symbol": "ITUB4",
@@ -32,30 +32,54 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 24.38,
-      "change": -3.94,
-      "changeStr": "-3.94%"
+      "price": 24.4,
+      "change": -3.86,
+      "changeStr": "-3.86%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.38,
-      "change": 1.41,
-      "changeStr": "\u002B1.41%"
+      "price": 9.39,
+      "change": 1.51,
+      "changeStr": "\u002B1.51%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.82,
-      "change": -0.44,
-      "changeStr": "-0.44%"
+      "price": 15.83,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.85,
-      "change": -3.95,
-      "changeStr": "-3.95%"
+      "price": 49.96,
+      "change": -3.74,
+      "changeStr": "-3.74%"
     }
   ],
   "news": [
+    {
+      "title": "EUA anunciam novas san\u00E7\u00F5es contra o petr\u00F3leo do Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/15/eua-petroleo-ira.ghtml",
+      "date": "Wed, 15 Apr 2026 21:25:17 -0000"
+    },
+    {
+      "title": "TCU determina que governo elabore plano para reformular regras do uso de avi\u00F5es da FAB por autoridades",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/15/tcu-determina-que-governo-elabore-plano-para-reformular-regras-do-uso-de-avioes-da-fab-por-autoridades.ghtml",
+      "date": "Wed, 15 Apr 2026 21:01:45 -0000"
+    },
+    {
+      "title": "Governo prop\u00F5e meta fiscal de super\u00E1vit de 0,5% do PIB em 2027, o equivalente a R$ 73,2 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/15/governo-propoe-meta-fiscal-de-superavit-de-05percent-do-pib-em-2027.ghtml",
+      "date": "Wed, 15 Apr 2026 20:22:05 -0000"
+    },
+    {
+      "title": "Governo estima sal\u00E1rio m\u00EDnimo de R$ 1.717 em 2027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/15/proposta-do-governo-para-regras-do-orcamento-de-2027-estima-salario-minimo-de-r-1717.ghtml",
+      "date": "Wed, 15 Apr 2026 20:18:55 -0000"
+    },
     {
       "title": "Escala 6x1: entenda principais pontos e diferen\u00E7as entre textos do Congresso e do governo",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/04/15/analise-quaest-abril.ghtml",
       "date": "Wed, 15 Apr 2026 14:38:22 -0000"
-    },
-    {
-      "title": "Fim da jornada 6x1: os argumentos de quem \u00E9 contra e quem \u00E9 a favor",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/15/fim-da-jornada-6x1-os-argumentos-de-que-e-contra-e-quem-e-a-favor.ghtml",
-      "date": "Wed, 15 Apr 2026 13:46:50 -0000"
-    },
-    {
-      "title": "Ministros das Finan\u00E7as de ao menos 11 pa\u00EDses alertam para impacto prolongado do conflito no Oriente M\u00E9dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/15/ministros-das-financas-alertam-para-impacto-prolongado-do-conflito-no-oriente-medio.ghtml",
-      "date": "Wed, 15 Apr 2026 13:40:20 -0000"
-    },
-    {
-      "title": "Maioria dos brasileiros v\u00EA como improv\u00E1vel perder emprego em 6 meses, diz estudo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/15/improvavel-perder-emprego-em-6-meses-diz-estudo.ghtml",
-      "date": "Wed, 15 Apr 2026 13:27:40 -0000"
-    },
-    {
-      "title": "Por que o FMI prev\u00EA que Brasil crescer\u00E1 mais por causa da guerra no Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/15/por-que-o-fmi-preve-que-brasil-crescera-mais-por-causa-da-guerra-no-ira.ghtml",
-      "date": "Wed, 15 Apr 2026 13:12:59 -0000"
     }
   ]
 }
