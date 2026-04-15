@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 198657.33,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
+      "price": 197414.6,
+      "change": -0.63,
+      "changeStr": "-0.63%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.88,
-      "change": -3.82,
-      "changeStr": "-3.82%"
+      "price": 47.53,
+      "change": -0.73,
+      "changeStr": "-0.73%"
     },
     {
       "symbol": "VALE3",
-      "price": 88.3,
-      "change": 1.08,
-      "changeStr": "\u002B1.08%"
+      "price": 88.51,
+      "change": 0.24,
+      "changeStr": "\u002B0.24%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.53,
-      "change": 1.53,
-      "changeStr": "\u002B1.53%"
+      "price": 46.95,
+      "change": 0.9,
+      "changeStr": "\u002B0.90%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.78,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 20.69,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "BBAS3",
-      "price": 25.38,
-      "change": 2.55,
-      "changeStr": "\u002B2.55%"
+      "price": 24.52,
+      "change": -3.39,
+      "changeStr": "-3.39%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.25,
-      "change": 0.43,
-      "changeStr": "\u002B0.43%"
+      "price": 9.18,
+      "change": -0.76,
+      "changeStr": "-0.76%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.89,
-      "change": -0.25,
-      "changeStr": "-0.25%"
+      "price": 15.83,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.9,
-      "change": -0.27,
-      "changeStr": "-0.27%"
+      "price": 50.16,
+      "change": -3.35,
+      "changeStr": "-3.35%"
     }
   ],
   "news": [
+    {
+      "title": "An\u00E1lise: Lula n\u00E3o reverte piora na avalia\u00E7\u00E3o, e pre\u00E7o dos alimentos e d\u00EDvidas s\u00E3o os principais desafios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/04/15/analise-quaest-abril.ghtml",
+      "date": "Wed, 15 Apr 2026 14:38:22 -0000"
+    },
+    {
+      "title": "Fim da jornada 6x1: os argumentos de quem \u00E9 contra e quem \u00E9 a favor",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/15/fim-da-jornada-6x1-os-argumentos-de-que-e-contra-e-quem-e-a-favor.ghtml",
+      "date": "Wed, 15 Apr 2026 13:46:50 -0000"
+    },
+    {
+      "title": "Ministros das Finan\u00E7as de ao menos 11 pa\u00EDses alertam para impacto prolongado do conflito no Oriente M\u00E9dio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/15/ministros-das-financas-alertam-para-impacto-prolongado-do-conflito-no-oriente-medio.ghtml",
+      "date": "Wed, 15 Apr 2026 13:40:20 -0000"
+    },
+    {
+      "title": "Maioria dos brasileiros v\u00EA como improv\u00E1vel perder emprego em 6 meses, diz estudo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/15/improvavel-perder-emprego-em-6-meses-diz-estudo.ghtml",
+      "date": "Wed, 15 Apr 2026 13:27:40 -0000"
+    },
+    {
+      "title": "Por que o FMI prev\u00EA que Brasil crescer\u00E1 mais por causa da guerra no Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/15/por-que-o-fmi-preve-que-brasil-crescera-mais-por-causa-da-guerra-no-ira.ghtml",
+      "date": "Wed, 15 Apr 2026 13:12:59 -0000"
+    },
+    {
+      "title": "Cientista brasileira na lista da Time ajudou agricultores a economizar US$ 25 bilh\u00F5es por ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/15/brasileira-entra-na-lista-das-100-pessoas-mais-influentes-do-mundo-do-time.ghtml",
+      "date": "Wed, 15 Apr 2026 13:04:20 -0000"
+    },
+    {
+      "title": "Booking.com confirma invas\u00E3o em seus sistemas e alerta clientes para poss\u00EDvel vazamento de dados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/15/bookingcom-confirma-invasao-em-seus-sistemas-e-alerta-clientes-para-possivel-vazamento-de-dados.ghtml",
+      "date": "Wed, 15 Apr 2026 12:55:56 -0000"
+    },
+    {
+      "title": "D\u00F3lar oscila com foco na guerra entre EUA e Ir\u00E3 e poss\u00EDvel acordo de paz; Ibovespa avan\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/15/dolar-ibovespa.ghtml",
+      "date": "Wed, 15 Apr 2026 12:00:34 -0000"
+    },
     {
       "title": "\u0027Se ele n\u00E3o sair, terei que demiti-lo\u0027, diz Trump sobre Jerome Powell, atual presidente do Banco Central dos EUA ",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/15/quaest-dividas-abril.ghtml",
       "date": "Wed, 15 Apr 2026 11:00:00 -0000"
-    },
-    {
-      "title": "Raio-X do Minha Casa, Minha Vida: veja como ficam as novas regras do programa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/15/minha-casa-minha-vida-como-ficam-as-novas-regras-do-programa.ghtml",
-      "date": "Wed, 15 Apr 2026 07:02:14 -0000"
-    },
-    {
-      "title": "Hora extra e almo\u00E7o mais curto: medo da intelig\u00EAncia artificial leva profissionais a trabalhar mais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/15/medo-da-inteligencia-artificial-leva-profissionais-a-trabalhar-mais.ghtml",
-      "date": "Wed, 15 Apr 2026 07:01:24 -0000"
-    },
-    {
-      "title": "D\u00EDvida boa x d\u00EDvida ruim: entenda a diferen\u00E7a e como evitar riscos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/04/15/divida-boa-x-divida-ruim-entenda-a-diferenca.ghtml",
-      "date": "Wed, 15 Apr 2026 07:00:57 -0000"
-    },
-    {
-      "title": "Banco Mundial pode enviar at\u00E9 US$100 bi em financiamento para pa\u00EDses atingidos pela guerra",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/15/banco-mundial-pode-enviar-ate-us100-bi-em-financiamento-para-paises-atingidos-pela-guerra.ghtml",
-      "date": "Wed, 15 Apr 2026 06:13:10 -0000"
-    },
-    {
-      "title": "Salada em miniatura: conhe\u00E7a os microverdes considerados um superalimento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/04/15/microverde-conheca-as-hortalicas-em-miniatura-consideradas-um-superalimento.ghtml",
-      "date": "Wed, 15 Apr 2026 06:01:02 -0000"
-    },
-    {
-      "title": "V\u00CDDEO: rob\u00F4 humanoide persegue javalis selvagens na Pol\u00F4nia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/04/15/video-robo-humanoide-persegue-javalis-selvagens-na-polonia.ghtml",
-      "date": "Wed, 15 Apr 2026 06:01:01 -0000"
-    },
-    {
-      "title": "Guerra, tarifa\u00E7o e prefer\u00EAncia da China pelo Brasil agravam crise de produtores de soja dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/15/guerra-tarifaco-e-preferencia-da-china-pelo-brasil-agravam-crise-de-produtores-de-soja-dos-eua.ghtml",
-      "date": "Wed, 15 Apr 2026 05:00:57 -0000"
-    },
-    {
-      "title": "Galaxy A57 e A37: Samsung lan\u00E7a novos celulares intermedi\u00E1rios com foco em IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/15/galaxy-a57-e-a37-samsung-lanca-novos-celulares-intermediarios-com-foco-em-ia.ghtml",
-      "date": "Wed, 15 Apr 2026 03:01:28 -0000"
     }
   ]
 }
