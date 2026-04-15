@@ -1,61 +1,73 @@
 {
   "slider": [
     {
-      "symbol": "^BVSP",
-      "price": 197331.16,
-      "change": -0.67,
-      "changeStr": "-0.67%"
-    },
-    {
       "symbol": "PETR4",
-      "price": 47.36,
-      "change": -1.09,
-      "changeStr": "-1.09%"
+      "price": 47.22,
+      "change": -1.38,
+      "changeStr": "-1.38%"
     },
     {
       "symbol": "VALE3",
-      "price": 88.42,
-      "change": 0.14,
-      "changeStr": "\u002B0.14%"
+      "price": 88.31,
+      "change": 0.01,
+      "changeStr": "\u002B0.01%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.88,
-      "change": 0.75,
-      "changeStr": "\u002B0.75%"
+      "price": 46.97,
+      "change": 0.95,
+      "changeStr": "\u002B0.95%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.66,
-      "change": -0.58,
-      "changeStr": "-0.58%"
+      "price": 20.71,
+      "change": -0.34,
+      "changeStr": "-0.34%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.49,
-      "change": -3.51,
-      "changeStr": "-3.51%"
+      "price": 24.42,
+      "change": -3.78,
+      "changeStr": "-3.78%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.25,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 9.26,
+      "change": 0.11,
+      "changeStr": "\u002B0.11%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.82,
-      "change": -0.44,
-      "changeStr": "-0.44%"
+      "price": 15.75,
+      "change": -0.88,
+      "changeStr": "-0.88%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.78,
-      "change": -4.08,
-      "changeStr": "-4.08%"
+      "price": 49.55,
+      "change": -4.53,
+      "changeStr": "-4.53%"
     }
   ],
   "news": [
+    {
+      "title": "Escala 6x1: entenda principais pontos e diferen\u00E7as entre textos do Congresso e do governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/04/15/escala-6x1-entenda-principais-pontos-e-diferencas-entre-textos-do-congresso-e-do-governo.ghtml",
+      "date": "Wed, 15 Apr 2026 17:33:32 -0000"
+    },
+    {
+      "title": "Dona do Snapchat vai demitir 1.000 funcion\u00E1rios e cita efici\u00EAncia com IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/15/dona-do-snapchat-vai-demitir-1000-funcionarios-e-cita-eficiencia-com-ia.ghtml",
+      "date": "Wed, 15 Apr 2026 17:21:29 -0000"
+    },
+    {
+      "title": "FMI fecha acordo com a Argentina para liberar US$ 1 bilh\u00E3o em novos fundos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/15/fmi-fecha-acordo-com-a-argentina-para-liberar-us-1-bilhao-em-novos-fundos.ghtml",
+      "date": "Wed, 15 Apr 2026 16:26:30 -0000"
+    },
     {
       "title": "Reforma Casa Brasil: governo amplia cr\u00E9dito para reforma de moradias para quem tem renda at\u00E9 R$ 13 mil",
       "source": "G1 Economia",
@@ -97,24 +109,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/15/por-que-o-fmi-preve-que-brasil-crescera-mais-por-causa-da-guerra-no-ira.ghtml",
       "date": "Wed, 15 Apr 2026 13:12:59 -0000"
-    },
-    {
-      "title": "Cientista brasileira na lista da Time ajudou agricultores a economizar US$ 25 bilh\u00F5es por ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/15/brasileira-entra-na-lista-das-100-pessoas-mais-influentes-do-mundo-do-time.ghtml",
-      "date": "Wed, 15 Apr 2026 13:04:20 -0000"
-    },
-    {
-      "title": "Booking.com confirma invas\u00E3o em seus sistemas e alerta clientes para poss\u00EDvel vazamento de dados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/15/bookingcom-confirma-invasao-em-seus-sistemas-e-alerta-clientes-para-possivel-vazamento-de-dados.ghtml",
-      "date": "Wed, 15 Apr 2026 12:55:56 -0000"
-    },
-    {
-      "title": "D\u00F3lar oscila com foco na guerra entre EUA e Ir\u00E3 e poss\u00EDvel acordo de paz; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/15/dolar-ibovespa.ghtml",
-      "date": "Wed, 15 Apr 2026 12:00:34 -0000"
     }
   ]
 }
