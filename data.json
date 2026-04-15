@@ -57,6 +57,42 @@
   ],
   "news": [
     {
+      "title": "Galaxy A57 e A37: Samsung lan\u00E7a novos celulares intermedi\u00E1rios com foco em IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/15/galaxy-a57-e-a37-samsung-lanca-novos-celulares-intermediarios-com-foco-em-ia.ghtml",
+      "date": "Wed, 15 Apr 2026 03:01:28 -0000"
+    },
+    {
+      "title": "Abono salarial PIS/Pasep 2026: novo pagamento ser\u00E1 liberado nesta quarta-feira; veja se vai receber",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/15/abono-salarial-pispasep-2026-novo-pagamento-sera-liberado-nesta-quarta-feira-veja-se-vai-receber.ghtml",
+      "date": "Wed, 15 Apr 2026 03:01:27 -0000"
+    },
+    {
+      "title": "Imposto de Renda 2026: mais de 11 milh\u00F5es de declara\u00E7\u00F5es j\u00E1 foram entregues; 890 mil caem na malha fina",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/04/15/imposto-de-renda-2026-mais-de-11-milhoes-de-declaracoes-ja-foram-entregues-890-mil-caem-na-malha-fina.ghtml",
+      "date": "Wed, 15 Apr 2026 03:01:22 -0000"
+    },
+    {
+      "title": "Bolsa Fam\u00EDlia 2026: pagamentos de abril come\u00E7am amanh\u00E3; veja o calend\u00E1rio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/15/bolsa-familia-2026-pagamentos-de-abril-calendario.ghtml",
+      "date": "Wed, 15 Apr 2026 03:01:20 -0000"
+    },
+    {
+      "title": "Receita come\u00E7a cobran\u00E7a de R$ 10 bilh\u00F5es em impostos devidos por quase 3 mil supermercados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/15/receita-comeca-cobranca-de-r-10-bilhoes-em-impostos-devidos-por-quase-3-mil-supermercados.ghtml",
+      "date": "Wed, 15 Apr 2026 03:01:19 -0000"
+    },
+    {
+      "title": "Mega-Sena, concurso 2.996: pr\u00EAmio acumula e vai a R$ 52 milh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/04/14/mega-sena-concurso-2996-resultado.ghtml",
+      "date": "Wed, 15 Apr 2026 00:03:20 -0000"
+    },
+    {
       "title": "Argentina: infla\u00E7\u00E3o acelera a 3,4% em mar\u00E7o, maior n\u00EDvel mensal em um ano",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/14/inflacao-argentina-marco.ghtml",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/14/governo-aumenta-fiscalizacao-sobre-distribuidoras-de-combustiveis-que-tenham-subsidio-e-reajusta-precos-do-gas-do-povo.ghtml",
       "date": "Tue, 14 Apr 2026 15:15:02 -0000"
-    },
-    {
-      "title": "FBI faz opera\u00E7\u00E3o em casa de suspeito de atacar resid\u00EAncia do CEO da OpenAI com coquetel molotov",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/14/fbi-operacao-suspeito-ataque-residencia-ceo-openai.ghtml",
-      "date": "Tue, 14 Apr 2026 15:08:28 -0000"
-    },
-    {
-      "title": "Falhas sist\u00EAmicas no INSS causaram preju\u00EDzo de R$ 233 milh\u00F5es e travam an\u00E1lise de 1,7 milh\u00E3o de processos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/04/14/falhas-sistemicas-no-inss-causaram-prejuizo-de-r-233-milhoes-e-travam-analise-de-17-milhao-de-processos.ghtml",
-      "date": "Tue, 14 Apr 2026 14:34:28 -0000"
-    },
-    {
-      "title": "MBRF avan\u00E7a em parceria com fundo saudita na Sadia Halal em prepara\u00E7\u00E3o para oferta de a\u00E7\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/negocios/noticia/2026/04/14/mbrf-obtem-aprovacoes-para-joint-venture-com-fundo-soberano-da-arabia-saudita.ghtml",
-      "date": "Tue, 14 Apr 2026 13:49:24 -0000"
-    },
-    {
-      "title": "Guerra leva FMI a reduzir proje\u00E7\u00E3o de crescimento global; Brasil deve ter alta de 1,9%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/14/fmi-eleva-projecao-de-crescimento-do-brasil-em-2026-e-cita-impacto-positivo-da-guerra-no-oriente-medio.ghtml",
-      "date": "Tue, 14 Apr 2026 13:38:25 -0000"
-    },
-    {
-      "title": "CEO da United Airlines falou com Trump sobre fus\u00E3o com a American, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/negocios/noticia/2026/04/14/united-airlines-fusao-american-airlines-trump.ghtml",
-      "date": "Tue, 14 Apr 2026 13:34:58 -0000"
-    },
-    {
-      "title": "Associa\u00E7\u00F5es empresariais lan\u00E7am coaliz\u00E3o contra a desinforma\u00E7\u00E3o no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/04/14/coalizao-empresarial-contra-a-desinformacao-no-brasil.ghtml",
-      "date": "Tue, 14 Apr 2026 13:33:58 -0000"
     }
   ]
 }
