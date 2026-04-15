@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 197414.6,
-      "change": -0.63,
-      "changeStr": "-0.63%"
+      "price": 197331.16,
+      "change": -0.67,
+      "changeStr": "-0.67%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.53,
-      "change": -0.73,
-      "changeStr": "-0.73%"
+      "price": 47.36,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     },
     {
       "symbol": "VALE3",
-      "price": 88.51,
-      "change": 0.24,
-      "changeStr": "\u002B0.24%"
+      "price": 88.42,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.95,
-      "change": 0.9,
-      "changeStr": "\u002B0.90%"
+      "price": 46.88,
+      "change": 0.75,
+      "changeStr": "\u002B0.75%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.69,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 20.66,
+      "change": -0.58,
+      "changeStr": "-0.58%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.52,
-      "change": -3.39,
-      "changeStr": "-3.39%"
+      "price": 24.49,
+      "change": -3.51,
+      "changeStr": "-3.51%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.18,
-      "change": -0.76,
-      "changeStr": "-0.76%"
+      "price": 9.25,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.83,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 15.82,
+      "change": -0.44,
+      "changeStr": "-0.44%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.16,
-      "change": -3.35,
-      "changeStr": "-3.35%"
+      "price": 49.78,
+      "change": -4.08,
+      "changeStr": "-4.08%"
     }
   ],
   "news": [
+    {
+      "title": "Reforma Casa Brasil: governo amplia cr\u00E9dito para reforma de moradias para quem tem renda at\u00E9 R$ 13 mil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/15/reforma-casa-brasil-governo-amplia-credito-para-reforma-de-moradias-para-quem-tem-renda-ate-r-13-mil.ghtml",
+      "date": "Wed, 15 Apr 2026 15:09:54 -0000"
+    },
+    {
+      "title": "SUV el\u00E9trico GAC Hyptec HT 2027 chega ao Brasil com carregamento ultrarr\u00E1pido e 340 cv de pot\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/15/suv-eletrico-gac-hyptec-ht-chega-ao-brasil-com-carregamento-ultrarrapido-e-340-cv-de-potencia-preco-inicial-de-r314990.ghtml",
+      "date": "Wed, 15 Apr 2026 15:08:14 -0000"
+    },
     {
       "title": "An\u00E1lise: Lula n\u00E3o reverte piora na avalia\u00E7\u00E3o, e pre\u00E7o dos alimentos e d\u00EDvidas s\u00E3o os principais desafios",
       "source": "G1 Economia",
@@ -99,22 +111,10 @@
       "date": "Wed, 15 Apr 2026 12:55:56 -0000"
     },
     {
-      "title": "D\u00F3lar oscila com foco na guerra entre EUA e Ir\u00E3 e poss\u00EDvel acordo de paz; Ibovespa avan\u00E7a",
+      "title": "D\u00F3lar oscila com foco na guerra entre EUA e Ir\u00E3 e poss\u00EDvel acordo de paz; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/15/dolar-ibovespa.ghtml",
       "date": "Wed, 15 Apr 2026 12:00:34 -0000"
-    },
-    {
-      "title": "\u0027Se ele n\u00E3o sair, terei que demiti-lo\u0027, diz Trump sobre Jerome Powell, atual presidente do Banco Central dos EUA ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/15/declaracao-donald-trump-jerome-powell.ghtml",
-      "date": "Wed, 15 Apr 2026 11:33:54 -0000"
-    },
-    {
-      "title": "Quaest: 72% dos brasileiros dizem ter poucas ou muitas d\u00EDvidas para pagar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/15/quaest-dividas-abril.ghtml",
-      "date": "Wed, 15 Apr 2026 11:00:00 -0000"
     }
   ]
 }
