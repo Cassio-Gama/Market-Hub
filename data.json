@@ -57,7 +57,13 @@
   ],
   "news": [
     {
-      "title": "Escala 6x1: equipe econ\u00F4mica descarta discutir contrapartidas para as empresas; Motta e ministro da articula\u00E7\u00E3o pol\u00EDtica marcam reuni\u00E3o",
+      "title": "Reed Hastings, cofundador da Netflix, anuncia sa\u00EDda da empresa ap\u00F3s 29 anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/16/saida-reed-hastings-netflix.ghtml",
+      "date": "Thu, 16 Apr 2026 21:10:45 -0000"
+    },
+    {
+      "title": "Escala 6x1: equipe econ\u00F4mica descarta discutir contrapartidas para as empresas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/04/16/escala-6x1-equipe-economica-descarta-discutir-contrapartidas-para-as-empresas-motta-e-ministro-da-articulacao-politica-marcam-reuniao.ghtml",
       "date": "Thu, 16 Apr 2026 20:48:15 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/16/no-5o-mes-seguido-de-crescimento-previa-do-pib-do-banco-central-tem-alta-de-06percent-em-fevereiro.ghtml",
       "date": "Thu, 16 Apr 2026 12:08:19 -0000"
-    },
-    {
-      "title": "D\u00F3lar tem leve alta e fecha a R$ 4,99 com cautela sobre a guerra no Oriente M\u00E9dio; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/16/dolar-ibovespa.ghtml",
-      "date": "Thu, 16 Apr 2026 12:00:10 -0000"
     }
   ]
 }
