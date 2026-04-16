@@ -2,62 +2,80 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 197737.61,
-      "change": -0.46,
-      "changeStr": "-0.46%"
+      "price": 196643.97,
+      "change": -0.55,
+      "changeStr": "-0.55%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.89,
-      "change": -2.07,
-      "changeStr": "-2.07%"
+      "price": 48.27,
+      "change": 2.94,
+      "changeStr": "\u002B2.94%"
     },
     {
       "symbol": "VALE3",
-      "price": 88.44,
-      "change": 0.16,
-      "changeStr": "\u002B0.16%"
+      "price": 87.46,
+      "change": -1.11,
+      "changeStr": "-1.11%"
     },
     {
       "symbol": "ITUB4",
-      "price": 47.04,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
+      "price": 46.65,
+      "change": -0.83,
+      "changeStr": "-0.83%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.8,
-      "change": 0.1,
-      "changeStr": "\u002B0.10%"
+      "price": 20.94,
+      "change": 0.67,
+      "changeStr": "\u002B0.67%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.4,
-      "change": -3.86,
-      "changeStr": "-3.86%"
+      "price": 24.12,
+      "change": -1.15,
+      "changeStr": "-1.15%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.39,
-      "change": 1.51,
-      "changeStr": "\u002B1.51%"
+      "price": 9.19,
+      "change": -2.13,
+      "changeStr": "-2.13%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.83,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 15.36,
+      "change": -2.97,
+      "changeStr": "-2.97%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.96,
-      "change": -3.74,
-      "changeStr": "-3.74%"
+      "price": 48.89,
+      "change": -2.14,
+      "changeStr": "-2.14%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar abre de olho nas negocia\u00E7\u00F5es no Oriente M\u00E9dio e na agenda econ\u00F4mica",
+      "title": "Chocolate fake vai acabar? O que muda no chocolate que voc\u00EA come no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/16/chocolate-fake-vai-acabar-o-que-muda-no-chocolate-que-voce-come-no-brasil.ghtml",
+      "date": "Thu, 16 Apr 2026 14:16:14 -0000"
+    },
+    {
+      "title": "Europa tem combust\u00EDvel para abastecer avi\u00F5es por \u2018talvez mais seis semanas\u2019, diz chefe da Ag\u00EAncia Internacional de Energia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/16/europa-combustive-chefe-da-agencia-internacional-de-energia.ghtml",
+      "date": "Thu, 16 Apr 2026 12:37:29 -0000"
+    },
+    {
+      "title": "No 5\u00BA m\u00EAs seguido de crescimento, \u0027pr\u00E9via do PIB\u0027 do Banco Central tem alta de 0,6% em fevereiro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/16/no-5o-mes-seguido-de-crescimento-previa-do-pib-do-banco-central-tem-alta-de-06percent-em-fevereiro.ghtml",
+      "date": "Thu, 16 Apr 2026 12:08:19 -0000"
+    },
+    {
+      "title": "D\u00F3lar recua de olho nas negocia\u00E7\u00F5es no Oriente M\u00E9dio; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/16/dolar-ibovespa.ghtml",
       "date": "Thu, 16 Apr 2026 12:00:10 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/16/feriado-a-vista-dia-de-tiradentes-pode-virar-folga-de-4-dias-veja-como.ghtml",
       "date": "Thu, 16 Apr 2026 06:00:36 -0000"
-    },
-    {
-      "title": "6x1, 5x2, 4x3 e 12x36: como funcionam as principais escalas de trabalho no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/16/como-funcionam-escalas-de-trabalho-no-brasil.ghtml",
-      "date": "Thu, 16 Apr 2026 05:00:56 -0000"
-    },
-    {
-      "title": "Inadimpl\u00EAncia recorde e a opera\u00E7\u00E3o resgate do governo - O Assunto #1702",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/04/16/inadimplencia-recorde-e-a-operacao-resgate-do-governo-o-assunto-1702.ghtml",
-      "date": "Thu, 16 Apr 2026 03:30:33 -0000"
-    },
-    {
-      "title": "Bolsa Fam\u00EDlia 2026: pagamentos de abril come\u00E7am nesta quinta; veja se vai receber",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/16/bolsa-familia-2026-pagamentos-de-abril-comecam-nesta-quinta-veja-se-vai-receber.ghtml",
-      "date": "Thu, 16 Apr 2026 03:01:24 -0000"
     }
   ]
 }
