@@ -1,49 +1,67 @@
 {
   "slider": [
     {
+      "symbol": "^BVSP",
+      "price": 196609.75,
+      "change": -0.57,
+      "changeStr": "-0.57%"
+    },
+    {
       "symbol": "PETR4",
-      "price": 48.44,
-      "change": 3.31,
-      "changeStr": "\u002B3.31%"
+      "price": 48.48,
+      "change": 3.39,
+      "changeStr": "\u002B3.39%"
     },
     {
       "symbol": "VALE3",
-      "price": 87.25,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 87.52,
+      "change": -1.04,
+      "changeStr": "-1.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.75,
-      "change": -0.62,
-      "changeStr": "-0.62%"
+      "price": 46.92,
+      "change": -0.26,
+      "changeStr": "-0.26%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 20.93,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.18,
-      "change": -0.9,
-      "changeStr": "-0.90%"
+      "price": 24.16,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.25,
-      "change": -1.49,
-      "changeStr": "-1.49%"
+      "price": 9.26,
+      "change": -1.38,
+      "changeStr": "-1.38%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.45,
-      "change": -2.4,
-      "changeStr": "-2.40%"
+      "price": 15.42,
+      "change": -2.59,
+      "changeStr": "-2.59%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.55,
-      "change": -2.82,
-      "changeStr": "-2.82%"
+      "price": 48.38,
+      "change": -3.16,
+      "changeStr": "-3.16%"
     }
   ],
   "news": [
+    {
+      "title": "Patrim\u00F4nio milion\u00E1rio do indicado \u00E0 presid\u00EAncia do Banco Central dos EUA acende alerta no Senado americano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/16/patrimonio-kevin-warsh-fed-estados-unidos.ghtml",
+      "date": "Thu, 16 Apr 2026 17:25:36 -0000"
+    },
     {
       "title": "Brasil e Argentina firmam acordo para fortalecer o setor automotivo e reagir \u00E0 concorr\u00EAncia chinesa",
       "source": "G1 Economia",
@@ -97,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/16/veja-os-setores-e-exportadores-habilitados-para-linha-de-credito-de-r-15-bilhoes-do-governo-federal.ghtml",
       "date": "Thu, 16 Apr 2026 11:37:44 -0000"
-    },
-    {
-      "title": "Banco Central decreta liquida\u00E7\u00E3o extrajudicial da cooperativa Creditag por crise financeira",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/16/banco-central-liquidacao-extrajudicial-creditag.ghtml",
-      "date": "Thu, 16 Apr 2026 10:49:57 -0000"
     }
   ]
 }
