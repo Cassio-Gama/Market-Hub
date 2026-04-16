@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 196609.75,
-      "change": -0.57,
-      "changeStr": "-0.57%"
+      "price": 196818.6,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.48,
-      "change": 3.39,
-      "changeStr": "\u002B3.39%"
+      "price": 48.58,
+      "change": 3.6,
+      "changeStr": "\u002B3.60%"
     },
     {
       "symbol": "VALE3",
-      "price": 87.52,
-      "change": -1.04,
-      "changeStr": "-1.04%"
+      "price": 87.44,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.92,
-      "change": -0.26,
-      "changeStr": "-0.26%"
+      "price": 46.98,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.93,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 20.85,
+      "change": 0.24,
+      "changeStr": "\u002B0.24%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.16,
-      "change": -0.98,
-      "changeStr": "-0.98%"
+      "price": 24.28,
+      "change": -0.49,
+      "changeStr": "-0.49%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.26,
-      "change": -1.38,
-      "changeStr": "-1.38%"
+      "price": 9.25,
+      "change": -1.49,
+      "changeStr": "-1.49%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.42,
-      "change": -2.59,
-      "changeStr": "-2.59%"
+      "price": 15.43,
+      "change": -2.53,
+      "changeStr": "-2.53%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.38,
-      "change": -3.16,
-      "changeStr": "-3.16%"
+      "price": 48.4,
+      "change": -3.12,
+      "changeStr": "-3.12%"
     }
   ],
   "news": [
+    {
+      "title": "Escala 6x1: equipe econ\u00F4mica descarta discutir contrapartidas para as empresas; Motta e ministro da articula\u00E7\u00E3o pol\u00EDtica marcam reuni\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/04/16/escala-6x1-equipe-economica-descarta-discutir-contrapartidas-para-as-empresas-motta-e-ministro-da-articulacao-politica-marcam-reuniao.ghtml",
+      "date": "Thu, 16 Apr 2026 20:48:15 -0000"
+    },
+    {
+      "title": "Comiss\u00E3o aprova projeto que recoloca estado e munic\u00EDpio nas placas de ve\u00EDculos no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/16/comissao-da-camara-dos-deputados-aprova-projeto-que-recoloca-estado-e-municipio-nas-placas-de-veiculos.ghtml",
+      "date": "Thu, 16 Apr 2026 20:19:40 -0000"
+    },
     {
       "title": "Patrim\u00F4nio milion\u00E1rio do indicado \u00E0 presid\u00EAncia do Banco Central dos EUA acende alerta no Senado americano",
       "source": "G1 Economia",
@@ -99,22 +111,10 @@
       "date": "Thu, 16 Apr 2026 12:08:19 -0000"
     },
     {
-      "title": "D\u00F3lar sobe e bate R$ 5 ap\u00F3s an\u00FAncio de cessar-fogo de Israel no L\u00EDbano; Ibovespa cai",
+      "title": "D\u00F3lar tem leve alta e fecha a R$ 4,99 com cautela sobre a guerra no Oriente M\u00E9dio; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/16/dolar-ibovespa.ghtml",
       "date": "Thu, 16 Apr 2026 12:00:10 -0000"
-    },
-    {
-      "title": "Pris\u00E3o de MCs Ryan SP e Poze do Rodo: o que o iCloud armazena e como ele pode revelar a rotina do usu\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/16/prisao-de-mcs-ryan-sp-poze-do-rodo-o-que-o-icloud-armazena.ghtml",
-      "date": "Thu, 16 Apr 2026 11:46:33 -0000"
-    },
-    {
-      "title": "Veja os setores e exportadores habilitados para linha de cr\u00E9dito de R$ 15 bilh\u00F5es do governo federal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/16/veja-os-setores-e-exportadores-habilitados-para-linha-de-credito-de-r-15-bilhoes-do-governo-federal.ghtml",
-      "date": "Thu, 16 Apr 2026 11:37:44 -0000"
     }
   ]
 }
