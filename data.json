@@ -1,61 +1,67 @@
 {
   "slider": [
     {
-      "symbol": "^BVSP",
-      "price": 196643.97,
-      "change": -0.55,
-      "changeStr": "-0.55%"
-    },
-    {
       "symbol": "PETR4",
-      "price": 48.27,
-      "change": 2.94,
-      "changeStr": "\u002B2.94%"
+      "price": 48.44,
+      "change": 3.31,
+      "changeStr": "\u002B3.31%"
     },
     {
       "symbol": "VALE3",
-      "price": 87.46,
-      "change": -1.11,
-      "changeStr": "-1.11%"
+      "price": 87.25,
+      "change": -1.35,
+      "changeStr": "-1.35%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.65,
-      "change": -0.83,
-      "changeStr": "-0.83%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 20.94,
-      "change": 0.67,
-      "changeStr": "\u002B0.67%"
+      "price": 46.75,
+      "change": -0.62,
+      "changeStr": "-0.62%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.12,
-      "change": -1.15,
-      "changeStr": "-1.15%"
+      "price": 24.18,
+      "change": -0.9,
+      "changeStr": "-0.90%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.19,
-      "change": -2.13,
-      "changeStr": "-2.13%"
+      "price": 9.25,
+      "change": -1.49,
+      "changeStr": "-1.49%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.36,
-      "change": -2.97,
-      "changeStr": "-2.97%"
+      "price": 15.45,
+      "change": -2.4,
+      "changeStr": "-2.40%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.89,
-      "change": -2.14,
-      "changeStr": "-2.14%"
+      "price": 48.55,
+      "change": -2.82,
+      "changeStr": "-2.82%"
     }
   ],
   "news": [
+    {
+      "title": "Brasil e Argentina firmam acordo para fortalecer o setor automotivo e reagir \u00E0 concorr\u00EAncia chinesa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/16/brasil-e-argentina-acordo-setor-automotivo.ghtml",
+      "date": "Thu, 16 Apr 2026 16:15:13 -0000"
+    },
+    {
+      "title": "Guerra no Oriente M\u00E9dio deve elevar sal\u00E1rio m\u00EDnimo perto de R$ 1.730 em 2027, diz \u00F3rg\u00E3o do Senado; governo prev\u00EA m\u00EDnimo em R$ 1.717",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/16/guerra-no-oriente-medio-deve-elevar-salario-minimo-perto-de-r-1730-em-2027-diz-orgao-do-senado-governo-preve-minimo-em-r-1717.ghtml",
+      "date": "Thu, 16 Apr 2026 15:39:57 -0000"
+    },
+    {
+      "title": "Brasil deve bater recorde de exporta\u00E7\u00E3o e produ\u00E7\u00E3o de soja em 2026, diz associa\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/16/brasil-devera-bater-recorde-de-exportacao-e-producao-de-soja-em-2026-preve-associacao.ghtml",
+      "date": "Thu, 16 Apr 2026 15:15:16 -0000"
+    },
     {
       "title": "Chocolate fake vai acabar? O que muda no chocolate que voc\u00EA come no Brasil",
       "source": "G1 Economia",
@@ -75,7 +81,7 @@
       "date": "Thu, 16 Apr 2026 12:08:19 -0000"
     },
     {
-      "title": "D\u00F3lar recua de olho nas negocia\u00E7\u00F5es no Oriente M\u00E9dio; Ibovespa avan\u00E7a",
+      "title": "D\u00F3lar sobe e bate R$ 5 ap\u00F3s an\u00FAncio de cessar-fogo de Israel no L\u00EDbano; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/16/dolar-ibovespa.ghtml",
       "date": "Thu, 16 Apr 2026 12:00:10 -0000"
@@ -97,24 +103,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/16/banco-central-liquidacao-extrajudicial-creditag.ghtml",
       "date": "Thu, 16 Apr 2026 10:49:57 -0000"
-    },
-    {
-      "title": "Imposto de Renda 2026: quais gastos com educa\u00E7\u00E3o e despesas m\u00E9dicas posso deduzir?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/04/16/imposto-de-renda-2026-quais-gastos-com-educacao-e-despesas-medicas-posso-deduzir.ghtml",
-      "date": "Thu, 16 Apr 2026 07:02:11 -0000"
-    },
-    {
-      "title": "Quando o caf\u00E9 vai ficar mais barato? Veja o que esperar para 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/16/quando-o-cafe-vai-ficar-mais-barato.ghtml",
-      "date": "Thu, 16 Apr 2026 06:01:17 -0000"
-    },
-    {
-      "title": "Feriado \u00E0 vista: Dia de Tiradentes pode virar folga de 4 dias; veja como",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/16/feriado-a-vista-dia-de-tiradentes-pode-virar-folga-de-4-dias-veja-como.ghtml",
-      "date": "Thu, 16 Apr 2026 06:00:36 -0000"
     }
   ]
 }
