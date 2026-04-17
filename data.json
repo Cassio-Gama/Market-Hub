@@ -57,7 +57,13 @@
   ],
   "news": [
     {
-      "title": "TRF-2 derruba decis\u00E3o que impedia cobran\u00E7a de imposto de exporta\u00E7\u00E3o a petroleiras",
+      "title": "Ford faz recall de 1,4 milh\u00E3o de picapes F-150 nos Estados Unidos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/17/ford-faz-recall-de-14-milhao-de-picapes-f-150-nos-estados-unidos.ghtml",
+      "date": "Fri, 17 Apr 2026 23:25:54 -0000"
+    },
+    {
+      "title": "TRF-2 derruba decis\u00E3o que impedia cobran\u00E7a de imposto sobre exporta\u00E7\u00E3o de petr\u00F3leo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/17/trf-2-derruba-decisao-que-impedia-cobranca-de-imposto-de-exportacao-a-petroleiras.ghtml",
       "date": "Fri, 17 Apr 2026 22:27:41 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/04/17/rio-de-janeiro-ja-tentou-implantar-placas-com-nome-do-estado-mas-ministerio-foi-contra-relembre.ghtml",
       "date": "Fri, 17 Apr 2026 13:48:24 -0000"
-    },
-    {
-      "title": "Pre\u00E7o do petr\u00F3leo cai 9% ap\u00F3s reabertura do Estreito de Ormuz ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/17/preco-petroleo-reabertura-ormuz.ghtml",
-      "date": "Fri, 17 Apr 2026 13:13:51 -0000"
     }
   ]
 }
