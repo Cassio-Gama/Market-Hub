@@ -2,68 +2,68 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 197531.5,
-      "change": 0.36,
-      "changeStr": "\u002B0.36%"
+      "price": 196607.83,
+      "change": -0.11,
+      "changeStr": "-0.11%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.63,
-      "change": -6.07,
-      "changeStr": "-6.07%"
+      "price": 44.99,
+      "change": -7.39,
+      "changeStr": "-7.39%"
     },
     {
       "symbol": "VALE3",
-      "price": 88.21,
-      "change": 0.88,
-      "changeStr": "\u002B0.88%"
+      "price": 88.96,
+      "change": 1.74,
+      "changeStr": "\u002B1.74%"
     },
     {
       "symbol": "ITUB4",
-      "price": 47.49,
-      "change": 1.09,
-      "changeStr": "\u002B1.09%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 21.43,
-      "change": 2.78,
-      "changeStr": "\u002B2.78%"
+      "price": 47.34,
+      "change": 0.77,
+      "changeStr": "\u002B0.77%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.78,
-      "change": 2.06,
-      "changeStr": "\u002B2.06%"
+      "price": 24.5,
+      "change": 0.91,
+      "changeStr": "\u002B0.91%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.65,
-      "change": 4.32,
-      "changeStr": "\u002B4.32%"
+      "price": 9.56,
+      "change": 3.35,
+      "changeStr": "\u002B3.35%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.58,
-      "change": 0.97,
-      "changeStr": "\u002B0.97%"
+      "price": 15.55,
+      "change": 0.78,
+      "changeStr": "\u002B0.78%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.7,
-      "change": 2.69,
-      "changeStr": "\u002B2.69%"
+      "price": 49.43,
+      "change": 2.13,
+      "changeStr": "\u002B2.13%"
     }
   ],
   "news": [
     {
-      "title": "Rio de Janeiro j\u00E1 tentou implantar placas com nome do estado, mas minist\u00E9rio foi contra; relembre",
+      "title": "A\u00E7\u00F5es da Netflix caem mais de 10% ap\u00F3s proje\u00E7\u00F5es fracas e sa\u00EDda de Hastings ampliar d\u00FAvidas sobre crescimento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/17/netflix-cai-mais-de-10percent-apos-projecoes-fracas.ghtml",
+      "date": "Fri, 17 Apr 2026 14:25:58 -0000"
+    },
+    {
+      "title": "Projeto de nova placa: RJ j\u00E1 tentou incluir bandeira do estado, mas mudan\u00E7a foi invi\u00E1vel; entenda",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/04/17/rio-de-janeiro-ja-tentou-implantar-placas-com-nome-do-estado-mas-ministerio-foi-contra-relembre.ghtml",
       "date": "Fri, 17 Apr 2026 13:48:24 -0000"
     },
     {
-      "title": "Pre\u00E7o do petr\u00F3leo cai 10% ap\u00F3s reabertura do Estreito de Ormuz ",
+      "title": "Pre\u00E7o do petr\u00F3leo cai 11% e bate menor valor em mais de um m\u00EAs ap\u00F3s reabertura do Estreito de Ormuz ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/17/preco-petroleo-reabertura-ormuz.ghtml",
       "date": "Fri, 17 Apr 2026 13:13:51 -0000"
@@ -105,16 +105,10 @@
       "date": "Fri, 17 Apr 2026 12:14:31 -0000"
     },
     {
-      "title": "D\u00F3lar cai a R$ 4,95 com reabertura do Estreito de Ormuz; Ibovespa avan\u00E7a",
+      "title": "D\u00F3lar cai a R$ 4,97 com reabertura do Estreito de Ormuz; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/17/dolar-ibovespa.ghtml",
       "date": "Fri, 17 Apr 2026 12:00:12 -0000"
-    },
-    {
-      "title": "Ap\u00F3s a morte do fundador, OnlyFans busca novo investidor em acordo bilion\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/17/apos-a-morte-do-fundador-onlyfans-busca-novo-investidor-em-acordo-bilionario.ghtml",
-      "date": "Fri, 17 Apr 2026 12:00:03 -0000"
     }
   ]
 }
