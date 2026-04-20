@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 195984.58,
+      "price": 196078.7,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 46.85,
+      "change": 1.36,
+      "changeStr": "\u002B1.36%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 88.96,
+      "change": -0.88,
+      "changeStr": "-0.88%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 46.4,
+      "change": -0.85,
+      "changeStr": "-0.85%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 21.07,
+      "change": -0.89,
+      "changeStr": "-0.89%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 24.3,
+      "change": -0.41,
+      "changeStr": "-0.41%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 9.41,
+      "change": 1.29,
+      "changeStr": "\u002B1.29%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 15.35,
       "change": 0.13,
       "changeStr": "\u002B0.13%"
     },
     {
-      "symbol": "PETR4",
-      "price": 46.84,
-      "change": 1.34,
-      "changeStr": "\u002B1.34%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 88.66,
-      "change": -1.21,
-      "changeStr": "-1.21%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 46.46,
-      "change": -0.73,
-      "changeStr": "-0.73%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 21.01,
-      "change": -1.18,
-      "changeStr": "-1.18%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 24.37,
-      "change": -0.12,
-      "changeStr": "-0.12%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 9.22,
-      "change": -0.75,
-      "changeStr": "-0.75%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 15.36,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
-    },
-    {
       "symbol": "WEGE3",
-      "price": 48.8,
-      "change": 0.31,
-      "changeStr": "\u002B0.31%"
+      "price": 48.66,
+      "change": 0.02,
+      "changeStr": "\u002B0.02%"
     }
   ],
   "news": [
+    {
+      "title": "Ipsos-Ipec: 90% dos brasileiros acreditam que conflito entre EUA, Israel e Ir\u00E3 ter\u00E1 impacto na economia do pa\u00EDs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/20/ipsos-ipec-90percent-dos-brasileiros-acreditam-que-conflito-entre-eua-israel-e-ira-tera-impacto-na-economia-do-pais.ghtml",
+      "date": "Mon, 20 Apr 2026 19:49:15 -0000"
+    },
     {
       "title": "Indicado ao Fed, Warsh promete respeitar independ\u00EAncia do BC, mas com limites",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/20/por-que-um-financiamento-pode-sair-muito-mais-caro-do-que-parece.ghtml",
       "date": "Mon, 20 Apr 2026 07:01:37 -0000"
-    },
-    {
-      "title": "Carro de R$ 20 mil, d\u00EDvida de R$ 64 mil: como evitar um mau neg\u00F3cio ao financiar um ve\u00EDculo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/20/carro-de-r-20-mil-divida-de-r-64-mil-como-evitar-um-mau-negocio-ao-financiar-um-veiculo.ghtml",
-      "date": "Mon, 20 Apr 2026 05:00:26 -0000"
     }
   ]
 }
