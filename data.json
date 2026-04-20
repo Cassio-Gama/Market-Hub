@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 195992.83,
-      "change": 0.13,
-      "changeStr": "\u002B0.13%"
+      "price": 196593.7,
+      "change": 0.44,
+      "changeStr": "\u002B0.44%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.89,
-      "change": 1.45,
-      "changeStr": "\u002B1.45%"
+      "price": 47.01,
+      "change": 1.71,
+      "changeStr": "\u002B1.71%"
     },
     {
       "symbol": "VALE3",
-      "price": 88.6,
-      "change": -1.28,
-      "changeStr": "-1.28%"
+      "price": 89.25,
+      "change": -0.56,
+      "changeStr": "-0.56%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.65,
-      "change": -0.32,
-      "changeStr": "-0.32%"
+      "price": 46.7,
+      "change": -0.21,
+      "changeStr": "-0.21%"
     },
     {
       "symbol": "BBDC4",
-      "price": 21.07,
-      "change": -0.89,
-      "changeStr": "-0.89%"
+      "price": 21.08,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.27,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 24.44,
+      "change": 0.16,
+      "changeStr": "\u002B0.16%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.2,
-      "change": -0.97,
-      "changeStr": "-0.97%"
+      "price": 9.25,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.41,
-      "change": 0.52,
-      "changeStr": "\u002B0.52%"
+      "price": 15.39,
+      "change": 0.39,
+      "changeStr": "\u002B0.39%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.65,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 48.7,
+      "change": 0.1,
+      "changeStr": "\u002B0.10%"
     }
   ],
   "news": [
+    {
+      "title": "Empresa dos EUA anuncia compra de mineradora brasileira de terras raras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/20/empresa-dos-eua-anuncia-compra-de-mineradora-brasileira-de-terras-raras.ghtml",
+      "date": "Mon, 20 Apr 2026 14:09:43 -0000"
+    },
     {
       "title": "Com guerra no Oriente M\u00E9dio, mercado prev\u00EA infla\u00E7\u00E3o de 4,80% e juros mais altos",
       "source": "G1 Economia",
@@ -69,7 +75,7 @@
       "date": "Mon, 20 Apr 2026 12:33:39 -0000"
     },
     {
-      "title": "D\u00F3lar abre a R$ 4,98 com investidores de olho no impasse entre EUA e Ir\u00E3 no Estreito de Ormuz",
+      "title": "D\u00F3lar abre a R$ 4,98 com investidores de olho no impasse entre EUA e Ir\u00E3; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/20/dolar-ibovespa.ghtml",
       "date": "Mon, 20 Apr 2026 12:00:33 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/20/sistema-de-reembolso-das-tarifas-de-trump-entra-em-vigor-nos-eua-importadores-temem-falhas.ghtml",
       "date": "Mon, 20 Apr 2026 03:01:01 -0000"
-    },
-    {
-      "title": "Pre\u00E7os do petr\u00F3leo voltam a subir ap\u00F3s novas tens\u00F5es entre EUA e Ir\u00E3 sobre o Estreito de Ormuz",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/19/precos-do-petroleo-voltam-a-subir-apos-novas-tensoes-entre-eua-e-ira-sobre-o-estreito-de-ormuz.ghtml",
-      "date": "Sun, 19 Apr 2026 23:24:56 -0000"
     }
   ]
 }
