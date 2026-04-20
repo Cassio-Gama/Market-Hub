@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 196593.7,
-      "change": 0.44,
-      "changeStr": "\u002B0.44%"
+      "price": 195984.58,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.01,
-      "change": 1.71,
-      "changeStr": "\u002B1.71%"
+      "price": 46.84,
+      "change": 1.34,
+      "changeStr": "\u002B1.34%"
     },
     {
       "symbol": "VALE3",
-      "price": 89.25,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 88.66,
+      "change": -1.21,
+      "changeStr": "-1.21%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.7,
-      "change": -0.21,
-      "changeStr": "-0.21%"
+      "price": 46.46,
+      "change": -0.73,
+      "changeStr": "-0.73%"
     },
     {
       "symbol": "BBDC4",
-      "price": 21.08,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 21.01,
+      "change": -1.18,
+      "changeStr": "-1.18%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.44,
-      "change": 0.16,
-      "changeStr": "\u002B0.16%"
+      "price": 24.37,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.25,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 9.22,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.39,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 15.36,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.7,
-      "change": 0.1,
-      "changeStr": "\u002B0.10%"
+      "price": 48.8,
+      "change": 0.31,
+      "changeStr": "\u002B0.31%"
     }
   ],
   "news": [
+    {
+      "title": "Indicado ao Fed, Warsh promete respeitar independ\u00EAncia do BC, mas com limites",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/20/indicado-ao-fed-warsh-promete-respeitar-independencia-do-bc-mas-com-limites.ghtml",
+      "date": "Mon, 20 Apr 2026 17:55:24 -0000"
+    },
+    {
+      "title": "\nMusk ignora convoca\u00E7\u00E3o da Fran\u00E7a para depor sobre o X",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/20/musk-ignora-convocacao-da-franca-para-depor-sobre-o-x.ghtml",
+      "date": "Mon, 20 Apr 2026 16:18:04 -0000"
+    },
     {
       "title": "Empresa dos EUA anuncia compra de mineradora brasileira de terras raras",
       "source": "G1 Economia",
@@ -75,7 +87,7 @@
       "date": "Mon, 20 Apr 2026 12:33:39 -0000"
     },
     {
-      "title": "D\u00F3lar abre a R$ 4,98 com investidores de olho no impasse entre EUA e Ir\u00E3; Ibovespa avan\u00E7a",
+      "title": "D\u00F3lar opera a R$ 4,98 com investidores de olho no impasse entre EUA e Ir\u00E3; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/20/dolar-ibovespa.ghtml",
       "date": "Mon, 20 Apr 2026 12:00:33 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/04/20/carro-de-r-20-mil-divida-de-r-64-mil-como-evitar-um-mau-negocio-ao-financiar-um-veiculo.ghtml",
       "date": "Mon, 20 Apr 2026 05:00:26 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo sobe 5% com impasse entre EUA e Ir\u00E3 no Estreito de Ormuz",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/20/petroleo-sobe-5percent-com-impasse-entre-eua-e-ira-no-estreito-de-ormuz.ghtml",
-      "date": "Mon, 20 Apr 2026 04:01:18 -0000"
-    },
-    {
-      "title": "Sistema de reembolso das tarifas de Trump entra em vigor nos EUA; importadores temem falhas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/20/sistema-de-reembolso-das-tarifas-de-trump-entra-em-vigor-nos-eua-importadores-temem-falhas.ghtml",
-      "date": "Mon, 20 Apr 2026 03:01:01 -0000"
     }
   ]
 }
