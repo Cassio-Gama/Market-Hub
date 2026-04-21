@@ -57,6 +57,30 @@
   ],
   "news": [
     {
+      "title": "Por que \u00E9 t\u00E3o dif\u00EDcil abandonar o petr\u00F3leo?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/21/por-que-e-tao-dificil-abandonar-o-petroleo.ghtml",
+      "date": "Tue, 21 Apr 2026 03:01:09 -0000"
+    },
+    {
+      "title": "BRB anuncia acordo com gestora de fundos para vender R$ 15 bilh\u00F5es em ativos ligados ao Banco Master",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/20/brb-anuncia-acordo-com-gestora-de-fundos-para-vender-r-15-bilhoes-em-ativos-ligados-ao-banco-master.ghtml",
+      "date": "Tue, 21 Apr 2026 02:17:30 -0000"
+    },
+    {
+      "title": "Amazon anuncia investimento de at\u00E9 US$ 25 bilh\u00F5es na empresa de IA Anthropic",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/20/amazon-investimento-anthropic.ghtml",
+      "date": "Tue, 21 Apr 2026 01:55:52 -0000"
+    },
+    {
+      "title": "GPA obt\u00E9m decis\u00E3o para impedir que grupo franc\u00EAs Casino venda suas a\u00E7\u00F5es na empresa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/20/justica-gpa-casino-venda-acoes.ghtml",
+      "date": "Tue, 21 Apr 2026 00:57:39 -0000"
+    },
+    {
       "title": "Fachin diz que proposta de Dino para nova reforma no Judici\u00E1rio \u0027vem somar\u0027",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/20/fachin-diz-que-proposta-de-dino-para-nova-reforma-no-judiciario-vem-somar.ghtml",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/04/20/musk-ignora-convocacao-da-franca-para-depor-sobre-o-x.ghtml",
       "date": "Mon, 20 Apr 2026 16:18:04 -0000"
-    },
-    {
-      "title": "Empresa dos EUA anuncia compra de mineradora brasileira de terras raras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/20/empresa-dos-eua-anuncia-compra-de-mineradora-brasileira-de-terras-raras.ghtml",
-      "date": "Mon, 20 Apr 2026 14:09:43 -0000"
-    },
-    {
-      "title": "Com guerra no Oriente M\u00E9dio, mercado prev\u00EA infla\u00E7\u00E3o de 4,80% e juros mais altos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/20/guerra-no-oriente-medio-segue-pressionando-inflacao-e-expectativa-de-juros.ghtml",
-      "date": "Mon, 20 Apr 2026 12:57:11 -0000"
-    },
-    {
-      "title": "Braskem diz que Novonor assinou contrato para venda do controle da companhia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/negocios/noticia/2026/04/20/braskem-diz-que-novonor-assinou-contrato-para-venda-do-controle-da-companhia.ghtml",
-      "date": "Mon, 20 Apr 2026 12:33:39 -0000"
-    },
-    {
-      "title": "D\u00F3lar cai e fecha a R$ 4,97 em meio a incertezas sobre acordo entre EUA e Ir\u00E3; Ibovespa avan\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/20/dolar-ibovespa.ghtml",
-      "date": "Mon, 20 Apr 2026 12:00:33 -0000"
     }
   ]
 }
