@@ -2,62 +2,92 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 196132.06,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 193995.23,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.02,
-      "change": 1.73,
-      "changeStr": "\u002B1.73%"
+      "price": 47.49,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "VALE3",
-      "price": 88.73,
-      "change": -1.14,
-      "changeStr": "-1.14%"
+      "price": 88,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     },
     {
       "symbol": "ITUB4",
-      "price": 46.37,
-      "change": -0.92,
-      "changeStr": "-0.92%"
+      "price": 45.4,
+      "change": -2.09,
+      "changeStr": "-2.09%"
     },
     {
       "symbol": "BBDC4",
-      "price": 21.03,
-      "change": -1.08,
-      "changeStr": "-1.08%"
+      "price": 20.57,
+      "change": -2.19,
+      "changeStr": "-2.19%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.28,
-      "change": -0.49,
-      "changeStr": "-0.49%"
+      "price": 23.63,
+      "change": -2.68,
+      "changeStr": "-2.68%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.35,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 9.12,
+      "change": -2.46,
+      "changeStr": "-2.46%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.31,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 15.16,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.48,
-      "change": -0.35,
-      "changeStr": "-0.35%"
+      "price": 47.91,
+      "change": -1.18,
+      "changeStr": "-1.18%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar abre a R$ 4,96 com aten\u00E7\u00E3o \u00E0 tr\u00E9gua entre EUA e Ir\u00E3",
+      "title": "Ucr\u00E2nia retoma transporte de petr\u00F3leo russo para a Europa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/04/22/ucrania-retoma-transporte-de-petroleo-russo-para-a-europa-diz-agencia.ghtml",
+      "date": "Wed, 22 Apr 2026 14:38:27 -0000"
+    },
+    {
+      "title": "Aneel aperta regras para gera\u00E7\u00E3o solar distribu\u00EDda e mira amplia\u00E7\u00F5es irregulares",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/22/aneel-aperta-regras-para-geracao-solar-distribuida-e-mira-ampliacoes-irregulares.ghtml",
+      "date": "Wed, 22 Apr 2026 14:33:35 -0000"
+    },
+    {
+      "title": "Chevrolet Sonic quer desbancar Volkswagen Nivus no Brasil; veja primeiras imagens do SUV",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/22/chevrolet-sonic-quer-desbancar-volkswagen-nivus-no-brasil-veja-primeiras-imagens-do-suv.ghtml",
+      "date": "Wed, 22 Apr 2026 14:12:09 -0000"
+    },
+    {
+      "title": "Obras de arte, joias e carros de luxo: o que d\u00E1 para comprar com os R$ 5,7 milh\u00F5es do BBB 26",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/22/obras-de-arte-joias-e-carros-de-luxo-o-que-da-para-comprar-com-os-r-57-milhoes-do-bbb-26.ghtml",
+      "date": "Wed, 22 Apr 2026 13:57:38 -0000"
+    },
+    {
+      "title": "Como Tim Cook transformou a Apple em uma gigante trilion\u00E1ria e o que fica de legado; CEO deixar\u00E1 o cargo em setembro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/22/como-tim-cook-transformou-a-apple-em-uma-gigante-trilionaria-e-o-que-fica-de-legado-ceo-deixara-o-cargo-em-setembro.ghtml",
+      "date": "Wed, 22 Apr 2026 13:03:19 -0000"
+    },
+    {
+      "title": "D\u00F3lar cai para R$ 4,95 com mercado atento \u00E0 tr\u00E9gua entre EUA e Ir\u00E3; Ibovespa recua",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/22/dolar-ibovespa.ghtml",
       "date": "Wed, 22 Apr 2026 12:00:16 -0000"
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/22/imposto-de-renda-2026-como-declarar-ganhos-com-imoveis-e-quando-ha-isencao-no-reinvestimento.ghtml",
       "date": "Wed, 22 Apr 2026 08:04:55 -0000"
-    },
-    {
-      "title": "Conte\u00FAdos virais prometem atalhos para reduzir d\u00EDvidas, mas especialistas alertam para armadilhas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/22/conteudos-virais-prometem-atalhos-para-reduzir-dividas-mas-especialistas-alertam-para-armadilhas.ghtml",
-      "date": "Wed, 22 Apr 2026 07:02:16 -0000"
-    },
-    {
-      "title": "Voc\u00EA ganha bem ou mal? Entenda 3 formas de avaliar sua renda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/04/22/voce-ganha-bem-ou-mal-veja-formas-de-avaliar-sua-renda.ghtml",
-      "date": "Wed, 22 Apr 2026 07:02:06 -0000"
-    },
-    {
-      "title": "Escala 6x1: CCJ da C\u00E2mara vota nesta quarta relat\u00F3rio que d\u00E1 aval \u00E0 tramita\u00E7\u00E3o de PECs ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/04/22/escala-6x1-ccj-da-camara-vota-nesta-quarta-relatorio-que-da-aval-a-tramitacao-de-pecs.ghtml",
-      "date": "Wed, 22 Apr 2026 07:01:32 -0000"
-    },
-    {
-      "title": "A crise do modelo econ\u00F4mico e a intelig\u00EAncia artificial - O Assunto #1704",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/04/22/a-crise-do-modelo-economico-e-a-inteligencia-artificial-o-assunto-1704.ghtml",
-      "date": "Wed, 22 Apr 2026 03:30:35 -0000"
-    },
-    {
-      "title": "Novas regras do Minha Casa, Minha Vida passam a valer nesta quarta; veja o que muda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/22/novas-regras-minha-casa-minha-vida.ghtml",
-      "date": "Wed, 22 Apr 2026 03:01:06 -0000"
     }
   ]
 }
