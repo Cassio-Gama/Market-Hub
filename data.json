@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 193995.23,
-      "change": -1.09,
-      "changeStr": "-1.09%"
+      "price": 193584.81,
+      "change": -1.3,
+      "changeStr": "-1.30%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.49,
-      "change": 1,
-      "changeStr": "\u002B1.00%"
+      "price": 47.57,
+      "change": 1.17,
+      "changeStr": "\u002B1.17%"
     },
     {
       "symbol": "VALE3",
-      "price": 88,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 87.64,
+      "change": -1.23,
+      "changeStr": "-1.23%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.4,
-      "change": -2.09,
-      "changeStr": "-2.09%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 20.57,
-      "change": -2.19,
-      "changeStr": "-2.19%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 23.63,
-      "change": -2.68,
-      "changeStr": "-2.68%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 9.12,
+      "price": 45.23,
       "change": -2.46,
       "changeStr": "-2.46%"
     },
     {
+      "symbol": "BBDC4",
+      "price": 20.5,
+      "change": -2.52,
+      "changeStr": "-2.52%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 23.46,
+      "change": -3.38,
+      "changeStr": "-3.38%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 9.04,
+      "change": -3.32,
+      "changeStr": "-3.32%"
+    },
+    {
       "symbol": "ABEV3",
-      "price": 15.16,
-      "change": -0.98,
-      "changeStr": "-0.98%"
+      "price": 15.13,
+      "change": -1.18,
+      "changeStr": "-1.18%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.91,
-      "change": -1.18,
-      "changeStr": "-1.18%"
+      "price": 47.71,
+      "change": -1.59,
+      "changeStr": "-1.59%"
     }
   ],
   "news": [
+    {
+      "title": "Usar o celular enquanto carrega \u00E9 perigoso? Veja em quais situa\u00E7\u00F5es \u00E9 preciso ter cuidado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/22/saiba-se-usar-o-celular-enquanto-carrega-e-perigoso-veja-em-quais-situacoes-e-preciso-ter-cuidado.ghtml",
+      "date": "Wed, 22 Apr 2026 15:24:33 -0000"
+    },
+    {
+      "title": "Aumento de capital no BRB pressiona caixa do GDF, que ter\u00E1 de buscar ao menos R$ 4 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/22/aumento-de-capital-no-brb-pressiona-caixa-do-gdf-que-tera-de-buscar-ao-menos-r-4-bilhoes.ghtml",
+      "date": "Wed, 22 Apr 2026 15:22:20 -0000"
+    },
+    {
+      "title": "Fundo da Robinhood investe US$ 75 mi na OpenAI para ampliar acesso de investidores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/22/fundo-da-robinhood-investe-us-75-mi-na-openai-para-ampliar-acesso-de-investidores.ghtml",
+      "date": "Wed, 22 Apr 2026 14:56:11 -0000"
+    },
     {
       "title": "Ucr\u00E2nia retoma transporte de petr\u00F3leo russo para a Europa",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/22/lufthansa-cortara-voos-para-economizar-combustivel.ghtml",
       "date": "Wed, 22 Apr 2026 10:51:26 -0000"
-    },
-    {
-      "title": "Maior produtor de camisinhas do mundo pode subir pre\u00E7os em at\u00E9 30% por causa da guerra no Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/22/maior-produtor-de-camisinhas-do-mundo-pode-subir-precos-em-ate-30-por-causa-da-guerra-no-ira.ghtml",
-      "date": "Wed, 22 Apr 2026 10:46:44 -0000"
-    },
-    {
-      "title": "\u0027Meu nome est\u00E1 sujo em 5 bancos por causa de bets\u0027: a ang\u00FAstia de brasileiros em meio ao endividamento recorde",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/22/meu-nome-esta-sujo-em-5-bancos-por-causa-de-bets-a-angustia-de-brasileiros-em-meio-ao-endividamento-recorde.ghtml",
-      "date": "Wed, 22 Apr 2026 08:38:20 -0000"
-    },
-    {
-      "title": "Imposto de Renda 2026: como declarar ganhos com im\u00F3veis e quando h\u00E1 isen\u00E7\u00E3o no reinvestimento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/22/imposto-de-renda-2026-como-declarar-ganhos-com-imoveis-e-quando-ha-isencao-no-reinvestimento.ghtml",
-      "date": "Wed, 22 Apr 2026 08:04:55 -0000"
     }
   ]
 }
