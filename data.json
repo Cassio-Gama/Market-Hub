@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 193049.19,
-      "change": -1.57,
-      "changeStr": "-1.57%"
+      "price": 192912.14,
+      "change": -1.64,
+      "changeStr": "-1.64%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.6,
-      "change": 1.23,
-      "changeStr": "\u002B1.23%"
+      "price": 47.65,
+      "change": 1.34,
+      "changeStr": "\u002B1.34%"
     },
     {
       "symbol": "VALE3",
-      "price": 87.62,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 87.27,
+      "change": -1.65,
+      "changeStr": "-1.65%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.12,
-      "change": -2.7,
-      "changeStr": "-2.70%"
+      "price": 45.01,
+      "change": -2.93,
+      "changeStr": "-2.93%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.38,
-      "change": -3.09,
-      "changeStr": "-3.09%"
+      "price": 20.42,
+      "change": -2.9,
+      "changeStr": "-2.90%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.47,
-      "change": -3.34,
-      "changeStr": "-3.34%"
+      "price": 23.46,
+      "change": -3.38,
+      "changeStr": "-3.38%"
     },
     {
       "symbol": "MGLU3",
@@ -44,18 +44,24 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 15.07,
-      "change": -1.57,
-      "changeStr": "-1.57%"
+      "price": 15.02,
+      "change": -1.89,
+      "changeStr": "-1.89%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.38,
-      "change": -2.27,
-      "changeStr": "-2.27%"
+      "price": 47.27,
+      "change": -2.5,
+      "changeStr": "-2.50%"
     }
   ],
   "news": [
+    {
+      "title": "Empresas de Elon Musk compram 1,3 mil Cybertrucks e inflam vendas da Tesla nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/22/empresas-de-elon-musk-compram-13-mil-cybertrucks-e-inflam-vendas-da-tesla-nos-eua.ghtml",
+      "date": "Wed, 22 Apr 2026 19:00:33 -0000"
+    },
     {
       "title": "Usar o celular enquanto carrega \u00E9 perigoso? Veja em quais situa\u00E7\u00F5es \u00E9 preciso ter cuidado",
       "source": "G1 Economia",
@@ -73,6 +79,18 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/04/22/fundo-da-robinhood-investe-us-75-mi-na-openai-para-ampliar-acesso-de-investidores.ghtml",
       "date": "Wed, 22 Apr 2026 14:56:11 -0000"
+    },
+    {
+      "title": "BRB aprova aumento do capital em at\u00E9 R$ 8,8 bilh\u00F5es para recompor balan\u00E7o afetado pelo caso Master",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/22/brb-aprova-aumento-do-capital-social-do-banco-em-ate-r-88-bilhoes.ghtml",
+      "date": "Wed, 22 Apr 2026 14:53:09 -0000"
+    },
+    {
+      "title": "Toffoli se declara suspeito e n\u00E3o participa de julgamento sobre pris\u00E3o de ex-presidente do BRB no STF",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/22/toffoli-se-declara-suspeito-e-nao-participa-de-julgamento-sobre-prisao-de-ex-presidente-do-brb-no-stf.ghtml",
+      "date": "Wed, 22 Apr 2026 14:40:16 -0000"
     },
     {
       "title": "Ucr\u00E2nia retoma transporte de petr\u00F3leo russo para a Europa",
@@ -93,28 +111,10 @@
       "date": "Wed, 22 Apr 2026 14:12:09 -0000"
     },
     {
-      "title": "Obras de arte, joias e carros de luxo: o que d\u00E1 para comprar com os R$ 5,7 milh\u00F5es do BBB 26",
+      "title": "Fux e Mendon\u00E7a votam para manter pris\u00F5es de ex-presidente do BRB e advogado investigados no caso do Banco Master",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/22/obras-de-arte-joias-e-carros-de-luxo-o-que-da-para-comprar-com-os-r-57-milhoes-do-bbb-26.ghtml",
-      "date": "Wed, 22 Apr 2026 13:57:38 -0000"
-    },
-    {
-      "title": "Como Tim Cook transformou a Apple em uma gigante trilion\u00E1ria e o que fica de legado; CEO deixar\u00E1 o cargo em setembro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/22/como-tim-cook-transformou-a-apple-em-uma-gigante-trilionaria-e-o-que-fica-de-legado-ceo-deixara-o-cargo-em-setembro.ghtml",
-      "date": "Wed, 22 Apr 2026 13:03:19 -0000"
-    },
-    {
-      "title": "D\u00F3lar cai para R$ 4,95 com mercado atento \u00E0 tr\u00E9gua entre EUA e Ir\u00E3; Ibovespa recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/22/dolar-ibovespa.ghtml",
-      "date": "Wed, 22 Apr 2026 12:00:16 -0000"
-    },
-    {
-      "title": "Lufthansa cortar\u00E1 20 mil voos para economizar combust\u00EDvel por conta de guerra no Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/22/lufthansa-cortara-voos-para-economizar-combustivel.ghtml",
-      "date": "Wed, 22 Apr 2026 10:51:26 -0000"
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/22/andre-mendonca-stf-vota-prisoes-de-ex-presidente-do-brb-e-advogado-investigados-banco-master.ghtml",
+      "date": "Wed, 22 Apr 2026 14:09:15 -0000"
     }
   ]
 }
