@@ -2,62 +2,62 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 191867.22,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 191712.8,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.58,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "price": 47.72,
+      "change": 0.1,
+      "changeStr": "\u002B0.10%"
     },
     {
       "symbol": "VALE3",
-      "price": 86.37,
-      "change": -0.97,
-      "changeStr": "-0.97%"
+      "price": 86.4,
+      "change": -0.94,
+      "changeStr": "-0.94%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.57,
-      "change": -1.02,
-      "changeStr": "-1.02%"
+      "price": 44.34,
+      "change": -1.53,
+      "changeStr": "-1.53%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.12,
-      "change": -1.42,
-      "changeStr": "-1.42%"
+      "price": 20.06,
+      "change": -1.71,
+      "changeStr": "-1.71%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.04,
-      "change": -1.54,
-      "changeStr": "-1.54%"
+      "price": 23.09,
+      "change": -1.32,
+      "changeStr": "-1.32%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.68,
-      "change": -3.02,
-      "changeStr": "-3.02%"
+      "price": 8.74,
+      "change": -2.35,
+      "changeStr": "-2.35%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.81,
-      "change": -1.27,
-      "changeStr": "-1.27%"
+      "price": 14.79,
+      "change": -1.4,
+      "changeStr": "-1.40%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.61,
-      "change": 2.55,
-      "changeStr": "\u002B2.55%"
+      "price": 48.69,
+      "change": 2.72,
+      "changeStr": "\u002B2.72%"
     }
   ],
   "news": [
     {
-      "title": "Correios fecharam 2025 com um preju\u00EDzo financeiro de R$ 6,4 bilh\u00F5es; s\u00E9rie negativa vem desde 2022",
+      "title": "Correios fecharam 2025 com um preju\u00EDzo financeiro de R$ 8,5 bilh\u00F5es; s\u00E9rie negativa vem desde 2022",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/23/correios-fecharam-2025-com-um-prejuizo-financeiro-de-r-64-bilhoes-serie-negativa-vem-desde-2022.ghtml",
       "date": "Thu, 23 Apr 2026 17:22:39 -0000"
@@ -75,7 +75,7 @@
       "date": "Thu, 23 Apr 2026 16:08:30 -0000"
     },
     {
-      "title": "Conta de luz: Aneel aprova reajustes que atingem mais de 22 milh\u00F5es de consumidores",
+      "title": "Conta de luz: Aneel aprova reajustes que atingem mais de 22 milh\u00F5es de unidades consumidoras",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/23/conta-de-luz-aneel-aprova-reajustes-que-atingem-mais-de-22-milhoes-de-consumidores.ghtml",
       "date": "Thu, 23 Apr 2026 15:29:11 -0000"
