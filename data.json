@@ -2,62 +2,110 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 192888.95,
-      "change": -1.65,
-      "changeStr": "-1.65%"
+      "price": 192233.66,
+      "change": -0.34,
+      "changeStr": "-0.34%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.67,
-      "change": 1.38,
-      "changeStr": "\u002B1.38%"
+      "price": 47.04,
+      "change": -1.32,
+      "changeStr": "-1.32%"
     },
     {
       "symbol": "VALE3",
-      "price": 87.22,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "price": 86.36,
+      "change": -0.99,
+      "changeStr": "-0.99%"
     },
     {
       "symbol": "ITUB4",
-      "price": 45.03,
-      "change": -2.89,
-      "changeStr": "-2.89%"
+      "price": 44.81,
+      "change": -0.49,
+      "changeStr": "-0.49%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.41,
-      "change": -2.95,
-      "changeStr": "-2.95%"
+      "price": 20.3,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.4,
-      "change": -3.62,
-      "changeStr": "-3.62%"
+      "price": 23.06,
+      "change": -1.45,
+      "changeStr": "-1.45%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.95,
-      "change": -4.28,
-      "changeStr": "-4.28%"
+      "price": 8.79,
+      "change": -1.79,
+      "changeStr": "-1.79%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15,
-      "change": -2.02,
-      "changeStr": "-2.02%"
+      "price": 14.79,
+      "change": -1.4,
+      "changeStr": "-1.40%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.4,
-      "change": -2.23,
-      "changeStr": "-2.23%"
+      "price": 48.78,
+      "change": 2.91,
+      "changeStr": "\u002B2.91%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar abre com tens\u00E3o no Estreito de Ormuz e petr\u00F3leo em alta",
+      "title": "Acionistas da Warner Bros aprovam a aquisi\u00E7\u00E3o pela Paramount",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/acionistas-da-warner-bros-aprovam-a-aquisicao-pela-paramount.ghtml",
+      "date": "Thu, 23 Apr 2026 14:42:34 -0000"
+    },
+    {
+      "title": "SpaceX prepara IPO na bolsa, mas deve manter controle concentrado em Elon Musk",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/23/spacex-prepara-ipo-na-bolsa-mas-deve-manter-controle-concentrado-em-elon-musk.ghtml",
+      "date": "Thu, 23 Apr 2026 14:41:39 -0000"
+    },
+    {
+      "title": "Guerra no Ir\u00E3 derruba em mais de 30% exporta\u00E7\u00F5es brasileiras ao Golfo P\u00E9rsico",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/23/guerra-no-ira-exportacoes-brasileiras-golfo-persico.ghtml",
+      "date": "Thu, 23 Apr 2026 14:10:05 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo volta a subir e se aproxima de US$ 105 ap\u00F3s Ir\u00E3 apreender navios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/petroleo-brent-oriente-medio.ghtml",
+      "date": "Thu, 23 Apr 2026 13:30:30 -0000"
+    },
+    {
+      "title": "Projeto de lei que pro\u00EDbe radar de tr\u00E2nsito escondido \u00E9 aprovado por comiss\u00E3o da C\u00E2mara",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/23/projeto-de-lei-que-proibe-radar-de-transito-escondido-e-aprovado-por-comissao-da-camara.ghtml",
+      "date": "Thu, 23 Apr 2026 13:29:36 -0000"
+    },
+    {
+      "title": "Correios devem manter \u0027elevado preju\u00EDzo\u0027 neste ano; governo v\u00EA estatais federais no vermelho at\u00E9 2030",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/tendencia-e-de-que-correios-ainda-apresentem-elevado-prejuizo-em-2026-diz-governo.ghtml",
+      "date": "Thu, 23 Apr 2026 13:14:47 -0000"
+    },
+    {
+      "title": "Bilion\u00E1rios russos batem recorde de riqueza mesmo sob san\u00E7\u00F5es e guerra",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/bilionarios-russos-guerra.ghtml",
+      "date": "Thu, 23 Apr 2026 13:09:50 -0000"
+    },
+    {
+      "title": "Brasileira processa empresa do youtuber MrBeast por ass\u00E9dio; veja as principais acusa\u00E7\u00F5es ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/23/brasileira-processa-mrbeast-assedio-principais-acusacoes.ghtml",
+      "date": "Thu, 23 Apr 2026 12:39:19 -0000"
+    },
+    {
+      "title": "D\u00F3lar cai a R$ 4,94 com tens\u00E3o no Estreito de Ormuz e petr\u00F3leo em alta; Ibovespa recua",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/23/dolar-ibovespa.ghtml",
       "date": "Thu, 23 Apr 2026 12:00:07 -0000"
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/04/23/quem-e-mrbeast-considerado-o-maior-youtuber-do-mundo.ghtml",
       "date": "Thu, 23 Apr 2026 11:46:51 -0000"
-    },
-    {
-      "title": "Pent\u00E1gono avalia que a retirada de minas do Estreito de Ormuz pode levar at\u00E9 6 meses, diz jornal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/04/23/pentagono-calcula-que-retirar-minas-de-ormuz-pode-levar-ate-seis-meses.ghtml",
-      "date": "Thu, 23 Apr 2026 10:42:29 -0000"
-    },
-    {
-      "title": "A hist\u00F3rica condena\u00E7\u00E3o da Lafarge, a grande empresa do setor de cimento, por fomentar o terrorismo internacional",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/23/a-historica-condenacao-da-lafarge-a-grande-empresa-do-setor-de-cimento-por-fomentar-o-terrorismo-internacional.ghtml",
-      "date": "Thu, 23 Apr 2026 10:29:19 -0000"
-    },
-    {
-      "title": "Acordo Mercosul-UE pode aumentar exporta\u00E7\u00F5es brasileiras em 13%, diz Alckmin",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/23/acordo-mercosul-ue-pode-aumentar-exportacoes-brasileiras-em-13-diz-alckmin.ghtml",
-      "date": "Thu, 23 Apr 2026 10:18:59 -0000"
-    },
-    {
-      "title": "Caso Master: PF conclui que Sic\u00E1rio atentou contra a pr\u00F3pria vida e apresenta a Mendon\u00E7a conclus\u00E3o de investiga\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/23/caso-master-pf-conclui-que-sicario-atentou-contra-a-propria-vida-e-apresenta-a-mendonca-conclusao-de-investigacao.ghtml",
-      "date": "Thu, 23 Apr 2026 08:03:23 -0000"
-    },
-    {
-      "title": "Como os anos ap\u00F3s a aposentadoria podem se tornar a fase mais soci\u00E1vel de nossas vidas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/04/23/como-os-anos-apos-a-aposentadoria-podem-se-tornar-a-fase-mais-sociavel-de-nossas-vidas.ghtml",
-      "date": "Thu, 23 Apr 2026 07:02:10 -0000"
-    },
-    {
-      "title": "Fraude no INSS: um ano ap\u00F3s opera\u00E7\u00E3o revelar desvios, ressarcimento a segurados chega a quase R$ 3 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/04/23/fraude-no-inss-um-ano-apos-operacao-revelar-desvios-ressarcimento-a-segurados-chega-a-quase-r-3-bilhoes.ghtml",
-      "date": "Thu, 23 Apr 2026 07:00:54 -0000"
-    },
-    {
-      "title": "Intelig\u00EAncia Artificial j\u00E1 reduz emprego entre jovens no Brasil e amea\u00E7a forma\u00E7\u00E3o profissional",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/23/inteligencia-artificial-ja-reduz-emprego-entre-jovens-no-brasil-e-ameaca-formacao-profissional.ghtml",
-      "date": "Thu, 23 Apr 2026 06:00:33 -0000"
-    },
-    {
-      "title": "Calor extremo amea\u00E7a produ\u00E7\u00E3o de alimentos no mundo, alertam ag\u00EAncias da ONU",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/23/calor-extremo-ameaca-producao-de-alimentos-no-mundo-alertam-agencias-da-onu.ghtml",
-      "date": "Thu, 23 Apr 2026 03:01:24 -0000"
     }
   ]
 }
