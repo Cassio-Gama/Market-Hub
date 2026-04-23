@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 192233.66,
-      "change": -0.34,
-      "changeStr": "-0.34%"
+      "price": 191867.22,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.04,
-      "change": -1.32,
-      "changeStr": "-1.32%"
+      "price": 47.58,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     },
     {
       "symbol": "VALE3",
-      "price": 86.36,
-      "change": -0.99,
-      "changeStr": "-0.99%"
+      "price": 86.37,
+      "change": -0.97,
+      "changeStr": "-0.97%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.81,
-      "change": -0.49,
-      "changeStr": "-0.49%"
+      "price": 44.57,
+      "change": -1.02,
+      "changeStr": "-1.02%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.3,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 20.12,
+      "change": -1.42,
+      "changeStr": "-1.42%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.06,
-      "change": -1.45,
-      "changeStr": "-1.45%"
+      "price": 23.04,
+      "change": -1.54,
+      "changeStr": "-1.54%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.79,
-      "change": -1.79,
-      "changeStr": "-1.79%"
+      "price": 8.68,
+      "change": -3.02,
+      "changeStr": "-3.02%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.79,
-      "change": -1.4,
-      "changeStr": "-1.40%"
+      "price": 14.81,
+      "change": -1.27,
+      "changeStr": "-1.27%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.78,
-      "change": 2.91,
-      "changeStr": "\u002B2.91%"
+      "price": 48.61,
+      "change": 2.55,
+      "changeStr": "\u002B2.55%"
     }
   ],
   "news": [
+    {
+      "title": "Correios fecharam 2025 com um preju\u00EDzo financeiro de R$ 6,4 bilh\u00F5es; s\u00E9rie negativa vem desde 2022",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/correios-fecharam-2025-com-um-prejuizo-financeiro-de-r-64-bilhoes-serie-negativa-vem-desde-2022.ghtml",
+      "date": "Thu, 23 Apr 2026 17:22:39 -0000"
+    },
+    {
+      "title": "Plano de reestrutura\u00E7\u00E3o dos Correios: resultado parcial est\u00E1 abaixo das expectativas, aponta estatal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/plano-de-reestruturacao-dos-correios-resultado-parcial-esta-abaixo-das-expectativas-aponta-estatal.ghtml",
+      "date": "Thu, 23 Apr 2026 17:21:00 -0000"
+    },
+    {
+      "title": "R\u00E1dio Eldorado vai encerrar atividades ap\u00F3s quase 70 anos no ar ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/radio-eldorado-vai-encerrar-atividades.ghtml",
+      "date": "Thu, 23 Apr 2026 16:08:30 -0000"
+    },
+    {
+      "title": "Conta de luz: Aneel aprova reajustes que atingem mais de 22 milh\u00F5es de consumidores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/conta-de-luz-aneel-aprova-reajustes-que-atingem-mais-de-22-milhoes-de-consumidores.ghtml",
+      "date": "Thu, 23 Apr 2026 15:29:11 -0000"
+    },
+    {
+      "title": "Acionistas da Warner aprovam venda para a Paramount; veja os n\u00FAmeros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/acionistas-warner-paramount-veja-os-numeros.ghtml",
+      "date": "Thu, 23 Apr 2026 15:25:16 -0000"
+    },
     {
       "title": "Acionistas da Warner Bros aprovam a aquisi\u00E7\u00E3o pela Paramount",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/04/23/projeto-de-lei-que-proibe-radar-de-transito-escondido-e-aprovado-por-comissao-da-camara.ghtml",
       "date": "Thu, 23 Apr 2026 13:29:36 -0000"
-    },
-    {
-      "title": "Correios devem manter \u0027elevado preju\u00EDzo\u0027 neste ano; governo v\u00EA estatais federais no vermelho at\u00E9 2030",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/23/tendencia-e-de-que-correios-ainda-apresentem-elevado-prejuizo-em-2026-diz-governo.ghtml",
-      "date": "Thu, 23 Apr 2026 13:14:47 -0000"
-    },
-    {
-      "title": "Bilion\u00E1rios russos batem recorde de riqueza mesmo sob san\u00E7\u00F5es e guerra",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/23/bilionarios-russos-guerra.ghtml",
-      "date": "Thu, 23 Apr 2026 13:09:50 -0000"
-    },
-    {
-      "title": "Brasileira processa empresa do youtuber MrBeast por ass\u00E9dio; veja as principais acusa\u00E7\u00F5es ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/23/brasileira-processa-mrbeast-assedio-principais-acusacoes.ghtml",
-      "date": "Thu, 23 Apr 2026 12:39:19 -0000"
-    },
-    {
-      "title": "D\u00F3lar cai a R$ 4,94 com tens\u00E3o no Estreito de Ormuz e petr\u00F3leo em alta; Ibovespa recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/23/dolar-ibovespa.ghtml",
-      "date": "Thu, 23 Apr 2026 12:00:07 -0000"
-    },
-    {
-      "title": "Quem \u00E9 MrBeast, considerado o maior youtuber do mundo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/23/quem-e-mrbeast-considerado-o-maior-youtuber-do-mundo.ghtml",
-      "date": "Thu, 23 Apr 2026 11:46:51 -0000"
     }
   ]
 }
