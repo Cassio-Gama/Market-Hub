@@ -50,12 +50,24 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 47.19,
-      "change": -2.66,
-      "changeStr": "-2.66%"
+      "price": 47.4,
+      "change": -2.23,
+      "changeStr": "-2.23%"
     }
   ],
   "news": [
+    {
+      "title": "A hist\u00F3rica condena\u00E7\u00E3o da Lafarge, a grande empresa do setor de cimento, por fomentar o terrorismo internacional",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/a-historica-condenacao-da-lafarge-a-grande-empresa-do-setor-de-cimento-por-fomentar-o-terrorismo-internacional.ghtml",
+      "date": "Thu, 23 Apr 2026 10:29:19 -0000"
+    },
+    {
+      "title": "Acordo Mercosul-UE pode aumentar exporta\u00E7\u00F5es brasileiras em 13%, diz Alckmin",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/acordo-mercosul-ue-pode-aumentar-exportacoes-brasileiras-em-13-diz-alckmin.ghtml",
+      "date": "Thu, 23 Apr 2026 10:18:59 -0000"
+    },
     {
       "title": "Caso Master: PF conclui que Sic\u00E1rio atentou contra a pr\u00F3pria vida e apresenta a Mendon\u00E7a conclus\u00E3o de investiga\u00E7\u00E3o",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/22/caso-master-mendonca-nao-conta-com-delacoes-para-avancar-em-investigacoes.ghtml",
       "date": "Wed, 22 Apr 2026 23:52:58 -0000"
-    },
-    {
-      "title": "Tesla tem lucro de US$ 477 milh\u00F5es no 1\u00BA trimestre, alta de 17%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/22/lucro-tesla.ghtml",
-      "date": "Wed, 22 Apr 2026 23:48:25 -0000"
-    },
-    {
-      "title": "INSS: aux\u00EDlio por incapacidade tempor\u00E1ria para afastamento por at\u00E9 90 dias n\u00E3o precisa de per\u00EDcia presencial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/22/inss-auxilio-por-incapacidade-temporaria-para-afastamento-por-ate-90-dias-nao-precisa-de-pericia-presencial.ghtml",
-      "date": "Wed, 22 Apr 2026 23:21:55 -0000"
     }
   ]
 }
