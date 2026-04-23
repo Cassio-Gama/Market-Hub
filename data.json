@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 191712.8,
-      "change": -0.61,
-      "changeStr": "-0.61%"
+      "price": 191378.44,
+      "change": -0.78,
+      "changeStr": "-0.78%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.72,
-      "change": 0.1,
-      "changeStr": "\u002B0.10%"
+      "price": 47.77,
+      "change": 0.21,
+      "changeStr": "\u002B0.21%"
     },
     {
       "symbol": "VALE3",
-      "price": 86.4,
-      "change": -0.94,
-      "changeStr": "-0.94%"
+      "price": 85.97,
+      "change": -1.43,
+      "changeStr": "-1.43%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.34,
-      "change": -1.53,
-      "changeStr": "-1.53%"
+      "price": 44.18,
+      "change": -1.89,
+      "changeStr": "-1.89%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.06,
+      "price": 19.97,
+      "change": -2.16,
+      "changeStr": "-2.16%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 23,
       "change": -1.71,
       "changeStr": "-1.71%"
     },
     {
-      "symbol": "BBAS3",
-      "price": 23.09,
-      "change": -1.32,
-      "changeStr": "-1.32%"
-    },
-    {
       "symbol": "MGLU3",
-      "price": 8.74,
-      "change": -2.35,
-      "changeStr": "-2.35%"
+      "price": 8.65,
+      "change": -3.35,
+      "changeStr": "-3.35%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.79,
-      "change": -1.4,
-      "changeStr": "-1.40%"
+      "price": 14.74,
+      "change": -1.73,
+      "changeStr": "-1.73%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.69,
-      "change": 2.72,
-      "changeStr": "\u002B2.72%"
+      "price": 48.28,
+      "change": 1.86,
+      "changeStr": "\u002B1.86%"
     }
   ],
   "news": [
+    {
+      "title": "Governo envia ao Congresso projeto que permite usar receita do petr\u00F3leo para reduzir impostos sobre combust\u00EDveis",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/23/governo-projeto-receita-do-petroleo-para-reduzir-impostos-sobre-combustiveis.ghtml",
+      "date": "Thu, 23 Apr 2026 20:29:45 -0000"
+    },
+    {
+      "title": "Cade reabre investiga\u00E7\u00E3o contra Google por uso de conte\u00FAdo produzido por IA   ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/04/23/cade-reabre-investigacao-contra-google-por-uso-de-conteudo-produzido-por-ia.ghtml",
+      "date": "Thu, 23 Apr 2026 18:54:08 -0000"
+    },
     {
       "title": "Correios fecharam 2025 com um preju\u00EDzo financeiro de R$ 8,5 bilh\u00F5es; s\u00E9rie negativa vem desde 2022",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/23/guerra-no-ira-exportacoes-brasileiras-golfo-persico.ghtml",
       "date": "Thu, 23 Apr 2026 14:10:05 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo volta a subir e se aproxima de US$ 105 ap\u00F3s Ir\u00E3 apreender navios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/23/petroleo-brent-oriente-medio.ghtml",
-      "date": "Thu, 23 Apr 2026 13:30:30 -0000"
-    },
-    {
-      "title": "Projeto de lei que pro\u00EDbe radar de tr\u00E2nsito escondido \u00E9 aprovado por comiss\u00E3o da C\u00E2mara",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/23/projeto-de-lei-que-proibe-radar-de-transito-escondido-e-aprovado-por-comissao-da-camara.ghtml",
-      "date": "Thu, 23 Apr 2026 13:29:36 -0000"
     }
   ]
 }
