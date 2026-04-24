@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 191378.44,
-      "change": -0.78,
-      "changeStr": "-0.78%"
+      "price": 190362.42,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.77,
-      "change": 1.35,
-      "changeStr": "\u002B1.35%"
+      "price": 46.85,
+      "change": -1.93,
+      "changeStr": "-1.93%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.97,
-      "change": -1.43,
-      "changeStr": "-1.43%"
+      "price": 86.19,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.18,
-      "change": -1.89,
-      "changeStr": "-1.89%"
+      "price": 44.03,
+      "change": -0.34,
+      "changeStr": "-0.34%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.97,
-      "change": -2.16,
-      "changeStr": "-2.16%"
+      "price": 19.91,
+      "change": -0.3,
+      "changeStr": "-0.30%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23,
-      "change": -1.71,
-      "changeStr": "-1.71%"
+      "price": 22.68,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.65,
-      "change": -3.35,
-      "changeStr": "-3.35%"
+      "price": 8.59,
+      "change": -0.69,
+      "changeStr": "-0.69%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.74,
-      "change": -1.73,
-      "changeStr": "-1.73%"
+      "price": 14.56,
+      "change": -1.22,
+      "changeStr": "-1.22%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.28,
-      "change": 1.86,
-      "changeStr": "\u002B1.86%"
+      "price": 48.42,
+      "change": 0.29,
+      "changeStr": "\u002B0.29%"
     }
   ],
   "news": [
+    {
+      "title": "Microsoft faz 1\u00BA plano de demiss\u00E3o volunt\u00E1ria de sua hist\u00F3ria, diz jornal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/24/microsoft-prepara-1o-plano-de-demissao-voluntaria-de-sua-historia-diz-jornal.ghtml",
+      "date": "Fri, 24 Apr 2026 13:10:06 -0000"
+    },
+    {
+      "title": "Pol\u00F4nia vai \u00E0 Justi\u00E7a da Uni\u00E3o Europeia contra acordo com Mercosul",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/24/polonia-vai-a-justica-da-uniao-europeia-contra-acordo-com-mercosul.ghtml",
+      "date": "Fri, 24 Apr 2026 12:46:53 -0000"
+    },
+    {
+      "title": "Nike anuncia demiss\u00E3o de 1.400 funcion\u00E1rios; \u00E1rea de tecnologia ser\u00E1 a mais afetada",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/24/nike-anuncia-demissao-de-1400-funcionarios.ghtml",
+      "date": "Fri, 24 Apr 2026 12:26:48 -0000"
+    },
+    {
+      "title": "Dia Nacional do Churrasco: em que parte do boi fica a picanha? D\u00EA play no game e teste seus conhecimentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/24/dia-nacional-do-churrasco-em-que-parte-do-boi-fica-a-picanha-de-play-no-game-e-teste-seus-conhecimentos.ghtml",
+      "date": "Fri, 24 Apr 2026 12:01:43 -0000"
+    },
+    {
+      "title": "D\u00F3lar sobe a R$ 5,02 de olho nas negocia\u00E7\u00F5es entre EUA e Ir\u00E3; Ibovespa recua",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/24/dolar-ibovespa.ghtml",
+      "date": "Fri, 24 Apr 2026 12:00:19 -0000"
+    },
+    {
+      "title": "Com queda do d\u00F3lar, gastos de brasileiros no exterior batem recorde no 1\u00BA trimestre",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/24/com-queda-do-dolar-gastos-de-brasileiros-no-exterior-batem-recorde-no-1o-trimestre.ghtml",
+      "date": "Fri, 24 Apr 2026 11:56:05 -0000"
+    },
+    {
+      "title": "Entenda lei que pro\u00EDbe radar de tr\u00E2nsito escondido aprovada por comiss\u00E3o da C\u00E2mara",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/24/entenda-lei-que-proibe-radar-de-transito-escondido-aprovada-por-comissao-da-camara.ghtml",
+      "date": "Fri, 24 Apr 2026 11:42:43 -0000"
+    },
+    {
+      "title": "Brasil iniciar\u00E1 testes para aumentar mistura de biodiesel no diesel em maio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/24/brasil-iniciara-testes-para-aumentar-mistura-de-biodiesel-no-diesel-em-maio.ghtml",
+      "date": "Fri, 24 Apr 2026 11:16:22 -0000"
+    },
     {
       "title": "\nNovo modelo de IA de baixo custo da chinesa DeepSeek acirra disputa tecnol\u00F3gica com os EUA",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/24/o-que-o-consumo-de-carne-de-burro-na-patagonia-revela-sobre-a-atualidade-da-argentina.ghtml",
       "date": "Fri, 24 Apr 2026 10:37:48 -0000"
-    },
-    {
-      "title": "Palantir: por que o crescimento do poder global da empresa de IA causa preocupa\u00E7\u00E3o?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/24/palantir-por-que-o-crescimento-do-poder-global-da-empresa-de-ia-causa-preocupacao.ghtml",
-      "date": "Fri, 24 Apr 2026 10:19:21 -0000"
-    },
-    {
-      "title": "Supercarro brasileiro de R$ 1,5 milh\u00E3o ganha configurador virtual aberto ao p\u00FAblico",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/24/supercarro-brasileiro-de-r-15-milhao-ganha-configurador-virtual.ghtml",
-      "date": "Fri, 24 Apr 2026 09:00:45 -0000"
-    },
-    {
-      "title": "Ap\u00F3s proibi\u00E7\u00E3o pela Anvisa, marca relan\u00E7a caf\u00E9 em sach\u00EA sem extrato de cogumelo na f\u00F3rmula",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/24/apos-proibicao-pela-anvisa-marca-relanca-cafe-em-sache-sem-extrato-de-cogumelo-na-formula.ghtml",
-      "date": "Fri, 24 Apr 2026 08:03:46 -0000"
-    },
-    {
-      "title": "Sal\u00E3o de Pequim: GWM lan\u00E7a o Ora 5, que promete rodar at\u00E9 1 mil km com um tanque; V\u00CDDEO",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/24/novo-gwm-ora-5-hibrido-promete-rodar-mais-de-1-mil-km-com-tanque-cheio-video.ghtml",
-      "date": "Fri, 24 Apr 2026 07:12:05 -0000"
-    },
-    {
-      "title": "Or\u00E7amento 2027: estatal que controla usinas nucleares em Angra pode precisar de aporte do governo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/24/orcamento-2027-estatal-que-controla-usinas-nucleares-em-angra-pode-precisar-de-aporte-do-governo.ghtml",
-      "date": "Fri, 24 Apr 2026 07:01:29 -0000"
-    },
-    {
-      "title": "Bloqueio em Ormuz faz empresas gastarem at\u00E9 US$ 4 milh\u00F5es no Canal do Panam\u00E1",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/24/bloqueio-em-ormuz-faz-empresas-gastarem-ate-us-4-milhoes-no-canal-do-panama.ghtml",
-      "date": "Fri, 24 Apr 2026 06:52:23 -0000"
-    },
-    {
-      "title": "Rob\u00F4 supera jogadores humanos profissionais em partidas de t\u00EAnis de mesa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/04/24/robo-supera-jogadores-humanos-profissionais-em-partidas-de-tenis-de-mesa.ghtml",
-      "date": "Fri, 24 Apr 2026 06:01:13 -0000"
-    },
-    {
-      "title": "Trump amea\u00E7a Reino Unido com \u0027grande tarifa\u0027 por imposto sobre big techs americanas, diz jornal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/24/trump-ameaca-reino-unido-com-grande-tarifa-por-imposto-sobre-big-techs-americanas-diz-jornal.ghtml",
-      "date": "Fri, 24 Apr 2026 05:25:23 -0000"
     }
   ]
 }
