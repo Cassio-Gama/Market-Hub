@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 190130.72,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 190555.48,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.62,
-      "change": -2.41,
-      "changeStr": "-2.41%"
+      "price": 46.87,
+      "change": -1.88,
+      "changeStr": "-1.88%"
     },
     {
       "symbol": "VALE3",
-      "price": 86.23,
-      "change": 0.3,
-      "changeStr": "\u002B0.30%"
+      "price": 86.02,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "ITUB4",
@@ -26,36 +26,54 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 19.92,
-      "change": -0.25,
-      "changeStr": "-0.25%"
+      "price": 19.9,
+      "change": -0.35,
+      "changeStr": "-0.35%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.72,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 22.74,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.6,
-      "change": -0.58,
-      "changeStr": "-0.58%"
+      "price": 8.73,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.51,
-      "change": -1.56,
-      "changeStr": "-1.56%"
+      "price": 14.49,
+      "change": -1.7,
+      "changeStr": "-1.70%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.95,
-      "change": -0.68,
-      "changeStr": "-0.68%"
+      "price": 47.62,
+      "change": -1.37,
+      "changeStr": "-1.37%"
     }
   ],
   "news": [
+    {
+      "title": "Regula\u00E7\u00E3o das apostas: governo bloqueia 28 plataformas que faziam previs\u00F5es sobre eventos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/24/regulacao-das-apostas-governo-bloqueia-28-plataformas-que-faziam-previsoes-sobre-eventos.ghtml",
+      "date": "Fri, 24 Apr 2026 19:01:48 -0000"
+    },
+    {
+      "title": "YouTube lan\u00E7a ferramenta de detec\u00E7\u00E3o de deepfakes para celebridades de Hollywood",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/24/youtube-lanca-ferramenta-de-deteccao-de-deepfakes-para-celebridades-de-hollywood.ghtml",
+      "date": "Fri, 24 Apr 2026 18:43:19 -0000"
+    },
+    {
+      "title": "Caso Master: STF forma maioria para manter pris\u00F5es de ex-presidente do BRB e advogado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/24/caso-master-stf-forma-maioria-para-manter-prisoes-de-ex-presidente-do-brb-e-advogado.ghtml",
+      "date": "Fri, 24 Apr 2026 17:39:35 -0000"
+    },
     {
       "title": "Ministro diz que subsolo pertence \u00E0 Uni\u00E3o e que acordo de Goi\u00E1s com EUA sobre terras raras \u0027n\u00E3o se sustenta\u0027",
       "source": "G1 Economia",
@@ -63,7 +81,7 @@
       "date": "Fri, 24 Apr 2026 16:30:31 -0000"
     },
     {
-      "title": "BC barra no Brasil mercados preditivos como Kalshi e Polymarket em elei\u00E7\u00F5es, esportes e reality shows",
+      "title": "BC barra no Brasil plataformas de previs\u00F5es em pol\u00EDtica e esporte; decis\u00E3o n\u00E3o afeta bets",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/24/bc-barra-no-brasil-mercados-preditivos-sobre-eleicoes-esportes-e-reality-shows.ghtml",
       "date": "Fri, 24 Apr 2026 16:19:11 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/24/polonia-vai-a-justica-da-uniao-europeia-contra-acordo-com-mercosul.ghtml",
       "date": "Fri, 24 Apr 2026 12:46:53 -0000"
-    },
-    {
-      "title": "Nike anuncia demiss\u00E3o de 1.400 funcion\u00E1rios; \u00E1rea de tecnologia ser\u00E1 a mais afetada",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/24/nike-anuncia-demissao-de-1400-funcionarios.ghtml",
-      "date": "Fri, 24 Apr 2026 12:26:48 -0000"
-    },
-    {
-      "title": "Dia Nacional do Churrasco: em que parte do boi fica a picanha? D\u00EA play no game e teste seus conhecimentos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/24/dia-nacional-do-churrasco-em-que-parte-do-boi-fica-a-picanha-de-play-no-game-e-teste-seus-conhecimentos.ghtml",
-      "date": "Fri, 24 Apr 2026 12:01:43 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe a R$ 5,02 de olho nas negocia\u00E7\u00F5es entre EUA e Ir\u00E3; Ibovespa recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/24/dolar-ibovespa.ghtml",
-      "date": "Fri, 24 Apr 2026 12:00:19 -0000"
     }
   ]
 }
