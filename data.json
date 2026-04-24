@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 190362.42,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 190295.64,
+      "change": -0.57,
+      "changeStr": "-0.57%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.85,
-      "change": -1.93,
-      "changeStr": "-1.93%"
+      "price": 46.92,
+      "change": -1.78,
+      "changeStr": "-1.78%"
     },
     {
       "symbol": "VALE3",
-      "price": 86.19,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 85.91,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.03,
-      "change": -0.34,
-      "changeStr": "-0.34%"
+      "price": 44.14,
+      "change": -0.09,
+      "changeStr": "-0.09%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.91,
-      "change": -0.3,
-      "changeStr": "-0.30%"
+      "price": 19.92,
+      "change": -0.25,
+      "changeStr": "-0.25%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.68,
-      "change": -1.39,
-      "changeStr": "-1.39%"
+      "price": 22.8,
+      "change": -0.87,
+      "changeStr": "-0.87%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.59,
-      "change": -0.69,
-      "changeStr": "-0.69%"
+      "price": 8.62,
+      "change": -0.35,
+      "changeStr": "-0.35%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.56,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 14.55,
+      "change": -1.29,
+      "changeStr": "-1.29%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.42,
-      "change": 0.29,
-      "changeStr": "\u002B0.29%"
+      "price": 47.89,
+      "change": -0.81,
+      "changeStr": "-0.81%"
     }
   ],
   "news": [
+    {
+      "title": "Azeite brasileiro leva nota m\u00E1xima em pr\u00EAmio europeu, algo jamais visto na hist\u00F3ria da competi\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/24/azeite-brasileiro-leva-nota-maxima-em-premio-europeu-algo-jamais-visto-na-historia-da-competicao.ghtml",
+      "date": "Fri, 24 Apr 2026 15:10:31 -0000"
+    },
+    {
+      "title": "Veja dicas para cultivo e consumo de plantas aliment\u00EDcias n\u00E3o convencionais (PANCS)",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/04/24/veja-dicas-para-cultivo-e-consumo-de-plantas-alimenticias-nao-convencionais-pancs.ghtml",
+      "date": "Fri, 24 Apr 2026 14:48:33 -0000"
+    },
     {
       "title": "Microsoft faz 1\u00BA plano de demiss\u00E3o volunt\u00E1ria de sua hist\u00F3ria, diz jornal",
       "source": "G1 Economia",
@@ -93,7 +105,7 @@
       "date": "Fri, 24 Apr 2026 11:56:05 -0000"
     },
     {
-      "title": "Entenda lei que pro\u00EDbe radar de tr\u00E2nsito escondido aprovada por comiss\u00E3o da C\u00E2mara",
+      "title": "Entenda projeto de lei que pro\u00EDbe radar de tr\u00E2nsito escondido, aprovado por comiss\u00E3o da C\u00E2mara",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/04/24/entenda-lei-que-proibe-radar-de-transito-escondido-aprovada-por-comissao-da-camara.ghtml",
       "date": "Fri, 24 Apr 2026 11:42:43 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/24/brasil-iniciara-testes-para-aumentar-mistura-de-biodiesel-no-diesel-em-maio.ghtml",
       "date": "Fri, 24 Apr 2026 11:16:22 -0000"
-    },
-    {
-      "title": "\nNovo modelo de IA de baixo custo da chinesa DeepSeek acirra disputa tecnol\u00F3gica com os EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/24/novo-modelo-de-ia-de-baixo-custo-da-chinesa-deepseek-acirra-disputa-tecnologica-com-os-eua.ghtml",
-      "date": "Fri, 24 Apr 2026 11:01:25 -0000"
-    },
-    {
-      "title": "O que o consumo de carne de burro na Patag\u00F4nia revela sobre a atualidade da Argentina",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/24/o-que-o-consumo-de-carne-de-burro-na-patagonia-revela-sobre-a-atualidade-da-argentina.ghtml",
-      "date": "Fri, 24 Apr 2026 10:37:48 -0000"
     }
   ]
 }
