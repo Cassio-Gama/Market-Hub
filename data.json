@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 190295.64,
-      "change": -0.57,
-      "changeStr": "-0.57%"
+      "price": 190130.72,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.92,
-      "change": -1.78,
-      "changeStr": "-1.78%"
+      "price": 46.62,
+      "change": -2.41,
+      "changeStr": "-2.41%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.91,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 86.23,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.14,
-      "change": -0.09,
-      "changeStr": "-0.09%"
+      "price": 44.31,
+      "change": 0.29,
+      "changeStr": "\u002B0.29%"
     },
     {
       "symbol": "BBDC4",
@@ -32,30 +32,48 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 22.8,
-      "change": -0.87,
-      "changeStr": "-0.87%"
+      "price": 22.72,
+      "change": -1.22,
+      "changeStr": "-1.22%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.62,
-      "change": -0.35,
-      "changeStr": "-0.35%"
+      "price": 8.6,
+      "change": -0.58,
+      "changeStr": "-0.58%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.55,
-      "change": -1.29,
-      "changeStr": "-1.29%"
+      "price": 14.51,
+      "change": -1.56,
+      "changeStr": "-1.56%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.89,
-      "change": -0.81,
-      "changeStr": "-0.81%"
+      "price": 47.95,
+      "change": -0.68,
+      "changeStr": "-0.68%"
     }
   ],
   "news": [
+    {
+      "title": "Ministro diz que subsolo pertence \u00E0 Uni\u00E3o e que acordo de Goi\u00E1s com EUA sobre terras raras \u0027n\u00E3o se sustenta\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/24/ministro-diz-que-subsolo-pertence-a-uniao-e-que-acordo-de-goias-com-eua-sobre-terras-raras-nao-se-sustenta.ghtml",
+      "date": "Fri, 24 Apr 2026 16:30:31 -0000"
+    },
+    {
+      "title": "BC barra no Brasil mercados preditivos como Kalshi e Polymarket em elei\u00E7\u00F5es, esportes e reality shows",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/24/bc-barra-no-brasil-mercados-preditivos-sobre-eleicoes-esportes-e-reality-shows.ghtml",
+      "date": "Fri, 24 Apr 2026 16:19:11 -0000"
+    },
+    {
+      "title": "Justi\u00E7a dos EUA encerra investiga\u00E7\u00E3o sobre Jerome Powell, presidente do Fed",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/24/departamento-de-justica-investigacao-jerome-powell-fed.ghtml",
+      "date": "Fri, 24 Apr 2026 15:21:22 -0000"
+    },
     {
       "title": "Azeite brasileiro leva nota m\u00E1xima em pr\u00EAmio europeu, algo jamais visto na hist\u00F3ria da competi\u00E7\u00E3o",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/24/dolar-ibovespa.ghtml",
       "date": "Fri, 24 Apr 2026 12:00:19 -0000"
-    },
-    {
-      "title": "Com queda do d\u00F3lar, gastos de brasileiros no exterior batem recorde no 1\u00BA trimestre",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/24/com-queda-do-dolar-gastos-de-brasileiros-no-exterior-batem-recorde-no-1o-trimestre.ghtml",
-      "date": "Fri, 24 Apr 2026 11:56:05 -0000"
-    },
-    {
-      "title": "Entenda projeto de lei que pro\u00EDbe radar de tr\u00E2nsito escondido, aprovado por comiss\u00E3o da C\u00E2mara",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/24/entenda-lei-que-proibe-radar-de-transito-escondido-aprovada-por-comissao-da-camara.ghtml",
-      "date": "Fri, 24 Apr 2026 11:42:43 -0000"
-    },
-    {
-      "title": "Brasil iniciar\u00E1 testes para aumentar mistura de biodiesel no diesel em maio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/24/brasil-iniciara-testes-para-aumentar-mistura-de-biodiesel-no-diesel-em-maio.ghtml",
-      "date": "Fri, 24 Apr 2026 11:16:22 -0000"
     }
   ]
 }
