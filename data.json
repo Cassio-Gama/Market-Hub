@@ -57,6 +57,24 @@
   ],
   "news": [
     {
+      "title": "Fim do Wayback Machine? Como a preserva\u00E7\u00E3o da mem\u00F3ria da internet est\u00E1 sobre press\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/25/como-a-preservacao-da-memoria-da-internet-esta-sobre-pressao.ghtml",
+      "date": "Sat, 25 Apr 2026 07:02:05 -0000"
+    },
+    {
+      "title": "Pacotes de Intelig\u00EAncia Artificial exp\u00F5em dilema do Brasil na disputa entre EUA e China",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/25/pacotes-de-inteligencia-artificial-expoem-dilema-do-brasil-na-disputa-entre-eua-e-china.ghtml",
+      "date": "Sat, 25 Apr 2026 06:00:43 -0000"
+    },
+    {
+      "title": "Voc\u00EA manda curr\u00EDculo e ningu\u00E9m responde? IA est\u00E1 te eliminando? O que mudou nos processos seletivos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/25/voce-manda-curriculo-e-ninguem-responde-ia-esta-te-eliminando-o-que-mudou-nos-processos-seletivos.ghtml",
+      "date": "Sat, 25 Apr 2026 05:57:36 -0000"
+    },
+    {
       "title": "Antes de IPO, SpaceX aposta em IA para empresas como mercado maior que o de foguetes",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/04/25/antes-de-ipo-spacex-aposta-em-ia-para-empresas-como-mercado-maior-que-o-de-foguetes.ghtml",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/24/precos-passagens-aereas-marco.ghtml",
       "date": "Fri, 24 Apr 2026 22:59:13 -0000"
-    },
-    {
-      "title": "Auditoria externa faz ressalva e diz que precat\u00F3rios a serem pagos pelos Correios podem n\u00E3o ter valor informado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/24/auditoria-externa-faz-ressalva-e-diz-que-precatorios-a-serem-pagos-pelos-correios-podem-nao-ter-valor-informado.ghtml",
-      "date": "Fri, 24 Apr 2026 22:50:47 -0000"
-    },
-    {
-      "title": "Funcion\u00E1rios e precat\u00F3rios puxaram gastos dos Correios em 2025; despesas aumentaram 37% enquanto receitas ca\u00EDram 12% ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/24/funcionarios-e-precatorios-puxaram-gastos-dos-correios-em-2025-despesas-aumentaram-37percent-enquanto-receitas-cairam-12percent.ghtml",
-      "date": "Fri, 24 Apr 2026 22:49:43 -0000"
-    },
-    {
-      "title": "Governo inicia fiscaliza\u00E7\u00E3o de transpar\u00EAncia de pre\u00E7os em aplicativos de transporte e delivery",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/24/governo-inicia-fiscalizacao-de-transparencia-de-precos-em-aplicativos-de-transporte-e-delivery.ghtml",
-      "date": "Fri, 24 Apr 2026 22:39:40 -0000"
     }
   ]
 }
