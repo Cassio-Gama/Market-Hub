@@ -57,13 +57,25 @@
   ],
   "news": [
     {
+      "title": "Antes de IPO, SpaceX aposta em IA para empresas como mercado maior que o de foguetes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/25/antes-de-ipo-spacex-aposta-em-ia-para-empresas-como-mercado-maior-que-o-de-foguetes.ghtml",
+      "date": "Sat, 25 Apr 2026 05:00:38 -0000"
+    },
+    {
+      "title": "Taxa das blusinhas: receita dos Correios com encomendas internacionais cai de 22% para 8%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/25/taxa-das-blusinhas-receita-dos-correios-com-encomendas-internacionais-cai-de-22percent-para-8percent.ghtml",
+      "date": "Sat, 25 Apr 2026 05:00:34 -0000"
+    },
+    {
       "title": "Mega-Sena pode pagar R$ 100 milh\u00F5es neste s\u00E1bado; g1 transmite ao vivo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/04/25/mega-sena-pode-pagar-r-100-milhoes-neste-sabado-g1-transmite-ao-vivo.ghtml",
       "date": "Sat, 25 Apr 2026 03:01:05 -0000"
     },
     {
-      "title": "Sal\u00E3o de Pequim: GWM Tank 300 ganha motor h\u00EDbrido plug-in flex no Brasil e fica R$ 3 mil mais caro",
+      "title": "Sal\u00E3o de Pequim: GWM Tank 300 ganha motor h\u00EDbrido plug-in flex no Brasil, por R$ 342.000",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/04/24/gwm-tank-300-hibrido-flex.ghtml",
       "date": "Sat, 25 Apr 2026 02:57:10 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/24/governo-inicia-fiscalizacao-de-transparencia-de-precos-em-aplicativos-de-transporte-e-delivery.ghtml",
       "date": "Fri, 24 Apr 2026 22:39:40 -0000"
-    },
-    {
-      "title": "Conta de luz: com menos chuvas, Aneel define bandeira tarif\u00E1ria amarela em maio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/24/conta-de-luz-aneel-define-bandeira-tarifaria-amarela-em-maio.ghtml",
-      "date": "Fri, 24 Apr 2026 21:17:32 -0000"
-    },
-    {
-      "title": "Sal\u00E3o de Pequim: conhe\u00E7a o Xpeng Aridge, carro voador que carrega embutido em van h\u00EDbrida; V\u00CDDEO",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/24/salao-de-pequim-conheca-o-xpeng-aridge-carro-voador-que-carrega-embutido-em-van-hibrida-video.ghtml",
-      "date": "Fri, 24 Apr 2026 21:00:33 -0000"
     }
   ]
 }
