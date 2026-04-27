@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 189640.5,
-      "change": -0.58,
-      "changeStr": "-0.58%"
+      "price": 189578.8,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "PETR4",
@@ -14,48 +14,66 @@
     },
     {
       "symbol": "VALE3",
-      "price": 85.41,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 85.5,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44,
-      "change": -0.83,
-      "changeStr": "-0.83%"
+      "price": 43.99,
+      "change": -0.86,
+      "changeStr": "-0.86%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.76,
-      "change": -0.8,
-      "changeStr": "-0.80%"
+      "price": 19.73,
+      "change": -0.95,
+      "changeStr": "-0.95%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.62,
-      "change": -0.35,
-      "changeStr": "-0.35%"
+      "price": 22.51,
+      "change": -0.84,
+      "changeStr": "-0.84%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.55,
-      "change": -1.14,
-      "changeStr": "-1.14%"
+      "price": 8.53,
+      "change": -1.37,
+      "changeStr": "-1.37%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.55,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 14.54,
+      "change": 0.28,
+      "changeStr": "\u002B0.28%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.14,
-      "change": 0.71,
-      "changeStr": "\u002B0.71%"
+      "price": 48.19,
+      "change": 0.82,
+      "changeStr": "\u002B0.82%"
     }
   ],
   "news": [
+    {
+      "title": "Carteira de pedidos da Embraer chega a US$ 32,1 bilh\u00F5es e bate recorde pela 6\u00AA vez seguida",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/04/27/carteira-de-pedidos-da-embraer-chega-a-us-321-bilhoes-e-bate-recorde-pela-6a-vez-seguida.ghtml",
+      "date": "Mon, 27 Apr 2026 21:08:14 -0000"
+    },
+    {
+      "title": "Grupo brasileiro JHSF compra opera\u00E7\u00E3o de avia\u00E7\u00E3o executiva nos Estados Unidos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/27/jhsf-compra-embassair.ghtml",
+      "date": "Mon, 27 Apr 2026 20:18:37 -0000"
+    },
+    {
+      "title": "Governo estuda editar MP para agilizar uso do FGTS para abatimento de d\u00EDvidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/27/governo-estuda-editar-mp-para-agilizar-uso-do-fgts-para-abatimento-de-dividas.ghtml",
+      "date": "Mon, 27 Apr 2026 20:18:01 -0000"
+    },
     {
       "title": "Ag\u00EAncia internacional rebaixa nota da Enel e cita risco de empresa perder concess\u00E3o em SP",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/27/governo-juros-consignado.ghtml",
       "date": "Mon, 27 Apr 2026 17:47:55 -0000"
-    },
-    {
-      "title": "Bayer apresenta recurso na Suprema Corte dos EUA em processo sobre agrot\u00F3xico glifosato",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/27/bayer-apresenta-recurso-na-suprema-corte-dos-eua-em-processo-sobre-agrotoxico-glifosato.ghtml",
-      "date": "Mon, 27 Apr 2026 17:43:38 -0000"
-    },
-    {
-      "title": "Sal\u00E3o de Pequim: Brasil ter\u00E1 1 mil carregadores ultrarr\u00E1pidos da BYD com recarga em 9 minutos at\u00E9 2027; V\u00CDDEO",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/27/salao-de-pequim-brasil-tera-1-mil-carregadores-ultrarrapidos-da-byd-com-recarga-em-9-minutos-ate-2027-video.ghtml",
-      "date": "Mon, 27 Apr 2026 15:57:15 -0000"
-    },
-    {
-      "title": "Nubank quer investir R$ 45 bilh\u00F5es no Brasil em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/27/nubank-investimento-brasil-2026.ghtml",
-      "date": "Mon, 27 Apr 2026 15:38:10 -0000"
     }
   ]
 }
