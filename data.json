@@ -2,62 +2,98 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 190141.05,
-      "change": -0.32,
-      "changeStr": "-0.32%"
+      "price": 189640.5,
+      "change": -0.58,
+      "changeStr": "-0.58%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.32,
+      "price": 47.37,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 85.41,
+      "change": -0.54,
+      "changeStr": "-0.54%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 44,
+      "change": -0.83,
+      "changeStr": "-0.83%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 19.76,
+      "change": -0.8,
+      "changeStr": "-0.80%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 22.62,
+      "change": -0.35,
+      "changeStr": "-0.35%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 8.55,
+      "change": -1.14,
+      "changeStr": "-1.14%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 14.55,
       "change": 0.34,
       "changeStr": "\u002B0.34%"
     },
     {
-      "symbol": "VALE3",
-      "price": 85.43,
-      "change": -0.51,
-      "changeStr": "-0.51%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 44.1,
-      "change": -0.61,
-      "changeStr": "-0.61%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 19.79,
-      "change": -0.65,
-      "changeStr": "-0.65%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 22.67,
-      "change": -0.13,
-      "changeStr": "-0.13%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 8.53,
-      "change": -1.37,
-      "changeStr": "-1.37%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 14.58,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
-    },
-    {
       "symbol": "WEGE3",
-      "price": 48.07,
-      "change": 0.56,
-      "changeStr": "\u002B0.56%"
+      "price": 48.14,
+      "change": 0.71,
+      "changeStr": "\u002B0.71%"
     }
   ],
   "news": [
     {
-      "title": "Governo imp\u00F5e limites contra juros elevados do consignado privado",
+      "title": "Ag\u00EAncia internacional rebaixa nota da Enel e cita risco de empresa perder concess\u00E3o em SP",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/27/agencia-internacional-rebaixa-nota-da-enel-e-cita-risco-de-empresa-perder-concessao-em-sp.ghtml",
+      "date": "Mon, 27 Apr 2026 20:09:07 -0000"
+    },
+    {
+      "title": "WhatsApp deixar\u00E1 de funcionar em celulares Android antigos em setembro; saiba se seu telefone ser\u00E1 afetado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/27/whatsapp-deixara-de-funcionar-em-celulares-android-antigos-em-setembro.ghtml",
+      "date": "Mon, 27 Apr 2026 20:08:42 -0000"
+    },
+    {
+      "title": "Governo vai liberar uso de FGTS em programa para brasileiros endividados, diz Durigan",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/27/governo-vai-usar-fgts-em-programa-para-brasileiros-endividados-diz-durigan.ghtml",
+      "date": "Mon, 27 Apr 2026 19:35:33 -0000"
+    },
+    {
+      "title": "\u0027Comprem agora\u0027: ministro espanhol alerta que guerra pode disparar pre\u00E7o de passagens a\u00E9reas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/27/comprem-agora-ministro-espanhol-alerta-que-guerra-pode-disparar-preco-de-passagens-aereas.ghtml",
+      "date": "Mon, 27 Apr 2026 19:14:43 -0000"
+    },
+    {
+      "title": "Globoplay vence pr\u00EAmio de excel\u00EAncia em servi\u00E7os ao cliente em 2026",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/04/27/globoplay-premio.ghtml",
+      "date": "Mon, 27 Apr 2026 19:06:20 -0000"
+    },
+    {
+      "title": "Governo estuda exportar sobras de energia hidrel\u00E9trica \u00E0 Argentina e ao Uruguai",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/27/governo-estuda-exportar-sobras-de-energia-hidreletrica-a-argentina-e-ao-uruguai.ghtml",
+      "date": "Mon, 27 Apr 2026 18:26:30 -0000"
+    },
+    {
+      "title": "Governo imp\u00F5e limites contra \u0027juros abusivos\u0027 do cr\u00E9dito consignado privado",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/27/governo-juros-consignado.ghtml",
       "date": "Mon, 27 Apr 2026 17:47:55 -0000"
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/27/nubank-investimento-brasil-2026.ghtml",
       "date": "Mon, 27 Apr 2026 15:38:10 -0000"
-    },
-    {
-      "title": "Fiat, Jeep, Peugeot e Ram ser\u00E3o foco dos investimentos da Stellantis, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/27/fiat-jeep-peugeot-e-ram-serao-foco-dos-investimentos-da-stellantis-diz-agencia.ghtml",
-      "date": "Mon, 27 Apr 2026 15:00:40 -0000"
-    },
-    {
-      "title": "Mistura maior de etanol na gasolina deve elevar demanda pelo combust\u00EDvel em 1 bilh\u00E3o de litros, diz Unica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/27/mistura-etanol-gasolina-unica.ghtml",
-      "date": "Mon, 27 Apr 2026 14:24:38 -0000"
-    },
-    {
-      "title": "Desigualdade salarial: mulheres ganham 21,3% menos que homens, mesmo com alta do emprego",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/27/desigualdade-salarial-mulheres.ghtml",
-      "date": "Mon, 27 Apr 2026 14:00:33 -0000"
-    },
-    {
-      "title": " \nChina constr\u00F3i mais r\u00E1pido e barato que os EUA; veja compara\u00E7\u00E3o entre Xangai e Nova York",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/04/27/a-diferenca-de-precos-e-tempo-das-construcoes-em-xangai-em-ny.ghtml",
-      "date": "Mon, 27 Apr 2026 12:46:55 -0000"
-    },
-    {
-      "title": "Pre\u00E7os do petr\u00F3leo atingem maior n\u00EDvel em quase tr\u00EAs semanas com impasse nas negocia\u00E7\u00F5es entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/27/precos-do-petroleo-sobem-com-impasse-nas-negociacoes-na-guerra-entre-eua-e-ira.ghtml",
-      "date": "Mon, 27 Apr 2026 12:27:49 -0000"
-    },
-    {
-      "title": "D\u00F3lar cai a R$ 4,96 com mercado de olho nas negocia\u00E7\u00F5es entre EUA e Ir\u00E3; Ibovespa recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/27/dolar-ibovespa.ghtml",
-      "date": "Mon, 27 Apr 2026 12:00:11 -0000"
     }
   ]
 }
