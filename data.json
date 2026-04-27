@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 190352.02,
-      "change": -0.21,
-      "changeStr": "-0.21%"
+      "price": 190141.05,
+      "change": -0.32,
+      "changeStr": "-0.32%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.5,
-      "change": 0.72,
-      "changeStr": "\u002B0.72%"
+      "price": 47.32,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "VALE3",
-      "price": 85.5,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 85.43,
+      "change": -0.51,
+      "changeStr": "-0.51%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.14,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 44.1,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.84,
-      "change": -0.4,
-      "changeStr": "-0.40%"
+      "price": 19.79,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.6,
-      "change": -0.44,
-      "changeStr": "-0.44%"
+      "price": 22.67,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "MGLU3",
@@ -44,18 +44,30 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 14.64,
-      "change": 0.97,
-      "changeStr": "\u002B0.97%"
+      "price": 14.58,
+      "change": 0.55,
+      "changeStr": "\u002B0.55%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.04,
-      "change": 0.5,
-      "changeStr": "\u002B0.50%"
+      "price": 48.07,
+      "change": 0.56,
+      "changeStr": "\u002B0.56%"
     }
   ],
   "news": [
+    {
+      "title": "Governo imp\u00F5e limites contra juros elevados do consignado privado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/27/governo-juros-consignado.ghtml",
+      "date": "Mon, 27 Apr 2026 17:47:55 -0000"
+    },
+    {
+      "title": "Bayer apresenta recurso na Suprema Corte dos EUA em processo sobre agrot\u00F3xico glifosato",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/27/bayer-apresenta-recurso-na-suprema-corte-dos-eua-em-processo-sobre-agrotoxico-glifosato.ghtml",
+      "date": "Mon, 27 Apr 2026 17:43:38 -0000"
+    },
     {
       "title": "Sal\u00E3o de Pequim: Brasil ter\u00E1 1 mil carregadores ultrarr\u00E1pidos da BYD com recarga em 9 minutos at\u00E9 2027; V\u00CDDEO",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/27/dolar-ibovespa.ghtml",
       "date": "Mon, 27 Apr 2026 12:00:11 -0000"
-    },
-    {
-      "title": "Apesar do juro alto, fam\u00EDlias recorrem mais ao rotativo do cart\u00E3o de cr\u00E9dito; empr\u00E9stimos somam R$ 110 bi no 1\u00BA trimestre",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/27/apesar-do-juro-alto-familias-recorrem-mais-ao-rotativo-do-cartao-de-credito-emprestimos-somam-r-110-bi-no-1o-trimestre.ghtml",
-      "date": "Mon, 27 Apr 2026 11:57:00 -0000"
-    },
-    {
-      "title": "Mercado financeiro eleva estimativa de infla\u00E7\u00E3o em 2026 para 4,86%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/27/mercado-financeiro-eleva-estimativa-de-inflacao-em-2026-para-486percent.ghtml",
-      "date": "Mon, 27 Apr 2026 11:32:25 -0000"
     }
   ]
 }
