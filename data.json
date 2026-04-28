@@ -2,62 +2,92 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 188143.06,
-      "change": -0.76,
-      "changeStr": "-0.76%"
+      "price": 188405.44,
+      "change": -0.62,
+      "changeStr": "-0.62%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.01,
-      "change": 1.35,
-      "changeStr": "\u002B1.35%"
+      "price": 47.85,
+      "change": 1.01,
+      "changeStr": "\u002B1.01%"
     },
     {
       "symbol": "VALE3",
-      "price": 84.55,
-      "change": -1.11,
-      "changeStr": "-1.11%"
+      "price": 84.52,
+      "change": -1.15,
+      "changeStr": "-1.15%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.8,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 44.2,
+      "change": 0.48,
+      "changeStr": "\u002B0.48%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.51,
-      "change": -1.12,
-      "changeStr": "-1.12%"
+      "price": 19.55,
+      "change": -0.91,
+      "changeStr": "-0.91%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.39,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 22.54,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.55,
-      "change": 0.23,
-      "changeStr": "\u002B0.23%"
+      "price": 8.52,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.51,
-      "change": -0.21,
-      "changeStr": "-0.21%"
+      "price": 14.55,
+      "change": 0.07,
+      "changeStr": "\u002B0.07%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.38,
-      "change": -1.68,
-      "changeStr": "-1.68%"
+      "price": 47.47,
+      "change": -1.49,
+      "changeStr": "-1.49%"
     }
   ],
   "news": [
     {
-      "title": "Sa\u00EDda dos Emirados \u00C1rabes Unidos da Opep acende alerta sobre pre\u00E7os do petr\u00F3leo \u00E0 frente",
+      "title": "Correios: balan\u00E7o pr\u00E9vio aponta preju\u00EDzo de R$ 3,4 bilh\u00F5es no 1\u00BA trimestre de 2026",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/28/correios-balanco-previo-aponta-prejuizo-de-r-34-bilhoes-no-1o-trimestre-de-2026.ghtml",
+      "date": "Tue, 28 Apr 2026 16:37:49 -0000"
+    },
+    {
+      "title": "Democratas pedem a Trump que pro\u00EDba montadoras chinesas de fabricar ou vender carros nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/28/democratas-pedem-a-trump-que-proiba-montadoras-chinesas-de-fabricar-ou-vender-carros-nos-eua.ghtml",
+      "date": "Tue, 28 Apr 2026 16:26:21 -0000"
+    },
+    {
+      "title": "Pre\u00E7os do petr\u00F3leo sobem ao maior patamar em um m\u00EAs, ap\u00F3s sa\u00EDda dos Emirados \u00C1rabes Unidos da Opep",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/28/precos-do-petroleo-apos-saida-dos-emirados-arabes-unidos-da-opep.ghtml",
+      "date": "Tue, 28 Apr 2026 16:21:36 -0000"
+    },
+    {
+      "title": "Free flow: veja como pedir de volta dinheiro da multa de ped\u00E1gio eletr\u00F4nico",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/28/free-flow-veja-como-pedir-de-volta-dinheiro-da-multa-de-pedagio-eletronico.ghtml",
+      "date": "Tue, 28 Apr 2026 15:17:17 -0000"
+    },
+    {
+      "title": "Governo suspende mais de 3 milh\u00F5es de multas em ped\u00E1gio \u0027free flow\u0027 e d\u00E1 prazo para tarifas vencidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/04/28/governo-suspende-mais-de-3-milhoes-de-multas-em-pedagio-eletronico-e-da-prazo-para-tarifas-vencidas.ghtml",
+      "date": "Tue, 28 Apr 2026 14:40:08 -0000"
+    },
+    {
+      "title": "Para analistas, sa\u00EDda dos Emirados da Opep pode enfraquecer grupo e reduzir controle sobre pre\u00E7os do petr\u00F3leo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/28/saida-emirados-arabes-unidos-opep-impactos.ghtml",
       "date": "Tue, 28 Apr 2026 14:22:35 -0000"
@@ -75,46 +105,16 @@
       "date": "Tue, 28 Apr 2026 14:18:27 -0000"
     },
     {
-      "title": "Emirados \u00C1rabes t\u00EAm a 5\u00AA maior reserva conhecida de petr\u00F3leo no mundo; veja ranking",
+      "title": "Emirados \u00C1rabes t\u00EAm a 5\u00AA maior reserva conhecida de petr\u00F3leo no mundo; veja MAPA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/28/emirados-arabes-sao-o-5o-pais-com-maior-reserva-conhecida-de-petroleo-veja-ranking.ghtml",
       "date": "Tue, 28 Apr 2026 14:12:36 -0000"
     },
     {
-      "title": "Sa\u00EDda dos Emirados \u00C1rabes da Opep e Opep\u002B: o que s\u00E3o os grupos e como isso pode afetar seu bolso",
+      "title": "Sa\u00EDda dos Emirados \u00C1rabes da Opep e Opep\u002B: o que s\u00E3o os grupos e como eles podem afetar seu bolso",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/28/saida-emirados-arabes-opep-o-que-sao-e-impacto-precos.ghtml",
       "date": "Tue, 28 Apr 2026 14:03:58 -0000"
-    },
-    {
-      "title": "Arrecada\u00E7\u00E3o federal soma R$ 229 bilh\u00F5es em mar\u00E7o, com alta de 5% e bate recorde para o m\u00EAs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/28/arrecadacao-federal-soma-r-229-bilhoes-em-marco-com-alta-de-5percent-e-bate-recorde-para-o-mes.ghtml",
-      "date": "Tue, 28 Apr 2026 14:00:33 -0000"
-    },
-    {
-      "title": "Guerra no Oriente M\u00E9dio: Banco Mundial prev\u00EA alta de 24% nos pre\u00E7os de energia em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/28/banco-mundial-precos-energia-2026.ghtml",
-      "date": "Tue, 28 Apr 2026 13:34:34 -0000"
-    },
-    {
-      "title": "Austr\u00E1lia prev\u00EA taxa a Google, Meta e TikTok se n\u00E3o fecharem acordo por uso de not\u00EDcias de jornais do pa\u00EDs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/28/australia-preve-taxa-a-google-meta-e-tiktok-se-nao-fecharem-acordo-por-uso-de-noticias-de-jornais-do-pais.ghtml",
-      "date": "Tue, 28 Apr 2026 12:55:01 -0000"
-    },
-    {
-      "title": "Emirados \u00C1rabes anunciam sa\u00EDda da Opep e Opep\u002B, em golpe para grupo de produtores de petr\u00F3leo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/28/emirados-arabes-anunciam-saida-da-opep-e-opep-em-golpe-para-grupo-de-produtores-de-petroleo.ghtml",
-      "date": "Tue, 28 Apr 2026 12:45:52 -0000"
-    },
-    {
-      "title": "IPCA-15 acelera para 0,89% em abril, com press\u00E3o de alimentos e combust\u00EDveis",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/28/ipca-15-abril.ghtml",
-      "date": "Tue, 28 Apr 2026 12:00:47 -0000"
     }
   ]
 }
