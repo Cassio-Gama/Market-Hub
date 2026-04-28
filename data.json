@@ -2,33 +2,33 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 188702.34,
-      "change": -0.46,
-      "changeStr": "-0.46%"
+      "price": 188618.69,
+      "change": -0.51,
+      "changeStr": "-0.51%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.58,
-      "change": 0.44,
-      "changeStr": "\u002B0.44%"
+      "price": 47.52,
+      "change": 0.32,
+      "changeStr": "\u002B0.32%"
     },
     {
       "symbol": "VALE3",
-      "price": 84.36,
-      "change": -1.33,
-      "changeStr": "-1.33%"
+      "price": 84.39,
+      "change": -1.3,
+      "changeStr": "-1.30%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.14,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 44.1,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.61,
-      "change": -0.61,
-      "changeStr": "-0.61%"
+      "price": 19.57,
+      "change": -0.81,
+      "changeStr": "-0.81%"
     },
     {
       "symbol": "BBAS3",
@@ -44,18 +44,24 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 14.59,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 14.58,
+      "change": 0.28,
+      "changeStr": "\u002B0.28%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.21,
-      "change": -2.03,
-      "changeStr": "-2.03%"
+      "price": 47.29,
+      "change": -1.87,
+      "changeStr": "-1.87%"
     }
   ],
   "news": [
+    {
+      "title": "Cade investiga alinhamento de pre\u00E7os de passagens a\u00E9reas ap\u00F3s ind\u00EDcios de atua\u00E7\u00E3o coordenada entre Latam e Gol",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/28/cade-investiga-alinhamento-de-precos-de-passagens-aereas-apos-indicios-de-atuacao-coordenada-entre-latam-e-gol.ghtml",
+      "date": "Tue, 28 Apr 2026 20:27:22 -0000"
+    },
     {
       "title": "Acordo entre Mercosul e Uni\u00E3o Europeia \u00E9 oficializado e passa a valer em 1\u00BA de maio",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/28/democratas-pedem-a-trump-que-proiba-montadoras-chinesas-de-fabricar-ou-vender-carros-nos-eua.ghtml",
       "date": "Tue, 28 Apr 2026 16:26:21 -0000"
-    },
-    {
-      "title": "Pre\u00E7os do petr\u00F3leo sobem ao maior patamar em um m\u00EAs, ap\u00F3s sa\u00EDda dos Emirados \u00C1rabes Unidos da Opep",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/28/precos-do-petroleo-apos-saida-dos-emirados-arabes-unidos-da-opep.ghtml",
-      "date": "Tue, 28 Apr 2026 16:21:36 -0000"
     }
   ]
 }
