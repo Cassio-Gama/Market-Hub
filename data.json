@@ -2,62 +2,86 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 188576.9,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 188702.34,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.56,
-      "change": 0.4,
-      "changeStr": "\u002B0.40%"
+      "price": 47.58,
+      "change": 0.44,
+      "changeStr": "\u002B0.44%"
     },
     {
       "symbol": "VALE3",
-      "price": 84.6,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 84.36,
+      "change": -1.33,
+      "changeStr": "-1.33%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.48,
-      "change": 1.11,
-      "changeStr": "\u002B1.11%"
+      "price": 44.14,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.56,
-      "change": -0.86,
-      "changeStr": "-0.86%"
+      "price": 19.61,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.58,
-      "change": 0.31,
-      "changeStr": "\u002B0.31%"
+      "price": 22.54,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.57,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
+      "price": 8.54,
+      "change": 0.12,
+      "changeStr": "\u002B0.12%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.55,
-      "change": 0.07,
-      "changeStr": "\u002B0.07%"
+      "price": 14.59,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.08,
-      "change": -2.3,
-      "changeStr": "-2.30%"
+      "price": 47.21,
+      "change": -2.03,
+      "changeStr": "-2.03%"
     }
   ],
   "news": [
     {
-      "title": "GM aumenta previs\u00E3o de lucro e espera reembolso de tarifas nos EUA",
+      "title": "Acordo entre Mercosul e Uni\u00E3o Europeia \u00E9 oficializado e passa a valer em 1\u00BA de maio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/04/28/acordo-entre-mercosul-e-uniao-europeia-e-oficializado-e-passa-a-valer-em-1o-de-maio.ghtml",
+      "date": "Tue, 28 Apr 2026 19:59:33 -0000"
+    },
+    {
+      "title": "Ap\u00F3s troca de presidente, INSS lan\u00E7a programa para tentar reduzir fila; veja medidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/28/apos-troca-de-presidente-inss-lanca-programa-para-tentar-reduzir-fila-entenda.ghtml",
+      "date": "Tue, 28 Apr 2026 19:43:39 -0000"
+    },
+    {
+      "title": "EUA ordenam suspens\u00E3o de envio de m\u00E1quinas \u00E0 2\u00AA maior fabricante de chips da China, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/28/eua-ferramentas-chips-china.ghtml",
+      "date": "Tue, 28 Apr 2026 18:56:45 -0000"
+    },
+    {
+      "title": "Petrobras pode aumentar pre\u00E7o da gasolina nas refinarias se houver redu\u00E7\u00E3o de tributos, diz CEO ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/28/petrobras-preco-gasolina.ghtml",
+      "date": "Tue, 28 Apr 2026 18:24:07 -0000"
+    },
+    {
+      "title": "GM espera aumento do lucro com reembolso de tarifas de Trump nos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/04/28/gm-lucro-tarifas.ghtml",
       "date": "Tue, 28 Apr 2026 18:12:06 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/28/precos-do-petroleo-apos-saida-dos-emirados-arabes-unidos-da-opep.ghtml",
       "date": "Tue, 28 Apr 2026 16:21:36 -0000"
-    },
-    {
-      "title": "Free flow: veja como pedir de volta dinheiro da multa de ped\u00E1gio eletr\u00F4nico",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/28/free-flow-veja-como-pedir-de-volta-dinheiro-da-multa-de-pedagio-eletronico.ghtml",
-      "date": "Tue, 28 Apr 2026 15:17:17 -0000"
-    },
-    {
-      "title": "Governo suspende mais de 3 milh\u00F5es de multas em ped\u00E1gio \u0027free flow\u0027 e d\u00E1 prazo para tarifas vencidas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/04/28/governo-suspende-mais-de-3-milhoes-de-multas-em-pedagio-eletronico-e-da-prazo-para-tarifas-vencidas.ghtml",
-      "date": "Tue, 28 Apr 2026 14:40:08 -0000"
-    },
-    {
-      "title": "Para analistas, sa\u00EDda dos Emirados da Opep pode enfraquecer grupo e reduzir controle sobre pre\u00E7os do petr\u00F3leo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/28/saida-emirados-arabes-unidos-opep-impactos.ghtml",
-      "date": "Tue, 28 Apr 2026 14:22:35 -0000"
-    },
-    {
-      "title": "Como fica a Opep depois de os Emirados \u00C1rabes Unidos sa\u00EDrem do grupo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/28/como-fica-a-opep-depois-de-os-emirados-arabes-unidos-sairem-do-grupo.ghtml",
-      "date": "Tue, 28 Apr 2026 14:22:17 -0000"
     }
   ]
 }
