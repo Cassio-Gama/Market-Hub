@@ -39,8 +39,8 @@
     {
       "symbol": "MGLU3",
       "price": 8.53,
-      "change": -1.37,
-      "changeStr": "-1.37%"
+      "change": -2.29,
+      "changeStr": "-2.29%"
     },
     {
       "symbol": "ABEV3",
@@ -56,6 +56,30 @@
     }
   ],
   "news": [
+    {
+      "title": "Mega-Sena pode pagar R$ 115 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/04/28/mega-sena-pode-pagar-r-115-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+      "date": "Tue, 28 Apr 2026 03:01:14 -0000"
+    },
+    {
+      "title": "Entenda por que o WhatsApp deixa de funcionar em celulares antigos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/28/entenda-por-que-o-whatsapp-deixa-de-funcionar-em-celulares-antigos.ghtml",
+      "date": "Tue, 28 Apr 2026 03:01:05 -0000"
+    },
+    {
+      "title": "Fragilidade dos cofres do DF remonta a 2015 e foi agravada por crise do BRB, diz estudo da UnB",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/28/fragilidade-dos-cofres-do-df-remonta-a-2015-e-foi-agravada-por-crise-do-brb-diz-estudo-da-unb.ghtml",
+      "date": "Tue, 28 Apr 2026 03:00:58 -0000"
+    },
+    {
+      "title": "FGTS para abater d\u00EDvidas, desconto de at\u00E9 90% e mais: o que se sabe sobre o pacote do governo para reduzir o endividamento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/28/o-que-se-sabe-sobre-o-pacote-do-governo-para-reduzir-o-endividamento.ghtml",
+      "date": "Tue, 28 Apr 2026 03:00:43 -0000"
+    },
     {
       "title": "Carteira de pedidos da Embraer chega a US$ 32,1 bilh\u00F5es e bate recorde pela 6\u00AA vez seguida",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/27/governo-vai-usar-fgts-em-programa-para-brasileiros-endividados-diz-durigan.ghtml",
       "date": "Mon, 27 Apr 2026 19:35:33 -0000"
-    },
-    {
-      "title": "\u0027Comprem agora\u0027: ministro espanhol alerta que guerra pode disparar pre\u00E7o de passagens a\u00E9reas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/27/comprem-agora-ministro-espanhol-alerta-que-guerra-pode-disparar-preco-de-passagens-aereas.ghtml",
-      "date": "Mon, 27 Apr 2026 19:14:43 -0000"
-    },
-    {
-      "title": "Globoplay vence pr\u00EAmio de excel\u00EAncia em servi\u00E7os ao cliente em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/04/27/globoplay-premio.ghtml",
-      "date": "Mon, 27 Apr 2026 19:06:20 -0000"
-    },
-    {
-      "title": "Governo estuda exportar sobras de energia hidrel\u00E9trica \u00E0 Argentina e ao Uruguai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/27/governo-estuda-exportar-sobras-de-energia-hidreletrica-a-argentina-e-ao-uruguai.ghtml",
-      "date": "Mon, 27 Apr 2026 18:26:30 -0000"
-    },
-    {
-      "title": "Governo imp\u00F5e limites contra \u0027juros abusivos\u0027 do cr\u00E9dito consignado privado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/27/governo-juros-consignado.ghtml",
-      "date": "Mon, 27 Apr 2026 17:47:55 -0000"
     }
   ]
 }
