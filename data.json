@@ -2,15 +2,15 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 184631.34,
-      "change": -2.11,
-      "changeStr": "-2.11%"
+      "price": 184750.42,
+      "change": -2.05,
+      "changeStr": "-2.05%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.07,
-      "change": 3.26,
-      "changeStr": "\u002B3.26%"
+      "price": 48.96,
+      "change": 3.03,
+      "changeStr": "\u002B3.03%"
     },
     {
       "symbol": "VALE3",
@@ -20,42 +20,60 @@
     },
     {
       "symbol": "ITUB4",
-      "price": 42.8,
-      "change": -2.95,
-      "changeStr": "-2.95%"
+      "price": 42.87,
+      "change": -2.79,
+      "changeStr": "-2.79%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.02,
-      "change": -2.81,
-      "changeStr": "-2.81%"
+      "price": 19.11,
+      "change": -2.35,
+      "changeStr": "-2.35%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.76,
-      "change": -3.46,
-      "changeStr": "-3.46%"
+      "price": 21.71,
+      "change": -3.68,
+      "changeStr": "-3.68%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.12,
-      "change": -4.92,
-      "changeStr": "-4.92%"
+      "price": 8.08,
+      "change": -5.39,
+      "changeStr": "-5.39%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.35,
-      "change": -1.58,
-      "changeStr": "-1.58%"
+      "price": 14.33,
+      "change": -1.71,
+      "changeStr": "-1.71%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.09,
-      "change": -6.77,
-      "changeStr": "-6.77%"
+      "price": 44.1,
+      "change": -6.75,
+      "changeStr": "-6.75%"
     }
   ],
   "news": [
+    {
+      "title": "Apesar de corte na Selic, Brasil segue em 2\u00BA no ranking de maiores juros reais do mundo; veja lista",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/29/brasil-ranking-juros-reais-abril.ghtml",
+      "date": "Wed, 29 Apr 2026 21:34:51 -0000"
+    },
+    {
+      "title": "Copom reduz a taxa b\u00E1sica de juros da economia, a Selic, de 14,75% para 14,5% ao ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/29/copom-reduz-a-taxa-basica-de-juros-da-economia-a-selic-de-1475percent-para-145percent-ao-ano.ghtml",
+      "date": "Wed, 29 Apr 2026 21:34:49 -0000"
+    },
+    {
+      "title": "TCU manda INSS suspender concess\u00E3o de novos empr\u00E9stimos pessoais consignados at\u00E9 ajustes internos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/29/tcu-manda-inss-suspender-concessao-de-novos-emprestimos-pessoais-consignados-ate-ajustes-internos.ghtml",
+      "date": "Wed, 29 Apr 2026 21:18:29 -0000"
+    },
     {
       "title": "No Rio, Jeep Avenger mostra novo design antes de chegada ao mercado brasileiro; veja FOTOS",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/29/tesouro-nacional-diz-que-faltam-informacoes-para-operacao-de-credito-do-gdf-ao-brb-mas-indica-que-sera-rejeitado.ghtml",
       "date": "Wed, 29 Apr 2026 18:23:58 -0000"
-    },
-    {
-      "title": "Fed mant\u00E9m juros dos EUA na faixa de 3,50% a 3,75% ao ano em \u00FAltima decis\u00E3o com Powell na presid\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/29/fed-juros-abril.ghtml",
-      "date": "Wed, 29 Apr 2026 18:00:28 -0000"
-    },
-    {
-      "title": "DF envia ao Minist\u00E9rio da Fazenda pedido de garantia para empr\u00E9stimo de R$ 6,6 bilh\u00F5es do FGC ao BRB",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/29/df-envia-ao-ministerio-da-fazenda-pedido-de-garantia-para-emprestimo-de-r-66-bilhoes-do-fgc-ao-brb.ghtml",
-      "date": "Wed, 29 Apr 2026 17:58:30 -0000"
-    },
-    {
-      "title": "Brasil cria 228,2 mil vagas de emprego formal em mar\u00E7o, quase tr\u00EAs vezes mais que 2025",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/29/brasil-cria-2282-mil-vagas-de-emprego-formal-em-marco-quase-tres-vezes-mais-que-2025.ghtml",
-      "date": "Wed, 29 Apr 2026 17:52:04 -0000"
     }
   ]
 }
