@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186304.34,
-      "change": -1.23,
-      "changeStr": "-1.23%"
+      "price": 185883.44,
+      "change": -1.45,
+      "changeStr": "-1.45%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.57,
-      "change": 2.21,
-      "changeStr": "\u002B2.21%"
+      "price": 48.86,
+      "change": 2.82,
+      "changeStr": "\u002B2.82%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.25,
-      "change": -4.91,
-      "changeStr": "-4.91%"
+      "price": 80.62,
+      "change": -4.47,
+      "changeStr": "-4.47%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.6,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 43.25,
+      "change": -1.93,
+      "changeStr": "-1.93%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.34,
-      "change": -1.18,
-      "changeStr": "-1.18%"
+      "price": 19.25,
+      "change": -1.64,
+      "changeStr": "-1.64%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.03,
-      "change": -2.26,
-      "changeStr": "-2.26%"
+      "price": 21.96,
+      "change": -2.57,
+      "changeStr": "-2.57%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.42,
-      "change": -1.41,
-      "changeStr": "-1.41%"
+      "price": 8.26,
+      "change": -3.28,
+      "changeStr": "-3.28%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.4,
-      "change": -1.23,
-      "changeStr": "-1.23%"
+      "price": 14.39,
+      "change": -1.3,
+      "changeStr": "-1.30%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.98,
-      "change": -2.77,
-      "changeStr": "-2.77%"
+      "price": 44.49,
+      "change": -5.92,
+      "changeStr": "-5.92%"
     }
   ],
   "news": [
+    {
+      "title": "Petr\u00F3leo sobe mais de 7% e tem maior patamar em quase quatro anos, com Oriente M\u00E9dio no radar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/29/petroleo-sobe-com-oriente-medio-no-radar.ghtml",
+      "date": "Wed, 29 Apr 2026 15:59:58 -0000"
+    },
+    {
+      "title": "Comiss\u00E3o do Senado dos EUA aprova indica\u00E7\u00E3o de Trump para o Fed",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/29/comissao-do-senado-dos-eua-aprova-indicacao-de-trump-para-o-fed.ghtml",
+      "date": "Wed, 29 Apr 2026 15:58:11 -0000"
+    },
+    {
+      "title": "Documentos mostram que apenas Elon Musk pode demitir Elon Musk da SpaceX, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/29/so-elon-musk-pode-demitir-elon-musk-da-spacex.ghtml",
+      "date": "Wed, 29 Apr 2026 14:22:55 -0000"
+    },
     {
       "title": "Fam\u00EDlias de v\u00EDtimas processam dona do ChatGPT por massacre que deixou 8 mortos no Canad\u00E1",
       "source": "G1 Economia",
@@ -63,7 +81,7 @@
       "date": "Wed, 29 Apr 2026 14:12:57 -0000"
     },
     {
-      "title": "Ita\u00FA anuncia ex-diretor do Banco Central como novo economista-chefe ",
+      "title": "Quem \u00E9 Diogo Guillen, ex-diretor do BC que assume a chefia econ\u00F4mica do Ita\u00FA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/29/itau-novo-economista-chefe.ghtml",
       "date": "Wed, 29 Apr 2026 13:06:49 -0000"
@@ -75,7 +93,7 @@
       "date": "Wed, 29 Apr 2026 12:08:31 -0000"
     },
     {
-      "title": "D\u00F3lar sobe com tens\u00F5es no Oriente M\u00E9dio e decis\u00F5es de juros no Brasil e nos EUA no radar; Ibovespa cai",
+      "title": "D\u00F3lar sobe e vai a R$ 5, com tens\u00F5es no Oriente M\u00E9dio e decis\u00F5es de juros no radar; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/29/dolar-ibovespa.ghtml",
       "date": "Wed, 29 Apr 2026 12:00:33 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/04/29/o-que-esta-por-tras-da-disputa-entre-os-ex-amigos-elon-musk-e-sam-altman-do-chatgpt-nos-tribunais-dos-eua.ghtml",
       "date": "Wed, 29 Apr 2026 10:14:12 -0000"
-    },
-    {
-      "title": "BYD se prepara para lan\u00E7ar nova picape no Brasil para competir com Fiat Toro; veja modelo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/agrishow/noticia/2026/04/29/byd-se-prepara-para-lancar-nova-picape-no-brasil-para-competir-com-fiat-toro-veja-modelo.ghtml",
-      "date": "Wed, 29 Apr 2026 09:34:13 -0000"
-    },
-    {
-      "title": "Lembra dele? Honda Civic desaparece das lojas e o g1 descobre quem s\u00E3o os culpados; V\u00CDDEO",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/04/29/honda-civic-desaparece-das-lojas-e-o-g1-descobre-quem-sao-os-culpados.ghtml",
-      "date": "Wed, 29 Apr 2026 08:01:16 -0000"
-    },
-    {
-      "title": "Agrishow 2026: rob\u00F4s movidos a energia solar \u0027moram\u0027 no campo e combatem pragas com IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/agrishow/noticia/2026/04/29/agrishow-2026-robos-movidos-a-energia-solar-moram-no-campo-e-combatem-pragas-com-ia.ghtml",
-      "date": "Wed, 29 Apr 2026 07:01:46 -0000"
     }
   ]
 }
