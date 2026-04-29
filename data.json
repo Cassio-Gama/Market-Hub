@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185657.44,
-      "change": -1.57,
-      "changeStr": "-1.57%"
+      "price": 184631.34,
+      "change": -2.11,
+      "changeStr": "-2.11%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.97,
-      "change": 3.05,
-      "changeStr": "\u002B3.05%"
+      "price": 49.07,
+      "change": 3.26,
+      "changeStr": "\u002B3.26%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.02,
-      "change": -5.18,
-      "changeStr": "-5.18%"
+      "price": 79.44,
+      "change": -5.87,
+      "changeStr": "-5.87%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.18,
-      "change": -2.09,
-      "changeStr": "-2.09%"
+      "price": 42.8,
+      "change": -2.95,
+      "changeStr": "-2.95%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.18,
-      "change": -1.99,
-      "changeStr": "-1.99%"
+      "price": 19.02,
+      "change": -2.81,
+      "changeStr": "-2.81%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.89,
-      "change": -2.88,
-      "changeStr": "-2.88%"
+      "price": 21.76,
+      "change": -3.46,
+      "changeStr": "-3.46%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.19,
-      "change": -4.1,
-      "changeStr": "-4.10%"
+      "price": 8.12,
+      "change": -4.92,
+      "changeStr": "-4.92%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.39,
-      "change": -1.3,
-      "changeStr": "-1.30%"
+      "price": 14.35,
+      "change": -1.58,
+      "changeStr": "-1.58%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.37,
-      "change": -6.17,
-      "changeStr": "-6.17%"
+      "price": 44.09,
+      "change": -6.77,
+      "changeStr": "-6.77%"
     }
   ],
   "news": [
+    {
+      "title": "No Rio, Jeep Avenger mostra novo design antes de chegada ao mercado brasileiro; veja FOTOS",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/29/no-rio-jeep-avenger-mostra-novo-design-antes-de-chegada-ao-mercado-brasileiro-veja-fotos.ghtml",
+      "date": "Wed, 29 Apr 2026 20:04:58 -0000"
+    },
+    {
+      "title": "MPT pede condena\u00E7\u00E3o da JBS de R$ 118 milh\u00F5es por comprar de fazendas na \u0027lista suja\u0027 do trabalho escravo no PA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/pa/para/noticia/2026/04/29/mpt-pede-condenacao-jbs-r-118-milhoes-fazendas-fornecedoras-na-lista-suja-trabalho-escravo-no-pa.ghtml",
+      "date": "Wed, 29 Apr 2026 20:01:53 -0000"
+    },
+    {
+      "title": "Produ\u00E7\u00E3o e venda de foie gras podem passar a ser consideradas maus-tratos a animais no Brasil; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/29/producao-e-venda-de-foie-gras-podem-passar-a-ser-consideradas-maus-tratos-a-animais-no-brasil-entenda.ghtml",
+      "date": "Wed, 29 Apr 2026 19:57:29 -0000"
+    },
+    {
+      "title": "Powell diz que permanecer\u00E1 no Fed como diretor ap\u00F3s o fim do mandato como presidente",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/29/powell-permanencia-fed.ghtml",
+      "date": "Wed, 29 Apr 2026 19:12:25 -0000"
+    },
+    {
+      "title": "Trabalhadores poder\u00E3o usar 20% do FGTS para pagar d\u00EDvidas; governo deve liberar R$ 4,5 bilh\u00F5es do fundo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/29/governo-deve-liberar-r-45-bilhoes-do-fgts-para-reduzir-endividamento-diz-ministro-do-trabalho.ghtml",
+      "date": "Wed, 29 Apr 2026 18:46:17 -0000"
+    },
+    {
+      "title": "Trump comemora sa\u00EDda dos Emirados \u00C1rabes Unidos da Opep",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/29/trump-comemora-saida-dos-emirados-arabes-unidos-da-opep.ghtml",
+      "date": "Wed, 29 Apr 2026 18:43:08 -0000"
+    },
+    {
+      "title": "Tesouro diz que faltam dados para Uni\u00E3o garantir cr\u00E9dito para o BRB, mas afirma que regras atuais impedem concess\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/29/tesouro-nacional-diz-que-faltam-informacoes-para-operacao-de-credito-do-gdf-ao-brb-mas-indica-que-sera-rejeitado.ghtml",
+      "date": "Wed, 29 Apr 2026 18:23:58 -0000"
+    },
     {
       "title": "Fed mant\u00E9m juros dos EUA na faixa de 3,50% a 3,75% ao ano em \u00FAltima decis\u00E3o com Powell na presid\u00EAncia",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/29/brasil-cria-2282-mil-vagas-de-emprego-formal-em-marco-quase-tres-vezes-mais-que-2025.ghtml",
       "date": "Wed, 29 Apr 2026 17:52:04 -0000"
-    },
-    {
-      "title": "Contas do governo t\u00EAm d\u00E9ficit de R$ 73,8 bilh\u00F5es em mar\u00E7o, pior resultado para o m\u00EAs da hist\u00F3ria",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/29/contas-do-governo-tem-deficit-de-r-737-bilhoes-em-marco.ghtml",
-      "date": "Wed, 29 Apr 2026 17:32:42 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo sobe mais de 6% e tem maior patamar em quase quatro anos, com Oriente M\u00E9dio no radar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/29/petroleo-sobe-com-oriente-medio-no-radar.ghtml",
-      "date": "Wed, 29 Apr 2026 15:59:58 -0000"
-    },
-    {
-      "title": "Caiado diz que \u00E9 \u0027agro raiz\u0027 e critica pol\u00EDticos que se aproximam do setor por conveni\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/agrishow/noticia/2026/04/29/caiado-diz-que-e-agro-raiz-e-critica-politicos-que-se-aproximam-do-setor-por-conveniencia.ghtml",
-      "date": "Wed, 29 Apr 2026 15:58:14 -0000"
-    },
-    {
-      "title": "Comiss\u00E3o do Senado dos EUA aprova indica\u00E7\u00E3o de Trump para o Fed",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/29/comissao-do-senado-dos-eua-aprova-indicacao-de-trump-para-o-fed.ghtml",
-      "date": "Wed, 29 Apr 2026 15:58:11 -0000"
-    },
-    {
-      "title": "Documentos mostram que apenas Elon Musk pode demitir Elon Musk da SpaceX, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/29/so-elon-musk-pode-demitir-elon-musk-da-spacex.ghtml",
-      "date": "Wed, 29 Apr 2026 14:22:55 -0000"
-    },
-    {
-      "title": "Fam\u00EDlias de v\u00EDtimas processam dona do ChatGPT por massacre que deixou 8 mortos no Canad\u00E1",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/29/familias-de-vitimas-processam-dona-do-chatgpt-por-massacre-que-deixou-8-mortos-no-canada.ghtml",
-      "date": "Wed, 29 Apr 2026 14:12:57 -0000"
-    },
-    {
-      "title": "Quem \u00E9 Diogo Guillen, ex-diretor do BC que assume a chefia econ\u00F4mica do Ita\u00FA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/29/itau-novo-economista-chefe.ghtml",
-      "date": "Wed, 29 Apr 2026 13:06:49 -0000"
     }
   ]
 }
