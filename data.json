@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185883.44,
-      "change": -1.45,
-      "changeStr": "-1.45%"
+      "price": 185657.44,
+      "change": -1.57,
+      "changeStr": "-1.57%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.86,
-      "change": 2.82,
-      "changeStr": "\u002B2.82%"
+      "price": 48.97,
+      "change": 3.05,
+      "changeStr": "\u002B3.05%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.62,
-      "change": -4.47,
-      "changeStr": "-4.47%"
+      "price": 80.02,
+      "change": -5.18,
+      "changeStr": "-5.18%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.25,
-      "change": -1.93,
-      "changeStr": "-1.93%"
+      "price": 43.18,
+      "change": -2.09,
+      "changeStr": "-2.09%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.25,
-      "change": -1.64,
-      "changeStr": "-1.64%"
+      "price": 19.18,
+      "change": -1.99,
+      "changeStr": "-1.99%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.96,
-      "change": -2.57,
-      "changeStr": "-2.57%"
+      "price": 21.89,
+      "change": -2.88,
+      "changeStr": "-2.88%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.26,
-      "change": -3.28,
-      "changeStr": "-3.28%"
+      "price": 8.19,
+      "change": -4.1,
+      "changeStr": "-4.10%"
     },
     {
       "symbol": "ABEV3",
@@ -50,17 +50,47 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 44.49,
-      "change": -5.92,
-      "changeStr": "-5.92%"
+      "price": 44.37,
+      "change": -6.17,
+      "changeStr": "-6.17%"
     }
   ],
   "news": [
     {
-      "title": "Petr\u00F3leo sobe mais de 7% e tem maior patamar em quase quatro anos, com Oriente M\u00E9dio no radar",
+      "title": "Fed mant\u00E9m juros dos EUA na faixa de 3,50% a 3,75% ao ano em \u00FAltima decis\u00E3o com Powell na presid\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/29/fed-juros-abril.ghtml",
+      "date": "Wed, 29 Apr 2026 18:00:28 -0000"
+    },
+    {
+      "title": "DF envia ao Minist\u00E9rio da Fazenda pedido de garantia para empr\u00E9stimo de R$ 6,6 bilh\u00F5es do FGC ao BRB",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/29/df-envia-ao-ministerio-da-fazenda-pedido-de-garantia-para-emprestimo-de-r-66-bilhoes-do-fgc-ao-brb.ghtml",
+      "date": "Wed, 29 Apr 2026 17:58:30 -0000"
+    },
+    {
+      "title": "Brasil cria 228,2 mil vagas de emprego formal em mar\u00E7o, quase tr\u00EAs vezes mais que 2025",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/29/brasil-cria-2282-mil-vagas-de-emprego-formal-em-marco-quase-tres-vezes-mais-que-2025.ghtml",
+      "date": "Wed, 29 Apr 2026 17:52:04 -0000"
+    },
+    {
+      "title": "Contas do governo t\u00EAm d\u00E9ficit de R$ 73,8 bilh\u00F5es em mar\u00E7o, pior resultado para o m\u00EAs da hist\u00F3ria",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/29/contas-do-governo-tem-deficit-de-r-737-bilhoes-em-marco.ghtml",
+      "date": "Wed, 29 Apr 2026 17:32:42 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo sobe mais de 6% e tem maior patamar em quase quatro anos, com Oriente M\u00E9dio no radar",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/29/petroleo-sobe-com-oriente-medio-no-radar.ghtml",
       "date": "Wed, 29 Apr 2026 15:59:58 -0000"
+    },
+    {
+      "title": "Caiado diz que \u00E9 \u0027agro raiz\u0027 e critica pol\u00EDticos que se aproximam do setor por conveni\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/agrishow/noticia/2026/04/29/caiado-diz-que-e-agro-raiz-e-critica-politicos-que-se-aproximam-do-setor-por-conveniencia.ghtml",
+      "date": "Wed, 29 Apr 2026 15:58:14 -0000"
     },
     {
       "title": "Comiss\u00E3o do Senado dos EUA aprova indica\u00E7\u00E3o de Trump para o Fed",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/29/itau-novo-economista-chefe.ghtml",
       "date": "Wed, 29 Apr 2026 13:06:49 -0000"
-    },
-    {
-      "title": "Em julgamento, Musk diz que OpenAI, dona do ChatGPT, era sua ideia e que n\u00E3o buscava lucro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/29/em-julgamento-musk-diz-que-openai-dona-do-chatgpt-era-sua-ideia-e-que-nao-buscava-lucro.ghtml",
-      "date": "Wed, 29 Apr 2026 12:08:31 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe e vai a R$ 5, com tens\u00F5es no Oriente M\u00E9dio e decis\u00F5es de juros no radar; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/29/dolar-ibovespa.ghtml",
-      "date": "Wed, 29 Apr 2026 12:00:33 -0000"
-    },
-    {
-      "title": "Tecnologia lan\u00E7ada no interior de SP pode transformar colheita de pimenta-do-reino; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/agrishow/noticia/2026/04/29/tecnologia-lancada-no-interior-de-sp-pode-transformar-colheita-de-pimenta-do-reino-entenda.ghtml",
-      "date": "Wed, 29 Apr 2026 11:01:00 -0000"
-    },
-    {
-      "title": "Por que a sa\u00EDda dos Emirados \u00C1rabes Unidos da Opep \u00E9 importante",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/29/por-que-a-saida-dos-emirados-arabes-unidos-da-opep-e-importante.ghtml",
-      "date": "Wed, 29 Apr 2026 10:26:38 -0000"
-    },
-    {
-      "title": "O que est\u00E1 por tr\u00E1s da disputa entre os ex-amigos Elon Musk e Sam Altman, do ChatGPT, nos tribunais dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/29/o-que-esta-por-tras-da-disputa-entre-os-ex-amigos-elon-musk-e-sam-altman-do-chatgpt-nos-tribunais-dos-eua.ghtml",
-      "date": "Wed, 29 Apr 2026 10:14:12 -0000"
     }
   ]
 }
