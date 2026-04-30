@@ -2,62 +2,62 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187891.4,
-      "change": 1.7,
-      "changeStr": "\u002B1.70%"
+      "price": 187317.64,
+      "change": 1.39,
+      "changeStr": "\u002B1.39%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.28,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 49.08,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.57,
-      "change": 2.68,
-      "changeStr": "\u002B2.68%"
+      "price": 81.18,
+      "change": 2.19,
+      "changeStr": "\u002B2.19%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.42,
-      "change": 1.28,
-      "changeStr": "\u002B1.28%"
+      "price": 43.19,
+      "change": 0.75,
+      "changeStr": "\u002B0.75%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.46,
-      "change": 1.83,
-      "changeStr": "\u002B1.83%"
+      "price": 19.32,
+      "change": 1.1,
+      "changeStr": "\u002B1.10%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.31,
-      "change": 2.76,
-      "changeStr": "\u002B2.76%"
+      "price": 22.21,
+      "change": 2.3,
+      "changeStr": "\u002B2.30%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.33,
-      "change": 3.09,
-      "changeStr": "\u002B3.09%"
+      "price": 8.23,
+      "change": 1.86,
+      "changeStr": "\u002B1.86%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.59,
-      "change": 1.81,
-      "changeStr": "\u002B1.81%"
+      "price": 14.51,
+      "change": 1.26,
+      "changeStr": "\u002B1.26%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.4,
-      "change": 2.95,
-      "changeStr": "\u002B2.95%"
+      "price": 44.86,
+      "change": 1.72,
+      "changeStr": "\u002B1.72%"
     }
   ],
   "news": [
     {
-      "title": "Ap\u00F3s visita do rei Charles III, Trump diz que vai suspender tarifas sobre u\u00EDsque entre Esc\u00F3cia e Kentucky",
+      "title": "Ap\u00F3s visita do rei Charles III, Trump diz que vai suspender tarifas sobre u\u00EDsque da Esc\u00F3cia",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/30/trump-tarifas-uisque.ghtml",
       "date": "Thu, 30 Apr 2026 19:19:24 -0000"
