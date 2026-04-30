@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187202.06,
-      "change": 1.33,
-      "changeStr": "\u002B1.33%"
+      "price": 187891.4,
+      "change": 1.7,
+      "changeStr": "\u002B1.70%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.72,
-      "change": -0.49,
-      "changeStr": "-0.49%"
+      "price": 49.28,
+      "change": 0.65,
+      "changeStr": "\u002B0.65%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.31,
-      "change": 2.35,
-      "changeStr": "\u002B2.35%"
+      "price": 81.57,
+      "change": 2.68,
+      "changeStr": "\u002B2.68%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.21,
-      "change": 0.79,
-      "changeStr": "\u002B0.79%"
+      "price": 43.42,
+      "change": 1.28,
+      "changeStr": "\u002B1.28%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.28,
-      "change": 0.89,
-      "changeStr": "\u002B0.89%"
+      "price": 19.46,
+      "change": 1.83,
+      "changeStr": "\u002B1.83%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.21,
-      "change": 2.3,
-      "changeStr": "\u002B2.30%"
+      "price": 22.31,
+      "change": 2.76,
+      "changeStr": "\u002B2.76%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.19,
-      "change": 1.36,
-      "changeStr": "\u002B1.36%"
+      "price": 8.33,
+      "change": 3.09,
+      "changeStr": "\u002B3.09%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.6,
-      "change": 1.88,
-      "changeStr": "\u002B1.88%"
+      "price": 14.59,
+      "change": 1.81,
+      "changeStr": "\u002B1.81%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.75,
-      "change": 1.47,
-      "changeStr": "\u002B1.47%"
+      "price": 45.4,
+      "change": 2.95,
+      "changeStr": "\u002B2.95%"
     }
   ],
   "news": [
+    {
+      "title": "Ap\u00F3s visita do rei Charles III, Trump diz que vai suspender tarifas sobre u\u00EDsque entre Esc\u00F3cia e Kentucky",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/30/trump-tarifas-uisque.ghtml",
+      "date": "Thu, 30 Apr 2026 19:19:24 -0000"
+    },
+    {
+      "title": "Confian\u00E7a do consumidor cai e entra em campo pessimista em abril, segundo Ipsos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/04/30/confianca-do-consumidor-cai-e-entra-em-campo-pessimista-em-abril-segundo-ipsos.ghtml",
+      "date": "Thu, 30 Apr 2026 18:53:09 -0000"
+    },
+    {
+      "title": "Vale anuncia R$ 12 bi em investimentos no ES na celebra\u00E7\u00E3o dos 60 anos de Tubar\u00E3o em Vit\u00F3ria",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/04/30/vale-anuncia-r-12-bi-em-investimentos-no-es-na-celebracao-dos-60-anos-de-tubarao-em-vitoria.ghtml",
+      "date": "Thu, 30 Apr 2026 17:38:42 -0000"
+    },
+    {
+      "title": "Jaecco 7 ganha vers\u00E3o mais barata, de R$ 179.990; SUV h\u00EDbrido plug-in tem 1.200 km de autonomia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/04/30/jaecco-7-ganha-versao-elite-de-r-179990.ghtml",
+      "date": "Thu, 30 Apr 2026 17:30:19 -0000"
+    },
     {
       "title": "Reforma tribut\u00E1ria: ministro da Fazenda diz que empresas ter\u00E3o apenas de enviar notas fiscais; declara\u00E7\u00E3o ser\u00E1 pr\u00E9-preenchida",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/04/30/como-possivel-acao-dos-eua-no-ira-elevou-petroleo-ao-maior-nivel-desde-2022.ghtml",
       "date": "Thu, 30 Apr 2026 13:30:20 -0000"
-    },
-    {
-      "title": "Veja dicas para o cultivo e poda do cacau",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/04/30/veja-dicas-para-o-cultivo-e-a-poda-do-cacau.ghtml",
-      "date": "Thu, 30 Apr 2026 13:19:57 -0000"
-    },
-    {
-      "title": "Reforma tribut\u00E1ria: penalidade por n\u00E3o preencher nota fiscal com impostos sobre consumo come\u00E7a em 2027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/30/reforma-tributaria-penalidade-por-nao-preencher-nota-fiscal-com-impostos-sobre-consumo-comeca-em-agosto.ghtml",
-      "date": "Thu, 30 Apr 2026 13:04:54 -0000"
-    },
-    {
-      "title": "Argentina vai aumentar impostos sobre combust\u00EDveis em maio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/30/argentina-vai-aumentar-impostos-sobre-combustiveis.ghtml",
-      "date": "Thu, 30 Apr 2026 12:51:27 -0000"
-    },
-    {
-      "title": "NR-1: Ministro diz que norma n\u00E3o ser\u00E1 adiada sem acordo entre empresas e trabalhadores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/30/nr-1-ministro-diz-que-norma-nao-sera-adiada-sem-acordo.ghtml",
-      "date": "Thu, 30 Apr 2026 12:40:32 -0000"
     }
   ]
 }
