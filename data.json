@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 184750.42,
-      "change": -2.05,
-      "changeStr": "-2.05%"
+      "price": 187008.16,
+      "change": 1.22,
+      "changeStr": "\u002B1.22%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.96,
-      "change": 3.03,
-      "changeStr": "\u002B3.03%"
+      "price": 48.93,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.44,
-      "change": -5.87,
-      "changeStr": "-5.87%"
+      "price": 81.12,
+      "change": 2.11,
+      "changeStr": "\u002B2.11%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.87,
-      "change": -2.79,
-      "changeStr": "-2.79%"
+      "price": 43.3,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.11,
-      "change": -2.35,
-      "changeStr": "-2.35%"
+      "price": 19.3,
+      "change": 0.99,
+      "changeStr": "\u002B0.99%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.71,
-      "change": -3.68,
-      "changeStr": "-3.68%"
+      "price": 22.16,
+      "change": 2.07,
+      "changeStr": "\u002B2.07%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.08,
-      "change": -5.39,
-      "changeStr": "-5.39%"
+      "price": 8.17,
+      "change": 1.11,
+      "changeStr": "\u002B1.11%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.33,
-      "change": -1.71,
-      "changeStr": "-1.71%"
+      "price": 14.61,
+      "change": 1.95,
+      "changeStr": "\u002B1.95%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.1,
-      "change": -6.75,
-      "changeStr": "-6.75%"
+      "price": 44.95,
+      "change": 1.93,
+      "changeStr": "\u002B1.93%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar abre a R$ 4,98 com foco no petr\u00F3leo e na agenda de indicadores no Brasil e nos EUA",
+      "title": "Reforma tribut\u00E1ria: ministro da Fazenda diz que empresas ter\u00E3o apenas de enviar notas fiscais; declara\u00E7\u00E3o ser\u00E1 pr\u00E9-preenchida",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/30/dolar-ibovespa.ghtml",
-      "date": "Thu, 30 Apr 2026 12:00:33 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/04/30/reforma-tributaria-ministro-da-fazenda-diz-que-empresas-terao-apenas-de-enviar-notas-fiscais-declaracao-sera-pre-preenchida.ghtml",
+      "date": "Thu, 30 Apr 2026 15:09:23 -0000"
     },
     {
-      "title": "Desemprego sobe para 6,1% no trimestre terminado em mar\u00E7o, diz IBGE",
+      "title": "Governo, estados e munic\u00EDpios publicam regulamento da reforma tribut\u00E1ria sobre o consumo, que come\u00E7a em 2027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/30/pnad-desemprego-marco.ghtml",
-      "date": "Thu, 30 Apr 2026 12:00:32 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/04/30/governo-estados-e-municipios-publicam-regulamento-da-reforma-tributaria-sobre-o-consumo-que-comeca-em-2027.ghtml",
+      "date": "Thu, 30 Apr 2026 14:34:32 -0000"
     },
     {
-      "title": "Lula sinaliza a aliados que n\u00E3o vai abrir m\u00E3o de nova indica\u00E7\u00E3o para o STF ap\u00F3s derrota de Messias",
+      "title": "Acordo entre Mercosul e Uni\u00E3o Europeia entra em vigor de forma provis\u00F3ria nesta sexta-feira",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/30/lula-sinaliza-a-aliados-que-nao-vai-abrir-mao-de-nova-indicacao-para-o-stf-apos-derrota-de-messias.ghtml",
-      "date": "Thu, 30 Apr 2026 11:35:38 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/04/30/acordo-mercosul-uniao-europeia.ghtml",
+      "date": "Thu, 30 Apr 2026 14:27:21 -0000"
     },
     {
-      "title": "D\u00E9ficit de R$ 80,7 bilh\u00F5es das contas p\u00FAblicas em mar\u00E7o leva d\u00EDvida a 80% do PIB, maior n\u00EDvel em quase 5 anos",
+      "title": "Anatel suspende leil\u00E3o da faixa 700 MHz ap\u00F3s decis\u00E3o da Justi\u00E7a",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/30/contas-publicas-tem-deficit-de-r-807-bilhoes-em-marco-divida-sobe-para-80percent-do-pib.ghtml",
-      "date": "Thu, 30 Apr 2026 11:34:47 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/04/30/anatel-confirma-suspensao-do-leilao-da-faixa-700-mhz-por-decisao-da-justica.ghtml",
+      "date": "Thu, 30 Apr 2026 13:51:52 -0000"
     },
     {
-      "title": "Banco Central decreta liquida\u00E7\u00E3o extrajudicial de corretora de c\u00E2mbio em S\u00E3o Paulo",
+      "title": "Com novo CEO brasileiro, Coca-Cola encolhe embalagens para driblar queda no consumo e infla\u00E7\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/30/banco-central-liquidacao-extrajudicial-corretora-de-cambio.ghtml",
-      "date": "Thu, 30 Apr 2026 11:30:23 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/04/30/ceo-coca-cola-embalagens-consumo.ghtml",
+      "date": "Thu, 30 Apr 2026 13:51:32 -0000"
     },
     {
-      "title": "Quando cai o quinto dia \u00FAtil de Maio? Feriado pode impactar pagamento dos trabalhadores CLT",
+      "title": "Como poss\u00EDvel a\u00E7\u00E3o dos EUA no Ir\u00E3 elevou petr\u00F3leo ao maior n\u00EDvel desde 2022",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/30/quando-cai-o-quinto-dia-util-de-maio.ghtml",
-      "date": "Thu, 30 Apr 2026 11:29:02 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/04/30/como-possivel-acao-dos-eua-no-ira-elevou-petroleo-ao-maior-nivel-desde-2022.ghtml",
+      "date": "Thu, 30 Apr 2026 13:30:20 -0000"
     },
     {
-      "title": "Bloqueio em Ormuz pode fazer receitas do petr\u00F3leo do Ir\u00E3 \u2018cair para zero\u2019, diz analista",
+      "title": "Veja dicas para o cultivo e poda do cacau",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/30/bloqueio-em-ormuz-pode-fazer-receitas-do-petroleo-do-ira-cair-para-zero-diz-analista.ghtml",
-      "date": "Thu, 30 Apr 2026 10:52:25 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/04/30/veja-dicas-para-o-cultivo-e-a-poda-do-cacau.ghtml",
+      "date": "Thu, 30 Apr 2026 13:19:57 -0000"
     },
     {
-      "title": "Chefe da ag\u00EAncia de energia faz alerta: mundo pode enfrentar a maior crise energ\u00E9tica da hist\u00F3ria",
+      "title": "Reforma tribut\u00E1ria: penalidade por n\u00E3o preencher nota fiscal com impostos sobre consumo come\u00E7a em 2027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/30/chefe-da-agencia-de-energia-faz-alerta-mundo-pode-enfrentar-a-maior-crise-energetica-da-historia.ghtml",
-      "date": "Thu, 30 Apr 2026 10:42:29 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/04/30/reforma-tributaria-penalidade-por-nao-preencher-nota-fiscal-com-impostos-sobre-consumo-comeca-em-agosto.ghtml",
+      "date": "Thu, 30 Apr 2026 13:04:54 -0000"
     },
     {
-      "title": "Petr\u00F3leo Brent ultrapassa US$ 125 ap\u00F3s Trump indicar que manter\u00E1 bloqueio em Ormuz",
+      "title": "Argentina vai aumentar impostos sobre combust\u00EDveis em maio",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/30/petroleo-brent-ultrapassa-us-125.ghtml",
-      "date": "Thu, 30 Apr 2026 05:45:26 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/04/30/argentina-vai-aumentar-impostos-sobre-combustiveis.ghtml",
+      "date": "Thu, 30 Apr 2026 12:51:27 -0000"
     },
     {
-      "title": "Voc\u00EA conhece a sapucainha? Fruta ex\u00F3tica da Mata Atl\u00E2ntica tem sementes t\u00F3xicas e consumo exige cuidado",
+      "title": "NR-1: Ministro diz que norma n\u00E3o ser\u00E1 adiada sem acordo entre empresas e trabalhadores",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/04/30/voce-conhece-a-sapucainha-fruta-exotica-da-mata-atlantica-tem-sementes-toxicas-e-consumo-exige-cuidado.ghtml",
-      "date": "Thu, 30 Apr 2026 05:00:38 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/30/nr-1-ministro-diz-que-norma-nao-sera-adiada-sem-acordo.ghtml",
+      "date": "Thu, 30 Apr 2026 12:40:32 -0000"
     }
   ]
 }
