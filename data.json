@@ -57,6 +57,12 @@
   ],
   "news": [
     {
+      "title": "SpaceX j\u00E1 gastou US$ 15 bilh\u00F5es para viabilizar foguete reutiliz\u00E1vel",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/01/spacex-us-15-bilhoes-foguete-totalmente-reutilizavel.ghtml",
+      "date": "Fri, 01 May 2026 10:18:10 -0000"
+    },
+    {
       "title": "Petr\u00F3leo segue acima de US$ 110 enquanto bolsas globais t\u00EAm desempenho misto",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/01/cotacao-petroleo.ghtml",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/01/acordo-ue-mercosul-veja-o-que-esta-em-jogo-para-o-agro.ghtml",
       "date": "Fri, 01 May 2026 03:01:08 -0000"
-    },
-    {
-      "title": "Acordo UE-Mercosul: imposto do vinho europeu come\u00E7a a cair nesta sexta e zera em 2034; veja datas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/01/acordo-ue-mercosul-imposto-do-vinho-europeu-comeca-a-cair-nesta-sexta-e-zera-em-2034-veja-datas.ghtml",
-      "date": "Fri, 01 May 2026 03:01:02 -0000"
     }
   ]
 }
