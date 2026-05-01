@@ -57,13 +57,19 @@
   ],
   "news": [
     {
+      "title": "Pent\u00E1gono amplia uso de intelig\u00EAncia artificial para uso militar e fecha acordos com big techs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/01/pentagono-fecha-acordos-com-principais-empresas-de-ia.ghtml",
+      "date": "Fri, 01 May 2026 11:43:17 -0000"
+    },
+    {
       "title": "SpaceX j\u00E1 gastou US$ 15 bilh\u00F5es para viabilizar foguete reutiliz\u00E1vel",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/05/01/spacex-us-15-bilhoes-foguete-totalmente-reutilizavel.ghtml",
       "date": "Fri, 01 May 2026 10:18:10 -0000"
     },
     {
-      "title": "Petr\u00F3leo segue acima de US$ 110 enquanto bolsas globais t\u00EAm desempenho misto",
+      "title": "Petr\u00F3leo recua com proposta do Ir\u00E3, mas barril segue acima de US$ 110 ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/01/cotacao-petroleo.ghtml",
       "date": "Fri, 01 May 2026 09:23:58 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/01/veja-quem-ganha-e-quem-perde-no-brasil-com-o-acordo-ue-mercosul.ghtml",
       "date": "Fri, 01 May 2026 03:01:09 -0000"
-    },
-    {
-      "title": "Acordo UE-Mercosul come\u00E7a a valer; veja o que est\u00E1 em jogo para o agro \u2014 de frutas a carnes e caf\u00E9",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/01/acordo-ue-mercosul-veja-o-que-esta-em-jogo-para-o-agro.ghtml",
-      "date": "Fri, 01 May 2026 03:01:08 -0000"
     }
   ]
 }
