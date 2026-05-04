@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186014.48,
-      "change": -0.7,
-      "changeStr": "-0.70%"
+      "price": 185803.73,
+      "change": -0.81,
+      "changeStr": "-0.81%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.53,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 49.18,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.28,
-      "change": -2.34,
-      "changeStr": "-2.34%"
+      "price": 79.04,
+      "change": -2.64,
+      "changeStr": "-2.64%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.37,
-      "change": -1.9,
-      "changeStr": "-1.90%"
+      "price": 42.42,
+      "change": -1.78,
+      "changeStr": "-1.78%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.94,
-      "change": -1.97,
-      "changeStr": "-1.97%"
+      "price": 18.9,
+      "change": -2.17,
+      "changeStr": "-2.17%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.91,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 21.93,
+      "change": -1.26,
+      "changeStr": "-1.26%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.03,
-      "change": -2.43,
-      "changeStr": "-2.43%"
+      "price": 8.11,
+      "change": -1.46,
+      "changeStr": "-1.46%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.5,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 14.53,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.13,
-      "change": -1.63,
-      "changeStr": "-1.63%"
+      "price": 44.32,
+      "change": -1.2,
+      "changeStr": "-1.20%"
     }
   ],
   "news": [
+    {
+      "title": "Desenrola 2.0: veja perguntas e respostas sobre o novo programa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/novo-desenrola-perguntas-e-respostas.ghtml",
+      "date": "Mon, 04 May 2026 17:37:58 -0000"
+    },
+    {
+      "title": "Desenrola 2.0 amplia limites, car\u00EAncia e prazos para micro e pequenas empresas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/desenrola-20-amplia-limites-carencia-e-prazos-para-micro-e-pequenas-empresas.ghtml",
+      "date": "Mon, 04 May 2026 17:16:54 -0000"
+    },
+    {
+      "title": "Cinco pontos sobre o Novo Desenrola, pacote de medidas para reduzir o endividamento lan\u00E7ado pelo governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/cinco-pontos-sobre-o-novo-desenrola.ghtml",
+      "date": "Mon, 04 May 2026 16:56:02 -0000"
+    },
     {
       "title": "Desenrola 2.0: programa prev\u00EA desconto de dezenas de bilh\u00F5es de reais para devedores do Fies",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/04/desenrola-20-dividas-de-ate-r-100-serao-perdoadas.ghtml",
       "date": "Mon, 04 May 2026 15:09:01 -0000"
-    },
-    {
-      "title": "Setor banc\u00E1rio cita \u0027grande preocupa\u00E7\u00E3o\u0027 com suspens\u00E3o do consignado do INSS",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/04/entidades-do-setor-bancario-citam-grande-preocupacao-com-suspensao-de-credito-consignado-do-inss.ghtml",
-      "date": "Mon, 04 May 2026 14:54:10 -0000"
-    },
-    {
-      "title": "Desenrola 2.0: governo reduz para 40% margem do consignado de servidores e aposentados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/04/desenrola-20-governo-reduz-para-40percent-margem-do-consignado-de-servidores-e-aposentados.ghtml",
-      "date": "Mon, 04 May 2026 14:47:08 -0000"
-    },
-    {
-      "title": "D\u00FAzia de ovos a R$ 4 na China e at\u00E9 R$ 50 nos EUA: veja contraste nos pre\u00E7os de alimentos e compara\u00E7\u00E3o com o Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/05/04/duzia-de-ovos-a-r-4-na-china-e-ate-r-50-nos-eua-veja-contraste-de-precos-e-comparacao-com-o-brasil.ghtml",
-      "date": "Mon, 04 May 2026 14:35:00 -0000"
     }
   ]
 }
