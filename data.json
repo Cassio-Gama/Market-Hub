@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185676.16,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "price": 185600.12,
+      "change": -0.92,
+      "changeStr": "-0.92%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.48,
-      "change": 0.81,
-      "changeStr": "\u002B0.81%"
+      "price": 49.34,
+      "change": 0.53,
+      "changeStr": "\u002B0.53%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.81,
-      "change": -2.92,
-      "changeStr": "-2.92%"
+      "price": 78.66,
+      "change": -3.1,
+      "changeStr": "-3.10%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.38,
-      "change": -1.88,
-      "changeStr": "-1.88%"
+      "price": 42.4,
+      "change": -1.83,
+      "changeStr": "-1.83%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.89,
-      "change": -2.23,
-      "changeStr": "-2.23%"
+      "price": 18.91,
+      "change": -2.12,
+      "changeStr": "-2.12%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.93,
-      "change": -1.26,
-      "changeStr": "-1.26%"
+      "price": 21.91,
+      "change": -1.35,
+      "changeStr": "-1.35%"
     },
     {
       "symbol": "MGLU3",
@@ -44,18 +44,24 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 14.46,
-      "change": -0.34,
-      "changeStr": "-0.34%"
+      "price": 14.44,
+      "change": -0.48,
+      "changeStr": "-0.48%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.56,
-      "change": -0.67,
-      "changeStr": "-0.67%"
+      "price": 44.36,
+      "change": -1.11,
+      "changeStr": "-1.11%"
     }
   ],
   "news": [
+    {
+      "title": "\u0027Tarde demais\u0027: Trump publica imagem do presidente do banco central dos EUA sendo jogado no lixo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/tarde-demais-trump-publica-imagem-do-presidente-do-banco-central-dos-eua-sendo-jogado-no-lixo.ghtml",
+      "date": "Mon, 04 May 2026 20:46:36 -0000"
+    },
     {
       "title": "Profiss\u00E3o Rep\u00F3rter Procura entra na \u00FAltima semana de inscri\u00E7\u00F5es; veja como participar",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/post/2026/05/04/desenrola-20-estudantes-do-fies-podem-ter-descontos-de-ate-99percent-com-novo-programa-veja-regras.ghtml",
       "date": "Mon, 04 May 2026 15:39:56 -0000"
-    },
-    {
-      "title": "Produ\u00E7\u00E3o de petr\u00F3leo do Brasil bate recorde pelo 2\u00BA m\u00EAs consecutivo, em mar\u00E7o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/04/producao-de-petroleo-do-brasil-bate-recorde-pelo-2o-mes-consecutivo-em-marco.ghtml",
-      "date": "Mon, 04 May 2026 15:39:50 -0000"
     }
   ]
 }
