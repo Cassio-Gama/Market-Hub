@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187018.81,
-      "change": -0.16,
-      "changeStr": "-0.16%"
+      "price": 186014.48,
+      "change": -0.7,
+      "changeStr": "-0.70%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.21,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 49.53,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.51,
-      "change": -2.06,
-      "changeStr": "-2.06%"
+      "price": 79.28,
+      "change": -2.34,
+      "changeStr": "-2.34%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.81,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "price": 42.37,
+      "change": -1.9,
+      "changeStr": "-1.90%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.18,
-      "change": -0.72,
-      "changeStr": "-0.72%"
+      "price": 18.94,
+      "change": -1.97,
+      "changeStr": "-1.97%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.07,
-      "change": -0.63,
-      "changeStr": "-0.63%"
+      "price": 21.91,
+      "change": -1.35,
+      "changeStr": "-1.35%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.26,
-      "change": 0.36,
-      "changeStr": "\u002B0.36%"
+      "price": 8.03,
+      "change": -2.43,
+      "changeStr": "-2.43%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.54,
-      "change": 0.21,
-      "changeStr": "\u002B0.21%"
+      "price": 14.5,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.56,
-      "change": -0.67,
-      "changeStr": "-0.67%"
+      "price": 44.13,
+      "change": -1.63,
+      "changeStr": "-1.63%"
     }
   ],
   "news": [
     {
-      "title": "Nubank Parque: novo naming rights do est\u00E1dio do Palmeiras est\u00E1 entre os mais caros do Brasil; lista",
+      "title": "Desenrola 2.0: programa prev\u00EA desconto de dezenas de bilh\u00F5es de reais para devedores do Fies",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/04/naming-rights-estadios.ghtml",
-      "date": "Mon, 04 May 2026 14:10:19 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/desenrola-20-programa-preve-desconto-de-dezenas-de-bilhoes-de-reais-para-devedores-do-fies.ghtml",
+      "date": "Mon, 04 May 2026 16:42:54 -0000"
     },
     {
-      "title": "Nubank anuncia \u0027Nubank Parque\u0027 como novo nome da arena do Palmeiras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/04/nubank-novo-nome-da-arena-do-palmeiras.ghtml",
-      "date": "Mon, 04 May 2026 14:07:20 -0000"
-    },
-    {
-      "title": "Governo lan\u00E7a \u0027Novo Desenrola Brasil\u0027, pacote para renegocia\u00E7\u00E3o de d\u00EDvidas; ASSISTA",
+      "title": "Desenrola 2.0: novo programa para renegociar d\u00EDvidas \u00E9 lan\u00E7ado pelo governo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/ao-vivo/governo-lanca-novo-desenrola-brasil-para-renegociacao-de-dividas.ghtml",
-      "date": "Mon, 04 May 2026 14:04:00 -0000"
+      "date": "Mon, 04 May 2026 15:55:33 -0000"
     },
     {
-      "title": "Governo lan\u00E7a \u0027Novo Desenrola\u0027, programa que vai liberar parte do FGTS para trabalhadores pagarem d\u00EDvidas; entenda",
+      "title": "Telefonia m\u00F3vel em \u00E1reas rurais e rodovias: leil\u00E3o da Anatel alcan\u00E7a R$ 23 milh\u00F5es com outorgas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/04/governo-lanca-novo-desenrola-programa-que-vai-liberar-parte-do-fgts-para-trabalhadores-pagarem-dividas-entenda.ghtml",
-      "date": "Mon, 04 May 2026 14:03:54 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/telefonia-movel-em-areas-rurais-e-rodovias-leilao-da-anatel-alcanca-r-23-milhoes-com-outorgas.ghtml",
+      "date": "Mon, 04 May 2026 15:46:21 -0000"
     },
     {
-      "title": "Recall: Ford Bronco Sport e Maverick podem ter defeito em sensor e n\u00E3o ativar airbag de passageiro",
+      "title": "Desenrola 2.0: estudantes do Fies podem ter descontos de at\u00E9 99% com novo programa; veja regras",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/04/recall-ford-bronco-sport-e-maverick-podem-ter-defeito-em-sensor-e-nao-ativar-airbag-de-passageiro.ghtml",
-      "date": "Mon, 04 May 2026 13:32:25 -0000"
+      "url": "https://g1.globo.com/economia/post/2026/05/04/desenrola-20-estudantes-do-fies-podem-ter-descontos-de-ate-99percent-com-novo-programa-veja-regras.ghtml",
+      "date": "Mon, 04 May 2026 15:39:56 -0000"
     },
     {
-      "title": "Tribunal russo bloqueia bens de bilion\u00E1rio do agro no pa\u00EDs, dizem ag\u00EAncias locais",
+      "title": "Produ\u00E7\u00E3o de petr\u00F3leo do Brasil bate recorde pelo 2\u00BA m\u00EAs consecutivo, em mar\u00E7o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/05/04/tribunal-russo-bloqueia-bens-de-bilionario-do-agro-no-pais-dizem-agencias-locais.ghtml",
-      "date": "Mon, 04 May 2026 13:21:27 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/producao-de-petroleo-do-brasil-bate-recorde-pelo-2o-mes-consecutivo-em-marco.ghtml",
+      "date": "Mon, 04 May 2026 15:39:50 -0000"
     },
     {
-      "title": "Instagram passa a identificar contas que criam conte\u00FAdo com IA",
+      "title": "Com d\u00EDvida em alta recorde, governo lan\u00E7a novo Desenrola; veja o raio-x da inadimpl\u00EAncia no Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/post/2026/05/04/instagram-passa-a-identificar-contas-que-criam-conteudo-com-ia.ghtml",
-      "date": "Mon, 04 May 2026 13:00:33 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/com-divida-em-alta-recorde-governo-lanca-novo-desenrola-veja-o-raio-x-da-inadimplencia-no-brasil.ghtml",
+      "date": "Mon, 04 May 2026 15:12:42 -0000"
     },
     {
-      "title": "Petr\u00F3leo sobe ap\u00F3s relato de que navio de guerra dos EUA foi atingido por m\u00EDsseis",
+      "title": "\u0027Desenrola 2.0\u0027: d\u00EDvidas de at\u00E9 R$ 100 ser\u00E3o desnegativadas pelos bancos ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/04/petroleo-eua-misseis.ghtml",
-      "date": "Mon, 04 May 2026 12:01:58 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/desenrola-20-dividas-de-ate-r-100-serao-perdoadas.ghtml",
+      "date": "Mon, 04 May 2026 15:09:01 -0000"
     },
     {
-      "title": "D\u00F3lar cai a R$ 4,95 com foco no petr\u00F3leo e cen\u00E1rio dom\u00E9stico; Ibovespa recua",
+      "title": "Setor banc\u00E1rio cita \u0027grande preocupa\u00E7\u00E3o\u0027 com suspens\u00E3o do consignado do INSS",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/04/dolar-ibovespa.ghtml",
-      "date": "Mon, 04 May 2026 12:00:04 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/entidades-do-setor-bancario-citam-grande-preocupacao-com-suspensao-de-credito-consignado-do-inss.ghtml",
+      "date": "Mon, 04 May 2026 14:54:10 -0000"
     },
     {
-      "title": "Mercado eleva estimativa de infla\u00E7\u00E3o para 4,89% em 2026, na 8\u00AA alta seguida",
+      "title": "Desenrola 2.0: governo reduz para 40% margem do consignado de servidores e aposentados",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/04/mercado-eleva-estimativa-de-inflacao-para-489percent-em-2026-na-8a-alta-seguida.ghtml",
-      "date": "Mon, 04 May 2026 11:30:44 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/desenrola-20-governo-reduz-para-40percent-margem-do-consignado-de-servidores-e-aposentados.ghtml",
+      "date": "Mon, 04 May 2026 14:47:08 -0000"
+    },
+    {
+      "title": "D\u00FAzia de ovos a R$ 4 na China e at\u00E9 R$ 50 nos EUA: veja contraste nos pre\u00E7os de alimentos e compara\u00E7\u00E3o com o Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/05/04/duzia-de-ovos-a-r-4-na-china-e-ate-r-50-nos-eua-veja-contraste-de-precos-e-comparacao-com-o-brasil.ghtml",
+      "date": "Mon, 04 May 2026 14:35:00 -0000"
     }
   ]
 }
