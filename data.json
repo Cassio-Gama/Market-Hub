@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187317.64,
-      "change": 1.39,
-      "changeStr": "\u002B1.39%"
+      "price": 187018.81,
+      "change": -0.16,
+      "changeStr": "-0.16%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.08,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 49.21,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.18,
-      "change": 2.19,
-      "changeStr": "\u002B2.19%"
+      "price": 79.51,
+      "change": -2.06,
+      "changeStr": "-2.06%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.19,
-      "change": 0.75,
-      "changeStr": "\u002B0.75%"
+      "price": 42.81,
+      "change": -0.88,
+      "changeStr": "-0.88%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.32,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
+      "price": 19.18,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.21,
-      "change": 2.3,
-      "changeStr": "\u002B2.30%"
+      "price": 22.07,
+      "change": -0.63,
+      "changeStr": "-0.63%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.23,
-      "change": 1.86,
-      "changeStr": "\u002B1.86%"
+      "price": 8.26,
+      "change": 0.36,
+      "changeStr": "\u002B0.36%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.51,
-      "change": 1.26,
-      "changeStr": "\u002B1.26%"
+      "price": 14.54,
+      "change": 0.21,
+      "changeStr": "\u002B0.21%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.86,
-      "change": 1.72,
-      "changeStr": "\u002B1.72%"
+      "price": 44.56,
+      "change": -0.67,
+      "changeStr": "-0.67%"
     }
   ],
   "news": [
     {
-      "title": "Governo lan\u00E7a hoje o \u0027Novo Desenrola Brasil\u0027, pacote para renegocia\u00E7\u00E3o de d\u00EDvidas",
+      "title": "Nubank Parque: novo naming rights do est\u00E1dio do Palmeiras est\u00E1 entre os mais caros do Brasil; lista",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/naming-rights-estadios.ghtml",
+      "date": "Mon, 04 May 2026 14:10:19 -0000"
+    },
+    {
+      "title": "Nubank anuncia \u0027Nubank Parque\u0027 como novo nome da arena do Palmeiras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/nubank-novo-nome-da-arena-do-palmeiras.ghtml",
+      "date": "Mon, 04 May 2026 14:07:20 -0000"
+    },
+    {
+      "title": "Governo lan\u00E7a \u0027Novo Desenrola Brasil\u0027, pacote para renegocia\u00E7\u00E3o de d\u00EDvidas; ASSISTA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/ao-vivo/governo-lanca-novo-desenrola-brasil-para-renegociacao-de-dividas.ghtml",
-      "date": "Mon, 04 May 2026 11:31:53 -0000"
+      "date": "Mon, 04 May 2026 14:04:00 -0000"
+    },
+    {
+      "title": "Governo lan\u00E7a \u0027Novo Desenrola\u0027, programa que vai liberar parte do FGTS para trabalhadores pagarem d\u00EDvidas; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/governo-lanca-novo-desenrola-programa-que-vai-liberar-parte-do-fgts-para-trabalhadores-pagarem-dividas-entenda.ghtml",
+      "date": "Mon, 04 May 2026 14:03:54 -0000"
+    },
+    {
+      "title": "Recall: Ford Bronco Sport e Maverick podem ter defeito em sensor e n\u00E3o ativar airbag de passageiro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/04/recall-ford-bronco-sport-e-maverick-podem-ter-defeito-em-sensor-e-nao-ativar-airbag-de-passageiro.ghtml",
+      "date": "Mon, 04 May 2026 13:32:25 -0000"
+    },
+    {
+      "title": "Tribunal russo bloqueia bens de bilion\u00E1rio do agro no pa\u00EDs, dizem ag\u00EAncias locais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/05/04/tribunal-russo-bloqueia-bens-de-bilionario-do-agro-no-pais-dizem-agencias-locais.ghtml",
+      "date": "Mon, 04 May 2026 13:21:27 -0000"
+    },
+    {
+      "title": "Instagram passa a identificar contas que criam conte\u00FAdo com IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/post/2026/05/04/instagram-passa-a-identificar-contas-que-criam-conteudo-com-ia.ghtml",
+      "date": "Mon, 04 May 2026 13:00:33 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo sobe ap\u00F3s relato de que navio de guerra dos EUA foi atingido por m\u00EDsseis",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/petroleo-eua-misseis.ghtml",
+      "date": "Mon, 04 May 2026 12:01:58 -0000"
+    },
+    {
+      "title": "D\u00F3lar cai a R$ 4,95 com foco no petr\u00F3leo e cen\u00E1rio dom\u00E9stico; Ibovespa recua",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/04/dolar-ibovespa.ghtml",
+      "date": "Mon, 04 May 2026 12:00:04 -0000"
     },
     {
       "title": "Mercado eleva estimativa de infla\u00E7\u00E3o para 4,89% em 2026, na 8\u00AA alta seguida",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/04/mercado-eleva-estimativa-de-inflacao-para-489percent-em-2026-na-8a-alta-seguida.ghtml",
       "date": "Mon, 04 May 2026 11:30:44 -0000"
-    },
-    {
-      "title": "A guerra comercial por tr\u00E1s das estrelas Michelin: por que a gastronomia se tornou t\u00E3o obcecada por pr\u00EAmios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/04/a-guerra-comercial-por-tras-das-estrelas-michelin-por-que-a-gastronomia-se-tornou-tao-obcecada-por-premios.ghtml",
-      "date": "Mon, 04 May 2026 10:33:23 -0000"
-    },
-    {
-      "title": "Marfrig e BRF criam Sadia Halal e preparam IPO na Ar\u00E1bia Saudita",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/04/marfrig-e-brf-criam-sadia-halal-e-preparam-ipo-na-arabia-saudita.ghtml",
-      "date": "Mon, 04 May 2026 10:29:50 -0000"
-    },
-    {
-      "title": "GameStop faz oferta bilion\u00E1ria para comprar eBay e mira rivalizar com a Amazon",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/04/gamestop-oferta-ebay.ghtml",
-      "date": "Mon, 04 May 2026 10:23:21 -0000"
-    },
-    {
-      "title": "O que pesquisador descobriu pedalando como entregador de apps por 6 meses: \u0027\u00C9 terra de ningu\u00E9m, risco de vida o tempo todo\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/04/o-que-pesquisador-descobriu-pedalando-como-entregador-de-apps-por-6-meses-e-terra-de-ninguem-risco-de-vida-o-tempo-todo.ghtml",
-      "date": "Mon, 04 May 2026 10:14:30 -0000"
-    },
-    {
-      "title": "Bilh\u00F5es de refei\u00E7\u00F5es ao redor do mundo est\u00E3o em risco por causa da guerra no Ir\u00E3, diz presidente de empresa de fertilizantes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/04/bilhoes-de-refeicoes-ao-redor-do-mundo-estao-em-risco-por-causa-da-guerra-no-ira-diz-presidente-de-empresa-de-fertilizantes.ghtml",
-      "date": "Mon, 04 May 2026 08:21:32 -0000"
-    },
-    {
-      "title": "Quais s\u00E3o os pr\u00F3ximos feriados de 2026? (Spoiler: restam seis)",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/04/quais-sao-os-proximos-feriados-de-2026-spoiler-restam-seis.ghtml",
-      "date": "Mon, 04 May 2026 03:01:08 -0000"
-    },
-    {
-      "title": "Governo lan\u00E7a nesta segunda novo pacote para renegocia\u00E7\u00E3o de d\u00EDvidas; veja o que j\u00E1 se sabe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/04/governo-lanca-nesta-segunda-novo-pacote-para-renegociacao-de-dividas-veja-o-que-ja-se-sabe.ghtml",
-      "date": "Mon, 04 May 2026 03:01:05 -0000"
-    },
-    {
-      "title": "Ap\u00F3s cancelar voos e encerrar opera\u00E7\u00F5es, Spirit diz que maioria dos clientes foi reembolsada",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/03/spirit-reenbolso-clientes.ghtml",
-      "date": "Sun, 03 May 2026 22:45:23 -0000"
     }
   ]
 }
