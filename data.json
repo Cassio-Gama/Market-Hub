@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186379.3,
-      "change": 0.42,
-      "changeStr": "\u002B0.42%"
+      "price": 186776.45,
+      "change": 0.63,
+      "changeStr": "\u002B0.63%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.64,
-      "change": -1.42,
-      "changeStr": "-1.42%"
+      "price": 48.54,
+      "change": -1.62,
+      "changeStr": "-1.62%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.02,
-      "change": -0.81,
-      "changeStr": "-0.81%"
+      "price": 78.67,
+      "change": 0.01,
+      "changeStr": "\u002B0.01%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.25,
-      "change": -0.35,
-      "changeStr": "-0.35%"
+      "price": 42.45,
+      "change": 0.12,
+      "changeStr": "\u002B0.12%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.13,
-      "change": 1.16,
-      "changeStr": "\u002B1.16%"
+      "price": 19.17,
+      "change": 1.37,
+      "changeStr": "\u002B1.37%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.97,
-      "change": 0.27,
-      "changeStr": "\u002B0.27%"
+      "price": 22.05,
+      "change": 0.64,
+      "changeStr": "\u002B0.64%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.06,
-      "change": 0.75,
-      "changeStr": "\u002B0.75%"
+      "price": 8.03,
+      "change": 0.37,
+      "changeStr": "\u002B0.37%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.71,
-      "change": 15.72,
-      "changeStr": "\u002B15.72%"
+      "price": 16.65,
+      "change": 15.3,
+      "changeStr": "\u002B15.30%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.66,
-      "change": -1.58,
-      "changeStr": "-1.58%"
+      "price": 43.6,
+      "change": -1.71,
+      "changeStr": "-1.71%"
     }
   ],
   "news": [
+    {
+      "title": "Desenrola 2.0: governo publica regras para que bancos iniciem renegocia\u00E7\u00E3o de d\u00EDvidas ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/05/desenrola-20-governo-publica-regras-para-que-bancos-iniciem-renegociacao-de-dividas.ghtml",
+      "date": "Tue, 05 May 2026 19:24:06 -0000"
+    },
+    {
+      "title": "Mega-Sena pode pagar R$ 8 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/05/mega-sena-pode-pagar-r-8-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+      "date": "Tue, 05 May 2026 19:23:58 -0000"
+    },
+    {
+      "title": "\u0027Desenrola 2.0\u0027: bancos t\u00EAm 30 dias para limpar nome de quem deve at\u00E9 R$ 100",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/05/desenrola-20-bancos-tem-30-dias-para-desnegativar-dividas-ate-r-100.ghtml",
+      "date": "Tue, 05 May 2026 19:23:30 -0000"
+    },
+    {
+      "title": "Exporta\u00E7\u00E3o de carne bovina do Brasil pode cair 10% em 2026 com restri\u00E7\u00E3o da China, diz Abiec",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/05/exportacao-de-carne-bovina-do-brasil-pode-cair-10-em-2026-com-restricao-da-china-diz-abiec.ghtml",
+      "date": "Tue, 05 May 2026 18:29:45 -0000"
+    },
+    {
+      "title": "Fim da escala 6x1: relator prop\u00F5e plano de trabalho e prev\u00EA vota\u00E7\u00E3o de parecer em 26 de maio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/05/escala-6x1-relator-de-comissao-propoe-plano-de-trabalho-e-preve-votacao-de-parecer-em-26-de-maio.ghtml",
+      "date": "Tue, 05 May 2026 18:22:44 -0000"
+    },
+    {
+      "title": "Mark Zuckerberg \u0027autorizou pessoalmente\u0027 viola\u00E7\u00E3o de direitos autorais da Meta, dizem editoras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/05/mark-zuckerberg-violacao-direitos-autorais-meta-dizem-editoras.ghtml",
+      "date": "Tue, 05 May 2026 17:49:26 -0000"
+    },
     {
       "title": "Ex-CEO da Fox negocia a compra da New York Magazine e podcasts da Vox Media, diz jornal",
       "source": "G1 Economia",
@@ -75,46 +111,10 @@
       "date": "Tue, 05 May 2026 14:09:24 -0000"
     },
     {
-      "title": "Desenrola 2.0: Serasa aponta 82,8 milh\u00F5es de endividados no Brasil; 47% das d\u00EDvidas s\u00E3o com institui\u00E7\u00F5es financeiras",
+      "title": "Governo eleva classifica\u00E7\u00E3o indicativa do YouTube e cita \u0027Novela das frutas\u0027 ao apontar conte\u00FAdo violento",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/05/serasa-aponta-828-milhoes-de-endividados-no-brasil-setor-financeiro-concentra-47percent-das-dividas-foco-do-desenrola-20.ghtml",
-      "date": "Tue, 05 May 2026 13:16:36 -0000"
-    },
-    {
-      "title": "Canetas emagrecedoras e rem\u00E9dios caros podem elevar pre\u00E7os dos planos de sa\u00FAde empresariais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/05/precos-planos-de-saude-empresariais.ghtml",
-      "date": "Tue, 05 May 2026 13:01:30 -0000"
-    },
-    {
-      "title": "D\u00F3lar cai a R$ 4,91 com foco na ata do Copom e conflito no Oriente M\u00E9dio; Ibovespa avan\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/05/dolar-ibovespa.ghtml",
-      "date": "Tue, 05 May 2026 12:00:06 -0000"
-    },
-    {
-      "title": "Infla\u00E7\u00E3o se afasta da meta, mas Banco Central julga decis\u00E3o de cortar de juros como \u0027mais adequada\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/05/banco-central-ve-inflacao-se-distanciar-da-meta-mas-julgou-que-reducao-na-taxa-basica-de-juros-seria-mais-adequada.ghtml",
-      "date": "Tue, 05 May 2026 11:06:47 -0000"
-    },
-    {
-      "title": "A rede clandestina que contrabandeia tecnologia da Starlink para combater apag\u00E3o de internet no Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/05/a-rede-clandestina-que-contrabandeia-tecnologia-da-starlink-para-combater-apagao-de-internet-no-ira.ghtml",
-      "date": "Tue, 05 May 2026 10:34:50 -0000"
-    },
-    {
-      "title": "PIX, minerais cr\u00EDticos e tarifas: o que o governo Lula quer discutir com Trump na economia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/05/pix-minerais-criticos-e-tarifas-o-que-o-governo-lula-quer-discutir-com-trump-na-economia.ghtml",
-      "date": "Tue, 05 May 2026 09:10:28 -0000"
-    },
-    {
-      "title": "Ex-chefe do WhatsApp no Brasil cria ONG para den\u00FAncias contra big techs; entenda como funciona",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/05/ex-chefe-do-whatsapp-no-brasil-cria-ong-para-denuncias-contra-big-techs-entenda-como-funciona.ghtml",
-      "date": "Tue, 05 May 2026 08:03:57 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/05/governo-aumenta-classificacao-indicativa-do-youtube.ghtml",
+      "date": "Tue, 05 May 2026 13:21:37 -0000"
     }
   ]
 }
