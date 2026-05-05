@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186776.45,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
+      "price": 186753.81,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.54,
-      "change": -1.62,
-      "changeStr": "-1.62%"
+      "price": 48.66,
+      "change": -1.38,
+      "changeStr": "-1.38%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.67,
-      "change": 0.01,
-      "changeStr": "\u002B0.01%"
+      "price": 78.39,
+      "change": -0.34,
+      "changeStr": "-0.34%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.45,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 42.46,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.17,
-      "change": 1.37,
-      "changeStr": "\u002B1.37%"
+      "price": 19.19,
+      "change": 1.48,
+      "changeStr": "\u002B1.48%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.05,
-      "change": 0.64,
-      "changeStr": "\u002B0.64%"
+      "price": 21.92,
+      "change": 0.05,
+      "changeStr": "\u002B0.05%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.03,
-      "change": 0.37,
-      "changeStr": "\u002B0.37%"
+      "price": 8,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,18 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 43.6,
-      "change": -1.71,
-      "changeStr": "-1.71%"
+      "price": 43.54,
+      "change": -1.85,
+      "changeStr": "-1.85%"
     }
   ],
   "news": [
+    {
+      "title": "Desenrola 2.0 fixa descontos de 30% a 90% por tempo de atraso das d\u00EDvidas; veja faixas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/05/desenrola-20-tera-faixas-de-desconto.ghtml",
+      "date": "Tue, 05 May 2026 20:06:15 -0000"
+    },
     {
       "title": "Desenrola 2.0: governo publica regras para que bancos iniciem renegocia\u00E7\u00E3o de d\u00EDvidas ",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/05/durigan-revisao-de-gastos-juros-desenrola.ghtml",
       "date": "Tue, 05 May 2026 14:09:24 -0000"
-    },
-    {
-      "title": "Governo eleva classifica\u00E7\u00E3o indicativa do YouTube e cita \u0027Novela das frutas\u0027 ao apontar conte\u00FAdo violento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/05/governo-aumenta-classificacao-indicativa-do-youtube.ghtml",
-      "date": "Tue, 05 May 2026 13:21:37 -0000"
     }
   ]
 }
