@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 188096.56,
-      "change": 0.72,
-      "changeStr": "\u002B0.72%"
+      "price": 187500.38,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
     },
     {
       "symbol": "PETR4",
@@ -57,6 +57,12 @@
   ],
   "news": [
     {
+      "title": "Desenrola cria cultura que ignora raz\u00E3o do endividamento recorde, diz pesquisador do \u0027Brasil dos boletos\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/06/desenrola-cria-cultura-que-ignora-razao-do-endividamento-recorde-diz-pesquisador-do-brasil-dos-boletos.ghtml",
+      "date": "Wed, 06 May 2026 17:29:39 -0000"
+    },
+    {
       "title": "O custo silencioso do presencial: por que a volta ao escrit\u00F3rio enfrenta tanta resist\u00EAncia",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/06/pesquisa-retorno-presencial.ghtml",
@@ -105,16 +111,10 @@
       "date": "Wed, 06 May 2026 12:02:59 -0000"
     },
     {
-      "title": "D\u00F3lar e Ibovespa avan\u00E7am com queda do petr\u00F3leo e tr\u00E9gua no Oriente M\u00E9dio no radar",
+      "title": "D\u00F3lar e Ibovespa avan\u00E7am com leil\u00E3o do BC e tr\u00E9gua no Oriente M\u00E9dio no radar",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/06/dolar-ibovespa.ghtml",
       "date": "Wed, 06 May 2026 12:00:13 -0000"
-    },
-    {
-      "title": "Desenrola 2.0 pode beneficiar informais e quem sofre com juros altos no cart\u00E3o de cr\u00E9dito, diz ministro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/06/desenrola-20-governo-estuda-nova-linha-de-credito-para-trabalhadores-informais-diz-ministro-da-fazenda.ghtml",
-      "date": "Wed, 06 May 2026 11:14:23 -0000"
     }
   ]
 }
