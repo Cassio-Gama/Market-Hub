@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187500.38,
-      "change": 0.4,
-      "changeStr": "\u002B0.40%"
+      "price": 187690.86,
+      "change": 0.5,
+      "changeStr": "\u002B0.50%"
     },
     {
       "symbol": "PETR4",
@@ -111,7 +111,7 @@
       "date": "Wed, 06 May 2026 12:02:59 -0000"
     },
     {
-      "title": "D\u00F3lar e Ibovespa avan\u00E7am com leil\u00E3o do BC e tr\u00E9gua no Oriente M\u00E9dio no radar",
+      "title": "D\u00F3lar sobe e fecha a R$ 4,92 com leil\u00E3o do BC e tr\u00E9gua no Oriente M\u00E9dio; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/06/dolar-ibovespa.ghtml",
       "date": "Wed, 06 May 2026 12:00:13 -0000"
