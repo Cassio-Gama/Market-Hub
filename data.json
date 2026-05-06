@@ -27,8 +27,8 @@
     {
       "symbol": "BBDC4",
       "price": 19.19,
-      "change": 1.57,
-      "changeStr": "\u002B1.57%"
+      "change": 1.48,
+      "changeStr": "\u002B1.48%"
     },
     {
       "symbol": "BBAS3",
@@ -56,6 +56,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Desenrola 2.0: governo estuda nova linha de cr\u00E9dito para trabalhadores informais, diz ministro da Fazenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/06/desenrola-20-governo-estuda-nova-linha-de-credito-para-trabalhadores-informais-diz-ministro-da-fazenda.ghtml",
+      "date": "Wed, 06 May 2026 11:14:23 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo cai abaixo de US$ 100 com expectativa de acordo entre EUA e Ir\u00E3 ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/06/petroleo-cai-abaixo-de-us-100-com-expectativa-de-acordo-entre-eua-e-ira.ghtml",
+      "date": "Wed, 06 May 2026 11:10:27 -0000"
+    },
     {
       "title": "IBGE, AGU e mais: veja quais concursos p\u00FAblicos ainda devem sair em 2026",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/05/mega-sena-concurso-3004-resultado.ghtml",
       "date": "Wed, 06 May 2026 00:19:20 -0000"
-    },
-    {
-      "title": "Minha Casa, Minha Vida: governo reduz juros e amplia prazo de pagamento do Reforma Casa Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/05/minha-casa-minha-vida-governo-reduz-juros-e-amplia-prazo-de-pagamento-do-reforma-casa-brasil.ghtml",
-      "date": "Tue, 05 May 2026 23:27:28 -0000"
-    },
-    {
-      "title": "Parlamentares discutem em evento  em Bras\u00EDlia PEC que prop\u00F5e desonerar folha de pagamento ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/05/parlamentares-discutem-em-evento-em-brasilia-pec-que-propoe-desonerar-folha-de-pagamento.ghtml",
-      "date": "Tue, 05 May 2026 23:08:47 -0000"
     }
   ]
 }
