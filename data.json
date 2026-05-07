@@ -8,54 +8,66 @@
     },
     {
       "symbol": "PETR4",
-      "price": 48.66,
-      "change": -1.38,
-      "changeStr": "-1.38%"
+      "price": 47.27,
+      "change": -2.86,
+      "changeStr": "-2.86%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.39,
-      "change": -0.34,
-      "changeStr": "-0.34%"
+      "price": 81.23,
+      "change": 3.62,
+      "changeStr": "\u002B3.62%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.46,
-      "change": 0.14,
-      "changeStr": "\u002B0.14%"
+      "price": 41.78,
+      "change": -1.6,
+      "changeStr": "-1.60%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.19,
-      "change": 1.48,
-      "changeStr": "\u002B1.48%"
+      "price": 19.27,
+      "change": 0.42,
+      "changeStr": "\u002B0.42%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.92,
-      "change": 0.05,
-      "changeStr": "\u002B0.05%"
+      "price": 22.07,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 8.03,
+      "change": 0.37,
+      "changeStr": "\u002B0.37%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.65,
-      "change": 15.3,
-      "changeStr": "\u002B15.30%"
+      "price": 16.95,
+      "change": 1.8,
+      "changeStr": "\u002B1.80%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.54,
-      "change": -1.85,
-      "changeStr": "-1.85%"
+      "price": 44.94,
+      "change": 3.22,
+      "changeStr": "\u002B3.22%"
     }
   ],
   "news": [
+    {
+      "title": "Mega-Sena pode pagar R$ 36 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/07/mega-sena-pode-pagar-r-36-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+      "date": "Thu, 07 May 2026 03:01:42 -0000"
+    },
+    {
+      "title": "Lula e Trump: por que o PIX deve ser assunto central do encontro entre os presidentes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/07/lula-e-trump-por-que-o-pix-deve-ser-assunto-central-do-encontro-entre-os-presidentes.ghtml",
+      "date": "Thu, 07 May 2026 03:00:59 -0000"
+    },
     {
       "title": "Escala 6x1: novas regras para jornada de trabalho ser\u00E3o divididas em PEC e projeto de lei, diz relator",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/05/06/morre-fundador-da-cnn-ted-turner.ghtml",
       "date": "Wed, 06 May 2026 14:16:30 -0000"
-    },
-    {
-      "title": "Opera\u00E7\u00E3o da PF mira grupo suspeito de fraudar seguro-desemprego; preju\u00EDzo estimado \u00E9 de R$ 8 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/06/operacao-da-pf-suspeito-de-fraudar-seguro-desemprego.ghtml",
-      "date": "Wed, 06 May 2026 14:06:44 -0000"
-    },
-    {
-      "title": "Taxa das blusinhas: ministro da Fazenda admite que fim do imposto est\u00E1 sendo discutido",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/06/taxa-das-blusinhas-ministro-da-fazenda-diz-que-nao-abre-mao-do-programa-mas-admite-que-fim-do-imposto-esta-sendo-discutido.ghtml",
-      "date": "Wed, 06 May 2026 12:18:34 -0000"
     }
   ]
 }
