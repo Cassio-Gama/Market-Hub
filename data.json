@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 183786.44,
-      "change": -2.08,
-      "changeStr": "-2.08%"
+      "price": 182990.92,
+      "change": -2.5,
+      "changeStr": "-2.50%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.99,
-      "change": -2.71,
-      "changeStr": "-2.71%"
+      "price": 46.22,
+      "change": -2.22,
+      "changeStr": "-2.22%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.13,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 79.96,
+      "change": -1.56,
+      "changeStr": "-1.56%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.73,
-      "change": -2.51,
-      "changeStr": "-2.51%"
+      "price": 40.56,
+      "change": -2.92,
+      "changeStr": "-2.92%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.64,
-      "change": -3.27,
-      "changeStr": "-3.27%"
+      "price": 18.45,
+      "change": -4.26,
+      "changeStr": "-4.26%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.86,
-      "change": -0.95,
-      "changeStr": "-0.95%"
+      "price": 21.8,
+      "change": -1.22,
+      "changeStr": "-1.22%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.07,
-      "change": 0.5,
-      "changeStr": "\u002B0.50%"
+      "price": 7.94,
+      "change": -1.12,
+      "changeStr": "-1.12%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.46,
-      "change": -2.89,
-      "changeStr": "-2.89%"
+      "price": 16.37,
+      "change": -3.42,
+      "changeStr": "-3.42%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.48,
-      "change": -1.02,
-      "changeStr": "-1.02%"
+      "price": 44.38,
+      "change": -1.25,
+      "changeStr": "-1.25%"
     }
   ],
   "news": [
+    {
+      "title": "STF suspende julgamento sobre regras para royalties do petr\u00F3leo ap\u00F3s pedido de Dino para mais tempo de an\u00E1lise",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/07/stf-suspende-julgamento-no-stf-sobre-regras-para-royalties-apos-pedido-de-dino-para-mais-tempo-de-analise.ghtml",
+      "date": "Thu, 07 May 2026 19:17:02 -0000"
+    },
     {
       "title": "Novo leil\u00E3o da Receita tem dois PS5 por R$ 853 e carros a partir de R$ 1,9 mil; veja como participar",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/com-lula-prestes-a-encontrar-trump-alckmin-fala-em-buscar-parcerias-com-eua.ghtml",
       "date": "Thu, 07 May 2026 14:05:28 -0000"
-    },
-    {
-      "title": "Caso Master: ap\u00F3s ter detectado \u0027ind\u00EDcios de vantagens indevidas\u0027 a servidores, Banco Central publica novo plano de integridade",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/07/caso-master-apos-ter-detectado-indicios-de-vantagens-indevidas-a-ex-diretor-banco-central-publica-novo-plano-de-integridade.ghtml",
-      "date": "Thu, 07 May 2026 12:31:52 -0000"
     }
   ]
 }
