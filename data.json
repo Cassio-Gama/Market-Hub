@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 182990.92,
-      "change": -2.5,
-      "changeStr": "-2.50%"
+      "price": 183218.27,
+      "change": -2.38,
+      "changeStr": "-2.38%"
     },
     {
       "symbol": "PETR4",
@@ -14,27 +14,27 @@
     },
     {
       "symbol": "VALE3",
-      "price": 79.96,
-      "change": -1.56,
-      "changeStr": "-1.56%"
+      "price": 80.07,
+      "change": -1.43,
+      "changeStr": "-1.43%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.56,
-      "change": -2.92,
-      "changeStr": "-2.92%"
+      "price": 40.79,
+      "change": -2.37,
+      "changeStr": "-2.37%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.45,
-      "change": -4.26,
-      "changeStr": "-4.26%"
+      "price": 18.52,
+      "change": -3.89,
+      "changeStr": "-3.89%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.8,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 21.69,
+      "change": -1.72,
+      "changeStr": "-1.72%"
     },
     {
       "symbol": "MGLU3",
@@ -44,18 +44,30 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 16.37,
-      "change": -3.42,
-      "changeStr": "-3.42%"
+      "price": 16.41,
+      "change": -3.19,
+      "changeStr": "-3.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.38,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 44.31,
+      "change": -1.4,
+      "changeStr": "-1.40%"
     }
   ],
   "news": [
+    {
+      "title": "Corte de Com\u00E9rcio dos EUA se pronuncia contra tarifas globais de 10% impostas por Donald Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/07/corte-de-comercio-dos-eua-se-pronuncia-contra-tarifas-globais-de-10-impostas-por-trump.ghtml",
+      "date": "Thu, 07 May 2026 21:49:51 -0000"
+    },
+    {
+      "title": "L\u00EDder do governo diz que Senado deve votar ainda em maio projeto das terras raras, assunto entre Lula e Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/07/lider-do-governo-diz-que-senado-deve-votar-ainda-em-maio-projeto-das-terras-raras-assunto-entre-lula-e-trump.ghtml",
+      "date": "Thu, 07 May 2026 20:59:03 -0000"
+    },
     {
       "title": "STF suspende julgamento sobre regras para royalties do petr\u00F3leo ap\u00F3s pedido de Dino para mais tempo de an\u00E1lise",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/07/a-crise-da-biontech-criadora-da-1a-vacina-contra-a-covid19.ghtml",
       "date": "Thu, 07 May 2026 14:25:51 -0000"
-    },
-    {
-      "title": "Imposto de Renda 2026: faltando cerca de tr\u00EAs semanas para prazo final, 24 milh\u00F5es de pessoas ainda n\u00E3o enviaram declara\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/07/imposto-de-renda-2026-faltando-cerca-de-tres-semanas-para-prazo-final-24-milhoes-de-pessoas-ainda-nao-enviaram-declaracao.ghtml",
-      "date": "Thu, 07 May 2026 14:17:00 -0000"
-    },
-    {
-      "title": "Com Lula prestes a encontrar Trump, Alckmin fala em buscar parcerias com EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/com-lula-prestes-a-encontrar-trump-alckmin-fala-em-buscar-parcerias-com-eua.ghtml",
-      "date": "Thu, 07 May 2026 14:05:28 -0000"
     }
   ]
 }
