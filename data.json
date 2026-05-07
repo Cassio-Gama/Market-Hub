@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 184106.64,
-      "change": -1.91,
-      "changeStr": "-1.91%"
+      "price": 183810,
+      "change": -2.07,
+      "changeStr": "-2.07%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.49,
-      "change": -3.77,
-      "changeStr": "-3.77%"
+      "price": 45.85,
+      "change": -3,
+      "changeStr": "-3.00%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.42,
-      "change": -1,
-      "changeStr": "-1.00%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 41.2,
+      "price": 80.1,
       "change": -1.39,
       "changeStr": "-1.39%"
     },
     {
+      "symbol": "ITUB4",
+      "price": 40.87,
+      "change": -2.18,
+      "changeStr": "-2.18%"
+    },
+    {
       "symbol": "BBDC4",
-      "price": 18.59,
-      "change": -3.53,
-      "changeStr": "-3.53%"
+      "price": 18.66,
+      "change": -3.17,
+      "changeStr": "-3.17%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.89,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 21.82,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.1,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
+      "price": 8.08,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.61,
-      "change": -2.01,
-      "changeStr": "-2.01%"
+      "price": 16.56,
+      "change": -2.3,
+      "changeStr": "-2.30%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.52,
-      "change": -0.93,
-      "changeStr": "-0.93%"
+      "price": 44.76,
+      "change": -0.4,
+      "changeStr": "-0.40%"
     }
   ],
   "news": [
+    {
+      "title": "EUA e mais 18 pa\u00EDses da OMC fazem pacto para n\u00E3o taxar com\u00E9rcio eletr\u00F4nico; Brasil fica de fora",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/07/pacto-comercio-eletronico.ghtml",
+      "date": "Thu, 07 May 2026 16:42:38 -0000"
+    },
+    {
+      "title": "Fifa anuncia que a Panini n\u00E3o far\u00E1 mais o \u00E1lbum de figurinhas da Copa do Mundo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/07/fifa-anunciou-que-a-panini-nao-fara-mais-o-album-da-copa.ghtml",
+      "date": "Thu, 07 May 2026 15:58:02 -0000"
+    },
+    {
+      "title": "Brasil lidera investimentos chineses no mundo; veja os principais setores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/07/brasil-investimentos-chineses-2025.ghtml",
+      "date": "Thu, 07 May 2026 14:39:26 -0000"
+    },
+    {
+      "title": "Chevrolet lan\u00E7a Sonic por R$ 129.990; veja os detalhes do novo SUV",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/07/chevrolet-lanca-o-sonic-veja-equipamentos-versoes-e-preco-do-suv.ghtml",
+      "date": "Thu, 07 May 2026 14:36:55 -0000"
+    },
     {
       "title": "\nA crise da BioNtech, criadora da 1\u00AA vacina contra a covid\u201119",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/05/07/com-operacao-policia-federal-mergulha-nas-relacoes-de-politicos-com-vorcaro.ghtml",
       "date": "Thu, 07 May 2026 11:06:45 -0000"
-    },
-    {
-      "title": "Pa\u00EDses da UE concordam em banir ferramentas de IA usadas para criar imagens sexuais falsas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/07/paises-da-ue-concordam-em-banir-ferramentas-de-ia-usadas-para-criar-imagens-sexuais-falsas.ghtml",
-      "date": "Thu, 07 May 2026 10:50:28 -0000"
-    },
-    {
-      "title": "\u0027Ganhei na loteria e continuei devendo\u0027: por que limpar o nome n\u00E3o basta para tirar os brasileiros das d\u00EDvidas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/07/ganhei-na-loteria-e-continuei-devendo-por-que-limpar-o-nome-nao-basta-para-tirar-o-brasileiro-das-dividas.ghtml",
-      "date": "Thu, 07 May 2026 08:05:20 -0000"
-    },
-    {
-      "title": "EUA v\u00E3o oferecer recompensa por informa\u00E7\u00F5es contra frigor\u00EDficos investigados por pr\u00E1ticas abusivas, incluindo JBS e Marfrig",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/07/eua-oferecem-mais-de-us-1-milhao-por-informacoes-contra-frigorificos-investigados-incluindo-jbs-e-marfrig.ghtml",
-      "date": "Thu, 07 May 2026 06:00:55 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 36 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/07/mega-sena-pode-pagar-r-36-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 07 May 2026 03:01:42 -0000"
     }
   ]
 }
