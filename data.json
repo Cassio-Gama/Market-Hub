@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 183810,
-      "change": -2.07,
-      "changeStr": "-2.07%"
+      "price": 183786.44,
+      "change": -2.08,
+      "changeStr": "-2.08%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.85,
-      "change": -3,
-      "changeStr": "-3.00%"
+      "price": 45.99,
+      "change": -2.71,
+      "changeStr": "-2.71%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.1,
-      "change": -1.39,
-      "changeStr": "-1.39%"
+      "price": 80.13,
+      "change": -1.35,
+      "changeStr": "-1.35%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.87,
-      "change": -2.18,
-      "changeStr": "-2.18%"
+      "price": 40.73,
+      "change": -2.51,
+      "changeStr": "-2.51%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.66,
-      "change": -3.17,
-      "changeStr": "-3.17%"
+      "price": 18.64,
+      "change": -3.27,
+      "changeStr": "-3.27%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.82,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 21.86,
+      "change": -0.95,
+      "changeStr": "-0.95%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.08,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 8.07,
+      "change": 0.5,
+      "changeStr": "\u002B0.50%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.56,
-      "change": -2.3,
-      "changeStr": "-2.30%"
+      "price": 16.46,
+      "change": -2.89,
+      "changeStr": "-2.89%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.76,
-      "change": -0.4,
-      "changeStr": "-0.40%"
+      "price": 44.48,
+      "change": -1.02,
+      "changeStr": "-1.02%"
     }
   ],
   "news": [
+    {
+      "title": "Novo leil\u00E3o da Receita tem dois PS5 por R$ 853 e carros a partir de R$ 1,9 mil; veja como participar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/07/novo-leilao-da-receita.ghtml",
+      "date": "Thu, 07 May 2026 18:24:43 -0000"
+    },
+    {
+      "title": "Balan\u00E7a comercial tem super\u00E1vit de US$ 10,5 bilh\u00F5es em abril, novo recorde para o m\u00EAs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/07/balanca-comercial-tem-superavit-de-us-105-bilhoes-em-abril-novo-recorde-para-o-mes.ghtml",
+      "date": "Thu, 07 May 2026 18:03:08 -0000"
+    },
     {
       "title": "EUA e mais 18 pa\u00EDses da OMC fazem pacto para n\u00E3o taxar com\u00E9rcio eletr\u00F4nico; Brasil fica de fora",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/07/caso-master-apos-ter-detectado-indicios-de-vantagens-indevidas-a-ex-diretor-banco-central-publica-novo-plano-de-integridade.ghtml",
       "date": "Thu, 07 May 2026 12:31:52 -0000"
-    },
-    {
-      "title": "D\u00F3lar e Ibovespa caem com petr\u00F3leo em baixa e encontro Lula-Trump no radar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/07/dolar-ibovespa.ghtml",
-      "date": "Thu, 07 May 2026 12:00:11 -0000"
-    },
-    {
-      "title": "Com opera\u00E7\u00E3o, Pol\u00EDcia Federal mergulha nas rela\u00E7\u00F5es de pol\u00EDticos com Vorcaro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/05/07/com-operacao-policia-federal-mergulha-nas-relacoes-de-politicos-com-vorcaro.ghtml",
-      "date": "Thu, 07 May 2026 11:06:45 -0000"
     }
   ]
 }
