@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187690.86,
-      "change": 0.5,
-      "changeStr": "\u002B0.50%"
+      "price": 184106.64,
+      "change": -1.91,
+      "changeStr": "-1.91%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.27,
-      "change": -2.86,
-      "changeStr": "-2.86%"
+      "price": 45.49,
+      "change": -3.77,
+      "changeStr": "-3.77%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.23,
-      "change": 3.62,
-      "changeStr": "\u002B3.62%"
+      "price": 80.42,
+      "change": -1,
+      "changeStr": "-1.00%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.78,
-      "change": -1.6,
-      "changeStr": "-1.60%"
+      "price": 41.2,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.27,
-      "change": 0.42,
-      "changeStr": "\u002B0.42%"
+      "price": 18.59,
+      "change": -3.53,
+      "changeStr": "-3.53%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.07,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 21.89,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.03,
-      "change": 0.37,
-      "changeStr": "\u002B0.37%"
+      "price": 8.1,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.95,
-      "change": 1.8,
-      "changeStr": "\u002B1.80%"
+      "price": 16.61,
+      "change": -2.01,
+      "changeStr": "-2.01%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.94,
-      "change": 3.22,
-      "changeStr": "\u002B3.22%"
+      "price": 44.52,
+      "change": -0.93,
+      "changeStr": "-0.93%"
     }
   ],
   "news": [
+    {
+      "title": "\nA crise da BioNtech, criadora da 1\u00AA vacina contra a covid\u201119",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/07/a-crise-da-biontech-criadora-da-1a-vacina-contra-a-covid19.ghtml",
+      "date": "Thu, 07 May 2026 14:25:51 -0000"
+    },
+    {
+      "title": "Imposto de Renda 2026: faltando cerca de tr\u00EAs semanas para prazo final, 24 milh\u00F5es de pessoas ainda n\u00E3o enviaram declara\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/07/imposto-de-renda-2026-faltando-cerca-de-tres-semanas-para-prazo-final-24-milhoes-de-pessoas-ainda-nao-enviaram-declaracao.ghtml",
+      "date": "Thu, 07 May 2026 14:17:00 -0000"
+    },
+    {
+      "title": "Com Lula prestes a encontrar Trump, Alckmin fala em buscar parcerias com EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/05/07/com-lula-prestes-a-encontrar-trump-alckmin-fala-em-buscar-parcerias-com-eua.ghtml",
+      "date": "Thu, 07 May 2026 14:05:28 -0000"
+    },
+    {
+      "title": "Caso Master: ap\u00F3s ter detectado \u0027ind\u00EDcios de vantagens indevidas\u0027 a servidores, Banco Central publica novo plano de integridade",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/07/caso-master-apos-ter-detectado-indicios-de-vantagens-indevidas-a-ex-diretor-banco-central-publica-novo-plano-de-integridade.ghtml",
+      "date": "Thu, 07 May 2026 12:31:52 -0000"
+    },
+    {
+      "title": "D\u00F3lar e Ibovespa caem com petr\u00F3leo em baixa e encontro Lula-Trump no radar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/07/dolar-ibovespa.ghtml",
+      "date": "Thu, 07 May 2026 12:00:11 -0000"
+    },
     {
       "title": "Com opera\u00E7\u00E3o, Pol\u00EDcia Federal mergulha nas rela\u00E7\u00F5es de pol\u00EDticos com Vorcaro",
       "source": "G1 Economia",
@@ -69,13 +99,13 @@
       "date": "Thu, 07 May 2026 10:50:28 -0000"
     },
     {
-      "title": "\u0027Ganhei na loteria e continuei devendo\u0027: por que limpar o nome n\u00E3o basta para tirar o brasileiro das d\u00EDvidas",
+      "title": "\u0027Ganhei na loteria e continuei devendo\u0027: por que limpar o nome n\u00E3o basta para tirar os brasileiros das d\u00EDvidas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/07/ganhei-na-loteria-e-continuei-devendo-por-que-limpar-o-nome-nao-basta-para-tirar-o-brasileiro-das-dividas.ghtml",
       "date": "Thu, 07 May 2026 08:05:20 -0000"
     },
     {
-      "title": "EUA oferecem mais de US$ 1 milh\u00E3o por informa\u00E7\u00F5es contra frigor\u00EDficos investigados, incluindo JBS e Marfrig",
+      "title": "EUA v\u00E3o oferecer recompensa por informa\u00E7\u00F5es contra frigor\u00EDficos investigados por pr\u00E1ticas abusivas, incluindo JBS e Marfrig",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/07/eua-oferecem-mais-de-us-1-milhao-por-informacoes-contra-frigorificos-investigados-incluindo-jbs-e-marfrig.ghtml",
       "date": "Thu, 07 May 2026 06:00:55 -0000"
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/07/mega-sena-pode-pagar-r-36-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
       "date": "Thu, 07 May 2026 03:01:42 -0000"
-    },
-    {
-      "title": "Lula e Trump: por que o PIX deve ser assunto central do encontro entre os presidentes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/07/lula-e-trump-por-que-o-pix-deve-ser-assunto-central-do-encontro-entre-os-presidentes.ghtml",
-      "date": "Thu, 07 May 2026 03:00:59 -0000"
-    },
-    {
-      "title": "Escala 6x1: novas regras para jornada de trabalho ser\u00E3o divididas em PEC e projeto de lei, diz relator",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/06/escala-6x1-relator-diz-que-novas-regras-para-jornada-de-trabalho-serao-divididas-em-uma-pec-e-um-projeto-de-lei.ghtml",
-      "date": "Wed, 06 May 2026 23:26:41 -0000"
-    },
-    {
-      "title": "Bradesco tem lucro de R$ 6,8 bilh\u00F5es no 1\u00BA trimestre, alta de 16% em um ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/06/bradesco-tem-lucro-de-r-68-bilhoes-no-1o-trimestre.ghtml",
-      "date": "Wed, 06 May 2026 23:26:18 -0000"
-    },
-    {
-      "title": "Tesla anuncia recall de quase 219 mil carros por falha na c\u00E2mera de r\u00E9; veja modelos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/06/tesla-anuncia-recall-de-quase-200-mil-veiculos-por-falha-na-camera-de-re-veja-modelos.ghtml",
-      "date": "Wed, 06 May 2026 22:16:42 -0000"
-    },
-    {
-      "title": "Desenrola cria cultura que ignora raz\u00E3o do endividamento recorde, diz pesquisador do \u0027Brasil dos boletos\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/06/desenrola-cria-cultura-que-ignora-razao-do-endividamento-recorde-diz-pesquisador-do-brasil-dos-boletos.ghtml",
-      "date": "Wed, 06 May 2026 17:29:39 -0000"
     }
   ]
 }
