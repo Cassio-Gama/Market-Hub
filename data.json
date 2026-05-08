@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 184741.08,
+      "price": 184518.9,
+      "change": 0.71,
+      "changeStr": "\u002B0.71%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 45.86,
+      "change": -0.78,
+      "changeStr": "-0.78%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 81.58,
+      "change": 1.89,
+      "changeStr": "\u002B1.89%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 41.43,
+      "change": 1.57,
+      "changeStr": "\u002B1.57%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 18.54,
+      "change": 0.11,
+      "changeStr": "\u002B0.11%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 21.87,
       "change": 0.83,
       "changeStr": "\u002B0.83%"
     },
     {
-      "symbol": "PETR4",
-      "price": 46.01,
-      "change": -0.45,
-      "changeStr": "-0.45%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 80.94,
-      "change": 1.09,
-      "changeStr": "\u002B1.09%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 41.47,
-      "change": 1.67,
-      "changeStr": "\u002B1.67%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 18.57,
-      "change": 0.27,
-      "changeStr": "\u002B0.27%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 22.01,
-      "change": 1.48,
-      "changeStr": "\u002B1.48%"
-    },
-    {
       "symbol": "MGLU3",
-      "price": 7.3,
-      "change": -8.06,
-      "changeStr": "-8.06%"
+      "price": 7.31,
+      "change": -7.93,
+      "changeStr": "-7.93%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.27,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 16.31,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.39,
-      "change": 4.69,
-      "changeStr": "\u002B4.69%"
+      "price": 45.99,
+      "change": 3.79,
+      "changeStr": "\u002B3.79%"
     }
   ],
   "news": [
+    {
+      "title": "Governo Trump recorre ap\u00F3s Justi\u00E7a dos EUA considerar ilegal tarifa global de 10%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/08/governo-trump-tarifas-comerciais.ghtml",
+      "date": "Fri, 08 May 2026 17:58:19 -0000"
+    },
     {
       "title": "Ministro do TCU libera novos consignados do INSS at\u00E9 an\u00E1lise final de recurso do governo",
       "source": "G1 Economia",
@@ -99,7 +105,7 @@
       "date": "Fri, 08 May 2026 14:04:40 -0000"
     },
     {
-      "title": "Pre\u00E7o global dos alimentos dispara com guerra no Oriente M\u00E9dio",
+      "title": "Pre\u00E7o global dealimentos dispara e chega ao maior valor em 3 anos com guerra no Ir\u00E3; veja o que mais subiu",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/05/08/preco-global-dos-alimentos-dispara-com-guerra-no-oriente-medio.ghtml",
       "date": "Fri, 08 May 2026 13:56:37 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/08/governo-quer-aprovar-aumento-da-mistura-do-biodiesel-no-diesel-ate-o-fim-do-ano-testes-comecam-neste-mes.ghtml",
       "date": "Fri, 08 May 2026 13:50:56 -0000"
-    },
-    {
-      "title": "Dona da Fiat e marca chinesa Leapmotor v\u00E3o produzir carros juntos na Europa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/08/dona-da-fiat-e-marca-chinesa-leapmotor-vao-produzir-carros-juntos-na-europa.ghtml",
-      "date": "Fri, 08 May 2026 13:41:46 -0000"
     }
   ]
 }
