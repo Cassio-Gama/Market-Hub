@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 184196.2,
-      "change": 0.53,
-      "changeStr": "\u002B0.53%"
+      "price": 184108.3,
+      "change": 0.49,
+      "changeStr": "\u002B0.49%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.88,
-      "change": -0.74,
-      "changeStr": "-0.74%"
+      "price": 45.67,
+      "change": -1.19,
+      "changeStr": "-1.19%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.56,
-      "change": 1.86,
-      "changeStr": "\u002B1.86%"
+      "price": 80.8,
+      "change": 0.91,
+      "changeStr": "\u002B0.91%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.24,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
+      "price": 41.26,
+      "change": 1.15,
+      "changeStr": "\u002B1.15%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.56,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 18.59,
+      "change": 0.38,
+      "changeStr": "\u002B0.38%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.81,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 21.8,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.18,
-      "change": -9.57,
-      "changeStr": "-9.57%"
+      "price": 7.15,
+      "change": -9.95,
+      "changeStr": "-9.95%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.28,
-      "change": -0.79,
-      "changeStr": "-0.79%"
+      "price": 16.32,
+      "change": -0.55,
+      "changeStr": "-0.55%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.66,
-      "change": 3.05,
-      "changeStr": "\u002B3.05%"
+      "price": 45.52,
+      "change": 2.73,
+      "changeStr": "\u002B2.73%"
     }
   ],
   "news": [
+    {
+      "title": "Fintech \u00E9 acusada de desaparecer com ao menos R$ 335 milh\u00F5es e omitir informa\u00E7\u00F5es; pol\u00EDcia registra ocorr\u00EAncias no DF",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/05/08/fintech-e-acusada-de-desaparecer-com-ao-menos-r-335-milhoes-e-omitir-informacoes-policia-registra-ocorrencias-no-df.ghtml",
+      "date": "Fri, 08 May 2026 21:12:09 -0000"
+    },
     {
       "title": "Governo Trump recorre ap\u00F3s Justi\u00E7a dos EUA considerar ilegal tarifa global de 10%",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/05/08/preco-global-dos-alimentos-dispara-com-guerra-no-oriente-medio.ghtml",
       "date": "Fri, 08 May 2026 13:56:37 -0000"
-    },
-    {
-      "title": "Governo quer aprovar aumento da mistura do biodiesel no diesel at\u00E9 o fim do ano; testes come\u00E7am neste m\u00EAs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/08/governo-quer-aprovar-aumento-da-mistura-do-biodiesel-no-diesel-ate-o-fim-do-ano-testes-comecam-neste-mes.ghtml",
-      "date": "Fri, 08 May 2026 13:50:56 -0000"
     }
   ]
 }
