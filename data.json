@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185115.69,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
+      "price": 184741.08,
+      "change": 0.83,
+      "changeStr": "\u002B0.83%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.14,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 46.01,
+      "change": -0.45,
+      "changeStr": "-0.45%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.98,
-      "change": 1.14,
-      "changeStr": "\u002B1.14%"
+      "price": 80.94,
+      "change": 1.09,
+      "changeStr": "\u002B1.09%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.4,
-      "change": 1.5,
-      "changeStr": "\u002B1.50%"
+      "price": 41.47,
+      "change": 1.67,
+      "changeStr": "\u002B1.67%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.7,
-      "change": 0.97,
-      "changeStr": "\u002B0.97%"
+      "price": 18.57,
+      "change": 0.27,
+      "changeStr": "\u002B0.27%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22,
-      "change": 1.43,
-      "changeStr": "\u002B1.43%"
+      "price": 22.01,
+      "change": 1.48,
+      "changeStr": "\u002B1.48%"
     },
     {
       "symbol": "MGLU3",
@@ -44,20 +44,44 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 16.51,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 16.27,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.18,
-      "change": 4.22,
-      "changeStr": "\u002B4.22%"
+      "price": 46.39,
+      "change": 4.69,
+      "changeStr": "\u002B4.69%"
     }
   ],
   "news": [
     {
-      "title": "Mega-Sena 30 anos: concurso especial pode pagar R$ 150 milh\u00F5es e pr\u00EAmio n\u00E3o ir\u00E1 acumular",
+      "title": "Ministro do TCU libera novos consignados do INSS at\u00E9 an\u00E1lise final de recurso do governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/08/tcu-libera-novos-consignados-do-inss-ate-analise-final-de-recurso-do-governo.ghtml",
+      "date": "Fri, 08 May 2026 15:44:20 -0000"
+    },
+    {
+      "title": "Influenciadora em \u00E9tica de IA tem redes sociais derrubadas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/08/influenciadora-em-etica-de-ia-tem-redes-sociais-derrubadas.ghtml",
+      "date": "Fri, 08 May 2026 15:05:12 -0000"
+    },
+    {
+      "title": "Produ\u00E7\u00E3o de ve\u00EDculos no Brasil cai 9,5% em abril; exporta\u00E7\u00F5es ainda sentem efeitos da Argentina",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/08/producao-e-exportacao-de-veiculos-no-brasil-em-abril-de-2026.ghtml",
+      "date": "Fri, 08 May 2026 15:04:23 -0000"
+    },
+    {
+      "title": "Governo renova concess\u00F5es de distribui\u00E7\u00E3o de energia em 13 estados; Enel fica de fora",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/08/governo-renova-concessoes-de-distribuicao-de-energia-em-13-estados-enel-fica-de-fora.ghtml",
+      "date": "Fri, 08 May 2026 15:02:33 -0000"
+    },
+    {
+      "title": "Mega-Sena 30 anos: concurso especial pode pagar R$ 150 milh\u00F5es e pr\u00EAmio n\u00E3o ir\u00E1 acumular; g1 transmite ao vivo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/noticia/2026/05/08/mega-sena-trinta-anos-pode-pagar-r-150-milhoes-e-premio-nao-ira-acumular.ghtml",
       "date": "Fri, 08 May 2026 14:29:13 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/05/08/dona-da-fiat-e-marca-chinesa-leapmotor-vao-produzir-carros-juntos-na-europa.ghtml",
       "date": "Fri, 08 May 2026 13:41:46 -0000"
-    },
-    {
-      "title": "Bolsa Fam\u00EDlia, BPC e mais: fam\u00EDlias que recebem de programas sociais t\u00EAm renda per capita at\u00E9 70% menor, mostra IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/08/bolsa-familia-bpc-e-mais-familias-que-recebem-de-programas-sociais-tem-renda-per-capita-ate-70percent-menor-mostra-ibge.ghtml",
-      "date": "Fri, 08 May 2026 13:00:27 -0000"
-    },
-    {
-      "title": "Voc\u00EA est\u00E1 entre os mais ricos do Brasil? Veja quanto \u00E9 preciso ganhar para entrar no topo da renda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/08/veja-quanto-e-preciso-ganhar-para-entrar-no-topo-da-renda.ghtml",
-      "date": "Fri, 08 May 2026 13:00:16 -0000"
-    },
-    {
-      "title": "Trabalho eleva renda do brasileiro e rendimento bate recorde de R$ 3.367 em 2025",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/08/rendimento-mensal-bate-recorde-e-fica-em-r-3367-em-2025.ghtml",
-      "date": "Fri, 08 May 2026 13:00:11 -0000"
-    },
-    {
-      "title": "Pur\u00EA de feij\u00E3o-preto servido a Lula e Trump intriga brasileiros, mas \u00E9 tradicional na Am\u00E9rica Central \u2013 e tem um primo mineiro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/08/pure-de-feijao-preto-serv-ido-a-lula-e-trump-intriga-brasileiros-mas-e-tradicional-na-america-central-e-tem-um-primo-mineiro.ghtml",
-      "date": "Fri, 08 May 2026 12:54:09 -0000"
     }
   ]
 }
