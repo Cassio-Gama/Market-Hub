@@ -14,9 +14,9 @@
     },
     {
       "symbol": "VALE3",
-      "price": 80.8,
-      "change": 0.91,
-      "changeStr": "\u002B0.91%"
+      "price": 81.49,
+      "change": 1.77,
+      "changeStr": "\u002B1.77%"
     },
     {
       "symbol": "ITUB4",
@@ -56,6 +56,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Mega-Sena pode pagar R$ 45 milh\u00F5es neste s\u00E1bado; g1 transmite ao vivo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/09/mega-sena-pode-pagar-r-45-milhoes-neste-sabado-g1-transmite-ao-vivo.ghtml",
+      "date": "Sat, 09 May 2026 03:01:24 -0000"
+    },
+    {
+      "title": "Mais cr\u00E9dito, renegocia\u00E7\u00E3o de d\u00EDvidas e prazo ampliado: como funciona o Desenrola 2.0 para empresas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/05/09/mais-credito-renegociacao-de-dividas-e-prazo-ampliado-como-funciona-o-desenrola-20-para-empresas.ghtml",
+      "date": "Sat, 09 May 2026 03:01:13 -0000"
+    },
     {
       "title": "Ministro diz que grupo de trabalho com os Estados Unidos para evitar novas tarifas j\u00E1 iniciou tratativas",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/noticia/2026/05/08/mega-sena-trinta-anos-pode-pagar-r-150-milhoes-e-premio-nao-ira-acumular.ghtml",
       "date": "Fri, 08 May 2026 14:29:13 -0000"
-    },
-    {
-      "title": "Como criar galinhas poedeiras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/05/08/como-criar-galinhas-poedeira.ghtml",
-      "date": "Fri, 08 May 2026 14:09:45 -0000"
-    },
-    {
-      "title": "Privacidade do Instagram desligada: o que isso significa para as suas DMs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/08/privacidade-do-instagram-desligada-o-que-isso-significa-para-as-suas-dms.ghtml",
-      "date": "Fri, 08 May 2026 14:04:40 -0000"
     }
   ]
 }
