@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 184108.3,
-      "change": 0.49,
-      "changeStr": "\u002B0.49%"
+      "price": 182377.31,
+      "change": -0.94,
+      "changeStr": "-0.94%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.67,
-      "change": -1.19,
-      "changeStr": "-1.19%"
+      "price": 45.91,
+      "change": 0.53,
+      "changeStr": "\u002B0.53%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.49,
-      "change": 1.77,
-      "changeStr": "\u002B1.77%"
+      "price": 83.78,
+      "change": 2.81,
+      "changeStr": "\u002B2.81%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.26,
-      "change": 1.15,
-      "changeStr": "\u002B1.15%"
+      "price": 40.2,
+      "change": -2.57,
+      "changeStr": "-2.57%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.59,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 18.16,
+      "change": -2.31,
+      "changeStr": "-2.31%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.8,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 7.15,
-      "change": -9.95,
-      "changeStr": "-9.95%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 16.32,
+      "price": 21.68,
       "change": -0.55,
       "changeStr": "-0.55%"
     },
     {
+      "symbol": "MGLU3",
+      "price": 7.08,
+      "change": -0.98,
+      "changeStr": "-0.98%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 16.27,
+      "change": -0.31,
+      "changeStr": "-0.31%"
+    },
+    {
       "symbol": "WEGE3",
-      "price": 45.52,
-      "change": 2.73,
-      "changeStr": "\u002B2.73%"
+      "price": 44.5,
+      "change": -2.24,
+      "changeStr": "-2.24%"
     }
   ],
   "news": [
     {
-      "title": "Shein acusa Temu de violar direitos autorais em \u0027escala industrial\u0027 no Reino Unido",
+      "title": "Elon Musk e Tim Cook devem se juntar a Trump na C\u00FApula com Xi, na China, diz ag\u00EAncia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/11/shein-acusa-temu-de-violar-direitos-autorais-em-escala-industrial-no-reino-unido.ghtml",
-      "date": "Mon, 11 May 2026 12:28:01 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/11/elon-musk-e-tim-cook-devem-se-juntar-a-trump-na-cupula-com-xi-na-china-diz-agencia.ghtml",
+      "date": "Mon, 11 May 2026 15:31:19 -0000"
     },
     {
-      "title": "Taxa das blusinhas: arrecada\u00E7\u00E3o \nsobe 25% e bate recorde; governo discute acabar com imposto",
+      "title": "Vendas de carros na China caem pelo s\u00E9timo m\u00EAs seguido; marcas chinesas buscam novos mercados",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/11/taxa-das-blusinhas-arrecadacao-federal-sobe-25percent-ate-abril-e-bate-novo-recorde-governo-discute-acabar-com-imposto.ghtml",
-      "date": "Mon, 11 May 2026 12:20:53 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/05/11/vendas-de-carros-na-china-caem-pelo-setimo-mes-em-abril.ghtml",
+      "date": "Mon, 11 May 2026 14:49:07 -0000"
     },
     {
-      "title": "D\u00F3lar inicia o dia a R$ 4,89 com alta do petr\u00F3leo e revis\u00E3o da infla\u00E7\u00E3o no Focus",
+      "title": "Ex-marido de Shakira, Piqu\u00E9 \u00E9 multado em 200 mil euros na Espanha por uso de informa\u00E7\u00E3o privilegiada",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/11/dolar-ibovespa.ghtml",
-      "date": "Mon, 11 May 2026 12:00:18 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/11/pique-multa-espanha-informacao-privilegiada.ghtml",
+      "date": "Mon, 11 May 2026 14:35:58 -0000"
     },
     {
-      "title": "O barista \u00E9 humano, mas um agente de IA comanda caf\u00E9 experimental na Su\u00E9cia",
+      "title": "Novo Tiguan: tudo que voc\u00EA precisa saber sobre a terceira gera\u00E7\u00E3o do SUV mais vendido da VW no mundo ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/05/11/o-barista-e-humano-mas-um-agente-de-ia-comanda-cafe-experimental-na-suecia.ghtml",
-      "date": "Mon, 11 May 2026 11:29:47 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/agro-de-gente-pra-gente/especial-publicitario/volkswagen/noticia/2026/05/11/novo-tiguan-tudo-que-voce-precisa-saber-sobre-a-terceira-geracao-do-suv-mais-vendido-da-vw-no-mundo.ghtml",
+      "date": "Mon, 11 May 2026 14:30:10 -0000"
     },
     {
-      "title": "Na 9\u00AA alta seguida, mercado financeiro eleva estimativa de infla\u00E7\u00E3o para 4,91% em 2026",
+      "title": "Tesouro Reserva: veja as vantagens do novo t\u00EDtulo e o que considerar antes de investir",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/11/na-9a-alta-seguida-mercado-financeiro-eleva-estimativa-de-inflacao-para-491percent-em-2026.ghtml",
-      "date": "Mon, 11 May 2026 11:29:12 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/11/tesouro-reserva-vantagens-do-novo-titulo-e-o-que-considerar-antes-de-investir.ghtml",
+      "date": "Mon, 11 May 2026 14:27:54 -0000"
     },
     {
-      "title": "Pela primeira vez, Embraer fecha acordo com fornecedora da \u00CDndia e amplia atua\u00E7\u00E3o no pa\u00EDs asi\u00E1tico",
+      "title": "Brasil atinge metade da cota de carne bovina para a China e deve enfrentar taxa\u00E7\u00E3o maior em breve",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/05/11/pela-primeira-vez-embraer-fecha-acordo-com-fornecedora-da-india-e-amplia-atuacao-no-pais-asiatico.ghtml",
-      "date": "Mon, 11 May 2026 11:06:05 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/11/taxa-china-carne-bovina-do-brasil.ghtml",
+      "date": "Mon, 11 May 2026 13:27:15 -0000"
     },
     {
-      "title": "Petr\u00F3leo sobe com impasse nas negocia\u00E7\u00F5es entre EUA e Ir\u00E3 e tens\u00E3o no Estreito de Ormuz",
+      "title": "Bloqueio de fertilizantes em Ormuz pode desencadear \u0027grande crise humanit\u00E1ria\u0027, diz funcion\u00E1rio da ONU",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/11/petroleo-trump-estreito-de-ormuz-proposta.ghtml",
-      "date": "Mon, 11 May 2026 10:39:35 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/11/bloqueio-de-fertilizantes-em-ormuz-pode-desencadear-grande-crise-humanitaria-diz-funcionario-da-onu.ghtml",
+      "date": "Mon, 11 May 2026 13:23:16 -0000"
     },
     {
-      "title": "Sementes germinadas potencializam nutrientes e podem deixar at\u00E9 o arroz com feij\u00E3o ainda mais saud\u00E1veis, aponta pesquisa",
+      "title": "Exclusivo: g1 testou o Chevrolet Sonic; SUV custa R$ 129.990 e mostra for\u00E7a para brigar com Volkswagen Nivus",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/globo-reporter/noticia/2026/05/11/sementes-germinadas-potencializam-nutrientes-e-podem-deixar-ate-o-arroz-com-feijao-ainda-mais-saudaveis-aponta-pesquisa.ghtml",
-      "date": "Mon, 11 May 2026 10:29:48 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/05/11/primeiro-teste-drive-do-chevrolet-sonic.ghtml",
+      "date": "Mon, 11 May 2026 12:52:44 -0000"
     },
     {
-      "title": "Como a guerra no Ir\u00E3 est\u00E1 enriquecendo o mais novo petroestado do mundo, vizinho do Brasil",
+      "title": "Enjoei decide descontinuar plataforma Elo7",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/11/como-a-guerra-no-ira-esta-enriquecendo-o-mais-novo-petroestado-do-mundo-vizinho-do-brasil.ghtml",
-      "date": "Mon, 11 May 2026 09:56:14 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/11/enjoei-decide-descontinuar-plataforma-elo7.ghtml",
+      "date": "Mon, 11 May 2026 12:43:52 -0000"
     },
     {
-      "title": "Sua d\u00EDvida \u00E9 impag\u00E1vel? Talvez n\u00E3o... Veja estrat\u00E9gias  para reduzir juros e se recuperar",
+      "title": "CEO da Microsoft vai depor sobre seu papel na funda\u00E7\u00E3o da OpenAI",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/05/11/sua-divida-e-impagavel-talvez-nao-veja-estrategias-para-reduzir-juros-e-se-recuperar.ghtml",
-      "date": "Mon, 11 May 2026 07:02:07 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/11/ceo-da-microsoft-vai-depor-sobre-seu-papel-na-fundacao-da-openai.ghtml",
+      "date": "Mon, 11 May 2026 12:38:51 -0000"
     }
   ]
 }
