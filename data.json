@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 182285.2,
-      "change": -0.99,
-      "changeStr": "-0.99%"
+      "price": 181908.88,
+      "change": -1.19,
+      "changeStr": "-1.19%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.32,
-      "change": 1.42,
-      "changeStr": "\u002B1.42%"
+      "price": 46.43,
+      "change": 1.66,
+      "changeStr": "\u002B1.66%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.81,
-      "change": 2.85,
-      "changeStr": "\u002B2.85%"
+      "price": 83.45,
+      "change": 2.41,
+      "changeStr": "\u002B2.41%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.38,
-      "change": -2.13,
-      "changeStr": "-2.13%"
+      "price": 40.33,
+      "change": -2.25,
+      "changeStr": "-2.25%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.13,
-      "change": -2.47,
-      "changeStr": "-2.47%"
+      "price": 18.09,
+      "change": -2.69,
+      "changeStr": "-2.69%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.61,
-      "change": -0.87,
-      "changeStr": "-0.87%"
+      "price": 21.54,
+      "change": -1.19,
+      "changeStr": "-1.19%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7,
-      "change": -2.1,
-      "changeStr": "-2.10%"
+      "price": 6.93,
+      "change": -3.08,
+      "changeStr": "-3.08%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.23,
-      "change": -0.55,
-      "changeStr": "-0.55%"
+      "price": 16.25,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.18,
-      "change": -2.94,
-      "changeStr": "-2.94%"
+      "price": 44.16,
+      "change": -2.99,
+      "changeStr": "-2.99%"
     }
   ],
   "news": [
+    {
+      "title": "Nova CNH: Brasil tem 4,8 milh\u00F5es de pedidos de primeira carteira at\u00E9 abril, quatro vezes mais que 2025",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/11/nova-cnh-brasil-tem-48-milhoes-de-pedidos-de-primeira-carteira-ate-abril-quatro-vezes-mais-que-2025.ghtml",
+      "date": "Mon, 11 May 2026 19:53:19 -0000"
+    },
     {
       "title": "Trump assinar\u00E1 medidas para ampliar importa\u00E7\u00F5es de carne bovina, diz ag\u00EAncia",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/05/11/vendas-de-carros-na-china-caem-pelo-setimo-mes-em-abril.ghtml",
       "date": "Mon, 11 May 2026 14:49:07 -0000"
-    },
-    {
-      "title": "Ex-marido de Shakira, Piqu\u00E9 \u00E9 multado em 200 mil euros na Espanha por uso de informa\u00E7\u00E3o privilegiada",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/11/pique-multa-espanha-informacao-privilegiada.ghtml",
-      "date": "Mon, 11 May 2026 14:35:58 -0000"
     }
   ]
 }
