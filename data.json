@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 182377.31,
-      "change": -0.94,
-      "changeStr": "-0.94%"
+      "price": 182285.2,
+      "change": -0.99,
+      "changeStr": "-0.99%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.91,
-      "change": 0.53,
-      "changeStr": "\u002B0.53%"
+      "price": 46.32,
+      "change": 1.42,
+      "changeStr": "\u002B1.42%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.78,
-      "change": 2.81,
-      "changeStr": "\u002B2.81%"
+      "price": 83.81,
+      "change": 2.85,
+      "changeStr": "\u002B2.85%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.2,
-      "change": -2.57,
-      "changeStr": "-2.57%"
+      "price": 40.38,
+      "change": -2.13,
+      "changeStr": "-2.13%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.16,
-      "change": -2.31,
-      "changeStr": "-2.31%"
+      "price": 18.13,
+      "change": -2.47,
+      "changeStr": "-2.47%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.68,
+      "price": 21.61,
+      "change": -0.87,
+      "changeStr": "-0.87%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 7,
+      "change": -2.1,
+      "changeStr": "-2.10%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 16.23,
       "change": -0.55,
       "changeStr": "-0.55%"
     },
     {
-      "symbol": "MGLU3",
-      "price": 7.08,
-      "change": -0.98,
-      "changeStr": "-0.98%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 16.27,
-      "change": -0.31,
-      "changeStr": "-0.31%"
-    },
-    {
       "symbol": "WEGE3",
-      "price": 44.5,
-      "change": -2.24,
-      "changeStr": "-2.24%"
+      "price": 44.18,
+      "change": -2.94,
+      "changeStr": "-2.94%"
     }
   ],
   "news": [
+    {
+      "title": "Trump assinar\u00E1 medidas para ampliar importa\u00E7\u00F5es de carne bovina, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/11/trump-carne-bovina.ghtml",
+      "date": "Mon, 11 May 2026 18:30:59 -0000"
+    },
+    {
+      "title": "OpenAI \u00E9 processada ap\u00F3s ChatGPT ser acusado de orientar ataque nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/11/openai-e-processada-apos-chatgpt-ser-acusado-de-orientar-ataque-nos-eua.ghtml",
+      "date": "Mon, 11 May 2026 17:19:05 -0000"
+    },
+    {
+      "title": "Ministro da Fazenda diz que reavaliar constantemente os pre\u00E7os de combust\u00EDveis \u00E9 tarefa da Petrobras, n\u00E3o do governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/11/durigan-admite-necessidade-de-a-petrobras-ir-reavaliando-precos-de-combustiveis-e-pede-aprovacao-de-projeto-enviado-pelo-governo.ghtml",
+      "date": "Mon, 11 May 2026 17:14:31 -0000"
+    },
+    {
+      "title": "Lula sanciona lei que endurece regras para a fabrica\u00E7\u00E3o de chocolate; veja o que muda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/11/lula-sanciona-lei-que-muda-a-receita-para-a-fabricacao-de-chocolate-confira-as-novas-regras.ghtml",
+      "date": "Mon, 11 May 2026 17:04:40 -0000"
+    },
+    {
+      "title": "Desenrola 2.0 tem perto de R$ 1 bilh\u00E3o em d\u00EDvidas renegociadas, diz ministro da Fazenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/11/desenrola-20-tem-perto-de-r-1-bilhao-em-dividas-renegociadas-em-100-mil-contratos-diz-ministro-da-fazenda.ghtml",
+      "date": "Mon, 11 May 2026 17:01:23 -0000"
+    },
+    {
+      "title": "Trump quer suspender imposto federal sobre gasolina nos EUA para conter pre\u00E7os",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/11/trump-imposto-federal-sobre-gasolina-nos-eua.ghtml",
+      "date": "Mon, 11 May 2026 16:54:11 -0000"
+    },
+    {
+      "title": "OpenAI investe US$ 4 bilh\u00F5es em nova empresa para impulsionar IA corporativa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/11/openai-investe-us-4-bilhoes-em-nova-empresa-para-impulsionar-ia-corporativa.ghtml",
+      "date": "Mon, 11 May 2026 16:09:50 -0000"
+    },
     {
       "title": "Elon Musk e Tim Cook devem se juntar a Trump na C\u00FApula com Xi, na China, diz ag\u00EAncia",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/11/pique-multa-espanha-informacao-privilegiada.ghtml",
       "date": "Mon, 11 May 2026 14:35:58 -0000"
-    },
-    {
-      "title": "Novo Tiguan: tudo que voc\u00EA precisa saber sobre a terceira gera\u00E7\u00E3o do SUV mais vendido da VW no mundo ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/agro-de-gente-pra-gente/especial-publicitario/volkswagen/noticia/2026/05/11/novo-tiguan-tudo-que-voce-precisa-saber-sobre-a-terceira-geracao-do-suv-mais-vendido-da-vw-no-mundo.ghtml",
-      "date": "Mon, 11 May 2026 14:30:10 -0000"
-    },
-    {
-      "title": "Tesouro Reserva: veja as vantagens do novo t\u00EDtulo e o que considerar antes de investir",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/11/tesouro-reserva-vantagens-do-novo-titulo-e-o-que-considerar-antes-de-investir.ghtml",
-      "date": "Mon, 11 May 2026 14:27:54 -0000"
-    },
-    {
-      "title": "Brasil atinge metade da cota de carne bovina para a China e deve enfrentar taxa\u00E7\u00E3o maior em breve",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/11/taxa-china-carne-bovina-do-brasil.ghtml",
-      "date": "Mon, 11 May 2026 13:27:15 -0000"
-    },
-    {
-      "title": "Bloqueio de fertilizantes em Ormuz pode desencadear \u0027grande crise humanit\u00E1ria\u0027, diz funcion\u00E1rio da ONU",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/11/bloqueio-de-fertilizantes-em-ormuz-pode-desencadear-grande-crise-humanitaria-diz-funcionario-da-onu.ghtml",
-      "date": "Mon, 11 May 2026 13:23:16 -0000"
-    },
-    {
-      "title": "Exclusivo: g1 testou o Chevrolet Sonic; SUV custa R$ 129.990 e mostra for\u00E7a para brigar com Volkswagen Nivus",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/11/primeiro-teste-drive-do-chevrolet-sonic.ghtml",
-      "date": "Mon, 11 May 2026 12:52:44 -0000"
-    },
-    {
-      "title": "Enjoei decide descontinuar plataforma Elo7",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/11/enjoei-decide-descontinuar-plataforma-elo7.ghtml",
-      "date": "Mon, 11 May 2026 12:43:52 -0000"
-    },
-    {
-      "title": "CEO da Microsoft vai depor sobre seu papel na funda\u00E7\u00E3o da OpenAI",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/11/ceo-da-microsoft-vai-depor-sobre-seu-papel-na-fundacao-da-openai.ghtml",
-      "date": "Mon, 11 May 2026 12:38:51 -0000"
     }
   ]
 }
