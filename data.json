@@ -2,68 +2,86 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 180166.9,
-      "change": -0.96,
-      "changeStr": "-0.96%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 45.74,
-      "change": -1.49,
-      "changeStr": "-1.49%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 82.73,
+      "price": 180342.33,
       "change": -0.86,
       "changeStr": "-0.86%"
     },
     {
+      "symbol": "PETR4",
+      "price": 45.68,
+      "change": -1.62,
+      "changeStr": "-1.62%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 83.25,
+      "change": -0.24,
+      "changeStr": "-0.24%"
+    },
+    {
       "symbol": "ITUB4",
-      "price": 39.92,
+      "price": 39.87,
+      "change": -1.14,
+      "changeStr": "-1.14%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 17.96,
+      "change": -0.72,
+      "changeStr": "-0.72%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 21.32,
       "change": -1.02,
       "changeStr": "-1.02%"
     },
     {
-      "symbol": "BBDC4",
-      "price": 17.97,
-      "change": -0.66,
-      "changeStr": "-0.66%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 21.49,
-      "change": -0.23,
-      "changeStr": "-0.23%"
-    },
-    {
       "symbol": "MGLU3",
-      "price": 7,
-      "change": 1.01,
-      "changeStr": "\u002B1.01%"
+      "price": 7.16,
+      "change": 3.32,
+      "changeStr": "\u002B3.32%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.17,
-      "change": -0.49,
-      "changeStr": "-0.49%"
+      "price": 16.13,
+      "change": -0.74,
+      "changeStr": "-0.74%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.48,
-      "change": -1.54,
-      "changeStr": "-1.54%"
+      "price": 43.39,
+      "change": -1.74,
+      "changeStr": "-1.74%"
     }
   ],
   "news": [
     {
-      "title": "Sem Uni\u00E3o Europeia, Brasil pode deixar de exportar quase US$ 2 bilh\u00F5es em carnes",
+      "title": "Governo recebe com \u0027surpresa\u0027 veto a carnes brasileiras pela UE e tentar\u00E1 reverter decis\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/12/brasil-recebe-com-surpresa-veto-de-carnes-brasileiras-pela-uniao-europeia-diz-governo.ghtml",
+      "date": "Tue, 12 May 2026 19:02:19 -0000"
+    },
+    {
+      "title": "Comiss\u00E3o de Seguran\u00E7a da C\u00E2mara aprova projeto que autoriza uso do FGTS para comprar arma de fogo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/12/comissao-de-seguranca-aprova-projeto-que-autoriza-uso-do-fgts-para-comprar-arma-de-fogo.ghtml",
+      "date": "Tue, 12 May 2026 18:52:55 -0000"
+    },
+    {
+      "title": "Consumo de vinho no Brasil bate recorde em 2025 e avan\u00E7a na contram\u00E3o do mercado global",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/12/consumo-de-vinho-no-brasil-bate-recorde-em-2025.ghtml",
+      "date": "Tue, 12 May 2026 18:20:32 -0000"
+    },
+    {
+      "title": "Sem a Uni\u00E3o Europeia, Brasil pode deixar de exportar quase US$ 2 bilh\u00F5es ao ano em carnes",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/12/sem-uniao-europeia-exportacao-de-carnes.ghtml",
       "date": "Tue, 12 May 2026 17:58:34 -0000"
     },
     {
-      "title": "Veto da UE \u00E0 carne do Brasil: veja perguntas e respostas",
+      "title": "Veto da UE \u00E0 carne do Brasil: veja perguntas e respostas sobre a decis\u00E3o",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/12/veto-da-ue-a-carne-do-brasil-veja-perguntas-e-respostas-sobre.ghtml",
       "date": "Tue, 12 May 2026 17:54:15 -0000"
@@ -87,7 +105,7 @@
       "date": "Tue, 12 May 2026 15:55:20 -0000"
     },
     {
-      "title": "Uni\u00E3o Europeia veta importa\u00E7\u00F5es de carne e produtos de origem animal do Brasil",
+      "title": "Uni\u00E3o Europeia vetar\u00E1 importa\u00E7\u00F5es de carne do Brasil a partir de setembro",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/12/ue-importacoes-de-carne-do-brasil.ghtml",
       "date": "Tue, 12 May 2026 14:03:13 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/12/bc-comunica-vazamento-de-dados-de-46-chaves-pix-de-pessoas-com-conta-na-credifit-sociedade-de-credito.ghtml",
       "date": "Tue, 12 May 2026 13:55:19 -0000"
-    },
-    {
-      "title": "Dona da Tok\u0026Stok e da Mobly pede recupera\u00E7\u00E3o judicial com d\u00EDvida de R$ 1,1 bilh\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/12/dona-da-tokandstok-e-da-mobly-pede-recuperacao-judicial.ghtml",
-      "date": "Tue, 12 May 2026 13:04:00 -0000"
-    },
-    {
-      "title": "Pre\u00E7o dos alimentos em abril: o que ficou mais caro e o que ficou mais barato no m\u00EAs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/12/preco-dos-alimentos-em-abril-o-que-ficou-mais-caro-e-o-que-ficou-mais-barato.ghtml",
-      "date": "Tue, 12 May 2026 12:04:24 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta ap\u00F3s infla\u00E7\u00E3o dos EUA marcar maior alta em tr\u00EAs anos; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/12/dolar-ibovespa.ghtml",
-      "date": "Tue, 12 May 2026 12:00:34 -0000"
     }
   ]
 }
