@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 181908.88,
-      "change": -1.19,
-      "changeStr": "-1.19%"
+      "price": 180065.88,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.43,
-      "change": 1.66,
-      "changeStr": "\u002B1.66%"
+      "price": 45.87,
+      "change": -1.21,
+      "changeStr": "-1.21%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.45,
-      "change": 2.41,
-      "changeStr": "\u002B2.41%"
+      "price": 81.91,
+      "change": -1.85,
+      "changeStr": "-1.85%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.33,
-      "change": -2.25,
-      "changeStr": "-2.25%"
+      "price": 39.83,
+      "change": -1.24,
+      "changeStr": "-1.24%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.09,
-      "change": -2.69,
-      "changeStr": "-2.69%"
+      "price": 17.98,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.54,
-      "change": -1.19,
-      "changeStr": "-1.19%"
+      "price": 21.55,
+      "change": 0.05,
+      "changeStr": "\u002B0.05%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.93,
-      "change": -3.08,
-      "changeStr": "-3.08%"
+      "price": 7,
+      "change": 1.01,
+      "changeStr": "\u002B1.01%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.25,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 16.22,
+      "change": -0.18,
+      "changeStr": "-0.18%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.16,
-      "change": -2.99,
-      "changeStr": "-2.99%"
+      "price": 43.13,
+      "change": -2.33,
+      "changeStr": "-2.33%"
     }
   ],
   "news": [
+    {
+      "title": "Uni\u00E3o Europeia veta importa\u00E7\u00F5es de carne e animais do Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/12/ue-importacoes-de-carne-do-brasil.ghtml",
+      "date": "Tue, 12 May 2026 14:03:13 -0000"
+    },
+    {
+      "title": "BC comunica vazamento de dados de 46 chaves PIX de clientes da Credifit Sociedade de Cr\u00E9dito",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/12/bc-comunica-vazamento-de-dados-de-46-chaves-pix-de-pessoas-com-conta-na-credifit-sociedade-de-credito.ghtml",
+      "date": "Tue, 12 May 2026 13:55:19 -0000"
+    },
+    {
+      "title": "Dona da Tok\u0026Stok e da Mobly pede recupera\u00E7\u00E3o judicial com d\u00EDvida de R$ 1,1 bilh\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/12/dona-da-tokandstok-e-da-mobly-pede-recuperacao-judicial.ghtml",
+      "date": "Tue, 12 May 2026 13:04:00 -0000"
+    },
+    {
+      "title": "Pre\u00E7o dos alimentos em abril: o que ficou mais caro e o que ficou mais barato no m\u00EAs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/12/preco-dos-alimentos-em-abril-o-que-ficou-mais-caro-e-o-que-ficou-mais-barato.ghtml",
+      "date": "Tue, 12 May 2026 12:04:24 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta com dados de infla\u00E7\u00E3o no Brasil e nos EUA; Ibovespa cai",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/12/dolar-ibovespa.ghtml",
+      "date": "Tue, 12 May 2026 12:00:34 -0000"
+    },
+    {
+      "title": "IPCA: infla\u00E7\u00E3o desacelera para 0,67% em abril, mas alimentos seguem como principal press\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/12/ipca-inflacao-abril.ghtml",
+      "date": "Tue, 12 May 2026 12:00:19 -0000"
+    },
     {
       "title": "BC aponta R$ 10,6 bilh\u00F5es em \u0027dinheiro esquecido\u0027 em mar\u00E7o; bancos devem repassar nesta ter\u00E7a parte dos recursos ao governo",
       "source": "G1 Economia",
@@ -63,7 +99,7 @@
       "date": "Tue, 12 May 2026 11:51:24 -0000"
     },
     {
-      "title": "Projeto pretende autorizar uso do FGTS para comprar armas; texto ser\u00E1 analisado em comiss\u00E3o de seguran\u00E7a da C\u00E2mara",
+      "title": "Projeto autoriza uso do FGTS para comprar armas; texto ser\u00E1 analisado em comiss\u00E3o de seguran\u00E7a da C\u00E2mara",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/05/12/projeto-pretende-autorizar-uso-do-fgts-para-comprar-armas-texto-sera-analisado-em-comissao-de-seguranca-da-camara.ghtml",
       "date": "Tue, 12 May 2026 11:13:50 -0000"
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/12/o-xadrez-do-petroleo-com-que-trump-pressiona-a-china-e-os-limites-dessa-estrategia.ghtml",
       "date": "Tue, 12 May 2026 10:16:18 -0000"
-    },
-    {
-      "title": "Embraer negocia avi\u00E3o militar C-390 para a Col\u00F4mbia e o Chile, afirma CEO",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/05/12/embraer-negocia-aviao-militar-c-390-para-a-colombia-e-o-chile-afirma-ceo.ghtml",
-      "date": "Tue, 12 May 2026 08:58:09 -0000"
-    },
-    {
-      "title": "Crise financeira, d\u00EDvida e juros altos: o que a situa\u00E7\u00E3o da Cosan tem a ver com o IPO da Compass",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/12/crise-financeira-divida-e-juros-altos-o-que-a-situacao-da-cosan-tem-a-ver-com-o-ipo-da-compass.ghtml",
-      "date": "Tue, 12 May 2026 07:00:40 -0000"
-    },
-    {
-      "title": "Tesouro Reserva, Selic, CDB ou poupan\u00E7a: qual rende mais? Veja simula\u00E7\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/12/tesouro-reserva-e-outros-veja-simulacoes-de-investimentos.ghtml",
-      "date": "Tue, 12 May 2026 07:00:35 -0000"
-    },
-    {
-      "title": "Caverna subterr\u00E2nea e fungos naturais ajudam produtor a criar queijos premiados em Goi\u00E1s",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/05/12/caverna-subterranea-e-fungos-naturais-ajudam-produtor-a-criar-queijos-premiados-em-goias.ghtml",
-      "date": "Tue, 12 May 2026 06:00:42 -0000"
-    },
-    {
-      "title": "Cade analisa se houve irregularidades na venda de mina de terras raras para empresa dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/12/cade-analisa-venda-de-mina-de-terras-raras-para-empresa-dos-eua.ghtml",
-      "date": "Tue, 12 May 2026 04:11:48 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 52 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/12/mega-sena-pode-pagar-r-52-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Tue, 12 May 2026 03:01:44 -0000"
     }
   ]
 }
