@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 180065.88,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 180166.9,
+      "change": -0.96,
+      "changeStr": "-0.96%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.87,
-      "change": -1.21,
-      "changeStr": "-1.21%"
+      "price": 45.74,
+      "change": -1.49,
+      "changeStr": "-1.49%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.91,
-      "change": -1.85,
-      "changeStr": "-1.85%"
+      "price": 82.73,
+      "change": -0.86,
+      "changeStr": "-0.86%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.83,
-      "change": -1.24,
-      "changeStr": "-1.24%"
+      "price": 39.92,
+      "change": -1.02,
+      "changeStr": "-1.02%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.98,
-      "change": -0.61,
-      "changeStr": "-0.61%"
+      "price": 17.97,
+      "change": -0.66,
+      "changeStr": "-0.66%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.55,
-      "change": 0.05,
-      "changeStr": "\u002B0.05%"
+      "price": 21.49,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     },
     {
       "symbol": "MGLU3",
@@ -44,20 +44,50 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 16.22,
-      "change": -0.18,
-      "changeStr": "-0.18%"
+      "price": 16.17,
+      "change": -0.49,
+      "changeStr": "-0.49%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.13,
-      "change": -2.33,
-      "changeStr": "-2.33%"
+      "price": 43.48,
+      "change": -1.54,
+      "changeStr": "-1.54%"
     }
   ],
   "news": [
     {
-      "title": "Uni\u00E3o Europeia veta importa\u00E7\u00F5es de carne e animais do Brasil",
+      "title": "Sem Uni\u00E3o Europeia, Brasil pode deixar de exportar quase US$ 2 bilh\u00F5es em carnes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/12/sem-uniao-europeia-exportacao-de-carnes.ghtml",
+      "date": "Tue, 12 May 2026 17:58:34 -0000"
+    },
+    {
+      "title": "Veto da UE \u00E0 carne do Brasil: veja perguntas e respostas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/12/veto-da-ue-a-carne-do-brasil-veja-perguntas-e-respostas-sobre.ghtml",
+      "date": "Tue, 12 May 2026 17:54:15 -0000"
+    },
+    {
+      "title": "Tribunal de apela\u00E7\u00F5es dos EUA retoma tarifa\u00E7o global de 10% de Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/12/eua-tarifas-globais.ghtml",
+      "date": "Tue, 12 May 2026 17:24:01 -0000"
+    },
+    {
+      "title": "Petrobras planeja elevar pre\u00E7o da gasolina, mas avalia concorr\u00EAncia com etanol, diz CEO",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/12/petrobras-planeja-elevar-preco-da-gasolina-diz-ceo.ghtml",
+      "date": "Tue, 12 May 2026 16:05:34 -0000"
+    },
+    {
+      "title": "Petrobras mira autossufici\u00EAncia em diesel e gasolina at\u00E9 2031",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/12/petrobras-mira-autossuficiencia-em-diesel-e-gasolina-ate-2031.ghtml",
+      "date": "Tue, 12 May 2026 15:55:20 -0000"
+    },
+    {
+      "title": "Uni\u00E3o Europeia veta importa\u00E7\u00F5es de carne e produtos de origem animal do Brasil",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/12/ue-importacoes-de-carne-do-brasil.ghtml",
       "date": "Tue, 12 May 2026 14:03:13 -0000"
@@ -81,40 +111,10 @@
       "date": "Tue, 12 May 2026 12:04:24 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta com dados de infla\u00E7\u00E3o no Brasil e nos EUA; Ibovespa cai",
+      "title": "D\u00F3lar opera em alta ap\u00F3s infla\u00E7\u00E3o dos EUA marcar maior alta em tr\u00EAs anos; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/12/dolar-ibovespa.ghtml",
       "date": "Tue, 12 May 2026 12:00:34 -0000"
-    },
-    {
-      "title": "IPCA: infla\u00E7\u00E3o desacelera para 0,67% em abril, mas alimentos seguem como principal press\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/12/ipca-inflacao-abril.ghtml",
-      "date": "Tue, 12 May 2026 12:00:19 -0000"
-    },
-    {
-      "title": "BC aponta R$ 10,6 bilh\u00F5es em \u0027dinheiro esquecido\u0027 em mar\u00E7o; bancos devem repassar nesta ter\u00E7a parte dos recursos ao governo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/12/bc-aponta-que-havia-r-106-bilhoes-em-dinheiro-esquecido-em-marco-bancos-devem-repassar-hoje-parte-dos-recursos-ao-governo.ghtml",
-      "date": "Tue, 12 May 2026 11:51:24 -0000"
-    },
-    {
-      "title": "Projeto autoriza uso do FGTS para comprar armas; texto ser\u00E1 analisado em comiss\u00E3o de seguran\u00E7a da C\u00E2mara",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/05/12/projeto-pretende-autorizar-uso-do-fgts-para-comprar-armas-texto-sera-analisado-em-comissao-de-seguranca-da-camara.ghtml",
-      "date": "Tue, 12 May 2026 11:13:50 -0000"
-    },
-    {
-      "title": "eBay rejeita oferta de compra de US$ 56 bilh\u00F5es feita pela GameStop",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/12/ebay-oferta-gamestop.ghtml",
-      "date": "Tue, 12 May 2026 10:28:53 -0000"
-    },
-    {
-      "title": "O \u0027xadrez do petr\u00F3leo\u0027 com que Trump pressiona a China \u2014 e os limites dessa estrat\u00E9gia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/12/o-xadrez-do-petroleo-com-que-trump-pressiona-a-china-e-os-limites-dessa-estrategia.ghtml",
-      "date": "Tue, 12 May 2026 10:16:18 -0000"
     }
   ]
 }
