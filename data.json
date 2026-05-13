@@ -2,62 +2,74 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177315.42,
-      "change": -1.68,
-      "changeStr": "-1.68%"
+      "price": 177098.3,
+      "change": -1.8,
+      "changeStr": "-1.80%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.81,
-      "change": -1.9,
-      "changeStr": "-1.90%"
+      "price": 44.57,
+      "change": -2.43,
+      "changeStr": "-2.43%"
     },
     {
       "symbol": "VALE3",
-      "price": 84.75,
-      "change": 1.8,
-      "changeStr": "\u002B1.80%"
+      "price": 84.3,
+      "change": 1.26,
+      "changeStr": "\u002B1.26%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.67,
-      "change": -0.5,
-      "changeStr": "-0.50%"
+      "price": 39.63,
+      "change": -0.6,
+      "changeStr": "-0.60%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.78,
-      "change": -1,
-      "changeStr": "-1.00%"
+      "price": 17.65,
+      "change": -1.73,
+      "changeStr": "-1.73%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.84,
-      "change": -2.25,
-      "changeStr": "-2.25%"
+      "price": 20.76,
+      "change": -2.63,
+      "changeStr": "-2.63%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.09,
-      "change": -0.98,
-      "changeStr": "-0.98%"
+      "price": 6.96,
+      "change": -2.79,
+      "changeStr": "-2.79%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.9,
-      "change": -1.43,
-      "changeStr": "-1.43%"
+      "price": 15.91,
+      "change": -1.36,
+      "changeStr": "-1.36%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.04,
-      "change": -0.81,
-      "changeStr": "-0.81%"
+      "price": 43.31,
+      "change": -0.18,
+      "changeStr": "-0.18%"
     }
   ],
   "news": [
     {
-      "title": "Governo anuncia medida para conter aumento do pre\u00E7o da gasolina e do diesel",
+      "title": "Samsung n\u00E3o chega a acordo salarial com sindicato na Coreia do Sul; governo tenta evitar greve",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/13/samsung-nao-chega-a-acordo-salarial-com-sindicato-coreia-do-sul-tenta-evitar-greve.ghtml",
+      "date": "Wed, 13 May 2026 20:35:25 -0000"
+    },
+    {
+      "title": "Estudantes que aderirem ao Desenrola Fies ficar\u00E3o proibidos de fazer apostas online, diz Fazenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/estudantes-que-aderirem-ao-desenrola-fies-ficarao-proibidos-de-fazer-apostas-online-diz-fazenda.ghtml",
+      "date": "Wed, 13 May 2026 19:04:21 -0000"
+    },
+    {
+      "title": "Governo federal anuncia medida para conter aumento do pre\u00E7o da gasolina e do diesel",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/13/governo-medida-combustiveis-gasolina.ghtml",
       "date": "Wed, 13 May 2026 18:19:58 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/05/13/alckmin-diz-que-veto-a-carnes-deve-se-equacionar-e-defende-padrao-sanitario-do-pais.ghtml",
       "date": "Wed, 13 May 2026 13:57:37 -0000"
-    },
-    {
-      "title": "\nEntenda a reviravolta na \u0022taxa das blusinhas\u0022, agora zerada",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/entenda-a-reviravolta-na-taxa-das-blusinhas-agora-zerada.ghtml",
-      "date": "Wed, 13 May 2026 13:31:37 -0000"
-    },
-    {
-      "title": "Opep reduz previs\u00E3o de crescimento de consumo global por petr\u00F3leo em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/opep-reduz-previsao-de-crescimento-de-consumo-global-por-petroleo-em-2026.ghtml",
-      "date": "Wed, 13 May 2026 13:12:24 -0000"
     }
   ]
 }
