@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 180291.27,
-      "change": -0.03,
-      "changeStr": "-0.03%"
+      "price": 180325.02,
+      "change": -0.01,
+      "changeStr": "-0.01%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.57,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 45.13,
+      "change": -1.2,
+      "changeStr": "-1.20%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.35,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 84.48,
+      "change": 1.48,
+      "changeStr": "\u002B1.48%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.87,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 40.43,
+      "change": 1.4,
+      "changeStr": "\u002B1.40%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.96,
-      "change": -0.72,
-      "changeStr": "-0.72%"
+      "price": 18.19,
+      "change": 1.28,
+      "changeStr": "\u002B1.28%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.28,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "price": 21.39,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.16,
-      "change": 3.32,
-      "changeStr": "\u002B3.32%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 16.14,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
-    },
-    {
-      "symbol": "WEGE3",
-      "price": 43.19,
-      "change": -0.46,
-      "changeStr": "-0.46%"
+      "price": 7.35,
+      "change": 2.65,
+      "changeStr": "\u002B2.65%"
     }
   ],
   "news": [
+    {
+      "title": "Poupan\u00E7a para a liberdade: O que as cadernetas de escravizados revelam sobre a busca por alforria no s\u00E9culo XIX",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/poupanca-caixa-escravizados-alforria.ghtml",
+      "date": "Wed, 13 May 2026 15:47:43 -0000"
+    },
+    {
+      "title": "Outlook saiu do ar? Usu\u00E1rios relatam instabilidade em servi\u00E7o da Microsoft",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/13/outlook-saiu-do-ar-usuarios-relatam-instabilidade-em-servico-da-microsoft.ghtml",
+      "date": "Wed, 13 May 2026 15:16:06 -0000"
+    },
+    {
+      "title": "O embate sobre a carne brasileira na UE: protecionismo ou quest\u00E3o de sa\u00FAde p\u00FAblica?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/13/o-embate-sobre-a-carne-brasileira-na-ue-protecionismo-ou-questao-de-saude-publica.ghtml",
+      "date": "Wed, 13 May 2026 15:00:12 -0000"
+    },
+    {
+      "title": "Trump e Xi avaliam cortes de tarifas sobre US$ 30 bilh\u00F5es de importa\u00E7\u00F5es de EUA e China",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/trump-e-xi-avaliam-cortes-de-tarifas-sobre-us-30-bilhoes-de-importacoes-de-eua-e-china.ghtml",
+      "date": "Wed, 13 May 2026 14:28:08 -0000"
+    },
+    {
+      "title": "Taxa das blusinhas: veja quanto cada estado cobra em ICMS na importa\u00E7\u00E3o; al\u00EDquotas variam de 17% a 20%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/taxa-das-blusinhas-veja-quanto-cada-estado-cobra-em-icms-na-importacao-aliquotas-variam-de-17percent-a-20percent.ghtml",
+      "date": "Wed, 13 May 2026 14:12:15 -0000"
+    },
+    {
+      "title": "Alckmin diz que veto a carnes deve \u0027se equacionar\u0027 e defende padr\u00E3o sanit\u00E1rio brasileiro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/13/alckmin-diz-que-veto-a-carnes-deve-se-equacionar-e-defende-padrao-sanitario-do-pais.ghtml",
+      "date": "Wed, 13 May 2026 13:57:37 -0000"
+    },
+    {
+      "title": "\nEntenda a reviravolta na \u0022taxa das blusinhas\u0022, agora zerada",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/entenda-a-reviravolta-na-taxa-das-blusinhas-agora-zerada.ghtml",
+      "date": "Wed, 13 May 2026 13:31:37 -0000"
+    },
     {
       "title": "Opep reduz previs\u00E3o de crescimento de consumo global por petr\u00F3leo em 2026",
       "source": "G1 Economia",
@@ -63,7 +93,7 @@
       "date": "Wed, 13 May 2026 13:12:24 -0000"
     },
     {
-      "title": "Dona da Tok\u0026Stok e da Mobly anuncia novo CEO e CFO; fundadores deixam diretoria",
+      "title": "Dona da Tok\u0026Stok e da Mobly troca comando da empresa um dia ap\u00F3s pedir recupera\u00E7\u00E3o judicial",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/13/grupo-toky-anuncia-novos-ceo-e-cfo-fundadores-deixam-diretoria.ghtml",
       "date": "Wed, 13 May 2026 13:11:29 -0000"
@@ -73,48 +103,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/13/fim-da-taxa-das-blusinhas-opoe-varejo-nacional-e-importadores-veja-argumentos-a-favor-e-contra.ghtml",
       "date": "Wed, 13 May 2026 13:00:27 -0000"
-    },
-    {
-      "title": "Mega-Sena 30 anos: pr\u00EAmio de sorteio especial sobe para R$ 200 milh\u00F5es; concurso n\u00E3o acumula",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/noticia/2026/05/13/mega-sena-30-anos-premio-de-sorteio-especial-sobe-para-r-200-milhoes-concurso-nao-acumula.ghtml",
-      "date": "Wed, 13 May 2026 12:37:15 -0000"
-    },
-    {
-      "title": "Nissan reduz preju\u00EDzo, mas segue no vermelho e corta custos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/13/nissan-reduz-prejuizo-mas-segue-no-vermelho-e-corta-custos.ghtml",
-      "date": "Wed, 13 May 2026 12:28:45 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta e vai a R$ 4,91, de olho em encontro entre Trump e Xi Jinping; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/dolar-ibovespa.ghtml",
-      "date": "Wed, 13 May 2026 12:00:20 -0000"
-    },
-    {
-      "title": "Trump quer pressionar Xi Jinping a abrir a China para empresas americanas durante viagem ao pa\u00EDs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/trump-quer-pressionar-xi-a-abrir-a-china-para-empresas-americanas.ghtml",
-      "date": "Wed, 13 May 2026 11:43:00 -0000"
-    },
-    {
-      "title": "A cidade futurista em \u00278D\u0027 que mostra como a China se transformou desde a \u00FAltima visita de Trump",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/05/13/a-cidade-futurista-em-8d-que-mostra-como-a-china-se-transformou-desde-a-ultima-visita-de-trump.ghtml",
-      "date": "Wed, 13 May 2026 11:34:58 -0000"
-    },
-    {
-      "title": "\nOs impactos da decis\u00E3o da UE de barrar a carne brasileira",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/13/os-impactos-da-decisao-da-ue-de-barrar-a-carne-brasileira.ghtml",
-      "date": "Wed, 13 May 2026 11:24:00 -0000"
-    },
-    {
-      "title": "Quaest: 38% consideram que Desenrola vai ajudar muito as fam\u00EDlias endividadas e 27% acham que vai ajudar pouco",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/quaest-desenrola-20.ghtml",
-      "date": "Wed, 13 May 2026 11:00:03 -0000"
     }
   ]
 }
