@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 180342.33,
-      "change": -0.86,
-      "changeStr": "-0.86%"
+      "price": 180291.27,
+      "change": -0.03,
+      "changeStr": "-0.03%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.68,
-      "change": -1.62,
-      "changeStr": "-1.62%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 83.25,
+      "price": 45.57,
       "change": -0.24,
       "changeStr": "-0.24%"
     },
     {
+      "symbol": "VALE3",
+      "price": 83.35,
+      "change": 0.12,
+      "changeStr": "\u002B0.12%"
+    },
+    {
       "symbol": "ITUB4",
       "price": 39.87,
-      "change": -1.14,
-      "changeStr": "-1.14%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "BBDC4",
@@ -32,9 +32,9 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 21.32,
-      "change": -1.02,
-      "changeStr": "-1.02%"
+      "price": 21.28,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     },
     {
       "symbol": "MGLU3",
@@ -44,77 +44,77 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 16.13,
-      "change": -0.74,
-      "changeStr": "-0.74%"
+      "price": 16.14,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.39,
-      "change": -1.74,
-      "changeStr": "-1.74%"
+      "price": 43.19,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     }
   ],
   "news": [
     {
-      "title": "\u00C9 #FAKE que Coca-Cola diminuiu tamanho de garrafas por causa do governo Lula; ajuste faz parte de nova estrat\u00E9gia global da empresa",
+      "title": "Opep reduz previs\u00E3o de crescimento de consumo global por petr\u00F3leo em 2026",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/05/13/e-fake-que-coca-cola-diminuiu-tamanho-de-garrafas-por-causa-do-governo-lula-ajuste-faz-parte-de-nova-estrategia-global-da-empresa.ghtml",
-      "date": "Wed, 13 May 2026 08:03:31 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/opep-reduz-previsao-de-crescimento-de-consumo-global-por-petroleo-em-2026.ghtml",
+      "date": "Wed, 13 May 2026 13:12:24 -0000"
     },
     {
-      "title": "ENTREVISTA: Baldy diz que BYD quer ser l\u00EDder de mercado at\u00E9 2030 e v\u00EA \u2018medo\u2019 na rea\u00E7\u00E3o de rivais",
+      "title": "Dona da Tok\u0026Stok e da Mobly anuncia novo CEO e CFO; fundadores deixam diretoria",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/13/entrevista-alexandre-baldy-vice-presidente-senior-da-byd.ghtml",
-      "date": "Wed, 13 May 2026 07:01:27 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/grupo-toky-anuncia-novos-ceo-e-cfo-fundadores-deixam-diretoria.ghtml",
+      "date": "Wed, 13 May 2026 13:11:29 -0000"
     },
     {
-      "title": "D\u00EDvida e juros: por que deixar para pagar depois custa t\u00E3o caro?",
+      "title": "Fim da taxa das blusinhas op\u00F5e varejo nacional e importadores; veja argumentos a favor e contra",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/05/13/divida-e-juros-por-que-deixar-para-pagar-depois-custa-tao-caro.ghtml",
-      "date": "Wed, 13 May 2026 06:00:58 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/fim-da-taxa-das-blusinhas-opoe-varejo-nacional-e-importadores-veja-argumentos-a-favor-e-contra.ghtml",
+      "date": "Wed, 13 May 2026 13:00:27 -0000"
     },
     {
-      "title": "Fim da \u0027taxa das blusinhas\u0027 amea\u00E7a empregos e cria concorr\u00EAncia desleal, dizem entidades da ind\u00FAstria ",
+      "title": "Mega-Sena 30 anos: pr\u00EAmio de sorteio especial sobe para R$ 200 milh\u00F5es; concurso n\u00E3o acumula",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/fim-da-taxa-das-blusinhas-ameaca-empregos-e-cria-concorrencia-desleal-dizem-entidades-da-industria.ghtml",
-      "date": "Wed, 13 May 2026 05:37:45 -0000"
+      "url": "https://g1.globo.com/loterias/noticia/2026/05/13/mega-sena-30-anos-premio-de-sorteio-especial-sobe-para-r-200-milhoes-concurso-nao-acumula.ghtml",
+      "date": "Wed, 13 May 2026 12:37:15 -0000"
     },
     {
-      "title": "De renda extra a neg\u00F3cio pr\u00F3prio: como transformar uma ideia em uma empresa sua",
+      "title": "Nissan reduz preju\u00EDzo, mas segue no vermelho e corta custos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/05/13/de-renda-extra-a-negocio-proprio-como-transformar-uma-ideia-em-uma-empresa-sua.ghtml",
-      "date": "Wed, 13 May 2026 05:00:44 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/05/13/nissan-reduz-prejuizo-mas-segue-no-vermelho-e-corta-custos.ghtml",
+      "date": "Wed, 13 May 2026 12:28:45 -0000"
     },
     {
-      "title": "Governo estuda medidas para aliviar efeitos da reforma tribut\u00E1ria sobre o setor a\u00E9reo",
+      "title": "D\u00F3lar opera em alta e vai a R$ 4,91, de olho em encontro entre Trump e Xi Jinping; Ibovespa cai",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/governo-estuda-medidas-para-aliviar-efeitos-da-reforma-tributaria-sobre-o-setor-aereo.ghtml",
-      "date": "Wed, 13 May 2026 05:00:33 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/dolar-ibovespa.ghtml",
+      "date": "Wed, 13 May 2026 12:00:20 -0000"
     },
     {
-      "title": "MPF pede suspens\u00E3o imediata do maior leil\u00E3o de energia da hist\u00F3ria do Brasil; associa\u00E7\u00E3o diz que pre\u00E7o da energia deve subir",
+      "title": "Trump quer pressionar Xi Jinping a abrir a China para empresas americanas durante viagem ao pa\u00EDs",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/mpf-pede-suspensao-imediata-do-maior-leilao-de-energia-da-historia-do-brasil-associacao-diz-que-preco-da-energia-deve-subir.ghtml",
-      "date": "Wed, 13 May 2026 04:34:26 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/trump-quer-pressionar-xi-a-abrir-a-china-para-empresas-americanas.ghtml",
+      "date": "Wed, 13 May 2026 11:43:00 -0000"
     },
     {
-      "title": "Por que encontro entre Trump e Xi deve definir rela\u00E7\u00E3o entre superpot\u00EAncias por anos",
+      "title": "A cidade futurista em \u00278D\u0027 que mostra como a China se transformou desde a \u00FAltima visita de Trump",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/05/13/por-que-encontro-entre-trump-e-xi-deve-definir-relacao-entre-superpotencias-por-anos.ghtml",
-      "date": "Wed, 13 May 2026 03:01:16 -0000"
+      "url": "https://g1.globo.com/inovacao/noticia/2026/05/13/a-cidade-futurista-em-8d-que-mostra-como-a-china-se-transformou-desde-a-ultima-visita-de-trump.ghtml",
+      "date": "Wed, 13 May 2026 11:34:58 -0000"
     },
     {
-      "title": "Estudantes com d\u00EDvidas do Fies podem renegociar contratos a partir desta quarta; descontos chegam a 99% ",
+      "title": "\nOs impactos da decis\u00E3o da UE de barrar a carne brasileira",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/estudantes-com-dividas-do-fies-podem-renegociar-contratos-a-partir-desta-quarta-descontos-chegam-a-99percent.ghtml",
-      "date": "Wed, 13 May 2026 03:00:58 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/13/os-impactos-da-decisao-da-ue-de-barrar-a-carne-brasileira.ghtml",
+      "date": "Wed, 13 May 2026 11:24:00 -0000"
     },
     {
-      "title": "\u0027Taxa das blusinhas\u2019: o que muda com o fim do imposto sobre compras internacionais de at\u00E9 US$ 50",
+      "title": "Quaest: 38% consideram que Desenrola vai ajudar muito as fam\u00EDlias endividadas e 27% acham que vai ajudar pouco",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/fim-da-taxa-das-blusinhas-o-que-muda.ghtml",
-      "date": "Wed, 13 May 2026 03:00:40 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/quaest-desenrola-20.ghtml",
+      "date": "Wed, 13 May 2026 11:00:03 -0000"
     }
   ]
 }
