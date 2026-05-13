@@ -2,48 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 180325.02,
-      "change": -0.01,
-      "changeStr": "-0.01%"
+      "price": 177315.42,
+      "change": -1.68,
+      "changeStr": "-1.68%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.13,
-      "change": -1.2,
-      "changeStr": "-1.20%"
+      "price": 44.81,
+      "change": -1.9,
+      "changeStr": "-1.90%"
     },
     {
       "symbol": "VALE3",
-      "price": 84.48,
-      "change": 1.48,
-      "changeStr": "\u002B1.48%"
+      "price": 84.75,
+      "change": 1.8,
+      "changeStr": "\u002B1.80%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.43,
-      "change": 1.4,
-      "changeStr": "\u002B1.40%"
+      "price": 39.67,
+      "change": -0.5,
+      "changeStr": "-0.50%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.19,
-      "change": 1.28,
-      "changeStr": "\u002B1.28%"
+      "price": 17.78,
+      "change": -1,
+      "changeStr": "-1.00%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.39,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
+      "price": 20.84,
+      "change": -2.25,
+      "changeStr": "-2.25%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.35,
-      "change": 2.65,
-      "changeStr": "\u002B2.65%"
+      "price": 7.09,
+      "change": -0.98,
+      "changeStr": "-0.98%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 15.9,
+      "change": -1.43,
+      "changeStr": "-1.43%"
+    },
+    {
+      "symbol": "WEGE3",
+      "price": 43.04,
+      "change": -0.81,
+      "changeStr": "-0.81%"
     }
   ],
   "news": [
+    {
+      "title": "Governo anuncia medida para conter aumento do pre\u00E7o da gasolina e do diesel",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/governo-medida-combustiveis-gasolina.ghtml",
+      "date": "Wed, 13 May 2026 18:19:58 -0000"
+    },
+    {
+      "title": "Brasil vai enviar informa\u00E7\u00F5es para UE para resolver veto \u00E0 carne, diz Minist\u00E9rio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/13/brasil-vai-enviar-informacoes-para-ue-para-resolver-veto-a-carne-diz-ministerio.ghtml",
+      "date": "Wed, 13 May 2026 16:44:37 -0000"
+    },
     {
       "title": "Poupan\u00E7a para a liberdade: O que as cadernetas de escravizados revelam sobre a busca por alforria no s\u00E9culo XIX",
       "source": "G1 Economia",
@@ -91,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/13/opep-reduz-previsao-de-crescimento-de-consumo-global-por-petroleo-em-2026.ghtml",
       "date": "Wed, 13 May 2026 13:12:24 -0000"
-    },
-    {
-      "title": "Dona da Tok\u0026Stok e da Mobly troca comando da empresa um dia ap\u00F3s pedir recupera\u00E7\u00E3o judicial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/grupo-toky-anuncia-novos-ceo-e-cfo-fundadores-deixam-diretoria.ghtml",
-      "date": "Wed, 13 May 2026 13:11:29 -0000"
-    },
-    {
-      "title": "Fim da taxa das blusinhas op\u00F5e varejo nacional e importadores; veja argumentos a favor e contra",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/fim-da-taxa-das-blusinhas-opoe-varejo-nacional-e-importadores-veja-argumentos-a-favor-e-contra.ghtml",
-      "date": "Wed, 13 May 2026 13:00:27 -0000"
     }
   ]
 }
