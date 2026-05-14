@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 178429.05,
-      "change": 0.75,
-      "changeStr": "\u002B0.75%"
+      "price": 178365.86,
+      "change": 0.72,
+      "changeStr": "\u002B0.72%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.98,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 45,
+      "change": 0.96,
+      "changeStr": "\u002B0.96%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.76,
-      "change": -1.83,
-      "changeStr": "-1.83%"
+      "price": 82.87,
+      "change": -1.7,
+      "changeStr": "-1.70%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.49,
-      "change": 2.17,
-      "changeStr": "\u002B2.17%"
+      "price": 40.4,
+      "change": 1.94,
+      "changeStr": "\u002B1.94%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.95,
-      "change": 1.7,
-      "changeStr": "\u002B1.70%"
+      "price": 17.84,
+      "change": 1.08,
+      "changeStr": "\u002B1.08%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.74,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 20.76,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.92,
-      "change": -0.57,
-      "changeStr": "-0.57%"
+      "price": 6.91,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.8,
-      "change": -0.69,
-      "changeStr": "-0.69%"
+      "price": 15.77,
+      "change": -0.88,
+      "changeStr": "-0.88%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.88,
-      "change": 1.32,
-      "changeStr": "\u002B1.32%"
+      "price": 43.72,
+      "change": 0.95,
+      "changeStr": "\u002B0.95%"
     }
   ],
   "news": [
+    {
+      "title": "Mulheres negras vivem com metade da renda dos homens brancos, aponta estudo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/14/mulheres-negras-vivem-com-metade-da-renda-dos-homens-brancos-aponta-estudo.ghtml",
+      "date": "Thu, 14 May 2026 21:00:33 -0000"
+    },
     {
       "title": "Do que Daniel Vorcaro \u00E9 acusado? Veja as suspeitas da PF contra o dono do Banco Master ",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/14/trabalhadores-que-optaram-pelo-saque-aniversario-poderao-sacar-r-84-bilhoes-no-fim-de-maio.ghtml",
       "date": "Thu, 14 May 2026 12:57:51 -0000"
-    },
-    {
-      "title": "D\u00F3lar recua a R$ 4,98 com cen\u00E1rio pol\u00EDtico no Brasil e encontro entre Xi e Trump; Ibovespa avan\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/14/dolar-ibovespa.ghtml",
-      "date": "Thu, 14 May 2026 12:00:34 -0000"
     }
   ]
 }
