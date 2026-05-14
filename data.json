@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177098.3,
-      "change": -1.8,
-      "changeStr": "-1.80%"
+      "price": 178724.22,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.57,
-      "change": -2.43,
-      "changeStr": "-2.43%"
+      "price": 45.05,
+      "change": 1.08,
+      "changeStr": "\u002B1.08%"
     },
     {
       "symbol": "VALE3",
-      "price": 84.3,
-      "change": 1.26,
-      "changeStr": "\u002B1.26%"
+      "price": 83.76,
+      "change": -0.64,
+      "changeStr": "-0.64%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.63,
-      "change": -0.6,
-      "changeStr": "-0.60%"
+      "price": 40.48,
+      "change": 2.14,
+      "changeStr": "\u002B2.14%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.65,
-      "change": -1.73,
-      "changeStr": "-1.73%"
+      "price": 17.96,
+      "change": 1.76,
+      "changeStr": "\u002B1.76%"
     },
     {
       "symbol": "BBAS3",
       "price": 20.76,
-      "change": -2.63,
-      "changeStr": "-2.63%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.96,
-      "change": -2.79,
-      "changeStr": "-2.79%"
+      "price": 6.85,
+      "change": -1.58,
+      "changeStr": "-1.58%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.91,
-      "change": -1.36,
-      "changeStr": "-1.36%"
+      "price": 16.06,
+      "change": 0.94,
+      "changeStr": "\u002B0.94%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.31,
-      "change": -0.18,
-      "changeStr": "-0.18%"
+      "price": 44.06,
+      "change": 1.73,
+      "changeStr": "\u002B1.73%"
     }
   ],
   "news": [
+    {
+      "title": "Azara Capital anuncia aquisi\u00E7\u00E3o da Naskar, fintech acusada de desaparecer com ao menos R$ 335 milh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/05/14/azara-capital-anuncia-aquisicao-da-naskar-fintech-acusada-de-desaparecer-com-ao-menos-r-335-milhoes.ghtml",
+      "date": "Thu, 14 May 2026 14:00:22 -0000"
+    },
+    {
+      "title": "PF e Minist\u00E9rio da Agricultura apreendem 48 toneladas de a\u00E7\u00FAcar com suspeita de adultera\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/14/pf-e-ministerio-da-agricultura-apreendem-48-t-de-acucar-com-suspeita-de-adulteracao.ghtml",
+      "date": "Thu, 14 May 2026 13:34:35 -0000"
+    },
+    {
+      "title": "China renova e depois suspende licen\u00E7as para centenas de exportadores de carne bovina dos EUA ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/14/china-renova-e-depois-suspende-licencas-para-centenas-de-exportadores-de-carne-bovina-dos-eua-em-meio-a-cupula-trump-xi.ghtml",
+      "date": "Thu, 14 May 2026 13:33:03 -0000"
+    },
+    {
+      "title": "Para enfrentar rombo financeiro, governo autoriza Correios a vender seguros, t\u00EDtulos de capitaliza\u00E7\u00E3o e a atuar no mercado de telefonia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/14/para-enfrentar-rombo-financeiro-governo-autoriza-correios-a-vender-seguros-e-titulos-de-capitalizacao.ghtml",
+      "date": "Thu, 14 May 2026 13:21:12 -0000"
+    },
+    {
+      "title": "Honda confirma previs\u00E3o de preju\u00EDzo de US$ 3,6 bilh\u00F5es; CEO diz que demanda por el\u00E9tricos caiu",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/14/honda-confirma-previsao-prejuizo-anual-ceo-diz-que-demanda-por-eletricos-caiu-executivos-e-ceo-cortam-salarios.ghtml",
+      "date": "Thu, 14 May 2026 12:59:39 -0000"
+    },
+    {
+      "title": "Governo libera no fim deste m\u00EAs R$ 8,4 bilh\u00F5es de trabalhadores que optaram pelo saque-anivers\u00E1rio e disponibiliza uso para d\u00EDvidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/14/trabalhadores-que-optaram-pelo-saque-aniversario-poderao-sacar-r-84-bilhoes-no-fim-de-maio.ghtml",
+      "date": "Thu, 14 May 2026 12:57:51 -0000"
+    },
+    {
+      "title": "D\u00F3lar recua a R$ 4,97 atento ao cen\u00E1rio pol\u00EDtico no Brasil e ao encontro entre Xi e Trump; Ibovespa avan\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/14/dolar-ibovespa.ghtml",
+      "date": "Thu, 14 May 2026 12:00:34 -0000"
+    },
+    {
+      "title": "Desemprego sobe em 15 estados brasileiros no 1\u00BA trimestre de 2026, diz IBGE",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/14/desemprego-sobe-em-15-estados-brasileiros-no-1o-trimestre-de-2026-diz-ibge.ghtml",
+      "date": "Thu, 14 May 2026 12:00:22 -0000"
+    },
+    {
+      "title": "Musk, Tim Cook e outros bilion\u00E1rios da tecnologia participam de encontro entre Trump e Xi Jinping",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/14/musk-tim-cook-e-outros-bilionarios-da-tecnologia-participam-de-encontro-entre-trump-e-xi-jinping.ghtml",
+      "date": "Thu, 14 May 2026 11:54:08 -0000"
+    },
     {
       "title": "Brics se re\u00FAne na \u00CDndia com guerra no Oriente M\u00E9dio e crise do petr\u00F3leo no centro das discuss\u00F5es",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/14/brics-se-reune-na-india-com-guerra-no-oriente-medio-e-crise-do-petroleo-no-centro-das-discussoes.ghtml",
       "date": "Thu, 14 May 2026 10:19:33 -0000"
-    },
-    {
-      "title": "Explos\u00E3o e queda: quatro trabalhadores morrem em apenas duas semanas durante colheita no ES",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/05/14/explosao-e-queda-quatro-trabalhadores-morrem-em-apenas-duas-semanas-durante-colheita-no-es.ghtml",
-      "date": "Thu, 14 May 2026 07:01:08 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 60 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/14/mega-sena-pode-pagar-r-60-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 14 May 2026 03:01:36 -0000"
-    },
-    {
-      "title": "Taxa das blusinhas: calculadora do g1 mostra quanto ficaria sua compra com e sem o imposto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/14/taxa-das-blusinhas-calculadora-do-g1-mostra-quanto-ficaria-sua-compra-com-e-sem-o-imposto.ghtml",
-      "date": "Thu, 14 May 2026 03:01:20 -0000"
-    },
-    {
-      "title": "Prompt injection: como \u00E9 feito \u0027c\u00F3digo secreto\u0027 usado por advogadas para tentar sabotar processo ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/14/prompt-injection-como-e-feito-codigo-secreto-usado-por-advogadas-para-tentar-sabotar-processo.ghtml",
-      "date": "Thu, 14 May 2026 03:00:34 -0000"
-    },
-    {
-      "title": "Banco do Brasil corta previs\u00E3o de lucro\u00A0para 2026 ap\u00F3s queda de mais de 50% no 1\u00BA trimestre",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/banco-do-brasil-previsao-lucro.ghtml",
-      "date": "Thu, 14 May 2026 01:05:13 -0000"
-    },
-    {
-      "title": "Americanas tem preju\u00EDzo de R$ 329 milh\u00F5es no primeiro trimestre, queda de 33,7%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/prejuizo-americanas.ghtml",
-      "date": "Thu, 14 May 2026 00:55:12 -0000"
-    },
-    {
-      "title": "Senado dos EUA aprova Kevin Warsh como presidente do banco central americano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/senado-dos-eua-aprova-kevin-warsh-como-chair-do-federal-reserve.ghtml",
-      "date": "Wed, 13 May 2026 23:06:18 -0000"
-    },
-    {
-      "title": "Samsung n\u00E3o chega a acordo salarial com sindicato na Coreia do Sul; governo tenta evitar greve",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/13/samsung-nao-chega-a-acordo-salarial-com-sindicato-coreia-do-sul-tenta-evitar-greve.ghtml",
-      "date": "Wed, 13 May 2026 20:35:25 -0000"
-    },
-    {
-      "title": "Estudantes que aderirem ao Desenrola Fies ficar\u00E3o proibidos de fazer apostas online, diz Fazenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/estudantes-que-aderirem-ao-desenrola-fies-ficarao-proibidos-de-fazer-apostas-online-diz-fazenda.ghtml",
-      "date": "Wed, 13 May 2026 19:04:21 -0000"
     }
   ]
 }
