@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 178724.22,
+      "price": 179087.34,
+      "change": 1.12,
+      "changeStr": "\u002B1.12%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 45.06,
+      "change": 1.1,
+      "changeStr": "\u002B1.10%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 83.61,
+      "change": -0.82,
+      "changeStr": "-0.82%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 40.55,
+      "change": 2.32,
+      "changeStr": "\u002B2.32%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 17.97,
+      "change": 1.81,
+      "changeStr": "\u002B1.81%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 20.95,
       "change": 0.92,
       "changeStr": "\u002B0.92%"
     },
     {
-      "symbol": "PETR4",
-      "price": 45.05,
-      "change": 1.08,
-      "changeStr": "\u002B1.08%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 83.76,
-      "change": -0.64,
-      "changeStr": "-0.64%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 40.48,
-      "change": 2.14,
-      "changeStr": "\u002B2.14%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 17.96,
-      "change": 1.76,
-      "changeStr": "\u002B1.76%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 20.76,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
-    },
-    {
       "symbol": "MGLU3",
-      "price": 6.85,
-      "change": -1.58,
-      "changeStr": "-1.58%"
+      "price": 6.99,
+      "change": 0.43,
+      "changeStr": "\u002B0.43%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.06,
-      "change": 0.94,
-      "changeStr": "\u002B0.94%"
+      "price": 15.94,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.06,
-      "change": 1.73,
-      "changeStr": "\u002B1.73%"
+      "price": 44.01,
+      "change": 1.62,
+      "changeStr": "\u002B1.62%"
     }
   ],
   "news": [
+    {
+      "title": "China concordou em comprar 200 jatos da Boeing, diz Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/14/china-concordou-em-comprar-200-jatos-da-boeing-diz-trump.ghtml",
+      "date": "Thu, 14 May 2026 17:03:17 -0000"
+    },
     {
       "title": "Azara Capital anuncia aquisi\u00E7\u00E3o da Naskar, fintech acusada de desaparecer com ao menos R$ 335 milh\u00F5es",
       "source": "G1 Economia",
@@ -93,7 +99,7 @@
       "date": "Thu, 14 May 2026 12:57:51 -0000"
     },
     {
-      "title": "D\u00F3lar recua a R$ 4,97 atento ao cen\u00E1rio pol\u00EDtico no Brasil e ao encontro entre Xi e Trump; Ibovespa avan\u00E7a",
+      "title": "D\u00F3lar recua a R$ 4,99 com cen\u00E1rio pol\u00EDtico no Brasil e encontro entre Xi e Trump; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/14/dolar-ibovespa.ghtml",
       "date": "Thu, 14 May 2026 12:00:34 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/05/14/musk-tim-cook-e-outros-bilionarios-da-tecnologia-participam-de-encontro-entre-trump-e-xi-jinping.ghtml",
       "date": "Thu, 14 May 2026 11:54:08 -0000"
-    },
-    {
-      "title": "Brics se re\u00FAne na \u00CDndia com guerra no Oriente M\u00E9dio e crise do petr\u00F3leo no centro das discuss\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/14/brics-se-reune-na-india-com-guerra-no-oriente-medio-e-crise-do-petroleo-no-centro-das-discussoes.ghtml",
-      "date": "Thu, 14 May 2026 10:19:33 -0000"
     }
   ]
 }
