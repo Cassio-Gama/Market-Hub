@@ -2,62 +2,74 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 179087.34,
-      "change": 1.12,
-      "changeStr": "\u002B1.12%"
+      "price": 178429.05,
+      "change": 0.75,
+      "changeStr": "\u002B0.75%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.06,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 83.61,
-      "change": -0.82,
-      "changeStr": "-0.82%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 40.55,
-      "change": 2.32,
-      "changeStr": "\u002B2.32%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 17.97,
-      "change": 1.81,
-      "changeStr": "\u002B1.81%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 20.95,
+      "price": 44.98,
       "change": 0.92,
       "changeStr": "\u002B0.92%"
     },
     {
+      "symbol": "VALE3",
+      "price": 82.76,
+      "change": -1.83,
+      "changeStr": "-1.83%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 40.49,
+      "change": 2.17,
+      "changeStr": "\u002B2.17%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 17.95,
+      "change": 1.7,
+      "changeStr": "\u002B1.70%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 20.74,
+      "change": -0.1,
+      "changeStr": "-0.10%"
+    },
+    {
       "symbol": "MGLU3",
-      "price": 6.99,
-      "change": 0.43,
-      "changeStr": "\u002B0.43%"
+      "price": 6.92,
+      "change": -0.57,
+      "changeStr": "-0.57%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.94,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 15.8,
+      "change": -0.69,
+      "changeStr": "-0.69%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.01,
-      "change": 1.62,
-      "changeStr": "\u002B1.62%"
+      "price": 43.88,
+      "change": 1.32,
+      "changeStr": "\u002B1.32%"
     }
   ],
   "news": [
     {
-      "title": "China concordou em comprar 200 jatos da Boeing, diz Trump",
+      "title": "Do que Daniel Vorcaro \u00E9 acusado? Veja as suspeitas da PF contra o dono do Banco Master ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/14/do-que-daniel-vorcaro-e-acusado-veja-as-suspeitas-da-pf-contra-o-dono-do-banco-master.ghtml",
+      "date": "Thu, 14 May 2026 17:45:33 -0000"
+    },
+    {
+      "title": "Advogado de Musk questiona credibilidade de Altman em julgamento da OpenAI",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/14/advogado-de-musk-questiona-credibilidade-de-altman-em-julgamento-da-openai.ghtml",
+      "date": "Thu, 14 May 2026 17:06:34 -0000"
+    },
+    {
+      "title": "Trump diz que China concordou em comprar 200 jatos da Boeing",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/14/china-concordou-em-comprar-200-jatos-da-boeing-diz-trump.ghtml",
       "date": "Thu, 14 May 2026 17:03:17 -0000"
@@ -99,22 +111,10 @@
       "date": "Thu, 14 May 2026 12:57:51 -0000"
     },
     {
-      "title": "D\u00F3lar recua a R$ 4,99 com cen\u00E1rio pol\u00EDtico no Brasil e encontro entre Xi e Trump; Ibovespa avan\u00E7a",
+      "title": "D\u00F3lar recua a R$ 4,98 com cen\u00E1rio pol\u00EDtico no Brasil e encontro entre Xi e Trump; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/14/dolar-ibovespa.ghtml",
       "date": "Thu, 14 May 2026 12:00:34 -0000"
-    },
-    {
-      "title": "Desemprego sobe em 15 estados brasileiros no 1\u00BA trimestre de 2026, diz IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/14/desemprego-sobe-em-15-estados-brasileiros-no-1o-trimestre-de-2026-diz-ibge.ghtml",
-      "date": "Thu, 14 May 2026 12:00:22 -0000"
-    },
-    {
-      "title": "Musk, Tim Cook e outros bilion\u00E1rios da tecnologia participam de encontro entre Trump e Xi Jinping",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/14/musk-tim-cook-e-outros-bilionarios-da-tecnologia-participam-de-encontro-entre-trump-e-xi-jinping.ghtml",
-      "date": "Thu, 14 May 2026 11:54:08 -0000"
     }
   ]
 }
