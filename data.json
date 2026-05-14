@@ -57,7 +57,37 @@
   ],
   "news": [
     {
-      "title": "Senado dos EUA aprova Kevin Warsh como chair do Federal Reserve",
+      "title": "Mega-Sena pode pagar R$ 60 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/14/mega-sena-pode-pagar-r-60-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+      "date": "Thu, 14 May 2026 03:01:36 -0000"
+    },
+    {
+      "title": "Taxa das blusinhas: calculadora do g1 mostra quanto ficaria sua compra com e sem o imposto",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/14/taxa-das-blusinhas-calculadora-do-g1-mostra-quanto-ficaria-sua-compra-com-e-sem-o-imposto.ghtml",
+      "date": "Thu, 14 May 2026 03:01:20 -0000"
+    },
+    {
+      "title": "Prompt injection: como \u00E9 feito \u0027c\u00F3digo secreto\u0027 usado por advogadas para tentar sabotar processo ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/14/prompt-injection-como-e-feito-codigo-secreto-usado-por-advogadas-para-tentar-sabotar-processo.ghtml",
+      "date": "Thu, 14 May 2026 03:00:34 -0000"
+    },
+    {
+      "title": "Banco do Brasil corta previs\u00E3o de lucro\u00A0para 2026 ap\u00F3s queda de mais de 50% no 1\u00BA trimestre",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/banco-do-brasil-previsao-lucro.ghtml",
+      "date": "Thu, 14 May 2026 01:05:13 -0000"
+    },
+    {
+      "title": "Americanas tem preju\u00EDzo de R$ 329 milh\u00F5es no primeiro trimestre, queda de 33,7%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/13/prejuizo-americanas.ghtml",
+      "date": "Thu, 14 May 2026 00:55:12 -0000"
+    },
+    {
+      "title": "Senado dos EUA aprova Kevin Warsh como presidente do banco central americano",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/13/senado-dos-eua-aprova-kevin-warsh-como-chair-do-federal-reserve.ghtml",
       "date": "Wed, 13 May 2026 23:06:18 -0000"
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/13/brasil-vai-enviar-informacoes-para-ue-para-resolver-veto-a-carne-diz-ministerio.ghtml",
       "date": "Wed, 13 May 2026 16:44:37 -0000"
-    },
-    {
-      "title": "Poupan\u00E7a para a liberdade: O que as cadernetas de escravizados revelam sobre a busca por alforria no s\u00E9culo XIX",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/poupanca-caixa-escravizados-alforria.ghtml",
-      "date": "Wed, 13 May 2026 15:47:43 -0000"
-    },
-    {
-      "title": "Outlook saiu do ar? Usu\u00E1rios relatam instabilidade em servi\u00E7o da Microsoft",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/13/outlook-saiu-do-ar-usuarios-relatam-instabilidade-em-servico-da-microsoft.ghtml",
-      "date": "Wed, 13 May 2026 15:16:06 -0000"
-    },
-    {
-      "title": "O embate sobre a carne brasileira na UE: protecionismo ou quest\u00E3o de sa\u00FAde p\u00FAblica?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/13/o-embate-sobre-a-carne-brasileira-na-ue-protecionismo-ou-questao-de-saude-publica.ghtml",
-      "date": "Wed, 13 May 2026 15:00:12 -0000"
-    },
-    {
-      "title": "Trump e Xi avaliam cortes de tarifas sobre US$ 30 bilh\u00F5es de importa\u00E7\u00F5es de EUA e China",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/trump-e-xi-avaliam-cortes-de-tarifas-sobre-us-30-bilhoes-de-importacoes-de-eua-e-china.ghtml",
-      "date": "Wed, 13 May 2026 14:28:08 -0000"
-    },
-    {
-      "title": "Taxa das blusinhas: veja quanto cada estado cobra em ICMS na importa\u00E7\u00E3o; al\u00EDquotas variam de 17% a 20%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/13/taxa-das-blusinhas-veja-quanto-cada-estado-cobra-em-icms-na-importacao-aliquotas-variam-de-17percent-a-20percent.ghtml",
-      "date": "Wed, 13 May 2026 14:12:15 -0000"
     }
   ]
 }
