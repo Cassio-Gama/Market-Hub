@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176785.2,
-      "change": -0.89,
-      "changeStr": "-0.89%"
+      "price": 176980.42,
+      "change": -0.78,
+      "changeStr": "-0.78%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.43,
-      "change": 0.96,
-      "changeStr": "\u002B0.96%"
+      "price": 45.36,
+      "change": 0.8,
+      "changeStr": "\u002B0.80%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.68,
-      "change": -1.44,
-      "changeStr": "-1.44%"
+      "price": 82.11,
+      "change": -0.92,
+      "changeStr": "-0.92%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.7,
-      "change": -1.73,
-      "changeStr": "-1.73%"
+      "price": 39.72,
+      "change": -1.68,
+      "changeStr": "-1.68%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.63,
-      "change": -1.18,
-      "changeStr": "-1.18%"
+      "price": 17.7,
+      "change": -0.78,
+      "changeStr": "-0.78%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.55,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 20.61,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.7,
-      "change": -3.04,
-      "changeStr": "-3.04%"
+      "price": 6.76,
+      "change": -2.17,
+      "changeStr": "-2.17%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.68,
-      "change": -0.57,
-      "changeStr": "-0.57%"
+      "price": 15.71,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.41,
-      "change": -0.71,
-      "changeStr": "-0.71%"
+      "price": 43.29,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     }
   ],
   "news": [
+    {
+      "title": "Correios realizam leil\u00E3o de 34 im\u00F3veis em diversos estados; veja como participar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/15/correios-realizam-leilao-de-34-imoveis-veja-como-participar.ghtml",
+      "date": "Fri, 15 May 2026 17:54:06 -0000"
+    },
+    {
+      "title": "Audi Q3 evolui para enfrentar BMW e Mercedes, mas fica devendo em tecnologia; veja o teste",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/15/audi-q3-evolui-para-enfrentar-bmw-e-mercedes-mas-fica-devendo-em-tecnologia-veja-o-teste.ghtml",
+      "date": "Fri, 15 May 2026 17:00:33 -0000"
+    },
+    {
+      "title": "China renova licen\u00E7a de mais de 400 exportadores de carne bovina dos EUA ap\u00F3s encontro entre Trump e Xi Jinping",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/15/china-exportacao-frigorificos-estados-unidos.ghtml",
+      "date": "Fri, 15 May 2026 16:56:47 -0000"
+    },
     {
       "title": "Cosan pode vender participa\u00E7\u00E3o na Ra\u00EDzen e holding deve ser dissolvida, diz CEO",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/15/negociacoes-do-brics-terminam-sem-declaracao-conjunta-expondo-divisoes-sobre-guerra-no-ira.ghtml",
       "date": "Fri, 15 May 2026 12:19:03 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe a R$ 5,05 com cen\u00E1rio eleitoral no Brasil e frustra\u00E7\u00E3o com encontro Trump-Xi; Ibovespa recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/15/dolar-ibovespa.ghtml",
-      "date": "Fri, 15 May 2026 12:00:19 -0000"
-    },
-    {
-      "title": "Como cultivar o l\u00FApulo, planta usada na produ\u00E7\u00E3o de cerveja",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/05/15/como-cultivar-o-lupulo-planta-usada-na-producao-de-cerveja.ghtml",
-      "date": "Fri, 15 May 2026 11:41:23 -0000"
-    },
-    {
-      "title": "Quem \u00E9 Ricardo Magro, empres\u00E1rio \u00E0 frente da Refit e alvo de opera\u00E7\u00E3o da Pol\u00EDcia Federal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/15/quem-e-ricardo-magro-empresario-a-frente-da-refit-e-alvo-de-operacao-da-policia-federal.ghtml",
-      "date": "Fri, 15 May 2026 10:41:44 -0000"
     }
   ]
 }
