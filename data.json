@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176980.42,
-      "change": -0.78,
-      "changeStr": "-0.78%"
+      "price": 177238.33,
+      "change": -0.63,
+      "changeStr": "-0.63%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.36,
-      "change": 0.8,
-      "changeStr": "\u002B0.80%"
+      "price": 45.41,
+      "change": 0.91,
+      "changeStr": "\u002B0.91%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.11,
-      "change": -0.92,
-      "changeStr": "-0.92%"
+      "price": 82.9,
+      "change": 0.04,
+      "changeStr": "\u002B0.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.72,
-      "change": -1.68,
-      "changeStr": "-1.68%"
+      "price": 39.8,
+      "change": -1.49,
+      "changeStr": "-1.49%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.7,
-      "change": -0.78,
-      "changeStr": "-0.78%"
+      "price": 17.71,
+      "change": -0.73,
+      "changeStr": "-0.73%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.61,
-      "change": -0.72,
-      "changeStr": "-0.72%"
+      "price": 20.72,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.76,
-      "change": -2.17,
-      "changeStr": "-2.17%"
+      "price": 6.79,
+      "change": -1.74,
+      "changeStr": "-1.74%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.71,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 15.73,
+      "change": -0.25,
+      "changeStr": "-0.25%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.29,
-      "change": -0.98,
-      "changeStr": "-0.98%"
+      "price": 43.1,
+      "change": -1.42,
+      "changeStr": "-1.42%"
     }
   ],
   "news": [
+    {
+      "title": "Petrobras decide desenvolver descoberta de Aram em Santos, diz presidente",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/15/petrobras-aram-pre-sal-santos.ghtml",
+      "date": "Fri, 15 May 2026 19:48:45 -0000"
+    },
+    {
+      "title": "SpaceX, de Musk, define data de entrada na bolsa, diz ag\u00EAncia; empresa pode ter maior IPO da hist\u00F3ria",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/15/spacex-de-musk-define-data-de-entrada-na-bolsa-diz-agencia-empresa-pode-ter-maior-ipo-da-historia.ghtml",
+      "date": "Fri, 15 May 2026 19:10:56 -0000"
+    },
     {
       "title": "Correios realizam leil\u00E3o de 34 im\u00F3veis em diversos estados; veja como participar",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/15/petroleo-encontro-eua-e-china.ghtml",
       "date": "Fri, 15 May 2026 13:38:12 -0000"
-    },
-    {
-      "title": "FGC ainda tem R$ 2,2 bilh\u00F5es dispon\u00EDveis para credores do Banco Master, Will Bank e Pleno",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/15/fgc-ainda-tem-r-22-bilhoes-disponiveis-para-credores-do-banco-master-will-bank-e-pleno.ghtml",
-      "date": "Fri, 15 May 2026 12:58:15 -0000"
-    },
-    {
-      "title": "Brics termina reuni\u00E3o sem declara\u00E7\u00E3o conjunta, expondo divis\u00F5es sobre guerra no Oriente M\u00E9dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/15/negociacoes-do-brics-terminam-sem-declaracao-conjunta-expondo-divisoes-sobre-guerra-no-ira.ghtml",
-      "date": "Fri, 15 May 2026 12:19:03 -0000"
     }
   ]
 }
