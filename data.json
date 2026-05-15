@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175952.31,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 176785.2,
+      "change": -0.89,
+      "changeStr": "-0.89%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.37,
-      "change": 0.82,
-      "changeStr": "\u002B0.82%"
+      "price": 45.43,
+      "change": 0.96,
+      "changeStr": "\u002B0.96%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.9,
-      "change": -2.38,
-      "changeStr": "-2.38%"
+      "price": 81.68,
+      "change": -1.44,
+      "changeStr": "-1.44%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.73,
-      "change": -1.66,
-      "changeStr": "-1.66%"
+      "price": 39.7,
+      "change": -1.73,
+      "changeStr": "-1.73%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.59,
-      "change": -1.4,
-      "changeStr": "-1.40%"
+      "price": 17.63,
+      "change": -1.18,
+      "changeStr": "-1.18%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.5,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 20.55,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.71,
-      "change": -2.89,
-      "changeStr": "-2.89%"
+      "price": 6.7,
+      "change": -3.04,
+      "changeStr": "-3.04%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.79,
-      "change": 0.13,
-      "changeStr": "\u002B0.13%"
+      "price": 15.68,
+      "change": -0.57,
+      "changeStr": "-0.57%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.02,
-      "change": -1.6,
-      "changeStr": "-1.60%"
+      "price": 43.41,
+      "change": -0.71,
+      "changeStr": "-0.71%"
     }
   ],
   "news": [
+    {
+      "title": "Cosan pode vender participa\u00E7\u00E3o na Ra\u00EDzen e holding deve ser dissolvida, diz CEO",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/15/cosan-nao-fara-investimento-na-raizen-e-pode-vender-sua-participacao-diz-ceo.ghtml",
+      "date": "Fri, 15 May 2026 15:38:32 -0000"
+    },
+    {
+      "title": "China diz concordar com EUA em implementar \u0027todos\u0027 os acordos comerciais existentes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/15/china-diz-concordar-com-eua-em-implementar-todos-os-acordos-comerciais-existentes.ghtml",
+      "date": "Fri, 15 May 2026 15:24:10 -0000"
+    },
     {
       "title": "\u00CDndia manda popula\u00E7\u00E3o trabalhar de casa e reduzir consumo de combust\u00EDvel devido \u00E0 alta do petr\u00F3leo",
       "source": "G1 Economia",
@@ -87,7 +99,7 @@
       "date": "Fri, 15 May 2026 12:19:03 -0000"
     },
     {
-      "title": "D\u00F3lar sobe a R$ 5,05 com cen\u00E1rio eleitoral no Brasil e encontro Trump-Xi; Ibovespa recua",
+      "title": "D\u00F3lar sobe a R$ 5,05 com cen\u00E1rio eleitoral no Brasil e frustra\u00E7\u00E3o com encontro Trump-Xi; Ibovespa recua",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/15/dolar-ibovespa.ghtml",
       "date": "Fri, 15 May 2026 12:00:19 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/15/quem-e-ricardo-magro-empresario-a-frente-da-refit-e-alvo-de-operacao-da-policia-federal.ghtml",
       "date": "Fri, 15 May 2026 10:41:44 -0000"
-    },
-    {
-      "title": "Mesmo com aporte de R$ 61 milh\u00F5es de Vorcaro, filme sobre Bolsonaro foi denunciado por condi\u00E7\u00F5es prec\u00E1rias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/15/filme-sobre-bolsonaro-foi-denunciado-por-condicoes-precarias.ghtml",
-      "date": "Fri, 15 May 2026 07:01:25 -0000"
-    },
-    {
-      "title": "Prefeitura de Guarapari diz que Amazon tem interesse em investir em novo aeroporto no ES; projeto \u00E9 avaliado em R$ 1 bi",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/05/15/prefeitura-de-guarapari-diz-que-amazon-tem-interesse-em-investir-em-novo-aeroporto-no-es-projeto-e-avaliado-em-r-1-bi.ghtml",
-      "date": "Fri, 15 May 2026 07:01:20 -0000"
     }
   ]
 }
