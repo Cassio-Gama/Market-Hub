@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 178365.86,
-      "change": 0.72,
-      "changeStr": "\u002B0.72%"
+      "price": 175952.31,
+      "change": -1.35,
+      "changeStr": "-1.35%"
     },
     {
       "symbol": "PETR4",
-      "price": 45,
-      "change": 0.96,
-      "changeStr": "\u002B0.96%"
+      "price": 45.37,
+      "change": 0.82,
+      "changeStr": "\u002B0.82%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.87,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "price": 80.9,
+      "change": -2.38,
+      "changeStr": "-2.38%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.4,
-      "change": 1.94,
-      "changeStr": "\u002B1.94%"
+      "price": 39.73,
+      "change": -1.66,
+      "changeStr": "-1.66%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.84,
-      "change": 1.08,
-      "changeStr": "\u002B1.08%"
+      "price": 17.59,
+      "change": -1.4,
+      "changeStr": "-1.40%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.76,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 20.5,
+      "change": -1.25,
+      "changeStr": "-1.25%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.91,
-      "change": -0.72,
-      "changeStr": "-0.72%"
+      "price": 6.71,
+      "change": -2.89,
+      "changeStr": "-2.89%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.77,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "price": 15.79,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.72,
-      "change": 0.95,
-      "changeStr": "\u002B0.95%"
+      "price": 43.02,
+      "change": -1.6,
+      "changeStr": "-1.60%"
     }
   ],
   "news": [
+    {
+      "title": "\u00CDndia manda popula\u00E7\u00E3o trabalhar de casa e reduzir consumo de combust\u00EDvel devido \u00E0 alta do petr\u00F3leo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/15/india-manda-populacao-trabalhar-de-casa-e-reduzir-consumo-de-combustivel-devido-a-alta-do-petroleo.ghtml",
+      "date": "Fri, 15 May 2026 14:02:04 -0000"
+    },
+    {
+      "title": "Novo Tiguan R-Line: por que o SUV premium da Volkswagen se destaca no Brasil ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/agro-de-gente-pra-gente/especial-publicitario/volkswagen/noticia/2026/05/15/novo-tiguan-r-line-por-que-o-suv-premium-da-volkswagen-se-destaca-no-brasil.ghtml",
+      "date": "Fri, 15 May 2026 14:01:20 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo atinge maior n\u00EDvel em dez dias ap\u00F3s reuni\u00E3o entre Trump e Xi",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/15/petroleo-encontro-eua-e-china.ghtml",
+      "date": "Fri, 15 May 2026 13:38:12 -0000"
+    },
+    {
+      "title": "FGC ainda tem R$ 2,2 bilh\u00F5es dispon\u00EDveis para credores do Banco Master, Will Bank e Pleno",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/15/fgc-ainda-tem-r-22-bilhoes-disponiveis-para-credores-do-banco-master-will-bank-e-pleno.ghtml",
+      "date": "Fri, 15 May 2026 12:58:15 -0000"
+    },
+    {
+      "title": "Brics termina reuni\u00E3o sem declara\u00E7\u00E3o conjunta, expondo divis\u00F5es sobre guerra no Oriente M\u00E9dio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/15/negociacoes-do-brics-terminam-sem-declaracao-conjunta-expondo-divisoes-sobre-guerra-no-ira.ghtml",
+      "date": "Fri, 15 May 2026 12:19:03 -0000"
+    },
+    {
+      "title": "D\u00F3lar sobe a R$ 5,05 com cen\u00E1rio eleitoral no Brasil e encontro Trump-Xi; Ibovespa recua",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/15/dolar-ibovespa.ghtml",
+      "date": "Fri, 15 May 2026 12:00:19 -0000"
+    },
+    {
+      "title": "Como cultivar o l\u00FApulo, planta usada na produ\u00E7\u00E3o de cerveja",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/05/15/como-cultivar-o-lupulo-planta-usada-na-producao-de-cerveja.ghtml",
+      "date": "Fri, 15 May 2026 11:41:23 -0000"
+    },
     {
       "title": "Quem \u00E9 Ricardo Magro, empres\u00E1rio \u00E0 frente da Refit e alvo de opera\u00E7\u00E3o da Pol\u00EDcia Federal",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/05/15/prefeitura-de-guarapari-diz-que-amazon-tem-interesse-em-investir-em-novo-aeroporto-no-es-projeto-e-avaliado-em-r-1-bi.ghtml",
       "date": "Fri, 15 May 2026 07:01:20 -0000"
-    },
-    {
-      "title": "Imposto de Renda 2026: doa\u00E7\u00F5es poderiam render R$ 15 bilh\u00F5es a projetos sociais, mas s\u00F3 2% s\u00E3o feitas; veja como fazer",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/15/imposto-de-renda-2026-doacoes-poderiam-render-r-15-bilhoes-a-projetos-sociais-mas-so-2percent-sao-feitas-veja-como-fazer.ghtml",
-      "date": "Fri, 15 May 2026 03:01:14 -0000"
-    },
-    {
-      "title": "Abono salarial PIS/Pasep 2026: novo pagamento ser\u00E1 feito nesta sexta; saiba quem recebe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/15/abono-salarial-pispasep-2026-novo-pagamento-sera-feito-nesta-sexta-saiba-quem-recebe.ghtml",
-      "date": "Fri, 15 May 2026 03:01:09 -0000"
-    },
-    {
-      "title": "Nubank tem lucro de US$ 871,4 milh\u00F5es no 1\u00BA trimestre, abaixo do esperado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/14/lucro-nubank.ghtml",
-      "date": "Fri, 15 May 2026 00:54:46 -0000"
-    },
-    {
-      "title": "Caixa tem lucro de R$ 3,5 bilh\u00F5es no 1\u00BA trimestre, queda de 34,4% em um ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/14/lucro-caixa-1o-trimestre.ghtml",
-      "date": "Fri, 15 May 2026 00:38:48 -0000"
-    },
-    {
-      "title": "Mega-Sena acumula e pr\u00EAmio vai a R$ 65 milh\u00F5es; veja n\u00FAmeros do concurso 3.008",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/14/mega-sena-concurso-3008-confira-os-numeros-sorteados.ghtml",
-      "date": "Fri, 15 May 2026 00:03:17 -0000"
-    },
-    {
-      "title": "Infla\u00E7\u00E3o na Argentina desacelera para 2,6% em abril e acumula 32,4% em 12 meses",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/14/inflacao-argentina-abril.ghtml",
-      "date": "Thu, 14 May 2026 22:29:26 -0000"
-    },
-    {
-      "title": "Mulheres negras vivem com metade da renda dos homens brancos, aponta estudo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/14/mulheres-negras-vivem-com-metade-da-renda-dos-homens-brancos-aponta-estudo.ghtml",
-      "date": "Thu, 14 May 2026 21:00:33 -0000"
     }
   ]
 }
