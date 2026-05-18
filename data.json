@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176911.86,
-      "change": -0.21,
-      "changeStr": "-0.21%"
+      "price": 176556.8,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     },
     {
       "symbol": "PETR4",
-      "price": 46,
-      "change": 1.17,
-      "changeStr": "\u002B1.17%"
+      "price": 46.29,
+      "change": 1.8,
+      "changeStr": "\u002B1.80%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.07,
-      "change": -1.71,
-      "changeStr": "-1.71%"
+      "price": 81.59,
+      "change": -2.29,
+      "changeStr": "-2.29%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.63,
-      "change": -0.18,
-      "changeStr": "-0.18%"
+      "price": 39.49,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.65,
-      "change": -0.23,
-      "changeStr": "-0.23%"
+      "price": 17.64,
+      "change": -0.28,
+      "changeStr": "-0.28%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.35,
-      "change": -1.69,
-      "changeStr": "-1.69%"
+      "price": 20.38,
+      "change": -1.55,
+      "changeStr": "-1.55%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.84,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 6.68,
+      "change": -1.62,
+      "changeStr": "-1.62%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.8,
-      "change": 0.7,
-      "changeStr": "\u002B0.70%"
+      "price": 15.81,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.51,
-      "change": -1.44,
-      "changeStr": "-1.44%"
+      "price": 42.14,
+      "change": -2.3,
+      "changeStr": "-2.30%"
     }
   ],
   "news": [
+    {
+      "title": "Elon Musk perde processo contra a OpenAI",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/18/elon-musk-perde-processo-contra-a-openai.ghtml",
+      "date": "Mon, 18 May 2026 17:36:22 -0000"
+    },
     {
       "title": "Com tens\u00E3o no Oriente M\u00E9dio e alta do petr\u00F3leo, governo sobe estimativa de infla\u00E7\u00E3o para 4,5% neste ano, no limite da meta",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/18/dolar-ibovespa.ghtml",
       "date": "Mon, 18 May 2026 12:00:05 -0000"
-    },
-    {
-      "title": "Em Paris, ministro da Fazenda faz \u0027chamada\u0027 por investimentos estrangeiros e diz que Brasil est\u00E1 \u0027barato\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/18/em-paris-ministro-da-fazenda-faz-chamada-por-investimentos-estrangeiros-e-diz-que-brasil-esta-barato.ghtml",
-      "date": "Mon, 18 May 2026 11:50:56 -0000"
     }
   ]
 }
