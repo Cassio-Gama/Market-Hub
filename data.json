@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176556.8,
-      "change": -0.41,
-      "changeStr": "-0.41%"
+      "price": 176975.81,
+      "change": -0.17,
+      "changeStr": "-0.17%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.29,
-      "change": 1.8,
-      "changeStr": "\u002B1.80%"
+      "price": 46.44,
+      "change": 2.13,
+      "changeStr": "\u002B2.13%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.59,
-      "change": -2.29,
-      "changeStr": "-2.29%"
+      "price": 81.83,
+      "change": -2,
+      "changeStr": "-2.00%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.49,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 39.62,
+      "change": -0.2,
+      "changeStr": "-0.20%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.64,
-      "change": -0.28,
-      "changeStr": "-0.28%"
+      "price": 17.66,
+      "change": -0.17,
+      "changeStr": "-0.17%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.38,
-      "change": -1.55,
-      "changeStr": "-1.55%"
+      "price": 20.42,
+      "change": -1.35,
+      "changeStr": "-1.35%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.68,
-      "change": -1.62,
-      "changeStr": "-1.62%"
+      "price": 6.61,
+      "change": -2.65,
+      "changeStr": "-2.65%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,24 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 42.14,
-      "change": -2.3,
-      "changeStr": "-2.30%"
+      "price": 42.34,
+      "change": -1.83,
+      "changeStr": "-1.83%"
     }
   ],
   "news": [
+    {
+      "title": "Governo Trump imp\u00F5e novas san\u00E7\u00F5es contra pol\u00EDticos e militares cubanos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/18/governo-trump-sancoes-cuba.ghtml",
+      "date": "Mon, 18 May 2026 20:33:25 -0000"
+    },
+    {
+      "title": "Uber amplia participa\u00E7\u00E3o na Delivery Hero e se torna maior acionista da empresa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/18/uber-delivery-hero.ghtml",
+      "date": "Mon, 18 May 2026 20:00:05 -0000"
+    },
     {
       "title": "Elon Musk perde processo contra a OpenAI",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/05/18/comissao-aprova-lei-que-suspende-por-10-anos-cnh-de-motorista-que-causar-morte-ao-volante.ghtml",
       "date": "Mon, 18 May 2026 13:13:08 -0000"
-    },
-    {
-      "title": "\u0027Pr\u00E9via\u0027 do PIB do Banco Central mostra crescimento de 1,3% no 1\u00BA trimestre e acelera\u00E7\u00E3o da atividade",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/18/previa-do-pib-do-banco-central-mostra-expansao-de-13percent-no-1o-trimestre.ghtml",
-      "date": "Mon, 18 May 2026 12:06:46 -0000"
-    },
-    {
-      "title": "D\u00F3lar e Ibovespa caem com impasse entre EUA-Ir\u00E3 e cen\u00E1rio pol\u00EDtico no radar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/18/dolar-ibovespa.ghtml",
-      "date": "Mon, 18 May 2026 12:00:05 -0000"
     }
   ]
 }
