@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177283.83,
-      "change": -0.61,
-      "changeStr": "-0.61%"
+      "price": 176158.69,
+      "change": -0.63,
+      "changeStr": "-0.63%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.47,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
+      "price": 44.94,
+      "change": -1.17,
+      "changeStr": "-1.17%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.5,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 82.63,
+      "change": -1.04,
+      "changeStr": "-1.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.7,
-      "change": -1.73,
-      "changeStr": "-1.73%"
+      "price": 39.49,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.69,
-      "change": -0.84,
-      "changeStr": "-0.84%"
+      "price": 17.65,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.7,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 20.49,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.79,
-      "change": -1.74,
-      "changeStr": "-1.74%"
+      "price": 6.92,
+      "change": 1.91,
+      "changeStr": "\u002B1.91%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.69,
-      "change": -0.51,
-      "changeStr": "-0.51%"
+      "price": 15.78,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.13,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 42.5,
+      "change": -1.46,
+      "changeStr": "-1.46%"
     }
   ],
   "news": [
+    {
+      "title": "Trump desiste de processo bilion\u00E1rio contra Receita dos EUA ap\u00F3s vazamento de declara\u00E7\u00F5es fiscais ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/18/donald-trump-desiste-de-processo-de-us-10-bilhoes-contra-receita-dos-eua.ghtml",
+      "date": "Mon, 18 May 2026 13:17:30 -0000"
+    },
+    {
+      "title": "Comiss\u00E3o aprova projeto de lei que suspende por 10 anos CNH de motorista que causar morte ao volante",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/18/comissao-aprova-lei-que-suspende-por-10-anos-cnh-de-motorista-que-causar-morte-ao-volante.ghtml",
+      "date": "Mon, 18 May 2026 13:13:08 -0000"
+    },
+    {
+      "title": "\u0027Pr\u00E9via\u0027 do PIB do Banco Central mostra crescimento de 1,3% no 1\u00BA trimestre e acelera\u00E7\u00E3o da atividade",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/18/previa-do-pib-do-banco-central-mostra-expansao-de-13percent-no-1o-trimestre.ghtml",
+      "date": "Mon, 18 May 2026 12:06:46 -0000"
+    },
+    {
+      "title": "D\u00F3lar e Ibovespa caem com petr\u00F3leo e cen\u00E1rio pol\u00EDtico no radar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/18/dolar-ibovespa.ghtml",
+      "date": "Mon, 18 May 2026 12:00:05 -0000"
+    },
+    {
+      "title": "Em Paris, ministro da Fazenda faz \u0027chamada\u0027 por investimentos estrangeiros e diz que Brasil est\u00E1 \u0027barato\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/18/em-paris-ministro-da-fazenda-faz-chamada-por-investimentos-estrangeiros-e-diz-que-brasil-esta-barato.ghtml",
+      "date": "Mon, 18 May 2026 11:50:56 -0000"
+    },
+    {
+      "title": "Mercado eleva estimativa de infla\u00E7\u00E3o pela 10\u00AA semana seguida em 2026 e v\u00EA espa\u00E7o menor para corte de juros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/18/mercado-eleva-estimativa-de-inflacao-pela-10a-semana-seguida-em-2026-e-ve-espaco-menor-para-corte-de-juros.ghtml",
+      "date": "Mon, 18 May 2026 11:31:38 -0000"
+    },
+    {
+      "title": "Carros inteligentes: como voc\u00EA pode estar sendo espionado sem saber (e o que fazer para evitar)",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/18/carros-inteligentes-como-voce-pode-estar-sendo-espionado-sem-saber-e-o-que-fazer-para-evitar.ghtml",
+      "date": "Mon, 18 May 2026 11:08:44 -0000"
+    },
+    {
+      "title": "Fim do sonho da casa pr\u00F3pria: como construtoras fraudaram fam\u00EDlias com dinheiro da Caixa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/05/18/casa-propria-como-construtoras-fraudaram-familias-com-dinheiro-da-caixa.ghtml",
+      "date": "Mon, 18 May 2026 10:20:19 -0000"
+    },
     {
       "title": "O que investimento de Joesley Batista em fabricante brasileira de armamentos em dificuldade indica sobre boom do setor b\u00E9lico",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/05/18/trump-sobre-ira-estao-morrendo-de-vontade-de-assinar-acordo.ghtml",
       "date": "Mon, 18 May 2026 09:23:09 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo dispara e passa de US$ 111 ap\u00F3s Trump amea\u00E7ar Ir\u00E3 novamente",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/18/petroleo-dispara-e-passa-de-us-111-apos-trump-ameacar-ira-novamente.ghtml",
-      "date": "Mon, 18 May 2026 05:00:33 -0000"
-    },
-    {
-      "title": "Crimes financeiros: por que o Brasil n\u00E3o consegue impedi-los? - O Assunto #1721",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/05/18/crimes-financeiros-por-que-o-brasil-nao-consegue-impedi-los-o-assunto-1721.ghtml",
-      "date": "Mon, 18 May 2026 03:30:34 -0000"
-    },
-    {
-      "title": "China deve comprar mais produtos agr\u00EDcolas dos EUA, diz Casa Branca",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/18/china-deve-comprar-mais-produtos-agricolas-dos-eua-diz-casa-branca.ghtml",
-      "date": "Mon, 18 May 2026 03:28:22 -0000"
-    },
-    {
-      "title": "Bolsa Fam\u00EDlia 2026: pagamentos de maio come\u00E7am nesta segunda; veja calend\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/18/bolsa-familia-2026-pagamentos-de-maio.ghtml",
-      "date": "Mon, 18 May 2026 03:01:02 -0000"
-    },
-    {
-      "title": "Embalagens de salgadinhos ficam preto e branco ap\u00F3s guerra no Ir\u00E3 provocar falta de tinta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/05/17/embalagens-de-salgadinhos-ficam-preto-e-branco-apos-guerra-no-ira-provocar-falta-de-tinta.ghtml",
-      "date": "Sun, 17 May 2026 08:00:55 -0000"
-    },
-    {
-      "title": "Por motivos religiosos, m\u00E9dico cria cl\u00EDnica de fertiliza\u00E7\u00E3o conservadora que n\u00E3o descarta embri\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/17/por-motivos-religiosos-medico-cria-clinica-de-fertilizacao-conservadora-que-nao-descarta-embrioes.ghtml",
-      "date": "Sun, 17 May 2026 07:01:20 -0000"
-    },
-    {
-      "title": "Caf\u00E9 agroecol\u00F3gico ganha espa\u00E7o no ES com produ\u00E7\u00E3o sustent\u00E1vel e gr\u00E3os com mais sabor",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/05/17/cafe-agroecologico-ganha-espaco-no-es-com-producao-sustentavel-e-graos-com-mais-sabor.ghtml",
-      "date": "Sun, 17 May 2026 07:01:04 -0000"
-    },
-    {
-      "title": "Novo \u2018morango do amor\u2019? Entenda por que bolo-pudim virou febre em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/05/17/entenda-por-que-bolo-pudim-virou-febre.ghtml",
-      "date": "Sun, 17 May 2026 06:00:41 -0000"
     }
   ]
 }
