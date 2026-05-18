@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176158.69,
-      "change": -0.63,
-      "changeStr": "-0.63%"
+      "price": 176911.86,
+      "change": -0.21,
+      "changeStr": "-0.21%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.94,
-      "change": -1.17,
-      "changeStr": "-1.17%"
+      "price": 46,
+      "change": 1.17,
+      "changeStr": "\u002B1.17%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.63,
-      "change": -1.04,
-      "changeStr": "-1.04%"
+      "price": 82.07,
+      "change": -1.71,
+      "changeStr": "-1.71%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.49,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 39.63,
+      "change": -0.18,
+      "changeStr": "-0.18%"
     },
     {
       "symbol": "BBDC4",
@@ -32,30 +32,60 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 20.49,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 20.35,
+      "change": -1.69,
+      "changeStr": "-1.69%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.92,
-      "change": 1.91,
-      "changeStr": "\u002B1.91%"
+      "price": 6.84,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.78,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
+      "price": 15.8,
+      "change": 0.7,
+      "changeStr": "\u002B0.70%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.5,
-      "change": -1.46,
-      "changeStr": "-1.46%"
+      "price": 42.51,
+      "change": -1.44,
+      "changeStr": "-1.44%"
     }
   ],
   "news": [
+    {
+      "title": "Com tens\u00E3o no Oriente M\u00E9dio e alta do petr\u00F3leo, governo sobe estimativa de infla\u00E7\u00E3o para 4,5% neste ano, no limite da meta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/18/com-tensao-no-oriente-medio-e-alta-do-petroleo-governo-sobe-estimativa-de-inflacao-para-45percent-neste-ano-no-limite-da-meta.ghtml",
+      "date": "Mon, 18 May 2026 16:30:34 -0000"
+    },
+    {
+      "title": "OpenAI diz que ChatGPT n\u00E3o \u00E9 advogado e pede rejei\u00E7\u00E3o de a\u00E7\u00E3o de seguradora",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/18/openai-diz-que-chatgpt-nao-e-advogado-e-pede-rejeicao-de-acao-de-seguradora.ghtml",
+      "date": "Mon, 18 May 2026 16:29:25 -0000"
+    },
+    {
+      "title": "O que as novas compras agr\u00EDcolas da China nos EUA significam para o com\u00E9rcio global?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/18/compras-agricolas-china-eua.ghtml",
+      "date": "Mon, 18 May 2026 15:29:36 -0000"
+    },
+    {
+      "title": "\u0027Sou o primeiro a topar\u0027 discuss\u00E3o de imposto sobre ultrarricos no G7, diz Durigan em Paris",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/18/sou-o-primeiro-a-topar-discussao-de-imposto-sobre-ultrarricos-no-g7-diz-durigan-em-paris.ghtml",
+      "date": "Mon, 18 May 2026 15:05:14 -0000"
+    },
+    {
+      "title": "Samsung Electronics e sindicato estendem negocia\u00E7\u00F5es para evitar greve",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/18/samsung-electronics-e-sindicato-estendem-negociacoes-para-evitar-greve.ghtml",
+      "date": "Mon, 18 May 2026 14:35:28 -0000"
+    },
     {
       "title": "Trump desiste de processo bilion\u00E1rio contra Receita dos EUA ap\u00F3s vazamento de declara\u00E7\u00F5es fiscais ",
       "source": "G1 Economia",
@@ -75,7 +105,7 @@
       "date": "Mon, 18 May 2026 12:06:46 -0000"
     },
     {
-      "title": "D\u00F3lar e Ibovespa caem com petr\u00F3leo e cen\u00E1rio pol\u00EDtico no radar",
+      "title": "D\u00F3lar e Ibovespa caem com impasse entre EUA-Ir\u00E3 e cen\u00E1rio pol\u00EDtico no radar",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/18/dolar-ibovespa.ghtml",
       "date": "Mon, 18 May 2026 12:00:05 -0000"
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/18/em-paris-ministro-da-fazenda-faz-chamada-por-investimentos-estrangeiros-e-diz-que-brasil-esta-barato.ghtml",
       "date": "Mon, 18 May 2026 11:50:56 -0000"
-    },
-    {
-      "title": "Mercado eleva estimativa de infla\u00E7\u00E3o pela 10\u00AA semana seguida em 2026 e v\u00EA espa\u00E7o menor para corte de juros",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/18/mercado-eleva-estimativa-de-inflacao-pela-10a-semana-seguida-em-2026-e-ve-espaco-menor-para-corte-de-juros.ghtml",
-      "date": "Mon, 18 May 2026 11:31:38 -0000"
-    },
-    {
-      "title": "Carros inteligentes: como voc\u00EA pode estar sendo espionado sem saber (e o que fazer para evitar)",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/18/carros-inteligentes-como-voce-pode-estar-sendo-espionado-sem-saber-e-o-que-fazer-para-evitar.ghtml",
-      "date": "Mon, 18 May 2026 11:08:44 -0000"
-    },
-    {
-      "title": "Fim do sonho da casa pr\u00F3pria: como construtoras fraudaram fam\u00EDlias com dinheiro da Caixa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/05/18/casa-propria-como-construtoras-fraudaram-familias-com-dinheiro-da-caixa.ghtml",
-      "date": "Mon, 18 May 2026 10:20:19 -0000"
-    },
-    {
-      "title": "O que investimento de Joesley Batista em fabricante brasileira de armamentos em dificuldade indica sobre boom do setor b\u00E9lico",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/05/18/o-que-investimento-de-joesley-batista-em-fabricante-brasileira-de-armamentos-em-dificuldade-indica-sobre-boom-do-setor-belico.ghtml",
-      "date": "Mon, 18 May 2026 09:45:09 -0000"
-    },
-    {
-      "title": "Trump sobre Ir\u00E3: \u0027Est\u00E3o morrendo de vontade de assinar acordo\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/05/18/trump-sobre-ira-estao-morrendo-de-vontade-de-assinar-acordo.ghtml",
-      "date": "Mon, 18 May 2026 09:23:09 -0000"
     }
   ]
 }
