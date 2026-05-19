@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176975.81,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 174408.8,
+      "change": -1.45,
+      "changeStr": "-1.45%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.44,
-      "change": 2.13,
-      "changeStr": "\u002B2.13%"
+      "price": 45.85,
+      "change": -1.27,
+      "changeStr": "-1.27%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.83,
-      "change": -2,
-      "changeStr": "-2.00%"
+      "price": 80.43,
+      "change": -1.71,
+      "changeStr": "-1.71%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.62,
-      "change": -0.2,
-      "changeStr": "-0.20%"
+      "price": 39.04,
+      "change": -1.46,
+      "changeStr": "-1.46%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.66,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 17.47,
+      "change": -1.08,
+      "changeStr": "-1.08%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.42,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 20.21,
+      "change": -1.03,
+      "changeStr": "-1.03%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.61,
-      "change": -2.65,
-      "changeStr": "-2.65%"
+      "price": 6.54,
+      "change": -1.06,
+      "changeStr": "-1.06%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.81,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 15.84,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.34,
-      "change": -1.83,
-      "changeStr": "-1.83%"
+      "price": 41.88,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar inicia o dia atento a negocia\u00E7\u00F5es entre EUA-Ir\u00E3 e cen\u00E1rio eleitoral no Brasil",
+      "title": "Gasolina cara faz americanos improvisarem at\u00E9 com carros de brinquedo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/19/gasolina-cara-faz-americanos-improvisarem-ate-com-carros-de-brinquedo.ghtml",
+      "date": "Tue, 19 May 2026 16:12:09 -0000"
+    },
+    {
+      "title": "Panini vai atualizar figurinhas da sele\u00E7\u00E3o ap\u00F3s convoca\u00E7\u00E3o; veja quem entra e sai no \u00E1lbum da Copa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/19/atualizacao-figurinhas-album-da-copa.ghtml",
+      "date": "Tue, 19 May 2026 15:35:33 -0000"
+    },
+    {
+      "title": "Gal\u00EDpolo diz que uso de dinheiro de fraudes do Master \u0027chama aten\u00E7\u00E3o\u0027, mas minimiza risco ao sistema financeiro: \u00273\u00AA divis\u00E3o\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/19/galipolo-diz-que-master-era-da-3a-divisao-de-futebol-do-sistema-financeiro-o-que-chama-a-atencao-e-o-que-se-fazia-com-o-dinheiro.ghtml",
+      "date": "Tue, 19 May 2026 14:50:10 -0000"
+    },
+    {
+      "title": "EUA n\u00E3o t\u00EAm pressa em prorrogar tr\u00E9gua comercial com China, diz Bessent",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/19/eua-nao-tem-pressa-em-prorrogar-tregua-comercial-com-china-diz-bessent.ghtml",
+      "date": "Tue, 19 May 2026 14:34:45 -0000"
+    },
+    {
+      "title": "Presidente do BC nega rivalidade entre PIX e cart\u00F5es e diz que sistema ampliou uso de cr\u00E9dito",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/19/presidente-do-bc-nega-rivalidade-e-diz-que-pix-aumentou-volume-de-emprestimos-do-cartao-de-credito-ao-bancarizar-populacao.ghtml",
+      "date": "Tue, 19 May 2026 13:41:44 -0000"
+    },
+    {
+      "title": "Putin chega \u00E0 China mais dependente de Xi em com\u00E9rcio, tecnologia e finan\u00E7as",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/19/putin-chega-a-china-mais-dependente-de-xi-em-comercio-tecnologia-e-financas.ghtml",
+      "date": "Tue, 19 May 2026 13:20:40 -0000"
+    },
+    {
+      "title": "Exporta\u00E7\u00F5es globais de caf\u00E9 crescem, mas embarques do Brasil recuam 16,8%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/19/exportacoes-globais-de-cafe-crescem-mas-embarques-do-brasil-recuam-168percent.ghtml",
+      "date": "Tue, 19 May 2026 12:58:39 -0000"
+    },
+    {
+      "title": "Novo foguete da SpaceX, de Elon Musk, encara voo crucial antes de estreia na bolsa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/19/novo-foguete-da-spacex-elon-musk-encara-voo-crucial-antes-de-estreia-na-bolsa.ghtml",
+      "date": "Tue, 19 May 2026 12:39:30 -0000"
+    },
+    {
+      "title": "L\u00EDder nacional na produ\u00E7\u00E3o, RS se prepara para safra recorde de noz-pec\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/19/lider-nacional-na-producao-rs-se-prepara-para-safra-recorde-de-noz-peca.ghtml",
+      "date": "Tue, 19 May 2026 12:09:41 -0000"
+    },
+    {
+      "title": "Ibovespa cai com tens\u00E3o entre EUA e Ir\u00E3 e cautela sobre cen\u00E1rio eleitoral no Brasil; d\u00F3lar sobe para R$ 5",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/19/dolar-ibovespa.ghtml",
       "date": "Tue, 19 May 2026 12:00:07 -0000"
-    },
-    {
-      "title": "Sob press\u00E3o de Trump, Uni\u00E3o Europeia corre para reduzir tarifas sobre produtos dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/19/sob-pressao-de-trump-uniao-europeia-corre-para-reduzir-tarifas-sobre-produtos-dos-eua.ghtml",
-      "date": "Tue, 19 May 2026 11:51:42 -0000"
-    },
-    {
-      "title": "Volkswagen avalia ceder f\u00E1bricas ociosas para montadoras chinesas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/19/volkswagen-avalia-ceder-fabricas-ociosas-para-montadoras-chinesas.ghtml",
-      "date": "Tue, 19 May 2026 10:44:00 -0000"
-    },
-    {
-      "title": "Por que o canal do Panam\u00E1 \u00E9 o grande benefici\u00E1rio da crise no estreito de Ormuz",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/19/por-que-o-canal-do-panama-e-o-grande-beneficiario-da-crise-no-estreito-de-ormuz.ghtml",
-      "date": "Tue, 19 May 2026 10:18:45 -0000"
-    },
-    {
-      "title": "Casal diz ter ca\u00EDdo em golpe da casa pr\u00F3pria com ajuda de funcion\u00E1rio da Caixa: \u0027Ele dizia que resolveria tudo\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/05/19/casal-diz-ter-caido-em-golpe-da-casa-propria-com-ajuda-de-funcionario-da-caixa-ele-dizia-que-resolveria-tudo.ghtml",
-      "date": "Tue, 19 May 2026 07:01:45 -0000"
-    },
-    {
-      "title": "Vai ter folga nos jogos do Brasil? O que diz a lei trabalhista",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/19/jogos-do-brasil-folga-trabalho.ghtml",
-      "date": "Tue, 19 May 2026 07:01:18 -0000"
-    },
-    {
-      "title": "\u0027Menino Ney\u0027: at\u00E9 onde o talento compensa problemas de comportamento de um profissional?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/19/ate-onde-o-talento-compensa-problemas-de-comportamento-de-um-profissional.ghtml",
-      "date": "Tue, 19 May 2026 07:01:14 -0000"
-    },
-    {
-      "title": "Liquida\u00E7\u00E3o do Banco Master deve dominar audi\u00EAncia p\u00FAblica de Gal\u00EDpolo em comiss\u00E3o do Senado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/05/19/liquidacao-do-banco-master-deve-dominar-audiencia-publica-de-galipolo-em-comissao-do-senado.ghtml",
-      "date": "Tue, 19 May 2026 07:00:40 -0000"
-    },
-    {
-      "title": "R$ 3 bilh\u00F5es por dia: o que est\u00E1 por tr\u00E1s da amea\u00E7a de greve na Samsung e por que ela preocupa tanto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/19/o-que-esta-por-tras-da-ameaca-de-greve-na-samsung-e-por-que-ela-preocupa-tanto.ghtml",
-      "date": "Tue, 19 May 2026 06:00:54 -0000"
-    },
-    {
-      "title": "INSS: novas regras do empr\u00E9stimo consignado passam a valer nesta ter\u00E7a; biometria ser\u00E1 obrigat\u00F3ria",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/19/inss-novas-regras-do-emprestimo-consignado-passam-a-valer-nesta-terca-biometria-sera-obrigatoria.ghtml",
-      "date": "Tue, 19 May 2026 05:00:40 -0000"
     }
   ]
 }
