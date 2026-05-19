@@ -2,62 +2,92 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174408.8,
-      "change": -1.45,
-      "changeStr": "-1.45%"
+      "price": 174279.55,
+      "change": -1.52,
+      "changeStr": "-1.52%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.85,
-      "change": -1.27,
-      "changeStr": "-1.27%"
+      "price": 46.1,
+      "change": -0.73,
+      "changeStr": "-0.73%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.43,
-      "change": -1.71,
-      "changeStr": "-1.71%"
+      "price": 80.8,
+      "change": -1.26,
+      "changeStr": "-1.26%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.04,
-      "change": -1.46,
-      "changeStr": "-1.46%"
+      "price": 38.81,
+      "change": -2.04,
+      "changeStr": "-2.04%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.47,
-      "change": -1.08,
-      "changeStr": "-1.08%"
+      "price": 17.39,
+      "change": -1.53,
+      "changeStr": "-1.53%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.21,
-      "change": -1.03,
-      "changeStr": "-1.03%"
+      "price": 20.12,
+      "change": -1.47,
+      "changeStr": "-1.47%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.54,
-      "change": -1.06,
-      "changeStr": "-1.06%"
+      "price": 6.57,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.84,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 15.82,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 41.88,
-      "change": -1.09,
-      "changeStr": "-1.09%"
+      "price": 41.75,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     }
   ],
   "news": [
     {
-      "title": "Gasolina cara faz americanos improvisarem at\u00E9 com carros de brinquedo",
+      "title": "Aneel aprova uso de at\u00E9 R$ 5,5 bilh\u00F5es para reduzir conta de luz em at\u00E9 4,5% em 2026",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/19/aneel-aprova-regra-para-destinar-ate-r-55-bi-para-reducao-de-tarifas-de-energia-em-2026.ghtml",
+      "date": "Tue, 19 May 2026 19:00:05 -0000"
+    },
+    {
+      "title": "Lula anuncia R$ 30 bilh\u00F5es em cr\u00E9dito para compra de carros por motoristas de aplicativo e taxistas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/19/lula-anuncia-r-30-bilhoes-em-credito-para-motoristas-de-aplicativo-e-taxistas.ghtml",
+      "date": "Tue, 19 May 2026 18:54:49 -0000"
+    },
+    {
+      "title": "Camisa do Brasil na Copa do Mundo \u00E9 a mais cara entre pa\u00EDses campe\u00F5es e tem alta acima da infla\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/19/camisa-do-brasil-na-copa-do-mundo-e-a-mais-cara-entre-paises-campeoes-e-tem-alta-acima-da-inflacao.ghtml",
+      "date": "Tue, 19 May 2026 17:51:24 -0000"
+    },
+    {
+      "title": "Gemini Omni: nova tecnologia do Google permite editar v\u00EDdeos \u0027conversando\u0027 com a IA ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/19/gemini-omni-nova-tecnologia-do-google-permite-editar-videos-conversando-com-a-ia.ghtml",
+      "date": "Tue, 19 May 2026 17:45:33 -0000"
+    },
+    {
+      "title": "Exporta\u00E7\u00F5es do agro crescem 11,7% e atingem recorde de US$ 16,65 bilh\u00F5es em abril",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/19/exportacoes-do-agro-crescem-recorde-abril.ghtml",
+      "date": "Tue, 19 May 2026 17:06:22 -0000"
+    },
+    {
+      "title": "Carrinho da Barbie e menos viagens: americanos precisam improvisar ap\u00F3s disparada da gasolina nos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/19/gasolina-cara-faz-americanos-improvisarem-ate-com-carros-de-brinquedo.ghtml",
       "date": "Tue, 19 May 2026 16:12:09 -0000"
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/19/presidente-do-bc-nega-rivalidade-e-diz-que-pix-aumentou-volume-de-emprestimos-do-cartao-de-credito-ao-bancarizar-populacao.ghtml",
       "date": "Tue, 19 May 2026 13:41:44 -0000"
-    },
-    {
-      "title": "Putin chega \u00E0 China mais dependente de Xi em com\u00E9rcio, tecnologia e finan\u00E7as",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/19/putin-chega-a-china-mais-dependente-de-xi-em-comercio-tecnologia-e-financas.ghtml",
-      "date": "Tue, 19 May 2026 13:20:40 -0000"
-    },
-    {
-      "title": "Exporta\u00E7\u00F5es globais de caf\u00E9 crescem, mas embarques do Brasil recuam 16,8%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/19/exportacoes-globais-de-cafe-crescem-mas-embarques-do-brasil-recuam-168percent.ghtml",
-      "date": "Tue, 19 May 2026 12:58:39 -0000"
-    },
-    {
-      "title": "Novo foguete da SpaceX, de Elon Musk, encara voo crucial antes de estreia na bolsa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/19/novo-foguete-da-spacex-elon-musk-encara-voo-crucial-antes-de-estreia-na-bolsa.ghtml",
-      "date": "Tue, 19 May 2026 12:39:30 -0000"
-    },
-    {
-      "title": "L\u00EDder nacional na produ\u00E7\u00E3o, RS se prepara para safra recorde de noz-pec\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/19/lider-nacional-na-producao-rs-se-prepara-para-safra-recorde-de-noz-peca.ghtml",
-      "date": "Tue, 19 May 2026 12:09:41 -0000"
-    },
-    {
-      "title": "Ibovespa cai com tens\u00E3o entre EUA e Ir\u00E3 e cautela sobre cen\u00E1rio eleitoral no Brasil; d\u00F3lar sobe para R$ 5",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/19/dolar-ibovespa.ghtml",
-      "date": "Tue, 19 May 2026 12:00:07 -0000"
     }
   ]
 }
