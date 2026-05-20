@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177362.45,
-      "change": 1.77,
-      "changeStr": "\u002B1.77%"
+      "price": 177890.77,
+      "change": 2.07,
+      "changeStr": "\u002B2.07%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.04,
-      "change": -2.28,
-      "changeStr": "-2.28%"
+      "price": 44.73,
+      "change": -2.95,
+      "changeStr": "-2.95%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.15,
-      "change": 0.16,
-      "changeStr": "\u002B0.16%"
+      "price": 81.95,
+      "change": 1.15,
+      "changeStr": "\u002B1.15%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.75,
-      "change": 2.5,
-      "changeStr": "\u002B2.50%"
+      "price": 39.79,
+      "change": 2.6,
+      "changeStr": "\u002B2.60%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.89,
-      "change": 2.88,
-      "changeStr": "\u002B2.88%"
+      "price": 17.94,
+      "change": 3.16,
+      "changeStr": "\u002B3.16%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.62,
-      "change": 1.93,
-      "changeStr": "\u002B1.93%"
+      "price": 20.65,
+      "change": 2.08,
+      "changeStr": "\u002B2.08%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.58,
-      "change": 1.39,
-      "changeStr": "\u002B1.39%"
+      "price": 6.76,
+      "change": 4.16,
+      "changeStr": "\u002B4.16%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.11,
-      "change": 1.9,
-      "changeStr": "\u002B1.90%"
+      "price": 16.28,
+      "change": 2.97,
+      "changeStr": "\u002B2.97%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.58,
-      "change": 1.82,
-      "changeStr": "\u002B1.82%"
+      "price": 42.76,
+      "change": 2.25,
+      "changeStr": "\u002B2.25%"
     }
   ],
   "news": [
+    {
+      "title": "QUIZ: Voc\u00EA reconhece os brinquedos da Estrela que marcaram gera\u00E7\u00F5es? Teste seus conhecimentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/quiz/quiz-voce-conhece-brinquedos-da-estrela.ghtml",
+      "date": "Wed, 20 May 2026 17:23:09 -0000"
+    },
+    {
+      "title": "Comiss\u00E3o do Senado aprova indica\u00E7\u00E3o do advogado Otto Lobo para presidir \u00F3rg\u00E3o que regula fundos de investimento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/comissao-do-senado-aprova-indicacao-do-advogado-otto-lobo-para-presidir-orgao-que-regula-fundos-de-investimento.ghtml",
+      "date": "Wed, 20 May 2026 17:16:39 -0000"
+    },
+    {
+      "title": "Reino Unido firma acordo comercial de US$ 5 bilh\u00F5es com pa\u00EDses do Golfo em meio \u00E0 guerra no Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/reino-unido-acordo-golfo-persico.ghtml",
+      "date": "Wed, 20 May 2026 16:28:21 -0000"
+    },
+    {
+      "title": "Fim do \u2018sabor chocolate\u2019? Queda no pre\u00E7o do cacau pode baratear produtos e mudar receitas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/20/queda-preco-cacau.ghtml",
+      "date": "Wed, 20 May 2026 16:09:06 -0000"
+    },
+    {
+      "title": "Cr\u00E9dito para taxistas e motoristas de app: veja os carros com juros menores no programa Move Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/20/credito-para-taxistas-e-motoristas-de-app-veja-os-carros-com-juros-menores-no-programa-move-brasil.ghtml",
+      "date": "Wed, 20 May 2026 16:00:33 -0000"
+    },
+    {
+      "title": "CCJ do Senado adia vota\u00E7\u00E3o da PEC que prev\u00EA autonomia financeira do Banco Central",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/20/ccj-do-senado-adia-votacao-da-pec-da-autonomia-financeira-do-banco-central.ghtml",
+      "date": "Wed, 20 May 2026 15:55:59 -0000"
+    },
     {
       "title": "Estrela pede recupera\u00E7\u00E3o judicial; relembre brinquedos hist\u00F3ricos da marca",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/20/china-frigorificos-brasileiros-carne-bovina.ghtml",
       "date": "Wed, 20 May 2026 13:05:29 -0000"
-    },
-    {
-      "title": "Brasil tem menor taxa de beb\u00EAs n\u00E3o registrados no ano em que nasceu, mostra IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/brasil-tem-menor-taxa-de-bebes-nao-registrados-no-ano-em-que-nasceu-mostra-ibge.ghtml",
-      "date": "Wed, 20 May 2026 13:00:03 -0000"
-    },
-    {
-      "title": "Tr\u00EAs superpetroleiros cruzam o Estreito de Ormuz com 6 milh\u00F5es de barris ap\u00F3s meses de bloqueio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/tres-superpetroleiros-cruzam-o-estreito-de-ormuz-com-6-milhoes-de-barris-apos-meses-de-bloqueio.ghtml",
-      "date": "Wed, 20 May 2026 12:49:00 -0000"
-    },
-    {
-      "title": "D\u00F3lar e Ibovespa sobem com mercado atento \u00E0 ata do Fed e ao cen\u00E1rio eleitoral",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/dolar-ibovespa.ghtml",
-      "date": "Wed, 20 May 2026 12:00:07 -0000"
-    },
-    {
-      "title": "Fabricante de brinquedos Estrela entra com pedido de recupera\u00E7\u00E3o judicial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/fabricante-de-brinquedos-estrela-entra-com-pedido-de-recuperacao-judicial.ghtml",
-      "date": "Wed, 20 May 2026 11:11:28 -0000"
-    },
-    {
-      "title": "UE fecha acordo comercial provis\u00F3rio com EUA sob press\u00E3o de Trump",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/ue-fecha-acordo-comercial-provisorio-com-eua-sob-pressao-de-trump.ghtml",
-      "date": "Wed, 20 May 2026 10:56:21 -0000"
-    },
-    {
-      "title": "Senado analisa indicados para autarquia que regula fundos de investimento nesta quarta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/05/20/senado-analisa-indicados-para-autarquia-que-regula-fundos-de-investimento-nesta-quarta.ghtml",
-      "date": "Wed, 20 May 2026 10:38:34 -0000"
     }
   ]
 }
