@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174278.86,
-      "change": -1.52,
-      "changeStr": "-1.52%"
+      "price": 177362.45,
+      "change": 1.77,
+      "changeStr": "\u002B1.77%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.09,
-      "change": -0.75,
-      "changeStr": "-0.75%"
+      "price": 45.04,
+      "change": -2.28,
+      "changeStr": "-2.28%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.02,
-      "change": -0.99,
-      "changeStr": "-0.99%"
+      "price": 81.15,
+      "change": 0.16,
+      "changeStr": "\u002B0.16%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.78,
-      "change": -2.12,
-      "changeStr": "-2.12%"
+      "price": 39.75,
+      "change": 2.5,
+      "changeStr": "\u002B2.50%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.39,
-      "change": -1.53,
-      "changeStr": "-1.53%"
+      "price": 17.89,
+      "change": 2.88,
+      "changeStr": "\u002B2.88%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.23,
-      "change": -0.93,
-      "changeStr": "-0.93%"
+      "price": 20.62,
+      "change": 1.93,
+      "changeStr": "\u002B1.93%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.49,
-      "change": -1.82,
-      "changeStr": "-1.82%"
+      "price": 6.58,
+      "change": 1.39,
+      "changeStr": "\u002B1.39%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.81,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 16.11,
+      "change": 1.9,
+      "changeStr": "\u002B1.90%"
     },
     {
       "symbol": "WEGE3",
-      "price": 41.82,
-      "change": -1.23,
-      "changeStr": "-1.23%"
+      "price": 42.58,
+      "change": 1.82,
+      "changeStr": "\u002B1.82%"
     }
   ],
   "news": [
+    {
+      "title": "Estrela pede recupera\u00E7\u00E3o judicial; relembre brinquedos hist\u00F3ricos da marca",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/estrela-pede-recuperacao-judicial-relembre-brinquedos-historicos-da-marca.ghtml",
+      "date": "Wed, 20 May 2026 14:54:25 -0000"
+    },
+    {
+      "title": "Brasil pode ser o pr\u00F3ximo fornecedor global de terras raras?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/brasil-pode-ser-o-proximo-fornecedor-global-de-terras-raras.ghtml",
+      "date": "Wed, 20 May 2026 14:12:49 -0000"
+    },
+    {
+      "title": "Meta demite 8 mil funcion\u00E1rios para priorizar gastos com IA ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/20/meta-demissao-de-funcionarios-para-priorizar-gastos-com-ia.ghtml",
+      "date": "Wed, 20 May 2026 13:36:31 -0000"
+    },
+    {
+      "title": "China retoma compra de carne bovina de tr\u00EAs frigor\u00EDficos brasileiros ap\u00F3s mais de um ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/20/china-frigorificos-brasileiros-carne-bovina.ghtml",
+      "date": "Wed, 20 May 2026 13:05:29 -0000"
+    },
+    {
+      "title": "Brasil tem menor taxa de beb\u00EAs n\u00E3o registrados no ano em que nasceu, mostra IBGE",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/brasil-tem-menor-taxa-de-bebes-nao-registrados-no-ano-em-que-nasceu-mostra-ibge.ghtml",
+      "date": "Wed, 20 May 2026 13:00:03 -0000"
+    },
+    {
+      "title": "Tr\u00EAs superpetroleiros cruzam o Estreito de Ormuz com 6 milh\u00F5es de barris ap\u00F3s meses de bloqueio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/tres-superpetroleiros-cruzam-o-estreito-de-ormuz-com-6-milhoes-de-barris-apos-meses-de-bloqueio.ghtml",
+      "date": "Wed, 20 May 2026 12:49:00 -0000"
+    },
+    {
+      "title": "D\u00F3lar e Ibovespa sobem com mercado atento \u00E0 ata do Fed e ao cen\u00E1rio eleitoral",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/dolar-ibovespa.ghtml",
+      "date": "Wed, 20 May 2026 12:00:07 -0000"
+    },
     {
       "title": "Fabricante de brinquedos Estrela entra com pedido de recupera\u00E7\u00E3o judicial",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/05/20/senado-analisa-indicados-para-autarquia-que-regula-fundos-de-investimento-nesta-quarta.ghtml",
       "date": "Wed, 20 May 2026 10:38:34 -0000"
-    },
-    {
-      "title": "China anuncia negocia\u00E7\u00E3o com EUA para reduzir tarifas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/china-anuncia-negociacao-com-eua-para-reduzir-tarifas.ghtml",
-      "date": "Wed, 20 May 2026 10:20:00 -0000"
-    },
-    {
-      "title": "O ranking dos pa\u00EDses mais caros para se comprar uma camisa da Copa do Mundo \u2014 e a posi\u00E7\u00E3o do Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/o-ranking-dos-paises-mais-caros-para-se-comprar-uma-camisa-da-copa-do-mundo-e-a-posicao-do-brasil.ghtml",
-      "date": "Wed, 20 May 2026 09:02:31 -0000"
-    },
-    {
-      "title": "\u0027Gol contra\u0027: 10 anos ap\u00F3s o Brexit, Reino Unido volta a discutir retorno \u00E0 Uni\u00E3o Europeia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/gol-contra-10-anos-apos-o-brexit-reino-unido-volta-a-discutir-retorno-a-uniao-europeia.ghtml",
-      "date": "Wed, 20 May 2026 08:03:09 -0000"
-    },
-    {
-      "title": "Mais de 10 milh\u00F5es de MEIs ainda n\u00E3o entregaram declara\u00E7\u00E3o \u00E0 Receita; prazo acaba neste m\u00EAs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/05/20/declaracao-meis.ghtml",
-      "date": "Wed, 20 May 2026 08:03:05 -0000"
-    },
-    {
-      "title": "\u0027Sonho virou pesadelo\u0027: ap\u00F3s golpe de construtoras, v\u00EDtimas ficam com obras inacabadas e em d\u00EDvidas com financiamentos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/05/20/apos-golpe-de-construtoras-vitimas-ficam-com-obras-inacabadas-e-em-dividas-com-financiamentos-o-sonho-virou-pesadelo.ghtml",
-      "date": "Wed, 20 May 2026 07:02:03 -0000"
-    },
-    {
-      "title": "Por que mais brasileiros est\u00E3o virando motoboys mesmo com renda inst\u00E1vel e mais riscos? ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/20/motoboys-entregadores-renda-riscos.ghtml",
-      "date": "Wed, 20 May 2026 07:01:02 -0000"
-    },
-    {
-      "title": "Economia comportamental: o que te faz gastar mesmo querendo economizar?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/05/20/economia-comportamental.ghtml",
-      "date": "Wed, 20 May 2026 07:00:57 -0000"
     }
   ]
 }
