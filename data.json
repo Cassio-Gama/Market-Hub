@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177890.77,
-      "change": 2.07,
-      "changeStr": "\u002B2.07%"
+      "price": 177355.73,
+      "change": 1.77,
+      "changeStr": "\u002B1.77%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.73,
-      "change": -2.95,
-      "changeStr": "-2.95%"
+      "price": 44.6,
+      "change": -3.23,
+      "changeStr": "-3.23%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.95,
-      "change": 1.15,
-      "changeStr": "\u002B1.15%"
+      "price": 82,
+      "change": 1.21,
+      "changeStr": "\u002B1.21%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.79,
-      "change": 2.6,
-      "changeStr": "\u002B2.60%"
+      "price": 39.67,
+      "change": 2.29,
+      "changeStr": "\u002B2.29%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.94,
-      "change": 3.16,
-      "changeStr": "\u002B3.16%"
+      "price": 17.86,
+      "change": 2.7,
+      "changeStr": "\u002B2.70%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.65,
-      "change": 2.08,
-      "changeStr": "\u002B2.08%"
+      "price": 20.7,
+      "change": 2.32,
+      "changeStr": "\u002B2.32%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.76,
-      "change": 4.16,
-      "changeStr": "\u002B4.16%"
+      "price": 6.73,
+      "change": 3.7,
+      "changeStr": "\u002B3.70%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.28,
-      "change": 2.97,
-      "changeStr": "\u002B2.97%"
+      "price": 16.22,
+      "change": 2.59,
+      "changeStr": "\u002B2.59%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.76,
-      "change": 2.25,
-      "changeStr": "\u002B2.25%"
+      "price": 42.58,
+      "change": 1.82,
+      "changeStr": "\u002B1.82%"
     }
   ],
   "news": [
+    {
+      "title": "SpaceX entra com pedido de IPO para estrear na bolsa dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/spacex-ipo.ghtml",
+      "date": "Wed, 20 May 2026 20:47:43 -0000"
+    },
+    {
+      "title": "M\u00E3e compra 14 mil figurinhas da Copa para filho completar \u00E1lbum e v\u00EDdeo viraliza",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/05/20/mae-compra-14-mil-figurinhas-copa-filho-completar-album-viraliza.ghtml",
+      "date": "Wed, 20 May 2026 19:58:50 -0000"
+    },
+    {
+      "title": "Airbnb expande neg\u00F3cios e passa a oferecer a hot\u00E9is boutique, aluguel de carros e entrega de mercado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/airbnb-expande-negocios.ghtml",
+      "date": "Wed, 20 May 2026 19:52:14 -0000"
+    },
+    {
+      "title": "Odair Cunha toma posse como ministro do Tribunal de Contas da Uni\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/20/odair-cunha-toma-posse-como-ministro-do-tribunal-de-contas-da-uniao.ghtml",
+      "date": "Wed, 20 May 2026 18:38:49 -0000"
+    },
     {
       "title": "QUIZ: Voc\u00EA reconhece os brinquedos da Estrela que marcaram gera\u00E7\u00F5es? Teste seus conhecimentos",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/05/20/ccj-do-senado-adia-votacao-da-pec-da-autonomia-financeira-do-banco-central.ghtml",
       "date": "Wed, 20 May 2026 15:55:59 -0000"
-    },
-    {
-      "title": "Estrela pede recupera\u00E7\u00E3o judicial; relembre brinquedos hist\u00F3ricos da marca",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/estrela-pede-recuperacao-judicial-relembre-brinquedos-historicos-da-marca.ghtml",
-      "date": "Wed, 20 May 2026 14:54:25 -0000"
-    },
-    {
-      "title": "Brasil pode ser o pr\u00F3ximo fornecedor global de terras raras?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/brasil-pode-ser-o-proximo-fornecedor-global-de-terras-raras.ghtml",
-      "date": "Wed, 20 May 2026 14:12:49 -0000"
-    },
-    {
-      "title": "Meta demite 8 mil funcion\u00E1rios para priorizar gastos com IA ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/20/meta-demissao-de-funcionarios-para-priorizar-gastos-com-ia.ghtml",
-      "date": "Wed, 20 May 2026 13:36:31 -0000"
-    },
-    {
-      "title": "China retoma compra de carne bovina de tr\u00EAs frigor\u00EDficos brasileiros ap\u00F3s mais de um ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/20/china-frigorificos-brasileiros-carne-bovina.ghtml",
-      "date": "Wed, 20 May 2026 13:05:29 -0000"
     }
   ]
 }
