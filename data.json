@@ -57,7 +57,19 @@
   ],
   "news": [
     {
-      "title": "SpaceX entra com pedido de IPO para estrear na bolsa dos EUA",
+      "title": "Com receita recorde, Nvidia tem lucro trimestral de US$ 58,3 bilh\u00F5es, alta de 211% em um ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/lucro-nvidia.ghtml",
+      "date": "Wed, 20 May 2026 22:39:23 -0000"
+    },
+    {
+      "title": "Senado aprova indica\u00E7\u00E3o do advogado Otto Lobo para presidir \u00F3rg\u00E3o que regula fundos de investimento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/senado-aprova-indicacao-do-advogado-otto-lobo-para-presidir-orgao-que-regula-fundos-de-investimento.ghtml",
+      "date": "Wed, 20 May 2026 21:49:11 -0000"
+    },
+    {
+      "title": "SpaceX entra com pedido para estrear na bolsa dos EUA; haver\u00E1 dividendos? Musk seguir\u00E1 no controle? Entenda",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/20/spacex-ipo.ghtml",
       "date": "Wed, 20 May 2026 20:47:43 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/20/queda-preco-cacau.ghtml",
       "date": "Wed, 20 May 2026 16:09:06 -0000"
-    },
-    {
-      "title": "Cr\u00E9dito para taxistas e motoristas de app: veja os carros com juros menores no programa Move Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/20/credito-para-taxistas-e-motoristas-de-app-veja-os-carros-com-juros-menores-no-programa-move-brasil.ghtml",
-      "date": "Wed, 20 May 2026 16:00:33 -0000"
-    },
-    {
-      "title": "CCJ do Senado adia vota\u00E7\u00E3o da PEC que prev\u00EA autonomia financeira do Banco Central",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/05/20/ccj-do-senado-adia-votacao-da-pec-da-autonomia-financeira-do-banco-central.ghtml",
-      "date": "Wed, 20 May 2026 15:55:59 -0000"
     }
   ]
 }
