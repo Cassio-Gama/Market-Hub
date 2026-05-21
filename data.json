@@ -57,6 +57,30 @@
   ],
   "news": [
     {
+      "title": "SpaceX tenta 12\u00BA voo da Starship, maior nave do mundo, nesta quinta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/05/21/spacex-tenta-12o-voo-da-starship-maior-nave-do-mundo-nesta-quinta.ghtml",
+      "date": "Thu, 21 May 2026 03:01:30 -0000"
+    },
+    {
+      "title": "Prompt injection: como \u00E9 feito \u0027c\u00F3digo secreto\u0027 investigado pelo STJ para tentar enganar IA e fraudar decis\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/21/prompt-injection-como-e-feito-codigo-secreto-investigado-pelo-stj-para-tentar-enganar-ia-e-fraudar-decisoes.ghtml",
+      "date": "Thu, 21 May 2026 03:01:26 -0000"
+    },
+    {
+      "title": "SpaceX mira IPO hist\u00F3rico, mas analistas de Wall Street se dividem sobre valor de US$ 1,75 trilh\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/21/spacex-mira-ipo-historico-mas-analistas-de-wall-street-se-dividem-sobre-valor-de-us-175-trilhao.ghtml",
+      "date": "Thu, 21 May 2026 03:01:18 -0000"
+    },
+    {
+      "title": "Conselho da Petrobras aprova ades\u00E3o a subs\u00EDdio do governo para combust\u00EDveis",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/20/conselho-petrobras-adesao-subvencao-combustiveis.ghtml",
+      "date": "Thu, 21 May 2026 01:33:40 -0000"
+    },
+    {
       "title": "Com receita recorde, Nvidia tem lucro trimestral de US$ 58,3 bilh\u00F5es, alta de 211% em um ano",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/20/lucro-nvidia.ghtml",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/05/20/odair-cunha-toma-posse-como-ministro-do-tribunal-de-contas-da-uniao.ghtml",
       "date": "Wed, 20 May 2026 18:38:49 -0000"
-    },
-    {
-      "title": "QUIZ: Voc\u00EA reconhece os brinquedos da Estrela que marcaram gera\u00E7\u00F5es? Teste seus conhecimentos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/quiz/quiz-voce-conhece-brinquedos-da-estrela.ghtml",
-      "date": "Wed, 20 May 2026 17:23:09 -0000"
-    },
-    {
-      "title": "Comiss\u00E3o do Senado aprova indica\u00E7\u00E3o do advogado Otto Lobo para presidir \u00F3rg\u00E3o que regula fundos de investimento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/comissao-do-senado-aprova-indicacao-do-advogado-otto-lobo-para-presidir-orgao-que-regula-fundos-de-investimento.ghtml",
-      "date": "Wed, 20 May 2026 17:16:39 -0000"
-    },
-    {
-      "title": "Reino Unido firma acordo comercial de US$ 5 bilh\u00F5es com pa\u00EDses do Golfo em meio \u00E0 guerra no Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/reino-unido-acordo-golfo-persico.ghtml",
-      "date": "Wed, 20 May 2026 16:28:21 -0000"
-    },
-    {
-      "title": "Fim do \u2018sabor chocolate\u2019? Queda no pre\u00E7o do cacau pode baratear produtos e mudar receitas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/20/queda-preco-cacau.ghtml",
-      "date": "Wed, 20 May 2026 16:09:06 -0000"
     }
   ]
 }
