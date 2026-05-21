@@ -57,6 +57,12 @@
   ],
   "news": [
     {
+      "title": "D\u00F3lar abre a R$ 5 de olho nas negocia\u00E7\u00F5es nucleares do Ir\u00E3 e em dados dos EUA ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/21/dolar-ibovespa.ghtml",
+      "date": "Thu, 21 May 2026 12:00:09 -0000"
+    },
+    {
       "title": "Leil\u00E3o do Detran-SP tem Honda Civic mais barato que iPhone e Peugeot 206 a R$ 2.000",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/05/21/leilao-do-detran-sp-tem-honda-civic-mais-barato-que-iphone-e-peugeot-206-a-r-2000.ghtml",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/20/conselho-petrobras-adesao-subvencao-combustiveis.ghtml",
       "date": "Thu, 21 May 2026 01:33:40 -0000"
-    },
-    {
-      "title": "Com receita recorde, Nvidia tem lucro trimestral de US$ 58,3 bilh\u00F5es, alta de 211% em um ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/20/lucro-nvidia.ghtml",
-      "date": "Wed, 20 May 2026 22:39:23 -0000"
     }
   ]
 }
