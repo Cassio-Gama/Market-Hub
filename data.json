@@ -57,10 +57,16 @@
   ],
   "news": [
     {
-      "title": "SpaceX tenta nesta quinta o 12\u00BA voo da Starship, maior nave do mundo",
+      "title": "SpaceX tenta em instantes o 12\u00BA voo da Starship, maior nave do mundo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/inovacao/ao-vivo/starship-voo-12-nave-starship.ghtml",
-      "date": "Thu, 21 May 2026 21:28:48 -0000"
+      "date": "Thu, 21 May 2026 22:58:42 -0000"
+    },
+    {
+      "title": "Meta fecha acordo nos EUA por custos escolares ligados ao v\u00EDcio em redes sociais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/21/meta-fecha-acordo-nos-eua-por-custos-escolares-associados-ao-vicio-em-redes-sociais.ghtml",
+      "date": "Thu, 21 May 2026 21:35:05 -0000"
     },
     {
       "title": "Mais de 9 milh\u00F5es de MEIs ainda n\u00E3o entregaram declara\u00E7\u00E3o \u00E0 Receita; veja prazo ",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/05/21/prototipo-de-carro-voador-da-embraer-conclui-etapa-de-testes-de-voo-pairado.ghtml",
       "date": "Thu, 21 May 2026 15:08:34 -0000"
-    },
-    {
-      "title": "Mega-Sena 30 anos: pr\u00EAmio especial de R$ 300 milh\u00F5es ser\u00E1 sorteado neste domingo (24); g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/noticia/2026/05/21/mega-sena-30-anos-premio-especial-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 21 May 2026 14:14:37 -0000"
     }
   ]
 }
