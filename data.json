@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175816.81,
-      "change": -1.03,
-      "changeStr": "-1.03%"
+      "price": 176111.31,
+      "change": -0.87,
+      "changeStr": "-0.87%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.31,
-      "change": -1.42,
-      "changeStr": "-1.42%"
+      "price": 44.47,
+      "change": -1.07,
+      "changeStr": "-1.07%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.43,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 82.96,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.59,
-      "change": -1.32,
-      "changeStr": "-1.32%"
+      "price": 39.43,
+      "change": -1.72,
+      "changeStr": "-1.72%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.68,
-      "change": -1.23,
-      "changeStr": "-1.23%"
+      "price": 17.63,
+      "change": -1.51,
+      "changeStr": "-1.51%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.74,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 20.9,
+      "change": 0.38,
+      "changeStr": "\u002B0.38%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.68,
-      "change": -1.33,
-      "changeStr": "-1.33%"
+      "price": 6.63,
+      "change": -2.07,
+      "changeStr": "-2.07%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,30 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 42.99,
-      "change": 1.22,
-      "changeStr": "\u002B1.22%"
+      "price": 42.95,
+      "change": 1.13,
+      "changeStr": "\u002B1.13%"
     }
   ],
   "news": [
+    {
+      "title": "Ap\u00F3s subir impostos nos \u00FAltimos anos, governo estima n\u00EDvel recorde para a arrecada\u00E7\u00E3o em 2026",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/22/apos-subir-impostos-nos-ultimos-anos-governo-estima-nivel-recorde-para-a-arrecadacao-em-2026.ghtml",
+      "date": "Fri, 22 May 2026 18:36:14 -0000"
+    },
+    {
+      "title": "Argentina reduz impostos sobre trigo e cevada para aliviar margens agr\u00EDcolas apertadas, diz bolsa de gr\u00E3os de Ros\u00E1rio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/22/argentina-reduz-impostos-sobre-trigo-e-cevada-para-aliviar-margens-agricolas-apertadas.ghtml",
+      "date": "Fri, 22 May 2026 17:55:46 -0000"
+    },
+    {
+      "title": "Or\u00E7amento 2026: governo bloqueia R$ 22,1 bilh\u00F5es ap\u00F3s projetar gasto maior com BPC e benef\u00EDcios previdenci\u00E1rios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/22/governo-anuncia-bloqueio-adicional-de-r-221-bilhoes-em-gastos-no-orcamento-de-2026.ghtml",
+      "date": "Fri, 22 May 2026 17:55:29 -0000"
+    },
     {
       "title": "China suspende tr\u00EAs frigor\u00EDficos brasileiros temporariamente",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/inovacao/noticia/2026/05/22/eua-investirao-us-2-bi-na-ibm-e-em-outras-empresas-de-computacao-quantica.ghtml",
       "date": "Fri, 22 May 2026 12:28:19 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe acima de R$ 5 com tens\u00E3o entre EUA e Ir\u00E3 e posse do novo presidente do Fed; Ibovespa recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/22/dolar-ibovespa.ghtml",
-      "date": "Fri, 22 May 2026 12:00:33 -0000"
-    },
-    {
-      "title": "IPO da SpaceX impulsiona fortuna de Elon Musk a US$ 722 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/22/elon-musk-mais-rico-ipo-da-spacex.ghtml",
-      "date": "Fri, 22 May 2026 11:36:34 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo sobe com impasse entre EUA e Ir\u00E3 e aumenta tens\u00E3o nos mercados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/22/cotacao-petroleo-impasse-eua-ira.ghtml",
-      "date": "Fri, 22 May 2026 10:26:30 -0000"
     }
   ]
 }
