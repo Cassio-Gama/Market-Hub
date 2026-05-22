@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175325.7,
-      "change": -1.31,
-      "changeStr": "-1.31%"
+      "price": 175816.81,
+      "change": -1.03,
+      "changeStr": "-1.03%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.32,
-      "change": -1.4,
-      "changeStr": "-1.40%"
+      "price": 44.31,
+      "change": -1.42,
+      "changeStr": "-1.42%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.07,
-      "change": -0.68,
-      "changeStr": "-0.68%"
+      "price": 82.43,
+      "change": -0.24,
+      "changeStr": "-0.24%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.56,
-      "change": -1.4,
-      "changeStr": "-1.40%"
+      "price": 39.59,
+      "change": -1.32,
+      "changeStr": "-1.32%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.75,
-      "change": -0.84,
-      "changeStr": "-0.84%"
+      "price": 17.68,
+      "change": -1.23,
+      "changeStr": "-1.23%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.65,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 20.74,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.64,
-      "change": -1.92,
-      "changeStr": "-1.92%"
+      "price": 6.68,
+      "change": -1.33,
+      "changeStr": "-1.33%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.15,
-      "change": -1.52,
-      "changeStr": "-1.52%"
+      "price": 16.14,
+      "change": -1.59,
+      "changeStr": "-1.59%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.55,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 42.99,
+      "change": 1.22,
+      "changeStr": "\u002B1.22%"
     }
   ],
   "news": [
+    {
+      "title": "China suspende tr\u00EAs frigor\u00EDficos brasileiros temporariamente",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/22/china-suspende-tres-frigorificos-brasileiros-temporariamente.ghtml",
+      "date": "Fri, 22 May 2026 16:53:28 -0000"
+    },
     {
       "title": "ONS aumenta previs\u00E3o de consumo de energia no Brasil para maio",
       "source": "G1 Economia",
@@ -93,7 +99,7 @@
       "date": "Fri, 22 May 2026 12:28:19 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta de olho no impasse entre EUA e Ir\u00E3 e na posse do novo presidente do Fed",
+      "title": "D\u00F3lar sobe acima de R$ 5 com tens\u00E3o entre EUA e Ir\u00E3 e posse do novo presidente do Fed; Ibovespa recua",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/22/dolar-ibovespa.ghtml",
       "date": "Fri, 22 May 2026 12:00:33 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/22/cotacao-petroleo-impasse-eua-ira.ghtml",
       "date": "Fri, 22 May 2026 10:26:30 -0000"
-    },
-    {
-      "title": "Desenrola 2.0: por que o total de endividados aumentou desde a primeira vers\u00E3o do programa?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/22/desenrola-20-por-que-o-total-de-endividados-aumentou-desde-a-primeira-versao-do-programa.ghtml",
-      "date": "Fri, 22 May 2026 08:04:03 -0000"
     }
   ]
 }
