@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176111.31,
-      "change": -0.87,
-      "changeStr": "-0.87%"
+      "price": 176209.61,
+      "change": -0.81,
+      "changeStr": "-0.81%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.47,
-      "change": -1.07,
-      "changeStr": "-1.07%"
+      "price": 44.48,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.96,
-      "change": 0.4,
-      "changeStr": "\u002B0.40%"
+      "price": 83.1,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
     },
     {
       "symbol": "ITUB4",
@@ -26,15 +26,15 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 17.63,
-      "change": -1.51,
-      "changeStr": "-1.51%"
+      "price": 17.62,
+      "change": -1.56,
+      "changeStr": "-1.56%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.9,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 20.94,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     },
     {
       "symbol": "MGLU3",
@@ -44,18 +44,24 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 16.14,
-      "change": -1.59,
-      "changeStr": "-1.59%"
+      "price": 16.1,
+      "change": -1.83,
+      "changeStr": "-1.83%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.95,
-      "change": 1.13,
-      "changeStr": "\u002B1.13%"
+      "price": 42.73,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     }
   ],
   "news": [
+    {
+      "title": "SpaceX tenta nesta sexta-feira o 12\u00BA voo da Starship, maior nave do mundo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/inovacao/ao-vivo/starship-voo-12-nave-starship.ghtml",
+      "date": "Fri, 22 May 2026 19:54:45 -0000"
+    },
     {
       "title": "Ap\u00F3s subir impostos nos \u00FAltimos anos, governo estima n\u00EDvel recorde para a arrecada\u00E7\u00E3o em 2026",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/05/22/como-cultivar-a-palma-forrageira.ghtml",
       "date": "Fri, 22 May 2026 12:51:13 -0000"
-    },
-    {
-      "title": "EUA investir\u00E3o US$ 2 bi na IBM e em outras empresas de computa\u00E7\u00E3o qu\u00E2ntica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/05/22/eua-investirao-us-2-bi-na-ibm-e-em-outras-empresas-de-computacao-quantica.ghtml",
-      "date": "Fri, 22 May 2026 12:28:19 -0000"
     }
   ]
 }
