@@ -2,62 +2,68 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176883.22,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 177479.47,
+      "change": 0.72,
+      "changeStr": "\u002B0.72%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.5,
-      "change": -2.2,
-      "changeStr": "-2.20%"
+      "price": 43.01,
+      "change": -3.3,
+      "changeStr": "-3.30%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.8,
-      "change": -0.36,
-      "changeStr": "-0.36%"
+      "price": 83.09,
+      "change": -0.01,
+      "changeStr": "-0.01%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.18,
-      "change": 1.9,
-      "changeStr": "\u002B1.90%"
+      "price": 40.33,
+      "change": 2.28,
+      "changeStr": "\u002B2.28%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.89,
-      "change": 1.53,
-      "changeStr": "\u002B1.53%"
+      "price": 18.03,
+      "change": 2.33,
+      "changeStr": "\u002B2.33%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.49,
-      "change": 2.63,
-      "changeStr": "\u002B2.63%"
+      "price": 21.65,
+      "change": 3.39,
+      "changeStr": "\u002B3.39%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.72,
-      "change": 1.36,
-      "changeStr": "\u002B1.36%"
+      "price": 6.74,
+      "change": 1.66,
+      "changeStr": "\u002B1.66%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.31,
-      "change": 1.3,
-      "changeStr": "\u002B1.30%"
+      "price": 16.36,
+      "change": 1.61,
+      "changeStr": "\u002B1.61%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.27,
-      "change": 1.26,
-      "changeStr": "\u002B1.26%"
+      "price": 43.36,
+      "change": 1.47,
+      "changeStr": "\u002B1.47%"
     }
   ],
   "news": [
     {
-      "title": "\u0027Portal \u00DAnico pode reduzir em R$ 40 bi ao ano custo do com\u00E9rcio exterior\u0027, diz Alckmin",
+      "title": "\u00C9 #FAKE que fabrica\u00E7\u00E3o de produtos de Adidas, Nike e Umbro vai ser transferida do Brasil para o Paraguai",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/05/25/e-fake-que-fabricacao-de-produtos-de-adidas-nike-e-umbro-vai-ser-transferida-do-brasil-para-o-paraguai.ghtml",
+      "date": "Mon, 25 May 2026 19:05:47 -0000"
+    },
+    {
+      "title": "\u0027Portal \u00DAnico pode reduzir em R$ 40 bilh\u00F5es ao ano o custo do com\u00E9rcio exterior\u0027, diz Alckmin",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/05/25/portal-unico-pode-reduzir-em-r-40-bi-ao-ano-custo-do-comercio-exterior-diz-alckmin.ghtml",
       "date": "Mon, 25 May 2026 17:06:32 -0000"
@@ -93,7 +99,7 @@
       "date": "Mon, 25 May 2026 13:50:30 -0000"
     },
     {
-      "title": "Ap\u00F3s fechar f\u00E1brica na Argentina, Whirlpool anuncia 200 vagas de emprego em unidade brasileira",
+      "title": "Ap\u00F3s fechar f\u00E1brica na Argentina, Whirlpool anuncia 200 vagas de emprego em unidade do Brasil",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/05/25/apos-fechar-fabrica-na-argentina-whirlpool-anuncia-200-vagas-de-emprego-em-unidade-brasileira.ghtml",
       "date": "Mon, 25 May 2026 13:38:19 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/25/dolar-ibovespa.ghtml",
       "date": "Mon, 25 May 2026 12:00:13 -0000"
-    },
-    {
-      "title": "INSS inicia o pagamento da segunda parcela do 13\u00BA; veja o calend\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/25/inss-inicia-o-pagamento-da-segunda-parcela-do-13o-veja-o-calendario.ghtml",
-      "date": "Mon, 25 May 2026 11:45:00 -0000"
     }
   ]
 }
