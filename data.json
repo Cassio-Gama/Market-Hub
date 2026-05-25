@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176751.4,
-      "change": 0.31,
-      "changeStr": "\u002B0.31%"
+      "price": 176883.22,
+      "change": 0.38,
+      "changeStr": "\u002B0.38%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.66,
-      "change": -1.84,
-      "changeStr": "-1.84%"
+      "price": 43.5,
+      "change": -2.2,
+      "changeStr": "-2.20%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.78,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 82.8,
+      "change": -0.36,
+      "changeStr": "-0.36%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.05,
-      "change": 1.57,
-      "changeStr": "\u002B1.57%"
+      "price": 40.18,
+      "change": 1.9,
+      "changeStr": "\u002B1.90%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.86,
+      "price": 17.89,
+      "change": 1.53,
+      "changeStr": "\u002B1.53%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 21.49,
+      "change": 2.63,
+      "changeStr": "\u002B2.63%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 6.72,
       "change": 1.36,
       "changeStr": "\u002B1.36%"
     },
     {
-      "symbol": "BBAS3",
-      "price": 21.32,
-      "change": 1.81,
-      "changeStr": "\u002B1.81%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 6.75,
-      "change": 1.81,
-      "changeStr": "\u002B1.81%"
-    },
-    {
       "symbol": "ABEV3",
-      "price": 16.29,
-      "change": 1.18,
-      "changeStr": "\u002B1.18%"
+      "price": 16.31,
+      "change": 1.3,
+      "changeStr": "\u002B1.30%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.35,
-      "change": 1.45,
-      "changeStr": "\u002B1.45%"
+      "price": 43.27,
+      "change": 1.26,
+      "changeStr": "\u002B1.26%"
     }
   ],
   "news": [
+    {
+      "title": "\u0027Portal \u00DAnico pode reduzir em R$ 40 bi ao ano custo do com\u00E9rcio exterior\u0027, diz Alckmin",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/05/25/portal-unico-pode-reduzir-em-r-40-bi-ao-ano-custo-do-comercio-exterior-diz-alckmin.ghtml",
+      "date": "Mon, 25 May 2026 17:06:32 -0000"
+    },
+    {
+      "title": "Ap\u00F3s reuni\u00E3o com Lula, Motta diz que PEC do fim da escala 6x1 prev\u00EA jornada de 40 horas sem corte de sal\u00E1rio e transi\u00E7\u00E3o de um ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/25/apos-reuniao-com-lula-motta-diz-que-pec-do-fim-da-escala-6x1-preve-jornada-de-40-horas-sem-corte-de-salario-e-transicao-de-um-ano.ghtml",
+      "date": "Mon, 25 May 2026 16:29:39 -0000"
+    },
+    {
+      "title": "Caixa antecipa para esta segunda pagamento de R$ 8,5 bilh\u00F5es para trabalhador que tinha optado pelo saque-anivers\u00E1rio ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/25/caixa-antecipa-para-esta-segunda-pagamento-de-r-82-bilhoes-para-trabalhador-que-tinha-optado-pelo-saque-aniversario.ghtml",
+      "date": "Mon, 25 May 2026 16:07:41 -0000"
+    },
+    {
+      "title": "Caso BRB: BC diz que acompanha institui\u00E7\u00F5es financeiras diariamente e nega que prazo de ajuste acabe 29 de maio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/05/25/caso-brb-bc-diz-que-acompanha-instituicoes-financeiras-diariamente-e-nega-que-prazo-de-ajuste-acabe-dia-29-de-maio.ghtml",
+      "date": "Mon, 25 May 2026 15:52:13 -0000"
+    },
+    {
+      "title": "Presidente da Bol\u00EDvia reduz seu sal\u00E1rio em 50% em meio a protestos no pa\u00EDs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/25/presidente-da-bolivia-reduz-seu-salario-em-50percent-em-meio-a-protestos-no-pais.ghtml",
+      "date": "Mon, 25 May 2026 14:09:07 -0000"
+    },
     {
       "title": "Francesa Loxam compra controle da brasileira Mills, de loca\u00E7\u00E3o de m\u00E1quinas e equipamentos",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/25/inss-inicia-o-pagamento-da-segunda-parcela-do-13o-veja-o-calendario.ghtml",
       "date": "Mon, 25 May 2026 11:45:00 -0000"
-    },
-    {
-      "title": "Com alta do petr\u00F3leo, mercado financeiro passa a projetar infla\u00E7\u00E3o acima de 5% neste ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/25/com-alta-do-petroleo-mercado-financeiro-passa-a-projetar-inflacao-acima-de-5percent-neste-ano.ghtml",
-      "date": "Mon, 25 May 2026 11:29:47 -0000"
-    },
-    {
-      "title": "BC diz que liquida\u00E7\u00E3o do Master n\u00E3o gerou risco de crise ao sistema financeiro; clientes ressarcidos levaram dinheiro a bancos maiores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/25/bc-diz-que-liquidacao-do-master-nao-gerou-risco-de-crise-ao-sistema-financeiro-clientes-ressarcidos-levaram-dinheiro-a-bancos-maiores.ghtml",
-      "date": "Mon, 25 May 2026 11:10:36 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo cai mais de 5% com expectativa de acordo entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/25/petroleo-acordo-eua-e-ira.ghtml",
-      "date": "Mon, 25 May 2026 10:49:38 -0000"
-    },
-    {
-      "title": "Desenrola 2.0: saldo do FGTS dispon\u00EDvel pode ser consultado pelo app a partir desta segunda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/25/desenrola-20-saldo-do-fgts-disponivel-pode-ser-consultado-pelo-app-a-partir-desta-segunda.ghtml",
-      "date": "Mon, 25 May 2026 10:38:42 -0000"
-    },
-    {
-      "title": "A disparada do custo de vida e dos im\u00F3veis em Jo\u00E3o Pessoa com chegada de jovens que buscam \u0027desacelerar\u0027 e \u0027investir\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/25/a-disparada-do-custo-de-vida-e-dos-imoveis-em-joao-pessoa-com-chegada-de-jovens-que-buscam-desacelerar-e-investir.ghtml",
-      "date": "Mon, 25 May 2026 08:03:59 -0000"
     }
   ]
 }
