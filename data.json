@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176209.61,
-      "change": -0.81,
-      "changeStr": "-0.81%"
+      "price": 176751.4,
+      "change": 0.31,
+      "changeStr": "\u002B0.31%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.48,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 43.66,
+      "change": -1.84,
+      "changeStr": "-1.84%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.1,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
+      "price": 82.78,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.43,
-      "change": -1.72,
-      "changeStr": "-1.72%"
+      "price": 40.05,
+      "change": 1.57,
+      "changeStr": "\u002B1.57%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.62,
-      "change": -1.56,
-      "changeStr": "-1.56%"
+      "price": 17.86,
+      "change": 1.36,
+      "changeStr": "\u002B1.36%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.94,
-      "change": 0.58,
-      "changeStr": "\u002B0.58%"
+      "price": 21.32,
+      "change": 1.81,
+      "changeStr": "\u002B1.81%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.63,
-      "change": -2.07,
-      "changeStr": "-2.07%"
+      "price": 6.75,
+      "change": 1.81,
+      "changeStr": "\u002B1.81%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.1,
-      "change": -1.83,
-      "changeStr": "-1.83%"
+      "price": 16.29,
+      "change": 1.18,
+      "changeStr": "\u002B1.18%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.73,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 43.35,
+      "change": 1.45,
+      "changeStr": "\u002B1.45%"
     }
   ],
   "news": [
+    {
+      "title": "Francesa Loxam compra controle da brasileira Mills, de loca\u00E7\u00E3o de m\u00E1quinas e equipamentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/25/acionistas-controladores-da-mills-vendem-participacao-para-francesa-loxam-sas.ghtml",
+      "date": "Mon, 25 May 2026 13:50:30 -0000"
+    },
+    {
+      "title": "Ap\u00F3s fechar f\u00E1brica na Argentina, Whirlpool anuncia 200 vagas de emprego em unidade brasileira",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/05/25/apos-fechar-fabrica-na-argentina-whirlpool-anuncia-200-vagas-de-emprego-em-unidade-brasileira.ghtml",
+      "date": "Mon, 25 May 2026 13:38:19 -0000"
+    },
+    {
+      "title": "Saudi Aramco transfere participa\u00E7\u00E3o na PRefChem para a Petronas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/25/petronas-assume-controle-total-da-prefchem-apos-transferencia-da-participacao-acionaria-da-saudi-aramco.ghtml",
+      "date": "Mon, 25 May 2026 12:06:21 -0000"
+    },
+    {
+      "title": "D\u00F3lar recua em meio a expectativas de acordo entre EUA e Ir\u00E3; Ibovespa avan\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/25/dolar-ibovespa.ghtml",
+      "date": "Mon, 25 May 2026 12:00:13 -0000"
+    },
+    {
+      "title": "INSS inicia o pagamento da segunda parcela do 13\u00BA; veja o calend\u00E1rio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/25/inss-inicia-o-pagamento-da-segunda-parcela-do-13o-veja-o-calendario.ghtml",
+      "date": "Mon, 25 May 2026 11:45:00 -0000"
+    },
+    {
+      "title": "Com alta do petr\u00F3leo, mercado financeiro passa a projetar infla\u00E7\u00E3o acima de 5% neste ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/25/com-alta-do-petroleo-mercado-financeiro-passa-a-projetar-inflacao-acima-de-5percent-neste-ano.ghtml",
+      "date": "Mon, 25 May 2026 11:29:47 -0000"
+    },
+    {
+      "title": "BC diz que liquida\u00E7\u00E3o do Master n\u00E3o gerou risco de crise ao sistema financeiro; clientes ressarcidos levaram dinheiro a bancos maiores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/25/bc-diz-que-liquidacao-do-master-nao-gerou-risco-de-crise-ao-sistema-financeiro-clientes-ressarcidos-levaram-dinheiro-a-bancos-maiores.ghtml",
+      "date": "Mon, 25 May 2026 11:10:36 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo cai mais de 5% com expectativa de acordo entre EUA e Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/25/petroleo-acordo-eua-e-ira.ghtml",
+      "date": "Mon, 25 May 2026 10:49:38 -0000"
+    },
+    {
+      "title": "Desenrola 2.0: saldo do FGTS dispon\u00EDvel pode ser consultado pelo app a partir desta segunda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/25/desenrola-20-saldo-do-fgts-disponivel-pode-ser-consultado-pelo-app-a-partir-desta-segunda.ghtml",
+      "date": "Mon, 25 May 2026 10:38:42 -0000"
+    },
     {
       "title": "A disparada do custo de vida e dos im\u00F3veis em Jo\u00E3o Pessoa com chegada de jovens que buscam \u0027desacelerar\u0027 e \u0027investir\u0027",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/25/a-disparada-do-custo-de-vida-e-dos-imoveis-em-joao-pessoa-com-chegada-de-jovens-que-buscam-desacelerar-e-investir.ghtml",
       "date": "Mon, 25 May 2026 08:03:59 -0000"
-    },
-    {
-      "title": "NR-1: Regra que amplia fiscaliza\u00E7\u00E3o sobre sa\u00FAde mental no trabalho entra em vigor em maio; veja o que muda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/25/nr-1-regra-entra-em-vigor-veja-o-que-muda.ghtml",
-      "date": "Mon, 25 May 2026 07:00:33 -0000"
-    },
-    {
-      "title": "Nova CNH: carro particular usado em aulas de dire\u00E7\u00E3o e prova pode n\u00E3o ter cobertura do seguro ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/25/nova-cnh-carro-particular-usado-em-aulas-de-direcao-e-prova-pode-nao-ter-cobertura-do-seguro.ghtml",
-      "date": "Mon, 25 May 2026 06:00:54 -0000"
-    },
-    {
-      "title": "INSS inicia pagamento de benef\u00EDcios de maio nesta segunda; veja calend\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/25/inss-inicia-pagamento-de-beneficios-de-maio-nesta-segunda-veja-calendario.ghtml",
-      "date": "Mon, 25 May 2026 03:01:16 -0000"
-    },
-    {
-      "title": "Corpus Christi \u00E9 feriado? Veja em quais capitais haver\u00E1 folga",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/25/corpus-christi-e-feriado-veja-em-quais-capitais-havera-folga.ghtml",
-      "date": "Mon, 25 May 2026 03:01:12 -0000"
-    },
-    {
-      "title": "Huawei prop\u00F5e novo caminho para desenvolver chips em meio a san\u00E7\u00F5es dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/24/huawei-propoe-novo-caminho-para-desenvolver-chips-em-meio-a-sancoes-dos-eua.ghtml",
-      "date": "Mon, 25 May 2026 01:47:48 -0000"
-    },
-    {
-      "title": "Diretor de banco pede desculpas ap\u00F3s chamar funcion\u00E1rios de \u0027capital humano de menor valor\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/24/diretor-de-banco-funcionarios-inteligencia-artificial.ghtml",
-      "date": "Sun, 24 May 2026 21:12:11 -0000"
-    },
-    {
-      "title": "Mega-Sena 30 anos: duas apostas dividem o pr\u00EAmio de mais de R$ 336 milh\u00F5es ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/24/mega-sena-concurso-3010-resultado.ghtml",
-      "date": "Sun, 24 May 2026 14:03:34 -0000"
-    },
-    {
-      "title": "\u00D3culos inteligentes viram febre em pegadinhas, mas acendem alerta sobre exposi\u00E7\u00E3o indevida nas redes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/24/oculos-inteligentes-viram-febre-em-pegadinhas-mas-acendem-alerta-sobre-exposicao-indevida-nas-redes.ghtml",
-      "date": "Sun, 24 May 2026 08:01:10 -0000"
-    },
-    {
-      "title": "Pre\u00E7os do caf\u00E9 tradicional e gourmet caem, mas descafeinado e especial sobem mais de 15% em abril",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/24/precos-do-cafe-tradicional-e-gourmet-caem-mas-descafeinado-e-especial-sobem.ghtml",
-      "date": "Sun, 24 May 2026 08:01:09 -0000"
     }
   ]
 }
