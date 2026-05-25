@@ -2,33 +2,33 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177479.47,
-      "change": 0.72,
-      "changeStr": "\u002B0.72%"
+      "price": 177815.72,
+      "change": 0.91,
+      "changeStr": "\u002B0.91%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.01,
-      "change": -3.3,
-      "changeStr": "-3.30%"
+      "price": 43.4,
+      "change": -2.43,
+      "changeStr": "-2.43%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.09,
-      "change": -0.01,
-      "changeStr": "-0.01%"
+      "price": 83.59,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.33,
-      "change": 2.28,
-      "changeStr": "\u002B2.28%"
+      "price": 40.32,
+      "change": 2.26,
+      "changeStr": "\u002B2.26%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.03,
-      "change": 2.33,
-      "changeStr": "\u002B2.33%"
+      "price": 18.07,
+      "change": 2.55,
+      "changeStr": "\u002B2.55%"
     },
     {
       "symbol": "BBAS3",
@@ -38,21 +38,21 @@
     },
     {
       "symbol": "MGLU3",
-      "price": 6.74,
-      "change": 1.66,
-      "changeStr": "\u002B1.66%"
+      "price": 6.77,
+      "change": 2.11,
+      "changeStr": "\u002B2.11%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.36,
-      "change": 1.61,
-      "changeStr": "\u002B1.61%"
+      "price": 16.4,
+      "change": 1.86,
+      "changeStr": "\u002B1.86%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.36,
-      "change": 1.47,
-      "changeStr": "\u002B1.47%"
+      "price": 43.31,
+      "change": 1.36,
+      "changeStr": "\u002B1.36%"
     }
   ],
   "news": [
@@ -111,7 +111,7 @@
       "date": "Mon, 25 May 2026 12:06:21 -0000"
     },
     {
-      "title": "D\u00F3lar recua em meio a expectativas de acordo entre EUA e Ir\u00E3; Ibovespa avan\u00E7a",
+      "title": "D\u00F3lar cai e fecha a R$ 5,01, ap\u00F3s sinais de avan\u00E7o em um acordo de paz entre EUA e Ir\u00E3; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/25/dolar-ibovespa.ghtml",
       "date": "Mon, 25 May 2026 12:00:13 -0000"
