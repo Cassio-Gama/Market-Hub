@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175836.83,
-      "change": -1.11,
-      "changeStr": "-1.11%"
+      "price": 176589.03,
+      "change": -0.69,
+      "changeStr": "-0.69%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.25,
-      "change": -0.35,
-      "changeStr": "-0.35%"
+      "price": 43.44,
+      "change": 0.09,
+      "changeStr": "\u002B0.09%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.55,
-      "change": -1.24,
-      "changeStr": "-1.24%"
+      "price": 83.07,
+      "change": -0.62,
+      "changeStr": "-0.62%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.87,
-      "change": -1.12,
-      "changeStr": "-1.12%"
+      "price": 40.06,
+      "change": -0.64,
+      "changeStr": "-0.64%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.77,
-      "change": -1.66,
-      "changeStr": "-1.66%"
+      "price": 17.84,
+      "change": -1.27,
+      "changeStr": "-1.27%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.15,
-      "change": -2.31,
-      "changeStr": "-2.31%"
+      "price": 21.11,
+      "change": -2.49,
+      "changeStr": "-2.49%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.61,
-      "change": -2.36,
-      "changeStr": "-2.36%"
+      "price": 6.65,
+      "change": -1.77,
+      "changeStr": "-1.77%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.61,
-      "change": 1.28,
-      "changeStr": "\u002B1.28%"
+      "price": 16.59,
+      "change": 1.16,
+      "changeStr": "\u002B1.16%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.04,
-      "change": -0.62,
-      "changeStr": "-0.62%"
+      "price": 43.44,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     }
   ],
   "news": [
+    {
+      "title": "EUA fecham contrato bilion\u00E1rio para uso militar de sat\u00E9lites da SpaceX",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/26/forca-espacial-dos-eua-fecha-contrato-de-us-229-bilhoes-com-spacex-para-rede-de-dados-militares.ghtml",
+      "date": "Tue, 26 May 2026 20:04:01 -0000"
+    },
+    {
+      "title": "Vazamento de dados do INSS atingiu 2,8 milh\u00F5es de CPFs, diz Dataprev; 98% eram de falecidos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/26/vazamento-de-dados-do-inss-atingiu-28-milhoes-de-cpfs-diz-dataprev-98percent-eram-de-falecidos.ghtml",
+      "date": "Tue, 26 May 2026 19:47:06 -0000"
+    },
+    {
+      "title": "Alemanha quer aumentar imposto para adultos sem filhos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/26/alemanha-quer-aumentar-imposto-para-adultos-sem-filhos.ghtml",
+      "date": "Tue, 26 May 2026 19:34:18 -0000"
+    },
     {
       "title": "A\u00E7\u00F5es da Ferrari despencam mais de 8% ap\u00F3s a revela\u00E7\u00E3o do 1\u00BA carro el\u00E9trico da marca",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/26/imposto-de-renda-2026-faltando-4-dias-para-prazo-final-quase-11-milhoes-de-pessoas-ainda-nao-enviaram-declaracao.ghtml",
       "date": "Tue, 26 May 2026 12:24:51 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe e Ibovespa recua com mercado atento a ataques dos EUA ao Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/26/dolar-ibovespa.ghtml",
-      "date": "Tue, 26 May 2026 12:00:13 -0000"
-    },
-    {
-      "title": "O que faz um ovo ser jumbo? Idade da galinha ajuda a explicar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/05/26/o-que-faz-um-ovo-ser-jumbo-idade-da-galinha-ajuda-a-explicar.ghtml",
-      "date": "Tue, 26 May 2026 07:01:21 -0000"
-    },
-    {
-      "title": "NR-1: Como saber se voc\u00EA est\u00E1 em um ambiente de trabalho t\u00F3xico? Fa\u00E7a o QUIZ e descubra como denunciar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/26/nr-1-ambiente-de-trabalho-toxico-quiz.ghtml",
-      "date": "Tue, 26 May 2026 07:01:20 -0000"
     }
   ]
 }
