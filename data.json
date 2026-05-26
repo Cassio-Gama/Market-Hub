@@ -2,62 +2,68 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175626.83,
-      "change": -1.23,
-      "changeStr": "-1.23%"
+      "price": 175836.83,
+      "change": -1.11,
+      "changeStr": "-1.11%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.49,
-      "change": 0.21,
-      "changeStr": "\u002B0.21%"
+      "price": 43.25,
+      "change": -0.35,
+      "changeStr": "-0.35%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.67,
-      "change": -1.1,
-      "changeStr": "-1.10%"
+      "price": 82.55,
+      "change": -1.24,
+      "changeStr": "-1.24%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.79,
-      "change": -1.31,
-      "changeStr": "-1.31%"
+      "price": 39.87,
+      "change": -1.12,
+      "changeStr": "-1.12%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.72,
-      "change": -1.94,
-      "changeStr": "-1.94%"
+      "price": 17.77,
+      "change": -1.66,
+      "changeStr": "-1.66%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.12,
-      "change": -2.45,
-      "changeStr": "-2.45%"
+      "price": 21.15,
+      "change": -2.31,
+      "changeStr": "-2.31%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.57,
-      "change": -2.95,
-      "changeStr": "-2.95%"
+      "price": 6.61,
+      "change": -2.36,
+      "changeStr": "-2.36%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.46,
-      "change": 0.37,
-      "changeStr": "\u002B0.37%"
+      "price": 16.61,
+      "change": 1.28,
+      "changeStr": "\u002B1.28%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.75,
-      "change": -1.29,
-      "changeStr": "-1.29%"
+      "price": 43.04,
+      "change": -0.62,
+      "changeStr": "-0.62%"
     }
   ],
   "news": [
     {
-      "title": "Governo divulga marca de azeite com riscos para a sa\u00FAde do consumidor; veja qual",
+      "title": "A\u00E7\u00F5es da Ferrari despencam mais de 8% ap\u00F3s a revela\u00E7\u00E3o do 1\u00BA carro el\u00E9trico da marca",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/05/26/acoes-da-ferrari-despencam-apos-a-revelacao-do-primeiro-carro-eletrico.ghtml",
+      "date": "Tue, 26 May 2026 17:01:05 -0000"
+    },
+    {
+      "title": "Azeite extravirgem \u00E9 retirado do mercado por mistura irregular de \u00F3leos vegetais, diz minist\u00E9rio",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/26/governo-divulga-marca-de-azeite-com-riscos-para-a-saude-do-consumidor-veja-qual.ghtml",
       "date": "Tue, 26 May 2026 15:45:35 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/26/nr-1-ambiente-de-trabalho-toxico-quiz.ghtml",
       "date": "Tue, 26 May 2026 07:01:20 -0000"
-    },
-    {
-      "title": "Seu c\u00E9rebro pode estar sabotando suas finan\u00E7as; entenda o \u2018vi\u00E9s do presente\u2019",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/05/26/seu-cerebro-pode-estar-sabotando-suas-financas-entenda-o-vies-do-presente.ghtml",
-      "date": "Tue, 26 May 2026 06:00:54 -0000"
     }
   ]
 }
