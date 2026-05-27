@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176589.03,
-      "change": -0.69,
-      "changeStr": "-0.69%"
+      "price": 176623.62,
+      "change": 0.02,
+      "changeStr": "\u002B0.02%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.44,
-      "change": 0.09,
-      "changeStr": "\u002B0.09%"
+      "price": 43.03,
+      "change": -0.94,
+      "changeStr": "-0.94%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.07,
-      "change": -0.62,
-      "changeStr": "-0.62%"
+      "price": 83.25,
+      "change": 0.22,
+      "changeStr": "\u002B0.22%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.06,
-      "change": -0.64,
-      "changeStr": "-0.64%"
+      "price": 40.58,
+      "change": 1.3,
+      "changeStr": "\u002B1.30%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.84,
-      "change": -1.27,
-      "changeStr": "-1.27%"
+      "price": 18.01,
+      "change": 0.95,
+      "changeStr": "\u002B0.95%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.11,
-      "change": -2.49,
-      "changeStr": "-2.49%"
+      "price": 21.27,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.65,
-      "change": -1.77,
-      "changeStr": "-1.77%"
+      "price": 6.75,
+      "change": 1.5,
+      "changeStr": "\u002B1.50%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.59,
-      "change": 1.16,
-      "changeStr": "\u002B1.16%"
+      "price": 16.68,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.44,
-      "change": 0.3,
-      "changeStr": "\u002B0.30%"
+      "price": 43.82,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     }
   ],
   "news": [
+    {
+      "title": "Imposto de Renda 2026: prazo termina nesta semana e programa ao vivo tira d\u00FAvidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/ao-vivo/imposto-de-renda-2026-ao-vivo.ghtml",
+      "date": "Wed, 27 May 2026 16:05:39 -0000"
+    },
+    {
+      "title": "PIX fora do ar? Clientes de bancos reclamam de instabilidade",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/27/reclamacao-instabilidade-pix.ghtml",
+      "date": "Wed, 27 May 2026 15:51:29 -0000"
+    },
+    {
+      "title": "MPT pede que Brasil pro\u00EDba uso do glifosato, agrot\u00F3xico mais vendido no mundo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/27/mpt-pede-que-brasil-proiba-uso-do-glifosato.ghtml",
+      "date": "Wed, 27 May 2026 13:52:25 -0000"
+    },
+    {
+      "title": "Google inaugura centro de engenharia de IA dentro da USP; g1 conheceu o espa\u00E7o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/27/google-inaugura-centro-de-engenharia-na-usp-conheca-o-espaco.ghtml",
+      "date": "Wed, 27 May 2026 13:04:20 -0000"
+    },
+    {
+      "title": "Justi\u00E7a suspende indeniza\u00E7\u00E3o bilion\u00E1ria a empresas de energia e determina devolu\u00E7\u00E3o de valores a consumidores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/27/trf1-suspende-indenizacao-bilionaria-a-transmissoras-de-energia.ghtml",
+      "date": "Wed, 27 May 2026 12:47:25 -0000"
+    },
+    {
+      "title": "Alvo de opera\u00E7\u00E3o contra fraude em aposentadorias recebeu aux\u00EDlio emergencial durante a pandemia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/27/alvo-de-operacao-contra-fraude-em-aposentadorias-recebeu-auxilio-emergencial-durante-a-pandemia.ghtml",
+      "date": "Wed, 27 May 2026 12:26:35 -0000"
+    },
     {
       "title": "Conselho da Paz de Trump n\u00E3o recebeu um \u00FAnico d\u00F3lar, diz jornal",
       "source": "G1 Economia",
@@ -63,13 +99,13 @@
       "date": "Wed, 27 May 2026 12:19:11 -0000"
     },
     {
-      "title": "IPCA-15 sobe 0,62% em maio, puxado por alimentos e energia el\u00E9trica",
+      "title": "IPCA-15 sobe 0,62% em maio, puxado por alimentos e conta de luz",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/27/ipca-15-maio.ghtml",
       "date": "Wed, 27 May 2026 12:01:05 -0000"
     },
     {
-      "title": "D\u00F3lar inicia o dia em alta com petr\u00F3leo e IPCA-15 no radar",
+      "title": "D\u00F3lar sobe com petr\u00F3leo e IPCA-15 no radar; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/27/dolar-ibovespa.ghtml",
       "date": "Wed, 27 May 2026 12:00:16 -0000"
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/27/como-a-guerra-no-ira-afeta-o-real-e-outras-moedas-locais-veja-quem-sao-os-ganhadores-e-os-perdedores-com-o-conflito.ghtml",
       "date": "Wed, 27 May 2026 09:47:32 -0000"
-    },
-    {
-      "title": "PF e CGU deflagram nova fase de opera\u00E7\u00E3o que investiga fraudes em aposentadorias e pens\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/05/27/policia-federal-e-cgu-nova-fase-da-operacao-sem-desconto-fraude-aposentadorias-pensoes-inss.ghtml",
-      "date": "Wed, 27 May 2026 09:31:41 -0000"
-    },
-    {
-      "title": "Enquanto Brasil discute fim da escala 6x1, Argentina vai na contram\u00E3o do mundo com reforma que retira direitos e permite jornada de at\u00E9 12 horas por dia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/27/enquanto-brasil-discute-fim-da-escala-6x1-argentina-vai-na-contramao-do-mundo-com-reforma-que-retira-direitos-e-permite-jornada-de-ate-12-horas-por-dia.ghtml",
-      "date": "Wed, 27 May 2026 09:13:34 -0000"
-    },
-    {
-      "title": "NR-1: o que muda para o trabalhador com a nova regra sobre sa\u00FAde mental? Entenda impactos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/27/nr-1-o-que-muda-para-o-trabalhador-com-a-nova-regra-sobre-saude-mental-no-trabalho.ghtml",
-      "date": "Wed, 27 May 2026 08:03:22 -0000"
-    },
-    {
-      "title": "Neymar, Endrick ou Ancelotti: veja quem ganhou mais seguidores ap\u00F3s a convoca\u00E7\u00E3o para a Copa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/27/quem-ganhou-mais-seguidores-apos-a-convocacao-para-a-copa.ghtml",
-      "date": "Wed, 27 May 2026 07:01:41 -0000"
-    },
-    {
-      "title": "Curtidas n\u00E3o pagam as contas: como transformar seguidores e views em faturamento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/05/27/curtidas-nao-pagam-as-contas-como-transformar-seguidores-e-views-em-faturamento.ghtml",
-      "date": "Wed, 27 May 2026 06:01:03 -0000"
-    },
-    {
-      "title": "Til\u00E1pia pode entrar em lista de esp\u00E9cies invasoras e preocupa produtores; entenda o caso",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/27/tilapia-pode-entrar-em-lista-de-especies-invasoras-e-preocupa-produtores-entenda-o-caso.ghtml",
-      "date": "Wed, 27 May 2026 06:01:02 -0000"
     }
   ]
 }
