@@ -57,6 +57,42 @@
   ],
   "news": [
     {
+      "title": "NR-1: o que muda para o trabalhador com a nova regra sobre sa\u00FAde mental? Entenda impactos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/27/nr-1-o-que-muda-para-o-trabalhador-com-a-nova-regra-sobre-saude-mental-no-trabalho.ghtml",
+      "date": "Wed, 27 May 2026 08:03:22 -0000"
+    },
+    {
+      "title": "Neymar, Endrick ou Ancelotti: veja quem ganhou mais seguidores ap\u00F3s a convoca\u00E7\u00E3o para a Copa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/27/quem-ganhou-mais-seguidores-apos-a-convocacao-para-a-copa.ghtml",
+      "date": "Wed, 27 May 2026 07:01:41 -0000"
+    },
+    {
+      "title": "Curtidas n\u00E3o pagam as contas: como transformar seguidores e views em faturamento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/05/27/curtidas-nao-pagam-as-contas-como-transformar-seguidores-e-views-em-faturamento.ghtml",
+      "date": "Wed, 27 May 2026 06:01:03 -0000"
+    },
+    {
+      "title": "Til\u00E1pia pode entrar em lista de esp\u00E9cies invasoras e preocupa produtores; entenda o caso",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/27/tilapia-pode-entrar-em-lista-de-especies-invasoras-e-preocupa-produtores-entenda-o-caso.ghtml",
+      "date": "Wed, 27 May 2026 06:01:02 -0000"
+    },
+    {
+      "title": "Cr\u00E9dito f\u00E1cil pode sair caro: entenda as diferen\u00E7as entre cheque especial, consignado e empr\u00E9stimo pessoal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/05/27/credito-facil-pode-sair-caro-entenda-as-diferencas-entre-cheque-especial-consignado-e-emprestimo-pessoal.ghtml",
+      "date": "Wed, 27 May 2026 06:00:56 -0000"
+    },
+    {
+      "title": "Funcion\u00E1rios da Samsung aprovam b\u00F4nus individual de R$ 1,7 milh\u00E3o com lucros de IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/27/funcionarios-da-samsung-aprovam-bonus-individual-de-r-17-milhao-com-lucros-de-ia.ghtml",
+      "date": "Wed, 27 May 2026 04:30:06 -0000"
+    },
+    {
       "title": "Dinheiro esquecido: governo j\u00E1 transferiu parte dos recursos para uso no Desenrola 2.0; brasileiros ainda podem recuperar quase R$ 5 bilh\u00F5es\u00A0",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/27/dinheiro-esquecido-governo-ja-transferiu-parte-dos-recursos-para-uso-no-desenrola-20-brasileiros-ainda-podem-recuperar-quase-r-5-bilhoes.ghtml",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/26/mega-sena-concurso-3011-confira-os-numeros-sorteados.ghtml",
       "date": "Wed, 27 May 2026 00:02:55 -0000"
-    },
-    {
-      "title": "EUA fecham contrato bilion\u00E1rio para uso militar de sat\u00E9lites da SpaceX",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/26/forca-espacial-dos-eua-fecha-contrato-de-us-229-bilhoes-com-spacex-para-rede-de-dados-militares.ghtml",
-      "date": "Tue, 26 May 2026 20:04:01 -0000"
-    },
-    {
-      "title": "Vazamento de dados do INSS atingiu 2,8 milh\u00F5es de CPFs, diz Dataprev; 98% eram de falecidos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/26/vazamento-de-dados-do-inss-atingiu-28-milhoes-de-cpfs-diz-dataprev-98percent-eram-de-falecidos.ghtml",
-      "date": "Tue, 26 May 2026 19:47:06 -0000"
-    },
-    {
-      "title": "Alemanha quer aumentar imposto para adultos sem filhos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/26/alemanha-quer-aumentar-imposto-para-adultos-sem-filhos.ghtml",
-      "date": "Tue, 26 May 2026 19:34:18 -0000"
-    },
-    {
-      "title": "A\u00E7\u00F5es da Ferrari despencam mais de 8% ap\u00F3s a revela\u00E7\u00E3o do 1\u00BA carro el\u00E9trico da marca",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/26/acoes-da-ferrari-despencam-apos-a-revelacao-do-primeiro-carro-eletrico.ghtml",
-      "date": "Tue, 26 May 2026 17:01:05 -0000"
-    },
-    {
-      "title": "Azeite extravirgem \u00E9 retirado do mercado por mistura irregular de \u00F3leos vegetais, diz minist\u00E9rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/26/governo-divulga-marca-de-azeite-com-riscos-para-a-saude-do-consumidor-veja-qual.ghtml",
-      "date": "Tue, 26 May 2026 15:45:35 -0000"
-    },
-    {
-      "title": "Veto \u00E0 carne brasileira exp\u00F5e diferen\u00E7as importantes na forma como a Uni\u00E3o Europeia e o Mercosul tomam decis\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/05/26/veto-a-carne-brasileira-expoe-diferencas-importantes-na-forma-como-a-uniao-europeia-e-o-mercosul-tomam-decisoes.ghtml",
-      "date": "Tue, 26 May 2026 15:36:10 -0000"
     }
   ]
 }
