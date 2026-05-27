@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176623.62,
-      "change": 0.02,
-      "changeStr": "\u002B0.02%"
+      "price": 175891.75,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.03,
-      "change": -0.94,
-      "changeStr": "-0.94%"
+      "price": 42.84,
+      "change": -1.38,
+      "changeStr": "-1.38%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.25,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 83.28,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.58,
-      "change": 1.3,
-      "changeStr": "\u002B1.30%"
+      "price": 40.39,
+      "change": 0.82,
+      "changeStr": "\u002B0.82%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.01,
-      "change": 0.95,
-      "changeStr": "\u002B0.95%"
+      "price": 18.06,
+      "change": 1.23,
+      "changeStr": "\u002B1.23%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.27,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 21.14,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.75,
-      "change": 1.5,
-      "changeStr": "\u002B1.50%"
+      "price": 6.66,
+      "change": 0.15,
+      "changeStr": "\u002B0.15%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.68,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 16.67,
+      "change": 0.48,
+      "changeStr": "\u002B0.48%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.82,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
+      "price": 43.57,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     }
   ],
   "news": [
+    {
+      "title": "Fim da escala 6x1: comiss\u00E3o da C\u00E2mara aprova texto-base da PEC que reduz jornada e aumenta folgas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/27/fim-da-escala-6x1-comissao-da-camara-aprova-texto-base-da-pec-que-reduz-jornada-e-aumenta-folgas.ghtml",
+      "date": "Wed, 27 May 2026 18:55:52 -0000"
+    },
+    {
+      "title": "YouTube automatiza detec\u00E7\u00E3o de v\u00EDdeos criados por intelig\u00EAncia artificial",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/27/youtube-automatiza-deteccao-de-conteudos-criados-por-inteligencia-artificial.ghtml",
+      "date": "Wed, 27 May 2026 16:39:43 -0000"
+    },
     {
       "title": "Imposto de Renda 2026: prazo termina nesta semana e programa ao vivo tira d\u00FAvidas",
       "source": "G1 Economia",
@@ -75,7 +87,7 @@
       "date": "Wed, 27 May 2026 13:52:25 -0000"
     },
     {
-      "title": "Google inaugura centro de engenharia de IA dentro da USP; g1 conheceu o espa\u00E7o",
+      "title": "Google inaugura centro de engenharia de IA em SP; g1 conheceu o espa\u00E7o",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/05/27/google-inaugura-centro-de-engenharia-na-usp-conheca-o-espaco.ghtml",
       "date": "Wed, 27 May 2026 13:04:20 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/27/ipca-15-maio.ghtml",
       "date": "Wed, 27 May 2026 12:01:05 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe com petr\u00F3leo e IPCA-15 no radar; Ibovespa avan\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/27/dolar-ibovespa.ghtml",
-      "date": "Wed, 27 May 2026 12:00:16 -0000"
-    },
-    {
-      "title": "Como a guerra no Ir\u00E3 afeta o real e outras moedas locais: veja quem s\u00E3o os ganhadores e os perdedores com o conflito",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/27/como-a-guerra-no-ira-afeta-o-real-e-outras-moedas-locais-veja-quem-sao-os-ganhadores-e-os-perdedores-com-o-conflito.ghtml",
-      "date": "Wed, 27 May 2026 09:47:32 -0000"
     }
   ]
 }
