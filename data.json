@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176057.52,
-      "change": 0.18,
-      "changeStr": "\u002B0.18%"
+      "price": 175986.03,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.49,
-      "change": -0.77,
-      "changeStr": "-0.77%"
+      "price": 42.51,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.66,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 83.97,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.15,
-      "change": -0.42,
-      "changeStr": "-0.42%"
+      "price": 40.26,
+      "change": -0.15,
+      "changeStr": "-0.15%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.06,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
+      "price": 18.04,
+      "change": 0.22,
+      "changeStr": "\u002B0.22%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.89,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 20.91,
+      "change": -0.76,
+      "changeStr": "-0.76%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.64,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 6.57,
+      "change": -0.45,
+      "changeStr": "-0.45%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.51,
-      "change": -0.6,
-      "changeStr": "-0.60%"
+      "price": 16.4,
+      "change": -1.26,
+      "changeStr": "-1.26%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.83,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
+      "price": 43.9,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     }
   ],
   "news": [
+    {
+      "title": "Caged: Brasil cria 85 mil novos postos de trabalho em abril",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/28/brasil-cria-85-mil-novos-postos-de-trabalho-em-abril.ghtml",
+      "date": "Thu, 28 May 2026 17:31:56 -0000"
+    },
+    {
+      "title": "Cl\u00E1udio Castro avisa Valdemar que n\u00E3o ser\u00E1 mais candidato ao Senado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/05/28/claudio-castro-avisa-valdemar-que-nao-sera-mais-candidato-ao-senado.ghtml",
+      "date": "Thu, 28 May 2026 17:12:10 -0000"
+    },
+    {
+      "title": "Como armazenar gr\u00E3os de caf\u00E9 corretamente? ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/05/28/como-armanezar-graos-de-cafe-corretamente.ghtml",
+      "date": "Thu, 28 May 2026 16:22:00 -0000"
+    },
+    {
+      "title": "Ap\u00F3s retomada, Avibras \u00E9 credenciada como empresa estrat\u00E9gica de defesa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/05/28/apos-retomada-avibras-e-credenciada-como-empresa-estrategica-de-defesa.ghtml",
+      "date": "Thu, 28 May 2026 16:05:35 -0000"
+    },
+    {
+      "title": "Petrobras anuncia reajuste nos pre\u00E7os da gasolina para as distribuidoras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/28/petrobras-precos-gasolina.ghtml",
+      "date": "Thu, 28 May 2026 15:46:07 -0000"
+    },
     {
       "title": "Ferrari sai em defesa do Luce ap\u00F3s cr\u00EDticas ao 1\u00BA carro el\u00E9trico da marca",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/28/entenda-por-que-mudanca-nao-garante-folgas-fixas-no-sabado-e-domingo.ghtml",
       "date": "Thu, 28 May 2026 12:19:23 -0000"
-    },
-    {
-      "title": "Quando come\u00E7a a valer o fim da escala 6x1? Texto da PEC ainda precisa passar pelo Senado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/05/28/quando-comeca-a-valer-o-fim-da-escala-6x1-texto-da-pec-ainda-precisa-passar-pelo-senado.ghtml",
-      "date": "Thu, 28 May 2026 12:17:23 -0000"
-    },
-    {
-      "title": "D\u00F3lar oscila com tens\u00E3o no Oriente M\u00E9dio e dados de emprego no radar; Ibovespa recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/28/dolar-ibovespa.ghtml",
-      "date": "Thu, 28 May 2026 12:00:33 -0000"
-    },
-    {
-      "title": "Desemprego fica em 5,8% no trimestre at\u00E9 abril, menor taxa para o per\u00EDodo, diz IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/28/desemprego-pnad-abril.ghtml",
-      "date": "Thu, 28 May 2026 12:00:25 -0000"
-    },
-    {
-      "title": "\u00C0s v\u00E9speras do Desenrola 2.0, em abril, inadimpl\u00EAncia com bancos alcan\u00E7ou pico hist\u00F3rico",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/28/as-vesperas-do-desenrola-20-em-abril-inadimplencia-bancaria-alcancou-pico-historico.ghtml",
-      "date": "Thu, 28 May 2026 11:52:15 -0000"
-    },
-    {
-      "title": "Empresa de sites Wix anuncia demiss\u00E3o de mil funcion\u00E1rios e cita avan\u00E7o da intelig\u00EAncia artificial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/28/empresa-de-sites-wix-demissao.ghtml",
-      "date": "Thu, 28 May 2026 11:22:12 -0000"
     }
   ]
 }
