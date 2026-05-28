@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175744.38,
-      "change": -0.48,
-      "changeStr": "-0.48%"
+      "price": 176057.52,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.82,
-      "change": -1.43,
-      "changeStr": "-1.43%"
+      "price": 42.49,
+      "change": -0.77,
+      "changeStr": "-0.77%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.45,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 83.66,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.32,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 40.15,
+      "change": -0.42,
+      "changeStr": "-0.42%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18,
-      "change": 0.9,
-      "changeStr": "\u002B0.90%"
+      "price": 18.06,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.07,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "price": 20.89,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.6,
-      "change": -0.75,
-      "changeStr": "-0.75%"
+      "price": 6.64,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.61,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 16.51,
+      "change": -0.6,
+      "changeStr": "-0.60%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.45,
-      "change": 0.02,
-      "changeStr": "\u002B0.02%"
+      "price": 43.83,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     }
   ],
   "news": [
     {
-      "title": "Por que o dono da Ford criou a escala de trabalho 5x2 h\u00E1 100 anos \u2014 e como isso impactou o mundo",
+      "title": "Ferrari sai em defesa do Luce ap\u00F3s cr\u00EDticas ao 1\u00BA carro el\u00E9trico da marca",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/28/por-que-o-dono-da-ford-criou-a-escala-de-trabalho-5x2-ha-100-anos-e-como-isso-impactou-o-mundo.ghtml",
-      "date": "Thu, 28 May 2026 08:20:56 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/05/28/luce-ferrari-carro-eletrico.ghtml",
+      "date": "Thu, 28 May 2026 14:20:53 -0000"
     },
     {
-      "title": "Golpes com \u00E1lbum de figurinhas da Copa disparam e somam mais de 160 sites falsos; veja como se proteger",
+      "title": "O que \u00E9 a escala 6x1? Entenda os principais formatos de jornada no Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/28/golpes-com-album-de-figurinhas-da-copa-disparam-e-somam-mais-de-160-sites-falsos-veja-como-se-proteger.ghtml",
-      "date": "Thu, 28 May 2026 08:04:38 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/28/o-que-e-a-escala-6x1-entenda-os-principais-formatos-de-jornada-no-brasil.ghtml",
+      "date": "Thu, 28 May 2026 13:04:57 -0000"
     },
     {
-      "title": "NR-1: empresas est\u00E3o preparadas para nova regra sobre sa\u00FAde mental?",
+      "title": "Contas do governo t\u00EAm super\u00E1vit de R$ 25,2 bilh\u00F5es em abril, melhor resultado para o m\u00EAs em 4 anos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/28/nr-1-empresas-estao-preparadas-para-nova-regra-sobre-saude-mental.ghtml",
-      "date": "Thu, 28 May 2026 07:01:22 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/28/contas-do-governo-tem-superavit-de-r-252-bilhoes-em-abril.ghtml",
+      "date": "Thu, 28 May 2026 13:03:21 -0000"
     },
     {
-      "title": "Sal\u00E3o de Pequim: carros chineses j\u00E1 dirigem quase sozinhos nas cidades; g1 testou como funciona",
+      "title": "Ministro da Fazenda diz que monitoramento de fintechs permitiu combater crime organizado no \u0027andar de cima\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/05/28/salao-de-pequim-carros-chineses-ja-dirigem-quase-sozinhos-nas-cidades-g1-testou-como-funciona.ghtml",
-      "date": "Thu, 28 May 2026 07:01:20 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/28/ministro-da-fazenda-diz-que-monitoramento-de-fintechs-permitiu-combater-crime-organizado-no-andar-de-cima.ghtml",
+      "date": "Thu, 28 May 2026 12:53:28 -0000"
     },
     {
-      "title": "Cr\u00E9dito pode ajudar ou virar problema; veja diferen\u00E7as entre as modalidades e saiba escolher",
+      "title": "Escala 6x1: entenda por que mudan\u00E7a n\u00E3o garante folgas fixas no s\u00E1bado e domingo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/05/28/credito-pode-ajudar-ou-virar-problema-veja-diferencas-entre-as-modalidades-e-saiba-escolher.ghtml",
-      "date": "Thu, 28 May 2026 06:00:44 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/28/entenda-por-que-mudanca-nao-garante-folgas-fixas-no-sabado-e-domingo.ghtml",
+      "date": "Thu, 28 May 2026 12:19:23 -0000"
     },
     {
-      "title": "Datafolha: 71% dos trabalhadores dizem n\u00E3o temer o desemprego",
+      "title": "Quando come\u00E7a a valer o fim da escala 6x1? Texto da PEC ainda precisa passar pelo Senado",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/28/datafolha-trabalhadores-desemprego.ghtml",
-      "date": "Thu, 28 May 2026 03:44:58 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/05/28/quando-comeca-a-valer-o-fim-da-escala-6x1-texto-da-pec-ainda-precisa-passar-pelo-senado.ghtml",
+      "date": "Thu, 28 May 2026 12:17:23 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 6 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "title": "D\u00F3lar oscila com tens\u00E3o no Oriente M\u00E9dio e dados de emprego no radar; Ibovespa recua",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/05/28/mega-sena-pode-pagar-r-6-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 28 May 2026 03:01:47 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/28/dolar-ibovespa.ghtml",
+      "date": "Thu, 28 May 2026 12:00:33 -0000"
     },
     {
-      "title": "Imposto de Renda 2026: ainda n\u00E3o declarei; o que fazer para preencher mais r\u00E1pido",
+      "title": "Desemprego fica em 5,8% no trimestre at\u00E9 abril, menor taxa para o per\u00EDodo, diz IBGE",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/28/imposto-de-renda-2026-ainda-nao-declarei-o-que-fazer-para-preencher-mais-rapido.ghtml",
-      "date": "Thu, 28 May 2026 03:01:33 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/28/desemprego-pnad-abril.ghtml",
+      "date": "Thu, 28 May 2026 12:00:25 -0000"
     },
     {
-      "title": "Imposto de Renda 2026: quais os erros mais comuns na declara\u00E7\u00E3o dos MEIs",
+      "title": "\u00C0s v\u00E9speras do Desenrola 2.0, em abril, inadimpl\u00EAncia com bancos alcan\u00E7ou pico hist\u00F3rico",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/28/imposto-de-renda-2026-quais-os-erros-mais-comuns-na-declaracao-dos-meis.ghtml",
-      "date": "Thu, 28 May 2026 03:01:31 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/28/as-vesperas-do-desenrola-20-em-abril-inadimplencia-bancaria-alcancou-pico-historico.ghtml",
+      "date": "Thu, 28 May 2026 11:52:15 -0000"
     },
     {
-      "title": "MEI: errou a declara\u00E7\u00E3o anual? Veja como retificar",
+      "title": "Empresa de sites Wix anuncia demiss\u00E3o de mil funcion\u00E1rios e cita avan\u00E7o da intelig\u00EAncia artificial",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/05/28/mei-errou-a-declaracao-anual-veja-como-retificar.ghtml",
-      "date": "Thu, 28 May 2026 03:01:30 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/28/empresa-de-sites-wix-demissao.ghtml",
+      "date": "Thu, 28 May 2026 11:22:12 -0000"
     }
   ]
 }
