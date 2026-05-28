@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175986.03,
-      "change": 0.14,
-      "changeStr": "\u002B0.14%"
+      "price": 175063.4,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "PETR4",
@@ -14,48 +14,60 @@
     },
     {
       "symbol": "VALE3",
-      "price": 83.97,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 83.96,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.26,
-      "change": -0.15,
-      "changeStr": "-0.15%"
+      "price": 40,
+      "change": -0.79,
+      "changeStr": "-0.79%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.04,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 17.9,
+      "change": -0.56,
+      "changeStr": "-0.56%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.91,
-      "change": -0.76,
-      "changeStr": "-0.76%"
+      "price": 20.61,
+      "change": -2.18,
+      "changeStr": "-2.18%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.57,
-      "change": -0.45,
-      "changeStr": "-0.45%"
+      "price": 6.35,
+      "change": -3.79,
+      "changeStr": "-3.79%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.4,
-      "change": -1.26,
-      "changeStr": "-1.26%"
+      "price": 16.29,
+      "change": -1.93,
+      "changeStr": "-1.93%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.9,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
+      "price": 43.72,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     }
   ],
   "news": [
+    {
+      "title": "Meta lan\u00E7a planos de assinatura para WhatsApp, Instagram e Facebook com recursos exclusivos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/28/whatsapp-instagram-e-facebook-terao-versoes-com-recursos-exclusivos-para-assinantes.ghtml",
+      "date": "Thu, 28 May 2026 20:14:10 -0000"
+    },
+    {
+      "title": "Fim da escala 6x1: ministro do Trabalho diz esperar aprova\u00E7\u00E3o de PEC no Senado no 1\u00BA semestre",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/28/fim-da-escala-6x1-ministro-do-trabalho-diz-que-governo-espera-aprovacao-de-pec-no-senado-ainda-no-1o-semestre.ghtml",
+      "date": "Thu, 28 May 2026 18:44:46 -0000"
+    },
     {
       "title": "Caged: Brasil cria 85 mil novos postos de trabalho em abril",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/05/28/contas-do-governo-tem-superavit-de-r-252-bilhoes-em-abril.ghtml",
       "date": "Thu, 28 May 2026 13:03:21 -0000"
-    },
-    {
-      "title": "Ministro da Fazenda diz que monitoramento de fintechs permitiu combater crime organizado no \u0027andar de cima\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/28/ministro-da-fazenda-diz-que-monitoramento-de-fintechs-permitiu-combater-crime-organizado-no-andar-de-cima.ghtml",
-      "date": "Thu, 28 May 2026 12:53:28 -0000"
-    },
-    {
-      "title": "Escala 6x1: entenda por que mudan\u00E7a n\u00E3o garante folgas fixas no s\u00E1bado e domingo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/28/entenda-por-que-mudanca-nao-garante-folgas-fixas-no-sabado-e-domingo.ghtml",
-      "date": "Thu, 28 May 2026 12:19:23 -0000"
     }
   ]
 }
