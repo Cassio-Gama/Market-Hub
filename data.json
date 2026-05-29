@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173317,
-      "change": -1,
-      "changeStr": "-1.00%"
+      "price": 174167.86,
+      "change": -0.51,
+      "changeStr": "-0.51%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.98,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 42.05,
+      "change": -1.08,
+      "changeStr": "-1.08%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.19,
-      "change": -0.92,
-      "changeStr": "-0.92%"
+      "price": 82.84,
+      "change": -1.33,
+      "changeStr": "-1.33%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.95,
-      "change": -0.12,
-      "changeStr": "-0.12%"
+      "price": 40.07,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.76,
-      "change": -0.78,
-      "changeStr": "-0.78%"
+      "price": 17.86,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.51,
-      "change": -0.49,
-      "changeStr": "-0.49%"
+      "price": 20.47,
+      "change": -0.68,
+      "changeStr": "-0.68%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.06,
-      "change": -4.57,
-      "changeStr": "-4.57%"
+      "price": 6.05,
+      "change": -4.72,
+      "changeStr": "-4.72%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.19,
-      "change": -0.61,
-      "changeStr": "-0.61%"
+      "price": 16.37,
+      "change": 0.49,
+      "changeStr": "\u002B0.49%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.8,
-      "change": 0.18,
-      "changeStr": "\u002B0.18%"
+      "price": 44.26,
+      "change": 1.24,
+      "changeStr": "\u002B1.24%"
     }
   ],
   "news": [
+    {
+      "title": "Campinas ter\u00E1 n\u00FAcleo para desenvolver aplicativos com uso de IA para servi\u00E7os p\u00FAblicos federais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/29/nucleo-desenvolver-aplicativos-uso-ia-servicos-publicos-federais.ghtml",
+      "date": "Fri, 29 May 2026 19:27:08 -0000"
+    },
+    {
+      "title": "BC vai exigir auditoria para autorizar empresas de criptoativos, como bitcoin",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/29/bc-vai-exigir-auditoria-para-autorizar-empresas-de-criptoativos-como-bitcoin.ghtml",
+      "date": "Fri, 29 May 2026 18:41:45 -0000"
+    },
+    {
+      "title": "Por que a decis\u00E3o dos EUA sobre PCC e CV pode afetar PIX, bancos e empresas no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/05/29/por-que-a-decisao-dos-eua-sobre-pcc-e-cv-pode-afetar-pix-bancos-e-empresas-no-brasil.ghtml",
+      "date": "Fri, 29 May 2026 18:00:33 -0000"
+    },
+    {
+      "title": "Quais as vis\u00F5es sobre a decis\u00E3o dos EUA sobre PCC e CV",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/29/visoes-e-consequencias-pcc-cv-organizacoes-terroristas.ghtml",
+      "date": "Fri, 29 May 2026 17:19:20 -0000"
+    },
     {
       "title": "ANS aprova limite de 5,11% para reajuste anual de planos de sa\u00FAde individuais",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/05/29/operacao-revela-fraude-com-nafta-em-combustivel-adulteracao-pode-danificar-bomba-bicos-e-motor.ghtml",
       "date": "Fri, 29 May 2026 14:30:33 -0000"
-    },
-    {
-      "title": "\u0027Tiro pode sair pela culatra\u0027: potencial impacto de classifica\u00E7\u00E3o de PCC e CV como terroristas sobre pol\u00EDticos e Faria Lima pode prejudicar Fl\u00E1vio, diz professor",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/29/tiro-pode-sair-pela-culatra-potencial-impacto-de-classificacao-de-pcc-e-cv-como-terroristas-sobre-politicos-e-faria-lima-pode-prejudicar-flavio-diz-professor.ghtml",
-      "date": "Fri, 29 May 2026 14:01:18 -0000"
-    },
-    {
-      "title": "Na reta final do Imposto de Renda 2026, mais de 3 milh\u00F5es de pessoas ainda n\u00E3o enviaram declara\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/29/na-reta-final-do-imposto-de-renda-2026-mais-de-3-milhoes-de-pessoas-ainda-nao-enviaram-declaracao.ghtml",
-      "date": "Fri, 29 May 2026 13:50:46 -0000"
-    },
-    {
-      "title": "BC publica novas regras para evitar que bancos usem FGC como estrat\u00E9gia para captar recursos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/29/bc-publica-novas-regras-para-evitar-que-bancos-usem-fgc-como-estrategia-para-captar-recursos-veja-normas.ghtml",
-      "date": "Fri, 29 May 2026 13:50:42 -0000"
-    },
-    {
-      "title": "Fazenda v\u00EA desacelera\u00E7\u00E3o, mas mant\u00E9m em 2,3% estimativa de alta do PIB em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/29/fazenda-ve-desaceleracao-da-atividade-nos-proximos-trimestres-mas-mantem-em-23percent-estimativa-de-alta-do-pib-em-2026.ghtml",
-      "date": "Fri, 29 May 2026 13:01:31 -0000"
     }
   ]
 }
