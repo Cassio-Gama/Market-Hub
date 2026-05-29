@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175063.4,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 173317,
+      "change": -1,
+      "changeStr": "-1.00%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.51,
-      "change": -0.72,
-      "changeStr": "-0.72%"
+      "price": 41.98,
+      "change": -1.25,
+      "changeStr": "-1.25%"
     },
     {
       "symbol": "VALE3",
-      "price": 83.96,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 83.19,
+      "change": -0.92,
+      "changeStr": "-0.92%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40,
-      "change": -0.79,
-      "changeStr": "-0.79%"
+      "price": 39.95,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.9,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 17.76,
+      "change": -0.78,
+      "changeStr": "-0.78%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.61,
-      "change": -2.18,
-      "changeStr": "-2.18%"
+      "price": 20.51,
+      "change": -0.49,
+      "changeStr": "-0.49%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.35,
-      "change": -3.79,
-      "changeStr": "-3.79%"
+      "price": 6.06,
+      "change": -4.57,
+      "changeStr": "-4.57%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.29,
-      "change": -1.93,
-      "changeStr": "-1.93%"
+      "price": 16.19,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.72,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 43.8,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     }
   ],
   "news": [
     {
-      "title": "Contas p\u00FAblicas t\u00EAm super\u00E1vit de R$ 24,6 bilh\u00F5es em abril; d\u00EDvida sobe para 80,4% do PIB",
+      "title": "ANS aprova limite de 5,11% para reajuste anual de planos de sa\u00FAde individuais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/29/contas-publicas-tem-superavit-de-r-246-bilhoes-em-abril-divida-sobe-para-804percent-do-pib.ghtml",
-      "date": "Fri, 29 May 2026 12:04:09 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/29/ans-aprova-limite-para-reajuste-anual-de-planos-de-saude-individuais.ghtml",
+      "date": "Fri, 29 May 2026 16:27:32 -0000"
     },
     {
-      "title": "D\u00F3lar inicia o dia em alta com foco no Oriente M\u00E9dio e no PIB do Brasil",
+      "title": "V\u00CDDEO: veja momento em que nave da Blue Origin explode na Fl\u00F3rida",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/29/dolar-ibovespa.ghtml",
-      "date": "Fri, 29 May 2026 12:00:17 -0000"
+      "url": "https://g1.globo.com/inovacao/noticia/2026/05/29/video-veja-momento-em-que-nave-da-blue-origin-explode-na-florida.ghtml",
+      "date": "Fri, 29 May 2026 16:17:57 -0000"
     },
     {
-      "title": "PIB do Brasil cresce 1,1% no 1\u00BA trimestre, diz IBGE",
+      "title": "Linha de cr\u00E9dito com juros mais baratos para compra de caminh\u00F5es e \u00F4nibus pode ser buscada nos bancos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/29/pib-do-brasil-cresce-11percent-no-1o-trimestre-diz-ibge.ghtml",
-      "date": "Fri, 29 May 2026 12:00:08 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/29/linha-de-credito-com-juros-mais-baratos-para-compra-de-caminhoes-e-onibus-pode-ser-buscada-nos-bancos.ghtml",
+      "date": "Fri, 29 May 2026 15:22:11 -0000"
     },
     {
-      "title": "Rombo das estatais federais soma R$ 5,9 bilh\u00F5es at\u00E9 abril, bate recorde para o per\u00EDodo e supera todo o ano de 2025",
+      "title": "Alckmin diz que cl\u00E3 Bolsonaro pensa mais em si que no pa\u00EDs e que meta \u00E9 desviar aten\u00E7\u00E3o do caso Master",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/05/29/rombo-das-estatais-federais-soma-r-59-bilhoes-ate-abril-e-ja-supera-todo-ano-de-2025.ghtml",
-      "date": "Fri, 29 May 2026 11:36:07 -0000"
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/05/29/alckmin-diz-que-cla-bolsonaro-pensa-mais-em-si-que-no-pais-e-que-meta-e-desviar-atencao-do-caso-master.ghtml",
+      "date": "Fri, 29 May 2026 15:14:15 -0000"
     },
     {
-      "title": "Anthropic ultrapassa OpenAI e se torna maior startup de IA do mundo ",
+      "title": "Fiat Toro fica at\u00E9 R$ 5 mil mais cara e ganha vers\u00E3o h\u00EDbrida para enfrentar Volkswagen e BYD",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/29/anthropic-ultrapassa-openai-maior-startup-de-ia-do-mundo.ghtml",
-      "date": "Fri, 29 May 2026 11:29:47 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/05/29/nova-fiat-toro-fica-ate-r-5-mil-mais-cara-e-ganha-versao-hibrida-para-enfrentar-volkswagen-e-byd.ghtml",
+      "date": "Fri, 29 May 2026 15:00:02 -0000"
     },
     {
-      "title": "\u0027Lamento ver isso\u0027: Musk reage \u00E0 explos\u00E3o de nave da concorrente Blue Origin",
+      "title": "Opera\u00E7\u00E3o revela fraude com nafta em combust\u00EDvel; adultera\u00E7\u00E3o pode danificar bomba, bicos e motor",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/05/29/lamento-ver-isso-musk-reage-a-explosao-de-nave-da-concorrente-blue-origin.ghtml",
-      "date": "Fri, 29 May 2026 03:40:13 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/05/29/operacao-revela-fraude-com-nafta-em-combustivel-adulteracao-pode-danificar-bomba-bicos-e-motor.ghtml",
+      "date": "Fri, 29 May 2026 14:30:33 -0000"
     },
     {
-      "title": "Imposto de Renda 2026: veja o que acontece se voc\u00EA n\u00E3o entregar a declara\u00E7\u00E3o e como evitar multas",
+      "title": "\u0027Tiro pode sair pela culatra\u0027: potencial impacto de classifica\u00E7\u00E3o de PCC e CV como terroristas sobre pol\u00EDticos e Faria Lima pode prejudicar Fl\u00E1vio, diz professor",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/29/imposto-de-renda-2026-veja-o-que-acontece-se-voce-nao-entregar-a-declaracao-e-como-evitar-multas.ghtml",
-      "date": "Fri, 29 May 2026 03:01:32 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/29/tiro-pode-sair-pela-culatra-potencial-impacto-de-classificacao-de-pcc-e-cv-como-terroristas-sobre-politicos-e-faria-lima-pode-prejudicar-flavio-diz-professor.ghtml",
+      "date": "Fri, 29 May 2026 14:01:18 -0000"
     },
     {
-      "title": "Imposto de Renda 2026: ficou de fora da restitui\u00E7\u00E3o? Veja como consultar a fila e saiba quem recebe primeiro",
+      "title": "Na reta final do Imposto de Renda 2026, mais de 3 milh\u00F5es de pessoas ainda n\u00E3o enviaram declara\u00E7\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/29/imposto-de-renda-2026-ficou-de-fora-da-restituicao-veja-como-consultar-a-fila-e-saiba-quem-recebe-primeiro.ghtml",
-      "date": "Fri, 29 May 2026 03:01:20 -0000"
+      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/29/na-reta-final-do-imposto-de-renda-2026-mais-de-3-milhoes-de-pessoas-ainda-nao-enviaram-declaracao.ghtml",
+      "date": "Fri, 29 May 2026 13:50:46 -0000"
     },
     {
-      "title": "MEI: prazo para enviar a declara\u00E7\u00E3o anual termina neste domingo; veja como fazer",
+      "title": "BC publica novas regras para evitar que bancos usem FGC como estrat\u00E9gia para captar recursos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/05/29/mei-prazo-para-enviar-a-declaracao-anual-termina-neste-domingo-veja-como-fazer.ghtml",
-      "date": "Fri, 29 May 2026 03:00:34 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/29/bc-publica-novas-regras-para-evitar-que-bancos-usem-fgc-como-estrategia-para-captar-recursos-veja-normas.ghtml",
+      "date": "Fri, 29 May 2026 13:50:42 -0000"
     },
     {
-      "title": "Imposto de Renda 2026: Receita paga 1\u00BA lote de restitui\u00E7\u00E3o nesta sexta; veja o calend\u00E1rio",
+      "title": "Fazenda v\u00EA desacelera\u00E7\u00E3o, mas mant\u00E9m em 2,3% estimativa de alta do PIB em 2026",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/29/imposto-de-renda-2026-receita-paga-1o-lote-de-restituicao-nesta-sexta-veja-o-calendario.ghtml",
-      "date": "Fri, 29 May 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/05/29/fazenda-ve-desaceleracao-da-atividade-nos-proximos-trimestres-mas-mantem-em-23percent-estimativa-de-alta-do-pib-em-2026.ghtml",
+      "date": "Fri, 29 May 2026 13:01:31 -0000"
     }
   ]
 }
