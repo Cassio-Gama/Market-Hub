@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173787.48,
-      "change": -0.73,
-      "changeStr": "-0.73%"
+      "price": 172305.89,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "PETR4",
-      "price": 42,
+      "price": 42.24,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 81.83,
       "change": -1.2,
       "changeStr": "-1.20%"
     },
     {
-      "symbol": "VALE3",
-      "price": 82.82,
-      "change": -1.36,
-      "changeStr": "-1.36%"
-    },
-    {
       "symbol": "ITUB4",
-      "price": 40.04,
-      "change": 0.1,
-      "changeStr": "\u002B0.10%"
+      "price": 39.45,
+      "change": -1.47,
+      "changeStr": "-1.47%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.7,
-      "change": -1.12,
-      "changeStr": "-1.12%"
+      "price": 17.58,
+      "change": -0.68,
+      "changeStr": "-0.68%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.3,
-      "change": -1.5,
-      "changeStr": "-1.50%"
+      "price": 20.15,
+      "change": -0.74,
+      "changeStr": "-0.74%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.98,
-      "change": -5.83,
-      "changeStr": "-5.83%"
+      "price": 5.78,
+      "change": -3.34,
+      "changeStr": "-3.34%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.32,
-      "change": 0.18,
-      "changeStr": "\u002B0.18%"
+      "price": 16.38,
+      "change": 0.37,
+      "changeStr": "\u002B0.37%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.1,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
+      "price": 43.15,
+      "change": -2.15,
+      "changeStr": "-2.15%"
     }
   ],
   "news": [
+    {
+      "title": "Argentina, Panam\u00E1 e Equador entre os \u002710 piores pa\u00EDses do mundo\u0027 em direitos trabalhistas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/01/argentina-panama-e-equador-entre-os-10-piores-paises-do-mundo-em-direitos-trabalhistas.ghtml",
+      "date": "Mon, 01 Jun 2026 17:19:53 -0000"
+    },
+    {
+      "title": "Dona do Claude, IA rival do ChatGPT, faz pedido confidencial para IPO nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/01/anthropic-ipo-estado-unidos.ghtml",
+      "date": "Mon, 01 Jun 2026 17:18:20 -0000"
+    },
+    {
+      "title": "Reformas fiscais significativas s\u00E3o necess\u00E1rias para que d\u00EDvida do Brasil tenha firme queda, diz FMI",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/01/reformas-fiscais-significativas-sao-necessarias-que-divida-brasileira-tenha-firme-queda-diz-fmi.ghtml",
+      "date": "Mon, 01 Jun 2026 16:27:24 -0000"
+    },
+    {
+      "title": "Pre\u00E7os do petr\u00F3leo sobem ap\u00F3s troca de ataques entre EUA e Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/01/precos-do-petroleo-sobem-apos-troca-de-ataques-entre-eua-e-ira.ghtml",
+      "date": "Mon, 01 Jun 2026 14:13:29 -0000"
+    },
+    {
+      "title": "Correios registram preju\u00EDzo de R$ 3,1 bilh\u00F5es no primeiro trimestre de 2026, aponta relat\u00F3rio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/01/correios-registram-prejuizo-de-r-31-bilhoes-no-primeiro-trimestre-de-2026-aponta-relatorio.ghtml",
+      "date": "Mon, 01 Jun 2026 13:55:16 -0000"
+    },
+    {
+      "title": "Organiza\u00E7\u00E3o Internacional do Trabalho suspende nomea\u00E7\u00E3o de representante dos EUA por atraso em pagamentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/01/organizacao-internacional-do-trabalho-suspende-nomeacao-de-representante-dos-eua-por-atraso-em-pagamentos.ghtml",
+      "date": "Mon, 01 Jun 2026 13:41:20 -0000"
+    },
+    {
+      "title": "Durigan diz que discuss\u00E3o para o fim da declara\u00E7\u00E3o anual do Imposto de Renda est\u00E1 \u0027a todo vapor\u0027 no governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/01/durigan-diz-que-discussao-para-o-fim-da-declaracao-anual-do-imposto-de-renda-esta-a-todo-vapor-no-governo.ghtml",
+      "date": "Mon, 01 Jun 2026 13:40:02 -0000"
+    },
     {
       "title": "D\u00EDvida n\u00E3o some com liminar: entenda como \u0027ind\u00FAstria do Limpa-Nome\u0027 ilude devedores no Brasil",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/01/novas-regras-fgc.ghtml",
       "date": "Mon, 01 Jun 2026 12:03:54 -0000"
-    },
-    {
-      "title": "D\u00F3lar abre com Focus, confian\u00E7a empresarial e indicadores dos EUA no radar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/01/dolar-ibovespa.ghtml",
-      "date": "Mon, 01 Jun 2026 12:00:33 -0000"
-    },
-    {
-      "title": "Petrobras reduz em 14,2% pre\u00E7o do querosene de avia\u00E7\u00E3o a partir de junho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/01/petrobras-reduz-em-142-preco-do-querosene-de-aviacao-a-partir-de-junho.ghtml",
-      "date": "Mon, 01 Jun 2026 11:38:52 -0000"
-    },
-    {
-      "title": "Durigan afirma que ter\u00E1 reuni\u00F5es com autoridades dos EUA ap\u00F3s designa\u00E7\u00E3o de PCC e CV como terroristas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/01/durigan-afirma-que-tera-reunioes-com-autoridades-dos-eua-apos-designacao-de-pcc-e-cv-como-terroristas.ghtml",
-      "date": "Mon, 01 Jun 2026 11:38:47 -0000"
-    },
-    {
-      "title": "Na 12\u00AA semana seguida de alta, mercado eleva estimativa de infla\u00E7\u00E3o para 5,09% em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/01/na-12a-semana-seguida-de-alta-mercado-eleva-estimativa-de-inflacao-para-509percent-em-2026.ghtml",
-      "date": "Mon, 01 Jun 2026 11:33:10 -0000"
-    },
-    {
-      "title": "Inadimpl\u00EAncia no agroneg\u00F3cio do Brasil termina 2025 a 8,2%, aponta Serasa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/01/inadimplencia-no-agronegocio-do-brasil-termina-2025-a-82-aponta-serasa.ghtml",
-      "date": "Mon, 01 Jun 2026 11:10:39 -0000"
-    },
-    {
-      "title": "Como a Nvidia desafia Apple e Intel ao anunciar chip de IA para computadores pessoais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/01/como-a-nvidia-desafia-apple-e-intel-ao-anunciar-chip-de-ia-para-computadores-pessoais.ghtml",
-      "date": "Mon, 01 Jun 2026 10:38:49 -0000"
-    },
-    {
-      "title": "Pix amea\u00E7ado? O que \u00E9 investiga\u00E7\u00E3o do governo Trump sobre pr\u00E1ticas comerciais no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/01/pix-ameacado-o-que-e-investigacao-do-governo-trump-sobre-praticas-comerciais-no-brasil.ghtml",
-      "date": "Mon, 01 Jun 2026 10:16:06 -0000"
     }
   ]
 }
