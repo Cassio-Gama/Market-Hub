@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172305.89,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 172197.45,
+      "change": -0.91,
+      "changeStr": "-0.91%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.24,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
+      "price": 42.37,
+      "change": 0.88,
+      "changeStr": "\u002B0.88%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.83,
-      "change": -1.2,
-      "changeStr": "-1.20%"
+      "price": 81.7,
+      "change": -1.35,
+      "changeStr": "-1.35%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.45,
-      "change": -1.47,
-      "changeStr": "-1.47%"
+      "price": 39.36,
+      "change": -1.7,
+      "changeStr": "-1.70%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.58,
-      "change": -0.68,
-      "changeStr": "-0.68%"
+      "price": 17.5,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.15,
-      "change": -0.74,
-      "changeStr": "-0.74%"
+      "price": 20.08,
+      "change": -1.08,
+      "changeStr": "-1.08%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.78,
-      "change": -3.34,
-      "changeStr": "-3.34%"
+      "price": 5.82,
+      "change": -2.68,
+      "changeStr": "-2.68%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.38,
-      "change": 0.37,
-      "changeStr": "\u002B0.37%"
+      "price": 16.43,
+      "change": 0.67,
+      "changeStr": "\u002B0.67%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.15,
-      "change": -2.15,
-      "changeStr": "-2.15%"
+      "price": 43,
+      "change": -2.49,
+      "changeStr": "-2.49%"
     }
   ],
   "news": [
+    {
+      "title": "Greve geral em Portugal cancela voos e afeta ponte a\u00E9rea com o Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/01/greve-geral-portugal-afeta-voos-brasil.ghtml",
+      "date": "Mon, 01 Jun 2026 21:26:11 -0000"
+    },
+    {
+      "title": "Imposto de Renda 2026: mais de 44 milh\u00F5es de contribuintes entregaram declara\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/06/01/imposto-de-renda-2026-mais-de-44-milhoes-de-contribuintes-entregaram-declaracao.ghtml",
+      "date": "Mon, 01 Jun 2026 21:23:51 -0000"
+    },
+    {
+      "title": "Proibidos no Brasil, Polymarket e Kalshi viralizam na direita como alternativa \u00E0s pesquisas eleitorais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/01/polymarket-kalshi-pesquisas-eleitorais.ghtml",
+      "date": "Mon, 01 Jun 2026 19:26:54 -0000"
+    },
+    {
+      "title": "Dona do ChatGPT \u00E9 acusada nos EUA de causar danos a crian\u00E7as",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/01/florida-processa-openai-por-danos-do-chatgpt-a-criancas.ghtml",
+      "date": "Mon, 01 Jun 2026 19:23:19 -0000"
+    },
+    {
+      "title": "iFood come\u00E7a a usar drones para fazer entregas em S\u00E3o Paulo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/01/ifood-entrega-drones.ghtml",
+      "date": "Mon, 01 Jun 2026 18:52:35 -0000"
+    },
     {
       "title": "Argentina, Panam\u00E1 e Equador entre os \u002710 piores pa\u00EDses do mundo\u0027 em direitos trabalhistas",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/01/correios-registram-prejuizo-de-r-31-bilhoes-no-primeiro-trimestre-de-2026-aponta-relatorio.ghtml",
       "date": "Mon, 01 Jun 2026 13:55:16 -0000"
-    },
-    {
-      "title": "Organiza\u00E7\u00E3o Internacional do Trabalho suspende nomea\u00E7\u00E3o de representante dos EUA por atraso em pagamentos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/01/organizacao-internacional-do-trabalho-suspende-nomeacao-de-representante-dos-eua-por-atraso-em-pagamentos.ghtml",
-      "date": "Mon, 01 Jun 2026 13:41:20 -0000"
-    },
-    {
-      "title": "Durigan diz que discuss\u00E3o para o fim da declara\u00E7\u00E3o anual do Imposto de Renda est\u00E1 \u0027a todo vapor\u0027 no governo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/01/durigan-diz-que-discussao-para-o-fim-da-declaracao-anual-do-imposto-de-renda-esta-a-todo-vapor-no-governo.ghtml",
-      "date": "Mon, 01 Jun 2026 13:40:02 -0000"
-    },
-    {
-      "title": "D\u00EDvida n\u00E3o some com liminar: entenda como \u0027ind\u00FAstria do Limpa-Nome\u0027 ilude devedores no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/06/01/divida-nao-some-com-liminar-entenda-como-industria-do-limpa-nome-ilude-devedores-no-brasil.ghtml",
-      "date": "Mon, 01 Jun 2026 12:29:37 -0000"
-    },
-    {
-      "title": "Regra sobre trabalho em feriados no com\u00E9rcio entra em vigor; veja mudan\u00E7as",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/01/regra-sobre-trabalho-em-feriados-no-comercio-entra-em-vigor-veja-mudancas.ghtml",
-      "date": "Mon, 01 Jun 2026 12:25:29 -0000"
-    },
-    {
-      "title": "Nova regra que limita uso do FGC para atrair investidores come\u00E7a a valer; entenda o que muda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/01/novas-regras-fgc.ghtml",
-      "date": "Mon, 01 Jun 2026 12:03:54 -0000"
     }
   ]
 }
