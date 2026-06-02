@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172197.45,
-      "change": -0.91,
-      "changeStr": "-0.91%"
+      "price": 174775.19,
+      "change": 1.5,
+      "changeStr": "\u002B1.50%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.37,
-      "change": 0.88,
-      "changeStr": "\u002B0.88%"
+      "price": 41.63,
+      "change": -1.75,
+      "changeStr": "-1.75%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.7,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 84.53,
+      "change": 3.46,
+      "changeStr": "\u002B3.46%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.36,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "price": 39.91,
+      "change": 1.4,
+      "changeStr": "\u002B1.40%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.5,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 17.88,
+      "change": 2.17,
+      "changeStr": "\u002B2.17%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.08,
-      "change": -1.08,
-      "changeStr": "-1.08%"
+      "price": 20.18,
+      "change": 0.5,
+      "changeStr": "\u002B0.50%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.82,
-      "change": -2.68,
-      "changeStr": "-2.68%"
+      "price": 5.88,
+      "change": 1.03,
+      "changeStr": "\u002B1.03%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.43,
-      "change": 0.67,
-      "changeStr": "\u002B0.67%"
+      "price": 16.63,
+      "change": 1.22,
+      "changeStr": "\u002B1.22%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43,
-      "change": -2.49,
-      "changeStr": "-2.49%"
+      "price": 43.15,
+      "change": 0.35,
+      "changeStr": "\u002B0.35%"
     }
   ],
   "news": [
     {
-      "title": "EUA concluem investiga\u00E7\u00E3o e usam Se\u00E7\u00E3o 301 contra o Brasil; entenda o mecanismo que pode abrir caminho para tarifas de 25%",
+      "title": "Planalto v\u00EA situa\u00E7\u00E3o adversa e prev\u00EA cen\u00E1rio similar ao de 2025 em caso de novas tarifas dos EUA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/02/eua-investigacao-secao-301-tarifas.ghtml",
-      "date": "Tue, 02 Jun 2026 10:29:11 -0000"
+      "url": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/06/02/planalto-reconhece-reves-e-preve-impacto-politico-similar-ao-de-2025-em-caso-de-novas-tarifas-dos-eua.ghtml",
+      "date": "Tue, 02 Jun 2026 14:11:30 -0000"
     },
     {
-      "title": "Crime organizado na Faria Lima: por que fintechs viraram meio \u0027f\u00E1cil\u0027 de lavar dinheiro?",
+      "title": "PIX, etanol e STF: entenda as cr\u00EDticas dos EUA para justificar a tarifa de 25% sobre produtos brasileiros",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/02/crime-organizado-na-faria-lima-por-que-fintechs-viraram-meio-facil-de-lavar-dinheiro.ghtml",
-      "date": "Tue, 02 Jun 2026 08:38:46 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/entenda-as-criticas-dos-eua-para-justificar-a-tarifa-de-25percent.ghtml",
+      "date": "Tue, 02 Jun 2026 14:06:46 -0000"
     },
     {
-      "title": "Para que serve o carimbo na carne? Preciso tirar antes de comer? Saiba o que ele significa",
+      "title": "Governo Trump conclui que PIX \u00E9 \u0027injusto\u0027: por que sistema brasileiro incomoda tanto os EUA e o que pode acontecer com ele agora?",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/06/02/para-que-serve-o-carimbo-na-carne-preciso-tirar-antes-de-comer-saiba-o-que-ele-significa.ghtml",
-      "date": "Tue, 02 Jun 2026 08:03:40 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/governo-trump-conclui-que-pix-e-injusto-o-que-pode-acontecer-agora.ghtml",
+      "date": "Tue, 02 Jun 2026 13:44:52 -0000"
     },
     {
-      "title": "Jovem e desempregado? Estudo mostra que home office pode ser mais problema que a IA",
+      "title": "Tarifas propostas ao Brasil s\u00E3o \u0027diferenciadas\u0027, diz representante do com\u00E9rcio dos EUA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/02/jovem-e-desempregado-estudo-mostra-que-home-office-pode-ser-mais-problema-que-a-ia.ghtml",
-      "date": "Tue, 02 Jun 2026 06:01:07 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/greer-diz-divulgara-mais-acoes-da-secao-301-em-breve-e-que-tarifas-propostas-ao-brasil-sao-diferenciadas.ghtml",
+      "date": "Tue, 02 Jun 2026 13:38:39 -0000"
     },
     {
-      "title": "Fim da \u0027tempestade perfeita\u0027: por que o agro j\u00E1 prev\u00EA dificuldades com El Ni\u00F1o e fertilizantes mais caros",
+      "title": "Petrobras ajusta pre\u00E7os do diesel de uso rodovi\u00E1rio em R$ 1,12; distribuidoras n\u00E3o ter\u00E3o impacto",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/02/fim-da-tempestade-perfeita-por-que-o-agro-ja-preve-dificuldades-com-el-nino-e-fertilizantes-mais-caros.ghtml",
-      "date": "Tue, 02 Jun 2026 06:00:55 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/petrobras-diesel.ghtml",
+      "date": "Tue, 02 Jun 2026 13:25:50 -0000"
     },
     {
-      "title": "PCs com IA: o que \u00E9 a nova aposta da Nvidia e como ela pode mudar a forma de usar notebooks",
+      "title": "Governo Trump corta parte das tarifas sobre produtos feitos de a\u00E7o e alum\u00EDnio",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/02/pcs-com-ia-o-que-e-a-nova-aposta-da-nvidia-e-como-ela-pode-mudar-a-forma-de-usar-notebooks.ghtml",
-      "date": "Tue, 02 Jun 2026 06:00:54 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/trump-tarifas-importacoes-de-aco-aluminio-e-cobre.ghtml",
+      "date": "Tue, 02 Jun 2026 13:21:21 -0000"
     },
     {
-      "title": "EUA concluem investiga\u00E7\u00E3o, alegam pr\u00E1ticas \u0027irrazo\u00E1veis\u0027 e prop\u00F5em tarifa de 25% sobre mercadorias brasileiras",
+      "title": "Imposto de Renda 2026: Receita Federal estima que 2,2 milh\u00F5es de declara\u00E7\u00F5es ca\u00EDram  na malha fina",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/02/eua-concluem-investigacao-e-propoem-retaliacao-comercial-contra-o-brasil-por-decisoes-judiciais-tarifas-e-desmatamento.ghtml",
-      "date": "Tue, 02 Jun 2026 03:26:30 -0000"
+      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/06/02/imposto-de-renda-2026-receita-federal-estima-que-22-milhoes-de-declaracoes-cairam-na-malha-fina.ghtml",
+      "date": "Tue, 02 Jun 2026 13:13:35 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 16 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
+      "title": "GAC Aion UT chega por R$ 139.990 e aposta em pot\u00EAncia para tentar roubar mercado do BYD Dolphin",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/06/02/mega-sena-pode-pagar-r-16-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Tue, 02 Jun 2026 03:01:36 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/06/02/gac-aion-ut-brasil.ghtml",
+      "date": "Tue, 02 Jun 2026 12:36:34 -0000"
     },
     {
-      "title": "Nome de F1 e corpo com tit\u00E2nio: como \u00E9 a Ferrari de R$ 4 milh\u00F5es trocada por rel\u00F3gio falso e cheques sem fundo",
+      "title": "D\u00F3lar cai ap\u00F3s nova amea\u00E7a tarif\u00E1ria dos EUA ao Brasil; Ibovespa sobe apesar de impasse com o Ir\u00E3",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/06/02/nome-de-f1-e-corpo-com-titanio-como-e-a-ferrari-de-r-4-milhoes-trocada-por-relogio-falso-e-cheques-sem-fundo.ghtml",
-      "date": "Tue, 02 Jun 2026 03:01:08 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/dolar-ibovespa.ghtml",
+      "date": "Tue, 02 Jun 2026 12:00:33 -0000"
     },
     {
-      "title": "Companhias a\u00E9reas cancelam voos para Portugal ap\u00F3s an\u00FAncio de greve geral; veja os afetados",
+      "title": "Novo tarifa\u00E7o dos EUA reduz competitividade de produtos, mas h\u00E1 \u0027janela\u0027 para negociar, diz Amcham Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/02/companhias-aereas-cancelam-voos-para-portugal-apos-anuncio-de-greve-geral-veja-os-afetados.ghtml",
-      "date": "Tue, 02 Jun 2026 03:00:58 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/decisao-dos-eua-reduz-competitividade-de-produtos-brasileiros-mas-ha-janela-de-negociacao-diz-amcham-brasil.ghtml",
+      "date": "Tue, 02 Jun 2026 11:53:59 -0000"
     }
   ]
 }
