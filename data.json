@@ -2,62 +2,74 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174573.2,
-      "change": 1.38,
-      "changeStr": "\u002B1.38%"
+      "price": 174197.64,
+      "change": 1.16,
+      "changeStr": "\u002B1.16%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.66,
-      "change": -1.68,
-      "changeStr": "-1.68%"
+      "price": 41.57,
+      "change": -1.89,
+      "changeStr": "-1.89%"
     },
     {
       "symbol": "VALE3",
-      "price": 84.69,
-      "change": 3.66,
-      "changeStr": "\u002B3.66%"
+      "price": 85,
+      "change": 4.04,
+      "changeStr": "\u002B4.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.92,
-      "change": 1.42,
-      "changeStr": "\u002B1.42%"
+      "price": 39.56,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.83,
-      "change": 1.89,
-      "changeStr": "\u002B1.89%"
+      "price": 17.75,
+      "change": 1.43,
+      "changeStr": "\u002B1.43%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.06,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 19.89,
+      "change": -0.95,
+      "changeStr": "-0.95%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.74,
-      "change": -1.37,
-      "changeStr": "-1.37%"
+      "price": 5.68,
+      "change": -2.41,
+      "changeStr": "-2.41%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.5,
-      "change": 0.43,
-      "changeStr": "\u002B0.43%"
+      "price": 16.45,
+      "change": 0.12,
+      "changeStr": "\u002B0.12%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.15,
-      "change": -1.98,
-      "changeStr": "-1.98%"
+      "price": 42,
+      "change": -2.33,
+      "changeStr": "-2.33%"
     }
   ],
   "news": [
     {
-      "title": "BRB: governo do DF pede aval de distritais ao acordo com a Uni\u00E3o e ao empr\u00E9stimo para salvar o banco",
+      "title": "Jo\u00E3o Fonseca em Roland Garros: veja quanto o brasileiro faturou mesmo ap\u00F3s elimina\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/joao-fonseca-em-roland-garros-veja-quanto-o-brasileiro-faturou.ghtml",
+      "date": "Tue, 02 Jun 2026 21:17:59 -0000"
+    },
+    {
+      "title": "Ford do Brasil faz recall de Maverick, Mustang, Bronco Sport e F-150 por falha em sensor",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/02/ford-do-brasil-faz-recall-de-maverick-mustang-bronco-sport-e-f-150-por-falha-em-sensor.ghtml",
+      "date": "Tue, 02 Jun 2026 20:28:14 -0000"
+    },
+    {
+      "title": "BRB: governo do DF pede novo aval de distritais ao empr\u00E9stimo bilion\u00E1rio para salvar o banco",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/02/brb-governo-do-df-pede-aval-de-distritais-ao-acordo-com-a-uniao-e-ao-emprestimo-para-salvar-o-banco.ghtml",
       "date": "Tue, 02 Jun 2026 18:34:37 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/06/02/lula-tarifas-de-25percent.ghtml",
       "date": "Tue, 02 Jun 2026 14:51:10 -0000"
-    },
-    {
-      "title": "Planalto v\u00EA situa\u00E7\u00E3o adversa e prev\u00EA cen\u00E1rio similar ao de 2025 em caso de novas tarifas dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/06/02/planalto-reconhece-reves-e-preve-impacto-politico-similar-ao-de-2025-em-caso-de-novas-tarifas-dos-eua.ghtml",
-      "date": "Tue, 02 Jun 2026 14:11:30 -0000"
-    },
-    {
-      "title": "PIX, etanol e STF: entenda as cr\u00EDticas dos EUA para justificar a tarifa de 25% sobre produtos brasileiros",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/02/entenda-as-criticas-dos-eua-para-justificar-a-tarifa-de-25percent.ghtml",
-      "date": "Tue, 02 Jun 2026 14:06:46 -0000"
     }
   ]
 }
