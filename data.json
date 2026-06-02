@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174775.19,
-      "change": 1.5,
-      "changeStr": "\u002B1.50%"
+      "price": 174573.2,
+      "change": 1.38,
+      "changeStr": "\u002B1.38%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.63,
-      "change": -1.75,
-      "changeStr": "-1.75%"
+      "price": 41.66,
+      "change": -1.68,
+      "changeStr": "-1.68%"
     },
     {
       "symbol": "VALE3",
-      "price": 84.53,
-      "change": 3.46,
-      "changeStr": "\u002B3.46%"
+      "price": 84.69,
+      "change": 3.66,
+      "changeStr": "\u002B3.66%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.91,
-      "change": 1.4,
-      "changeStr": "\u002B1.40%"
+      "price": 39.92,
+      "change": 1.42,
+      "changeStr": "\u002B1.42%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.88,
-      "change": 2.17,
-      "changeStr": "\u002B2.17%"
+      "price": 17.83,
+      "change": 1.89,
+      "changeStr": "\u002B1.89%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.18,
-      "change": 0.5,
-      "changeStr": "\u002B0.50%"
+      "price": 20.06,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.88,
-      "change": 1.03,
-      "changeStr": "\u002B1.03%"
+      "price": 5.74,
+      "change": -1.37,
+      "changeStr": "-1.37%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.63,
-      "change": 1.22,
-      "changeStr": "\u002B1.22%"
+      "price": 16.5,
+      "change": 0.43,
+      "changeStr": "\u002B0.43%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.15,
-      "change": 0.35,
-      "changeStr": "\u002B0.35%"
+      "price": 42.15,
+      "change": -1.98,
+      "changeStr": "-1.98%"
     }
   ],
   "news": [
+    {
+      "title": "BRB: governo do DF pede aval de distritais ao acordo com a Uni\u00E3o e ao empr\u00E9stimo para salvar o banco",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/02/brb-governo-do-df-pede-aval-de-distritais-ao-acordo-com-a-uniao-e-ao-emprestimo-para-salvar-o-banco.ghtml",
+      "date": "Tue, 02 Jun 2026 18:34:37 -0000"
+    },
+    {
+      "title": "Intelig\u00EAncia artificial, jornalismo e o futuro incerto da esfera p\u00FAblica",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/06/02/inteligencia-artificial-jornalismo-e-o-futuro-incerto-da-esfera-publica.ghtml",
+      "date": "Tue, 02 Jun 2026 16:49:24 -0000"
+    },
+    {
+      "title": "Tarifas dos EUA podem ter efeito imediato apesar de prazo de negocia\u00E7\u00E3o, diz ex-secret\u00E1rio de Com\u00E9rcio Exterior do Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/tarifas-dos-eua-podem-ter-efeito-imediato-apesar-de-prazo-de-negociacao-diz-ex-secretario-de-comercio-exterior-do-brasil.ghtml",
+      "date": "Tue, 02 Jun 2026 16:31:59 -0000"
+    },
+    {
+      "title": "Ministro da Fazenda diz que fam\u00EDlia Bolsonaro fez \u0027movimento\u0027 contra o PIX e que governo vai proteger ferramenta ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/pix-sera-protegido-resguardado-e-nao-esta-em-debate-diz-ministro-da-fazenda.ghtml",
+      "date": "Tue, 02 Jun 2026 16:24:57 -0000"
+    },
+    {
+      "title": "Veja nota do governo brasileiro que rebate proposta dos EUA de aplicar novo tarifa\u00E7o contra o Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/06/02/leia-nota-do-governo-brasileiro-que-rebate-proposta-dos-eua-de-novo-tarifaco-contra-o-brasil.ghtml",
+      "date": "Tue, 02 Jun 2026 16:19:51 -0000"
+    },
+    {
+      "title": "Alckmin classifica como \u0027injusta\u0027 proposta de departamento dos EUA de taxar exporta\u00E7\u00F5es do Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/alckmin-diz-que-governo-do-brasil-recebe-possiveis-novas-tarifas-com-indignacao.ghtml",
+      "date": "Tue, 02 Jun 2026 16:04:14 -0000"
+    },
+    {
+      "title": "\u0027Obst\u00E1culos ao com\u00E9rcio e a investimentos\u0027: C\u00E2mara Americana de Com\u00E9rcio para o Brasil cita aumento de custos ap\u00F3s governo Trump amea\u00E7ar novas tarifas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/02/obstaculos-ao-comercio-e-a-investimentos-camara-americana-de-comercio-para-o-brasil-cita-aumento-de-custos-apos-governo-trump-ameacar-novas-tarifas.ghtml",
+      "date": "Tue, 02 Jun 2026 14:54:36 -0000"
+    },
+    {
+      "title": "Lula diz que \u0027filhos s\u00E3o piores que Bolsonaro\u0027 ao associar taxa\u00E7\u00E3o dos EUA \u00E0 fam\u00EDlia do ex-presidente: \u0027Traidores da p\u00E1tria\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/06/02/lula-tarifas-de-25percent.ghtml",
+      "date": "Tue, 02 Jun 2026 14:51:10 -0000"
+    },
     {
       "title": "Planalto v\u00EA situa\u00E7\u00E3o adversa e prev\u00EA cen\u00E1rio similar ao de 2025 em caso de novas tarifas dos EUA",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/02/entenda-as-criticas-dos-eua-para-justificar-a-tarifa-de-25percent.ghtml",
       "date": "Tue, 02 Jun 2026 14:06:46 -0000"
-    },
-    {
-      "title": "Governo Trump conclui que PIX \u00E9 \u0027injusto\u0027: por que sistema brasileiro incomoda tanto os EUA e o que pode acontecer com ele agora?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/02/governo-trump-conclui-que-pix-e-injusto-o-que-pode-acontecer-agora.ghtml",
-      "date": "Tue, 02 Jun 2026 13:44:52 -0000"
-    },
-    {
-      "title": "Tarifas propostas ao Brasil s\u00E3o \u0027diferenciadas\u0027, diz representante do com\u00E9rcio dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/02/greer-diz-divulgara-mais-acoes-da-secao-301-em-breve-e-que-tarifas-propostas-ao-brasil-sao-diferenciadas.ghtml",
-      "date": "Tue, 02 Jun 2026 13:38:39 -0000"
-    },
-    {
-      "title": "Petrobras ajusta pre\u00E7os do diesel de uso rodovi\u00E1rio em R$ 1,12; distribuidoras n\u00E3o ter\u00E3o impacto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/02/petrobras-diesel.ghtml",
-      "date": "Tue, 02 Jun 2026 13:25:50 -0000"
-    },
-    {
-      "title": "Governo Trump corta parte das tarifas sobre produtos feitos de a\u00E7o e alum\u00EDnio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/02/trump-tarifas-importacoes-de-aco-aluminio-e-cobre.ghtml",
-      "date": "Tue, 02 Jun 2026 13:21:21 -0000"
-    },
-    {
-      "title": "Imposto de Renda 2026: Receita Federal estima que 2,2 milh\u00F5es de declara\u00E7\u00F5es ca\u00EDram  na malha fina",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/06/02/imposto-de-renda-2026-receita-federal-estima-que-22-milhoes-de-declaracoes-cairam-na-malha-fina.ghtml",
-      "date": "Tue, 02 Jun 2026 13:13:35 -0000"
-    },
-    {
-      "title": "GAC Aion UT chega por R$ 139.990 e aposta em pot\u00EAncia para tentar roubar mercado do BYD Dolphin",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/06/02/gac-aion-ut-brasil.ghtml",
-      "date": "Tue, 02 Jun 2026 12:36:34 -0000"
-    },
-    {
-      "title": "D\u00F3lar cai ap\u00F3s nova amea\u00E7a tarif\u00E1ria dos EUA ao Brasil; Ibovespa sobe apesar de impasse com o Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/02/dolar-ibovespa.ghtml",
-      "date": "Tue, 02 Jun 2026 12:00:33 -0000"
-    },
-    {
-      "title": "Novo tarifa\u00E7o dos EUA reduz competitividade de produtos, mas h\u00E1 \u0027janela\u0027 para negociar, diz Amcham Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/02/decisao-dos-eua-reduz-competitividade-de-produtos-brasileiros-mas-ha-janela-de-negociacao-diz-amcham-brasil.ghtml",
-      "date": "Tue, 02 Jun 2026 11:53:59 -0000"
     }
   ]
 }
