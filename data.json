@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170252.52,
-      "change": -2.26,
-      "changeStr": "-2.26%"
+      "price": 170330.62,
+      "change": -2.22,
+      "changeStr": "-2.22%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.48,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 41.25,
+      "change": -0.77,
+      "changeStr": "-0.77%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.17,
-      "change": -3.33,
-      "changeStr": "-3.33%"
+      "price": 81.79,
+      "change": -3.78,
+      "changeStr": "-3.78%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.7,
-      "change": -2.17,
-      "changeStr": "-2.17%"
+      "price": 38.72,
+      "change": -2.12,
+      "changeStr": "-2.12%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.38,
-      "change": -2.08,
-      "changeStr": "-2.08%"
+      "price": 17.37,
+      "change": -2.14,
+      "changeStr": "-2.14%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.58,
-      "change": -1.56,
-      "changeStr": "-1.56%"
+      "price": 19.53,
+      "change": -1.81,
+      "changeStr": "-1.81%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.36,
-      "change": -5.63,
-      "changeStr": "-5.63%"
+      "price": 5.34,
+      "change": -5.99,
+      "changeStr": "-5.99%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.09,
-      "change": -2.19,
-      "changeStr": "-2.19%"
+      "price": 16.07,
+      "change": -2.31,
+      "changeStr": "-2.31%"
     },
     {
       "symbol": "WEGE3",
-      "price": 41.9,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 41.78,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     }
   ],
   "news": [
+    {
+      "title": "Governo publica regra que permite manter o Bolsa Fam\u00EDlia durante an\u00E1lise do BPC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/03/governo-publica-regra-que-permite-manter-o-bolsa-familia-durante-analise-do-bpc.ghtml",
+      "date": "Wed, 03 Jun 2026 21:43:32 -0000"
+    },
+    {
+      "title": "SpaceX define pre\u00E7o de US$ 135 por a\u00E7\u00E3o para estreia na bolsa americana",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/03/spacex-ipo-wall-street.ghtml",
+      "date": "Wed, 03 Jun 2026 21:03:39 -0000"
+    },
     {
       "title": "Planalto conta com encontro entre Lula e Trump durante o G7, na Fran\u00E7a",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/06/03/ifood-vazamento-dados.ghtml",
       "date": "Wed, 03 Jun 2026 16:45:30 -0000"
-    },
-    {
-      "title": "Trump assina ordem que d\u00E1 ao governo acesso antecipado a modelos de intelig\u00EAncia artificial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/03/trump-assina-ordem-que-da-ao-governo-acesso-antecipado-a-modelos-de-inteligencia-artificial.ghtml",
-      "date": "Wed, 03 Jun 2026 15:55:17 -0000"
-    },
-    {
-      "title": "Volvo acaba com recarga gratuita em eletropostos e passa a cobrar de clientes da marca",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/06/03/volvo-acaba-com-recarga-gratuita-e-passa-a-cobrar-ate-r-290-por-kwh-em-eletropostos.ghtml",
-      "date": "Wed, 03 Jun 2026 14:41:03 -0000"
     }
   ]
 }
