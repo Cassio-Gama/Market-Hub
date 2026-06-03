@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174197.64,
-      "change": 1.16,
-      "changeStr": "\u002B1.16%"
+      "price": 170884.2,
+      "change": -1.9,
+      "changeStr": "-1.90%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.57,
-      "change": -1.89,
-      "changeStr": "-1.89%"
+      "price": 41.56,
+      "change": -0.02,
+      "changeStr": "-0.02%"
     },
     {
       "symbol": "VALE3",
-      "price": 85,
-      "change": 4.04,
-      "changeStr": "\u002B4.04%"
+      "price": 82.23,
+      "change": -3.26,
+      "changeStr": "-3.26%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.56,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
+      "price": 38.84,
+      "change": -1.82,
+      "changeStr": "-1.82%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.75,
-      "change": 1.43,
-      "changeStr": "\u002B1.43%"
+      "price": 17.38,
+      "change": -2.08,
+      "changeStr": "-2.08%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.89,
-      "change": -0.95,
-      "changeStr": "-0.95%"
+      "price": 19.62,
+      "change": -1.36,
+      "changeStr": "-1.36%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.68,
-      "change": -2.41,
-      "changeStr": "-2.41%"
+      "price": 5.46,
+      "change": -3.87,
+      "changeStr": "-3.87%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.45,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 16.24,
+      "change": -1.28,
+      "changeStr": "-1.28%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42,
-      "change": -2.33,
-      "changeStr": "-2.33%"
+      "price": 42.24,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
     }
   ],
   "news": [
     {
-      "title": "Governo brasileiro j\u00E1 esperava sobretaxa relacionada a trabalho for\u00E7ado e segue dizendo ser decis\u00E3o pol\u00EDtica dos EUA",
+      "title": "Volvo acaba com recarga gratuita em eletropostos e passa a cobrar de clientes da marca",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/03/governo-brasileiro-sobretaxa-trabalho-forcado.ghtml",
-      "date": "Wed, 03 Jun 2026 09:12:32 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/06/03/volvo-acaba-com-recarga-gratuita-e-passa-a-cobrar-ate-r-290-por-kwh-em-eletropostos.ghtml",
+      "date": "Wed, 03 Jun 2026 14:41:03 -0000"
     },
     {
-      "title": "O que os jovens buscam em um emprego? Crescimento pesa mais que sal\u00E1rio, diz pesquisa",
+      "title": "Desenrola 2.0 renegociou R$ 20 bilh\u00F5es em d\u00EDvidas de fam\u00EDlias, diz governo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/03/o-que-os-jovens-buscam-em-um-emprego-crescimento-pesa-mais-que-salario-diz-pesquisa.ghtml",
-      "date": "Wed, 03 Jun 2026 07:01:23 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/03/desenrola-20-renegociou-r-20-bilhoes-em-dividas-de-familias-diz-governo.ghtml",
+      "date": "Wed, 03 Jun 2026 14:31:05 -0000"
     },
     {
-      "title": "Tarifa dos EUA sobre til\u00E1pia brasileira pode baratear o peixe no Brasil? Entenda",
+      "title": "Entenda os principais pontos da reforma trabalhista que provoca greve geral em Portugal",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/03/tarifa-dos-eua-sobre-tilapia-brasileira-pode-baratear-o-peixe-no-brasil-entenda.ghtml",
-      "date": "Wed, 03 Jun 2026 07:01:19 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/03/reforma-trabalhista-greve-geral-em-portugal.ghtml",
+      "date": "Wed, 03 Jun 2026 14:21:19 -0000"
     },
     {
-      "title": "Bloqueio de 18% do or\u00E7amento pode comprometer fiscaliza\u00E7\u00E3o, investimentos e servi\u00E7os das ag\u00EAncias reguladoras",
+      "title": "Nestl\u00E9 compra yfood Labs, marca de refei\u00E7\u00F5es prontas para beber",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/03/bloqueio-de-18percent-do-orcamento-pode-comprometer-fiscalizacao-investimentos-e-servicos-das-agencias-reguladoras.ghtml",
-      "date": "Wed, 03 Jun 2026 07:00:46 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/03/nestle-compra-yfood-labs.ghtml",
+      "date": "Wed, 03 Jun 2026 14:13:59 -0000"
     },
     {
-      "title": "Live shopping: como transmiss\u00F5es ao vivo viraram estrat\u00E9gia para vender milh\u00F5es",
+      "title": "Trump acusa Brasil de trabalho for\u00E7ado na pecu\u00E1ria, mas isenta carne bovina de nova tarifa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/06/03/live-shopping-como-transmissoes-ao-vivo-viraram-estrategia-para-vender-milhoes.ghtml",
-      "date": "Wed, 03 Jun 2026 06:00:56 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/03/eua-acusam-brasil-de-trabalho-escravo-na-pecuaria.ghtml",
+      "date": "Wed, 03 Jun 2026 13:24:01 -0000"
     },
     {
-      "title": "Por que investidores seguem a multid\u00E3o? Entenda o comportamento de manada",
+      "title": "CBS News demite Scott Pelley, correspondente do \u002760 Minutes\u0027, por justa causa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/06/03/por-que-investidores-seguem-a-multidao-entenda-o-comportamento-de-manada.ghtml",
-      "date": "Wed, 03 Jun 2026 06:00:54 -0000"
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/06/03/cbs-news-demite-scott-pelley.ghtml",
+      "date": "Wed, 03 Jun 2026 13:08:50 -0000"
     },
     {
-      "title": "Avi\u00E3o que far\u00E1 rota mais longa do mundo faz primeiro voo de teste; veja como foi a viagem",
+      "title": "D\u00F3lar opera em alta e bate R$ 5,05, de olho em novas tarifas de Trump e conflito entre EUA e Ir\u00E3; Ibovespa cai",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/06/03/aviao-que-fara-rota-mais-longa-do-mundo-faz-primeiro-voo-de-teste-veja-como-foi-a-viagem.ghtml",
-      "date": "Wed, 03 Jun 2026 06:00:37 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/03/dolar-ibovespa.ghtml",
+      "date": "Wed, 03 Jun 2026 12:00:19 -0000"
     },
     {
-      "title": "Copa do Mundo: gastrobar de futebol com drinks de Messi e CR7 fatura R$ 1,5 milh\u00E3o em SP",
+      "title": "Pecu\u00E1ria brasileira na \u0027lista suja\u0027: o que EUA dizem sobre trabalho for\u00E7ado no Brasil ao propor mais tarifas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/06/03/copa-do-mundo-gastrobar-de-futebol-com-drinks-de-messi-e-cr7-fatura-r-15-milhao-em-sp.ghtml",
-      "date": "Wed, 03 Jun 2026 05:00:54 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/03/pecuaria-brasileira-na-lista-suja-o-que-eua-dizem-sobre-trabalho-forcado-no-brasil-ao-propor-mais-tarifas.ghtml",
+      "date": "Wed, 03 Jun 2026 11:31:18 -0000"
     },
     {
-      "title": "EUA prop\u00F5em sobretaxa a 60 pa\u00EDses por falha no combate ao trabalho for\u00E7ado; Brasil est\u00E1 na lista",
+      "title": "China rejeita acusa\u00E7\u00F5es de trabalho for\u00E7ado e critica novas tarifas propostas pelos EUA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/03/eua-propoem-sobretaxa-a-60-paises-por-falha-no-combate-ao-trabalho-forcado-brasil-esta-na-lista.ghtml",
-      "date": "Wed, 03 Jun 2026 03:27:11 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/03/china-rejeita-acusacoes-de-trabalho-forcado-e-critica-novas-tarifas-propostas-pelos-eua.ghtml",
+      "date": "Wed, 03 Jun 2026 11:10:29 -0000"
     },
     {
-      "title": "Vai trabalhar no Corpus Christi? Veja quando d\u00E1 para emendar e quais s\u00E3o seus direitos",
+      "title": "Copa do Mundo de 2026 deve atrair onda recorde de apostas; gols, passes e at\u00E9 p\u00E9 usado para marcar entram nos palpites",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/03/vai-trabalhar-no-corpus-christi-veja-quando-da-para-emendar-e-quais-sao-seus-direitos.ghtml",
-      "date": "Wed, 03 Jun 2026 03:01:11 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/03/copa-do-mundo-uma-bonanca-para-as-casas-de-apostas.ghtml",
+      "date": "Wed, 03 Jun 2026 11:02:04 -0000"
     }
   ]
 }
