@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170884.2,
-      "change": -1.9,
-      "changeStr": "-1.90%"
+      "price": 170252.52,
+      "change": -2.26,
+      "changeStr": "-2.26%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.56,
-      "change": -0.02,
-      "changeStr": "-0.02%"
+      "price": 41.48,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.23,
-      "change": -3.26,
-      "changeStr": "-3.26%"
+      "price": 82.17,
+      "change": -3.33,
+      "changeStr": "-3.33%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.84,
-      "change": -1.82,
-      "changeStr": "-1.82%"
+      "price": 38.7,
+      "change": -2.17,
+      "changeStr": "-2.17%"
     },
     {
       "symbol": "BBDC4",
@@ -32,89 +32,89 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 19.62,
-      "change": -1.36,
-      "changeStr": "-1.36%"
+      "price": 19.58,
+      "change": -1.56,
+      "changeStr": "-1.56%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.46,
-      "change": -3.87,
-      "changeStr": "-3.87%"
+      "price": 5.36,
+      "change": -5.63,
+      "changeStr": "-5.63%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.24,
-      "change": -1.28,
-      "changeStr": "-1.28%"
+      "price": 16.09,
+      "change": -2.19,
+      "changeStr": "-2.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.24,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
+      "price": 41.9,
+      "change": -0.24,
+      "changeStr": "-0.24%"
     }
   ],
   "news": [
+    {
+      "title": "Planalto conta com encontro entre Lula e Trump durante o G7, na Fran\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/06/03/planalto-conta-com-encontro-de-lula-e-trump-durante-o-g7-na-franca.ghtml",
+      "date": "Wed, 03 Jun 2026 19:34:08 -0000"
+    },
+    {
+      "title": "\u0027O Pix n\u00E3o sofre nenhuma amea\u00E7a\u0027, diz ex-diretor da OMC sobre relat\u00F3rio dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/03/o-pix-nao-sofre-nenhuma-ameaca-diz-ex-diretor-da-omc-sobre-relatorio-dos-eua.ghtml",
+      "date": "Wed, 03 Jun 2026 19:19:09 -0000"
+    },
+    {
+      "title": "Indica\u00E7\u00E3o dos EUA de novo embaixador no Brasil sem aval pr\u00E9vio do governo brasileiro incomoda Itamaraty",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/06/03/indicacao-dos-eua-de-novo-embaixador-no-brasil-sem-aval-previo-do-governo-brasileiro-incomoda-itamaraty.ghtml",
+      "date": "Wed, 03 Jun 2026 19:10:19 -0000"
+    },
+    {
+      "title": "Cuba vai suspender transa\u00E7\u00F5es com Visa e Mastercard em meio a san\u00E7\u00F5es dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/03/cuba-vai-suspender-transacoes-com-visa-e-mastercard-em-meio-a-sancoes-dos-eua.ghtml",
+      "date": "Wed, 03 Jun 2026 18:28:30 -0000"
+    },
+    {
+      "title": "Exporta\u00E7\u00F5es para os EUA recuam 14% em maio; balan\u00E7a tem saldo positivo de US$ 7,8 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/03/exportacoes-para-os-eua-recuam-14percent-em-maio-mas-balanca-comercial-tem-saldo-positivo-de-us-78-bilhoes.ghtml",
+      "date": "Wed, 03 Jun 2026 18:00:34 -0000"
+    },
+    {
+      "title": "Chevrolet apresenta o Onix Activ 2027; hatch tem suspens\u00E3o mais alta e pre\u00E7o de R$ 114.990",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/03/chevrolet-apresenta-o-onix-activ-2027-hatch-tem-suspensao-mais-alta-e-itens-exclusivos.ghtml",
+      "date": "Wed, 03 Jun 2026 17:17:02 -0000"
+    },
+    {
+      "title": "Google promete devolver mais \u00E1gua do que consome em data centers at\u00E9 2030",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/03/google-promete-devolver-mais-agua-do-que-consome-em-data-centers-ate-2030.ghtml",
+      "date": "Wed, 03 Jun 2026 17:00:31 -0000"
+    },
+    {
+      "title": "iFood diz que dados de 1,2 milh\u00E3o de usu\u00E1rios foram vazados; veja o que foi afetado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/03/ifood-vazamento-dados.ghtml",
+      "date": "Wed, 03 Jun 2026 16:45:30 -0000"
+    },
+    {
+      "title": "Trump assina ordem que d\u00E1 ao governo acesso antecipado a modelos de intelig\u00EAncia artificial",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/03/trump-assina-ordem-que-da-ao-governo-acesso-antecipado-a-modelos-de-inteligencia-artificial.ghtml",
+      "date": "Wed, 03 Jun 2026 15:55:17 -0000"
+    },
     {
       "title": "Volvo acaba com recarga gratuita em eletropostos e passa a cobrar de clientes da marca",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/06/03/volvo-acaba-com-recarga-gratuita-e-passa-a-cobrar-ate-r-290-por-kwh-em-eletropostos.ghtml",
       "date": "Wed, 03 Jun 2026 14:41:03 -0000"
-    },
-    {
-      "title": "Desenrola 2.0 renegociou R$ 20 bilh\u00F5es em d\u00EDvidas de fam\u00EDlias, diz governo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/03/desenrola-20-renegociou-r-20-bilhoes-em-dividas-de-familias-diz-governo.ghtml",
-      "date": "Wed, 03 Jun 2026 14:31:05 -0000"
-    },
-    {
-      "title": "Entenda os principais pontos da reforma trabalhista que provoca greve geral em Portugal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/03/reforma-trabalhista-greve-geral-em-portugal.ghtml",
-      "date": "Wed, 03 Jun 2026 14:21:19 -0000"
-    },
-    {
-      "title": "Nestl\u00E9 compra yfood Labs, marca de refei\u00E7\u00F5es prontas para beber",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/03/nestle-compra-yfood-labs.ghtml",
-      "date": "Wed, 03 Jun 2026 14:13:59 -0000"
-    },
-    {
-      "title": "Trump acusa Brasil de trabalho for\u00E7ado na pecu\u00E1ria, mas isenta carne bovina de nova tarifa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/03/eua-acusam-brasil-de-trabalho-escravo-na-pecuaria.ghtml",
-      "date": "Wed, 03 Jun 2026 13:24:01 -0000"
-    },
-    {
-      "title": "CBS News demite Scott Pelley, correspondente do \u002760 Minutes\u0027, por justa causa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/06/03/cbs-news-demite-scott-pelley.ghtml",
-      "date": "Wed, 03 Jun 2026 13:08:50 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta e bate R$ 5,05, de olho em novas tarifas de Trump e conflito entre EUA e Ir\u00E3; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/03/dolar-ibovespa.ghtml",
-      "date": "Wed, 03 Jun 2026 12:00:19 -0000"
-    },
-    {
-      "title": "Pecu\u00E1ria brasileira na \u0027lista suja\u0027: o que EUA dizem sobre trabalho for\u00E7ado no Brasil ao propor mais tarifas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/03/pecuaria-brasileira-na-lista-suja-o-que-eua-dizem-sobre-trabalho-forcado-no-brasil-ao-propor-mais-tarifas.ghtml",
-      "date": "Wed, 03 Jun 2026 11:31:18 -0000"
-    },
-    {
-      "title": "China rejeita acusa\u00E7\u00F5es de trabalho for\u00E7ado e critica novas tarifas propostas pelos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/03/china-rejeita-acusacoes-de-trabalho-forcado-e-critica-novas-tarifas-propostas-pelos-eua.ghtml",
-      "date": "Wed, 03 Jun 2026 11:10:29 -0000"
-    },
-    {
-      "title": "Copa do Mundo de 2026 deve atrair onda recorde de apostas; gols, passes e at\u00E9 p\u00E9 usado para marcar entram nos palpites",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/03/copa-do-mundo-uma-bonanca-para-as-casas-de-apostas.ghtml",
-      "date": "Wed, 03 Jun 2026 11:02:04 -0000"
     }
   ]
 }
