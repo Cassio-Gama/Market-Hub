@@ -2,62 +2,68 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169845.31,
-      "change": -0.28,
-      "changeStr": "-0.28%"
+      "price": 169246.44,
+      "change": -0.64,
+      "changeStr": "-0.64%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.22,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 40.9,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.78,
-      "change": -2.46,
-      "changeStr": "-2.46%"
+      "price": 79.22,
+      "change": -3.14,
+      "changeStr": "-3.14%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.99,
-      "change": 0.7,
-      "changeStr": "\u002B0.70%"
+      "price": 38.95,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.53,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 17.48,
+      "change": 0.63,
+      "changeStr": "\u002B0.63%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.62,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 19.31,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.57,
-      "change": 4.31,
-      "changeStr": "\u002B4.31%"
+      "price": 5.38,
+      "change": 0.75,
+      "changeStr": "\u002B0.75%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.08,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 16.15,
+      "change": 0.5,
+      "changeStr": "\u002B0.50%"
     },
     {
       "symbol": "WEGE3",
-      "price": 41.74,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 41.9,
+      "change": 0.29,
+      "changeStr": "\u002B0.29%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar opera em alta e bate R$ 5,12, ap\u00F3s dados mais fortes de emprego nos EUA; Ibovespa cai",
+      "title": "Erro no site da Fifa libera ingressos gr\u00E1tis para a Copa, torcedores resgatam e entidade exige pagamento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/05/erro-no-site-da-fifa-libera-ingressos-gratis-para-a-copa-torcedores-resgatam-e-entidade-exige-pagamento.ghtml",
+      "date": "Fri, 05 Jun 2026 14:25:26 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta e bate R$ 5,15, ap\u00F3s dados mais fortes de emprego nos EUA; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/05/dolar-ibovespa.ghtml",
       "date": "Fri, 05 Jun 2026 13:51:30 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/06/05/site-rastreia-jatos-de-super-ricos-para-prever-o-apocalipse.ghtml",
       "date": "Fri, 05 Jun 2026 06:00:40 -0000"
-    },
-    {
-      "title": "Governo nomeia Otto Lobo para presidir \u00F3rg\u00E3o que regula fundos de investimento\n",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/04/governo-nomeia-otto-lobo-para-presidir-orgao-que-regula-fundos-de-investimento.ghtml",
-      "date": "Thu, 04 Jun 2026 18:54:53 -0000"
     }
   ]
 }
