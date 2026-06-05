@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170330.62,
-      "change": -2.22,
-      "changeStr": "-2.22%"
+      "price": 169845.31,
+      "change": -0.28,
+      "changeStr": "-0.28%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.25,
-      "change": -0.77,
-      "changeStr": "-0.77%"
+      "price": 41.22,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.79,
-      "change": -3.78,
-      "changeStr": "-3.78%"
+      "price": 79.78,
+      "change": -2.46,
+      "changeStr": "-2.46%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.72,
-      "change": -2.12,
-      "changeStr": "-2.12%"
+      "price": 38.99,
+      "change": 0.7,
+      "changeStr": "\u002B0.70%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.37,
-      "change": -2.14,
-      "changeStr": "-2.14%"
+      "price": 17.53,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.53,
-      "change": -1.81,
-      "changeStr": "-1.81%"
+      "price": 19.62,
+      "change": 0.46,
+      "changeStr": "\u002B0.46%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.34,
-      "change": -5.99,
-      "changeStr": "-5.99%"
+      "price": 5.57,
+      "change": 4.31,
+      "changeStr": "\u002B4.31%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.07,
-      "change": -2.31,
-      "changeStr": "-2.31%"
+      "price": 16.08,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 41.78,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 41.74,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     }
   ],
   "news": [
+    {
+      "title": "D\u00F3lar opera em alta e bate R$ 5,12, ap\u00F3s dados mais fortes de emprego nos EUA; Ibovespa cai",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/05/dolar-ibovespa.ghtml",
+      "date": "Fri, 05 Jun 2026 13:51:30 -0000"
+    },
+    {
+      "title": "Dona do Claude sugere pausa no desenvolvimento da IA por risco de sistemas sa\u00EDrem do controle humano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/05/dona-do-claude-sugere-pausa-no-desenvolvimento-da-ia-por-risco-de-sistemas-sairem-do-controle-humano.ghtml",
+      "date": "Fri, 05 Jun 2026 13:31:52 -0000"
+    },
+    {
+      "title": "Portaria do INSS autoriza adequa\u00E7\u00E3o de servidores para refor\u00E7ar setor que avalia pedidos de BPC ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/05/portaria-do-inss-autoriza-adequacao-de-servidores-para-reforcar-setor-que-avalia-pedidos-de-bpc.ghtml",
+      "date": "Fri, 05 Jun 2026 12:54:19 -0000"
+    },
+    {
+      "title": "Como cultivar morango? ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/06/05/como-cultivar-morango.ghtml",
+      "date": "Fri, 05 Jun 2026 10:19:05 -0000"
+    },
     {
       "title": "PIX x Zelle: veja as diferen\u00E7as entre os sistemas de pagamento do Brasil e dos EUA",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/04/governo-nomeia-otto-lobo-para-presidir-orgao-que-regula-fundos-de-investimento.ghtml",
       "date": "Thu, 04 Jun 2026 18:54:53 -0000"
-    },
-    {
-      "title": "\u0027Pix americano\u0027? O que \u00E9 o Zelle, sistema de pagamentos defendido por Eduardo Bolsonaro para negocia\u00E7\u00E3o entre Brasil e EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/04/pix-americano-o-que-e-o-zelle-sistema-de-pagamentos-defendido-por-eduardo-bolsonaro-para-negociacao-entre-brasil-e-eua.ghtml",
-      "date": "Thu, 04 Jun 2026 18:52:11 -0000"
-    },
-    {
-      "title": "Instagram Plus come\u00E7a a ser liberado no Brasil; veja pre\u00E7o e recursos exclusivos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/04/instagram-plus-comeca-a-ser-liberado-no-brasil-veja-preco-e-recursos-exclusivos.ghtml",
-      "date": "Thu, 04 Jun 2026 16:00:36 -0000"
-    },
-    {
-      "title": "WhatsApp lan\u00E7a filtros e figurinhas para a Copa do Mundo; veja como usar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/post/2026/06/04/whatsapp-lanca-filtros-e-figurinhas-para-a-copa-do-mundo-veja-como-usar.ghtml",
-      "date": "Thu, 04 Jun 2026 15:05:36 -0000"
-    },
-    {
-      "title": "Quem criou o Pix? Como nasceu o sistema de pagamentos que est\u00E1 na mira do governo Trump",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/04/quem-criou-o-pix-como-nasceu-o-sistema-de-pagamentos-que-esta-na-mira-do-governo-trump.ghtml",
-      "date": "Thu, 04 Jun 2026 14:22:37 -0000"
     }
   ]
 }
