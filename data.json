@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169246.44,
-      "change": -0.64,
-      "changeStr": "-0.64%"
+      "price": 169377.88,
+      "change": -0.56,
+      "changeStr": "-0.56%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.9,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 40.79,
+      "change": -1.12,
+      "changeStr": "-1.12%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.22,
-      "change": -3.14,
-      "changeStr": "-3.14%"
+      "price": 78.86,
+      "change": -3.58,
+      "changeStr": "-3.58%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.95,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 39.09,
+      "change": 0.96,
+      "changeStr": "\u002B0.96%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.48,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
+      "price": 17.53,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.31,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 19.34,
+      "change": -0.97,
+      "changeStr": "-0.97%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.38,
-      "change": 0.75,
-      "changeStr": "\u002B0.75%"
+      "price": 5.51,
+      "change": 3.18,
+      "changeStr": "\u002B3.18%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.15,
-      "change": 0.5,
-      "changeStr": "\u002B0.50%"
+      "price": 16.24,
+      "change": 1.06,
+      "changeStr": "\u002B1.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 41.9,
-      "change": 0.29,
-      "changeStr": "\u002B0.29%"
+      "price": 42.49,
+      "change": 1.7,
+      "changeStr": "\u002B1.70%"
     }
   ],
   "news": [
+    {
+      "title": "Lula sanciona lei que permite renova\u00E7\u00E3o autom\u00E1tica da CNH de bons condutores ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/05/lula-sanciona-lei-que-permite-renovacao-automatica-da-cnh-de-bons-condutores.ghtml",
+      "date": "Fri, 05 Jun 2026 17:16:18 -0000"
+    },
+    {
+      "title": "Bitcoin cai abaixo de US$ 60 mil, a primeira vez desde outubro de 2024",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/05/bitcoin-cai-abaixo-de-us-60-mil-a-primeira-vez-desde-outubro-de-2024.ghtml",
+      "date": "Fri, 05 Jun 2026 16:27:39 -0000"
+    },
     {
       "title": "Erro no site da Fifa libera ingressos gr\u00E1tis para a Copa, torcedores resgatam e entidade exige pagamento",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/05/o-que-a-spacex-espera-ao-estrear-na-bolsa-de-valores-e-como-ela-pode-fazer-de-elon-musk-o-primeiro-trilionario.ghtml",
       "date": "Fri, 05 Jun 2026 07:01:00 -0000"
-    },
-    {
-      "title": "Pequenos insetos, grandes neg\u00F3cios: mulheres transformam hobby por abelhas em fonte de renda no ES",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/05/pequenos-insetos-grandes-negocios-mulheres-transformam-hobby-por-abelhas-em-fonte-de-renda-no-es.ghtml",
-      "date": "Fri, 05 Jun 2026 07:00:40 -0000"
-    },
-    {
-      "title": "\nSite rastreia jatos de super-ricos para \u0027prever o apocalipse\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/05/site-rastreia-jatos-de-super-ricos-para-prever-o-apocalipse.ghtml",
-      "date": "Fri, 05 Jun 2026 06:00:40 -0000"
     }
   ]
 }
