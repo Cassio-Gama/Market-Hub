@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169377.88,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 169019.12,
+      "change": -0.77,
+      "changeStr": "-0.77%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.79,
-      "change": -1.12,
-      "changeStr": "-1.12%"
+      "price": 40.89,
+      "change": -0.87,
+      "changeStr": "-0.87%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.86,
-      "change": -3.58,
-      "changeStr": "-3.58%"
+      "price": 78.7,
+      "change": -3.78,
+      "changeStr": "-3.78%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.09,
-      "change": 0.96,
-      "changeStr": "\u002B0.96%"
+      "price": 38.83,
+      "change": 0.28,
+      "changeStr": "\u002B0.28%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.53,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 17.47,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.34,
-      "change": -0.97,
-      "changeStr": "-0.97%"
+      "price": 19.17,
+      "change": -1.84,
+      "changeStr": "-1.84%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.51,
-      "change": 3.18,
-      "changeStr": "\u002B3.18%"
+      "price": 5.44,
+      "change": 1.87,
+      "changeStr": "\u002B1.87%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.24,
-      "change": 1.06,
-      "changeStr": "\u002B1.06%"
+      "price": 16.17,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.49,
-      "change": 1.7,
-      "changeStr": "\u002B1.70%"
+      "price": 42.46,
+      "change": 1.63,
+      "changeStr": "\u002B1.63%"
     }
   ],
   "news": [
+    {
+      "title": "Estados americanos preparam a\u00E7\u00E3o para bloquear compra da Warner Bros pela Paramount",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/05/estados-americanos-preparam-acao-para-bloquear-compra-da-warner-bros-pela-paramount.ghtml",
+      "date": "Fri, 05 Jun 2026 19:00:09 -0000"
+    },
     {
       "title": "Lula sanciona lei que permite renova\u00E7\u00E3o autom\u00E1tica da CNH de bons condutores ",
       "source": "G1 Economia",
@@ -75,7 +81,7 @@
       "date": "Fri, 05 Jun 2026 14:25:26 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta e bate R$ 5,15, ap\u00F3s dados mais fortes de emprego nos EUA; Ibovespa cai",
+      "title": "D\u00F3lar sobe e fecha a R$ 5,15, no maior n\u00EDvel em dois meses; Ibovespa cai aos 169 mil pontos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/05/dolar-ibovespa.ghtml",
       "date": "Fri, 05 Jun 2026 13:51:30 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/05/selecao-mais-valiosa-da-copa-veja-lista.ghtml",
       "date": "Fri, 05 Jun 2026 07:01:11 -0000"
-    },
-    {
-      "title": "O que a SpaceX espera ao estrear na bolsa de valores \u2014 e como ela pode fazer de Elon Musk o primeiro trilion\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/05/o-que-a-spacex-espera-ao-estrear-na-bolsa-de-valores-e-como-ela-pode-fazer-de-elon-musk-o-primeiro-trilionario.ghtml",
-      "date": "Fri, 05 Jun 2026 07:01:00 -0000"
     }
   ]
 }
