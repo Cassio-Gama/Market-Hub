@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168571.75,
-      "change": -0.26,
-      "changeStr": "-0.26%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 41.14,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 78.09,
-      "change": -0.78,
-      "changeStr": "-0.78%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 38.56,
-      "change": -0.7,
-      "changeStr": "-0.70%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 17.28,
-      "change": -1.09,
-      "changeStr": "-1.09%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 19.13,
+      "price": 168668.72,
       "change": -0.21,
       "changeStr": "-0.21%"
     },
     {
+      "symbol": "PETR4",
+      "price": 41.22,
+      "change": 0.81,
+      "changeStr": "\u002B0.81%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 78.07,
+      "change": -0.8,
+      "changeStr": "-0.80%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 38.52,
+      "change": -0.8,
+      "changeStr": "-0.80%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 17.2,
+      "change": -1.55,
+      "changeStr": "-1.55%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 19.1,
+      "change": -0.37,
+      "changeStr": "-0.37%"
+    },
+    {
       "symbol": "MGLU3",
-      "price": 5.4,
-      "change": -0.74,
-      "changeStr": "-0.74%"
+      "price": 5.34,
+      "change": -1.84,
+      "changeStr": "-1.84%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.07,
-      "change": -0.62,
-      "changeStr": "-0.62%"
+      "price": 16.08,
+      "change": -0.56,
+      "changeStr": "-0.56%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.29,
-      "change": 4.31,
-      "changeStr": "\u002B4.31%"
+      "price": 44,
+      "change": 3.63,
+      "changeStr": "\u002B3.63%"
     }
   ],
   "news": [
+    {
+      "title": "OpenAI, dona do ChatGPT, entra com pedido confidencial de IPO",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/08/openai-dona-do-chatgpt-entra-com-pedido-confidencial-de-ipo.ghtml",
+      "date": "Mon, 08 Jun 2026 21:49:00 -0000"
+    },
+    {
+      "title": "ANPD abre processo administrativo contra a Claro por compartilhamento irregular de dados de clientes com a Serasa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/08/anpd-processa-claro-por-irregularidades-no-compartilhamento-de-dados-pessoais-de-clientes-com-a-serasa.ghtml",
+      "date": "Mon, 08 Jun 2026 21:30:06 -0000"
+    },
+    {
+      "title": "Governador do RJ diz que espera recuperar R$ 1,4 bilh\u00E3o de aplica\u00E7\u00F5es do\u00A0RioPrevid\u00EAncia no Master",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/08/governador-do-rj-espera-recuperar-r-14-bilhao-de-aplicacoes-da-rioprevidencia-no-master.ghtml",
+      "date": "Mon, 08 Jun 2026 19:25:49 -0000"
+    },
     {
       "title": "WWDC 2026: Apple lan\u00E7a iOS 27 e mais novidades agora",
       "source": "G1 Economia",
@@ -87,34 +105,16 @@
       "date": "Mon, 08 Jun 2026 18:16:31 -0000"
     },
     {
+      "title": "Alckmin diz que Lula atua para reverter veto da Uni\u00E3o Europeia \u00E0 carne brasileira: \u0027Trabalho ser\u00E1 feito\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/08/alckmin-diz-que-presidente-lula-atua-para-reverter-veto-da-uniao-europeia-a-carne-brasileira-trabalho-sera-feito.ghtml",
+      "date": "Mon, 08 Jun 2026 17:39:05 -0000"
+    },
+    {
       "title": "Apple lan\u00E7a iOS 27 turbinado com IA; veja quais iPhones v\u00E3o receber o sistema",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/06/08/apple-lanca-novo-ios-dos-iphones.ghtml",
       "date": "Mon, 08 Jun 2026 17:09:46 -0000"
-    },
-    {
-      "title": "Cachorro \u00E9 infectado por praga mortal nos Estados Unidos, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/08/cachorro-e-bezerro-infectados-mosca-da-bicheira-praga-estados-unidos-texas.ghtml",
-      "date": "Mon, 08 Jun 2026 16:35:15 -0000"
-    },
-    {
-      "title": "O risco invis\u00EDvel das \u0027modinhas de investimento\u0027: como lucro r\u00E1pido pode virar preju\u00EDzo total?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/06/08/o-risco-invisivel-das-modinhas-de-investimento-como-lucro-rapido-pode-virar-prejuizo-total.ghtml",
-      "date": "Mon, 08 Jun 2026 15:35:49 -0000"
-    },
-    {
-      "title": "Novo leil\u00E3o da Receita tem smartwatch a R$ 60 e motocicletas el\u00E9tricas por R$ 2,9 mil; veja como participar ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/08/novo-leilao-da-receita.ghtml",
-      "date": "Mon, 08 Jun 2026 14:38:06 -0000"
-    },
-    {
-      "title": "Latam reduz oferta de voos em junho e julho ap\u00F3s alta do combust\u00EDvel, diz CEO ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/08/latam-oferta-de-voos-alta-do-combustivel.ghtml",
-      "date": "Mon, 08 Jun 2026 13:36:21 -0000"
     }
   ]
 }
