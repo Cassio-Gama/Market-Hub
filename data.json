@@ -2,33 +2,33 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168615.02,
-      "change": -0.71,
-      "changeStr": "-0.71%"
+      "price": 168479.8,
+      "change": -0.79,
+      "changeStr": "-0.79%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.83,
-      "change": 1.6,
-      "changeStr": "\u002B1.60%"
+      "price": 41.74,
+      "change": 1.38,
+      "changeStr": "\u002B1.38%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.49,
-      "change": -1.29,
-      "changeStr": "-1.29%"
+      "price": 77.4,
+      "change": -1.4,
+      "changeStr": "-1.40%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.07,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 39.34,
+      "change": 0.31,
+      "changeStr": "\u002B0.31%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.28,
-      "change": -0.86,
-      "changeStr": "-0.86%"
+      "price": 17.24,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     },
     {
       "symbol": "BBAS3",
@@ -38,26 +38,50 @@
     },
     {
       "symbol": "MGLU3",
-      "price": 5.31,
-      "change": -3.28,
-      "changeStr": "-3.28%"
+      "price": 5.2,
+      "change": -5.28,
+      "changeStr": "-5.28%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.24,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 16.21,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.27,
-      "change": -2.45,
-      "changeStr": "-2.45%"
+      "price": 42.23,
+      "change": -2.54,
+      "changeStr": "-2.54%"
     }
   ],
   "news": [
     {
-      "title": "Ap\u00F3s novo ataque dos EUA, governo registra marca \u0027PIX\u0027 no INPI; prote\u00E7\u00E3o vale para uso exclusivo no Brasil",
+      "title": "Bill Gates diz que Epstein tentou chantage\u00E1-lo por sua infidelidade com a esposa, Melinda Gates",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/bill-gates-diz-que-epstein-tentou-chantagem.ghtml",
+      "date": "Wed, 10 Jun 2026 18:58:35 -0000"
+    },
+    {
+      "title": "Trump diz que EUA conduziram opera\u00E7\u00E3o secreta em Ormuz para liberar navios petroleiros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/06/10/trump-diz-que-eua-conduziram-operacao-secreta-em-ormuz-para-liberar-navios-petroleiros.ghtml",
+      "date": "Wed, 10 Jun 2026 18:26:43 -0000"
+    },
+    {
+      "title": "xAI, de Musk, \u00E9 acusada de ilegalmente demitir engenheiro que denunciou falhas de seguran\u00E7a no Grok",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/xai-de-musk-e-acusada-de-demitir-engenheiro-que-denunciou-falhas-de-seguranca-no-grok.ghtml",
+      "date": "Wed, 10 Jun 2026 17:29:36 -0000"
+    },
+    {
+      "title": "TCU aprova com ressalvas contas do governo Lula de 2025; relator alerta para situa\u00E7\u00E3o das estatais ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/10/tcu-aprova-com-ressalvas-contas-do-governo-lula-de-2025.ghtml",
+      "date": "Wed, 10 Jun 2026 16:41:37 -0000"
+    },
+    {
+      "title": "Ap\u00F3s nova ofensiva dos EUA, governo registra marca PIX no INPI; prote\u00E7\u00E3o vale para uso no Brasil",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/10/apos-novo-ataque-dos-eua-governo-registra-marca-pix-no-inpi-protecao-vale-para-uso-exclusivo-no-brasil.ghtml",
       "date": "Wed, 10 Jun 2026 16:32:48 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/10/figurinhas-e-albuns-da-copa-lideram-reclamacoes-no-procon-sp-veja-cuidados-para-evitar-golpes.ghtml",
       "date": "Wed, 10 Jun 2026 14:45:31 -0000"
-    },
-    {
-      "title": "Banco do Brasil fora do ar? Aplicativo tem instabilidade e clientes reclamam nas redes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/10/banco-do-brasil-fora-do-ar.ghtml",
-      "date": "Wed, 10 Jun 2026 14:44:56 -0000"
-    },
-    {
-      "title": "Volkswagen lan\u00E7a T-Cross Rock in Rio por R$ 142.990",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/06/10/volkswagen-lanca-t-cross-rock-in-rio-por-r-142990.ghtml",
-      "date": "Wed, 10 Jun 2026 14:36:51 -0000"
-    },
-    {
-      "title": "Google Maps agora conversa com usu\u00E1rios no Brasil para indicar lugares e at\u00E9 \u00F4nibus; veja como funciona",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/google-maps-agora-conversa-com-usuarios-no-brasil-para-indicar-lugares-e-ate-onibus-veja-como-funciona.ghtml",
-      "date": "Wed, 10 Jun 2026 14:19:10 -0000"
-    },
-    {
-      "title": "YouTube lan\u00E7a no Brasil assistente de IA para ajudar criadores a melhorar v\u00EDdeos e crescer canais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/youtube-lanca-no-brasil-assistente-de-ia-para-ajudar-criadores-a-melhorar-videos-e-crescer-canais.ghtml",
-      "date": "Wed, 10 Jun 2026 14:09:54 -0000"
     }
   ]
 }
