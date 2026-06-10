@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169813.16,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 168615.02,
+      "change": -0.71,
+      "changeStr": "-0.71%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.17,
-      "change": -0.12,
-      "changeStr": "-0.12%"
+      "price": 41.83,
+      "change": 1.6,
+      "changeStr": "\u002B1.60%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.5,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 77.49,
+      "change": -1.29,
+      "changeStr": "-1.29%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.22,
-      "change": 1.82,
-      "changeStr": "\u002B1.82%"
+      "price": 39.07,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.43,
-      "change": 1.34,
-      "changeStr": "\u002B1.34%"
+      "price": 17.28,
+      "change": -0.86,
+      "changeStr": "-0.86%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.11,
-      "change": 0.05,
-      "changeStr": "\u002B0.05%"
+      "price": 19.03,
+      "change": -0.42,
+      "changeStr": "-0.42%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.49,
-      "change": 2.81,
-      "changeStr": "\u002B2.81%"
+      "price": 5.31,
+      "change": -3.28,
+      "changeStr": "-3.28%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.21,
-      "change": 0.81,
-      "changeStr": "\u002B0.81%"
+      "price": 16.24,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.33,
-      "change": -1.52,
-      "changeStr": "-1.52%"
+      "price": 42.27,
+      "change": -2.45,
+      "changeStr": "-2.45%"
     }
   ],
   "news": [
     {
-      "title": "Quaest: 10% dizem ter sido beneficiados pelo Novo Desenrola; endividamento atinge 69% da popula\u00E7\u00E3o",
+      "title": "Ap\u00F3s novo ataque dos EUA, governo registra marca \u0027PIX\u0027 no INPI; prote\u00E7\u00E3o vale para uso exclusivo no Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/10/quaest-endividamento-pesquisa-junho-2026.ghtml",
-      "date": "Wed, 10 Jun 2026 12:05:55 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/10/apos-novo-ataque-dos-eua-governo-registra-marca-pix-no-inpi-protecao-vale-para-uso-exclusivo-no-brasil.ghtml",
+      "date": "Wed, 10 Jun 2026 16:32:48 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, em meio a tens\u00F5es renovadas entre EUA e Ir\u00E3",
+      "title": "iPhone ou sardinha? V\u00EDdeo de influenciadora mostrando peixe enlatado em embalagem premium viraliza nas redes  ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/10/dolar-ibovespa.ghtml",
-      "date": "Wed, 10 Jun 2026 12:01:51 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/iphone-ou-sardinha-video-de-influenciadora-mostrando-peixe-enlatado-em-embalagem-premium-viraliza-nas-redes.ghtml",
+      "date": "Wed, 10 Jun 2026 16:00:34 -0000"
     },
     {
-      "title": "Bill Gates presta depoimento ao Congresso dos EUA em investiga\u00E7\u00E3o sobre caso Jeffrey Epstein",
+      "title": "Petrobras adquire 50% de Itaimbezinho, no pr\u00E9-sal da Bacia de Campos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/bill-gates-presta-depoimento-ao-congresso-dos-eua-em-investigacao-sobre-caso-jeffrey-epstein.ghtml",
-      "date": "Wed, 10 Jun 2026 10:28:24 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/10/petrobras-itaimbezinho.ghtml",
+      "date": "Wed, 10 Jun 2026 15:17:27 -0000"
     },
     {
-      "title": "Por que a entrada da SpaceX na bolsa pode ser a maior aposta de Elon Musk at\u00E9 agora",
+      "title": "Vai abrir uma empresa? Ferramenta gratuita usa intelig\u00EAncia artificial para indicar os melhores locais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/10/por-que-a-entrada-da-spacex-na-bolsa-pode-ser-a-maior-aposta-de-elon-musk-ate-agora.ghtml",
-      "date": "Wed, 10 Jun 2026 08:03:58 -0000"
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/06/10/vai-abrir-uma-empresa-nova-ferramenta-usa-ia-para-indicar-os-melhores-locais.ghtml",
+      "date": "Wed, 10 Jun 2026 15:00:13 -0000"
     },
     {
-      "title": "Trionda: chip, IA e bateria fazem a bola da Copa de 2026 funcionar como um \u0027computador\u0027",
+      "title": "Justi\u00E7a dos EUA nega pedido da Meta e do Google por novo julgamento sobre v\u00EDcio em redes sociais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/trionda-chip-ia-e-bateria-fazem-a-bola-da-copa-de-2026-funcionar-como-um-computador.ghtml",
-      "date": "Wed, 10 Jun 2026 08:03:36 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/justica-dos-eua-nega-pedido-da-meta-e-do-google-por-novo-julgamento-sobre-vicio-em-redes-sociais.ghtml",
+      "date": "Wed, 10 Jun 2026 14:59:47 -0000"
     },
     {
-      "title": "3 motivos para entender a birra de Trump com o PIX",
+      "title": "Figurinhas e \u00E1lbuns da Copa lideram reclama\u00E7\u00F5es no Procon-SP; veja cuidados para evitar golpes",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/06/10/3-motivos-para-entender-a-birra-de-trump-com-o-pix.ghtml",
-      "date": "Wed, 10 Jun 2026 06:05:49 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/10/figurinhas-e-albuns-da-copa-lideram-reclamacoes-no-procon-sp-veja-cuidados-para-evitar-golpes.ghtml",
+      "date": "Wed, 10 Jun 2026 14:45:31 -0000"
     },
     {
-      "title": "Turismo, cerveja e apostas: quem deve ganhar com a Copa de 2026, que pode movimentar R$ 200 bilh\u00F5es",
+      "title": "Banco do Brasil fora do ar? Aplicativo tem instabilidade e clientes reclamam nas redes",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/10/quem-deve-ganhar-com-copa-de-2026.ghtml",
-      "date": "Wed, 10 Jun 2026 05:00:32 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/10/banco-do-brasil-fora-do-ar.ghtml",
+      "date": "Wed, 10 Jun 2026 14:44:56 -0000"
     },
     {
-      "title": "Airbus revela helic\u00F3ptero capaz de voar sem piloto; veja como ele funciona",
+      "title": "Volkswagen lan\u00E7a T-Cross Rock in Rio por R$ 142.990",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/06/10/airbus-revela-helicoptero-capaz-de-voar-sem-piloto-veja-como-ele-funciona.ghtml",
-      "date": "Wed, 10 Jun 2026 05:00:17 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/06/10/volkswagen-lanca-t-cross-rock-in-rio-por-r-142990.ghtml",
+      "date": "Wed, 10 Jun 2026 14:36:51 -0000"
     },
     {
-      "title": "\u0027Sem solu\u00E7\u00E3o, a bola n\u00E3o rola\u0027: professores pedem aumento de 100% em protestos contra a Copa no M\u00E9xico",
+      "title": "Google Maps agora conversa com usu\u00E1rios no Brasil para indicar lugares e at\u00E9 \u00F4nibus; veja como funciona",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/10/sem-solucao-a-bola-nao-rola-professores-pedem-aumento-de-100percent-em-protestos-contra-a-copa-no-mexico.ghtml",
-      "date": "Wed, 10 Jun 2026 04:00:12 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/google-maps-agora-conversa-com-usuarios-no-brasil-para-indicar-lugares-e-ate-onibus-veja-como-funciona.ghtml",
+      "date": "Wed, 10 Jun 2026 14:19:10 -0000"
     },
     {
-      "title": "Pela primeira vez, Emirates promove duas pilotos dos Emirados \u00C1rabes a comandantes de aeronaves",
+      "title": "YouTube lan\u00E7a no Brasil assistente de IA para ajudar criadores a melhorar v\u00EDdeos e crescer canais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/10/pela-primeira-vez-emirates-promove-duas-pilotos-dos-emirados-arabes-a-comandantes-de-aeronaves.ghtml",
-      "date": "Wed, 10 Jun 2026 04:00:11 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/youtube-lanca-no-brasil-assistente-de-ia-para-ajudar-criadores-a-melhorar-videos-e-crescer-canais.ghtml",
+      "date": "Wed, 10 Jun 2026 14:09:54 -0000"
     }
   ]
 }
