@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168619.27,
-      "change": -0.7,
-      "changeStr": "-0.70%"
+      "price": 168677.94,
+      "change": 0.03,
+      "changeStr": "\u002B0.03%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.65,
-      "change": 1.17,
-      "changeStr": "\u002B1.17%"
+      "price": 41.82,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.7,
-      "change": -1.02,
-      "changeStr": "-1.02%"
+      "price": 77.4,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.36,
-      "change": 0.36,
-      "changeStr": "\u002B0.36%"
+      "price": 39.43,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.26,
-      "change": -0.98,
-      "changeStr": "-0.98%"
+      "price": 17.23,
+      "change": -0.17,
+      "changeStr": "-0.17%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19,
-      "change": -0.58,
-      "changeStr": "-0.58%"
+      "price": 19.11,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.12,
-      "change": -6.74,
-      "changeStr": "-6.74%"
+      "price": 5.16,
+      "change": 0.78,
+      "changeStr": "\u002B0.78%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.28,
-      "change": 0.43,
-      "changeStr": "\u002B0.43%"
+      "price": 16.38,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.39,
-      "change": -2.17,
-      "changeStr": "-2.17%"
+      "price": 41.97,
+      "change": -0.99,
+      "changeStr": "-0.99%"
     }
   ],
   "news": [
+    {
+      "title": "UE avalia reabrir seu mercado para pescados brasileiros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/11/ue-avalia-reabrir-seu-mercado-para-pescados-brasileiros.ghtml",
+      "date": "Thu, 11 Jun 2026 14:32:08 -0000"
+    },
+    {
+      "title": "Entenda o que s\u00E3o \u0027pautas-bomba\u0027, que pressionam or\u00E7amento do governo em ano eleitoral",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/11/entenda-o-que-sao-pautas-bomba-que-pressionam-orcamento-do-governo-em-ano-eleitoral.ghtml",
+      "date": "Thu, 11 Jun 2026 14:28:15 -0000"
+    },
+    {
+      "title": "Fazenda estima que impacto de pautas-bomba supera R$ 2 trilh\u00F5es em 10 anos; aprova\u00E7\u00E3o pressionaria d\u00EDvida e taxa de juros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/11/fazenda-estima-que-impacto-de-pautas-bomba-supera-r-2-trilhoes-em-10-anos-aprovacao-pressionaria-divida-e-taxa-de-juros.ghtml",
+      "date": "Thu, 11 Jun 2026 13:31:25 -0000"
+    },
+    {
+      "title": "IPO da SpaceX atrai mais de R$ 360 bilh\u00F5es em demanda de pessoas f\u00EDsicas, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/11/ipo-da-spacex.ghtml",
+      "date": "Thu, 11 Jun 2026 13:25:56 -0000"
+    },
+    {
+      "title": "Anthropic e OpenAI levam rivalidade da intelig\u00EAncia artificial \u00E0 corrida bilion\u00E1ria no mercado de a\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/11/anthropic-e-openai-levam-rivalidade-da-inteligencia-artificial-a-corrida-bilionaria-por-ipos.ghtml",
+      "date": "Thu, 11 Jun 2026 12:51:42 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em queda, de olho em conflito entre EUA e Ir\u00E3 e situa\u00E7\u00E3o fiscal do Brasil; Ibovespa oscila",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/11/dolar-ibovespa.ghtml",
+      "date": "Thu, 11 Jun 2026 12:00:22 -0000"
+    },
+    {
+      "title": "Nunca filmado, gol considerado o mais bonito de Pel\u00E9 ser\u00E1 recriado com IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/06/11/nunca-filmado-gol-considerado-o-mais-bonito-de-pele-sera-recriado-com-ia.ghtml",
+      "date": "Thu, 11 Jun 2026 11:52:28 -0000"
+    },
+    {
+      "title": "O que Bill Gates disse sobre rela\u00E7\u00E3o com Jeffrey Epstein em investiga\u00E7\u00E3o do Congresso dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/11/o-que-bill-gates-disse-sobre-relacao-com-jeffrey-epstein-em-investigacao-do-congresso-dos-eua.ghtml",
+      "date": "Thu, 11 Jun 2026 10:41:14 -0000"
+    },
     {
       "title": "\u0027Eu amo a infla\u00E7\u00E3o\u0027, diz Trump, enquanto pre\u00E7os nos EUA sobem no ritmo mais acelerado em 3 anos",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/06/11/mega-sena-pode-pagar-r-8-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
       "date": "Thu, 11 Jun 2026 08:54:58 -0000"
-    },
-    {
-      "title": "Vai assistir aos jogos da Copa durante o expediente? Veja como se comportar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/11/vai-assistir-aos-jogos-da-copa-durante-o-expediente-veja-como-se-comportar.ghtml",
-      "date": "Thu, 11 Jun 2026 08:03:25 -0000"
-    },
-    {
-      "title": "Porto que concentra entrada de carros el\u00E9tricos no Brasil amplia capacidade em 40% com investimento de R$ 35 milh\u00F5es no ES",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/11/porto-que-concentra-entrada-de-carros-eletricos-no-brasil-amplia-capacidade-em-40percent-com-investimento-de-r-35-milhoes-no-es.ghtml",
-      "date": "Thu, 11 Jun 2026 07:00:50 -0000"
-    },
-    {
-      "title": "Empresas admitem usar IA como pretexto para demiss\u00F5es e explicam motivos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/11/empresas-admitem-usar-ia-como-pretexto-para-demissoes-e-explicam-motivos.ghtml",
-      "date": "Thu, 11 Jun 2026 05:00:11 -0000"
-    },
-    {
-      "title": "Startup brasileira cria \u2018c\u00E9rebro\u2019 com IA para deixar rob\u00F4s mais inteligentes; g1 conheceu o projeto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/06/11/startup-brasileira-cria-cerebro-com-ia-para-deixar-robos-mais-inteligentes-g1-conheceu-o-projeto.ghtml",
-      "date": "Thu, 11 Jun 2026 04:00:34 -0000"
-    },
-    {
-      "title": "Copa 2026: servidores federais poder\u00E3o encerrar expediente 3 horas antes dos jogos do Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/10/copa-do-mundo-servidores-federais-poderao-encerrar-expediente-3-horas-antes-dos-jogos-do-brasil.ghtml",
-      "date": "Thu, 11 Jun 2026 00:17:43 -0000"
-    },
-    {
-      "title": "Trump reage a alta de pre\u00E7os nos EUA: \u0027Eu amo a infla\u00E7\u00E3o\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/10/trump-inflacao-eua.ghtml",
-      "date": "Wed, 10 Jun 2026 22:37:39 -0000"
-    },
-    {
-      "title": "Durigan diz que governo avalia vetar renegocia\u00E7\u00E3o de d\u00EDvidas rurais caso projeto passe na C\u00E2mara; Senado aprovou proposta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/06/10/durigan-diz-que-governo-avalia-vetar-renegociacao-de-dividas-rurais-caso-projeto-passe-na-camara-senado-aprovou-proposta.ghtml",
-      "date": "Wed, 10 Jun 2026 22:36:02 -0000"
-    },
-    {
-      "title": "Pauta-bomba: Senado aprova 2 projetos de aumento de gastos p\u00FAblicos e envia outro a plen\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/06/10/senado-aprova-renegociacao-de-dividas-de-produtores-rurais-governo-e-contra-e-preve-impacto-bilionario-nas-contas.ghtml",
-      "date": "Wed, 10 Jun 2026 22:10:07 -0000"
     }
   ]
 }
