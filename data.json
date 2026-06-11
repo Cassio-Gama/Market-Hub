@@ -2,62 +2,80 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170074.67,
-      "change": 0.86,
-      "changeStr": "\u002B0.86%"
+      "price": 171497.23,
+      "change": 1.71,
+      "changeStr": "\u002B1.71%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.56,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 41.76,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.12,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 78.8,
+      "change": 1.42,
+      "changeStr": "\u002B1.42%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.12,
-      "change": 1.93,
-      "changeStr": "\u002B1.93%"
+      "price": 40.5,
+      "change": 2.9,
+      "changeStr": "\u002B2.90%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.49,
-      "change": 1.33,
-      "changeStr": "\u002B1.33%"
+      "price": 17.68,
+      "change": 2.43,
+      "changeStr": "\u002B2.43%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.21,
-      "change": 1.11,
-      "changeStr": "\u002B1.11%"
+      "price": 19.41,
+      "change": 2.16,
+      "changeStr": "\u002B2.16%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.22,
-      "change": 1.95,
-      "changeStr": "\u002B1.95%"
+      "price": 5.33,
+      "change": 4.1,
+      "changeStr": "\u002B4.10%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.4,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 16.64,
+      "change": 2.21,
+      "changeStr": "\u002B2.21%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.03,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 42.35,
+      "change": -0.09,
+      "changeStr": "-0.09%"
     }
   ],
   "news": [
     {
-      "title": "Copa do Mundo 2026: veja memes da abertura",
+      "title": "Chuteiras rosas dominam a abertura da Copa do Mundo de 2026 \u2014 e devem continuar assim; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/guia/guia-de-compras/lazer/esporte/chuteiras-rosas-dominam-a-abertura-da-copa-do-mundo-de-2026-e-devem-continuar-assim-entenda.ghtml",
+      "date": "Thu, 11 Jun 2026 21:09:10 -0000"
+    },
+    {
+      "title": "Copa do Mundo 2026: \u00E1rbitro brasileiro expulsa tr\u00EAs, anuncia decis\u00E3o em ingl\u00EAs e rende memes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/11/copa-do-mundo-2026-presenca-de-arbitro-brasileiro-na-abertura-rende-memes.ghtml",
+      "date": "Thu, 11 Jun 2026 20:24:05 -0000"
+    },
+    {
+      "title": "O que \u00E9 Labubu e por que os bonecos apareceram na abertura da Copa do Mundo? ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/11/o-que-e-labubu-e-por-que-os-bonecos-apareceram-na-abertura-da-copa-do-mundo.ghtml",
+      "date": "Thu, 11 Jun 2026 19:16:21 -0000"
+    },
+    {
+      "title": "Copa do Mundo 2026: abertura tem memes sobre Shakira, Labubu, RBD e mais",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/06/11/memes-copa-do-mundo-2026-dia-1.ghtml",
       "date": "Thu, 11 Jun 2026 17:30:38 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/11/entenda-o-que-sao-pautas-bomba-que-pressionam-orcamento-do-governo-em-ano-eleitoral.ghtml",
       "date": "Thu, 11 Jun 2026 14:28:15 -0000"
-    },
-    {
-      "title": "Fazenda estima que impacto de pautas-bomba supera R$ 2 trilh\u00F5es em 10 anos; aprova\u00E7\u00E3o pressionaria d\u00EDvida e taxa de juros",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/11/fazenda-estima-que-impacto-de-pautas-bomba-supera-r-2-trilhoes-em-10-anos-aprovacao-pressionaria-divida-e-taxa-de-juros.ghtml",
-      "date": "Thu, 11 Jun 2026 13:31:25 -0000"
-    },
-    {
-      "title": "IPO da SpaceX atrai mais de R$ 360 bilh\u00F5es em demanda de pessoas f\u00EDsicas, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/11/ipo-da-spacex.ghtml",
-      "date": "Thu, 11 Jun 2026 13:25:56 -0000"
-    },
-    {
-      "title": "Instagram exibe localiza\u00E7\u00E3o exata de usu\u00E1rios no Brasil e depois remove recurso; Meta diz que libera\u00E7\u00E3o foi acidental",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/11/instagram-passa-a-exibir-localizacao-exata-de-usuarios-no-brasil-e-gera-preocupacao.ghtml",
-      "date": "Thu, 11 Jun 2026 12:53:08 -0000"
     }
   ]
 }
