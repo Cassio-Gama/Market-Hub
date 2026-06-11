@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168677.94,
-      "change": 0.03,
-      "changeStr": "\u002B0.03%"
+      "price": 170074.67,
+      "change": 0.86,
+      "changeStr": "\u002B0.86%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.82,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 41.56,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.4,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 78.12,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.43,
-      "change": 0.18,
-      "changeStr": "\u002B0.18%"
+      "price": 40.12,
+      "change": 1.93,
+      "changeStr": "\u002B1.93%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.23,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 17.49,
+      "change": 1.33,
+      "changeStr": "\u002B1.33%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.11,
-      "change": 0.58,
-      "changeStr": "\u002B0.58%"
+      "price": 19.21,
+      "change": 1.11,
+      "changeStr": "\u002B1.11%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.16,
-      "change": 0.78,
-      "changeStr": "\u002B0.78%"
+      "price": 5.22,
+      "change": 1.95,
+      "changeStr": "\u002B1.95%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.38,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 16.4,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     },
     {
       "symbol": "WEGE3",
-      "price": 41.97,
-      "change": -0.99,
-      "changeStr": "-0.99%"
+      "price": 42.03,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     }
   ],
   "news": [
+    {
+      "title": "Copa do Mundo 2026: veja memes da abertura",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/11/memes-copa-do-mundo-2026-dia-1.ghtml",
+      "date": "Thu, 11 Jun 2026 17:30:38 -0000"
+    },
+    {
+      "title": "Banco Central Europeu sobe juros pela primeira vez desde 2023 e cita impacto da guerra nos pre\u00E7os da energia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/11/banco-central-europeu-eleva-juros-apos-tres-anos.ghtml",
+      "date": "Thu, 11 Jun 2026 15:59:37 -0000"
+    },
+    {
+      "title": "Golpes em bol\u00F5es e apostas esportivas aumentam \u00E0s v\u00E9speras da Copa; veja como se proteger",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/11/golpes-copa.ghtml",
+      "date": "Thu, 11 Jun 2026 15:24:12 -0000"
+    },
+    {
+      "title": "C\u00E2mara avan\u00E7a com projeto de lei que promete aumentar multa e pontos na CNH para escapamento barulhento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/11/escapamento-barulhento-projeto-aprovado-em-comissao-promete-aumentar-multa-e-pontos-na-cnh.ghtml",
+      "date": "Thu, 11 Jun 2026 15:21:25 -0000"
+    },
+    {
+      "title": "Banco Mundial reduz previs\u00E3o de crescimento do Brasil para 1,9% neste ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/11/banco-mundial-reduz-previsao-de-crescimento-do-brasil.ghtml",
+      "date": "Thu, 11 Jun 2026 14:48:26 -0000"
+    },
     {
       "title": "UE avalia reabrir seu mercado para pescados brasileiros",
       "source": "G1 Economia",
@@ -81,40 +111,10 @@
       "date": "Thu, 11 Jun 2026 13:25:56 -0000"
     },
     {
-      "title": "Anthropic e OpenAI levam rivalidade da intelig\u00EAncia artificial \u00E0 corrida bilion\u00E1ria no mercado de a\u00E7\u00F5es",
+      "title": "Instagram exibe localiza\u00E7\u00E3o exata de usu\u00E1rios no Brasil e depois remove recurso; Meta diz que libera\u00E7\u00E3o foi acidental",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/11/anthropic-e-openai-levam-rivalidade-da-inteligencia-artificial-a-corrida-bilionaria-por-ipos.ghtml",
-      "date": "Thu, 11 Jun 2026 12:51:42 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda, de olho em conflito entre EUA e Ir\u00E3 e situa\u00E7\u00E3o fiscal do Brasil; Ibovespa oscila",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/11/dolar-ibovespa.ghtml",
-      "date": "Thu, 11 Jun 2026 12:00:22 -0000"
-    },
-    {
-      "title": "Nunca filmado, gol considerado o mais bonito de Pel\u00E9 ser\u00E1 recriado com IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/06/11/nunca-filmado-gol-considerado-o-mais-bonito-de-pele-sera-recriado-com-ia.ghtml",
-      "date": "Thu, 11 Jun 2026 11:52:28 -0000"
-    },
-    {
-      "title": "O que Bill Gates disse sobre rela\u00E7\u00E3o com Jeffrey Epstein em investiga\u00E7\u00E3o do Congresso dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/11/o-que-bill-gates-disse-sobre-relacao-com-jeffrey-epstein-em-investigacao-do-congresso-dos-eua.ghtml",
-      "date": "Thu, 11 Jun 2026 10:41:14 -0000"
-    },
-    {
-      "title": "\u0027Eu amo a infla\u00E7\u00E3o\u0027, diz Trump, enquanto pre\u00E7os nos EUA sobem no ritmo mais acelerado em 3 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/11/eu-amo-a-inflacao-diz-trump-enquanto-precos-nos-eua-sobem-no-ritmo-mais-acelerado-em-3-anos.ghtml",
-      "date": "Thu, 11 Jun 2026 10:35:08 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 8 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/06/11/mega-sena-pode-pagar-r-8-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 11 Jun 2026 08:54:58 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/11/instagram-passa-a-exibir-localizacao-exata-de-usuarios-no-brasil-e-gera-preocupacao.ghtml",
+      "date": "Thu, 11 Jun 2026 12:53:08 -0000"
     }
   ]
 }
