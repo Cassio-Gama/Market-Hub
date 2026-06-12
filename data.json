@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171279.88,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 171132.66,
+      "change": -0.21,
+      "changeStr": "-0.21%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.05,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "price": 41.18,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.3,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 40.69,
+      "price": 79.17,
       "change": 0.47,
       "changeStr": "\u002B0.47%"
     },
     {
+      "symbol": "ITUB4",
+      "price": 40.6,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
+    },
+    {
       "symbol": "BBDC4",
-      "price": 17.79,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 17.8,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.53,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 19.46,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.21,
-      "change": -2.25,
-      "changeStr": "-2.25%"
+      "price": 5.22,
+      "change": -2.06,
+      "changeStr": "-2.06%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,18 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 42.69,
-      "change": 0.8,
-      "changeStr": "\u002B0.80%"
+      "price": 42.61,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     }
   ],
   "news": [
+    {
+      "title": "TCU cria penduricalho que pode elevar sal\u00E1rios de servidores em at\u00E9 15%; entenda ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/12/tcu-cria-penduricalho-que-pode-elevar-salarios-em-ate-15percent-entenda.ghtml",
+      "date": "Fri, 12 Jun 2026 20:55:36 -0000"
+    },
     {
       "title": "MrBeast bate recorde e supera 500 milh\u00F5es de inscritos; conhe\u00E7a o maior youtuber do planeta",
       "source": "G1 Economia",
@@ -63,7 +69,7 @@
       "date": "Fri, 12 Jun 2026 18:00:10 -0000"
     },
     {
-      "title": "A\u00E7\u00F5es da SpaceX disparam quase 30% em estreia na Nasdaq",
+      "title": "A\u00E7\u00F5es da SpaceX disparam quase 20% em estreia na Nasdaq",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/12/acoes-da-spacex-estreia.ghtml",
       "date": "Fri, 12 Jun 2026 17:49:37 -0000"
@@ -99,7 +105,7 @@
       "date": "Fri, 12 Jun 2026 15:26:45 -0000"
     },
     {
-      "title": "SpaceX deve ultrapassar avalia\u00E7\u00E3o de US$ 2 trilh\u00F5es em estreia na Nasdaq",
+      "title": "SpaceX ultrapassa avalia\u00E7\u00E3o de US$ 2 trilh\u00F5es em estreia na Nasdaq",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/12/spacex-deve-ultrapassar-avaliacao-de-us-2-trilhoes-em-estreia-na-nasdaq.ghtml",
       "date": "Fri, 12 Jun 2026 15:03:41 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/12/spacex-brasileiros.ghtml",
       "date": "Fri, 12 Jun 2026 14:18:08 -0000"
-    },
-    {
-      "title": "Por que a economia faz desta Copa a mais \u0027louca\u0027 de todos os tempos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/12/por-que-a-economia-faz-desta-copa-a-mais-louca-de-todos-os-tempos.ghtml",
-      "date": "Fri, 12 Jun 2026 14:01:35 -0000"
     }
   ]
 }
