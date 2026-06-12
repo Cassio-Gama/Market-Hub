@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171150.7,
-      "change": -0.2,
-      "changeStr": "-0.20%"
+      "price": 171279.88,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.91,
-      "change": -2.04,
-      "changeStr": "-2.04%"
+      "price": 41.05,
+      "change": -1.7,
+      "changeStr": "-1.70%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.42,
-      "change": 0.79,
-      "changeStr": "\u002B0.79%"
+      "price": 79.3,
+      "change": 0.63,
+      "changeStr": "\u002B0.63%"
     },
     {
       "symbol": "ITUB4",
@@ -26,36 +26,48 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 17.71,
-      "change": 0.17,
-      "changeStr": "\u002B0.17%"
+      "price": 17.79,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.46,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 19.53,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.27,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 5.21,
+      "change": -2.25,
+      "changeStr": "-2.25%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.58,
-      "change": -0.36,
-      "changeStr": "-0.36%"
+      "price": 16.61,
+      "change": -0.18,
+      "changeStr": "-0.18%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.7,
-      "change": 0.83,
-      "changeStr": "\u002B0.83%"
+      "price": 42.69,
+      "change": 0.8,
+      "changeStr": "\u002B0.80%"
     }
   ],
   "news": [
+    {
+      "title": "MrBeast bate recorde e supera 500 milh\u00F5es de inscritos; conhe\u00E7a o maior youtuber do planeta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/12/mrbeast-bate-recorde-e-supera-500-milhoes-de-inscritos-conheca-o-maior-youtuber-do-planeta.ghtml",
+      "date": "Fri, 12 Jun 2026 18:00:10 -0000"
+    },
+    {
+      "title": "A\u00E7\u00F5es da SpaceX disparam quase 30% em estreia na Nasdaq",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/12/acoes-da-spacex-estreia.ghtml",
+      "date": "Fri, 12 Jun 2026 17:49:37 -0000"
+    },
     {
       "title": "O que \u00E9 liquida\u00E7\u00E3o extrajudicial, termo usado em e-mail enviado por engano pelo Nubank",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/12/por-que-a-economia-faz-desta-copa-a-mais-louca-de-todos-os-tempos.ghtml",
       "date": "Fri, 12 Jun 2026 14:01:35 -0000"
-    },
-    {
-      "title": "Instagram e Facebook apresentam instabilidade nesta sexta ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/12/instagram-apresenta-instabilidade-nesta-sexta.ghtml",
-      "date": "Fri, 12 Jun 2026 13:50:38 -0000"
-    },
-    {
-      "title": "Pre\u00E7o dos alimentos em maio: o que ficou mais caro e o que barateou no m\u00EAs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/12/preco-dos-alimentos-em-maio-o-que-ficou-mais-caro-e-o-que-barateou.ghtml",
-      "date": "Fri, 12 Jun 2026 12:58:36 -0000"
     }
   ]
 }
