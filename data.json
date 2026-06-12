@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171497.23,
-      "change": 1.71,
-      "changeStr": "\u002B1.71%"
+      "price": 170779.73,
+      "change": -0.42,
+      "changeStr": "-0.42%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.76,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 40.95,
+      "change": -1.94,
+      "changeStr": "-1.94%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.8,
-      "change": 1.42,
-      "changeStr": "\u002B1.42%"
+      "price": 78.62,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.5,
-      "change": 2.9,
-      "changeStr": "\u002B2.90%"
+      "price": 40.47,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.68,
-      "change": 2.43,
-      "changeStr": "\u002B2.43%"
+      "price": 17.7,
+      "change": 0.11,
+      "changeStr": "\u002B0.11%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.41,
-      "change": 2.16,
-      "changeStr": "\u002B2.16%"
+      "price": 19.44,
+      "change": 0.15,
+      "changeStr": "\u002B0.15%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.33,
-      "change": 4.1,
-      "changeStr": "\u002B4.10%"
+      "price": 5.37,
+      "change": 0.75,
+      "changeStr": "\u002B0.75%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.64,
-      "change": 2.21,
-      "changeStr": "\u002B2.21%"
+      "price": 16.62,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.35,
-      "change": -0.09,
-      "changeStr": "-0.09%"
+      "price": 42.4,
+      "change": 0.12,
+      "changeStr": "\u002B0.12%"
     }
   ],
   "news": [
+    {
+      "title": "Pre\u00E7o dos alimentos em maio: o que ficou mais caro e o que barateou no m\u00EAs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/12/preco-dos-alimentos-em-maio-o-que-ficou-mais-caro-e-o-que-barateou.ghtml",
+      "date": "Fri, 12 Jun 2026 12:58:36 -0000"
+    },
+    {
+      "title": "Hyundai lan\u00E7a i20 no Brasil por R$ 99.990, desafia onda dos SUVs com novo hatch; veja o teste",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/12/hyundai-lanca-i20-no-brasil.ghtml",
+      "date": "Fri, 12 Jun 2026 12:30:09 -0000"
+    },
+    {
+      "title": "IPCA: infla\u00E7\u00E3o desacelera para 0,58% em maio, mas alimenta\u00E7\u00E3o em casa tem maior alta para o m\u00EAs em 18 anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/12/ipca-inflacao-maio.ghtml",
+      "date": "Fri, 12 Jun 2026 12:00:49 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta, de olho em infla\u00E7\u00E3o no Brasil e Oriente M\u00E9dio; SpaceX estreia na bolsa de NY hoje",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/12/dolar-ibovespa.ghtml",
+      "date": "Fri, 12 Jun 2026 12:00:15 -0000"
+    },
     {
       "title": "Se namorar no trabalho n\u00E3o \u00E9 proibido, por que tanta gente ainda esconde a rela\u00E7\u00E3o?",
       "source": "G1 Economia",
@@ -87,34 +111,10 @@
       "date": "Fri, 12 Jun 2026 06:00:41 -0000"
     },
     {
-      "title": "Or\u00E7amento paralelo: TCU investiga uso de \u0027dinheiro esquecido\u0027 de trabalhadores nos bancos para o Desenrola 2.0",
+      "title": "Copa do Mundo faz bares faturarem at\u00E9 76% mais, mas prejudica outros neg\u00F3cios",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/12/orcamento-paralelo-tcu-investiga-uso-de-dinheiro-esquecido-de-trabalhadores-nos-bancos-para-o-desenrola-20.ghtml",
-      "date": "Fri, 12 Jun 2026 05:00:19 -0000"
-    },
-    {
-      "title": "SpaceX vale US$ 1,75 trilh\u00E3o? Os riscos por tr\u00E1s do IPO mais aguardado do mercado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/12/spacex-vale-us-175-trilhao-os-riscos-por-tras-do-ipo-mais-aguardado-do-mercado.ghtml",
-      "date": "Fri, 12 Jun 2026 03:01:15 -0000"
-    },
-    {
-      "title": "IPO da SpaceX: como uma empresa que d\u00E1 preju\u00EDzo de bilh\u00F5es pode valer US$ 1,75 trilh\u00E3o?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/12/ipo-da-spacex-como-uma-empresa-que-da-prejuizo-de-bilhoes-pode-valer-trilhao.ghtml",
-      "date": "Fri, 12 Jun 2026 03:01:14 -0000"
-    },
-    {
-      "title": "A Lua pode virar economia? A aposta por tr\u00E1s dos trilh\u00F5es de d\u00F3lares da SpaceX",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/12/a-lua-pode-virar-economia-a-aposta-por-tras-dos-trilhoes-de-dolares-da-spacex.ghtml",
-      "date": "Fri, 12 Jun 2026 03:01:11 -0000"
-    },
-    {
-      "title": "Trilion\u00E1rio? Fortuna de Elon Musk pode superar riqueza de 46% da popula\u00E7\u00E3o mundial ap\u00F3s IPO da SpaceX",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/12/trilionario-fortuna-de-elon-musk-pode-superar-riqueza-de-46percent-da-populacao-mundial-apos-ipo-da-spacex.ghtml",
-      "date": "Fri, 12 Jun 2026 03:01:10 -0000"
+      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/06/12/copa-do-mundo-faz-bares-faturarem-ate-76percent-mais-mas-prejudica-outros-negocios.ghtml",
+      "date": "Fri, 12 Jun 2026 05:00:31 -0000"
     }
   ]
 }
