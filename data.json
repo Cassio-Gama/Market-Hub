@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170779.73,
-      "change": -0.42,
-      "changeStr": "-0.42%"
+      "price": 171150.7,
+      "change": -0.2,
+      "changeStr": "-0.20%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.95,
-      "change": -1.94,
-      "changeStr": "-1.94%"
+      "price": 40.91,
+      "change": -2.04,
+      "changeStr": "-2.04%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.62,
-      "change": -0.23,
-      "changeStr": "-0.23%"
+      "price": 79.42,
+      "change": 0.79,
+      "changeStr": "\u002B0.79%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.47,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 40.69,
+      "change": 0.47,
+      "changeStr": "\u002B0.47%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.7,
-      "change": 0.11,
-      "changeStr": "\u002B0.11%"
+      "price": 17.71,
+      "change": 0.17,
+      "changeStr": "\u002B0.17%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.44,
-      "change": 0.15,
-      "changeStr": "\u002B0.15%"
+      "price": 19.46,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.37,
-      "change": 0.75,
-      "changeStr": "\u002B0.75%"
+      "price": 5.27,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.62,
-      "change": -0.12,
-      "changeStr": "-0.12%"
+      "price": 16.58,
+      "change": -0.36,
+      "changeStr": "-0.36%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.4,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 42.7,
+      "change": 0.83,
+      "changeStr": "\u002B0.83%"
     }
   ],
   "news": [
+    {
+      "title": "O que \u00E9 liquida\u00E7\u00E3o extrajudicial, termo usado em e-mail enviado por engano pelo Nubank",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/12/o-que-e-liquidacao-extrajudicial-termo-usado-em-e-mail-enviado-por-engano-pelo-nubank.ghtml",
+      "date": "Fri, 12 Jun 2026 16:22:50 -0000"
+    },
+    {
+      "title": "Elon Musk vira o primeiro trilion\u00E1rio da hist\u00F3ria da humanidade",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/12/quem-e-elon-musk.ghtml",
+      "date": "Fri, 12 Jun 2026 16:02:55 -0000"
+    },
+    {
+      "title": "Como cultivar gengibre",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/06/12/como-cultivar-gengibre.ghtml",
+      "date": "Fri, 12 Jun 2026 15:50:03 -0000"
+    },
+    {
+      "title": "Nubank envia e-mail por engano sobre suposta liquida\u00E7\u00E3o do banco; institui\u00E7\u00E3o segue operando",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/12/nubank-aviso.ghtml",
+      "date": "Fri, 12 Jun 2026 15:41:53 -0000"
+    },
+    {
+      "title": "Lula lan\u00E7a linha de cr\u00E9dito para compra de moto e bicicleta el\u00E9trica por entregadores de app; veja regras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/12/lula-lanca-linha-de-credito-para-compra-de-motos-por-entregadores-de-app-veja-regras.ghtml",
+      "date": "Fri, 12 Jun 2026 15:26:45 -0000"
+    },
+    {
+      "title": "SpaceX deve ultrapassar avalia\u00E7\u00E3o de US$ 2 trilh\u00F5es em estreia na Nasdaq",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/12/spacex-deve-ultrapassar-avaliacao-de-us-2-trilhoes-em-estreia-na-nasdaq.ghtml",
+      "date": "Fri, 12 Jun 2026 15:03:41 -0000"
+    },
+    {
+      "title": "SpaceX estreia na bolsa: veja como investir na empresa e em outras a\u00E7\u00F5es no exterior",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/12/spacex-brasileiros.ghtml",
+      "date": "Fri, 12 Jun 2026 14:18:08 -0000"
+    },
+    {
+      "title": "Por que a economia faz desta Copa a mais \u0027louca\u0027 de todos os tempos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/12/por-que-a-economia-faz-desta-copa-a-mais-louca-de-todos-os-tempos.ghtml",
+      "date": "Fri, 12 Jun 2026 14:01:35 -0000"
+    },
+    {
+      "title": "Instagram e Facebook apresentam instabilidade nesta sexta ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/12/instagram-apresenta-instabilidade-nesta-sexta.ghtml",
+      "date": "Fri, 12 Jun 2026 13:50:38 -0000"
+    },
     {
       "title": "Pre\u00E7o dos alimentos em maio: o que ficou mais caro e o que barateou no m\u00EAs",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/12/preco-dos-alimentos-em-maio-o-que-ficou-mais-caro-e-o-que-barateou.ghtml",
       "date": "Fri, 12 Jun 2026 12:58:36 -0000"
-    },
-    {
-      "title": "Hyundai lan\u00E7a i20 no Brasil por R$ 99.990, desafia onda dos SUVs com novo hatch; veja o teste",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/06/12/hyundai-lanca-i20-no-brasil.ghtml",
-      "date": "Fri, 12 Jun 2026 12:30:09 -0000"
-    },
-    {
-      "title": "IPCA: infla\u00E7\u00E3o desacelera para 0,58% em maio, mas alimenta\u00E7\u00E3o em casa tem maior alta para o m\u00EAs em 18 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/12/ipca-inflacao-maio.ghtml",
-      "date": "Fri, 12 Jun 2026 12:00:49 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta, de olho em infla\u00E7\u00E3o no Brasil e Oriente M\u00E9dio; SpaceX estreia na bolsa de NY hoje",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/12/dolar-ibovespa.ghtml",
-      "date": "Fri, 12 Jun 2026 12:00:15 -0000"
-    },
-    {
-      "title": "Se namorar no trabalho n\u00E3o \u00E9 proibido, por que tanta gente ainda esconde a rela\u00E7\u00E3o?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/12/namorar-no-trabalho-nao-e-proibido-esconde-a-relacao.ghtml",
-      "date": "Fri, 12 Jun 2026 08:03:44 -0000"
-    },
-    {
-      "title": "Por que o PIX incomodou gigantes globais e gerou uma disputa silenciosa no mercado?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/06/12/por-que-o-pix-incomodou-gigantes-globais-e-gerou-uma-disputa-silenciosa-no-mercado.ghtml",
-      "date": "Fri, 12 Jun 2026 07:01:59 -0000"
-    },
-    {
-      "title": "Dia dos Namorados nasceu para voc\u00EA comprar mais: conhe\u00E7a a hist\u00F3ria da data no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/12/dia-dos-namorados-nasceu-para-voce-comprar-mais-conheca-a-historia-da-data-no-brasil.ghtml",
-      "date": "Fri, 12 Jun 2026 07:00:55 -0000"
-    },
-    {
-      "title": "\nAnthropic ou OpenIA: quem ganhar\u00E1 disputa trilion\u00E1ria?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/12/anthropic-ou-openia-quem-ganhara-disputa-trilionaria.ghtml",
-      "date": "Fri, 12 Jun 2026 06:00:54 -0000"
-    },
-    {
-      "title": "Veja como ficam os hor\u00E1rios dos bancos nos dias de jogos da Sele\u00E7\u00E3o Brasileira na Copa de 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/12/veja-como-ficam-os-horarios-dos-bancos-nos-dias-de-jogos-da-selecao-brasileira-na-copa-de-2026.ghtml",
-      "date": "Fri, 12 Jun 2026 06:00:41 -0000"
-    },
-    {
-      "title": "Copa do Mundo faz bares faturarem at\u00E9 76% mais, mas prejudica outros neg\u00F3cios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/06/12/copa-do-mundo-faz-bares-faturarem-ate-76percent-mais-mas-prejudica-outros-negocios.ghtml",
-      "date": "Fri, 12 Jun 2026 05:00:31 -0000"
     }
   ]
 }
