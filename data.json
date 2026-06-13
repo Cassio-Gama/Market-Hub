@@ -57,6 +57,24 @@
   ],
   "news": [
     {
+      "title": "IPO da SpaceX coloca o mercado financeiro no centro da disputa tecnol\u00F3gica entre EUA e China",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/13/ipo-da-spacex-coloca-o-mercado-financeiro-no-centro-da-disputa-tecnologica-entre-eua-e-china.ghtml",
+      "date": "Sat, 13 Jun 2026 08:00:45 -0000"
+    },
+    {
+      "title": "Celular \u0027tijol\u00E3o\u0027, Windows XP e ICQ: como era a tecnologia quando o Brasil ganhou a Copa pela \u00FAltima vez",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/13/celular-tijolao-windows-xp-e-icq-como-era-a-tecnologia-quando-o-brasil-ganhou-a-copa-pela-ultima-vez.ghtml",
+      "date": "Sat, 13 Jun 2026 07:00:52 -0000"
+    },
+    {
+      "title": "Como lidar com a frustra\u00E7\u00E3o profissional: o que atletas fora da Copa ensinam sobre decep\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/13/como-lidar-com-a-frustracao-profissional-o-que-atletas-fora-da-copa-ensinam-sobre-decepcao.ghtml",
+      "date": "Sat, 13 Jun 2026 06:00:20 -0000"
+    },
+    {
       "title": "Anthropic suspende modelos de IA ap\u00F3s EUA restringirem acesso de estrangeiros",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/06/12/anthropic-suspende-acesso-a-dois-modelos-de-ia-por-ordem-dos-eua.ghtml",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/06/12/como-cultivar-gengibre.ghtml",
       "date": "Fri, 12 Jun 2026 15:50:03 -0000"
-    },
-    {
-      "title": "Nubank envia e-mail por engano sobre suposta liquida\u00E7\u00E3o do banco; institui\u00E7\u00E3o segue operando",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/12/nubank-aviso.ghtml",
-      "date": "Fri, 12 Jun 2026 15:41:53 -0000"
-    },
-    {
-      "title": "Lula lan\u00E7a linha de cr\u00E9dito para compra de moto e bicicleta el\u00E9trica por entregadores de app; veja regras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/12/lula-lanca-linha-de-credito-para-compra-de-motos-por-entregadores-de-app-veja-regras.ghtml",
-      "date": "Fri, 12 Jun 2026 15:26:45 -0000"
-    },
-    {
-      "title": "SpaceX ultrapassa avalia\u00E7\u00E3o de US$ 2 trilh\u00F5es em estreia na Nasdaq",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/12/spacex-deve-ultrapassar-avaliacao-de-us-2-trilhoes-em-estreia-na-nasdaq.ghtml",
-      "date": "Fri, 12 Jun 2026 15:03:41 -0000"
     }
   ]
 }
