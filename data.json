@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171132.66,
-      "change": -0.21,
-      "changeStr": "-0.21%"
+      "price": 171177.67,
+      "change": 0.03,
+      "changeStr": "\u002B0.03%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.18,
-      "change": -1.39,
-      "changeStr": "-1.39%"
+      "price": 39.1,
+      "change": -5.05,
+      "changeStr": "-5.05%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.17,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
+      "price": 82.2,
+      "change": 3.83,
+      "changeStr": "\u002B3.83%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.6,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 40.57,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.8,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 17.72,
+      "change": -0.45,
+      "changeStr": "-0.45%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.46,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 19.45,
+      "change": -0.05,
+      "changeStr": "-0.05%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.22,
-      "change": -2.06,
-      "changeStr": "-2.06%"
+      "price": 5.34,
+      "change": 2.3,
+      "changeStr": "\u002B2.30%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.61,
-      "change": -0.18,
-      "changeStr": "-0.18%"
+      "price": 16.64,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.61,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 42.83,
+      "change": 0.52,
+      "changeStr": "\u002B0.52%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar abre em queda, com foco em acordo entre EUA e Ir\u00E3",
+      "title": "Fl\u00E1vio Bolsonaro confirma Daniella Marques na campanha para cuidar de propostas da \u00E1rea econ\u00F4mica",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/15/dolar-ibovespa.ghtml",
-      "date": "Mon, 15 Jun 2026 12:00:08 -0000"
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/06/15/flavio-bolsonaro-daniella-marques-ex-presidente-da-caixa-time-de-campanha.ghtml",
+      "date": "Mon, 15 Jun 2026 16:29:44 -0000"
     },
     {
-      "title": "Departamento de Justi\u00E7a dos EUA aprova compra da Warner Bros pela Paramount",
+      "title": "Contrabando, espionagem, sabotagem: como a R\u00FAssia usa \u0027frota fantasma\u0027 para contornar san\u00E7\u00F5es do Ocidente",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/15/departamento-de-justica-dos-eua-aprova-compra-da-warner-bros-pela-paramount.ghtml",
-      "date": "Mon, 15 Jun 2026 11:54:04 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/15/contrabando-espionagem-sabotagem-como-a-russia-usa-frota-fantasma-para-contornar-sancoes-do-ocidente.ghtml",
+      "date": "Mon, 15 Jun 2026 16:15:13 -0000"
     },
     {
-      "title": "Mercado financeiro sobe para 5,30% estimativa de infla\u00E7\u00E3o em 2026 e projeta corte menor de juros",
+      "title": "OpenAI derrota a\u00E7\u00E3o da xAI sobre suposto roubo de segredos comerciais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/15/mercado-financeiro-sobe-para-530percent-estimativa-de-inflacao-em-2026-e-projeta-corte-menor-de-juros.ghtml",
-      "date": "Mon, 15 Jun 2026 11:31:51 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/15/openai-derrota-acao-da-xai-sobre-suposto-roubo-de-segredos-comerciais.ghtml",
+      "date": "Mon, 15 Jun 2026 16:05:28 -0000"
     },
     {
-      "title": "Bolsas mundiais disparam e petr\u00F3leo cai ap\u00F3s an\u00FAncio de poss\u00EDvel acordo entre EUA e Ir\u00E3",
+      "title": "Ministro da Fazenda defende revis\u00E3o do c\u00E1lculo da infla\u00E7\u00E3o no Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/15/bolsas-asiaticas-e-europeias-abrem-em-alta-apos-anuncio-de-possivel-acordo-entre-eua-e-ira.ghtml",
-      "date": "Mon, 15 Jun 2026 07:49:17 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/15/ministro-da-fazenda-calculo-da-inflacao-no-brasil.ghtml",
+      "date": "Mon, 15 Jun 2026 14:58:50 -0000"
     },
     {
-      "title": "Nas v\u00E9speras do G7, Trump amea\u00E7a impor tarifa de 100% sobre vinhos franceses se pa\u00EDs n\u00E3o eliminar imposto sobre big techs",
+      "title": "Ex-presidente da Caixa na gest\u00E3o Bolsonaro, Daniella Marques vai atuar em plano econ\u00F4mico de Fl\u00E1vio",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/15/trump-ameaca-impor-tarifa-de-100percent-sobre-vinhos-franceses-se-pais-nao-eliminar-imposto-sobre-big-techs.ghtml",
-      "date": "Mon, 15 Jun 2026 05:51:52 -0000"
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/06/15/ex-presidente-da-caixa-na-gestao-bolsonaro-daniella-marques-vai-atuar-em-plano-economico-de-flavio.ghtml",
+      "date": "Mon, 15 Jun 2026 14:47:59 -0000"
     },
     {
-      "title": "Abono salarial PIS/Pasep 2026 paga novo lote nesta segunda-feira; veja se voc\u00EA est\u00E1 na lista",
+      "title": "Grande f\u00E3 de Musk, bilion\u00E1rio Ron Baron compra US$ 1 bilh\u00E3o de a\u00E7\u00F5es em IPO da SpaceX; saiba quem \u00E9",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/15/abono-salarial-pispasep-2026-paga-novo-lote-nesta-segunda-feira-veja-se-voce-esta-na-lista.ghtml",
-      "date": "Mon, 15 Jun 2026 03:00:48 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/15/ron-baron-spacex.ghtml",
+      "date": "Mon, 15 Jun 2026 14:27:21 -0000"
     },
     {
-      "title": "O que \u00E9 o Estreito de Ormuz, fundamental para petr\u00F3leo mundial; Ir\u00E3 pode reabrir passagem ap\u00F3s acordo com EUA",
+      "title": "Com \u0027gatilho\u0027 na regra fiscal, servidor p\u00FAblico n\u00E3o ter\u00E1 reajuste acima da infla\u00E7\u00E3o em 2027, diz ministro da Fazenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/15/o-que-e-o-estreito-de-ormuz-fundamental-para-petroleo-mundial-ira-pode-reabrir-passagem-apos-acordo-com-eua.ghtml",
-      "date": "Mon, 15 Jun 2026 03:00:33 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/15/com-gatilho-na-regra-fiscal-servidor-publico-nao-tera-reajuste-acima-da-inflacao-em-2027-diz-ministro-da-fazenda.ghtml",
+      "date": "Mon, 15 Jun 2026 13:52:01 -0000"
     },
     {
-      "title": "Mega-Sena, concurso 3018: confira os n\u00FAmeros sorteados",
+      "title": "Justi\u00E7a aprova pedido de recupera\u00E7\u00E3o judicial da dona da Tok\u0026Stok e da Mobly",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/06/14/mega-sena-concurso-3018-confira-os-numeros-sorteados.ghtml",
-      "date": "Sun, 14 Jun 2026 14:01:51 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/15/justica-aprova-pedido-de-recuperacao-judicial-da-dona-da-tokandstok-e-da-mobly.ghtml",
+      "date": "Mon, 15 Jun 2026 13:47:32 -0000"
     },
     {
-      "title": "Drones ganham espa\u00E7o na agricultura e ajudam em pesquisas sobre qualidade do solo",
+      "title": "Levi\u2019s ironiza exig\u00EAncia da Fifa para a Copa de 2026 e brinca com logo coberto em est\u00E1dio",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/06/14/drones-ganham-espaco-na-agricultura-e-ajudam-em-pesquisas-sobre-qualidade-do-solo.ghtml",
-      "date": "Sun, 14 Jun 2026 10:30:11 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/15/levis-fifa-estadio-sao-francisco.ghtml",
+      "date": "Mon, 15 Jun 2026 13:26:33 -0000"
     },
     {
-      "title": "Agro 5.0: novas tecnologias mudam rotina no campo e cortam desperd\u00EDcio no interior de SP",
+      "title": "Fox compra Roku por US$ 22 bilh\u00F5es",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/06/14/agro-50-novas-tecnologias-mudam-rotina-no-campo-e-cortam-desperdicio-no-interior-de-sp.ghtml",
-      "date": "Sun, 14 Jun 2026 10:30:09 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/15/fox-roku.ghtml",
+      "date": "Mon, 15 Jun 2026 12:39:07 -0000"
     }
   ]
 }
