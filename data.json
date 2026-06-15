@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171177.67,
-      "change": 0.03,
-      "changeStr": "\u002B0.03%"
+      "price": 170415.12,
+      "change": -0.42,
+      "changeStr": "-0.42%"
     },
     {
       "symbol": "PETR4",
-      "price": 39.1,
-      "change": -5.05,
-      "changeStr": "-5.05%"
+      "price": 39.06,
+      "change": -5.15,
+      "changeStr": "-5.15%"
     },
     {
       "symbol": "VALE3",
-      "price": 82.2,
-      "change": 3.83,
-      "changeStr": "\u002B3.83%"
+      "price": 81.16,
+      "change": 2.51,
+      "changeStr": "\u002B2.51%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.57,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 40.4,
+      "change": -0.49,
+      "changeStr": "-0.49%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.72,
-      "change": -0.45,
-      "changeStr": "-0.45%"
+      "price": 17.65,
+      "change": -0.84,
+      "changeStr": "-0.84%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.45,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 19.39,
+      "change": -0.36,
+      "changeStr": "-0.36%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.34,
-      "change": 2.3,
-      "changeStr": "\u002B2.30%"
+      "price": 5.35,
+      "change": 2.49,
+      "changeStr": "\u002B2.49%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.64,
-      "change": 0.18,
-      "changeStr": "\u002B0.18%"
+      "price": 16.57,
+      "change": -0.24,
+      "changeStr": "-0.24%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.83,
-      "change": 0.52,
-      "changeStr": "\u002B0.52%"
+      "price": 42.78,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
     }
   ],
   "news": [
+    {
+      "title": "Nova taxa\u00E7\u00E3o proposta pelos EUA pode impactar um ter\u00E7o das exporta\u00E7\u00F5es brasileiras com tarifas de at\u00E9 37,5%, projeta CNI  ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/15/nova-taxacao-proposta-pelos-eua-pode-impactar-um-terco-das-exportacoes-brasileiras-com-tarifas-de-ate-375percent-projeta-cni.ghtml",
+      "date": "Mon, 15 Jun 2026 19:49:47 -0000"
+    },
+    {
+      "title": "Fl\u00F3rida acusa TikTok de violar lei que pro\u00EDbe menores de 14 anos em redes sociais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/15/florida-processo-tiktok.ghtml",
+      "date": "Mon, 15 Jun 2026 19:23:43 -0000"
+    },
     {
       "title": "Fl\u00E1vio Bolsonaro confirma Daniella Marques na campanha para cuidar de propostas da \u00E1rea econ\u00F4mica",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/15/justica-aprova-pedido-de-recuperacao-judicial-da-dona-da-tokandstok-e-da-mobly.ghtml",
       "date": "Mon, 15 Jun 2026 13:47:32 -0000"
-    },
-    {
-      "title": "Levi\u2019s ironiza exig\u00EAncia da Fifa para a Copa de 2026 e brinca com logo coberto em est\u00E1dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/15/levis-fifa-estadio-sao-francisco.ghtml",
-      "date": "Mon, 15 Jun 2026 13:26:33 -0000"
-    },
-    {
-      "title": "Fox compra Roku por US$ 22 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/15/fox-roku.ghtml",
-      "date": "Mon, 15 Jun 2026 12:39:07 -0000"
     }
   ]
 }
