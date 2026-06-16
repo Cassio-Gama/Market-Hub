@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170415.12,
-      "change": -0.42,
-      "changeStr": "-0.42%"
+      "price": 169721.4,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     },
     {
       "symbol": "PETR4",
-      "price": 39.06,
-      "change": -5.15,
-      "changeStr": "-5.15%"
+      "price": 38.47,
+      "change": -1.51,
+      "changeStr": "-1.51%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.16,
-      "change": 2.51,
-      "changeStr": "\u002B2.51%"
+      "price": 81.84,
+      "change": 0.84,
+      "changeStr": "\u002B0.84%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.4,
-      "change": -0.49,
-      "changeStr": "-0.49%"
+      "price": 40.48,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.65,
-      "change": -0.84,
-      "changeStr": "-0.84%"
+      "price": 17.64,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.39,
-      "change": -0.36,
-      "changeStr": "-0.36%"
+      "price": 19.34,
+      "change": -0.26,
+      "changeStr": "-0.26%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.35,
-      "change": 2.49,
-      "changeStr": "\u002B2.49%"
+      "price": 5.03,
+      "change": -5.98,
+      "changeStr": "-5.98%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.57,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 16.42,
+      "change": -0.91,
+      "changeStr": "-0.91%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.78,
-      "change": 0.4,
-      "changeStr": "\u002B0.40%"
+      "price": 42.47,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     }
   ],
   "news": [
     {
-      "title": "Parlamento europeu aprova acordo comercial com EUA",
+      "title": "\nPor que reabrir do Estreito de Ormuz \u00E9 mais complexo do que liberar rodovia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/16/parlamento-europeu-aprova-acordo-comercial-com-eua.ghtml",
-      "date": "Tue, 16 Jun 2026 11:01:18 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/16/por-que-reabrir-do-estreito-de-ormuz-e-mais-complexo-do-que-liberar-rodovia.ghtml",
+      "date": "Tue, 16 Jun 2026 17:00:22 -0000"
     },
     {
-      "title": "Os desafios de Lula no G7 para n\u00E3o ficar escanteado em meio ao foco em crises globais e embate entre Trump e Europa",
+      "title": "Comiss\u00E3o do Senado aprova projeto que blinda ag\u00EAncias reguladoras contra bloqueios no or\u00E7amento",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/06/16/os-desafios-de-lula-no-g7-para-nao-ficar-escanteado-em-meio-ao-foco-em-crises-globais-e-embate-entre-trump-e-europa.ghtml",
-      "date": "Tue, 16 Jun 2026 08:29:18 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/16/comissao-do-senado-aprova-projeto-que-blinda-agencias-reguladoras-contra-bloqueios-no-orcamento.ghtml",
+      "date": "Tue, 16 Jun 2026 16:35:08 -0000"
     },
     {
-      "title": "Leil\u00F5es de propriedades rurais disparam no Brasil com aumento da inadimpl\u00EAncia no campo",
+      "title": "UE pro\u00EDbe termo \u0027carne vegetal\u0027 para proteger pecuaristas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/16/leiloes-de-propriedades-rurais-disparam-no-brasil-com-aumento-da-inadimplencia-no-campo.ghtml",
-      "date": "Tue, 16 Jun 2026 08:03:31 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/16/ue-proibe-termo-carne-vegetal.ghtml",
+      "date": "Tue, 16 Jun 2026 14:52:16 -0000"
     },
     {
-      "title": "\u00DAnico brasileiro inscrito em audi\u00EAncia sobre tarifa\u00E7o defende PIX e cobra debate t\u00E9cnico: \u0027Temos que sair da ret\u00F3rica\u0027",
+      "title": "Desenrola 2.0: trabalhadores j\u00E1 solicitaram R$ 3,88 bilh\u00F5es do FGTS para abatimento de d\u00EDvidas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/16/unico-brasileiro-inscrito-em-audiencia-sobre-tarifaco-cobra-debate-tecnico.ghtml",
-      "date": "Tue, 16 Jun 2026 08:00:11 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/16/desenrola-20-trabalhadores-ja-pediram-uso-de-r-388-bilhoes-do-fgts-para-abatimento-de-dividas.ghtml",
+      "date": "Tue, 16 Jun 2026 14:36:47 -0000"
     },
     {
-      "title": "A \u0027guerra silenciosa\u0027 entre China e Panam\u00E1 por controle de portos no Canal",
+      "title": "Com acordo entre EUA e Ir\u00E3, governo vai suspender subs\u00EDdios aos combust\u00EDveis, diz ministro",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/06/16/a-guerra-silenciosa-entre-china-e-panama-por-controle-de-portos-no-canal.ghtml",
-      "date": "Tue, 16 Jun 2026 07:01:41 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/06/16/com-acordo-entre-eua-e-ira-governo-vai-suspender-subsidios-aos-combustiveis-diz-ministro.ghtml",
+      "date": "Tue, 16 Jun 2026 14:20:16 -0000"
     },
     {
-      "title": "Da Copa ao escrit\u00F3rio: por que press\u00E3o e ansiedade afetam tanto o desempenho de profissionais",
+      "title": "Pizza Hut ser\u00E1 vendida por US$ 2,7 bilh\u00F5es ap\u00F3s anos de queda nas vendas e fechamento de lojas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/16/da-copa-ao-escritorio-por-que-pressao-e-ansiedade-afetam-tanto-o-desempenho-de-profissionais.ghtml",
-      "date": "Tue, 16 Jun 2026 06:00:31 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/16/pizza-hut-sera-vendida-por-us-27-bilhoes.ghtml",
+      "date": "Tue, 16 Jun 2026 14:13:02 -0000"
     },
     {
-      "title": "Agentes no OnlyFans controlam e amea\u00E7am modelos enquanto ret\u00EAm metade dos ganhos, revela BBC",
+      "title": "IA do Facebook vira \u0027buscador\u0027 e vai usar posts de usu\u00E1rios para dar respostas; entenda ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/16/agentes-no-onlyfans-controlam-e-ameacam-modelos-enquanto-retem-metade-dos-ganhos-revela-bbc.ghtml",
-      "date": "Tue, 16 Jun 2026 06:00:21 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/16/ia-do-facebook-vira-buscador-e-vai-usar-posts-de-usuarios-para-dar-respostas-entenda.ghtml",
+      "date": "Tue, 16 Jun 2026 13:44:43 -0000"
     },
     {
-      "title": "\u0027Taxa das blusinhas\u0027: governo volta a tributar compras internacionais de baixo valor em 2027, mas com imposto e al\u00EDquota diferentes",
+      "title": "FOTOS E V\u00CDDEO: Trump e Lula posam para a \u0027foto de fam\u00EDlia\u0027 do G7",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/16/taxa-das-blusinhas-governo-volta-a-tributar-compras-internacionais-de-baixo-valor-em-2027-mas-com-imposto-e-aliquota-diferentes.ghtml",
-      "date": "Tue, 16 Jun 2026 06:00:09 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/06/16/trump-e-lula-aparecem-em-foto-do-g7-veja-fotos.ghtml",
+      "date": "Tue, 16 Jun 2026 13:36:31 -0000"
     },
     {
-      "title": "Ap\u00F3s campanha associada a massacre, Starbucks demite CEO na Coreia do Sul e d\u00E1 aulas de hist\u00F3ria a funcion\u00E1rios",
+      "title": "Trump diz que \u0027em breve\u0027 pode voltar a impor san\u00E7\u00F5es ao petr\u00F3leo da R\u00FAssia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/16/apos-campanha-associada-a-massacre-starbucks-demite-ceo-na-coreia-do-sul-e-da-aulas-de-historia-a-funcionarios.ghtml",
-      "date": "Tue, 16 Jun 2026 06:00:08 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/16/trump-diz-que-em-breve-pode-voltar-a-impor-sancoes-ao-petroleo-da-russia.ghtml",
+      "date": "Tue, 16 Jun 2026 12:52:37 -0000"
     },
     {
-      "title": "Nova taxa\u00E7\u00E3o proposta pelos EUA pode impactar um ter\u00E7o das exporta\u00E7\u00F5es brasileiras com tarifas de at\u00E9 37,5%, projeta CNI  ",
+      "title": "Roblox come\u00E7a a exigir no Brasil que menores de 16 anos usem vers\u00F5es adequadas \u00E0s suas idades; veja como vai funcionar",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/15/nova-taxacao-proposta-pelos-eua-pode-impactar-um-terco-das-exportacoes-brasileiras-com-tarifas-de-ate-375percent-projeta-cni.ghtml",
-      "date": "Mon, 15 Jun 2026 19:49:47 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/16/roblox-comeca-a-exigir-no-brasil-que-menores-de-16-anos-usem-versoes-adequadas-as-suas-idades-veja-como-vai-funcionar.ghtml",
+      "date": "Tue, 16 Jun 2026 12:00:12 -0000"
     }
   ]
 }
