@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168177.11,
-      "change": -0.87,
-      "changeStr": "-0.87%"
+      "price": 168453.94,
+      "change": -0.7,
+      "changeStr": "-0.70%"
     },
     {
       "symbol": "PETR4",
@@ -57,6 +57,24 @@
   ],
   "news": [
     {
+      "title": "C\u00E2mara aprova anistia a multas por bloqueios de estrada ap\u00F3s elei\u00E7\u00E3o de 2022; texto tamb\u00E9m refor\u00E7a piso do frete",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/06/17/camara-aprova-anistia-a-multas-por-bloqueios-de-estrada-apos-eleicao-de-2022-texto-tambem-reforca-piso-do-frete.ghtml",
+      "date": "Wed, 17 Jun 2026 22:29:43 -0000"
+    },
+    {
+      "title": "Copom reduz a taxa b\u00E1sica de juros da economia, a Selic, de 14,50% para 14,25% ao ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/17/copom-reduz-a-taxa-basica-de-juros-da-economia-a-selic-de-1450percent-para-1425percent-ao-ano.ghtml",
+      "date": "Wed, 17 Jun 2026 21:59:31 -0000"
+    },
+    {
+      "title": "STF ajusta responsabiliza\u00E7\u00E3o das big techs; n\u00E3o cabe mais recursos da decis\u00E3o dos ministros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/06/17/stf-faz-ajustes-na-responsabilizacao-das-big-techs-nao-cabe-mais-recursos-da-decisao-dos-ministros.ghtml",
+      "date": "Wed, 17 Jun 2026 19:05:00 -0000"
+    },
+    {
       "title": "Fed mant\u00E9m juros dos EUA na faixa de 3,50% a 3,75% ao ano na primeira decis\u00E3o com Warsh na presid\u00EAncia",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/17/fed-juros-junho.ghtml",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/17/rogerio-ceron-combustiveis.ghtml",
       "date": "Wed, 17 Jun 2026 14:48:15 -0000"
-    },
-    {
-      "title": "Ministro da Fazenda diz que governo vai propor aumento do limite do MEI e a contrata\u00E7\u00E3o de mais um funcion\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/17/ministro-da-fazenda-diz-que-governo-vai-aumentar-limite-do-mei-e-permitir-a-contratacao-de-mais-um-funcionario.ghtml",
-      "date": "Wed, 17 Jun 2026 14:47:36 -0000"
-    },
-    {
-      "title": "Por que um El Ni\u00F1o intenso deixa safras tropicais vulner\u00E1veis",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/17/por-que-um-el-nino-intenso-deixa-safras-tropicais-vulneraveis.ghtml",
-      "date": "Wed, 17 Jun 2026 13:01:16 -0000"
-    },
-    {
-      "title": "\u0027Pr\u00E9via do PIB\u0027 do Banco Central tem alta de 0,5% em abril",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/17/previa-do-pib-do-banco-central-tem-alta-de-05percent-em-abril.ghtml",
-      "date": "Wed, 17 Jun 2026 12:01:10 -0000"
     }
   ]
 }
