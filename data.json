@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169648.47,
-      "change": -0.45,
-      "changeStr": "-0.45%"
+      "price": 171298.12,
+      "change": 0.97,
+      "changeStr": "\u002B0.97%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.54,
-      "change": -1.33,
-      "changeStr": "-1.33%"
+      "price": 38.71,
+      "change": 0.44,
+      "changeStr": "\u002B0.44%"
     },
     {
       "symbol": "VALE3",
-      "price": 81.44,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 80.43,
+      "change": -1.24,
+      "changeStr": "-1.24%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.45,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 41.24,
+      "change": 1.95,
+      "changeStr": "\u002B1.95%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.66,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 17.94,
+      "change": 1.59,
+      "changeStr": "\u002B1.59%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.4,
-      "change": 0.05,
-      "changeStr": "\u002B0.05%"
+      "price": 19.59,
+      "change": 0.98,
+      "changeStr": "\u002B0.98%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5,
-      "change": -6.54,
-      "changeStr": "-6.54%"
+      "price": 5.1,
+      "change": 2,
+      "changeStr": "\u002B2.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.44,
-      "change": -0.78,
-      "changeStr": "-0.78%"
+      "price": 16.67,
+      "change": 1.4,
+      "changeStr": "\u002B1.40%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.83,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 44.07,
+      "change": 2.9,
+      "changeStr": "\u002B2.90%"
     }
   ],
   "news": [
+    {
+      "title": "Por que um El Ni\u00F1o intenso deixa safras tropicais vulner\u00E1veis",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/17/por-que-um-el-nino-intenso-deixa-safras-tropicais-vulneraveis.ghtml",
+      "date": "Wed, 17 Jun 2026 13:01:16 -0000"
+    },
+    {
+      "title": "\u0027Pr\u00E9via do PIB\u0027 do Banco Central tem alta de 0,5% em abril",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/17/previa-do-pib-do-banco-central-tem-alta-de-05percent-em-abril.ghtml",
+      "date": "Wed, 17 Jun 2026 12:01:10 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre em alta, com decis\u00F5es de juros do Brasil e dos EUA no foco",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/17/dolar-ibovespa.ghtml",
+      "date": "Wed, 17 Jun 2026 12:00:35 -0000"
+    },
     {
       "title": "O pa\u00EDs vizinho do Brasil onde empregados passaram a trabalhar menos e a ganhar mais (com desemprego na m\u00EDnima hist\u00F3rica)",
       "source": "G1 Economia",
@@ -69,7 +87,7 @@
       "date": "Wed, 17 Jun 2026 08:01:44 -0000"
     },
     {
-      "title": "Tarifa\u00E7o de Trump: reuni\u00E3o no G7 \u00E9 aposta para reduzir amea\u00E7a comercial, arma antiga do presidente dos EUA",
+      "title": "Sem reuni\u00E3o formal entre Lula e Trump no G7, tarifa\u00E7o segue na mira do governo e refor\u00E7a estrat\u00E9gia de press\u00E3o dos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/17/tarifaco-de-trump-reuniao-no-g7-e-aposta-para-reduzir-ameaca-comercial-arma-antiga-do-presidente-dos-eua.ghtml",
       "date": "Wed, 17 Jun 2026 08:00:09 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/g1-explica/noticia/2026/06/17/como-investir-se-nao-sobra-dinheiro-especialistas-dizem-que-esperar-sobrar-e-um-erro.ghtml",
       "date": "Wed, 17 Jun 2026 05:00:10 -0000"
-    },
-    {
-      "title": "Acordo de paz entre EUA e Ir\u00E3 refor\u00E7a expectativa de novo corte de juros pelo Banco Central nesta quarta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/17/acordo-de-paz-entre-eua-e-ira-reforca-expectativa-de-novo-corte-de-juros-pelo-banco-central-nesta-quarta.ghtml",
-      "date": "Wed, 17 Jun 2026 03:01:22 -0000"
-    },
-    {
-      "title": "Prazo para pedir ressarcimento de descontos indevidos no INSS vai at\u00E9 20 de junho; R$ 3,2 bilh\u00F5es foram devolvidos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/17/prazo-para-pedir-ressarcimento-de-de-descontos-indevidos-no-inss-vai-ate-20-de-junho-r32-bilhoes-foram-devolvidos.ghtml",
-      "date": "Wed, 17 Jun 2026 03:00:52 -0000"
-    },
-    {
-      "title": "Bolsa Fam\u00EDlia 2026: pagamentos de junho come\u00E7am nesta quarta; veja calend\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/17/bolsa-familia-2026-pagamentos-de-junho-comecam-nesta-quarta-veja-calendario.ghtml",
-      "date": "Wed, 17 Jun 2026 03:00:33 -0000"
     }
   ]
 }
