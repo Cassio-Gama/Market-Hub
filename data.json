@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171298.12,
-      "change": 0.97,
-      "changeStr": "\u002B0.97%"
+      "price": 171455.55,
+      "change": 1.07,
+      "changeStr": "\u002B1.07%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.71,
-      "change": 0.44,
-      "changeStr": "\u002B0.44%"
+      "price": 38.38,
+      "change": -0.42,
+      "changeStr": "-0.42%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.43,
-      "change": -1.24,
-      "changeStr": "-1.24%"
+      "price": 80.93,
+      "change": -0.63,
+      "changeStr": "-0.63%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.24,
-      "change": 1.95,
-      "changeStr": "\u002B1.95%"
+      "price": 41.37,
+      "change": 2.27,
+      "changeStr": "\u002B2.27%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.94,
-      "change": 1.59,
-      "changeStr": "\u002B1.59%"
+      "price": 17.87,
+      "change": 1.19,
+      "changeStr": "\u002B1.19%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.59,
-      "change": 0.98,
-      "changeStr": "\u002B0.98%"
+      "price": 19.73,
+      "change": 1.7,
+      "changeStr": "\u002B1.70%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.1,
-      "change": 2,
-      "changeStr": "\u002B2.00%"
+      "price": 5.01,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.67,
-      "change": 1.4,
-      "changeStr": "\u002B1.40%"
+      "price": 16.59,
+      "change": 0.91,
+      "changeStr": "\u002B0.91%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.07,
-      "change": 2.9,
-      "changeStr": "\u002B2.90%"
+      "price": 44.31,
+      "change": 3.46,
+      "changeStr": "\u002B3.46%"
     }
   ],
   "news": [
+    {
+      "title": "Governo calcula impacto de R$ 22,4 bilh\u00F5es com renegocia\u00E7\u00E3o de d\u00EDvidas agr\u00EDcolas em 2027; meta de contas no azul ficaria mais dif\u00EDcil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/17/governo-calcula-impacto-de-r-224-bilhoes-com-renegociacao-de-dividas-agricolas-em-2027-meta-de-contas-no-azul-ficaria-mais-dificil.ghtml",
+      "date": "Wed, 17 Jun 2026 17:03:43 -0000"
+    },
+    {
+      "title": "Trump defende acordo com o Ir\u00E3 e diz que n\u00E3o queria ver uma \u0027cat\u00E1strofe econ\u00F4mica\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/06/17/trump-defende-acordo-com-o-ira-e-diz-que-nao-queria-ver-uma-catastrofe-economica.ghtml",
+      "date": "Wed, 17 Jun 2026 16:34:43 -0000"
+    },
+    {
+      "title": "Pautas-bomba: ministro da Fazenda discute com deputados renegocia\u00E7\u00E3o de d\u00EDvida do agroneg\u00F3cio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/17/pautas-bomba-ministro-da-fazenda-discute-com-deputados-renegociacao-de-divida-do-agronegocio.ghtml",
+      "date": "Wed, 17 Jun 2026 15:18:39 -0000"
+    },
+    {
+      "title": "Novo Android 17: sistema melhora seguran\u00E7a em celulares e permite abrir aplicativos em \u0027bolhas\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/17/novo-android-17.ghtml",
+      "date": "Wed, 17 Jun 2026 15:11:19 -0000"
+    },
+    {
+      "title": "Governo vai encerrar subs\u00EDdios a combust\u00EDveis se petr\u00F3leo estabilizar perto de US$ 80, diz Ceron",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/17/rogerio-ceron-combustiveis.ghtml",
+      "date": "Wed, 17 Jun 2026 14:48:15 -0000"
+    },
+    {
+      "title": "Ministro da Fazenda diz que governo vai propor aumento do limite do MEI e a contrata\u00E7\u00E3o de mais um funcion\u00E1rio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/17/ministro-da-fazenda-diz-que-governo-vai-aumentar-limite-do-mei-e-permitir-a-contratacao-de-mais-um-funcionario.ghtml",
+      "date": "Wed, 17 Jun 2026 14:47:36 -0000"
+    },
     {
       "title": "Por que um El Ni\u00F1o intenso deixa safras tropicais vulner\u00E1veis",
       "source": "G1 Economia",
@@ -69,7 +105,7 @@
       "date": "Wed, 17 Jun 2026 12:01:10 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, com decis\u00F5es de juros do Brasil e dos EUA no foco",
+      "title": "D\u00F3lar opera em queda com decis\u00F5es de juros do Brasil e dos EUA no foco; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/17/dolar-ibovespa.ghtml",
       "date": "Wed, 17 Jun 2026 12:00:35 -0000"
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/17/o-pais-vizinho-do-brasil-trabalhar-menos-ganhar-mais.ghtml",
       "date": "Wed, 17 Jun 2026 08:30:13 -0000"
-    },
-    {
-      "title": "Na \u0027Copa das Carnes\u0027, Brasil supera o bife de chorizo da Argentina com fraldinha e alcatra",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/17/na-copa-das-carnes-brasil-supera-o-bife-de-chorizo-da-argentina-com-fraldinha-e-alcatra.ghtml",
-      "date": "Wed, 17 Jun 2026 08:01:44 -0000"
-    },
-    {
-      "title": "Sem reuni\u00E3o formal entre Lula e Trump no G7, tarifa\u00E7o segue na mira do governo e refor\u00E7a estrat\u00E9gia de press\u00E3o dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/17/tarifaco-de-trump-reuniao-no-g7-e-aposta-para-reduzir-ameaca-comercial-arma-antiga-do-presidente-dos-eua.ghtml",
-      "date": "Wed, 17 Jun 2026 08:00:09 -0000"
-    },
-    {
-      "title": "Como funcionam as bancas que avaliam candidatos \u00E0s cotas raciais em concursos e universidades",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/06/17/como-funcionam-as-bancas-que-avaliam-candidatos-as-cotas-raciais-em-concursos-e-universidades.ghtml",
-      "date": "Wed, 17 Jun 2026 06:00:12 -0000"
-    },
-    {
-      "title": "Concurso do IBGE: veja cargos, sal\u00E1rios e como se inscrever para mais de 8 mil vagas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/06/17/concurso-do-ibge-veja-cargos-salarios-e-como-se-inscrever-para-mais-de-8-mil-vagas.ghtml",
-      "date": "Wed, 17 Jun 2026 06:00:10 -0000"
-    },
-    {
-      "title": "Ideia boa n\u00E3o basta: veja como testar um neg\u00F3cio antes de investir mais dinheiro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/06/17/ideia-boa-nao-basta-veja-como-testar-um-negocio-antes-de-investir-mais-dinheiro.ghtml",
-      "date": "Wed, 17 Jun 2026 05:00:12 -0000"
-    },
-    {
-      "title": "Como investir se n\u00E3o sobra dinheiro? Especialistas dizem que esperar sobrar \u00E9 um erro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/06/17/como-investir-se-nao-sobra-dinheiro-especialistas-dizem-que-esperar-sobrar-e-um-erro.ghtml",
-      "date": "Wed, 17 Jun 2026 05:00:10 -0000"
     }
   ]
 }
