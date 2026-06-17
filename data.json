@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171455.55,
-      "change": 1.07,
-      "changeStr": "\u002B1.07%"
+      "price": 168177.11,
+      "change": -0.87,
+      "changeStr": "-0.87%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.38,
-      "change": -0.42,
-      "changeStr": "-0.42%"
+      "price": 38.57,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.93,
-      "change": -0.63,
-      "changeStr": "-0.63%"
+      "price": 79.78,
+      "change": -2.04,
+      "changeStr": "-2.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.37,
-      "change": 2.27,
-      "changeStr": "\u002B2.27%"
+      "price": 40.8,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.87,
-      "change": 1.19,
-      "changeStr": "\u002B1.19%"
+      "price": 17.55,
+      "change": -0.62,
+      "changeStr": "-0.62%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.73,
-      "change": 1.7,
-      "changeStr": "\u002B1.70%"
+      "price": 19.41,
+      "change": 0.05,
+      "changeStr": "\u002B0.05%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.01,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 4.74,
+      "change": -5.2,
+      "changeStr": "-5.20%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.59,
-      "change": 0.91,
-      "changeStr": "\u002B0.91%"
+      "price": 16.19,
+      "change": -1.52,
+      "changeStr": "-1.52%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.31,
-      "change": 3.46,
-      "changeStr": "\u002B3.46%"
+      "price": 43.8,
+      "change": 2.26,
+      "changeStr": "\u002B2.26%"
     }
   ],
   "news": [
+    {
+      "title": "Fed mant\u00E9m juros dos EUA na faixa de 3,50% a 3,75% ao ano na primeira decis\u00E3o com Warsh na presid\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/17/fed-juros-junho.ghtml",
+      "date": "Wed, 17 Jun 2026 18:00:42 -0000"
+    },
+    {
+      "title": "Receita paga a partir de 15 de julho lote especial de restitui\u00E7\u00E3o do IR a 4 milh\u00F5es de contribuintes com direito a \u0027cashback\u0027 ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/06/17/receita-paga-a-partir-de-15-de-junho-lote-especial-de-restituicao-do-ir-a-4-milhoes-de-contribuintes-com-direito-a-cashback.ghtml",
+      "date": "Wed, 17 Jun 2026 17:34:59 -0000"
+    },
     {
       "title": "Governo calcula impacto de R$ 22,4 bilh\u00F5es com renegocia\u00E7\u00E3o de d\u00EDvidas agr\u00EDcolas em 2027; meta de contas no azul ficaria mais dif\u00EDcil",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/17/previa-do-pib-do-banco-central-tem-alta-de-05percent-em-abril.ghtml",
       "date": "Wed, 17 Jun 2026 12:01:10 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda com decis\u00F5es de juros do Brasil e dos EUA no foco; Ibovespa avan\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/17/dolar-ibovespa.ghtml",
-      "date": "Wed, 17 Jun 2026 12:00:35 -0000"
-    },
-    {
-      "title": "O pa\u00EDs vizinho do Brasil onde empregados passaram a trabalhar menos e a ganhar mais (com desemprego na m\u00EDnima hist\u00F3rica)",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/17/o-pais-vizinho-do-brasil-trabalhar-menos-ganhar-mais.ghtml",
-      "date": "Wed, 17 Jun 2026 08:30:13 -0000"
     }
   ]
 }
