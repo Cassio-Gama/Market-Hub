@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168521.14,
-      "change": 0.04,
-      "changeStr": "\u002B0.04%"
+      "price": 168099.98,
+      "change": -0.21,
+      "changeStr": "-0.21%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.08,
-      "change": -1.27,
-      "changeStr": "-1.27%"
+      "price": 38.74,
+      "change": 0.44,
+      "changeStr": "\u002B0.44%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.44,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 80.05,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.06,
-      "change": 0.64,
-      "changeStr": "\u002B0.64%"
+      "price": 40.51,
+      "change": -0.71,
+      "changeStr": "-0.71%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.66,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
+      "price": 17.42,
+      "change": -0.74,
+      "changeStr": "-0.74%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.58,
-      "change": 0.88,
-      "changeStr": "\u002B0.88%"
+      "price": 19.41,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.52,
-      "change": -4.64,
-      "changeStr": "-4.64%"
+      "price": 4.59,
+      "change": -3.16,
+      "changeStr": "-3.16%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.23,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 16.21,
+      "change": 0.12,
+      "changeStr": "\u002B0.12%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.76,
-      "change": 4.47,
-      "changeStr": "\u002B4.47%"
+      "price": 45.89,
+      "change": 4.77,
+      "changeStr": "\u002B4.77%"
     }
   ],
   "news": [
+    {
+      "title": "iPhone no Brasil passa a aceitar lojas de apps rivais e pagamentos de terceiros ap\u00F3s acordo entre Apple e Cade",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/18/iphone-no-brasil-passa-a-aceitar-lojas-de-apps-rivais-e-pagamentos-de-terceiros-apos-acordo-com-o-cade.ghtml",
+      "date": "Thu, 18 Jun 2026 17:12:49 -0000"
+    },
     {
       "title": "Carro esportivo de Lego em tamanho real atinge 111 km/h e quebra recorde de velocidade",
       "source": "G1 Economia",
@@ -69,7 +75,7 @@
       "date": "Thu, 18 Jun 2026 13:00:09 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta e vai a R$ 5,16, ap\u00F3s decis\u00F5es de juros e acordo entre EUA e Ir\u00E3; Ibovespa sobe",
+      "title": "D\u00F3lar opera em alta e vai a R$ 5,18, ap\u00F3s decis\u00F5es de juros e acordo entre EUA e Ir\u00E3; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/18/dolar-ibovespa.ghtml",
       "date": "Thu, 18 Jun 2026 12:00:26 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/18/cafe-soluvel-fica-fora-de-isencao-do-tarifaco-e-setor-vai-aos-eua-pedir-revisao-nao-tem-logica.ghtml",
       "date": "Thu, 18 Jun 2026 08:04:22 -0000"
-    },
-    {
-      "title": "\u0027Agress\u00E3o no aeroporto: quais s\u00E3o os direitos de profissionais atacados? Cabe indeniza\u00E7\u00E3o? Quem ser\u00E1 responsabilizado?\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/18/agressao-no-aeroporto-direitos-do-trabalhador.ghtml",
-      "date": "Thu, 18 Jun 2026 06:00:12 -0000"
     }
   ]
 }
