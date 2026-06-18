@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168099.98,
-      "change": -0.21,
-      "changeStr": "-0.21%"
+      "price": 168277.55,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.74,
-      "change": 0.44,
-      "changeStr": "\u002B0.44%"
+      "price": 38.85,
+      "change": 0.73,
+      "changeStr": "\u002B0.73%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.05,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 79.94,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.51,
-      "change": -0.71,
-      "changeStr": "-0.71%"
+      "price": 40.49,
+      "change": -0.76,
+      "changeStr": "-0.76%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.42,
-      "change": -0.74,
-      "changeStr": "-0.74%"
+      "price": 17.47,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.41,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 19.53,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.59,
-      "change": -3.16,
-      "changeStr": "-3.16%"
+      "price": 4.5,
+      "change": -5.06,
+      "changeStr": "-5.06%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.21,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 16.22,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.89,
-      "change": 4.77,
-      "changeStr": "\u002B4.77%"
+      "price": 45.81,
+      "change": 4.59,
+      "changeStr": "\u002B4.59%"
     }
   ],
   "news": [
+    {
+      "title": "A\u00E7\u00F5es da Braskem despencam em meio a impasse com credores e novos riscos judiciais em Alagoas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/18/impasse-credores-riscos-judiciais-acoes-braskem.ghtml",
+      "date": "Thu, 18 Jun 2026 18:33:06 -0000"
+    },
     {
       "title": "iPhone no Brasil passa a aceitar lojas de apps rivais e pagamentos de terceiros ap\u00F3s acordo entre Apple e Cade",
       "source": "G1 Economia",
@@ -75,7 +81,7 @@
       "date": "Thu, 18 Jun 2026 13:00:09 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta e vai a R$ 5,18, ap\u00F3s decis\u00F5es de juros e acordo entre EUA e Ir\u00E3; Ibovespa cai",
+      "title": "D\u00F3lar sobe e vai a R$ 5,17, ap\u00F3s decis\u00F5es de juros e acordo entre EUA e Ir\u00E3; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/18/dolar-ibovespa.ghtml",
       "date": "Thu, 18 Jun 2026 12:00:26 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/06/18/entre-farpas-e-diplomacia-o-saldo-de-lula-no-g7-com-trump-ue-e-ucrania.ghtml",
       "date": "Thu, 18 Jun 2026 08:15:50 -0000"
-    },
-    {
-      "title": "Caf\u00E9 sol\u00FAvel fica fora de isen\u00E7\u00E3o do tarifa\u00E7o e setor vai aos EUA pedir revis\u00E3o: \u0027N\u00E3o tem l\u00F3gica\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/18/cafe-soluvel-fica-fora-de-isencao-do-tarifaco-e-setor-vai-aos-eua-pedir-revisao-nao-tem-logica.ghtml",
-      "date": "Thu, 18 Jun 2026 08:04:22 -0000"
     }
   ]
 }
