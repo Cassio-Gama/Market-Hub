@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168303.94,
-      "change": 0.02,
-      "changeStr": "\u002B0.02%"
+      "price": 168333.61,
+      "change": 0.03,
+      "changeStr": "\u002B0.03%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.76,
-      "change": -0.23,
-      "changeStr": "-0.23%"
+      "price": 38.8,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.32,
-      "change": 0.48,
-      "changeStr": "\u002B0.48%"
+      "price": 80.75,
+      "change": 1.01,
+      "changeStr": "\u002B1.01%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.94,
-      "change": -1.36,
-      "changeStr": "-1.36%"
+      "price": 39.87,
+      "change": -1.53,
+      "changeStr": "-1.53%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.52,
-      "change": 0.29,
-      "changeStr": "\u002B0.29%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 19.53,
+      "price": 17.47,
       "change": 0,
       "changeStr": "\u002B0.00%"
     },
     {
+      "symbol": "BBAS3",
+      "price": 19.42,
+      "change": -0.56,
+      "changeStr": "-0.56%"
+    },
+    {
       "symbol": "MGLU3",
-      "price": 4.6,
-      "change": 2.22,
-      "changeStr": "\u002B2.22%"
+      "price": 4.62,
+      "change": 2.67,
+      "changeStr": "\u002B2.67%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.18,
-      "change": -0.25,
-      "changeStr": "-0.25%"
+      "price": 16.05,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.88,
-      "change": -2.03,
-      "changeStr": "-2.03%"
+      "price": 45.16,
+      "change": -1.42,
+      "changeStr": "-1.42%"
     }
   ],
   "news": [
+    {
+      "title": "Governo investiga se sites porn\u00F4s impedem acesso de menores de idade",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/19/investigacao-sites-pornos-acesso-menores-de-idade.ghtml",
+      "date": "Fri, 19 Jun 2026 20:40:03 -0000"
+    },
     {
       "title": "Conhece o car\u00E1-do-ar? Veja curiosidades e dicas de cultivo",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/19/governo-vai-congelar-recursos-de-bets-ilegais-e-enviar-ao-fundo-de-seguranca-publica-diz-ministro-da-fazenda.ghtml",
       "date": "Fri, 19 Jun 2026 12:54:57 -0000"
-    },
-    {
-      "title": "Emirados ser\u00E3o o primeiro pa\u00EDs \u00E1rabe a proibir redes sociais para menores de 15 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/19/emirados-arabes-serao-o-primeiro-pais-arabe-a-barrar-redes-sociais-para-menores-de-15-anos.ghtml",
-      "date": "Fri, 19 Jun 2026 12:32:58 -0000"
     }
   ]
 }
