@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167788.73,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 167897.19,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     },
     {
       "symbol": "PETR4",
@@ -14,48 +14,78 @@
     },
     {
       "symbol": "VALE3",
-      "price": 80.11,
-      "change": 0.21,
-      "changeStr": "\u002B0.21%"
+      "price": 80.16,
+      "change": 0.28,
+      "changeStr": "\u002B0.28%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.83,
-      "change": -1.63,
-      "changeStr": "-1.63%"
+      "price": 39.81,
+      "change": -1.68,
+      "changeStr": "-1.68%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.42,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 17.52,
+      "change": 0.29,
+      "changeStr": "\u002B0.29%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.47,
-      "change": -0.31,
-      "changeStr": "-0.31%"
+      "price": 19.53,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.51,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 4.58,
+      "change": 1.78,
+      "changeStr": "\u002B1.78%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.11,
-      "change": -0.68,
-      "changeStr": "-0.68%"
+      "price": 16.25,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.19,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 45.03,
+      "change": -1.7,
+      "changeStr": "-1.70%"
     }
   ],
   "news": [
+    {
+      "title": "Conhece o car\u00E1-do-ar? Veja curiosidades e dicas de cultivo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/06/19/conhece-o-cara-do-ar-veja-curiosidades-e-dicas-de-cultivo.ghtml",
+      "date": "Fri, 19 Jun 2026 16:55:13 -0000"
+    },
+    {
+      "title": "Imposto do pecado: governo quer manter carga tribut\u00E1ria sobre bebidas e cigarro enquanto durar per\u00EDodo de transi\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/19/imposto-do-pecado-ideia-e-manter-em-transicao-o-atual-peso-de-tributos-para-bebidas-alcoolicas-e-cigarros-diz-ministro-da-fazenda.ghtml",
+      "date": "Fri, 19 Jun 2026 16:21:42 -0000"
+    },
+    {
+      "title": "Influencers que divulgarem apostas ilegais ser\u00E3o responsabilizados, diz governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/19/influencers-que-divulgarem-apostas-ilegais-serao-responsabilizados-diz-governo.ghtml",
+      "date": "Fri, 19 Jun 2026 15:52:46 -0000"
+    },
+    {
+      "title": "Governo vai propor subir limite do MEI para R$ 130 mil escalonado at\u00E9 2028, mas afasta corrigir outras faixas do Simples, diz ministro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/19/governo-vai-propor-subir-limite-do-mei-para-r-130-mil-escalonado-ate-2028-mas-afasta-corrigir-outras-faixas-do-simples-diz-ministro.ghtml",
+      "date": "Fri, 19 Jun 2026 15:46:29 -0000"
+    },
+    {
+      "title": "25 milh\u00F5es de pessoas usam plataformas ilegais de apostas online, diz ministro da Justi\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/19/25-milhoes-de-pessoas-usam-plataformas-ilegais-de-apostas-online-diz-ministro-da-justica.ghtml",
+      "date": "Fri, 19 Jun 2026 15:09:07 -0000"
+    },
     {
       "title": "Ford do Brasil faz recall de Bronco Sport e Maverick e pede que unidades afetadas n\u00E3o sejam dirigidas",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/06/19/emirados-arabes-serao-o-primeiro-pais-arabe-a-barrar-redes-sociais-para-menores-de-15-anos.ghtml",
       "date": "Fri, 19 Jun 2026 12:32:58 -0000"
-    },
-    {
-      "title": "O que \u00E9 o PicPay, banco digital alvo de opera\u00E7\u00E3o por descontos indevidos a servidores do DF",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/19/o-que-e-a-picpay.ghtml",
-      "date": "Fri, 19 Jun 2026 12:12:50 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda com foco nas negocia\u00E7\u00F5es entre EUA e Ir\u00E3 para o fim da guerra; Ibovespa avan\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/19/dolar-ibovespa.ghtml",
-      "date": "Fri, 19 Jun 2026 12:00:08 -0000"
-    },
-    {
-      "title": "A Copa do Mundo dos ultrarricos: pacote de R$ 20 milh\u00F5es para a final, jatinho entre os est\u00E1dios e encontro com jogadores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/19/a-copa-do-mundo-dos-ultrarricos.ghtml",
-      "date": "Fri, 19 Jun 2026 08:34:23 -0000"
-    },
-    {
-      "title": "Quanto custa assistir \u00E0 Copa do Mundo? Torcedores contam quanto est\u00E3o gastando",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/19/quanto-custa-assistir-a-copa-do-mundo-torcedores-contam-quanto-estao-gastando.ghtml",
-      "date": "Fri, 19 Jun 2026 08:03:06 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo, infla\u00E7\u00E3o e bolsas: os estragos econ\u00F4micos deixados pela guerra entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/19/petroleo-inflacao-e-bolsas-os-estragos-economicos-deixados-pela-guerra-entre-eua-e-ira.ghtml",
-      "date": "Fri, 19 Jun 2026 08:01:50 -0000"
     }
   ]
 }
