@@ -55,5 +55,66 @@
       "changeStr": "\u002B0.20%"
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Brasil ganha duas novas companhias a\u00E9reas estrangeiras autorizadas a operar voos internacionais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/22/anac-autoriza-novas-companhias-aereas-no-brasil.ghtml",
+      "date": "Mon, 22 Jun 2026 22:22:35 -0000"
+    },
+    {
+      "title": "Ferrari n\u00E3o vai \u0027obrigar\u0027 clientes a comprar modelo el\u00E9trico Luce para ter acesso a carros especiais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/22/ferrari-nega-obrigar-clientes-comprar-luce-modelo-eletrico-polemica.ghtml",
+      "date": "Mon, 22 Jun 2026 18:52:15 -0000"
+    },
+    {
+      "title": "Wikipedia n\u00E3o vai permitir que IA edite artigos diretamente na plataforma, diz fundador",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/wikipedia-ia-artigos.ghtml",
+      "date": "Mon, 22 Jun 2026 16:59:32 -0000"
+    },
+    {
+      "title": "Acionistas processam conselho da Uber por suposta neglig\u00EAncia em casos de ass\u00E9dio e agress\u00E3o sexual",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/conselho-uber-suposta-negligencia-assedio-agressao-sexual.ghtml",
+      "date": "Mon, 22 Jun 2026 16:49:14 -0000"
+    },
+    {
+      "title": "Apple e Tesla tiveram dados sigilosos expostos por falha em seguran\u00E7a de empresa indiana, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/vazamento-dados-apple-tesla-tata-electronics-resgate.ghtml",
+      "date": "Mon, 22 Jun 2026 15:42:37 -0000"
+    },
+    {
+      "title": "Milei autoriza at\u00E9 US$ 5 bilh\u00F5es em empr\u00E9stimos junto a organismos internacionais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/22/milei-autoriza-ate-us-5-bilhoes-em-emprestimos-junto-a-organismos-internacionais.ghtml",
+      "date": "Mon, 22 Jun 2026 14:47:43 -0000"
+    },
+    {
+      "title": "Imposto de Renda 2026: Receita abre consulta ao 2\u00BA lote de restitui\u00E7\u00E3o nesta ter\u00E7a-feira",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/06/22/irpf-segundo-lote-consulta.ghtml",
+      "date": "Mon, 22 Jun 2026 14:04:14 -0000"
+    },
+    {
+      "title": "Como a economia dos EUA continua superando seus rivais apesar de toda turbul\u00EAncia do governo Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/22/como-a-economia-dos-eua-continua-superando-seus-rivais-apesar-de-toda-turbulencia-do-governo-trump.ghtml",
+      "date": "Mon, 22 Jun 2026 12:21:43 -0000"
+    },
+    {
+      "title": "D\u00F3lar cai a R$ 5,14, com foco no exterior e expectativa por ata do Copom; Ibovespa sobe",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/22/dolar-ibovespa.ghtml",
+      "date": "Mon, 22 Jun 2026 12:00:29 -0000"
+    },
+    {
+      "title": "UE diz que oferece proposta mais vantajosa ao Brasil na disputa por minerais cr\u00EDticos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/22/ue-diz-que-oferece-proposta-mais-vantajosa-ao-brasil-na-disputa-por-minerais-criticos.ghtml",
+      "date": "Mon, 22 Jun 2026 11:41:40 -0000"
+    }
+  ]
 }
