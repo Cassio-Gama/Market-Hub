@@ -2,119 +2,58 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170352.11,
+      "price": 170370.38,
+      "change": 1.21,
+      "changeStr": "\u002B1.21%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 39.17,
+      "change": 0.95,
+      "changeStr": "\u002B0.95%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 80.91,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 40.94,
+      "change": 2.68,
+      "changeStr": "\u002B2.68%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 17.68,
       "change": 1.2,
       "changeStr": "\u002B1.20%"
     },
     {
-      "symbol": "PETR4",
-      "price": 39.02,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 81.14,
-      "change": 0.48,
-      "changeStr": "\u002B0.48%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 40.82,
-      "change": 2.38,
-      "changeStr": "\u002B2.38%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 17.72,
-      "change": 1.43,
-      "changeStr": "\u002B1.43%"
-    },
-    {
       "symbol": "BBAS3",
-      "price": 19.6,
-      "change": 0.93,
-      "changeStr": "\u002B0.93%"
+      "price": 19.58,
+      "change": 0.82,
+      "changeStr": "\u002B0.82%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.75,
-      "change": 2.81,
-      "changeStr": "\u002B2.81%"
+      "price": 4.66,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.32,
-      "change": 1.68,
-      "changeStr": "\u002B1.68%"
+      "price": 16.17,
+      "change": 0.75,
+      "changeStr": "\u002B0.75%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.26,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 45.25,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     }
   ],
-  "news": [
-    {
-      "title": "Wikipedia n\u00E3o vai permitir que IA edite artigos diretamente na plataforma, diz fundador",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/wikipedia-ia-artigos.ghtml",
-      "date": "Mon, 22 Jun 2026 16:59:32 -0000"
-    },
-    {
-      "title": "Acionistas processam conselho da Uber por suposta neglig\u00EAncia em casos de ass\u00E9dio e agress\u00E3o sexual",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/conselho-uber-suposta-negligencia-assedio-agressao-sexual.ghtml",
-      "date": "Mon, 22 Jun 2026 16:49:14 -0000"
-    },
-    {
-      "title": "Apple e Tesla tiveram dados sigilosos expostos por falha em seguran\u00E7a de empresa indiana, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/vazamento-dados-apple-tesla-tata-electronics-resgate.ghtml",
-      "date": "Mon, 22 Jun 2026 15:42:37 -0000"
-    },
-    {
-      "title": "Milei autoriza at\u00E9 US$ 5 bilh\u00F5es em empr\u00E9stimos junto a organismos internacionais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/22/milei-autoriza-ate-us-5-bilhoes-em-emprestimos-junto-a-organismos-internacionais.ghtml",
-      "date": "Mon, 22 Jun 2026 14:47:43 -0000"
-    },
-    {
-      "title": "Imposto de Renda 2026: Receita abre consulta ao 2\u00BA lote de restitui\u00E7\u00E3o nesta ter\u00E7a-feira",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/06/22/irpf-segundo-lote-consulta.ghtml",
-      "date": "Mon, 22 Jun 2026 14:04:14 -0000"
-    },
-    {
-      "title": "Como a economia dos EUA continua superando seus rivais apesar de toda turbul\u00EAncia do governo Trump",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/22/como-a-economia-dos-eua-continua-superando-seus-rivais-apesar-de-toda-turbulencia-do-governo-trump.ghtml",
-      "date": "Mon, 22 Jun 2026 12:21:43 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda e vai a R$ 5,12, de olho no exterior e \u00E0 espera da ata do Copom; Ibovespa  sobe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/22/dolar-ibovespa.ghtml",
-      "date": "Mon, 22 Jun 2026 12:00:29 -0000"
-    },
-    {
-      "title": "UE diz que oferece proposta mais vantajosa ao Brasil na disputa por minerais cr\u00EDticos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/22/ue-diz-que-oferece-proposta-mais-vantajosa-ao-brasil-na-disputa-por-minerais-criticos.ghtml",
-      "date": "Mon, 22 Jun 2026 11:41:40 -0000"
-    },
-    {
-      "title": "Mercado eleva previs\u00E3o de infla\u00E7\u00E3o para 2026 e projeta s\u00F3 mais um corte de juros, a 14% em agosto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/22/mercado-sobe-de-novo-estimativa-de-inflacao-em-2026-e-passa-a-projetar-so-mais-um-corte-no-juro-para-14percent-ao-ano-em-agosto.ghtml",
-      "date": "Mon, 22 Jun 2026 11:28:54 -0000"
-    },
-    {
-      "title": "Alan Greenspan, ex-presidente do Federal Reserve, morre aos 100 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/22/alan-greenspan-ex-presidente-do-federal-reserve.ghtml",
-      "date": "Mon, 22 Jun 2026 11:17:37 -0000"
-    }
-  ]
+  "news": []
 }
