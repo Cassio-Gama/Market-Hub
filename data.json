@@ -2,62 +2,98 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168333.61,
-      "change": 0.03,
-      "changeStr": "\u002B0.03%"
+      "price": 170352.11,
+      "change": 1.2,
+      "changeStr": "\u002B1.20%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.8,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 39.02,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.75,
-      "change": 1.01,
-      "changeStr": "\u002B1.01%"
+      "price": 81.14,
+      "change": 0.48,
+      "changeStr": "\u002B0.48%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.87,
-      "change": -1.53,
-      "changeStr": "-1.53%"
+      "price": 40.82,
+      "change": 2.38,
+      "changeStr": "\u002B2.38%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.47,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 17.72,
+      "change": 1.43,
+      "changeStr": "\u002B1.43%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.42,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 19.6,
+      "change": 0.93,
+      "changeStr": "\u002B0.93%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.62,
-      "change": 2.67,
-      "changeStr": "\u002B2.67%"
+      "price": 4.75,
+      "change": 2.81,
+      "changeStr": "\u002B2.81%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.05,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 16.32,
+      "change": 1.68,
+      "changeStr": "\u002B1.68%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.16,
-      "change": -1.42,
-      "changeStr": "-1.42%"
+      "price": 45.26,
+      "change": 0.22,
+      "changeStr": "\u002B0.22%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar abre em queda, de olho no exterior",
+      "title": "Wikipedia n\u00E3o vai permitir que IA edite artigos diretamente na plataforma, diz fundador",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/wikipedia-ia-artigos.ghtml",
+      "date": "Mon, 22 Jun 2026 16:59:32 -0000"
+    },
+    {
+      "title": "Acionistas processam conselho da Uber por suposta neglig\u00EAncia em casos de ass\u00E9dio e agress\u00E3o sexual",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/conselho-uber-suposta-negligencia-assedio-agressao-sexual.ghtml",
+      "date": "Mon, 22 Jun 2026 16:49:14 -0000"
+    },
+    {
+      "title": "Apple e Tesla tiveram dados sigilosos expostos por falha em seguran\u00E7a de empresa indiana, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/vazamento-dados-apple-tesla-tata-electronics-resgate.ghtml",
+      "date": "Mon, 22 Jun 2026 15:42:37 -0000"
+    },
+    {
+      "title": "Milei autoriza at\u00E9 US$ 5 bilh\u00F5es em empr\u00E9stimos junto a organismos internacionais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/22/milei-autoriza-ate-us-5-bilhoes-em-emprestimos-junto-a-organismos-internacionais.ghtml",
+      "date": "Mon, 22 Jun 2026 14:47:43 -0000"
+    },
+    {
+      "title": "Imposto de Renda 2026: Receita abre consulta ao 2\u00BA lote de restitui\u00E7\u00E3o nesta ter\u00E7a-feira",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/06/22/irpf-segundo-lote-consulta.ghtml",
+      "date": "Mon, 22 Jun 2026 14:04:14 -0000"
+    },
+    {
+      "title": "Como a economia dos EUA continua superando seus rivais apesar de toda turbul\u00EAncia do governo Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/22/como-a-economia-dos-eua-continua-superando-seus-rivais-apesar-de-toda-turbulencia-do-governo-trump.ghtml",
+      "date": "Mon, 22 Jun 2026 12:21:43 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em queda e vai a R$ 5,12, de olho no exterior e \u00E0 espera da ata do Copom; Ibovespa  sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/22/dolar-ibovespa.ghtml",
       "date": "Mon, 22 Jun 2026 12:00:29 -0000"
@@ -75,46 +111,10 @@
       "date": "Mon, 22 Jun 2026 11:28:54 -0000"
     },
     {
-      "title": "Alan Greenspan, ex-presidente do Federal Reserve, morre aos 100 anos, diz jornal",
+      "title": "Alan Greenspan, ex-presidente do Federal Reserve, morre aos 100 anos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/22/alan-greenspan-ex-presidente-do-federal-reserve.ghtml",
       "date": "Mon, 22 Jun 2026 11:17:37 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o de Trump: audi\u00EAncia decisiva para futuro das taxas sobre produtos brasileiros encerra inscri\u00E7\u00F5es; veja como funciona",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/22/tarifaco-de-trump-audiencia-decisiva-para-futuro-das-taxas-sobre-produtos-brasileiros-encerra-inscricoes-veja-como-funciona.ghtml",
-      "date": "Mon, 22 Jun 2026 08:03:22 -0000"
-    },
-    {
-      "title": "O economista que acreditava que trabalhar\u00EDamos apenas 15h por semana \u2014 e por que sua previs\u00E3o n\u00E3o deu certo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/22/o-economista-que-acreditava-que-trabalhariamos-apenas-15h-por-semana-e-por-que-sua-previsao-nao-deu-certo.ghtml",
-      "date": "Mon, 22 Jun 2026 06:00:29 -0000"
-    },
-    {
-      "title": "Austr\u00E1lia confirma 2\u00BA caso de gripe avi\u00E1ria no continente em menos de uma semana",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/22/australia-confirma-2o-caso-de-gripe-aviaria-no-continente-em-menos-de-uma-semana.ghtml",
-      "date": "Mon, 22 Jun 2026 04:47:56 -0000"
-    },
-    {
-      "title": "China pro\u00EDbe exporta\u00E7\u00F5es para 10 empresas dos EUA e amplia retalia\u00E7\u00E3o comercial; veja lista",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/22/china-proibe-exportacoes-para-10-empresas-dos-eua-e-amplia-retaliacao-comercial-veja-lista.ghtml",
-      "date": "Mon, 22 Jun 2026 03:40:39 -0000"
-    },
-    {
-      "title": "S\u00E3o Jo\u00E3o \u00E9 feriado? Veja onde a data garante folga e quais s\u00E3o os direitos dos trabalhadores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/22/sao-joao-e-feriado-veja-onde-a-data-garante-folga-e-quais-sao-os-direitos-dos-trabalhadores.ghtml",
-      "date": "Mon, 22 Jun 2026 03:00:41 -0000"
-    },
-    {
-      "title": "Lucro dos bancos bate recorde de R$ 255 bilh\u00F5es em 2025, ano marcado por juros altos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/22/lucro-dos-bancos-bate-recorde-de-r-255-bilhoes-em-2025-ano-marcado-por-juros-altos.ghtml",
-      "date": "Mon, 22 Jun 2026 03:00:39 -0000"
     }
   ]
 }
