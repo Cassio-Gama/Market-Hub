@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170370.38,
-      "change": 1.21,
-      "changeStr": "\u002B1.21%"
+      "price": 170597.94,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     },
     {
       "symbol": "PETR4",
-      "price": 39.17,
-      "change": 0.95,
-      "changeStr": "\u002B0.95%"
+      "price": 39.39,
+      "change": 0.56,
+      "changeStr": "\u002B0.56%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.91,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 79.13,
+      "change": -2.2,
+      "changeStr": "-2.20%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.94,
-      "change": 2.68,
-      "changeStr": "\u002B2.68%"
+      "price": 41.1,
+      "change": 0.39,
+      "changeStr": "\u002B0.39%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.68,
-      "change": 1.2,
-      "changeStr": "\u002B1.20%"
+      "price": 17.76,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.58,
-      "change": 0.82,
-      "changeStr": "\u002B0.82%"
+      "price": 19.77,
+      "change": 0.97,
+      "changeStr": "\u002B0.97%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.66,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
+      "price": 4.51,
+      "change": -3.22,
+      "changeStr": "-3.22%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.17,
-      "change": 0.75,
-      "changeStr": "\u002B0.75%"
+      "price": 16.3,
+      "change": 0.8,
+      "changeStr": "\u002B0.80%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.25,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 45.45,
+      "change": 0.44,
+      "changeStr": "\u002B0.44%"
     }
   ],
   "news": [
+    {
+      "title": "INSS estabelece novas regras e passa a exigir biometria em benef\u00EDcios sociais; veja quem est\u00E1 isento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/23/inss-biometria-beneficios-sociais-veja-quem-esta-isento.ghtml",
+      "date": "Tue, 23 Jun 2026 13:58:06 -0000"
+    },
+    {
+      "title": "Quem \u00E9 Rafael Oliveira, brasileiro escolhido para comandar a Heineken como CEO global",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/23/brasileiro-heineken-ceo-global.ghtml",
+      "date": "Tue, 23 Jun 2026 13:30:12 -0000"
+    },
+    {
+      "title": "\u0027Veneno no seu caf\u00E9\u0027: relat\u00F3rio alerta para uso massivo de pesticidas na produ\u00E7\u00E3o mundial",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/23/veneno-no-seu-cafe-relatorio-alerta-para-uso-massivo-de-pesticidas-na-producao-mundial.ghtml",
+      "date": "Tue, 23 Jun 2026 13:25:14 -0000"
+    },
+    {
+      "title": "Brasileiro assume comando global da Heineken pela primeira vez na hist\u00F3ria",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/23/brasileiro-assume-comando-global-da-heineken-pela-primeira-vez-na-historia.ghtml",
+      "date": "Tue, 23 Jun 2026 13:03:54 -0000"
+    },
     {
       "title": "Euro digital ganha apoio no Parlamento Europeu e avan\u00E7a em fase decisiva",
       "source": "G1 Economia",
@@ -69,13 +93,13 @@
       "date": "Tue, 23 Jun 2026 12:17:22 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, com ata do Copom e negocia\u00E7\u00F5es entre EUA e Ir\u00E3 no foco",
+      "title": "D\u00F3lar e Ibovespa operam em alta, de olho em cen\u00E1rio de juros no Brasil e nos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/23/dolar-ibovespa.ghtml",
       "date": "Tue, 23 Jun 2026 12:00:32 -0000"
     },
     {
-      "title": "Toyota anuncia bZ4x para o Brasil, primeiro carro el\u00E9trico da marca no pa\u00EDs por R$ 419.990",
+      "title": "Toyota anuncia bZ4X, primeiro carro el\u00E9trico da marca no Brasil, por R$ 419.990",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/06/23/toyota-bz4x-suv-eletrico.ghtml",
       "date": "Tue, 23 Jun 2026 11:17:49 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/23/estreito-de-ormuz-registra-o-trafego-mais-intenso-desde-o-inicio-da-guerra.ghtml",
       "date": "Tue, 23 Jun 2026 10:10:03 -0000"
-    },
-    {
-      "title": "Natto: o prato pegajoso de soja fermentada que virou fen\u00F4meno gra\u00E7as \u00E0 fama de superalimento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/23/natto-o-prato-pegajoso-de-soja-fermentada-que-virou-fenomeno-gracas-a-fama-de-superalimento.ghtml",
-      "date": "Tue, 23 Jun 2026 08:04:28 -0000"
-    },
-    {
-      "title": "A\u00E7\u00FAcar mais caro? Por que a \u00CDndia pode sumir do mercado \u2014 e o que isso significa para os pre\u00E7os",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/23/acucar-mais-caro-por-que-a-india-pode-sumir-do-mercado-e-o-que-isso-significa-para-os-precos.ghtml",
-      "date": "Tue, 23 Jun 2026 07:01:06 -0000"
-    },
-    {
-      "title": "Enquanto jogam a Copa, atletas fecham contratos milion\u00E1rios com novos clubes; distra\u00E7\u00E3o preocupa treinadores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/23/enquanto-jogam-a-copa-atletas-fecham-contratos-milionarios-com-novos-clubes-distracao-preocupa-treinadores.ghtml",
-      "date": "Tue, 23 Jun 2026 06:00:32 -0000"
-    },
-    {
-      "title": "Datafolha: parcela de pessimistas com economia cai de 35% para 26%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/06/23/datafolha-parcela-de-pessimistas-com-economia-cai-de-35percent-para-26percent.ghtml",
-      "date": "Tue, 23 Jun 2026 05:43:39 -0000"
     }
   ]
 }
