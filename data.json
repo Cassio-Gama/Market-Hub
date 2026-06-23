@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171527.89,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 171258.88,
+      "change": 0.52,
+      "changeStr": "\u002B0.52%"
     },
     {
       "symbol": "PETR4",
-      "price": 39.51,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
+      "price": 39.33,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.83,
-      "change": -1.33,
-      "changeStr": "-1.33%"
+      "price": 79.38,
+      "change": -1.89,
+      "changeStr": "-1.89%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.21,
-      "change": 0.66,
-      "changeStr": "\u002B0.66%"
+      "price": 41.05,
+      "change": 0.27,
+      "changeStr": "\u002B0.27%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.87,
-      "change": 1.07,
-      "changeStr": "\u002B1.07%"
+      "price": 17.84,
+      "change": 0.9,
+      "changeStr": "\u002B0.90%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.79,
-      "change": 1.07,
-      "changeStr": "\u002B1.07%"
+      "price": 19.86,
+      "change": 1.43,
+      "changeStr": "\u002B1.43%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.48,
-      "change": -3.86,
-      "changeStr": "-3.86%"
+      "price": 4.42,
+      "change": -5.15,
+      "changeStr": "-5.15%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.32,
-      "change": 0.93,
-      "changeStr": "\u002B0.93%"
+      "price": 16.37,
+      "change": 1.24,
+      "changeStr": "\u002B1.24%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.09,
-      "change": 1.86,
-      "changeStr": "\u002B1.86%"
+      "price": 45.71,
+      "change": 1.02,
+      "changeStr": "\u002B1.02%"
     }
   ],
   "news": [
+    {
+      "title": "Movimenta\u00E7\u00E3o de passageiros em aeroportos bate recorde nos cinco primeiros meses de 2026, diz governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/23/movimentacao-de-passageiros-em-aeroportos-bate-recorde-nos-cinco-primeiros-meses-de-2026-diz-governo.ghtml",
+      "date": "Tue, 23 Jun 2026 19:04:23 -0000"
+    },
+    {
+      "title": "Petrobras e estatal mexicana Pemex assinam acordo de coopera\u00E7\u00E3o em petr\u00F3leo e g\u00E1s",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/23/petrobras-pemex-acordo-cooperacao.ghtml",
+      "date": "Tue, 23 Jun 2026 18:39:24 -0000"
+    },
+    {
+      "title": "Meta prepara app de previs\u00E3o para rivalizar com Polymarket e Kalshi, diz jornal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/23/meta-prepara-app-de-previsao-para-rivalizar-com-polymarket-e-kalshi.ghtml",
+      "date": "Tue, 23 Jun 2026 18:26:51 -0000"
+    },
+    {
+      "title": "INSS: como fazer a biometria exigida para benef\u00EDcios sociais ou saber se voc\u00EA j\u00E1 tem",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/23/inss-como-saber-se-voce-ja-tem-a-biometria-exigida-para-beneficios-sociais.ghtml",
+      "date": "Tue, 23 Jun 2026 18:00:08 -0000"
+    },
     {
       "title": "ExxonMobil ganha aval e pode cobrar US$ 1 bilh\u00E3o de Cuba nos EUA",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/23/euro-digital-ganha-apoio-no-parlamento-europeu-e-avanca-em-fase-decisiva.ghtml",
       "date": "Tue, 23 Jun 2026 12:31:41 -0000"
-    },
-    {
-      "title": "Fl\u00E1vio Bolsonaro diz ter enviado inscri\u00E7\u00E3o para falar em audi\u00EAncia sobre tarifas dos EUA contra o Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/06/23/flavio-bolsonaro-diz-ter-enviado-inscricao-para-falar-em-audiencia-sobre-tarifas-dos-eua-contra-o-brasil.ghtml",
-      "date": "Tue, 23 Jun 2026 12:17:22 -0000"
-    },
-    {
-      "title": "D\u00F3lar e Ibovespa operam em alta, de olho em cen\u00E1rio de juros no Brasil e nos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/23/dolar-ibovespa.ghtml",
-      "date": "Tue, 23 Jun 2026 12:00:32 -0000"
-    },
-    {
-      "title": "Toyota anuncia bZ4X, primeiro carro el\u00E9trico da marca no Brasil, por R$ 419.990",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/06/23/toyota-bz4x-suv-eletrico.ghtml",
-      "date": "Tue, 23 Jun 2026 11:17:49 -0000"
-    },
-    {
-      "title": "Banco Central admite infla\u00E7\u00E3o acima da meta, mas diz que \u0027melhores pr\u00E1ticas\u0027 recomendam n\u00E3o reagir a choques de oferta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/23/banco-central-admite-inflacao-acima-da-meta-mas-diz-que-melhores-praticas-recomendam-nao-reagir-a-choques-de-oferta.ghtml",
-      "date": "Tue, 23 Jun 2026 11:09:31 -0000"
     }
   ]
 }
