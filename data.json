@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169823.98,
-      "change": -0.84,
-      "changeStr": "-0.84%"
+      "price": 170362.88,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.53,
-      "change": -2.03,
-      "changeStr": "-2.03%"
+      "price": 38.43,
+      "change": -2.29,
+      "changeStr": "-2.29%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.18,
-      "change": -1.51,
-      "changeStr": "-1.51%"
+      "price": 77.68,
+      "change": -2.14,
+      "changeStr": "-2.14%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41,
-      "change": -0.12,
-      "changeStr": "-0.12%"
+      "price": 41.01,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.75,
-      "change": -0.5,
-      "changeStr": "-0.50%"
+      "price": 17.7,
+      "change": -0.78,
+      "changeStr": "-0.78%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.77,
-      "change": -0.45,
-      "changeStr": "-0.45%"
+      "price": 19.79,
+      "change": -0.35,
+      "changeStr": "-0.35%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.42,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 4.33,
+      "change": -2.04,
+      "changeStr": "-2.04%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.41,
-      "change": 0.24,
-      "changeStr": "\u002B0.24%"
+      "price": 16.43,
+      "change": 0.37,
+      "changeStr": "\u002B0.37%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.57,
-      "change": -0.31,
-      "changeStr": "-0.31%"
+      "price": 46.05,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     }
   ],
   "news": [
+    {
+      "title": "\u0027Mina de ouro\u0027 de publicidade: an\u00FAncios de pausa para hidrata\u00E7\u00E3o vieram para ficar no futebol?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/negocios/noticia/2026/06/24/mina-de-ouro-de-publicidade-anuncios-de-pausa-para-hidratacao-vieram-para-ficar-no-futebol.ghtml",
+      "date": "Wed, 24 Jun 2026 16:58:24 -0000"
+    },
+    {
+      "title": "Anatel e lojas online fazem acordo contra minicelulares usados em pres\u00EDdios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/24/anatel-e-lojas-online-fazem-acordo-contra-minicelulares-usados-em-presidios.ghtml",
+      "date": "Wed, 24 Jun 2026 16:44:08 -0000"
+    },
+    {
+      "title": "Fim da escala 6x1 beneficiaria 37 milh\u00F5es de trabalhadores com carteira assinada, diz governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/24/37-milhoes-de-trabalhadores-com-carteira-assinada-trabalham-mais-de-41-horas-por-semana-diz-levantamento-do-governo.ghtml",
+      "date": "Wed, 24 Jun 2026 15:23:46 -0000"
+    },
+    {
+      "title": "Empregos no servi\u00E7o p\u00FAblico somam 1,09 milh\u00E3o entre dezembro de 24 e fevereiro de 26 e superam setor privado, diz governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/24/empregos-no-servico-publico-somam-109-milhao-e-superam-setor-privado-em-14-meses-ate-fevereiro.ghtml",
+      "date": "Wed, 24 Jun 2026 14:40:40 -0000"
+    },
     {
       "title": "O que \u00E9 carro produzido em CKD? E por que montadoras no Brasil reclamam dessa estrat\u00E9gia das marcas chinesas",
       "source": "G1 Economia",
@@ -69,7 +93,7 @@
       "date": "Wed, 24 Jun 2026 13:00:17 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta e vai a R$ 5,20, de olho em juros e petr\u00F3leo",
+      "title": "D\u00F3lar opera em alta e vai a R$ 5,22, de olho em juros e petr\u00F3leo; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/24/dolar-ibovespa.ghtml",
       "date": "Wed, 24 Jun 2026 12:00:30 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/24/brasil-x-escocia-no-agro-como-fica-a-disputa-entre-o-pais-do-cafe-e-a-terra-do-uisque.ghtml",
       "date": "Wed, 24 Jun 2026 07:00:44 -0000"
-    },
-    {
-      "title": "D\u00EDvida da Venezuela pode chegar a US$ 240 bilh\u00F5es, diz jornal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/24/divida-da-venezuela-pode-chegar-a-us-240-bilhoes-diz-jornal.ghtml",
-      "date": "Wed, 24 Jun 2026 05:23:31 -0000"
-    },
-    {
-      "title": "Por que tanta gente come\u00E7a um neg\u00F3cio e n\u00E3o consegue evoluir?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/06/24/por-que-tanta-gente-comeca-um-negocio-e-nao-consegue-evoluir.ghtml",
-      "date": "Wed, 24 Jun 2026 05:00:11 -0000"
-    },
-    {
-      "title": "Quem recebe INSS ter\u00E1 de fazer biometria? Entenda o que muda com as novas regras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/24/biometria-entenda-o-que-muda-com-as-novas-regras-do-inss.ghtml",
-      "date": "Wed, 24 Jun 2026 03:01:14 -0000"
-    },
-    {
-      "title": "Ita\u00FA amplia presen\u00E7a no escrit\u00F3rio e refor\u00E7a recuo do home office; veja efeitos para os trabalhadores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/24/itau-amplia-presenca-no-escritorio-e-reforca-recuo-do-home-office-veja-efeitos-para-os-trabalhadores.ghtml",
-      "date": "Wed, 24 Jun 2026 03:00:49 -0000"
     }
   ]
 }
