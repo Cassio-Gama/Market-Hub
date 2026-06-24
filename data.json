@@ -2,62 +2,80 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171258.88,
-      "change": 0.52,
-      "changeStr": "\u002B0.52%"
+      "price": 169823.98,
+      "change": -0.84,
+      "changeStr": "-0.84%"
     },
     {
       "symbol": "PETR4",
-      "price": 39.33,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 38.53,
+      "change": -2.03,
+      "changeStr": "-2.03%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.38,
-      "change": -1.89,
-      "changeStr": "-1.89%"
+      "price": 78.18,
+      "change": -1.51,
+      "changeStr": "-1.51%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.05,
-      "change": 0.27,
-      "changeStr": "\u002B0.27%"
+      "price": 41,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.84,
-      "change": 0.9,
-      "changeStr": "\u002B0.90%"
+      "price": 17.75,
+      "change": -0.5,
+      "changeStr": "-0.50%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.86,
-      "change": 1.43,
-      "changeStr": "\u002B1.43%"
+      "price": 19.77,
+      "change": -0.45,
+      "changeStr": "-0.45%"
     },
     {
       "symbol": "MGLU3",
       "price": 4.42,
-      "change": -5.15,
-      "changeStr": "-5.15%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.37,
-      "change": 1.24,
-      "changeStr": "\u002B1.24%"
+      "price": 16.41,
+      "change": 0.24,
+      "changeStr": "\u002B0.24%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.71,
-      "change": 1.02,
-      "changeStr": "\u002B1.02%"
+      "price": 45.57,
+      "change": -0.31,
+      "changeStr": "-0.31%"
     }
   ],
   "news": [
     {
-      "title": "Ministro diz que governo renovou cota para carros el\u00E9tricos para favorecer consumidor: \u0027precisamos garantir os melhores pre\u00E7os\u0027",
+      "title": "O que \u00E9 carro produzido em CKD? E por que montadoras no Brasil reclamam dessa estrat\u00E9gia das marcas chinesas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/24/o-que-e-carro-produzido-em-ckd-skd-cbu-polemica-isencao-imposto.ghtml",
+      "date": "Wed, 24 Jun 2026 14:12:08 -0000"
+    },
+    {
+      "title": "GWM lan\u00E7a Ora 5 por R$ 159 mil e acirra guerra de pre\u00E7os dos SUVs el\u00E9tricos; veja teste",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/24/gwm-lanca-ora-5-por-r-159-mil-e-acirra-guerra-de-precos-dos-suvs-eletricos-veja-teste.ghtml",
+      "date": "Wed, 24 Jun 2026 13:00:17 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta e vai a R$ 5,20, de olho em juros e petr\u00F3leo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/24/dolar-ibovespa.ghtml",
+      "date": "Wed, 24 Jun 2026 12:00:30 -0000"
+    },
+    {
+      "title": "Governo renovou cota para importa\u00E7\u00E3o de carros el\u00E9tricos sem imposto para garantir \u0027melhores pre\u00E7os\u0027, diz ministro",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/06/24/ministro-diz-que-governo-renovou-cota-para-carros-eletricos-para-favorecer-consumidor-precisamos-garantir-os-melhores-precos.ghtml",
       "date": "Wed, 24 Jun 2026 11:43:33 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/24/itau-amplia-presenca-no-escritorio-e-reforca-recuo-do-home-office-veja-efeitos-para-os-trabalhadores.ghtml",
       "date": "Wed, 24 Jun 2026 03:00:49 -0000"
-    },
-    {
-      "title": "Dinheiro esquecido do PIS/Pasep: novo lote ser\u00E1 liberado nesta quinta; veja como receber",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/24/dinheiro-esquecido-do-pispasep-novo-lote-sera-liberado-nesta-quinta-veja-como-receber.ghtml",
-      "date": "Wed, 24 Jun 2026 03:00:47 -0000"
-    },
-    {
-      "title": "INSS inicia pagamento de benef\u00EDcios de junho nesta quarta; veja calend\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/24/inss-inicia-pagamento-de-beneficios-de-junho-nesta-quarta-veja-calendario.ghtml",
-      "date": "Wed, 24 Jun 2026 03:00:46 -0000"
-    },
-    {
-      "title": "PIB da Argentina cresce 2,3% no primeiro trimestre de 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/23/pib-argentina-1o-trimestre.ghtml",
-      "date": "Wed, 24 Jun 2026 00:28:05 -0000"
     }
   ]
 }
