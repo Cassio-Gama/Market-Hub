@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170530.4,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 170506.66,
+      "change": -0.44,
+      "changeStr": "-0.44%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.17,
-      "change": -2.95,
-      "changeStr": "-2.95%"
+      "price": 38.29,
+      "change": -2.64,
+      "changeStr": "-2.64%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.37,
-      "change": -2.53,
-      "changeStr": "-2.53%"
+      "price": 77.73,
+      "change": -2.08,
+      "changeStr": "-2.08%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.15,
-      "change": 0.24,
-      "changeStr": "\u002B0.24%"
+      "price": 40.97,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.67,
-      "change": -0.95,
-      "changeStr": "-0.95%"
+      "price": 17.65,
+      "change": -1.07,
+      "changeStr": "-1.07%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.78,
-      "change": -0.4,
-      "changeStr": "-0.40%"
+      "price": 19.73,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.39,
-      "change": -0.68,
-      "changeStr": "-0.68%"
+      "price": 4.36,
+      "change": -1.36,
+      "changeStr": "-1.36%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.39,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 16.38,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.5,
-      "change": 1.73,
-      "changeStr": "\u002B1.73%"
+      "price": 46.61,
+      "change": 1.97,
+      "changeStr": "\u002B1.97%"
     }
   ],
   "news": [
+    {
+      "title": "Dona da Chevrolet vai investir R$ 3,5 bilh\u00F5es no Brasil para renovar f\u00E1bricas e lan\u00E7ar carros h\u00EDbridos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/24/chevrolet-gm-investir-brasil.ghtml",
+      "date": "Wed, 24 Jun 2026 20:37:36 -0000"
+    },
+    {
+      "title": "St Marche pede recupera\u00E7\u00E3o judicial e anuncia venda para grupo chileno dono do Giga",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/24/cencosudo-acordo-st-marche.ghtml",
+      "date": "Wed, 24 Jun 2026 20:28:58 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo fecha em queda e atinge menor n\u00EDvel desde in\u00EDcio da guerra entre Ir\u00E3 e Israel",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/24/petroleo-fecha-em-queda-e-atinge-menor-nivel-desde-inicio-da-guerra-entre-ira-e-israel.ghtml",
+      "date": "Wed, 24 Jun 2026 20:10:10 -0000"
+    },
     {
       "title": "Novo leil\u00E3o da Receita tem iPhone 13 por R$ 480 e VW Jetta por R$ 13,2 mil; veja como participar",
       "source": "G1 Economia",
@@ -63,7 +81,7 @@
       "date": "Wed, 24 Jun 2026 19:15:55 -0000"
     },
     {
-      "title": "CNH: novas regras levam prova pr\u00E1tica a recorde hist\u00F3rico, com 2,3 milh\u00F5es de exames em 5 meses",
+      "title": "CNH: novas regras levam prova pr\u00E1tica a recorde, com 2,3 milh\u00F5es de exames em 5 meses",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/06/24/cnh-novas-regras-levam-prova-pratica-a-recorde-historico-com-23-milhoes-de-exame.ghtml",
       "date": "Wed, 24 Jun 2026 19:14:43 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/24/empregos-no-servico-publico-somam-109-milhao-e-superam-setor-privado-em-14-meses-ate-fevereiro.ghtml",
       "date": "Wed, 24 Jun 2026 14:40:40 -0000"
-    },
-    {
-      "title": "O que \u00E9 carro produzido em CKD? E por que montadoras no Brasil reclamam dessa estrat\u00E9gia das marcas chinesas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/06/24/o-que-e-carro-produzido-em-ckd-skd-cbu-polemica-isencao-imposto.ghtml",
-      "date": "Wed, 24 Jun 2026 14:12:08 -0000"
-    },
-    {
-      "title": "GWM lan\u00E7a Ora 5 por R$ 159 mil e acirra guerra de pre\u00E7os dos SUVs el\u00E9tricos; veja teste",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/06/24/gwm-lanca-ora-5-por-r-159-mil-e-acirra-guerra-de-precos-dos-suvs-eletricos-veja-teste.ghtml",
-      "date": "Wed, 24 Jun 2026 13:00:17 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta e vai a R$ 5,22, de olho em juros e petr\u00F3leo; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/24/dolar-ibovespa.ghtml",
-      "date": "Wed, 24 Jun 2026 12:00:30 -0000"
     }
   ]
 }
