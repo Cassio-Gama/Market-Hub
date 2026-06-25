@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170506.66,
-      "change": -0.44,
-      "changeStr": "-0.44%"
+      "price": 172988.27,
+      "change": 1.46,
+      "changeStr": "\u002B1.46%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.29,
-      "change": -2.64,
-      "changeStr": "-2.64%"
+      "price": 38.55,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.73,
-      "change": -2.08,
-      "changeStr": "-2.08%"
+      "price": 78.13,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.97,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "price": 41.94,
+      "change": 2.37,
+      "changeStr": "\u002B2.37%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.65,
-      "change": -1.07,
-      "changeStr": "-1.07%"
+      "price": 17.99,
+      "change": 1.93,
+      "changeStr": "\u002B1.93%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.73,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 20.15,
+      "change": 2.13,
+      "changeStr": "\u002B2.13%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.36,
-      "change": -1.36,
-      "changeStr": "-1.36%"
+      "price": 4.26,
+      "change": -2.29,
+      "changeStr": "-2.29%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.38,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 16.36,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.61,
-      "change": 1.97,
-      "changeStr": "\u002B1.97%"
+      "price": 46.98,
+      "change": 0.79,
+      "changeStr": "\u002B0.79%"
     }
   ],
   "news": [
     {
-      "title": "Com est\u00EDmulos \u00E0 economia em um ano eleitoral, BC eleva para 2% estimativa de alta do PIB em 2026 ",
+      "title": "Sicupira, Saggioro e filho de Lemann: quem s\u00E3o os alvos da PF no caso de fraude na Americanas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/25/banco-central-eleva-para-2percent-estimativa-de-alta-do-pib-em-2026.ghtml",
-      "date": "Thu, 25 Jun 2026 11:12:21 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/25/quem-sao-os-alvos-da-pf.ghtml",
+      "date": "Thu, 25 Jun 2026 14:07:34 -0000"
     },
     {
-      "title": "IBM anuncia primeiro chip do mundo abaixo de 1 nan\u00F4metro; entenda o que isso significa",
+      "title": "Micron supera Meta e Tesla em valor de mercado impulsionada pela demanda por infraestrutura de IA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/06/25/ibm-anuncia-primeiro-chip-sub-1-nanometro-do-mundo.ghtml",
-      "date": "Thu, 25 Jun 2026 10:00:12 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/25/micron-supera-meta-e-tesla-em-valor-de-mercado-impulsionada-pela-demanda-por-infraestrutura-de-ia.ghtml",
+      "date": "Thu, 25 Jun 2026 14:02:09 -0000"
     },
     {
-      "title": "Mais ovelhas do que gente? Fa\u00E7a o QUIZ e descubra curiosidades do agro das sele\u00E7\u00F5es da Copa do Mundo",
+      "title": "Com alta do petr\u00F3leo, arrecada\u00E7\u00E3o federal soma R$ 266,8 bilh\u00F5es em maio e bate recorde para o m\u00EAs",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/25/mais-ovelhas-do-que-gente-faca-o-quiz-e-descubra-curiosidades-do-agro-das-selecoes-da-copa-do-mundo.ghtml",
-      "date": "Thu, 25 Jun 2026 08:03:25 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/25/arrecadacao-federal-soma-r-2668-bilhoes-em-maio-com-alta-de-64percent-e-bate-recorde-para-o-mes.ghtml",
+      "date": "Thu, 25 Jun 2026 14:01:06 -0000"
     },
     {
-      "title": "Primeira emiss\u00E3o de t\u00EDtulos p\u00FAblicos do Brasil na China deve arrecadar at\u00E9  5 bilh\u00F5es de yuans, diz ag\u00EAncia",
+      "title": "Mais vagas, sal\u00E1rios menores: seis dos 10 setores que mais empregam pagam abaixo da m\u00E9dia nacional",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/25/primeira-emissao-de-titulos-publicos-do-brasil-na-china-deve-arrecadar-ate-5-bilhoes-de-yuans-diz-agencia.ghtml",
-      "date": "Thu, 25 Jun 2026 05:28:35 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/25/cempre-ibge.ghtml",
+      "date": "Thu, 25 Jun 2026 13:00:12 -0000"
     },
     {
-      "title": "Recebeu um dinheiro extra? Veja quando vale mais amortizar o financiamento ou investir",
+      "title": "Quem paga mais no Brasil? Veja o sal\u00E1rio m\u00E9dio no seu estado",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/06/25/recebeu-um-dinheiro-extra-veja-quando-vale-mais-amortizar-o-financiamento-ou-investir.ghtml",
-      "date": "Thu, 25 Jun 2026 05:00:13 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/25/quem-paga-mais-no-brasil-veja-o-salario-medio-no-seu-estado.ghtml",
+      "date": "Thu, 25 Jun 2026 13:00:09 -0000"
     },
     {
-      "title": "Novo lote de valores esquecidos do antigo fundo PIS/Pasep come\u00E7a a ser liberado hoje; saiba se tem direito",
+      "title": "Jovens permanecem menos tempo nos empregos e gera\u00E7\u00E3o \u0027nem-nem\u0027 volta a crescer; entenda o que est\u00E1 por tr\u00E1s ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/25/novo-lote-de-valores-esquecidos-do-antigo-fundo-pispasep-comeca-a-ser-liberado-hoje-saiba-se-tem-direito.ghtml",
-      "date": "Thu, 25 Jun 2026 03:00:47 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/25/jovens-emprego-geracao-nem-nem-avanca.ghtml",
+      "date": "Thu, 25 Jun 2026 13:00:08 -0000"
     },
     {
-      "title": "V\u00EDdeo de Michelle \u00E9 resposta \u00E0 press\u00E3o para ajudar Fl\u00E1vio com evang\u00E9licos e mulheres",
+      "title": "Apple aumenta pre\u00E7os de MacBooks e iPads ap\u00F3s disparada no custo de mem\u00F3ria",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/06/25/video-e-resposta-de-michelle-a-pressao-para-ajudar-flavio-com-evangelicos-e-mulheres.ghtml",
-      "date": "Thu, 25 Jun 2026 03:00:29 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/25/apple-aumenta-precos-de-macbooks-e-ipads-apos-disparada-no-custo-de-memoria.ghtml",
+      "date": "Thu, 25 Jun 2026 12:52:07 -0000"
     },
     {
-      "title": "Copa do Mundo 2026: Com Neymar em campo, Brasil vence a Esc\u00F3cia, avan\u00E7a para o mata-mata e gera memes na internet",
+      "title": "Fraude nas Americanas: PF mira acionistas bilion\u00E1rios e executivos de bancos na 2\u00AA fase da opera\u00E7\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/24/memes-brasil-escociae-piadas-entre-internautas-do-brasil.ghtml",
-      "date": "Wed, 24 Jun 2026 22:38:57 -0000"
+      "url": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/06/25/fraude-nas-americanas-pf-mira-acionistas-bilionarios-e-executivos-de-bancos-na-2a-fase-da-operacao.ghtml",
+      "date": "Thu, 25 Jun 2026 12:36:27 -0000"
     },
     {
-      "title": "Dona da Chevrolet vai investir R$ 3,5 bilh\u00F5es no Brasil para renovar f\u00E1bricas e lan\u00E7ar carros h\u00EDbridos",
+      "title": "IPCA-15 sobe 0,62% em maio, puxado por alimentos e conta de luz",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/06/24/chevrolet-gm-investir-brasil.ghtml",
-      "date": "Wed, 24 Jun 2026 20:37:36 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/25/ipca-15-maio.ghtml",
+      "date": "Thu, 25 Jun 2026 12:22:33 -0000"
     },
     {
-      "title": "St Marche pede recupera\u00E7\u00E3o judicial e anuncia venda para grupo chileno dono do Giga",
+      "title": "Braskem abre negocia\u00E7\u00E3o com credores e pede prote\u00E7\u00E3o na Justi\u00E7a para reestruturar d\u00EDvida",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/24/cencosudo-acordo-st-marche.ghtml",
-      "date": "Wed, 24 Jun 2026 20:28:58 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/06/25/braskem-inicia-processo-de-mediacao-e-pede-cautelar-para-protecao-contra-credores-financeiros.ghtml",
+      "date": "Thu, 25 Jun 2026 12:16:49 -0000"
     }
   ]
 }
