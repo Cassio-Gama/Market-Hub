@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172699.56,
-      "change": 1.29,
-      "changeStr": "\u002B1.29%"
+      "price": 172048.17,
+      "change": 0.9,
+      "changeStr": "\u002B0.90%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.51,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
+      "price": 38.43,
+      "change": 0.37,
+      "changeStr": "\u002B0.37%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.56,
-      "change": 1.07,
-      "changeStr": "\u002B1.07%"
+      "price": 78.53,
+      "change": 1.03,
+      "changeStr": "\u002B1.03%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.87,
-      "change": 2.2,
-      "changeStr": "\u002B2.20%"
+      "price": 41.74,
+      "change": 1.88,
+      "changeStr": "\u002B1.88%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.95,
-      "change": 1.7,
-      "changeStr": "\u002B1.70%"
+      "price": 17.59,
+      "change": -0.34,
+      "changeStr": "-0.34%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.12,
-      "change": 1.98,
-      "changeStr": "\u002B1.98%"
+      "price": 20.04,
+      "change": 1.57,
+      "changeStr": "\u002B1.57%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.06,
-      "change": -6.88,
-      "changeStr": "-6.88%"
+      "price": 4.39,
+      "change": 0.69,
+      "changeStr": "\u002B0.69%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.36,
-      "change": -0.12,
-      "changeStr": "-0.12%"
+      "price": 16.37,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.64,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 46.33,
+      "change": -0.6,
+      "changeStr": "-0.60%"
     }
   ],
   "news": [
+    {
+      "title": "Conta de luz deve ter al\u00EDvio em agosto com R$767,2 mi de \u0022b\u00F4nus de Itaipu\u0022; veja quem recebe",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/25/conta-de-luz-deve-ter-alivio-em-agosto-com-r7672-mi-de-bonus-de-itaipu-veja-quem-recebe.ghtml",
+      "date": "Thu, 25 Jun 2026 18:45:21 -0000"
+    },
     {
       "title": "Presidente do BC reage a questionamentos dos EUA ao PIX: \u0027Algo que ter\u00E1 de ser aceito\u0027",
       "source": "G1 Economia",
@@ -105,16 +111,10 @@
       "date": "Thu, 25 Jun 2026 13:00:09 -0000"
     },
     {
-      "title": "Jovens permanecem menos tempo nos empregos e gera\u00E7\u00E3o \u0027nem-nem\u0027 volta a crescer; entenda o que est\u00E1 por tr\u00E1s ",
+      "title": "Brasil tem 6,2 milh\u00F5es de jovens que n\u00E3o estudam nem trabalham; maioria n\u00E3o fica nem um ano no emprego ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/25/jovens-emprego-geracao-nem-nem-avanca.ghtml",
       "date": "Thu, 25 Jun 2026 13:00:08 -0000"
-    },
-    {
-      "title": "Apple aumenta pre\u00E7os de MacBooks e iPads ap\u00F3s disparada no custo de mem\u00F3ria",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/25/apple-aumenta-precos-de-macbooks-e-ipads-apos-disparada-no-custo-de-memoria.ghtml",
-      "date": "Thu, 25 Jun 2026 12:52:07 -0000"
     }
   ]
 }
