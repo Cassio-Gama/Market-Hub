@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172048.17,
-      "change": 0.9,
-      "changeStr": "\u002B0.90%"
+      "price": 171990.2,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.43,
-      "change": 0.37,
-      "changeStr": "\u002B0.37%"
+      "price": 38.45,
+      "change": 0.42,
+      "changeStr": "\u002B0.42%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.53,
-      "change": 1.03,
-      "changeStr": "\u002B1.03%"
+      "price": 78.66,
+      "change": 1.2,
+      "changeStr": "\u002B1.20%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.74,
-      "change": 1.88,
-      "changeStr": "\u002B1.88%"
+      "price": 41.7,
+      "change": 1.78,
+      "changeStr": "\u002B1.78%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.59,
-      "change": -0.34,
-      "changeStr": "-0.34%"
+      "price": 17.62,
+      "change": -0.17,
+      "changeStr": "-0.17%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.04,
-      "change": 1.57,
-      "changeStr": "\u002B1.57%"
+      "price": 20.05,
+      "change": 1.62,
+      "changeStr": "\u002B1.62%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.39,
-      "change": 0.69,
-      "changeStr": "\u002B0.69%"
+      "price": 4.42,
+      "change": 1.38,
+      "changeStr": "\u002B1.38%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.37,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 16.39,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.33,
-      "change": -0.6,
-      "changeStr": "-0.60%"
+      "price": 46.5,
+      "change": -0.24,
+      "changeStr": "-0.24%"
     }
   ],
   "news": [
+    {
+      "title": "Terremoto na Venezuela: como celulares conseguiram alertar usu\u00E1rios antes dos tremores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/25/terremoto-na-venezuela-alertas-celulares.ghtml",
+      "date": "Thu, 25 Jun 2026 20:35:34 -0000"
+    },
     {
       "title": "Conta de luz deve ter al\u00EDvio em agosto com R$767,2 mi de \u0022b\u00F4nus de Itaipu\u0022; veja quem recebe",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/25/quem-paga-mais-no-brasil-veja-o-salario-medio-no-seu-estado.ghtml",
       "date": "Thu, 25 Jun 2026 13:00:09 -0000"
-    },
-    {
-      "title": "Brasil tem 6,2 milh\u00F5es de jovens que n\u00E3o estudam nem trabalham; maioria n\u00E3o fica nem um ano no emprego ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/25/jovens-emprego-geracao-nem-nem-avanca.ghtml",
-      "date": "Thu, 25 Jun 2026 13:00:08 -0000"
     }
   ]
 }
