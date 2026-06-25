@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172988.27,
-      "change": 1.46,
-      "changeStr": "\u002B1.46%"
+      "price": 172699.56,
+      "change": 1.29,
+      "changeStr": "\u002B1.29%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.55,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 38.51,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.13,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
+      "price": 78.56,
+      "change": 1.07,
+      "changeStr": "\u002B1.07%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.94,
-      "change": 2.37,
-      "changeStr": "\u002B2.37%"
+      "price": 41.87,
+      "change": 2.2,
+      "changeStr": "\u002B2.20%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.99,
-      "change": 1.93,
-      "changeStr": "\u002B1.93%"
+      "price": 17.95,
+      "change": 1.7,
+      "changeStr": "\u002B1.70%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.15,
-      "change": 2.13,
-      "changeStr": "\u002B2.13%"
+      "price": 20.12,
+      "change": 1.98,
+      "changeStr": "\u002B1.98%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.26,
-      "change": -2.29,
-      "changeStr": "-2.29%"
+      "price": 4.06,
+      "change": -6.88,
+      "changeStr": "-6.88%"
     },
     {
       "symbol": "ABEV3",
@@ -50,14 +50,32 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 46.98,
-      "change": 0.79,
-      "changeStr": "\u002B0.79%"
+      "price": 46.64,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     }
   ],
   "news": [
     {
-      "title": "Sicupira, Saggioro e filho de Lemann: quem s\u00E3o os alvos da PF no caso de fraude na Americanas",
+      "title": "Presidente do BC reage a questionamentos dos EUA ao PIX: \u0027Algo que ter\u00E1 de ser aceito\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/25/varios-outros-paises-tem-me-parece-que-e-algo-que-tera-de-ser-aceito-diz-presidente-do-bc-ao-questionamento-dos-eua-ao-pix.ghtml",
+      "date": "Thu, 25 Jun 2026 16:25:11 -0000"
+    },
+    {
+      "title": "Diretor do BC defende decis\u00E3o do Copom que cortou taxa de juros: \u0027dobrar ou triplicar Selic n\u00E3o abriria estreito de Ormuz\u2019",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/25/diretor-do-bc-defende-decisao-do-copom-que-cortou-taxa-de-juros-dobrar-ou-triplicar-selic-nao-abriria-estreito-de-ormuz.ghtml",
+      "date": "Thu, 25 Jun 2026 15:28:04 -0000"
+    },
+    {
+      "title": "Paramount est\u00E1 pronta para vender joint venture com Universal por compra da Warner, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/25/paramount-esta-pronta-para-vender-joint-venture-com-universal-para-fechar-acordo-com-warner-diz-agencia.ghtml",
+      "date": "Thu, 25 Jun 2026 15:22:37 -0000"
+    },
+    {
+      "title": "Sicupira, Saggioro e filho de Lemann: quem s\u00E3o os alvos da PF no caso de fraude nas Americanas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/25/quem-sao-os-alvos-da-pf.ghtml",
       "date": "Thu, 25 Jun 2026 14:07:34 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/06/25/apple-aumenta-precos-de-macbooks-e-ipads-apos-disparada-no-custo-de-memoria.ghtml",
       "date": "Thu, 25 Jun 2026 12:52:07 -0000"
-    },
-    {
-      "title": "Fraude nas Americanas: PF mira acionistas bilion\u00E1rios e executivos de bancos na 2\u00AA fase da opera\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/06/25/fraude-nas-americanas-pf-mira-acionistas-bilionarios-e-executivos-de-bancos-na-2a-fase-da-operacao.ghtml",
-      "date": "Thu, 25 Jun 2026 12:36:27 -0000"
-    },
-    {
-      "title": "IPCA-15 sobe 0,62% em maio, puxado por alimentos e conta de luz",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/25/ipca-15-maio.ghtml",
-      "date": "Thu, 25 Jun 2026 12:22:33 -0000"
-    },
-    {
-      "title": "Braskem abre negocia\u00E7\u00E3o com credores e pede prote\u00E7\u00E3o na Justi\u00E7a para reestruturar d\u00EDvida",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/25/braskem-inicia-processo-de-mediacao-e-pede-cautelar-para-protecao-contra-credores-financeiros.ghtml",
-      "date": "Thu, 25 Jun 2026 12:16:49 -0000"
     }
   ]
 }
