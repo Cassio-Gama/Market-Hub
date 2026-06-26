@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173682.61,
-      "change": 0.98,
-      "changeStr": "\u002B0.98%"
+      "price": 173295.5,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.06,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 37.96,
+      "change": -1.27,
+      "changeStr": "-1.27%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.61,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 78,
+      "change": -0.84,
+      "changeStr": "-0.84%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.45,
-      "change": 1.8,
-      "changeStr": "\u002B1.80%"
+      "price": 42.34,
+      "change": 1.53,
+      "changeStr": "\u002B1.53%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.01,
-      "change": 2.21,
-      "changeStr": "\u002B2.21%"
+      "price": 17.97,
+      "change": 1.99,
+      "changeStr": "\u002B1.99%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.39,
-      "change": 1.7,
-      "changeStr": "\u002B1.70%"
+      "price": 20.3,
+      "change": 1.25,
+      "changeStr": "\u002B1.25%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.39,
-      "change": -0.68,
-      "changeStr": "-0.68%"
+      "price": 4.43,
+      "change": 0.23,
+      "changeStr": "\u002B0.23%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.71,
-      "change": 1.95,
-      "changeStr": "\u002B1.95%"
+      "price": 16.69,
+      "change": 1.83,
+      "changeStr": "\u002B1.83%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.04,
-      "change": 1.16,
-      "changeStr": "\u002B1.16%"
+      "price": 47.11,
+      "change": 1.31,
+      "changeStr": "\u002B1.31%"
     }
   ],
   "news": [
+    {
+      "title": "Conta de luz: bandeira tarif\u00E1ria julho continuar\u00E1 amarela, decide Aneel",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/26/bandeira-tarifaria-julho.ghtml",
+      "date": "Fri, 26 Jun 2026 19:32:09 -0000"
+    },
     {
       "title": "PIX cresce 20% e lidera pagamentos em canais digitais; veja como criar uma chave ",
       "source": "G1 Economia",
@@ -63,7 +69,7 @@
       "date": "Fri, 26 Jun 2026 17:53:49 -0000"
     },
     {
-      "title": "Consignado CLT: governo regulamenta uso do FGTS como garantia; entidades de defesa do consumidor recomendam cautela",
+      "title": "Consignado CLT: governo libera uso do FGTS como garantia com juro limitado a 1,99% ao m\u00EAs; entidades sugerem cautela",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/26/consignado-clt-governo-regulamenta-uso-do-fgts-como-garantia-entidades-de-defesa-do-consumidor-recomendam-cautela.ghtml",
       "date": "Fri, 26 Jun 2026 17:47:34 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/26/imposto-rei-charles.ghtml",
       "date": "Fri, 26 Jun 2026 14:25:01 -0000"
-    },
-    {
-      "title": "Uni\u00E3o Europeia planeja taxar exporta\u00E7\u00E3o de sucata de alum\u00EDnio, diz jornal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/26/uniao-europeia-taxar-exportacao-sucata-aluminio.ghtml",
-      "date": "Fri, 26 Jun 2026 14:07:47 -0000"
     }
   ]
 }
