@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173108.3,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 173682.61,
+      "change": 0.98,
+      "changeStr": "\u002B0.98%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.03,
-      "change": -1.09,
-      "changeStr": "-1.09%"
+      "price": 38.06,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.26,
-      "change": -0.51,
-      "changeStr": "-0.51%"
+      "price": 78.61,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "ITUB4",
@@ -26,36 +26,78 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 18.02,
-      "change": 2.27,
-      "changeStr": "\u002B2.27%"
+      "price": 18.01,
+      "change": 2.21,
+      "changeStr": "\u002B2.21%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.34,
-      "change": 1.45,
-      "changeStr": "\u002B1.45%"
+      "price": 20.39,
+      "change": 1.7,
+      "changeStr": "\u002B1.70%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.42,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 4.39,
+      "change": -0.68,
+      "changeStr": "-0.68%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.56,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
+      "price": 16.71,
+      "change": 1.95,
+      "changeStr": "\u002B1.95%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.79,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 47.04,
+      "change": 1.16,
+      "changeStr": "\u002B1.16%"
     }
   ],
   "news": [
+    {
+      "title": "PIX cresce 20% e lidera pagamentos em canais digitais; veja como criar uma chave ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/26/pix-pagamentos-canais-digitais.ghtml",
+      "date": "Fri, 26 Jun 2026 17:53:49 -0000"
+    },
+    {
+      "title": "Consignado CLT: governo regulamenta uso do FGTS como garantia; entidades de defesa do consumidor recomendam cautela",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/26/consignado-clt-governo-regulamenta-uso-do-fgts-como-garantia-entidades-de-defesa-do-consumidor-recomendam-cautela.ghtml",
+      "date": "Fri, 26 Jun 2026 17:47:34 -0000"
+    },
+    {
+      "title": "ANP muda regras do mercado de g\u00E1s; entenda como isso pode afetar suas contas em casa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/26/anp-muda-regras-do-mercado-de-gas.ghtml",
+      "date": "Fri, 26 Jun 2026 17:00:08 -0000"
+    },
+    {
+      "title": "Trump amea\u00E7a tarifa de 100% a pa\u00EDses que taxarem servi\u00E7os digitais de empresas americanas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/26/trump-ameaca-tarifa-de-100percent-a-paises-que-taxarem-servicos-digitais-de-empresas-dos-eua.ghtml",
+      "date": "Fri, 26 Jun 2026 16:29:15 -0000"
+    },
+    {
+      "title": "Como a fam\u00EDlia real brit\u00E2nica \u00E9 financiada e em que investe seus recursos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/26/como-a-familia-real-britanica-e-financiada-e-em-que-investe-seus-recursos.ghtml",
+      "date": "Fri, 26 Jun 2026 16:22:27 -0000"
+    },
+    {
+      "title": "Quer criar minhocas? Veja guia para iniciantes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/06/26/quer-criar-minhocas-veja-guia-para-iniciantes.ghtml",
+      "date": "Fri, 26 Jun 2026 16:03:18 -0000"
+    },
+    {
+      "title": "\nO casal argentino que viajou 80 mil quil\u00F4metros de Kombi para ver Messi\n",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/26/o-casal-argentino-que-viajou-80-mil-quilometros-de-kombi-para-ver-messi.ghtml",
+      "date": "Fri, 26 Jun 2026 15:31:47 -0000"
+    },
     {
       "title": "Michelle alertou sobre v\u00EDdeos e chegou a ser procurada por Flavio antes de publica\u00E7\u00E3o ",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/26/uniao-europeia-taxar-exportacao-sucata-aluminio.ghtml",
       "date": "Fri, 26 Jun 2026 14:07:47 -0000"
-    },
-    {
-      "title": "Desemprego fica em 5,6% no trimestre at\u00E9 maio, menor taxa para o per\u00EDodo, diz IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/26/desemprego-pnad-maio.ghtml",
-      "date": "Fri, 26 Jun 2026 12:00:29 -0000"
-    },
-    {
-      "title": "D\u00F3lar oscila, de olho em dados de emprego; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/26/dolar-ibovespa.ghtml",
-      "date": "Fri, 26 Jun 2026 12:00:08 -0000"
-    },
-    {
-      "title": "STF suspende multas da NR-1 sobre sa\u00FAde mental no trabalho por 90 dias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/26/stf-suspende-multas-da-nr-1-sobre-saude-mental-no-trabalho-por-90-dias.ghtml",
-      "date": "Fri, 26 Jun 2026 11:44:13 -0000"
-    },
-    {
-      "title": "Governo vai obrigar que propagandas de bets incluam aviso de danos como as de bebidas alco\u00F3licas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/06/26/governo-pretende-limitar-propagandas-de-bets-durante-jogos-da-copa-do-mundo-diz-ministro.ghtml",
-      "date": "Fri, 26 Jun 2026 11:41:10 -0000"
-    },
-    {
-      "title": "Volkswagen planeja cortar at\u00E9 100 mil empregos, diz Financial Times",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/26/volkswagen-planeja-cortar-ate-100-mil-empregos-diz-financial-times.ghtml",
-      "date": "Fri, 26 Jun 2026 11:23:39 -0000"
-    },
-    {
-      "title": "Banco Central decreta liquida\u00E7\u00E3o extrajudicial da Sefer Investimentos, alvo de opera\u00E7\u00E3o da PF no caso Master",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/26/banco-central-decreta-liquidacao-extrajudicial-da-sefer-investimentos.ghtml",
-      "date": "Fri, 26 Jun 2026 11:20:10 -0000"
-    },
-    {
-      "title": "IBGE abre sele\u00E7\u00E3o com mais de 9 mil vagas tempor\u00E1rias; veja como participar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/06/26/ibge-abre-selecao-com-mais-de-9-mil-vagas-temporarias-veja-como-participar.ghtml",
-      "date": "Fri, 26 Jun 2026 08:03:04 -0000"
     }
   ]
 }
