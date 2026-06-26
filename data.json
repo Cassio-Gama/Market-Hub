@@ -2,68 +2,86 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171990.2,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
+      "price": 173108.3,
+      "change": 0.65,
+      "changeStr": "\u002B0.65%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.45,
-      "change": 0.42,
-      "changeStr": "\u002B0.42%"
+      "price": 38.03,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.66,
-      "change": 1.2,
-      "changeStr": "\u002B1.20%"
+      "price": 78.26,
+      "change": -0.51,
+      "changeStr": "-0.51%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.7,
-      "change": 1.78,
-      "changeStr": "\u002B1.78%"
+      "price": 42.45,
+      "change": 1.8,
+      "changeStr": "\u002B1.80%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.62,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 18.02,
+      "change": 2.27,
+      "changeStr": "\u002B2.27%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.05,
-      "change": 1.62,
-      "changeStr": "\u002B1.62%"
+      "price": 20.34,
+      "change": 1.45,
+      "changeStr": "\u002B1.45%"
     },
     {
       "symbol": "MGLU3",
       "price": 4.42,
-      "change": 1.38,
-      "changeStr": "\u002B1.38%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.39,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 16.56,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.5,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 46.79,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     }
   ],
   "news": [
     {
-      "title": "Desemprego fica em 5,6% no trimestre at\u00E9 maio, diz IBGE",
+      "title": "Michelle alertou sobre v\u00EDdeos e chegou a ser procurada por Flavio antes de publica\u00E7\u00E3o ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/06/26/michele-alertou-sobre-videos-e-chegou-a-ser-procurada-por-flavio-antes-de-publicacao.ghtml",
+      "date": "Fri, 26 Jun 2026 15:05:39 -0000"
+    },
+    {
+      "title": "Imposto milion\u00E1rio: quanto o Rei Charles paga e de onde vem sua fortuna",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/26/imposto-rei-charles.ghtml",
+      "date": "Fri, 26 Jun 2026 14:25:01 -0000"
+    },
+    {
+      "title": "Uni\u00E3o Europeia planeja taxar exporta\u00E7\u00E3o de sucata de alum\u00EDnio, diz jornal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/26/uniao-europeia-taxar-exportacao-sucata-aluminio.ghtml",
+      "date": "Fri, 26 Jun 2026 14:07:47 -0000"
+    },
+    {
+      "title": "Desemprego fica em 5,6% no trimestre at\u00E9 maio, menor taxa para o per\u00EDodo, diz IBGE",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/26/desemprego-pnad-maio.ghtml",
       "date": "Fri, 26 Jun 2026 12:00:29 -0000"
     },
     {
-      "title": "D\u00F3lar abre sess\u00E3o desta sexta-feira, de olho em dados de emprego",
+      "title": "D\u00F3lar oscila, de olho em dados de emprego; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/26/dolar-ibovespa.ghtml",
       "date": "Fri, 26 Jun 2026 12:00:08 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/06/26/ibge-abre-selecao-com-mais-de-9-mil-vagas-temporarias-veja-como-participar.ghtml",
       "date": "Fri, 26 Jun 2026 08:03:04 -0000"
-    },
-    {
-      "title": "\u0027Ajoelhei e pedi a Deus que me desse \u00E1gua\u0027: como a irriga\u00E7\u00E3o transformou \u0027corredor da mis\u00E9ria\u0027 em Goi\u00E1s em polo de frutas ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/06/26/ajoelhei-e-pedi-a-deus-que-me-desse-agua-como-a-irrigacao-transformou-corredor-da-miseria-em-goias-em-polo-de-frutas.ghtml",
-      "date": "Fri, 26 Jun 2026 07:00:48 -0000"
-    },
-    {
-      "title": "Mel que pode custar R$ 600 o litro: entenda por que o produto de abelhas sem ferr\u00E3o \u00E9 mais caro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/26/mel-que-pode-custar-r-600-o-litro-entenda-por-que-o-produto-de-abelhas-sem-ferrao-e-mais-caro.ghtml",
-      "date": "Fri, 26 Jun 2026 06:00:51 -0000"
-    },
-    {
-      "title": "Xbox, MacBook e iPad mais caros? Veja quanto os pre\u00E7os v\u00E3o subir neste ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/26/xbox-macbook-e-ipad-mais-caros-veja-quanto-os-precos-vao-subir-neste-ano.ghtml",
-      "date": "Fri, 26 Jun 2026 06:00:37 -0000"
     }
   ]
 }
