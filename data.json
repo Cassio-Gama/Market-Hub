@@ -2,62 +2,86 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173306.95,
-      "change": 0.01,
-      "changeStr": "\u002B0.01%"
+      "price": 173205.34,
+      "change": -0.05,
+      "changeStr": "-0.05%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.23,
-      "change": 0.45,
-      "changeStr": "\u002B0.45%"
+      "price": 38.14,
+      "change": 0.21,
+      "changeStr": "\u002B0.21%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.65,
-      "change": -0.64,
-      "changeStr": "-0.64%"
+      "price": 78.13,
+      "change": -0.03,
+      "changeStr": "-0.03%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.49,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 42.41,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.1,
-      "change": 1,
-      "changeStr": "\u002B1.00%"
+      "price": 18.17,
+      "change": 1.4,
+      "changeStr": "\u002B1.40%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.25,
-      "change": -0.44,
-      "changeStr": "-0.44%"
+      "price": 20.26,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.65,
-      "change": 4.73,
-      "changeStr": "\u002B4.73%"
+      "price": 4.64,
+      "change": 4.5,
+      "changeStr": "\u002B4.50%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.57,
-      "change": -0.96,
-      "changeStr": "-0.96%"
+      "price": 16.59,
+      "change": -0.84,
+      "changeStr": "-0.84%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.64,
-      "change": -0.55,
-      "changeStr": "-0.55%"
+      "price": 46.79,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     }
   ],
   "news": [
     {
-      "title": "Trump comemora decis\u00E3o da Suprema Corte que lhe permite demitir funcion\u00E1rios de ag\u00EAncias federais",
+      "title": "Passagem a\u00E9rea: voo dom\u00E9stico sobe 11% em um ano e custa, em m\u00E9dia, mais de R$ 630 no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/29/passagem-aerea-dispara-e-voo-domestico-custa-mais-de-630.ghtml",
+      "date": "Mon, 29 Jun 2026 20:25:25 -0000"
+    },
+    {
+      "title": "IA do Google mostra Brasil eliminado antes do fim do jogo e erra placar contra o Jap\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/29/ia-do-google-mostra-brasil-eliminado-antes-do-fim-do-jogo-e-erra-placar-contra-o-japao.ghtml",
+      "date": "Mon, 29 Jun 2026 20:03:30 -0000"
+    },
+    {
+      "title": "Matem\u00E1tico \u0027guru das Copas\u0027 errou: Brasil elimina Jap\u00E3o e contraria \u0027previs\u00E3o\u0027 ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/29/matematico-guru-das-copas-errou-brasil-elimina-japao-e-contraria-previsao.ghtml",
+      "date": "Mon, 29 Jun 2026 19:41:53 -0000"
+    },
+    {
+      "title": "Copa do Mundo: Brasil pode ter mais tr\u00EAs jogos em dias \u00FAteis; veja como fica expediente e sal\u00E1rios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/29/brasil-poximos-jogos-dias-uteis-expediente-salarios.ghtml",
+      "date": "Mon, 29 Jun 2026 19:27:31 -0000"
+    },
+    {
+      "title": "Suprema Corte derruba precedente de quase 100 anos e amplia poder de Trump sobre ag\u00EAncias independentes",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/06/29/trump-comemora-decisao-da-suprema-corte-que-lhe-permite-demitir-funcionarios-de-agencias-federais.ghtml",
       "date": "Mon, 29 Jun 2026 17:43:25 -0000"
@@ -69,7 +93,7 @@
       "date": "Mon, 29 Jun 2026 17:36:01 -0000"
     },
     {
-      "title": "Land Rover faz recall de 250 mil ve\u00EDculos por defeito em airbag; unidades do Brasil tamb\u00E9m foram afetadas",
+      "title": "Land Rover do Brasil vai fazer recall por defeito em airbag; 250 mil carros foram afetados nos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/06/29/land-rover-faz-recall-de-250-mil-veiculos-por-defeito-em-airbag-nos-estados-unidos-brasil-tambem-faz-parte-da-campanha.ghtml",
       "date": "Mon, 29 Jun 2026 17:23:01 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/29/desenrola-adimplentes-quem-aderir-ao-programa-nao-podera-usar-bets-por-seis-meses.ghtml",
       "date": "Mon, 29 Jun 2026 16:27:59 -0000"
-    },
-    {
-      "title": "Michelle deixa de seguir enteados e publica vers\u00EDculos em meio \u00E0 crise na fam\u00EDlia Bolsonaro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/06/29/michelle-bolsonaro-deixa-de-seguir-enteados-e-publica-versiculos-em-meio-a-crise-na-familia-bolsonaro.ghtml",
-      "date": "Mon, 29 Jun 2026 15:37:01 -0000"
-    },
-    {
-      "title": "Suprema Corte dos EUA pro\u00EDbe Trump de demitir diretora do Fed",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/29/suprema-corte-eua-trump-fed.ghtml",
-      "date": "Mon, 29 Jun 2026 14:40:51 -0000"
-    },
-    {
-      "title": "Como saber se voc\u00EA ganha bem ou mal? (Dica: o valor do sal\u00E1rio n\u00E3o conta a hist\u00F3ria toda...)",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/06/29/como-saber-se-voce-ganha-bem-ou-mal-dica-o-valor-do-salario-nao-conta-a-historia-toda.ghtml",
-      "date": "Mon, 29 Jun 2026 14:32:44 -0000"
-    },
-    {
-      "title": "De ator a empreendedor: ele criou cabine ac\u00FAstica port\u00E1til e fatura R$ 15 mil por m\u00EAs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/06/29/criou-cabine-acustica-portatil-e-fatura-r-15-mil-por-mes.ghtml",
-      "date": "Mon, 29 Jun 2026 14:13:08 -0000"
     }
   ]
 }
