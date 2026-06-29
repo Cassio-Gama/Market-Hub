@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172781.66,
-      "change": -0.3,
-      "changeStr": "-0.30%"
+      "price": 173306.95,
+      "change": 0.01,
+      "changeStr": "\u002B0.01%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.04,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 38.23,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.2,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 77.65,
+      "change": -0.64,
+      "changeStr": "-0.64%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.48,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
+      "price": 42.49,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.99,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 18.1,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.15,
-      "change": -0.93,
-      "changeStr": "-0.93%"
+      "price": 20.25,
+      "change": -0.44,
+      "changeStr": "-0.44%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.6,
-      "change": 3.6,
-      "changeStr": "\u002B3.60%"
+      "price": 4.65,
+      "change": 4.73,
+      "changeStr": "\u002B4.73%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.69,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 16.57,
+      "change": -0.96,
+      "changeStr": "-0.96%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.27,
-      "change": -1.34,
-      "changeStr": "-1.34%"
+      "price": 46.64,
+      "change": -0.55,
+      "changeStr": "-0.55%"
     }
   ],
   "news": [
+    {
+      "title": "Trump comemora decis\u00E3o da Suprema Corte que lhe permite demitir funcion\u00E1rios de ag\u00EAncias federais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/06/29/trump-comemora-decisao-da-suprema-corte-que-lhe-permite-demitir-funcionarios-de-agencias-federais.ghtml",
+      "date": "Mon, 29 Jun 2026 17:43:25 -0000"
+    },
+    {
+      "title": "iFood pede investiga\u00E7\u00E3o sobre estrat\u00E9gia da 99Food e Keeta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/29/ifood-investigacao-99food-keeta.ghtml",
+      "date": "Mon, 29 Jun 2026 17:36:01 -0000"
+    },
+    {
+      "title": "Land Rover faz recall de 250 mil ve\u00EDculos por defeito em airbag; unidades do Brasil tamb\u00E9m foram afetadas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/29/land-rover-faz-recall-de-250-mil-veiculos-por-defeito-em-airbag-nos-estados-unidos-brasil-tambem-faz-parte-da-campanha.ghtml",
+      "date": "Mon, 29 Jun 2026 17:23:01 -0000"
+    },
+    {
+      "title": "Cosan, dona da Rumo, avalia vender fatia na empresa para reduzir d\u00EDvida",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/29/cosan-dona-da-rumo-e-socia-da-raizen-avalia-vender-fatia-na-rumo-para-reduzir-divida.ghtml",
+      "date": "Mon, 29 Jun 2026 17:20:33 -0000"
+    },
+    {
+      "title": "Lula se encontra com Hugo Motta e entrega projeto que amplia benef\u00EDcios para MEIs   ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/06/29/lula-se-encontra-com-hugo-motta-e-entrega-projeto-que-amplia-beneficios-para-meis.ghtml",
+      "date": "Mon, 29 Jun 2026 17:07:57 -0000"
+    },
+    {
+      "title": "Desenrola Adimplentes: quem aderir ao programa n\u00E3o poder\u00E1 usar bets por seis meses",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/29/desenrola-adimplentes-quem-aderir-ao-programa-nao-podera-usar-bets-por-seis-meses.ghtml",
+      "date": "Mon, 29 Jun 2026 16:27:59 -0000"
+    },
     {
       "title": "Michelle deixa de seguir enteados e publica vers\u00EDculos em meio \u00E0 crise na fam\u00EDlia Bolsonaro",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/06/29/criou-cabine-acustica-portatil-e-fatura-r-15-mil-por-mes.ghtml",
       "date": "Mon, 29 Jun 2026 14:13:08 -0000"
-    },
-    {
-      "title": "Desenrola Adimplentes: governo lan\u00E7a etapa focada em informais que pagam d\u00EDvidas em dia e benefici\u00E1rios do Fies; veja regras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/29/desenrola-adimplentes-governo-lanca-nova-etapa-do-programa-para-trabalhadores-informal-e-empreendedores.ghtml",
-      "date": "Mon, 29 Jun 2026 14:05:36 -0000"
-    },
-    {
-      "title": "TCU recomenda melhorias no sistema de concess\u00E3o autom\u00E1tica de benef\u00EDcios do INSS",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/06/29/tcu-recomenda-melhorias-no-sistema-de-concessao-automatica-de-beneficios-do-inss.ghtml",
-      "date": "Mon, 29 Jun 2026 14:00:13 -0000"
-    },
-    {
-      "title": "Campo de B\u00FAzios bate recorde e atinge 1,2 milh\u00E3o de barris por dia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/29/campo-de-buzios-petroleo.ghtml",
-      "date": "Mon, 29 Jun 2026 13:57:17 -0000"
-    },
-    {
-      "title": "El Ni\u00F1o pode beneficiar safras do Brasil e na Argentina, diz relat\u00F3rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/29/el-nino-safras-brasil-e-argentina.ghtml",
-      "date": "Mon, 29 Jun 2026 13:39:13 -0000"
-    },
-    {
-      "title": "Oriente M\u00E9dio mant\u00E9m embarques de petr\u00F3leo e g\u00E1s apesar de ataques no Estreito de Ormuz nos \u00FAltimos dias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/29/oriente-medio-mantem-embarques-de-petroleo-e-gas-apesar-de-ataques-no-estreito-de-ormuz.ghtml",
-      "date": "Mon, 29 Jun 2026 13:31:06 -0000"
-    },
-    {
-      "title": "Contas do governo t\u00EAm d\u00E9ficit de R$ 53 bilh\u00F5es em maio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/29/contas-do-governo-tem-deficit-de-r-53-bilhoes-em-maio.ghtml",
-      "date": "Mon, 29 Jun 2026 12:38:17 -0000"
     }
   ]
 }
