@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172451.73,
-      "change": -0.44,
-      "changeStr": "-0.44%"
+      "price": 172024.12,
+      "change": -0.68,
+      "changeStr": "-0.68%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.94,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 37.8,
+      "change": -0.89,
+      "changeStr": "-0.89%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.19,
-      "change": 0.08,
-      "changeStr": "\u002B0.08%"
+      "price": 77.88,
+      "change": -0.32,
+      "changeStr": "-0.32%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.45,
-      "change": 0.09,
-      "changeStr": "\u002B0.09%"
+      "price": 42.18,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.12,
-      "change": -0.28,
-      "changeStr": "-0.28%"
+      "price": 18.1,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20,
-      "change": -1.28,
-      "changeStr": "-1.28%"
+      "price": 19.91,
+      "change": -1.73,
+      "changeStr": "-1.73%"
     },
     {
       "symbol": "MGLU3",
@@ -44,18 +44,48 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 16.35,
-      "change": -1.45,
-      "changeStr": "-1.45%"
+      "price": 16.29,
+      "change": -1.81,
+      "changeStr": "-1.81%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.03,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
+      "price": 46.91,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     }
   ],
   "news": [
+    {
+      "title": "EUA pedem aval do governo Lula para indica\u00E7\u00E3o de Daniel Perez como embaixador no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/06/30/eua-pedem-pedem-aval-do-governo-lula-para-indicacao-de-daniel-perez-como-embaixador.ghtml",
+      "date": "Tue, 30 Jun 2026 19:45:23 -0000"
+    },
+    {
+      "title": "GWM confirma nova f\u00E1brica no Esp\u00EDrito Santo; ORA 5 ser\u00E1 um dos modelos produzidos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/06/30/gwm-confirma-nova-fabrica-no-espirito-santo.ghtml",
+      "date": "Tue, 30 Jun 2026 19:34:31 -0000"
+    },
+    {
+      "title": "Governo anuncia retirada de parte da subven\u00E7\u00E3o ao diesel a partir de quarta; medida semelhante para gasolina deve ocorrer em breve",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/30/governo-anuncia-retirada-de-parte-da-subvencao-ao-diesel-a-partir-de-quarta-medida-semelhante-para-gasolina-deve-ocorrer-em-breve.ghtml",
+      "date": "Tue, 30 Jun 2026 19:21:08 -0000"
+    },
+    {
+      "title": "Uber amplia categoria de viagens com motoristas mulheres para todo o Brasil; veja como usar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/30/uber-amplia-categoria-de-viagens-com-motoristas-mulheres-para-todo-o-brasil-veja-como-usar.ghtml",
+      "date": "Tue, 30 Jun 2026 18:33:14 -0000"
+    },
+    {
+      "title": "Fila do INSS recua para 1,8 milh\u00E3o de pedidos, o menor patamar em 21 meses, segundo o \u00F3rg\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/30/fila-do-inss-recua-para-18-milhao-de-pedidos-o-menor-patamar-em-21-meses-segundo-o-orgao.ghtml",
+      "date": "Tue, 30 Jun 2026 18:31:49 -0000"
+    },
     {
       "title": "Justi\u00E7a dos EUA mant\u00E9m processo que acusa Meta de viciar crian\u00E7as no Facebook e Instagram",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/30/mercosul-critica-assimetrias-com-ue-e-prepara-negociacoes-comerciais-com-a-china.ghtml",
       "date": "Tue, 30 Jun 2026 15:40:54 -0000"
-    },
-    {
-      "title": "Jogo do Brasil faz consumo de energia cair e obriga ONS a reduzir gera\u00E7\u00E3o e\u00F3lica e solar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/30/jogo-do-brasil-faz-consumo-de-energia-cair-e-obriga-ons-a-reduzir-geracao-eolica-e-solar.ghtml",
-      "date": "Tue, 30 Jun 2026 15:21:22 -0000"
-    },
-    {
-      "title": "No Mercosul, Lula diz que \u0027ningu\u00E9m \u00E9 dono da Am\u00E9rica do Sul\u0027 e que vai disputar reelei\u00E7\u00E3o para \u0027garantir\u0027 democracia no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/06/30/a-pedido-de-lula-mercosul-faz-um-minuto-de-silencio-em-homenagem-a-vitimas-na-venezuela.ghtml",
-      "date": "Tue, 30 Jun 2026 14:51:22 -0000"
-    },
-    {
-      "title": "Presidente da CVM ter\u00E1 de prestar contas ao Senado a cada 6 meses, diz projeto aprovado em comiss\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/30/presidente-da-cvm-tera-de-prestar-contas-ao-senado-a-cada-6-meses-diz-projeto-aprovado-em-comissao.ghtml",
-      "date": "Tue, 30 Jun 2026 14:04:24 -0000"
-    },
-    {
-      "title": "Reino Unido pode intervir em acordo de US$ 110 bilh\u00F5es entre Paramount e Warner Bros Discovery",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/30/reino-unido-pode-intervir-em-acordo-de-us-110-bilhoes-entre-paramount-e-warner-bros-discovery.ghtml",
-      "date": "Tue, 30 Jun 2026 13:25:35 -0000"
-    },
-    {
-      "title": "Governo anuncia R$ 525 bilh\u00F5es para o agroneg\u00F3cio e muda regras do cr\u00E9dito rural",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/30/governo-anuncia-r-525-bilhoes-para-o-agronegocio-e-muda-regras-do-credito-rural.ghtml",
-      "date": "Tue, 30 Jun 2026 13:03:56 -0000"
     }
   ]
 }
