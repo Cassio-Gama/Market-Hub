@@ -2,65 +2,107 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173205.34,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 171782,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.14,
-      "change": 0.21,
-      "changeStr": "\u002B0.21%"
+      "price": 38.03,
+      "change": -0.29,
+      "changeStr": "-0.29%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.13,
-      "change": -0.03,
-      "changeStr": "-0.03%"
+      "price": 77.83,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.41,
-      "change": 0.4,
-      "changeStr": "\u002B0.40%"
+      "price": 42.15,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.17,
-      "change": 1.4,
-      "changeStr": "\u002B1.40%"
+      "price": 18,
+      "change": -0.94,
+      "changeStr": "-0.94%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.26,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 19.97,
+      "change": -1.43,
+      "changeStr": "-1.43%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.64,
-      "change": 4.5,
-      "changeStr": "\u002B4.50%"
+      "price": 4.63,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.59,
-      "change": -0.84,
-      "changeStr": "-0.84%"
+      "price": 16.31,
+      "change": -1.69,
+      "changeStr": "-1.69%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.79,
-      "change": -0.23,
-      "changeStr": "-0.23%"
+      "price": 46.57,
+      "change": -0.47,
+      "changeStr": "-0.47%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar tem volatilidade na abertura, com dados de emprego no Brasil e nos EUA no radar",
+      "title": "Jogo do Brasil faz consumo de energia cair e obriga ONS a reduzir gera\u00E7\u00E3o e\u00F3lica e solar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/30/jogo-do-brasil-faz-consumo-de-energia-cair-e-obriga-ons-a-reduzir-geracao-eolica-e-solar.ghtml",
+      "date": "Tue, 30 Jun 2026 15:21:22 -0000"
+    },
+    {
+      "title": "Presidente da CVM ter\u00E1 de prestar contas ao Senado a cada 6 meses, diz projeto aprovado em comiss\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/30/presidente-da-cvm-tera-de-prestar-contas-ao-senado-a-cada-6-meses-diz-projeto-aprovado-em-comissao.ghtml",
+      "date": "Tue, 30 Jun 2026 14:04:24 -0000"
+    },
+    {
+      "title": "Reino Unido pode intervir em acordo de US$ 110 bilh\u00F5es entre Paramount e Warner Bros Discovery",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/30/reino-unido-pode-intervir-em-acordo-de-us-110-bilhoes-entre-paramount-e-warner-bros-discovery.ghtml",
+      "date": "Tue, 30 Jun 2026 13:25:35 -0000"
+    },
+    {
+      "title": "Governo anuncia R$ 525 bilh\u00F5es para o agroneg\u00F3cio e muda regras do cr\u00E9dito rural",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/30/governo-anuncia-r-525-bilhoes-para-o-agronegocio-e-muda-regras-do-credito-rural.ghtml",
+      "date": "Tue, 30 Jun 2026 13:03:56 -0000"
+    },
+    {
+      "title": "Quem \u00E9 o torcedor japon\u00EAs que viralizou com \u0027ataque de raiva\u0027 ap\u00F3s derrota para o Brasil; momento foi encenado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/30/quem-e-o-torcedor-japones-que-viralizou-com-ataque-de-raiva-apos-derrota-para-o-brasil.ghtml",
+      "date": "Tue, 30 Jun 2026 12:44:25 -0000"
+    },
+    {
+      "title": "Brasil ganha 9.215 novos milion\u00E1rios em 2025, mas segue entre os pa\u00EDses mais desiguais do mundo, diz UBS",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/30/brasil-ganha-9215-novos-milionarios-em-2025-ubs.ghtml",
+      "date": "Tue, 30 Jun 2026 12:12:49 -0000"
+    },
+    {
+      "title": "D\u00F3lar oscila, com dados de emprego no Brasil e nos EUA no radar; Ibovespa recua",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/30/dolar-ibovespa.ghtml",
       "date": "Tue, 30 Jun 2026 12:00:34 -0000"
+    },
+    {
+      "title": "Bilion\u00E1rio chines \u00E9 condenado a 30 anos de pris\u00E3o nos EUA por fraude em esquema com ex-estrategista de Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/06/30/bilionario-chines-e-condenado-a-30-anos-de-prisao-nos-eua-por-fraude.ghtml",
+      "date": "Tue, 30 Jun 2026 11:52:53 -0000"
     },
     {
       "title": "Contas p\u00FAblicas t\u00EAm d\u00E9ficit de R$ 56,1 bilh\u00F5es em maio; d\u00EDvida sobe para o maior n\u00EDvel em cinco anos",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/30/uniao-europeia-tarifa-importacoes-de-aco.ghtml",
       "date": "Tue, 30 Jun 2026 10:40:11 -0000"
-    },
-    {
-      "title": "PSD deve anunciar Kassab como vice de Caiado nesta quarta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/06/30/psd-deve-anunciar-kassab-como-vice-de-caiado-nesta-quarta.ghtml",
-      "date": "Tue, 30 Jun 2026 10:27:40 -0000"
-    },
-    {
-      "title": "Asado ou barbecue? Copa reacende disputa entre argentinos e texanos sobre quem faz a melhor carne",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/30/asado-ou-barbecue-copa-reacende-disputa-entre-argentinos-e-texanos-sobre-quem-faz-a-melhor-carne.ghtml",
-      "date": "Tue, 30 Jun 2026 08:03:33 -0000"
-    },
-    {
-      "title": "Dinheiro lidera preocupa\u00E7\u00F5es em pesquisa e supera sa\u00FAde, fam\u00EDlia e trabalho; veja o que explica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/30/dinheiro-lidera-preocupacoes-em-pesquisa-veja-o-que-explica.ghtml",
-      "date": "Tue, 30 Jun 2026 08:03:30 -0000"
-    },
-    {
-      "title": "Brasil deve atingir cota de exporta\u00E7\u00E3o de carne para a China em agosto, e pre\u00E7o do boi gordo cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/06/30/brasil-deve-atingir-cota-de-exportacao-de-carne-para-a-china-em-agosto-e-preco-do-boi-gordo-cai.ghtml",
-      "date": "Tue, 30 Jun 2026 07:00:54 -0000"
-    },
-    {
-      "title": "Ap\u00F3s 28 anos e 1,5 milh\u00E3o de Corollas produzidos, Toyota fecha f\u00E1brica de Indaiatuba",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/30/apos-28-anos-e-15-milhao-de-corollas-produzidos-toyota-fecha-fabrica-de-indaiatuba.ghtml",
-      "date": "Tue, 30 Jun 2026 06:00:29 -0000"
-    },
-    {
-      "title": "Do lixo ao adubo: como restos de comida ajudam a reduzir emiss\u00F5es de gases do efeito estufa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/30/como-restos-de-comida-ajudam-a-reduzir-emissoes-de-gases-do-efeito-estufa.ghtml",
-      "date": "Tue, 30 Jun 2026 06:00:21 -0000"
-    },
-    {
-      "title": "Por que ataque hacker a fornecedor preocupa a Apple antes do lan\u00E7amento do iPhone 18",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/30/por-que-ataque-hacker-a-fornecedor-preocupa-a-apple-antes-do-lancamento-do-iphone-18.ghtml",
-      "date": "Tue, 30 Jun 2026 06:00:17 -0000"
     }
   ]
 }
