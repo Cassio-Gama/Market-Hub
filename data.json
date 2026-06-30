@@ -2,65 +2,101 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171782,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 172451.73,
+      "change": -0.44,
+      "changeStr": "-0.44%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.03,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 37.94,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.83,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 78.19,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.15,
-      "change": -0.61,
-      "changeStr": "-0.61%"
+      "price": 42.45,
+      "change": 0.09,
+      "changeStr": "\u002B0.09%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18,
-      "change": -0.94,
-      "changeStr": "-0.94%"
+      "price": 18.12,
+      "change": -0.28,
+      "changeStr": "-0.28%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.97,
-      "change": -1.43,
-      "changeStr": "-1.43%"
+      "price": 20,
+      "change": -1.28,
+      "changeStr": "-1.28%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.63,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 4.68,
+      "change": 0.86,
+      "changeStr": "\u002B0.86%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.31,
-      "change": -1.69,
-      "changeStr": "-1.69%"
+      "price": 16.35,
+      "change": -1.45,
+      "changeStr": "-1.45%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.57,
-      "change": -0.47,
-      "changeStr": "-0.47%"
+      "price": 47.03,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     }
   ],
   "news": [
+    {
+      "title": "Justi\u00E7a dos EUA mant\u00E9m processo que acusa Meta de viciar crian\u00E7as no Facebook e Instagram",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/30/justica-mantem-processo-que-acusa-meta-de-viciar-criancas.ghtml",
+      "date": "Tue, 30 Jun 2026 17:22:19 -0000"
+    },
+    {
+      "title": "Petrobras muda c\u00E1lculo do g\u00E1s natural e reajuste pode cair de 22% para at\u00E9 6%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/30/petrobras-muda-calculo-do-gas-natural-e-reajuste-pode-cair-de-22percent-para-ate-6percent.ghtml",
+      "date": "Tue, 30 Jun 2026 17:18:17 -0000"
+    },
+    {
+      "title": "Brasil cria 73 mil empregos formais em maio; com forte queda de 52% em compara\u00E7\u00E3o ao mesmo m\u00EAs de 2025",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/30/brasil-cria-73-mil-empregos-formais-em-maio-com-forte-queda-de-52percent-em-comparacao-ao-mesmo-mes-de-2025.ghtml",
+      "date": "Tue, 30 Jun 2026 17:12:24 -0000"
+    },
+    {
+      "title": "Nova l\u00EDder do governo no Senado se re\u00FAne com Alcolumbre para tentar travar \u0027pauta-bomba\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/06/30/nova-lider-do-governo-no-senado-se-reune-com-alcolumbre-para-tentar-travar-pauta-bomba.ghtml",
+      "date": "Tue, 30 Jun 2026 16:54:55 -0000"
+    },
+    {
+      "title": "C\u00FApula do Mercosul critica assimetrias com UE e prepara negocia\u00E7\u00F5es com a China",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/06/30/mercosul-critica-assimetrias-com-ue-e-prepara-negociacoes-comerciais-com-a-china.ghtml",
+      "date": "Tue, 30 Jun 2026 15:40:54 -0000"
+    },
     {
       "title": "Jogo do Brasil faz consumo de energia cair e obriga ONS a reduzir gera\u00E7\u00E3o e\u00F3lica e solar",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/30/jogo-do-brasil-faz-consumo-de-energia-cair-e-obriga-ons-a-reduzir-geracao-eolica-e-solar.ghtml",
       "date": "Tue, 30 Jun 2026 15:21:22 -0000"
+    },
+    {
+      "title": "No Mercosul, Lula diz que \u0027ningu\u00E9m \u00E9 dono da Am\u00E9rica do Sul\u0027 e que vai disputar reelei\u00E7\u00E3o para \u0027garantir\u0027 democracia no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/06/30/a-pedido-de-lula-mercosul-faz-um-minuto-de-silencio-em-homenagem-a-vitimas-na-venezuela.ghtml",
+      "date": "Tue, 30 Jun 2026 14:51:22 -0000"
     },
     {
       "title": "Presidente da CVM ter\u00E1 de prestar contas ao Senado a cada 6 meses, diz projeto aprovado em comiss\u00E3o",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/06/30/governo-anuncia-r-525-bilhoes-para-o-agronegocio-e-muda-regras-do-credito-rural.ghtml",
       "date": "Tue, 30 Jun 2026 13:03:56 -0000"
-    },
-    {
-      "title": "Quem \u00E9 o torcedor japon\u00EAs que viralizou com \u0027ataque de raiva\u0027 ap\u00F3s derrota para o Brasil; momento foi encenado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/06/30/quem-e-o-torcedor-japones-que-viralizou-com-ataque-de-raiva-apos-derrota-para-o-brasil.ghtml",
-      "date": "Tue, 30 Jun 2026 12:44:25 -0000"
-    },
-    {
-      "title": "Brasil ganha 9.215 novos milion\u00E1rios em 2025, mas segue entre os pa\u00EDses mais desiguais do mundo, diz UBS",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/30/brasil-ganha-9215-novos-milionarios-em-2025-ubs.ghtml",
-      "date": "Tue, 30 Jun 2026 12:12:49 -0000"
-    },
-    {
-      "title": "D\u00F3lar oscila, com dados de emprego no Brasil e nos EUA no radar; Ibovespa recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/30/dolar-ibovespa.ghtml",
-      "date": "Tue, 30 Jun 2026 12:00:34 -0000"
-    },
-    {
-      "title": "Bilion\u00E1rio chines \u00E9 condenado a 30 anos de pris\u00E3o nos EUA por fraude em esquema com ex-estrategista de Trump",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/06/30/bilionario-chines-e-condenado-a-30-anos-de-prisao-nos-eua-por-fraude.ghtml",
-      "date": "Tue, 30 Jun 2026 11:52:53 -0000"
-    },
-    {
-      "title": "Contas p\u00FAblicas t\u00EAm d\u00E9ficit de R$ 56,1 bilh\u00F5es em maio; d\u00EDvida sobe para o maior n\u00EDvel em cinco anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/30/contas-publicas-tem-deficit-de-r-561-bilhoes-em-maio-divida-sobe-para-811percent-do-pib.ghtml",
-      "date": "Tue, 30 Jun 2026 11:37:51 -0000"
-    },
-    {
-      "title": "Uni\u00E3o Europeia amplia prote\u00E7\u00E3o \u00E0 ind\u00FAstria e confirma tarifa de 50% sobre parte das importa\u00E7\u00F5es de a\u00E7o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/30/uniao-europeia-tarifa-importacoes-de-aco.ghtml",
-      "date": "Tue, 30 Jun 2026 10:40:11 -0000"
     }
   ]
 }
