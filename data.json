@@ -57,6 +57,24 @@
   ],
   "news": [
     {
+      "title": "D\u00F3lar abre em alta, de olho em dados econ\u00F4micos globais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/01/dolar-ibovespa.ghtml",
+      "date": "Wed, 01 Jul 2026 12:00:08 -0000"
+    },
+    {
+      "title": "Inadimpl\u00EAncia bate recorde em maio, m\u00EAs de lan\u00E7amento do Desenrola 2.0; endividamento segue alto",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/01/inadimplencia-bate-recorde-maio-mes-de-lancamento-do-desenrola-20-endividamento-segue-alto.ghtml",
+      "date": "Wed, 01 Jul 2026 11:51:29 -0000"
+    },
+    {
+      "title": "Jap\u00E3o planeja desenvolver modelo pr\u00F3prio de IA e ter 10 milh\u00F5es de rob\u00F4s em 2040",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/japao-planeja-desenvolver-modelo-proprio-de-ia-e-ter-10-milhoes-de-robos-em-2040.ghtml",
+      "date": "Wed, 01 Jul 2026 11:30:48 -0000"
+    },
+    {
       "title": "\u0027Consumo todo dia e n\u00E3o sabia que era do Brasil\u0027: empres\u00E1ria diz que governo Trump desconhecia peso do mel nacional para os EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/01/consumo-todo-dia-e-nao-sabia-que-era-do-brasil-empresaria-diz-que-governo-trump-desconhecia-peso-do-mel-nacional-para-os-eua.ghtml",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/01/bolsa-familia-2026-veja-calendario-de-pagamentos-em-julho.ghtml",
       "date": "Wed, 01 Jul 2026 03:01:05 -0000"
-    },
-    {
-      "title": "Concurso do IBGE: inscri\u00E7\u00F5es para mais de 8 mil vagas terminam nesta quarta; veja como participar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/01/concurso-do-ibge-inscricoes-para-mais-de-8-mil-vagas-terminam-nesta-quarta-veja-como-participar.ghtml",
-      "date": "Wed, 01 Jul 2026 03:01:04 -0000"
-    },
-    {
-      "title": "CNPJ poder\u00E1 ter letras e n\u00FAmeros a partir de julho; entenda o que muda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/07/01/cnpj-letras-e-numeros-julho.ghtml",
-      "date": "Wed, 01 Jul 2026 03:00:44 -0000"
-    },
-    {
-      "title": "Michelle Bolsonaro foi convencida a n\u00E3o se desfiliar do PL e disputa ao Senado est\u00E1 mantida, dizem aliadas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/06/30/michelle-bolsonaro-desistiu-de-se-desfiliar-do-pl-e-pre-candidatura-ao-senado-esta-mantida-dizem-aliadas.ghtml",
-      "date": "Wed, 01 Jul 2026 02:18:33 -0000"
     }
   ]
 }
