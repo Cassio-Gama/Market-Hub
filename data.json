@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171172.19,
-      "change": -0.5,
-      "changeStr": "-0.50%"
+      "price": 171991.9,
+      "change": -0.02,
+      "changeStr": "-0.02%"
     },
     {
       "symbol": "PETR4",
@@ -14,56 +14,80 @@
     },
     {
       "symbol": "VALE3",
-      "price": 78.2,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 78.01,
+      "change": 0.17,
+      "changeStr": "\u002B0.17%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.6,
-      "change": 1,
-      "changeStr": "\u002B1.00%"
+      "price": 42.53,
+      "change": 0.83,
+      "changeStr": "\u002B0.83%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.09,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 18.14,
+      "change": 0.22,
+      "changeStr": "\u002B0.22%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.85,
-      "change": -0.3,
-      "changeStr": "-0.30%"
+      "price": 19.84,
+      "change": -0.35,
+      "changeStr": "-0.35%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.54,
-      "change": -2.99,
-      "changeStr": "-2.99%"
+      "price": 4.48,
+      "change": -4.27,
+      "changeStr": "-4.27%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.29,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 16.3,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.25,
-      "change": -1.41,
-      "changeStr": "-1.41%"
+      "price": 46.42,
+      "change": -1.04,
+      "changeStr": "-1.04%"
     }
   ],
   "news": [
     {
-      "title": "O que acontece com as pessoas e empresas sancionadas pelo governo dos EUA? Entenda",
+      "title": "\nEuropa cria sua \u0022taxa das blusinhas\u0022 para conter avan\u00E7o de Shein, Temu e AliExpress",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/01/europa-cria-sua-taxa-das-blusinhas-para-conter-avanco-de-shein-temu-e-aliexpress.ghtml",
+      "date": "Wed, 01 Jul 2026 17:43:03 -0000"
+    },
+    {
+      "title": "Acordo Mercosul-UE ainda apresenta problemas a serem resolvidos, diz ministro alem\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/01/acordo-mercosul-ue-ainda-apresenta-problemas-a-serem-resolvidos-diz-ministro-alemao.ghtml",
+      "date": "Wed, 01 Jul 2026 17:14:20 -0000"
+    },
+    {
+      "title": "Quem s\u00E3o os dois brasileiros alvos de san\u00E7\u00F5es do governo Trump sob suspeita de liga\u00E7\u00E3o com o PCC ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/01/quem-sao-brasileiros-sancionados-por-trump-por-suposta-ligacao-com-o-pcc.ghtml",
+      "date": "Wed, 01 Jul 2026 16:54:16 -0000"
+    },
+    {
+      "title": "Quem mais produz petr\u00F3leo no Brasil? Veja o ranking das empresas ap\u00F3s produ\u00E7\u00E3o ficar perto de novo recorde",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/01/quem-mais-produz-petroleo-no-brasil-veja-o-ranking-das-empresas-apos-producao-ficar-perto-de-novo-recorde.ghtml",
+      "date": "Wed, 01 Jul 2026 16:14:12 -0000"
+    },
+    {
+      "title": "O que acontece agora com os brasileiros sancionados pelos EUA por liga\u00E7\u00E3o com o PCC? Entenda",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/07/01/o-que-acontece-com-as-pessoas-e-empresas-sancionadas-pelo-governo-dos-eua-entenda.ghtml",
       "date": "Wed, 01 Jul 2026 15:36:05 -0000"
     },
     {
-      "title": "EUA sancionam duas pessoas e tr\u00EAs empresas brasileiras por suposta liga\u00E7\u00E3o com o PCC",
+      "title": "EUA anunciam san\u00E7\u00F5es contra duas pessoas e tr\u00EAs empresas brasileiras por suposta liga\u00E7\u00E3o com o PCC",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/07/01/eua-sancionam-duas-pessoas-e-tres-empresas-brasileiras-ligadas-ao-pcc.ghtml",
       "date": "Wed, 01 Jul 2026 15:04:12 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/01/trump-diz-que-fundos-administram-seu-dinheiro-e-atribui-ganhos-a-alta-do-mercado-de-acoes.ghtml",
       "date": "Wed, 01 Jul 2026 14:10:07 -0000"
-    },
-    {
-      "title": "Petrobras reduz em 14,5% pre\u00E7o do querosene de avia\u00E7\u00E3o a partir de julho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/01/petrobras-reduz-em-145-preco-do-querosene-de-aviacao-a-partir-de-julho.ghtml",
-      "date": "Wed, 01 Jul 2026 13:45:58 -0000"
-    },
-    {
-      "title": "Meta enfrenta demiss\u00F5es e cr\u00EDticas internas em meio \u00E0 corrida pela IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/01/meta-enfrenta-demissoes-e-criticas-internas-em-meio-a-corrida-pela-ia.ghtml",
-      "date": "Wed, 01 Jul 2026 13:22:22 -0000"
-    },
-    {
-      "title": "EUA suspendem restri\u00E7\u00F5es, e Anthropic libera acesso global a modelos avan\u00E7ados de IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/eua-suspendem-restricoes-e-anthropic-libera-acesso-global-a-modelos-avancados-de-ia.ghtml",
-      "date": "Wed, 01 Jul 2026 12:46:01 -0000"
-    },
-    {
-      "title": "Relat\u00F3rio da ONU aponta enormes benef\u00EDcios potenciais e grandes riscos decorrentes da IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/relatorio-da-onu-aponta-enormes-beneficios-potenciais-e-grandes-riscos-decorrentes-da-ia.ghtml",
-      "date": "Wed, 01 Jul 2026 12:39:48 -0000"
     }
   ]
 }
