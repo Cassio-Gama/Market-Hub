@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171991.9,
-      "change": -0.02,
-      "changeStr": "-0.02%"
+      "price": 171688.61,
+      "change": -0.2,
+      "changeStr": "-0.20%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.68,
-      "change": -0.32,
-      "changeStr": "-0.32%"
+      "price": 37.83,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.01,
-      "change": 0.17,
-      "changeStr": "\u002B0.17%"
+      "price": 77.97,
+      "change": 0.12,
+      "changeStr": "\u002B0.12%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.53,
-      "change": 0.83,
-      "changeStr": "\u002B0.83%"
+      "price": 42.44,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.14,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 18.12,
+      "change": 0.11,
+      "changeStr": "\u002B0.11%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.84,
-      "change": -0.35,
-      "changeStr": "-0.35%"
+      "price": 19.73,
+      "change": -0.9,
+      "changeStr": "-0.90%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.48,
-      "change": -4.27,
-      "changeStr": "-4.27%"
+      "price": 4.43,
+      "change": -5.34,
+      "changeStr": "-5.34%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.3,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 16.2,
+      "change": -0.55,
+      "changeStr": "-0.55%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.42,
-      "change": -1.04,
-      "changeStr": "-1.04%"
+      "price": 46.26,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     }
   ],
   "news": [
+    {
+      "title": "Homem processa OpenAI e diz que ChatGPT refor\u00E7ou del\u00EDrio de que era Jesus Cristo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/homem-processa-openai-e-diz-que-chatgpt-reforcou-delirios.ghtml",
+      "date": "Wed, 01 Jul 2026 19:40:05 -0000"
+    },
+    {
+      "title": "Quanto tempo voc\u00EA fica na internet? M\u00E9dia no Brasil passa dos 50 anos e ultrapassa M\u00E9xico e Coreia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/quanto-tempo-os-brasileiros-ficam-na-internet.ghtml",
+      "date": "Wed, 01 Jul 2026 19:02:12 -0000"
+    },
+    {
+      "title": "Senado aprova projeto que permite a servidores p\u00FAblicos se tornarem microempreendedores individuais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/01/senado-aprova-projeto-que-permite-a-servidores-publicos-se-tornarem-microempreendedores-individuais.ghtml",
+      "date": "Wed, 01 Jul 2026 18:54:25 -0000"
+    },
+    {
+      "title": "Criptomoedas, a\u00E7\u00F5es e im\u00F3veis: de onde vieram os mais de US$ 1 bilh\u00E3o declarados por Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/01/de-onde-vieram-os-bilhoes-declarados-por-trump.ghtml",
+      "date": "Wed, 01 Jul 2026 18:40:09 -0000"
+    },
+    {
+      "title": "Paramount prop\u00F5e concess\u00F5es \u00E0 UE para destravar compra da Warner Bros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/01/paramount-propoe-concessoes-a-ue-para-destravar-compra-da-warner-bros.ghtml",
+      "date": "Wed, 01 Jul 2026 18:16:42 -0000"
+    },
     {
       "title": "\nEuropa cria sua \u0022taxa das blusinhas\u0022 para conter avan\u00E7o de Shein, Temu e AliExpress",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/07/01/o-que-acontece-com-as-pessoas-e-empresas-sancionadas-pelo-governo-dos-eua-entenda.ghtml",
       "date": "Wed, 01 Jul 2026 15:36:05 -0000"
-    },
-    {
-      "title": "EUA anunciam san\u00E7\u00F5es contra duas pessoas e tr\u00EAs empresas brasileiras por suposta liga\u00E7\u00E3o com o PCC",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/07/01/eua-sancionam-duas-pessoas-e-tres-empresas-brasileiras-ligadas-ao-pcc.ghtml",
-      "date": "Wed, 01 Jul 2026 15:04:12 -0000"
-    },
-    {
-      "title": "Fifa diz que abuso online na Copa do Mundo aumentou 13 vezes, 11% motivado por quest\u00F5es raciais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/fifa-diz-que-abuso-online-na-copa-do-mundo-aumentou-13-vezes-11-motivado-por-questoes-raciais.ghtml",
-      "date": "Wed, 01 Jul 2026 15:03:16 -0000"
-    },
-    {
-      "title": "Argentina zera imposto de exporta\u00E7\u00E3o de ve\u00EDculos; entenda se pre\u00E7os de carros no Brasil mudam",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/01/argentina-zera-imposto-de-exportacao-de-veiculos-entenda-se-precos-de-carros-no-brasil-mudam.ghtml",
-      "date": "Wed, 01 Jul 2026 14:53:49 -0000"
-    },
-    {
-      "title": "Seca amea\u00E7a produ\u00E7\u00E3o de a\u00E7\u00FAcar na Fran\u00E7a sem previs\u00E3o de chuva",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/01/seca-ameaca-producao-de-acucar-na-franca-sem-previsao-de-chuva.ghtml",
-      "date": "Wed, 01 Jul 2026 14:44:30 -0000"
-    },
-    {
-      "title": "Trump diz que fundos administram seu dinheiro e atribui ganhos \u00E0 alta do mercado de a\u00E7\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/01/trump-diz-que-fundos-administram-seu-dinheiro-e-atribui-ganhos-a-alta-do-mercado-de-acoes.ghtml",
-      "date": "Wed, 01 Jul 2026 14:10:07 -0000"
     }
   ]
 }
