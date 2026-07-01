@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172024.12,
-      "change": -0.68,
-      "changeStr": "-0.68%"
+      "price": 171172.19,
+      "change": -0.5,
+      "changeStr": "-0.50%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.8,
-      "change": -0.89,
-      "changeStr": "-0.89%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 77.88,
+      "price": 37.68,
       "change": -0.32,
       "changeStr": "-0.32%"
     },
     {
+      "symbol": "VALE3",
+      "price": 78.2,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
+    },
+    {
       "symbol": "ITUB4",
-      "price": 42.18,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 42.6,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.1,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 18.09,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.91,
-      "change": -1.73,
-      "changeStr": "-1.73%"
+      "price": 19.85,
+      "change": -0.3,
+      "changeStr": "-0.30%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.68,
-      "change": 0.86,
-      "changeStr": "\u002B0.86%"
+      "price": 4.54,
+      "change": -2.99,
+      "changeStr": "-2.99%"
     },
     {
       "symbol": "ABEV3",
       "price": 16.29,
-      "change": -1.81,
-      "changeStr": "-1.81%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.91,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 46.25,
+      "change": -1.41,
+      "changeStr": "-1.41%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar abre em alta, de olho em dados econ\u00F4micos globais",
+      "title": "O que acontece com as pessoas e empresas sancionadas pelo governo dos EUA? Entenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/01/dolar-ibovespa.ghtml",
-      "date": "Wed, 01 Jul 2026 12:00:08 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/01/o-que-acontece-com-as-pessoas-e-empresas-sancionadas-pelo-governo-dos-eua-entenda.ghtml",
+      "date": "Wed, 01 Jul 2026 15:36:05 -0000"
     },
     {
-      "title": "Inadimpl\u00EAncia bate recorde em maio, m\u00EAs de lan\u00E7amento do Desenrola 2.0; endividamento segue alto",
+      "title": "EUA sancionam duas pessoas e tr\u00EAs empresas brasileiras por suposta liga\u00E7\u00E3o com o PCC",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/01/inadimplencia-bate-recorde-maio-mes-de-lancamento-do-desenrola-20-endividamento-segue-alto.ghtml",
-      "date": "Wed, 01 Jul 2026 11:51:29 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/01/eua-sancionam-duas-pessoas-e-tres-empresas-brasileiras-ligadas-ao-pcc.ghtml",
+      "date": "Wed, 01 Jul 2026 15:04:12 -0000"
     },
     {
-      "title": "Jap\u00E3o planeja desenvolver modelo pr\u00F3prio de IA e ter 10 milh\u00F5es de rob\u00F4s em 2040",
+      "title": "Fifa diz que abuso online na Copa do Mundo aumentou 13 vezes, 11% motivado por quest\u00F5es raciais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/japao-planeja-desenvolver-modelo-proprio-de-ia-e-ter-10-milhoes-de-robos-em-2040.ghtml",
-      "date": "Wed, 01 Jul 2026 11:30:48 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/fifa-diz-que-abuso-online-na-copa-do-mundo-aumentou-13-vezes-11-motivado-por-questoes-raciais.ghtml",
+      "date": "Wed, 01 Jul 2026 15:03:16 -0000"
     },
     {
-      "title": "\u0027Consumo todo dia e n\u00E3o sabia que era do Brasil\u0027: empres\u00E1ria diz que governo Trump desconhecia peso do mel nacional para os EUA",
+      "title": "Argentina zera imposto de exporta\u00E7\u00E3o de ve\u00EDculos; entenda se pre\u00E7os de carros no Brasil mudam",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/01/consumo-todo-dia-e-nao-sabia-que-era-do-brasil-empresaria-diz-que-governo-trump-desconhecia-peso-do-mel-nacional-para-os-eua.ghtml",
-      "date": "Wed, 01 Jul 2026 07:01:58 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/07/01/argentina-zera-imposto-de-exportacao-de-veiculos-entenda-se-precos-de-carros-no-brasil-mudam.ghtml",
+      "date": "Wed, 01 Jul 2026 14:53:49 -0000"
     },
     {
-      "title": "Claude, IA da Anthropic, ganha vers\u00E3o voltada \u00E0 pesquisa cient\u00EDfica; veja como funciona",
+      "title": "Seca amea\u00E7a produ\u00E7\u00E3o de a\u00E7\u00FAcar na Fran\u00E7a sem previs\u00E3o de chuva",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/claude-ia-da-anthropic-ganha-versao-voltada-a-pesquisa-cientifica-veja-como-funciona.ghtml",
-      "date": "Wed, 01 Jul 2026 06:02:03 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/01/seca-ameaca-producao-de-acucar-na-franca-sem-previsao-de-chuva.ghtml",
+      "date": "Wed, 01 Jul 2026 14:44:30 -0000"
     },
     {
-      "title": "Desconto na primeira compra, brindes e mais: as estrat\u00E9gias dos neg\u00F3cios para conquistar clientes",
+      "title": "Trump diz que fundos administram seu dinheiro e atribui ganhos \u00E0 alta do mercado de a\u00E7\u00F5es",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/07/01/desconto-na-primeira-compra-brindes-e-mais-as-estrategias-dos-negocios-para-conquistar-clientes.ghtml",
-      "date": "Wed, 01 Jul 2026 06:00:33 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/07/01/trump-diz-que-fundos-administram-seu-dinheiro-e-atribui-ganhos-a-alta-do-mercado-de-acoes.ghtml",
+      "date": "Wed, 01 Jul 2026 14:10:07 -0000"
     },
     {
-      "title": "UE elimina tarifas sobre importa\u00E7\u00F5es de produtos industriais dos EUA, diz presidente do bloco",
+      "title": "Petrobras reduz em 14,5% pre\u00E7o do querosene de avia\u00E7\u00E3o a partir de julho",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/01/ue-elimina-tarifas-sobre-importacoes-de-produtos-industriais-dos-eua-diz-presidente-do-bloco.ghtml",
-      "date": "Wed, 01 Jul 2026 05:57:06 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/07/01/petrobras-reduz-em-145-preco-do-querosene-de-aviacao-a-partir-de-julho.ghtml",
+      "date": "Wed, 01 Jul 2026 13:45:58 -0000"
     },
     {
-      "title": "Seu sal\u00E1rio aumentou, mas o dinheiro continua curto? Entenda o que est\u00E1 acontecendo",
+      "title": "Meta enfrenta demiss\u00F5es e cr\u00EDticas internas em meio \u00E0 corrida pela IA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/07/01/seu-salario-aumentou-mas-o-dinheiro-continua-curto-entenda-o-que-esta-acontecendo.ghtml",
-      "date": "Wed, 01 Jul 2026 05:00:38 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/01/meta-enfrenta-demissoes-e-criticas-internas-em-meio-a-corrida-pela-ia.ghtml",
+      "date": "Wed, 01 Jul 2026 13:22:22 -0000"
     },
     {
-      "title": "Diretor da CIA compara intelig\u00EAncia artificial a \u0027armas nucleares digitais\u0027",
+      "title": "EUA suspendem restri\u00E7\u00F5es, e Anthropic libera acesso global a modelos avan\u00E7ados de IA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/diretor-da-cia-compara-inteligencia-artificial-a-armas-nucleares-digitais.ghtml",
-      "date": "Wed, 01 Jul 2026 05:00:19 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/eua-suspendem-restricoes-e-anthropic-libera-acesso-global-a-modelos-avancados-de-ia.ghtml",
+      "date": "Wed, 01 Jul 2026 12:46:01 -0000"
     },
     {
-      "title": "Bolsa Fam\u00EDlia 2026: veja calend\u00E1rio de pagamentos em julho",
+      "title": "Relat\u00F3rio da ONU aponta enormes benef\u00EDcios potenciais e grandes riscos decorrentes da IA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/01/bolsa-familia-2026-veja-calendario-de-pagamentos-em-julho.ghtml",
-      "date": "Wed, 01 Jul 2026 03:01:05 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/relatorio-da-onu-aponta-enormes-beneficios-potenciais-e-grandes-riscos-decorrentes-da-ia.ghtml",
+      "date": "Wed, 01 Jul 2026 12:39:48 -0000"
     }
   ]
 }
