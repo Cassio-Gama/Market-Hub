@@ -2,62 +2,68 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172299.27,
-      "change": 0.36,
-      "changeStr": "\u002B0.36%"
+      "price": 172787.62,
+      "change": 0.64,
+      "changeStr": "\u002B0.64%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.72,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 37.96,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.89,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 78.24,
+      "change": 0.35,
+      "changeStr": "\u002B0.35%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.41,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 42.47,
+      "change": 0.07,
+      "changeStr": "\u002B0.07%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.15,
-      "change": 0.17,
-      "changeStr": "\u002B0.17%"
+      "price": 18.16,
+      "change": 0.22,
+      "changeStr": "\u002B0.22%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.88,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 20,
+      "change": 1.37,
+      "changeStr": "\u002B1.37%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.33,
-      "change": -2.26,
-      "changeStr": "-2.26%"
+      "price": 4.27,
+      "change": -3.61,
+      "changeStr": "-3.61%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.23,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 16.3,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.17,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "price": 46.26,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     }
   ],
   "news": [
     {
-      "title": "Grupo de mulheres de direita amea\u00E7a acionar justi\u00E7a dos EUA contra ataques nas redes sociais ",
+      "title": "Fiat Strada \u00E9 o ve\u00EDculo mais vendido no Brasil no primeiro semestre de 2026; veja a lista",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/02/ranking-veiculos-mais-vendidos-no-brasil-primeiro-semestre-2026.ghtml",
+      "date": "Thu, 02 Jul 2026 19:43:25 -0000"
+    },
+    {
+      "title": "Grupo de mulheres de direita amea\u00E7a acionar justi\u00E7a dos EUA contra ataques de bolsonaristas nas redes sociais ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/02/grupo-de-mulheres-de-direita-ameaca-acionar-justica-dos-eua-contra-ataques-nas-redes-sociais.ghtml",
       "date": "Thu, 02 Jul 2026 19:02:20 -0000"
@@ -99,7 +105,7 @@
       "date": "Thu, 02 Jul 2026 15:17:20 -0000"
     },
     {
-      "title": "Pilotos de F1 v\u00E3o acelerar karts de Lego em Silverstone; veja como carrinhos foram montados",
+      "title": "Pilotos de F1 v\u00E3o usar karts de Lego em volta de apresenta\u00E7\u00E3o; veja como carrinhos foram feitos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/07/02/pilotos-de-f1-karts-de-lego-silverstone.ghtml",
       "date": "Thu, 02 Jul 2026 15:02:43 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/02/reality-de-viih-tube-que-daria-r-20-mil-a-funcionario-vira-alvo-do-mpt-veja-os-direitos-dos-trabalhadores.ghtml",
       "date": "Thu, 02 Jul 2026 14:45:57 -0000"
-    },
-    {
-      "title": "Cashback do Imposto de Renda: 500 mil contribuintes ficam sem receber por falta de CPF cadastrado como chave PIX",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/07/02/cashback-do-ir-500-mil-contribuintes-ficam-sem-receber-por-falta-de-chave-pix-com-cpf.ghtml",
-      "date": "Thu, 02 Jul 2026 14:27:35 -0000"
     }
   ]
 }
