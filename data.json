@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171688.61,
-      "change": -0.2,
-      "changeStr": "-0.20%"
+      "price": 172109.52,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.83,
-      "change": 0.08,
-      "changeStr": "\u002B0.08%"
+      "price": 37.93,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.97,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 78.04,
+      "change": 0.09,
+      "changeStr": "\u002B0.09%"
     },
     {
       "symbol": "ITUB4",
       "price": 42.44,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "BBDC4",
       "price": 18.12,
-      "change": 0.11,
-      "changeStr": "\u002B0.11%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.73,
-      "change": -0.9,
-      "changeStr": "-0.90%"
+      "price": 19.78,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.43,
-      "change": -5.34,
-      "changeStr": "-5.34%"
+      "price": 4.52,
+      "change": 2.03,
+      "changeStr": "\u002B2.03%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.2,
-      "change": -0.55,
-      "changeStr": "-0.55%"
+      "price": 16.27,
+      "change": 0.43,
+      "changeStr": "\u002B0.43%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.26,
-      "change": -1.39,
-      "changeStr": "-1.39%"
+      "price": 45.98,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar abre em queda, \u00E0 espera de novos dados do mercado de trabalho americano",
+      "title": "Pilotos de F1 v\u00E3o acelerar karts de Lego em Silverstone; veja como carrinhos foram montados",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/02/dolar-ibovespa.ghtml",
-      "date": "Thu, 02 Jul 2026 12:00:29 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/07/02/pilotos-de-f1-karts-de-lego-silverstone.ghtml",
+      "date": "Thu, 02 Jul 2026 15:02:43 -0000"
     },
     {
-      "title": "Receita libera consulta ao lote especial de restitui\u00E7\u00E3o autom\u00E1tica do IR na pr\u00F3xima quarta; veja quem tem direito",
+      "title": "Reality de Viih Tube que daria R$ 20 mil a funcion\u00E1rio vira alvo do MPT; veja os direitos dos trabalhadores",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/02/receita-lote-especial-de-restituicao-automatica-do-ir.ghtml",
-      "date": "Thu, 02 Jul 2026 11:26:28 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/02/reality-de-viih-tube-que-daria-r-20-mil-a-funcionario-vira-alvo-do-mpt-veja-os-direitos-dos-trabalhadores.ghtml",
+      "date": "Thu, 02 Jul 2026 14:45:57 -0000"
     },
     {
-      "title": "Brasil responde a relat\u00F3rio dos EUA, nega que PIX favore\u00E7a empresas e defende decis\u00F5es do STF",
+      "title": "Cashback do Imposto de Renda: 500 mil contribuintes ficam sem receber por falta de CPF cadastrado como chave PIX",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/07/02/brasil-responde-a-documento-dos-eua-nega-que-pix-favoreca-empresas-e-defende-decisoes-do-stf.ghtml",
-      "date": "Thu, 02 Jul 2026 11:25:10 -0000"
+      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/07/02/cashback-do-ir-500-mil-contribuintes-ficam-sem-receber-por-falta-de-chave-pix-com-cpf.ghtml",
+      "date": "Thu, 02 Jul 2026 14:27:35 -0000"
     },
     {
-      "title": "Fim da 6x1: Ind\u00FAstria prev\u00EA queda \u00E0 produtividade e \u00E0 competitividade com redu\u00E7\u00E3o da jornada de trabalho",
+      "title": "Peru declara estado de emerg\u00EAncia em 40% do pa\u00EDs por chuvas causadas pelo El Ni\u00F1o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/02/fim-da-6x1-industria-preve-queda-a-produtividade-e-a-competitividade-com-reducao-da-jornada-de-trabalho.ghtml",
-      "date": "Thu, 02 Jul 2026 11:00:15 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/02/peru-declara-estado-de-emergencia-em-40percent-do-pais-por-chuvas-causadas-pelo-el-nino.ghtml",
+      "date": "Thu, 02 Jul 2026 13:54:58 -0000"
     },
     {
-      "title": "Criptomoedas, a\u00E7\u00F5es e im\u00F3veis: de onde vieram os mais de US$ 1 bilh\u00E3o declarados por Trump",
+      "title": "PIX, STF, redes sociais: entenda as cr\u00EDticas dos EUA para propor tarifa de 25% e os argumentos do Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/02/de-onde-vieram-os-bilhoes-declarados-por-trump.ghtml",
-      "date": "Thu, 02 Jul 2026 06:00:35 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/07/02/pix-stf-redes-sociais-entenda-as-criticas-dos-eua-para-propor-tarifa-de-25percent-e-os-argumentos-do-brasil.ghtml",
+      "date": "Thu, 02 Jul 2026 13:04:33 -0000"
     },
     {
-      "title": "Por que o sal\u00E1rio parece render cada vez menos, mesmo quando aumenta?",
+      "title": "Uso de internet chega a quase 75% dos idosos, e crian\u00E7as diminuem acesso \u00E0 rede, diz IBGE",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/07/02/por-que-o-salario-parece-render-cada-vez-menos-mesmo-quando-aumenta.ghtml",
-      "date": "Thu, 02 Jul 2026 06:00:15 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/02/uso-de-internet-chega-a-quase-75percent-dos-idosos-e-criancas-diminuem-acesso-a-rede-diz-ibge.ghtml",
+      "date": "Thu, 02 Jul 2026 13:00:41 -0000"
     },
     {
-      "title": "Financiamento imobili\u00E1rio da Caixa cresce 14% em um ano; veja o que est\u00E1 por tr\u00E1s do avan\u00E7o",
+      "title": "Uso de internet chega a 90,5% dos brasileiros, e diferen\u00E7a cai entre \u00E1reas urbanas e rurais, diz IBGE",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/02/financiamento-imobiliario-da-caixa-cresce-14-em-um-ano.ghtml",
-      "date": "Thu, 02 Jul 2026 05:01:46 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/02/uso-de-internet-chega-a-905percent-dos-brasileiros-e-diferenca-cai-entre-areas-urbanas-e-rurais-diz-ibge.ghtml",
+      "date": "Thu, 02 Jul 2026 13:00:05 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 27 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "title": "Sony vai deixar de fabricar discos f\u00EDsicos para novos jogos de PlayStation em 2028",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/02/mega-sena-pode-pagar-r-27-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 02 Jul 2026 03:01:13 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/02/sony-vai-deixar-de-fabricar-discos-fisicos-para-novos-jogos-de-playstation-em-2028.ghtml",
+      "date": "Thu, 02 Jul 2026 12:50:09 -0000"
     },
     {
-      "title": "Grupo Dolly \u00E9 alvo de pedido de fal\u00EAncia por d\u00EDvida de R$ 15,7 bilh\u00F5es",
+      "title": "EUA correm risco de n\u00E3o cumprir metas de biocombust\u00EDveis de Trump",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/01/grupo-dolly.ghtml",
-      "date": "Thu, 02 Jul 2026 00:27:02 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/02/eua-correm-risco-de-nao-cumprir-metas-de-biocombustiveis-de-trump.ghtml",
+      "date": "Thu, 02 Jul 2026 12:26:19 -0000"
     },
     {
-      "title": "Homem processa OpenAI e diz que ChatGPT refor\u00E7ou del\u00EDrio de que era Jesus Cristo",
+      "title": "Uni\u00E3o Europeia aposta em euro digital para reduzir dom\u00EDnio dos EUA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/homem-processa-openai-e-diz-que-chatgpt-reforcou-delirios.ghtml",
-      "date": "Wed, 01 Jul 2026 19:40:05 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/07/02/uniao-europeia-aposta-em-euro-digital-para-reduzir-dominio-dos-eua.ghtml",
+      "date": "Thu, 02 Jul 2026 12:25:41 -0000"
     }
   ]
 }
