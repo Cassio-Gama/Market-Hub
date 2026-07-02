@@ -57,6 +57,30 @@
   ],
   "news": [
     {
+      "title": "D\u00F3lar abre em queda, \u00E0 espera de novos dados do mercado de trabalho americano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/02/dolar-ibovespa.ghtml",
+      "date": "Thu, 02 Jul 2026 12:00:29 -0000"
+    },
+    {
+      "title": "Receita libera consulta ao lote especial de restitui\u00E7\u00E3o autom\u00E1tica do IR na pr\u00F3xima quarta; veja quem tem direito",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/02/receita-lote-especial-de-restituicao-automatica-do-ir.ghtml",
+      "date": "Thu, 02 Jul 2026 11:26:28 -0000"
+    },
+    {
+      "title": "Brasil responde a relat\u00F3rio dos EUA, nega que PIX favore\u00E7a empresas e defende decis\u00F5es do STF",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/02/brasil-responde-a-documento-dos-eua-nega-que-pix-favoreca-empresas-e-defende-decisoes-do-stf.ghtml",
+      "date": "Thu, 02 Jul 2026 11:25:10 -0000"
+    },
+    {
+      "title": "Fim da 6x1: Ind\u00FAstria prev\u00EA queda \u00E0 produtividade e \u00E0 competitividade com redu\u00E7\u00E3o da jornada de trabalho",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/02/fim-da-6x1-industria-preve-queda-a-produtividade-e-a-competitividade-com-reducao-da-jornada-de-trabalho.ghtml",
+      "date": "Thu, 02 Jul 2026 11:00:15 -0000"
+    },
+    {
       "title": "Criptomoedas, a\u00E7\u00F5es e im\u00F3veis: de onde vieram os mais de US$ 1 bilh\u00E3o declarados por Trump",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/02/de-onde-vieram-os-bilhoes-declarados-por-trump.ghtml",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/homem-processa-openai-e-diz-que-chatgpt-reforcou-delirios.ghtml",
       "date": "Wed, 01 Jul 2026 19:40:05 -0000"
-    },
-    {
-      "title": "Quanto tempo voc\u00EA fica na internet? M\u00E9dia no Brasil passa dos 50 anos e ultrapassa M\u00E9xico e Coreia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/01/quanto-tempo-os-brasileiros-ficam-na-internet.ghtml",
-      "date": "Wed, 01 Jul 2026 19:02:12 -0000"
-    },
-    {
-      "title": "Senado aprova projeto que permite a servidores p\u00FAblicos se tornarem microempreendedores individuais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/07/01/senado-aprova-projeto-que-permite-a-servidores-publicos-se-tornarem-microempreendedores-individuais.ghtml",
-      "date": "Wed, 01 Jul 2026 18:54:25 -0000"
-    },
-    {
-      "title": "Trump declara mais de US$ 1 bilh\u00E3o em receitas em 2025; veja as principais fontes de renda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/01/de-onde-vieram-os-bilhoes-declarados-por-trump.ghtml",
-      "date": "Wed, 01 Jul 2026 18:40:09 -0000"
-    },
-    {
-      "title": "Paramount prop\u00F5e concess\u00F5es \u00E0 UE para destravar compra da Warner Bros",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/01/paramount-propoe-concessoes-a-ue-para-destravar-compra-da-warner-bros.ghtml",
-      "date": "Wed, 01 Jul 2026 18:16:42 -0000"
     }
   ]
 }
