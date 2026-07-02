@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172109.52,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 172153.27,
+      "change": 0.27,
+      "changeStr": "\u002B0.27%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.93,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 37.79,
+      "change": -0.11,
+      "changeStr": "-0.11%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.04,
-      "change": 0.09,
-      "changeStr": "\u002B0.09%"
+      "price": 77.84,
+      "change": -0.17,
+      "changeStr": "-0.17%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.44,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 42.34,
+      "change": -0.24,
+      "changeStr": "-0.24%"
     },
     {
       "symbol": "BBDC4",
@@ -32,30 +32,54 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 19.78,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 19.76,
+      "change": 0.15,
+      "changeStr": "\u002B0.15%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.52,
-      "change": 2.03,
-      "changeStr": "\u002B2.03%"
+      "price": 4.37,
+      "change": -1.35,
+      "changeStr": "-1.35%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.27,
-      "change": 0.43,
-      "changeStr": "\u002B0.43%"
+      "price": 16.25,
+      "change": 0.31,
+      "changeStr": "\u002B0.31%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.98,
-      "change": -0.61,
-      "changeStr": "-0.61%"
+      "price": 46.23,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     }
   ],
   "news": [
+    {
+      "title": "Venda de carros el\u00E9tricos no Brasil \u00E9 tr\u00EAs vezes maior em 2026 quando comparada a 2025",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/02/venda-de-carros-eletricos-no-brasil-aumenta-no-primeiro-semestre-de-2026.ghtml",
+      "date": "Thu, 02 Jul 2026 17:20:12 -0000"
+    },
+    {
+      "title": "Governo deve elevar proje\u00E7\u00E3o de infla\u00E7\u00E3o em 2026 sob impacto do El Ni\u00F1o, diz secret\u00E1ria",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/02/governo-deve-elevar-projecao-de-inflacao-em-2026-sob-impacto-do-el-nino.ghtml",
+      "date": "Thu, 02 Jul 2026 15:49:57 -0000"
+    },
+    {
+      "title": "\u0027Caf\u00E9 dos Perdedores\u0027: cafeteria oferece bebida gr\u00E1tis para consolar torcedores de sele\u00E7\u00F5es eliminadas da Copa do Mundo ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/02/eliminados-mas-acolhidos-cafeteria-na-cidade-do-mexico-vira-refugio-para-torcedores-que-dao-adeus-a-copa.ghtml",
+      "date": "Thu, 02 Jul 2026 15:35:59 -0000"
+    },
+    {
+      "title": "Adolescente acusa redes sociais de causar depress\u00E3o; TikTok fecha acordo antes do julgamento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/02/adolescente-acusa-redes-sociais-de-causar-depressao-tiktok-fecha-acordo-antes-do-julgamento.ghtml",
+      "date": "Thu, 02 Jul 2026 15:27:37 -0000"
+    },
     {
       "title": "Pilotos de F1 v\u00E3o acelerar karts de Lego em Silverstone; veja como carrinhos foram montados",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/02/uso-de-internet-chega-a-quase-75percent-dos-idosos-e-criancas-diminuem-acesso-a-rede-diz-ibge.ghtml",
       "date": "Thu, 02 Jul 2026 13:00:41 -0000"
-    },
-    {
-      "title": "Uso de internet chega a 90,5% dos brasileiros, e diferen\u00E7a cai entre \u00E1reas urbanas e rurais, diz IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/02/uso-de-internet-chega-a-905percent-dos-brasileiros-e-diferenca-cai-entre-areas-urbanas-e-rurais-diz-ibge.ghtml",
-      "date": "Thu, 02 Jul 2026 13:00:05 -0000"
-    },
-    {
-      "title": "Sony vai deixar de fabricar discos f\u00EDsicos para novos jogos de PlayStation em 2028",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/02/sony-vai-deixar-de-fabricar-discos-fisicos-para-novos-jogos-de-playstation-em-2028.ghtml",
-      "date": "Thu, 02 Jul 2026 12:50:09 -0000"
-    },
-    {
-      "title": "EUA correm risco de n\u00E3o cumprir metas de biocombust\u00EDveis de Trump",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/02/eua-correm-risco-de-nao-cumprir-metas-de-biocombustiveis-de-trump.ghtml",
-      "date": "Thu, 02 Jul 2026 12:26:19 -0000"
-    },
-    {
-      "title": "Uni\u00E3o Europeia aposta em euro digital para reduzir dom\u00EDnio dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/02/uniao-europeia-aposta-em-euro-digital-para-reduzir-dominio-dos-eua.ghtml",
-      "date": "Thu, 02 Jul 2026 12:25:41 -0000"
     }
   ]
 }
