@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172153.27,
-      "change": 0.27,
-      "changeStr": "\u002B0.27%"
+      "price": 172299.27,
+      "change": 0.36,
+      "changeStr": "\u002B0.36%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.79,
-      "change": -0.11,
-      "changeStr": "-0.11%"
+      "price": 37.72,
+      "change": -0.29,
+      "changeStr": "-0.29%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.84,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 77.89,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.34,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 42.41,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.12,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 18.15,
+      "change": 0.17,
+      "changeStr": "\u002B0.17%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.76,
-      "change": 0.15,
-      "changeStr": "\u002B0.15%"
+      "price": 19.88,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.37,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 4.33,
+      "change": -2.26,
+      "changeStr": "-2.26%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.25,
-      "change": 0.31,
-      "changeStr": "\u002B0.31%"
+      "price": 16.23,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.23,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 46.17,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     }
   ],
   "news": [
+    {
+      "title": "Grupo de mulheres de direita amea\u00E7a acionar justi\u00E7a dos EUA contra ataques nas redes sociais ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/02/grupo-de-mulheres-de-direita-ameaca-acionar-justica-dos-eua-contra-ataques-nas-redes-sociais.ghtml",
+      "date": "Thu, 02 Jul 2026 19:02:20 -0000"
+    },
+    {
+      "title": "Ministro diz que \u0027atropelos\u0027 atrapalham negocia\u00E7\u00F5es com EUA sobre tarifas, mas que \u0027corre contra o tempo\u0027 por consenso",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/02/ministro-diz-que-atropelos-atrapalham-negociacoes-com-eua-sobre-tarifas-mas-que-governo-corre-contra-o-tempo-por-consenso.ghtml",
+      "date": "Thu, 02 Jul 2026 17:48:36 -0000"
+    },
     {
       "title": "Venda de carros el\u00E9tricos no Brasil \u00E9 tr\u00EAs vezes maior em 2026 quando comparada a 2025",
       "source": "G1 Economia",
@@ -81,6 +93,12 @@
       "date": "Thu, 02 Jul 2026 15:27:37 -0000"
     },
     {
+      "title": "Fl\u00E1vio v\u00EA fortalecimento de Lula em ano eleitoral e pede aos EUA adiamento de tarifas contra Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/02/em-manifestacao-enviada-aos-eua-flavio-pede-suspensao-da-aplicacao-de-tarifas-contra-brasil-e-abertura-de-negociacao.ghtml",
+      "date": "Thu, 02 Jul 2026 15:17:20 -0000"
+    },
+    {
       "title": "Pilotos de F1 v\u00E3o acelerar karts de Lego em Silverstone; veja como carrinhos foram montados",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/07/02/pilotos-de-f1-karts-de-lego-silverstone.ghtml",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/07/02/cashback-do-ir-500-mil-contribuintes-ficam-sem-receber-por-falta-de-chave-pix-com-cpf.ghtml",
       "date": "Thu, 02 Jul 2026 14:27:35 -0000"
-    },
-    {
-      "title": "Peru declara estado de emerg\u00EAncia em 40% do pa\u00EDs por chuvas causadas pelo El Ni\u00F1o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/02/peru-declara-estado-de-emergencia-em-40percent-do-pais-por-chuvas-causadas-pelo-el-nino.ghtml",
-      "date": "Thu, 02 Jul 2026 13:54:58 -0000"
-    },
-    {
-      "title": "PIX, STF, redes sociais: entenda as cr\u00EDticas dos EUA para propor tarifa de 25% e os argumentos do Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/07/02/pix-stf-redes-sociais-entenda-as-criticas-dos-eua-para-propor-tarifa-de-25percent-e-os-argumentos-do-brasil.ghtml",
-      "date": "Thu, 02 Jul 2026 13:04:33 -0000"
-    },
-    {
-      "title": "Uso de internet chega a quase 75% dos idosos, e crian\u00E7as diminuem acesso \u00E0 rede, diz IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/02/uso-de-internet-chega-a-quase-75percent-dos-idosos-e-criancas-diminuem-acesso-a-rede-diz-ibge.ghtml",
-      "date": "Thu, 02 Jul 2026 13:00:41 -0000"
     }
   ]
 }
