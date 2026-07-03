@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174243.73,
-      "change": 0.84,
-      "changeStr": "\u002B0.84%"
+      "price": 174070.27,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.2,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
+      "price": 38.25,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.86,
-      "change": 0.79,
-      "changeStr": "\u002B0.79%"
+      "price": 78.84,
+      "change": 0.77,
+      "changeStr": "\u002B0.77%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.78,
-      "change": 0.73,
-      "changeStr": "\u002B0.73%"
+      "price": 42.74,
+      "change": 0.64,
+      "changeStr": "\u002B0.64%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.32,
-      "change": 0.88,
-      "changeStr": "\u002B0.88%"
+      "price": 18.26,
+      "change": 0.55,
+      "changeStr": "\u002B0.55%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.05,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 19.98,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.43,
-      "change": 3.75,
-      "changeStr": "\u002B3.75%"
+      "price": 4.45,
+      "change": 4.22,
+      "changeStr": "\u002B4.22%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.28,
-      "change": -0.12,
-      "changeStr": "-0.12%"
+      "price": 16.29,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.66,
-      "change": 0.86,
-      "changeStr": "\u002B0.86%"
+      "price": 46.48,
+      "change": 0.48,
+      "changeStr": "\u002B0.48%"
     }
   ],
   "news": [
+    {
+      "title": "Governo lan\u00E7a programa para renegocia\u00E7\u00F5es de d\u00EDvidas de microempreendedores com descontos de at\u00E9 70%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/03/governo-lanca-programa-para-renegociacoes-de-dividas-de-microempreendedores-com-descontos-de-ate-70percent.ghtml",
+      "date": "Fri, 03 Jul 2026 20:15:58 -0000"
+    },
+    {
+      "title": "\u0027Brasil\u0027 vira \u0027suti\u00E3\u0027 no ranking da Fifa traduzido para o portugu\u00EAs; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/03/brasil-vira-sutia-no-ranking-da-fifa-traduzido-para-o-portugues-entenda.ghtml",
+      "date": "Fri, 03 Jul 2026 19:38:17 -0000"
+    },
     {
       "title": "Brasileiro assume comando de nova divis\u00E3o de intelig\u00EAncia artificial da Microsoft; saiba quem \u00E9",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/03/governo-brasileiro-altera-regras-de-exportacao-de-carnes-para-uniao-europeia-e-tenta-evitar-embargo.ghtml",
       "date": "Fri, 03 Jul 2026 15:46:30 -0000"
-    },
-    {
-      "title": "Neymar, Endrick e mais: veja quanto custa atualizar o \u00E1lbum da Copa com as novas figurinhas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/03/quanto-custa-o-kit-de-atualizacao-de-figurinhas-para-o-album-da-copa.ghtml",
-      "date": "Fri, 03 Jul 2026 15:01:22 -0000"
-    },
-    {
-      "title": "Exporta\u00E7\u00F5es de petr\u00F3leo do Golfo P\u00E9rsico se recuperam em junho, mas seguem 40% abaixo do pr\u00E9-guerra",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/03/exportacoes-petroleo.ghtml",
-      "date": "Fri, 03 Jul 2026 13:50:59 -0000"
     }
   ]
 }
