@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174342.52,
-      "change": 0.9,
-      "changeStr": "\u002B0.90%"
+      "price": 174243.73,
+      "change": 0.84,
+      "changeStr": "\u002B0.84%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.19,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 38.2,
+      "change": 0.63,
+      "changeStr": "\u002B0.63%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.57,
-      "change": 0.42,
-      "changeStr": "\u002B0.42%"
+      "price": 78.86,
+      "change": 0.79,
+      "changeStr": "\u002B0.79%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.7,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 42.78,
+      "change": 0.73,
+      "changeStr": "\u002B0.73%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.31,
-      "change": 0.83,
-      "changeStr": "\u002B0.83%"
+      "price": 18.32,
+      "change": 0.88,
+      "changeStr": "\u002B0.88%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.03,
-      "change": 0.15,
-      "changeStr": "\u002B0.15%"
+      "price": 20.05,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.42,
-      "change": 3.51,
-      "changeStr": "\u002B3.51%"
+      "price": 4.43,
+      "change": 3.75,
+      "changeStr": "\u002B3.75%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.27,
-      "change": -0.18,
-      "changeStr": "-0.18%"
+      "price": 16.28,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.75,
-      "change": 1.06,
-      "changeStr": "\u002B1.06%"
+      "price": 46.66,
+      "change": 0.86,
+      "changeStr": "\u002B0.86%"
     }
   ],
   "news": [
+    {
+      "title": "Brasileiro assume comando de nova divis\u00E3o de intelig\u00EAncia artificial da Microsoft; saiba quem \u00E9",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/03/quem-e-brasileiro-microsoft.ghtml",
+      "date": "Fri, 03 Jul 2026 18:59:57 -0000"
+    },
+    {
+      "title": "Balan\u00E7a comercial tem super\u00E1vit de US$ 9,8 bilh\u00F5es em junho, aumento de 66% em rela\u00E7\u00E3o ao ano passado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/03/balanca-comercial-tem-superavit-de-us-98-bilhoes-em-junho.ghtml",
+      "date": "Fri, 03 Jul 2026 18:41:56 -0000"
+    },
+    {
+      "title": "AGU notifica Google no Brasil sobre perfis no YouTube que promovem apostas ilegais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/03/agu-notifica-google-no-brasil-sobre-perfis-no-youtube-que-promovem-apostas-ilegais.ghtml",
+      "date": "Fri, 03 Jul 2026 18:40:24 -0000"
+    },
+    {
+      "title": "Durigan diz que PIX n\u00E3o prejudica americanos e defende \u0027racionalidade\u0027 em decis\u00E3o dos EUA sobre tarifas  ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/03/durigan-diz-que-pix-nao-prejudica-americanos-e-defende-racionalidade-em-decisao-dos-eua-sobre-tarifas.ghtml",
+      "date": "Fri, 03 Jul 2026 18:16:56 -0000"
+    },
+    {
+      "title": "\u0027Parecemos crian\u00E7as e palha\u00E7os\u0027: Verstappen detona desfile da F\u00F3rmula 1 com carros de Lego",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/03/parecemos-criancas-e-palhacos-piloto-holandes-detona-desfile-da-formula-1-com-carros-de-lego.ghtml",
+      "date": "Fri, 03 Jul 2026 17:50:51 -0000"
+    },
     {
       "title": "Como montar uma horta em casa",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/03/exportacoes-petroleo.ghtml",
       "date": "Fri, 03 Jul 2026 13:50:59 -0000"
-    },
-    {
-      "title": "Dataprev publica edital de concurso com 1,8 mil vagas e sal\u00E1rios de at\u00E9 R$ 10,6 mil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/03/dataprev-publica-edital-de-concurso-veja-como-participar.ghtml",
-      "date": "Fri, 03 Jul 2026 12:54:09 -0000"
-    },
-    {
-      "title": "Alibaba pro\u00EDbe funcion\u00E1rios de usar ferramenta de IA da Anthropic, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/03/alibaba-anthropic.ghtml",
-      "date": "Fri, 03 Jul 2026 12:19:52 -0000"
-    },
-    {
-      "title": "Pre\u00E7os dos alimentos no mundo recuam pelo segundo m\u00EAs consecutivo em junho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/03/precos-alimentos.ghtml",
-      "date": "Fri, 03 Jul 2026 12:01:46 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda e vai a R$ 5,16, de olho em dados econ\u00F4micos e com feriado nos EUA; Ibovespa sobe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/03/dolar-ibovespa.ghtml",
-      "date": "Fri, 03 Jul 2026 12:00:08 -0000"
-    },
-    {
-      "title": "Brasil cria centro para pesquisar novos insumos farmac\u00EAuticos a partir da biodiversidade",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/saude/noticia/2026/07/03/brasil-cria-centro-para-produzir-insumos-farmaceuticos-e-reduzir-dependencia-do-exterior-projeto-nao-tem-prazo-nem-meta-definidos.ghtml",
-      "date": "Fri, 03 Jul 2026 09:28:35 -0000"
     }
   ]
 }
