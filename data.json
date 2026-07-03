@@ -2,65 +2,89 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172787.62,
-      "change": 0.64,
-      "changeStr": "\u002B0.64%"
+      "price": 174421.14,
+      "change": 0.95,
+      "changeStr": "\u002B0.95%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.96,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 38.14,
+      "change": 0.47,
+      "changeStr": "\u002B0.47%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.24,
-      "change": 0.35,
-      "changeStr": "\u002B0.35%"
+      "price": 78.6,
+      "change": 0.46,
+      "changeStr": "\u002B0.46%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.47,
-      "change": 0.07,
-      "changeStr": "\u002B0.07%"
+      "price": 42.7,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.16,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 18.33,
+      "change": 0.94,
+      "changeStr": "\u002B0.94%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20,
-      "change": 1.37,
-      "changeStr": "\u002B1.37%"
+      "price": 20.09,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.27,
-      "change": -3.61,
-      "changeStr": "-3.61%"
+      "price": 4.39,
+      "change": 2.81,
+      "changeStr": "\u002B2.81%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.3,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 16.29,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.26,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 46.76,
+      "change": 1.08,
+      "changeStr": "\u002B1.08%"
     }
   ],
   "news": [
+    {
+      "title": "Governo brasileiro altera regras de exporta\u00E7\u00E3o de carnes para Uni\u00E3o Europeia e tenta evitar embargo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/03/governo-brasileiro-altera-regras-de-exportacao-de-carnes-para-uniao-europeia-e-tenta-evitar-embargo.ghtml",
+      "date": "Fri, 03 Jul 2026 15:46:30 -0000"
+    },
+    {
+      "title": "Neymar, Endrick e mais: veja quanto custa atualizar o \u00E1lbum da Copa com as novas figurinhas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/03/quanto-custa-o-kit-de-atualizacao-de-figurinhas-para-o-album-da-copa.ghtml",
+      "date": "Fri, 03 Jul 2026 15:01:22 -0000"
+    },
+    {
+      "title": "Exporta\u00E7\u00F5es de petr\u00F3leo do Golfo P\u00E9rsico se recuperam em junho, mas seguem 40% abaixo do pr\u00E9-guerra",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/03/exportacoes-petroleo.ghtml",
+      "date": "Fri, 03 Jul 2026 13:50:59 -0000"
+    },
     {
       "title": "Dataprev publica edital de concurso com 1,8 mil vagas e sal\u00E1rios de at\u00E9 R$ 10,6 mil",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/03/dataprev-publica-edital-de-concurso-veja-como-participar.ghtml",
       "date": "Fri, 03 Jul 2026 12:54:09 -0000"
+    },
+    {
+      "title": "Alibaba pro\u00EDbe funcion\u00E1rios de usar ferramenta de IA da Anthropic, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/03/alibaba-anthropic.ghtml",
+      "date": "Fri, 03 Jul 2026 12:19:52 -0000"
     },
     {
       "title": "Pre\u00E7os dos alimentos no mundo recuam pelo segundo m\u00EAs consecutivo em junho",
@@ -69,13 +93,13 @@
       "date": "Fri, 03 Jul 2026 12:01:46 -0000"
     },
     {
-      "title": "D\u00F3lar abre em queda, com foco em dados econ\u00F4micos e feriado nos EUA",
+      "title": "D\u00F3lar opera em queda, de olho em dados econ\u00F4micos e e com feriado nos EUA; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/03/dolar-ibovespa.ghtml",
       "date": "Fri, 03 Jul 2026 12:00:08 -0000"
     },
     {
-      "title": "Brasil cria centro para produzir insumos farmac\u00EAuticos e reduzir depend\u00EAncia do exterior; projeto n\u00E3o tem prazo nem meta definidos ",
+      "title": "Brasil cria centro para pesquisar novos insumos farmac\u00EAuticos a partir da biodiversidade",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/saude/noticia/2026/07/03/brasil-cria-centro-para-produzir-insumos-farmaceuticos-e-reduzir-dependencia-do-exterior-projeto-nao-tem-prazo-nem-meta-definidos.ghtml",
       "date": "Fri, 03 Jul 2026 09:28:35 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/03/a-brasileira-empresaria-de-haaland-que-se-tornou-a-primeira-mulher-superagente-do-futebol-acham-que-a-gente-nao-entende-do-assunto.ghtml",
       "date": "Fri, 03 Jul 2026 07:00:40 -0000"
-    },
-    {
-      "title": "M\u00E9dico, atleta ou dono de cart\u00F3rio? Fa\u00E7a o QUIZ e veja quais profiss\u00F5es t\u00EAm o maior patrim\u00F4nio no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/quiz/quiz-quais-profissoes-tem-o-maior-patrimonio-no-brasil.ghtml",
-      "date": "Fri, 03 Jul 2026 07:00:31 -0000"
-    },
-    {
-      "title": "WhatsApp com nome de usu\u00E1rio: como reservar o seu? \u00C9 seguro? Tire d\u00FAvidas sobre o novo recurso",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/03/whatsapp-com-nome-de-usuario-tire-duvidas.ghtml",
-      "date": "Fri, 03 Jul 2026 06:00:12 -0000"
-    },
-    {
-      "title": "Sal\u00E1rio maior, bolso apertado: por que o dinheiro parece desaparecer?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/07/03/salario-maior-bolso-apertado-por-que-o-dinheiro-parece-desaparecer.ghtml",
-      "date": "Fri, 03 Jul 2026 05:00:09 -0000"
-    },
-    {
-      "title": "Tecnologia decisiva: como o chip na bola da Copa detectou toque que anulou o gol da Cro\u00E1cia e classificou Portugal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/02/tecnologia-decisiva-bola-com-sensor-captou-toque-em-lance-dramatico-que-eliminou-croacia-entenda.ghtml",
-      "date": "Fri, 03 Jul 2026 01:44:30 -0000"
     }
   ]
 }
