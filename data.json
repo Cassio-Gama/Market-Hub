@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172358.81,
-      "change": -0.98,
-      "changeStr": "-0.98%"
+      "price": 172447.58,
+      "change": -0.93,
+      "changeStr": "-0.93%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.71,
-      "change": -1.41,
-      "changeStr": "-1.41%"
+      "price": 37.77,
+      "change": -1.25,
+      "changeStr": "-1.25%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.72,
-      "change": -1.42,
-      "changeStr": "-1.42%"
+      "price": 77.79,
+      "change": -1.33,
+      "changeStr": "-1.33%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.38,
-      "change": -0.84,
-      "changeStr": "-0.84%"
+      "price": 42.56,
+      "change": -0.42,
+      "changeStr": "-0.42%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.85,
+      "price": 17.92,
+      "change": -1.86,
+      "changeStr": "-1.86%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 19.77,
+      "change": -1.05,
+      "changeStr": "-1.05%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 4.35,
       "change": -2.25,
       "changeStr": "-2.25%"
     },
     {
-      "symbol": "BBAS3",
-      "price": 19.81,
-      "change": -0.85,
-      "changeStr": "-0.85%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 4.34,
-      "change": -2.47,
-      "changeStr": "-2.47%"
-    },
-    {
       "symbol": "ABEV3",
-      "price": 15.85,
-      "change": -2.7,
-      "changeStr": "-2.70%"
+      "price": 15.88,
+      "change": -2.52,
+      "changeStr": "-2.52%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.39,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "price": 46.26,
+      "change": -0.47,
+      "changeStr": "-0.47%"
     }
   ],
   "news": [
+    {
+      "title": "Brasil chama investiga\u00E7\u00E3o dos EUA de \u0027arbitr\u00E1ria\u0027 e diz que tarifa de 12,5% viola regras da OMC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/06/brasil-contesta-investigacao-dos-eua-e-pede-retirada-de-tarifa-sobre-produtos-nacionais.ghtml",
+      "date": "Mon, 06 Jul 2026 21:01:12 -0000"
+    },
+    {
+      "title": "Brasil praticamente esgota cota de carne bovina \u00E0 China e reduz abates, diz StoneX",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/06/brasil-praticamente-esgota-cota-de-carne-bovina-a-china-e-reduz-abates-diz-stonex.ghtml",
+      "date": "Mon, 06 Jul 2026 19:08:06 -0000"
+    },
+    {
+      "title": "Ap\u00F3s Trump pedir \u00E0 Fifa libera\u00E7\u00E3o de Balogun, casas de apostas apontam favoritismo dos EUA contra a B\u00E9lgica",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/06/casas-de-apostas-passam-a-apontar-vitoria-dos-eua-apos-pedido-de-trump-a-fifa.ghtml",
+      "date": "Mon, 06 Jul 2026 19:01:15 -0000"
+    },
     {
       "title": "Hotmart anuncia demiss\u00E3o de cerca de 10% dos funcion\u00E1rios em reestrutura\u00E7\u00E3o",
       "source": "G1 Economia",
@@ -87,7 +105,7 @@
       "date": "Mon, 06 Jul 2026 12:39:01 -0000"
     },
     {
-      "title": "D\u00F3lar passa a cair, com investidores atentos ao tarifa\u00E7o e \u00E0 espera de novos dados econ\u00F4micos; Ibovespa recua",
+      "title": "D\u00F3lar cai e fecha a R$ 5,13, de olho no tarifa\u00E7o e \u00E0 espera de dados econ\u00F4micos; Ibovespa recua",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/06/dolar-ibovespa.ghtml",
       "date": "Mon, 06 Jul 2026 12:00:08 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/06/governo-autoriza-concursos-da-receita-federal-e-banco-central.ghtml",
       "date": "Mon, 06 Jul 2026 11:54:00 -0000"
-    },
-    {
-      "title": "Bilion\u00E1rio Bernard Arnault, o homem mais rico da Fran\u00E7a, ter\u00E1 de pagar \u20AC 22,5 milh\u00F5es em impostos atrasados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/06/bilionario-bernard-arnault-o-homem-mais-rico-da-franca-tera-de-pagar-impostos-atrasados.ghtml",
-      "date": "Mon, 06 Jul 2026 11:34:31 -0000"
-    },
-    {
-      "title": "IBGE prorroga inscri\u00E7\u00F5es para concurso com mais de 8 mil vagas tempor\u00E1rias; veja como participar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/06/ibge-prorroga-inscricoes-para-concurso-com-mais-de-8-mil-vagas-temporarias.ghtml",
-      "date": "Mon, 06 Jul 2026 11:12:09 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o de Trump: veja como caf\u00E9, mel e pescado v\u00E3o tentar escapar das novas taxas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/06/tarifaco-de-trump-veja-como-cafe-mel-e-pescado-vao-tentar-escapar-das-novas-taxas.ghtml",
-      "date": "Mon, 06 Jul 2026 03:00:48 -0000"
     }
   ]
 }
