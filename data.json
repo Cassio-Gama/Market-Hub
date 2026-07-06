@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172530.84,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "price": 172056.12,
+      "change": -1.16,
+      "changeStr": "-1.16%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.91,
-      "change": -0.89,
-      "changeStr": "-0.89%"
+      "price": 37.72,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.34,
-      "change": -0.63,
-      "changeStr": "-0.63%"
+      "price": 78.06,
+      "change": -0.99,
+      "changeStr": "-0.99%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.36,
-      "change": -0.89,
-      "changeStr": "-0.89%"
+      "price": 42.29,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.82,
-      "change": -2.41,
-      "changeStr": "-2.41%"
+      "price": 17.79,
+      "change": -2.57,
+      "changeStr": "-2.57%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.79,
-      "change": -0.95,
-      "changeStr": "-0.95%"
+      "price": 19.73,
+      "change": -1.25,
+      "changeStr": "-1.25%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.37,
-      "change": -1.8,
-      "changeStr": "-1.80%"
+      "price": 4.35,
+      "change": -2.25,
+      "changeStr": "-2.25%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.87,
-      "change": -2.58,
-      "changeStr": "-2.58%"
+      "price": 15.72,
+      "change": -3.5,
+      "changeStr": "-3.50%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.99,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 46.2,
+      "change": -0.6,
+      "changeStr": "-0.60%"
     }
   ],
   "news": [
+    {
+      "title": "Juiz dos EUA mant\u00E9m veredito que responsabilizou Elon Musk por enganar investidores do Twitter",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/06/juiz-dos-eua-rejeita-pedido-de-elon-musk-para-anular-veredito-sobre-fraude-contra-investidores-do-twitter.ghtml",
+      "date": "Mon, 06 Jul 2026 15:35:53 -0000"
+    },
+    {
+      "title": "Stellantis, dona da Fiat, inicia produ\u00E7\u00E3o do Jeep Avenger no Brasil e prepara estreia neste semestre",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/06/stellantis-inicia-producao-do-jeep-avenger-no-brasil-e-prepara-estreia-neste-semestre.ghtml",
+      "date": "Mon, 06 Jul 2026 15:09:46 -0000"
+    },
     {
       "title": "Ind\u00FAstria estima que 4,1 mil produtos podem ser afetados caso EUA imponha novo tarifa\u00E7o",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/06/brasil-vai-aos-eua-tentar-barrar-tarifaco-de-trump-veja-os-argumentos-da-industria-e-do-agro.ghtml",
       "date": "Mon, 06 Jul 2026 03:00:44 -0000"
-    },
-    {
-      "title": "Ap\u00F3s cessar-fogo entre EUA e Ir\u00E3 e reabertura do Estreito de Ormuz, OPEP\u002B aumenta produ\u00E7\u00E3o de petr\u00F3leo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/05/apos-cessar-fogo-entre-eua-e-ira-e-reabertura-do-estreito-de-ormuz-opep-aumenta-producao-de-petroleo.ghtml",
-      "date": "Sun, 05 Jul 2026 13:55:27 -0000"
-    },
-    {
-      "title": "Descarte correto de embalagens de defensivos fortalece sustentabilidade no campo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/07/05/descarte-correto-de-embalagens-de-defensivos-fortalece-sustentabilidade-no-campo.ghtml",
-      "date": "Sun, 05 Jul 2026 10:30:12 -0000"
     }
   ]
 }
