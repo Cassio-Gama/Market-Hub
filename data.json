@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172056.12,
-      "change": -1.16,
-      "changeStr": "-1.16%"
+      "price": 172358.81,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.72,
-      "change": -1.39,
-      "changeStr": "-1.39%"
+      "price": 37.71,
+      "change": -1.41,
+      "changeStr": "-1.41%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.06,
-      "change": -0.99,
-      "changeStr": "-0.99%"
+      "price": 77.72,
+      "change": -1.42,
+      "changeStr": "-1.42%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.29,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 42.38,
+      "change": -0.84,
+      "changeStr": "-0.84%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.79,
-      "change": -2.57,
-      "changeStr": "-2.57%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 19.73,
-      "change": -1.25,
-      "changeStr": "-1.25%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 4.35,
+      "price": 17.85,
       "change": -2.25,
       "changeStr": "-2.25%"
     },
     {
+      "symbol": "BBAS3",
+      "price": 19.81,
+      "change": -0.85,
+      "changeStr": "-0.85%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 4.34,
+      "change": -2.47,
+      "changeStr": "-2.47%"
+    },
+    {
       "symbol": "ABEV3",
-      "price": 15.72,
-      "change": -3.5,
-      "changeStr": "-3.50%"
+      "price": 15.85,
+      "change": -2.7,
+      "changeStr": "-2.70%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.2,
-      "change": -0.6,
-      "changeStr": "-0.60%"
+      "price": 46.39,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     }
   ],
   "news": [
+    {
+      "title": "Hotmart anuncia demiss\u00E3o de cerca de 10% dos funcion\u00E1rios em reestrutura\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/06/hotmart-faz-layoff-e-demite-cerca-de-10percent-dos-funcionarios-em-reestruturacao.ghtml",
+      "date": "Mon, 06 Jul 2026 17:38:17 -0000"
+    },
     {
       "title": "Juiz dos EUA mant\u00E9m veredito que responsabilizou Elon Musk por enganar investidores do Twitter",
       "source": "G1 Economia",
@@ -81,7 +87,7 @@
       "date": "Mon, 06 Jul 2026 12:39:01 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta, com investidores atentos ao tarifa\u00E7o e \u00E0 espera de novos dados econ\u00F4micos; Ibovespa cai",
+      "title": "D\u00F3lar passa a cair, com investidores atentos ao tarifa\u00E7o e \u00E0 espera de novos dados econ\u00F4micos; Ibovespa recua",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/06/dolar-ibovespa.ghtml",
       "date": "Mon, 06 Jul 2026 12:00:08 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/06/tarifaco-de-trump-veja-como-cafe-mel-e-pescado-vao-tentar-escapar-das-novas-taxas.ghtml",
       "date": "Mon, 06 Jul 2026 03:00:48 -0000"
-    },
-    {
-      "title": "Brasil vai aos EUA tentar barrar tarifa\u00E7o de Trump; veja os argumentos da ind\u00FAstria e do agro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/06/brasil-vai-aos-eua-tentar-barrar-tarifaco-de-trump-veja-os-argumentos-da-industria-e-do-agro.ghtml",
-      "date": "Mon, 06 Jul 2026 03:00:44 -0000"
     }
   ]
 }
