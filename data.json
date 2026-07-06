@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174070.27,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 172530.84,
+      "change": -0.88,
+      "changeStr": "-0.88%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.25,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 37.91,
+      "change": -0.89,
+      "changeStr": "-0.89%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.84,
-      "change": 0.77,
-      "changeStr": "\u002B0.77%"
+      "price": 78.34,
+      "change": -0.63,
+      "changeStr": "-0.63%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.74,
-      "change": 0.64,
-      "changeStr": "\u002B0.64%"
+      "price": 42.36,
+      "change": -0.89,
+      "changeStr": "-0.89%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.26,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 17.82,
+      "change": -2.41,
+      "changeStr": "-2.41%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.98,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 19.79,
+      "change": -0.95,
+      "changeStr": "-0.95%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.45,
-      "change": 4.22,
-      "changeStr": "\u002B4.22%"
+      "price": 4.37,
+      "change": -1.8,
+      "changeStr": "-1.80%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.29,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 15.87,
+      "change": -2.58,
+      "changeStr": "-2.58%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.48,
-      "change": 0.48,
-      "changeStr": "\u002B0.48%"
+      "price": 45.99,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     }
   ],
   "news": [
+    {
+      "title": "Ind\u00FAstria estima que 4,1 mil produtos podem ser afetados caso EUA imponha novo tarifa\u00E7o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/06/industria-estima-que-41-mil-produtos-exportados-para-os-eua-podem-ser-afetados-por-novo-tarifaco.ghtml",
+      "date": "Mon, 06 Jul 2026 13:20:29 -0000"
+    },
+    {
+      "title": "Audi\u00EAncias sobre tarifa\u00E7o: governo decide enviar observadores e mant\u00E9m aposta em negocia\u00E7\u00F5es diretas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/06/audiencias-sobre-tarifaco-governo-decide-enviar-observadores-e-mantem-aposta-em-negociacoes-diretas.ghtml",
+      "date": "Mon, 06 Jul 2026 12:39:01 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta, com investidores atentos ao tarifa\u00E7o e \u00E0 espera de novos dados econ\u00F4micos; Ibovespa cai",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/06/dolar-ibovespa.ghtml",
+      "date": "Mon, 06 Jul 2026 12:00:08 -0000"
+    },
+    {
+      "title": "Governo autoriza concursos da Receita Federal e Banco Central com 316 vagas; veja distribui\u00E7\u00E3o ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/06/governo-autoriza-concursos-da-receita-federal-e-banco-central.ghtml",
+      "date": "Mon, 06 Jul 2026 11:54:00 -0000"
+    },
+    {
+      "title": "Bilion\u00E1rio Bernard Arnault, o homem mais rico da Fran\u00E7a, ter\u00E1 de pagar \u20AC 22,5 milh\u00F5es em impostos atrasados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/06/bilionario-bernard-arnault-o-homem-mais-rico-da-franca-tera-de-pagar-impostos-atrasados.ghtml",
+      "date": "Mon, 06 Jul 2026 11:34:31 -0000"
+    },
+    {
+      "title": "IBGE prorroga inscri\u00E7\u00F5es para concurso com mais de 8 mil vagas tempor\u00E1rias; veja como participar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/06/ibge-prorroga-inscricoes-para-concurso-com-mais-de-8-mil-vagas-temporarias.ghtml",
+      "date": "Mon, 06 Jul 2026 11:12:09 -0000"
+    },
     {
       "title": "Tarifa\u00E7o de Trump: veja como caf\u00E9, mel e pescado v\u00E3o tentar escapar das novas taxas",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/07/05/descarte-correto-de-embalagens-de-defensivos-fortalece-sustentabilidade-no-campo.ghtml",
       "date": "Sun, 05 Jul 2026 10:30:12 -0000"
-    },
-    {
-      "title": "Silagem fortalece nutri\u00E7\u00E3o do gado nos per\u00EDodos de estiagem ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/07/05/silagem-fortalece-nutricao-do-gado-nos-periodos-de-estiagem.ghtml",
-      "date": "Sun, 05 Jul 2026 10:30:09 -0000"
-    },
-    {
-      "title": "Brasil x Noruega: qual \u00E9 a sele\u00E7\u00E3o mais valiosa da partida deste domingo? Veja o top 10",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/05/brasil-x-noruega-qual-e-a-selecao-mais-valiosa-da-partida-deste-domingo-veja-o-top-10.ghtml",
-      "date": "Sun, 05 Jul 2026 08:00:40 -0000"
-    },
-    {
-      "title": "El Ni\u00F1o amea\u00E7a produ\u00E7\u00E3o e pode encarecer alimentos no Brasil; veja os mais afetados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/05/el-nino-ameaca-producao-e-pode-encarecer-alimentos-no-brasil-veja-os-mais-afetados.ghtml",
-      "date": "Sun, 05 Jul 2026 08:00:36 -0000"
-    },
-    {
-      "title": "Muito al\u00E9m das remadas: a surpreendente economia dos vikings \u2014 que enfrentam o Brasil na Copa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/05/a-surpreendente-economia-dos-vikings-que-enfrentam-o-brasil-na-copa.ghtml",
-      "date": "Sun, 05 Jul 2026 07:01:11 -0000"
-    },
-    {
-      "title": "Com medo de furtos, produtores refor\u00E7am seguran\u00E7a e deixam de armazenar caf\u00E9 e pimenta no ES",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/07/05/com-medo-de-furtos-produtores-reforcam-seguranca-e-deixam-de-armazenar-cafe-e-pimenta-no-es.ghtml",
-      "date": "Sun, 05 Jul 2026 07:00:52 -0000"
-    },
-    {
-      "title": "Copa impulsiona contrata\u00E7\u00F5es tempor\u00E1rias no Brasil; veja os direitos dos trabalhadores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/05/copa-impulsiona-contratacoes-temporarias-no-brasil-veja-os-direitos-dos-trabalhadores.ghtml",
-      "date": "Sun, 05 Jul 2026 06:00:17 -0000"
     }
   ]
 }
