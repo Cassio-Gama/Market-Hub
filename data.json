@@ -2,62 +2,86 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171801.4,
-      "change": -0.37,
-      "changeStr": "-0.37%"
+      "price": 172020.69,
+      "change": -0.25,
+      "changeStr": "-0.25%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.14,
-      "change": 0.98,
-      "changeStr": "\u002B0.98%"
+      "price": 38.44,
+      "change": 1.77,
+      "changeStr": "\u002B1.77%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.3,
-      "change": -1.92,
-      "changeStr": "-1.92%"
+      "price": 76.2,
+      "change": -2.04,
+      "changeStr": "-2.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.4,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 42.43,
+      "change": -0.31,
+      "changeStr": "-0.31%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.86,
-      "change": -0.33,
-      "changeStr": "-0.33%"
+      "price": 17.82,
+      "change": -0.56,
+      "changeStr": "-0.56%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.86,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 19.73,
+      "change": -0.2,
+      "changeStr": "-0.20%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.39,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 4.42,
+      "change": 1.61,
+      "changeStr": "\u002B1.61%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.71,
-      "change": -1.07,
-      "changeStr": "-1.07%"
+      "price": 15.61,
+      "change": -1.7,
+      "changeStr": "-1.70%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.85,
-      "change": -0.89,
-      "changeStr": "-0.89%"
+      "price": 45.87,
+      "change": -0.84,
+      "changeStr": "-0.84%"
     }
   ],
   "news": [
     {
-      "title": "Imposto de Renda 2026: quando consultar a restitui\u00E7\u00E3o? Quando o dinheiro cai na conta?",
+      "title": "Ministro diz que reuni\u00F5es com EUA sobre tarifa\u00E7o seguem, mas recha\u00E7a incluir etanol na negocia\u00E7\u00E3o: \u0027Risco para o Nordeste\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/07/ministro-diz-que-reunioes-com-eua-sobre-tarifas-continuam-mas-rechaca-incluir-etanol-nas-negociacoes-risco-para-o-nordeste.ghtml",
+      "date": "Tue, 07 Jul 2026 19:21:18 -0000"
+    },
+    {
+      "title": "Governo v\u00EA tom \u0027pol\u00EDtico-eleitoral\u0027 em manifesta\u00E7\u00E3o de Fl\u00E1vio Bolsonaro sobre tarifa\u00E7o e diz que ele frustrou empres\u00E1rios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/07/governo-ve-tom-politico-eleitoral-em-manifestacao-de-flavio-bolsonaro-sobre-tarifaco-e-diz-que-ele-frustrou-empresarios.ghtml",
+      "date": "Tue, 07 Jul 2026 18:35:36 -0000"
+    },
+    {
+      "title": "MEI: projeto que amplia teto ter\u00E1 impacto fiscal de R$ 8,1 bilh\u00F5es em tr\u00EAs anos, estima governo ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/07/mei-projeto-que-amplia-teto-tera-impacto-fiscal-de-r-81-bilhoes-em-tres-anos-estima-governo.ghtml",
+      "date": "Tue, 07 Jul 2026 18:20:38 -0000"
+    },
+    {
+      "title": "Anfavea volta a criticar imposto menor para carros chineses e fala em \u0027competi\u00E7\u00E3o desigual\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/07/anfavea-volta-a-criticar-imposto-menor-para-carros-chineses-e-fala-em-competicao-desigual.ghtml",
+      "date": "Tue, 07 Jul 2026 18:16:16 -0000"
+    },
+    {
+      "title": "Imposto de Renda 2026: quando consultar a restitui\u00E7\u00E3o do lote especial \u0027cashback\u0027? Quando o dinheiro cai na conta?",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/07/07/imposto-de-renda-2026-quando-consultar-a-restituicao-quando-o-dinheiro-cai-na-conta.ghtml",
       "date": "Tue, 07 Jul 2026 17:55:44 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/07/deficit-comercial-dos-eua-dispara-42percent-em-maio-com-alta-das-importacoes.ghtml",
       "date": "Tue, 07 Jul 2026 14:35:07 -0000"
-    },
-    {
-      "title": "Copa do Mundo de 2026 deve render faturamento recorde \u00E0 Fifa; veja os valores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/07/copa-do-mundo-de-2026-faturamento-fifa-veja-os-valores.ghtml",
-      "date": "Tue, 07 Jul 2026 13:57:10 -0000"
-    },
-    {
-      "title": "Governo v\u00EA riscos de manipula\u00E7\u00E3o emocional e coleta de dados em brinquedos com IA vendidos no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/07/governo-ve-riscos-de-manipulacao-emocional-e-coleta-de-dados-em-brinquedos-com-ia-vendidos-no-brasil.ghtml",
-      "date": "Tue, 07 Jul 2026 12:13:28 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe e Ibovespa cai, com tens\u00F5es comerciais e petr\u00F3leo no radar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/07/dolar-ibovespa.ghtml",
-      "date": "Tue, 07 Jul 2026 12:00:27 -0000"
-    },
-    {
-      "title": "Crescimento bilion\u00E1rio da fortuna de Trump reacende debate sobre conflito de interesses; compare as regras dos EUA e do Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/07/crescimento-bilionario-da-fortuna-de-trump-reacende-debate-sobre-conflito-de-interesses-compare-as-regras-dos-eua-e-do-brasil.ghtml",
-      "date": "Tue, 07 Jul 2026 08:02:29 -0000"
     }
   ]
 }
