@@ -2,62 +2,80 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172120.17,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "price": 171801.4,
+      "change": -0.37,
+      "changeStr": "-0.37%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.34,
-      "change": 1.51,
-      "changeStr": "\u002B1.51%"
+      "price": 38.14,
+      "change": 0.98,
+      "changeStr": "\u002B0.98%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.44,
-      "change": -1.74,
-      "changeStr": "-1.74%"
+      "price": 76.3,
+      "change": -1.92,
+      "changeStr": "-1.92%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.69,
-      "change": 0.31,
-      "changeStr": "\u002B0.31%"
+      "price": 42.4,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.98,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
+      "price": 17.86,
+      "change": -0.33,
+      "changeStr": "-0.33%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.94,
-      "change": 0.86,
-      "changeStr": "\u002B0.86%"
+      "price": 19.86,
+      "change": 0.46,
+      "changeStr": "\u002B0.46%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.43,
-      "change": 1.84,
-      "changeStr": "\u002B1.84%"
+      "price": 4.39,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.86,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 15.71,
+      "change": -1.07,
+      "changeStr": "-1.07%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.04,
-      "change": -0.48,
-      "changeStr": "-0.48%"
+      "price": 45.85,
+      "change": -0.89,
+      "changeStr": "-0.89%"
     }
   ],
   "news": [
     {
-      "title": "Fl\u00E1vio diz que momento \u00E9 o \u0027pior poss\u00EDvel\u0027 para imposi\u00E7\u00E3o de tarifas pelos EUA e defende adiamento",
+      "title": "Imposto de Renda 2026: quando consultar a restitui\u00E7\u00E3o? Quando o dinheiro cai na conta?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/07/07/imposto-de-renda-2026-quando-consultar-a-restituicao-quando-o-dinheiro-cai-na-conta.ghtml",
+      "date": "Tue, 07 Jul 2026 17:55:44 -0000"
+    },
+    {
+      "title": "Meta diz que estados dos EUA querem aplicar multa de US$ 1,4 trilh\u00E3o por \u0027v\u00EDcio\u0027 em Facebook e Instagram ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/07/meta-eua-quer-aplicar-multa-de-14-trilhao-por-vicio-em-facebook-e-instagram.ghtml",
+      "date": "Tue, 07 Jul 2026 15:59:37 -0000"
+    },
+    {
+      "title": "Brasil pode voltar a vender mais de 3 milh\u00F5es de ve\u00EDculos em 2026 ap\u00F3s 12 anos, diz Anfavea",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/07/brasil-pode-voltar-a-vender-mais-de-3-milhoes-de-veiculos-em-2026-diz-anfavea.ghtml",
+      "date": "Tue, 07 Jul 2026 15:22:43 -0000"
+    },
+    {
+      "title": "Em audi\u00EAncia nos EUA, Fl\u00E1vio Bolsonaro diz que este momento \u00E9 o \u0027pior poss\u00EDvel\u0027 para novas tarifas e que elas beneficiariam Lula  ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/07/07/flavio-audiencia-tarifaco.ghtml",
       "date": "Tue, 07 Jul 2026 14:44:26 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/07/crescimento-bilionario-da-fortuna-de-trump-reacende-debate-sobre-conflito-de-interesses-compare-as-regras-dos-eua-e-do-brasil.ghtml",
       "date": "Tue, 07 Jul 2026 08:02:29 -0000"
-    },
-    {
-      "title": "25 tipos de agrot\u00F3xicos s\u00E3o detectados no rio Tiet\u00EA, mostra estudo da SOS Mata Atl\u00E2ntica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/07/25-tipos-de-agrotoxicos-sao-detectados-no-rio-tiete-mostra-estudo-da-sos-mata-atlantica.ghtml",
-      "date": "Tue, 07 Jul 2026 07:00:35 -0000"
-    },
-    {
-      "title": "Recupera\u00E7\u00E3o extrajudicial dispara no Brasil; entenda por que mais empresas seguem esse caminho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/07/recuperacao-extrajudicial-dispara-no-brasil-entenda-por-que-mais-empresas-seguem-esse-caminho.ghtml",
-      "date": "Tue, 07 Jul 2026 07:00:31 -0000"
-    },
-    {
-      "title": "Do caf\u00E9 ao arroz: El Ni\u00F1o amea\u00E7a produ\u00E7\u00E3o e pode elevar pre\u00E7os dos alimentos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/07/do-cafe-ao-arroz-el-nino-ameaca-producao-e-pode-elevar-precos-dos-alimentos.ghtml",
-      "date": "Tue, 07 Jul 2026 06:00:46 -0000"
     }
   ]
 }
