@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172447.58,
-      "change": -0.93,
-      "changeStr": "-0.93%"
+      "price": 172120.17,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     },
     {
       "symbol": "PETR4",
-      "price": 37.77,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 38.34,
+      "change": 1.51,
+      "changeStr": "\u002B1.51%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.79,
-      "change": -1.33,
-      "changeStr": "-1.33%"
+      "price": 76.44,
+      "change": -1.74,
+      "changeStr": "-1.74%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.56,
-      "change": -0.42,
-      "changeStr": "-0.42%"
+      "price": 42.69,
+      "change": 0.31,
+      "changeStr": "\u002B0.31%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.92,
-      "change": -1.86,
-      "changeStr": "-1.86%"
+      "price": 17.98,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.77,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 19.94,
+      "change": 0.86,
+      "changeStr": "\u002B0.86%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.35,
-      "change": -2.25,
-      "changeStr": "-2.25%"
+      "price": 4.43,
+      "change": 1.84,
+      "changeStr": "\u002B1.84%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.88,
-      "change": -2.52,
-      "changeStr": "-2.52%"
+      "price": 15.86,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.26,
-      "change": -0.47,
-      "changeStr": "-0.47%"
+      "price": 46.04,
+      "change": -0.48,
+      "changeStr": "-0.48%"
     }
   ],
   "news": [
+    {
+      "title": "Fl\u00E1vio diz que momento \u00E9 o \u0027pior poss\u00EDvel\u0027 para imposi\u00E7\u00E3o de tarifas pelos EUA e defende adiamento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/07/flavio-audiencia-tarifaco.ghtml",
+      "date": "Tue, 07 Jul 2026 14:44:26 -0000"
+    },
+    {
+      "title": "Trump diz que transfer\u00EAncia de produ\u00E7\u00E3o da Toyota para os EUA \u00E9 efeito das tarifas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/07/trump-diz-que-transferencia-de-producao-da-toyota-para-os-eua-e-efeito-das-tarifas.ghtml",
+      "date": "Tue, 07 Jul 2026 14:36:27 -0000"
+    },
+    {
+      "title": "Mesmo com tarifa\u00E7o, d\u00E9ficit comercial dos EUA dispara 42% em maio com alta das importa\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/07/deficit-comercial-dos-eua-dispara-42percent-em-maio-com-alta-das-importacoes.ghtml",
+      "date": "Tue, 07 Jul 2026 14:35:07 -0000"
+    },
+    {
+      "title": "Copa do Mundo de 2026 deve render faturamento recorde \u00E0 Fifa; veja os valores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/07/copa-do-mundo-de-2026-faturamento-fifa-veja-os-valores.ghtml",
+      "date": "Tue, 07 Jul 2026 13:57:10 -0000"
+    },
+    {
+      "title": "Governo v\u00EA riscos de manipula\u00E7\u00E3o emocional e coleta de dados em brinquedos com IA vendidos no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/07/governo-ve-riscos-de-manipulacao-emocional-e-coleta-de-dados-em-brinquedos-com-ia-vendidos-no-brasil.ghtml",
+      "date": "Tue, 07 Jul 2026 12:13:28 -0000"
+    },
+    {
+      "title": "D\u00F3lar sobe e Ibovespa cai, com tens\u00F5es comerciais e petr\u00F3leo no radar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/07/dolar-ibovespa.ghtml",
+      "date": "Tue, 07 Jul 2026 12:00:27 -0000"
+    },
     {
       "title": "Crescimento bilion\u00E1rio da fortuna de Trump reacende debate sobre conflito de interesses; compare as regras dos EUA e do Brasil",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/07/do-cafe-ao-arroz-el-nino-ameaca-producao-e-pode-elevar-precos-dos-alimentos.ghtml",
       "date": "Tue, 07 Jul 2026 06:00:46 -0000"
-    },
-    {
-      "title": "Menores que um p\u00F4nei, mini-horses conquistam brasileiros e s\u00E3o criados como pets at\u00E9 em quintais de casa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/07/menores-que-um-ponei-mini-horses-conquistam-brasileiros-e-sao-criados-como-pets-ate-em-quintais-de-casa.ghtml",
-      "date": "Tue, 07 Jul 2026 06:00:16 -0000"
-    },
-    {
-      "title": "Sem regulamenta\u00E7\u00E3o, mercados preditivos crescem no Brasil e viram desafio para o governo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/07/sem-regulamentacao-mercados-preditivos-crescem-no-brasil-e-viram-desafio-para-o-governo.ghtml",
-      "date": "Tue, 07 Jul 2026 06:00:14 -0000"
-    },
-    {
-      "title": "Tesla, Coca-Cola, Nestl\u00E9 e eBay pedem que EUA n\u00E3o tarifem produtos do Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/07/tesla-coca-cola-nestle-e-ebay-pedem-que-eua-nao-tarifem-produtos-do-brasil.ghtml",
-      "date": "Tue, 07 Jul 2026 03:39:56 -0000"
-    },
-    {
-      "title": "Perfil de Balogun \u00E9 invadido por torcedores rivais com cr\u00EDticas por anula\u00E7\u00E3o de cart\u00E3o ap\u00F3s pedido de Trump: \u0027Corrup\u00E7\u00E3o\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/06/perfil-balogun-anulacao-cartao.ghtml",
-      "date": "Tue, 07 Jul 2026 00:24:17 -0000"
-    },
-    {
-      "title": "Brasil chama investiga\u00E7\u00E3o dos EUA de \u0027arbitr\u00E1ria\u0027 e diz que tarifa de 12,5% viola regras da OMC",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/06/brasil-contesta-investigacao-dos-eua-e-pede-retirada-de-tarifa-sobre-produtos-nacionais.ghtml",
-      "date": "Mon, 06 Jul 2026 21:01:12 -0000"
-    },
-    {
-      "title": "Brasil praticamente esgota cota de carne bovina \u00E0 China e reduz abates, diz StoneX",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/06/brasil-praticamente-esgota-cota-de-carne-bovina-a-china-e-reduz-abates-diz-stonex.ghtml",
-      "date": "Mon, 06 Jul 2026 19:08:06 -0000"
     }
   ]
 }
