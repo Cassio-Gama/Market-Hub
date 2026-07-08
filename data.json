@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170761.95,
+      "price": 170653.45,
+      "change": -0.79,
+      "changeStr": "-0.79%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 39.65,
+      "change": 3.15,
+      "changeStr": "\u002B3.15%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 72.7,
+      "change": -4.59,
+      "changeStr": "-4.59%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 41.89,
+      "change": -1.27,
+      "changeStr": "-1.27%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 17.69,
       "change": -0.73,
       "changeStr": "-0.73%"
     },
     {
-      "symbol": "PETR4",
-      "price": 39.6,
-      "change": 3.02,
-      "changeStr": "\u002B3.02%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 72.82,
-      "change": -4.44,
-      "changeStr": "-4.44%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 41.88,
-      "change": -1.3,
-      "changeStr": "-1.30%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 17.67,
-      "change": -0.84,
-      "changeStr": "-0.84%"
-    },
-    {
       "symbol": "BBAS3",
-      "price": 19.58,
-      "change": -0.76,
-      "changeStr": "-0.76%"
+      "price": 19.53,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.42,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 4.51,
+      "change": 2.04,
+      "changeStr": "\u002B2.04%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.68,
-      "change": 0.45,
-      "changeStr": "\u002B0.45%"
+      "price": 15.62,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.46,
-      "change": -0.89,
-      "changeStr": "-0.89%"
+      "price": 45.35,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     }
   ],
   "news": [
+    {
+      "title": "SpaceXAI lan\u00E7a sua IA mais poderosa e promete mais economia para usu\u00E1rios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/08/spacexai-lanca-sua-ia-mais-poderosa-e-promete-mais-economia-para-usuarios.ghtml",
+      "date": "Wed, 08 Jul 2026 20:56:12 -0000"
+    },
+    {
+      "title": "Justi\u00E7a aprova acordo entre Elon Musk e SEC por atraso na divulga\u00E7\u00E3o de compra do Twitter",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/08/justica-aprova-acordo-entre-elon-musk-e-sec-por-atraso-na-divulgacao-de-compra-do-twitter.ghtml",
+      "date": "Wed, 08 Jul 2026 20:07:31 -0000"
+    },
+    {
+      "title": "\nR\u00FAssia tenta bloquear Starlink de Musk para conter drones ucranianos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/08/russia-tenta-bloquear-starlink-de-musk-para-conter-drones-ucranianos.ghtml",
+      "date": "Wed, 08 Jul 2026 19:44:44 -0000"
+    },
     {
       "title": "Em meio ao tarifa\u00E7o, governo Trump percorre cidades brasileiras para atrair empresas aos EUA",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/08/airbus-reduz-previsao-de-demanda-por-aeronaves.ghtml",
       "date": "Wed, 08 Jul 2026 13:23:14 -0000"
-    },
-    {
-      "title": "OpenAI lan\u00E7a ChatGPT mais potente nesta quinta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/08/openai-lanca-versao-mais-potente-do-chatgpt-mais-quinta.ghtml",
-      "date": "Wed, 08 Jul 2026 13:22:49 -0000"
-    },
-    {
-      "title": "Calor extremo amea\u00E7a produ\u00E7\u00E3o de vinho na Fran\u00E7a e acelera colheita de uvas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/08/calor-extremo-ameaca-producao-de-vinho-na-franca-e-acelera-colheita-de-uvas.ghtml",
-      "date": "Wed, 08 Jul 2026 12:54:33 -0000"
-    },
-    {
-      "title": "Natura estima queda de 9% na receita do 2\u00BA trimestre de 2026 por desempenho fraco no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/08/natura-estima-queda-da-receita-segundo-trimestre-de-2026.ghtml",
-      "date": "Wed, 08 Jul 2026 12:51:28 -0000"
     }
   ]
 }
