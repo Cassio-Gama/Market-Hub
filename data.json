@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172020.69,
-      "change": -0.25,
-      "changeStr": "-0.25%"
+      "price": 170456.1,
+      "change": -0.91,
+      "changeStr": "-0.91%"
     },
     {
       "symbol": "PETR4",
-      "price": 38.44,
-      "change": 1.77,
-      "changeStr": "\u002B1.77%"
+      "price": 39.55,
+      "change": 2.89,
+      "changeStr": "\u002B2.89%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.2,
-      "change": -2.04,
-      "changeStr": "-2.04%"
+      "price": 72.81,
+      "change": -4.45,
+      "changeStr": "-4.45%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.43,
-      "change": -0.31,
-      "changeStr": "-0.31%"
+      "price": 41.85,
+      "change": -1.37,
+      "changeStr": "-1.37%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.82,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 17.66,
+      "change": -0.9,
+      "changeStr": "-0.90%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.73,
-      "change": -0.2,
-      "changeStr": "-0.20%"
+      "price": 19.49,
+      "change": -1.22,
+      "changeStr": "-1.22%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.42,
-      "change": 1.61,
-      "changeStr": "\u002B1.61%"
+      "price": 4.36,
+      "change": -1.36,
+      "changeStr": "-1.36%"
     },
     {
       "symbol": "ABEV3",
       "price": 15.61,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.87,
-      "change": -0.84,
-      "changeStr": "-0.84%"
+      "price": 45.39,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     }
   ],
   "news": [
+    {
+      "title": "Veto \u00E0 carne brasileira: governo responsabiliza setor produtivo por adequa\u00E7\u00E3o \u00E0s exig\u00EAncias da UE",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/08/veto-a-carne-brasileira-governo-responsabiliza-setor-produtivo-por-adequacao-as-exigencias-da-ue.ghtml",
+      "date": "Wed, 08 Jul 2026 14:38:39 -0000"
+    },
+    {
+      "title": "Ministro diz que negocia\u00E7\u00F5es sobre tarifa\u00E7o seguem mesmo ap\u00F3s decis\u00E3o da secretaria de com\u00E9rcio dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/08/ministro-diz-que-negociacoes-sobre-tarifaco-seguem-mesmo-apos-decisao-da-secretaria-de-comercio-dos-eua.ghtml",
+      "date": "Wed, 08 Jul 2026 14:06:44 -0000"
+    },
+    {
+      "title": "FMI eleva proje\u00E7\u00F5es de crescimento do Brasil em 2026 e 2027, prevendo desacelera\u00E7\u00E3o no pr\u00F3ximo ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/08/fmi-eleva-projecoes-de-crescimento-do-brasil-em-2026-e-2027-prevendo-desaceleracao.ghtml",
+      "date": "Wed, 08 Jul 2026 13:41:06 -0000"
+    },
+    {
+      "title": "Airbus reduz previs\u00E3o de demanda por aeronaves e culpa guerra no Ir\u00E3 e tens\u00F5es comerciais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/08/airbus-reduz-previsao-de-demanda-por-aeronaves.ghtml",
+      "date": "Wed, 08 Jul 2026 13:23:14 -0000"
+    },
+    {
+      "title": "OpenAI lan\u00E7a ChatGPT mais potente nesta quinta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/08/openai-lanca-versao-mais-potente-do-chatgpt-mais-quinta.ghtml",
+      "date": "Wed, 08 Jul 2026 13:22:49 -0000"
+    },
+    {
+      "title": "Calor extremo amea\u00E7a produ\u00E7\u00E3o de vinho na Fran\u00E7a e acelera colheita de uvas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/08/calor-extremo-ameaca-producao-de-vinho-na-franca-e-acelera-colheita-de-uvas.ghtml",
+      "date": "Wed, 08 Jul 2026 12:54:33 -0000"
+    },
+    {
+      "title": "Natura estima queda de 9% na receita do 2\u00BA trimestre de 2026 por desempenho fraco no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/08/natura-estima-queda-da-receita-segundo-trimestre-de-2026.ghtml",
+      "date": "Wed, 08 Jul 2026 12:51:28 -0000"
+    },
     {
       "title": "Milei quer imitar EUA e \u0027paralisar o Estado\u0027 caso Congresso n\u00E3o aprove or\u00E7amento do governo",
       "source": "G1 Economia",
@@ -63,7 +105,7 @@
       "date": "Wed, 08 Jul 2026 12:17:27 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, de olho em petr\u00F3leo e tens\u00F5es no Oriente M\u00E9dio",
+      "title": "D\u00F3lar oscila e Ibovespa cai, de olho em petr\u00F3leo e tens\u00F5es no Oriente M\u00E9dio",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/08/dolar-ibovespa.ghtml",
       "date": "Wed, 08 Jul 2026 12:00:45 -0000"
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/08/uniao-europeia-cobra-que-eua-cumpram-acordo-comercial-apos-ameaca-de-trump-a-espanha.ghtml",
       "date": "Wed, 08 Jul 2026 11:26:40 -0000"
-    },
-    {
-      "title": "Mercados globais caem ap\u00F3s Trump declarar fim de acordo de paz com o Ir\u00E3; petr\u00F3leo sobe mais de 5%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/08/mercados-globais-caem-apos-trump-declarar-fim-de-acordo-de-paz-com-o-ira-petroleo-sobe-mais-de-5percent.ghtml",
-      "date": "Wed, 08 Jul 2026 11:19:37 -0000"
-    },
-    {
-      "title": "Apple perde recurso contra lei da Uni\u00E3o Europeia que limita poder das big techs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/08/apple-perde-recurso-contra-lei-da-uniao-europeia-que-limita-poder-das-big-techs.ghtml",
-      "date": "Wed, 08 Jul 2026 11:11:37 -0000"
-    },
-    {
-      "title": "Sites de dopamina: como lojas de mentira lucram com a sensa\u00E7\u00E3o boa de fazer compras online ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/07/08/sites-de-dopamina.ghtml",
-      "date": "Wed, 08 Jul 2026 08:03:18 -0000"
-    },
-    {
-      "title": "Maiores empresas de IA falham em combater \u0027amea\u00E7as  existenciais\u0027 ao homem, diz relat\u00F3rio global",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/08/industria-global-de-ia-nao-atende-padroes-de-seguranca-alerta-relatorio.ghtml",
-      "date": "Wed, 08 Jul 2026 07:01:09 -0000"
-    },
-    {
-      "title": "Algoz da sele\u00E7\u00E3o, Haaland ganha milh\u00F5es de seguidores com o \u0027efeito Brasil\u0027; veja impacto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/08/haaland-ganha-milhoes-de-seguidores-com-o-efeito-brasil.ghtml",
-      "date": "Wed, 08 Jul 2026 07:00:12 -0000"
-    },
-    {
-      "title": "Do caf\u00E9 ao arroz: El Ni\u00F1o amea\u00E7a produ\u00E7\u00E3o e pode elevar pre\u00E7os dos alimentos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/08/do-cafe-ao-arroz-el-nino-ameaca-producao-e-pode-elevar-precos-dos-alimentos.ghtml",
-      "date": "Wed, 08 Jul 2026 06:00:31 -0000"
-    },
-    {
-      "title": "Pre\u00E7o do petr\u00F3leo dispara ap\u00F3s novos ataques entre EUA e Ir\u00E3 e Trump dizer que acordo de paz \u0027acabou\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/08/preco-do-petroleo-apos-ataques-novos-ataques-entre-eua-e-ira.ghtml",
-      "date": "Wed, 08 Jul 2026 05:11:13 -0000"
     }
   ]
 }
