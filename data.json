@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170456.1,
-      "change": -0.91,
-      "changeStr": "-0.91%"
+      "price": 170675.4,
+      "change": -0.78,
+      "changeStr": "-0.78%"
     },
     {
       "symbol": "PETR4",
-      "price": 39.55,
-      "change": 2.89,
-      "changeStr": "\u002B2.89%"
+      "price": 39.4,
+      "change": 2.5,
+      "changeStr": "\u002B2.50%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.81,
-      "change": -4.45,
-      "changeStr": "-4.45%"
+      "price": 73.18,
+      "change": -3.96,
+      "changeStr": "-3.96%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.85,
-      "change": -1.37,
-      "changeStr": "-1.37%"
+      "price": 42.01,
+      "change": -0.99,
+      "changeStr": "-0.99%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.66,
-      "change": -0.9,
-      "changeStr": "-0.90%"
+      "price": 17.68,
+      "change": -0.79,
+      "changeStr": "-0.79%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.49,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 19.59,
+      "change": -0.71,
+      "changeStr": "-0.71%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.36,
-      "change": -1.36,
-      "changeStr": "-1.36%"
+      "price": 4.34,
+      "change": -1.81,
+      "changeStr": "-1.81%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.61,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 15.69,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.39,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 45.44,
+      "change": -0.94,
+      "changeStr": "-0.94%"
     }
   ],
   "news": [
+    {
+      "title": "Fran\u00E7a: empresas de delivery v\u00E3o suspender entregas em caso de calor extremo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/08/franca-empresas-de-delivery-vao-suspender-entregas-em-caso-de-calor-extremo.ghtml",
+      "date": "Wed, 08 Jul 2026 17:28:05 -0000"
+    },
+    {
+      "title": "Apple fecha acordo de R$ 155 bilh\u00F5es para fabricar chips nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/08/apple-fecha-acordo-de-r-155-bilhoes-para-fabricar-chips-nos-eua.ghtml",
+      "date": "Wed, 08 Jul 2026 15:30:08 -0000"
+    },
     {
       "title": "Veto \u00E0 carne brasileira: governo responsabiliza setor produtivo por adequa\u00E7\u00E3o \u00E0s exig\u00EAncias da UE",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/07/08/milei-quer-imitar-eua-e-paralisar-o-estado-caso-congresso-nao-aprove-orcamento-do-governo.ghtml",
       "date": "Wed, 08 Jul 2026 12:17:27 -0000"
-    },
-    {
-      "title": "D\u00F3lar oscila e Ibovespa cai, de olho em petr\u00F3leo e tens\u00F5es no Oriente M\u00E9dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/08/dolar-ibovespa.ghtml",
-      "date": "Wed, 08 Jul 2026 12:00:45 -0000"
-    },
-    {
-      "title": "Uni\u00E3o Europeia cobra que EUA cumpram acordo comercial ap\u00F3s amea\u00E7a de Trump \u00E0 Espanha",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/08/uniao-europeia-cobra-que-eua-cumpram-acordo-comercial-apos-ameaca-de-trump-a-espanha.ghtml",
-      "date": "Wed, 08 Jul 2026 11:26:40 -0000"
     }
   ]
 }
