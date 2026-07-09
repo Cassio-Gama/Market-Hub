@@ -1,6 +1,12 @@
 {
   "slider": [
     {
+      "symbol": "^BVSP",
+      "price": 172742.12,
+      "change": 1.22,
+      "changeStr": "\u002B1.22%"
+    },
+    {
       "symbol": "PETR4",
       "price": 39.21,
       "change": -1.11,
@@ -19,19 +25,43 @@
       "changeStr": "\u002B1.67%"
     },
     {
+      "symbol": "BBDC4",
+      "price": 18,
+      "change": 1.75,
+      "changeStr": "\u002B1.75%"
+    },
+    {
       "symbol": "BBAS3",
       "price": 20,
       "change": 2.41,
       "changeStr": "\u002B2.41%"
     },
     {
+      "symbol": "MGLU3",
+      "price": 4.86,
+      "change": 7.76,
+      "changeStr": "\u002B7.76%"
+    },
+    {
       "symbol": "ABEV3",
       "price": 15.72,
       "change": 0.64,
       "changeStr": "\u002B0.64%"
+    },
+    {
+      "symbol": "WEGE3",
+      "price": 45.74,
+      "change": 0.86,
+      "changeStr": "\u002B0.86%"
     }
   ],
   "news": [
+    {
+      "title": "Presidente do Fed abre revis\u00E3o do banco central americano e convoca grupo com Arm\u00EDnio Fraga",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/09/presidente-do-fed-abre-revisao-do-banco-central-e-convoca-grupo-com-arminio-fraga.ghtml",
+      "date": "Thu, 09 Jul 2026 20:52:14 -0000"
+    },
     {
       "title": "OpenAI lan\u00E7a ChatGPT Work, agente de IA criado para fazer suas tarefas do trabalho",
       "source": "G1 Economia",
@@ -85,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/09/decisao-sobre-tarifaco-ao-brasil-saira-em-breve-diz-representante-comercial-dos-eua.ghtml",
       "date": "Thu, 09 Jul 2026 12:54:52 -0000"
-    },
-    {
-      "title": "IA da Meta permite que outras pessoas criem deepfakes com fotos do seu Instagram; veja como impedir",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/09/ia-da-meta-permite-que-outras-pessoas-criem-deepfakes-com-fotos-do-seu-instagram-veja-como-impedir.ghtml",
-      "date": "Thu, 09 Jul 2026 12:51:06 -0000"
     }
   ]
 }
