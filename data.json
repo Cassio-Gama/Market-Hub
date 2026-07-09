@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170653.45,
-      "change": -0.79,
-      "changeStr": "-0.79%"
+      "price": 172534.44,
+      "change": 1.1,
+      "changeStr": "\u002B1.10%"
     },
     {
       "symbol": "PETR4",
-      "price": 39.65,
-      "change": 3.15,
-      "changeStr": "\u002B3.15%"
+      "price": 39.52,
+      "change": -0.33,
+      "changeStr": "-0.33%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.7,
-      "change": -4.59,
-      "changeStr": "-4.59%"
+      "price": 72.92,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.89,
-      "change": -1.27,
-      "changeStr": "-1.27%"
+      "price": 42.51,
+      "change": 1.48,
+      "changeStr": "\u002B1.48%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.69,
-      "change": -0.73,
-      "changeStr": "-0.73%"
+      "price": 17.96,
+      "change": 1.53,
+      "changeStr": "\u002B1.53%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.53,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 19.79,
+      "change": 1.33,
+      "changeStr": "\u002B1.33%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.51,
-      "change": 2.04,
-      "changeStr": "\u002B2.04%"
+      "price": 4.71,
+      "change": 4.43,
+      "changeStr": "\u002B4.43%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.62,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 15.71,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.35,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 45.79,
+      "change": 0.97,
+      "changeStr": "\u002B0.97%"
     }
   ],
   "news": [
+    {
+      "title": "Correios adiam fechamento de ag\u00EAncias e mudan\u00E7as em gratifica\u00E7\u00F5es at\u00E9 31 de julho",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/09/correios-adiam-fechamento-de-agencias-e-mudancas-em-gratificacoes-ate-31-de-julho.ghtml",
+      "date": "Thu, 09 Jul 2026 15:08:07 -0000"
+    },
+    {
+      "title": "Decis\u00E3o sobre tarifa\u00E7o ao Brasil sair\u00E1 \u0027muito em breve\u0027, diz representante de com\u00E9rcio dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/09/decisao-sobre-tarifaco-ao-brasil-saira-em-breve-diz-representante-comercial-dos-eua.ghtml",
+      "date": "Thu, 09 Jul 2026 12:54:52 -0000"
+    },
+    {
+      "title": "IA da Meta permite que outras pessoas criem deepfakes com fotos do seu Instagram; veja como impedir",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/09/ia-da-meta-permite-que-outras-pessoas-criem-deepfakes-com-fotos-do-seu-instagram-veja-como-impedir.ghtml",
+      "date": "Thu, 09 Jul 2026 12:51:06 -0000"
+    },
+    {
+      "title": "Governo adia decis\u00E3o sobre retirada do subs\u00EDdio \u00E0 gasolina ap\u00F3s novos ataques ao Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/09/governo-avalia-retirada-do-subsidio-da-gasolina-na-proxima-semana-apos-nova-onda-de-ataques-no-ira.ghtml",
+      "date": "Thu, 09 Jul 2026 12:42:04 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo abre em alta, perde for\u00E7a ao longo da manh\u00E3 e recua",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/09/petroleo-nesta-quinta-feira.ghtml",
+      "date": "Thu, 09 Jul 2026 12:16:12 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em queda de olho nas tens\u00F5es entre EUA-Ir\u00E3; Ibovespa avan\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/09/dolar-ibovespa.ghtml",
+      "date": "Thu, 09 Jul 2026 12:00:08 -0000"
+    },
     {
       "title": "Por que ovos de codorna t\u00EAm manchas e cores diferentes? Entenda",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/09/o-que-e-o-estreito-de-ormuz-fundamental-para-petroleo-mundial-disputa-por-passagem-motiva-novos-ataques-entre-eua-e-ira.ghtml",
       "date": "Thu, 09 Jul 2026 03:01:08 -0000"
-    },
-    {
-      "title": "Itamaraty mapeia mais de 40 empresas e associa\u00E7\u00F5es americanas que n\u00E3o querem o tarifa\u00E7o sobre os produtos brasileiros ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/09/itamaraty-mapeia-mais-de-40-empresas-e-associacoes-americanas-que-nao-querem-o-tarifaco-sobre-os-produtos-brasileiros.ghtml",
-      "date": "Thu, 09 Jul 2026 03:00:42 -0000"
-    },
-    {
-      "title": "Por que maioria dos brasileiros trabalha hoje, mas S\u00E3o Paulo tem folga? Entenda motivo e regras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/09/feriado-sao-paulo.ghtml",
-      "date": "Thu, 09 Jul 2026 03:00:36 -0000"
-    },
-    {
-      "title": "Concurso do IBGE: ap\u00F3s prorroga\u00E7\u00E3o, inscri\u00E7\u00F5es para mais de 8 mil vagas terminam nesta quinta-feira",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/09/concurso-do-ibge-apos-prorrogacao-inscricoes-para-mais-de-8-mil-vagas-terminam-nesta-quinta-feira.ghtml",
-      "date": "Thu, 09 Jul 2026 03:00:34 -0000"
-    },
-    {
-      "title": "Um ano ap\u00F3s carta de Trump a Lula e an\u00FAncio de tarifas: relembre os principais cap\u00EDtulos da disputa comercial entre EUA e Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/09/um-ano-apos-carta-de-trump-a-lula-e-anuncio-de-tarifas-relembre-os-principais-capitulos-da-disputa-comercial-entre-eua-e-brasil.ghtml",
-      "date": "Thu, 09 Jul 2026 03:00:09 -0000"
-    },
-    {
-      "title": "Senado aprova cr\u00E9dito de R$ 15 bi para exportadores afetados por tarifa\u00E7o e guerra no Oriente M\u00E9dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/07/08/senado-aprova-credito-de-r-15-bi-para-exportadoras-afetadas-por-tarifaco-e-guerra-no-oriente-medio.ghtml",
-      "date": "Wed, 08 Jul 2026 21:06:04 -0000"
-    },
-    {
-      "title": "SpaceXAI lan\u00E7a sua IA mais poderosa e promete mais economia para usu\u00E1rios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/08/spacexai-lanca-sua-ia-mais-poderosa-e-promete-mais-economia-para-usuarios.ghtml",
-      "date": "Wed, 08 Jul 2026 20:56:12 -0000"
     }
   ]
 }
