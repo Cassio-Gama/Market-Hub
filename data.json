@@ -1,61 +1,55 @@
 {
   "slider": [
     {
-      "symbol": "^BVSP",
-      "price": 172803.23,
-      "change": 1.26,
-      "changeStr": "\u002B1.26%"
-    },
-    {
       "symbol": "PETR4",
-      "price": 39.09,
-      "change": -1.41,
-      "changeStr": "-1.41%"
+      "price": 39.21,
+      "change": -1.11,
+      "changeStr": "-1.11%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.95,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 73.15,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.71,
-      "change": 1.96,
-      "changeStr": "\u002B1.96%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 18.03,
-      "change": 1.92,
-      "changeStr": "\u002B1.92%"
+      "price": 42.59,
+      "change": 1.67,
+      "changeStr": "\u002B1.67%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.05,
-      "change": 2.66,
-      "changeStr": "\u002B2.66%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 4.78,
-      "change": 5.99,
-      "changeStr": "\u002B5.99%"
+      "price": 20,
+      "change": 2.41,
+      "changeStr": "\u002B2.41%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.77,
-      "change": 0.96,
-      "changeStr": "\u002B0.96%"
-    },
-    {
-      "symbol": "WEGE3",
-      "price": 45.84,
-      "change": 1.08,
-      "changeStr": "\u002B1.08%"
+      "price": 15.72,
+      "change": 0.64,
+      "changeStr": "\u002B0.64%"
     }
   ],
   "news": [
+    {
+      "title": "OpenAI lan\u00E7a ChatGPT Work, agente de IA criado para fazer suas tarefas do trabalho",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/09/openai-lanca-chatgpt-work-agente-de-ia-criado-para-fazer-suas-tarefas-do-trabalho.ghtml",
+      "date": "Thu, 09 Jul 2026 19:11:08 -0000"
+    },
+    {
+      "title": "GloboNews lan\u00E7a novo telejornal e reformula programa\u00E7\u00E3o em comemora\u00E7\u00E3o aos 30 anos do canal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/07/09/globonews-novo-telejornal-e-programacao-30-anos.ghtml",
+      "date": "Thu, 09 Jul 2026 18:55:11 -0000"
+    },
+    {
+      "title": "Publicidade de bets ter\u00E1 alerta de como de cigarro e bebida; governo publica regras nesta sexta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/09/fazenda-bets.ghtml",
+      "date": "Thu, 09 Jul 2026 18:09:17 -0000"
+    },
     {
       "title": "Anac publica regra que garante assentos para menores de 16 anos ao lado de respons\u00E1veis",
       "source": "G1 Economia",
@@ -97,24 +91,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/09/ia-da-meta-permite-que-outras-pessoas-criem-deepfakes-com-fotos-do-seu-instagram-veja-como-impedir.ghtml",
       "date": "Thu, 09 Jul 2026 12:51:06 -0000"
-    },
-    {
-      "title": "Governo adia decis\u00E3o sobre retirada do subs\u00EDdio \u00E0 gasolina ap\u00F3s novos ataques ao Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/09/governo-avalia-retirada-do-subsidio-da-gasolina-na-proxima-semana-apos-nova-onda-de-ataques-no-ira.ghtml",
-      "date": "Thu, 09 Jul 2026 12:42:04 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo abre em alta, perde for\u00E7a ao longo da manh\u00E3 e recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/09/petroleo-nesta-quinta-feira.ghtml",
-      "date": "Thu, 09 Jul 2026 12:16:12 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda de olho nas tens\u00F5es entre EUA-Ir\u00E3; Ibovespa avan\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/09/dolar-ibovespa.ghtml",
-      "date": "Thu, 09 Jul 2026 12:00:08 -0000"
     }
   ]
 }
