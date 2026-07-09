@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172534.44,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
+      "price": 172803.23,
+      "change": 1.26,
+      "changeStr": "\u002B1.26%"
     },
     {
       "symbol": "PETR4",
-      "price": 39.52,
-      "change": -0.33,
-      "changeStr": "-0.33%"
+      "price": 39.09,
+      "change": -1.41,
+      "changeStr": "-1.41%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.92,
-      "change": 0.3,
-      "changeStr": "\u002B0.30%"
+      "price": 72.95,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.51,
-      "change": 1.48,
-      "changeStr": "\u002B1.48%"
+      "price": 42.71,
+      "change": 1.96,
+      "changeStr": "\u002B1.96%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.96,
-      "change": 1.53,
-      "changeStr": "\u002B1.53%"
+      "price": 18.03,
+      "change": 1.92,
+      "changeStr": "\u002B1.92%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.79,
-      "change": 1.33,
-      "changeStr": "\u002B1.33%"
+      "price": 20.05,
+      "change": 2.66,
+      "changeStr": "\u002B2.66%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.71,
-      "change": 4.43,
-      "changeStr": "\u002B4.43%"
+      "price": 4.78,
+      "change": 5.99,
+      "changeStr": "\u002B5.99%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.71,
-      "change": 0.58,
-      "changeStr": "\u002B0.58%"
+      "price": 15.77,
+      "change": 0.96,
+      "changeStr": "\u002B0.96%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.79,
-      "change": 0.97,
-      "changeStr": "\u002B0.97%"
+      "price": 45.84,
+      "change": 1.08,
+      "changeStr": "\u002B1.08%"
     }
   ],
   "news": [
+    {
+      "title": "Anac publica regra que garante assentos para menores de 16 anos ao lado de respons\u00E1veis",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/09/anac-publica-regra-que-garante-assentos-para-menores-de-16-anos-ao-lado-de-responsaveis.ghtml",
+      "date": "Thu, 09 Jul 2026 17:45:51 -0000"
+    },
+    {
+      "title": "Volkswagen negocia demiss\u00E3o em massa e fechamento de f\u00E1bricas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/09/volkswagen-demissao-fechamento-fabricas.ghtml",
+      "date": "Thu, 09 Jul 2026 17:35:13 -0000"
+    },
+    {
+      "title": "\u0027New York Times\u0027 e outros jornais dos EUA pedem que Justi\u00E7a puna OpenAI em disputa sobre direitos autorais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/09/new-york-times-e-outros-jornais-dos-eua-pedem-que-justica-puna-openai-em-disputa-sobre-direitos-autorais.ghtml",
+      "date": "Thu, 09 Jul 2026 17:10:35 -0000"
+    },
+    {
+      "title": "Governo mant\u00E9m al\u00EDquota de 12% no imposto de exporta\u00E7\u00E3o de petr\u00F3leo ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/09/governo-mantem-aliquota-de-12percent-do-imposto-de-exportacao-de-petroleo.ghtml",
+      "date": "Thu, 09 Jul 2026 16:21:39 -0000"
+    },
     {
       "title": "Correios adiam fechamento de ag\u00EAncias e mudan\u00E7as em gratifica\u00E7\u00F5es at\u00E9 31 de julho",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/09/dolar-ibovespa.ghtml",
       "date": "Thu, 09 Jul 2026 12:00:08 -0000"
-    },
-    {
-      "title": "Por que ovos de codorna t\u00EAm manchas e cores diferentes? Entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/09/por-que-ovos-de-codorna-tem-manchas-e-cores-diferentes-entenda.ghtml",
-      "date": "Thu, 09 Jul 2026 08:03:04 -0000"
-    },
-    {
-      "title": "\u0027N\u00E3o existe mais ano normal\u0027: agricultores dos EUA mudam hor\u00E1rios de colheita e protegem mudas para enfrentar calor extremo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/09/nao-existe-mais-ano-normal-agricultores-dos-eua-mudam-horarios-de-colheita-e-protegem-mudas-para-enfrentar-calor-extremo.ghtml",
-      "date": "Thu, 09 Jul 2026 06:00:29 -0000"
-    },
-    {
-      "title": "Meta constr\u00F3i data center gigante de IA no Canad\u00E1 com energia equivalente a 800 mil casas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/09/meta-constroi-data-center-gigante-de-ia-no-canada-com-energia-equivalente-a-800-mil-casas.ghtml",
-      "date": "Thu, 09 Jul 2026 06:00:09 -0000"
-    },
-    {
-      "title": "O que \u00E9 o Estreito de Ormuz, fundamental para petr\u00F3leo mundial; disputa por passagem motiva novos ataques entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/09/o-que-e-o-estreito-de-ormuz-fundamental-para-petroleo-mundial-disputa-por-passagem-motiva-novos-ataques-entre-eua-e-ira.ghtml",
-      "date": "Thu, 09 Jul 2026 03:01:08 -0000"
     }
   ]
 }
