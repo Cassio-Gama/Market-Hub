@@ -2,32 +2,62 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176192.47,
-      "change": 2,
-      "changeStr": "\u002B2.00%"
+      "price": 177308.23,
+      "change": 2.64,
+      "changeStr": "\u002B2.64%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 39.56,
+      "change": 0.89,
+      "changeStr": "\u002B0.89%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 74.49,
+      "change": 1.83,
+      "changeStr": "\u002B1.83%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 44.02,
+      "change": 3.36,
+      "changeStr": "\u002B3.36%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.52,
-      "change": 2.89,
-      "changeStr": "\u002B2.89%"
+      "price": 18.72,
+      "change": 4,
+      "changeStr": "\u002B4.00%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 20.58,
+      "change": 2.9,
+      "changeStr": "\u002B2.90%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 5.25,
+      "change": 8.02,
+      "changeStr": "\u002B8.02%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.84,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 15.81,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.41,
-      "change": 1.46,
-      "changeStr": "\u002B1.46%"
+      "price": 46.52,
+      "change": 1.71,
+      "changeStr": "\u002B1.71%"
     }
   ],
   "news": [
     {
-      "title": "Linha de cr\u00E9dito do Move Brasil para entregadores de app \u00E9 adiada para 27 de julho",
+      "title": "Linha de cr\u00E9dito do Move Brasil para mototaxistas e entregadores de app \u00E9 adiada para 27 de julho",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/10/linha-de-credito-do-move-brasil-para-entregadores-e-motoristas-de-app-e-adiada-para-27-de-julho.ghtml",
       "date": "Fri, 10 Jul 2026 14:27:46 -0000"
