@@ -1,61 +1,31 @@
 {
   "slider": [
     {
-      "symbol": "^BVSP",
-      "price": 177544.98,
-      "change": 2.78,
-      "changeStr": "\u002B2.78%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 39.57,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 74.35,
-      "change": 1.64,
-      "changeStr": "\u002B1.64%"
-    },
-    {
       "symbol": "ITUB4",
-      "price": 44.28,
-      "change": 3.97,
-      "changeStr": "\u002B3.97%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 18.81,
-      "change": 4.5,
-      "changeStr": "\u002B4.50%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 20.55,
-      "change": 2.75,
-      "changeStr": "\u002B2.75%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 5.17,
-      "change": 6.38,
-      "changeStr": "\u002B6.38%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 15.85,
-      "change": 0.83,
-      "changeStr": "\u002B0.83%"
-    },
-    {
-      "symbol": "WEGE3",
-      "price": 46.52,
-      "change": 1.71,
-      "changeStr": "\u002B1.71%"
+      "price": 44.3,
+      "change": 4.02,
+      "changeStr": "\u002B4.02%"
     }
   ],
   "news": [
+    {
+      "title": "Apple processa OpenAI e acusa rival de roubar informa\u00E7\u00F5es secretas para criar novos produtos ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/10/apple-processa-openai-alegando-apropriacao-indevida-de-segredos-comerciais.ghtml",
+      "date": "Fri, 10 Jul 2026 20:40:14 -0000"
+    },
+    {
+      "title": "SK Hynix: fabricante de chips para IA estreia na Nasdaq e consolida a maior oferta estrangeira nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/10/sk-hynix-fabricante-de-chips-para-ia-estreia-na-nasdaq-e-consolida-a-maior-oferta-estrangeira-nos-eua.ghtml",
+      "date": "Fri, 10 Jul 2026 20:30:08 -0000"
+    },
+    {
+      "title": "Governo Trump imp\u00F5e novas san\u00E7\u00F5es ao Ir\u00E3 e inclui banqueiro entre os alvos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/10/governo-trump-sancoes-ira.ghtml",
+      "date": "Fri, 10 Jul 2026 20:02:09 -0000"
+    },
     {
       "title": "TikTok diz que vai testar sistema para identificar contas que usam IA para criar spam na plataforma",
       "source": "G1 Economia",
@@ -97,24 +67,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/10/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-no-1o-semestre.ghtml",
       "date": "Fri, 10 Jul 2026 12:01:02 -0000"
-    },
-    {
-      "title": "IPCA: Infla\u00E7\u00E3o desacelera para 0,16% em junho com queda dos alimentos; conta de luz segue pressionando",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/10/ipca-inflacao-junho.ghtml",
-      "date": "Fri, 10 Jul 2026 12:00:30 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda, de olho em ap\u00F3s infla\u00E7\u00E3o e tens\u00F5es no Oriente M\u00E9dio; Ibovespa sobe mais de 2%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/10/dolar-ibovespa.ghtml",
-      "date": "Fri, 10 Jul 2026 12:00:30 -0000"
-    },
-    {
-      "title": "Em resposta a empres\u00E1rios, Itamaraty diz que segue \u0027empenhado\u0027 em negocia\u00E7\u00F5es sobre tarifa\u00E7o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/10/apos-pedido-de-empresarios-itamaraty-diz-que-segue-empenhado-em-negociacoes-sobre-tarifaco.ghtml",
-      "date": "Fri, 10 Jul 2026 12:00:05 -0000"
     }
   ]
 }
