@@ -2,119 +2,89 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172742.12,
-      "change": 1.22,
-      "changeStr": "\u002B1.22%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 39.21,
-      "change": -1.11,
-      "changeStr": "-1.11%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 73.15,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 42.59,
-      "change": 1.67,
-      "changeStr": "\u002B1.67%"
+      "price": 176192.47,
+      "change": 2,
+      "changeStr": "\u002B2.00%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18,
-      "change": 1.75,
-      "changeStr": "\u002B1.75%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 20,
-      "change": 2.41,
-      "changeStr": "\u002B2.41%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 4.86,
-      "change": 7.76,
-      "changeStr": "\u002B7.76%"
+      "price": 18.52,
+      "change": 2.89,
+      "changeStr": "\u002B2.89%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.72,
-      "change": 0.64,
-      "changeStr": "\u002B0.64%"
+      "price": 15.84,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.74,
-      "change": 0.86,
-      "changeStr": "\u002B0.86%"
+      "price": 46.41,
+      "change": 1.46,
+      "changeStr": "\u002B1.46%"
     }
   ],
   "news": [
+    {
+      "title": "Linha de cr\u00E9dito do Move Brasil para entregadores de app \u00E9 adiada para 27 de julho",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/10/linha-de-credito-do-move-brasil-para-entregadores-e-motoristas-de-app-e-adiada-para-27-de-julho.ghtml",
+      "date": "Fri, 10 Jul 2026 14:27:46 -0000"
+    },
+    {
+      "title": "Sensores, IA e VAR: aposta da Fifa em tecnologia gera pol\u00EAmicas na Copa do Mundo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/10/fifa-tecnologia-copa-do-mundo.ghtml",
+      "date": "Fri, 10 Jul 2026 13:16:44 -0000"
+    },
+    {
+      "title": "Trabalhadores barram plano de reestrutura\u00E7\u00E3o da Volkswagen, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/10/trabalhadores-barram-plano-de-reestruturacao-da-volkswagen.ghtml",
+      "date": "Fri, 10 Jul 2026 13:03:44 -0000"
+    },
+    {
+      "title": "Uni\u00E3o Europeia exige que Meta mude o \u0027design viciante\u0027 do Facebook e do Instagram",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/10/uniao-europeia-meta-facebook-instagram.ghtml",
+      "date": "Fri, 10 Jul 2026 12:31:44 -0000"
+    },
+    {
+      "title": "Movimento de navios cai no Estreito de Ormuz em meio \u00E0 escalada de tens\u00E3o entre EUA e Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/10/estreito-de-ormuz-navios.ghtml",
+      "date": "Fri, 10 Jul 2026 12:16:49 -0000"
+    },
+    {
+      "title": "Pre\u00E7o dos alimentos: o que ficou mais caro e o que barateou no 1\u00BA semestre",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/10/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-no-1o-semestre.ghtml",
+      "date": "Fri, 10 Jul 2026 12:01:02 -0000"
+    },
+    {
+      "title": "IPCA: Infla\u00E7\u00E3o desacelera para 0,16% em junho com queda dos alimentos; conta de luz segue pressionando",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/10/ipca-inflacao-junho.ghtml",
+      "date": "Fri, 10 Jul 2026 12:00:30 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em queda, de olho em ap\u00F3s infla\u00E7\u00E3o e tens\u00F5es no Oriente M\u00E9dio; Ibovespa sobe mais de 2%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/10/dolar-ibovespa.ghtml",
+      "date": "Fri, 10 Jul 2026 12:00:30 -0000"
+    },
+    {
+      "title": "Em resposta a empres\u00E1rios, Itamaraty diz que segue \u0027empenhado\u0027 em negocia\u00E7\u00F5es sobre tarifa\u00E7o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/10/apos-pedido-de-empresarios-itamaraty-diz-que-segue-empenhado-em-negociacoes-sobre-tarifaco.ghtml",
+      "date": "Fri, 10 Jul 2026 12:00:05 -0000"
+    },
     {
       "title": "Shein avan\u00E7a com IPO em Hong Kong ap\u00F3s tentativas frustradas em Londres e Nova York",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/10/shein-ipo.ghtml",
       "date": "Fri, 10 Jul 2026 11:36:10 -0000"
-    },
-    {
-      "title": "Como produzir biofertilizantes para nutrir o solo e as plantas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/10/como-produzir-biofertilizantes-para-nutrir-o-solo-e-as-plantas.ghtml",
-      "date": "Fri, 10 Jul 2026 10:30:10 -0000"
-    },
-    {
-      "title": "Dia da Pizza: Brasil abre 13 pizzarias por dia, mas comprar uma pizza pesa cada vez mais no bolso",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/10/dia-da-pizza-brasil-abre-13-pizzarias-por-dia-mas-comprar-uma-pizza-pesa-cada-vez-mais-no-bolso.ghtml",
-      "date": "Fri, 10 Jul 2026 07:01:24 -0000"
-    },
-    {
-      "title": "Dia da Pizza: com mais de 40 mil pizzarias, Brasil abre um novo neg\u00F3cio a cada 2h; veja os sabores preferidos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/07/10/pizza-veja-os-sabores-preferidos.ghtml",
-      "date": "Fri, 10 Jul 2026 07:01:02 -0000"
-    },
-    {
-      "title": "Mega-Sena, concurso 3029: confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/09/mega-sena-concurso-3029-confira-os-numeros-sorteados.ghtml",
-      "date": "Fri, 10 Jul 2026 00:02:25 -0000"
-    },
-    {
-      "title": "Morre Wally Funk, mulher mais velha a viajar ao espa\u00E7o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/09/morre-wally-funk-mulher-mais-velha-a-viajar-ao-espaco.ghtml",
-      "date": "Thu, 09 Jul 2026 23:23:31 -0000"
-    },
-    {
-      "title": "Entidades do setor produtivo do Brasil e dos EUA prop\u00F5em nova rodada de negocia\u00E7\u00E3o para evitar tarifa\u00E7o ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/09/entidades-do-setor-produtivo-do-brasil-e-dos-eua-propoem-nova-rodada-de-negociacao-para-evitar-tarifaco.ghtml",
-      "date": "Thu, 09 Jul 2026 22:59:38 -0000"
-    },
-    {
-      "title": "Presidente do Fed abre revis\u00E3o do banco central americano e convoca grupo com Arm\u00EDnio Fraga",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/09/presidente-do-fed-abre-revisao-do-banco-central-e-convoca-grupo-com-arminio-fraga.ghtml",
-      "date": "Thu, 09 Jul 2026 20:52:14 -0000"
-    },
-    {
-      "title": "OpenAI lan\u00E7a ChatGPT Work, agente de IA criado para fazer suas tarefas do trabalho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/09/openai-lanca-chatgpt-work-agente-de-ia-criado-para-fazer-suas-tarefas-do-trabalho.ghtml",
-      "date": "Thu, 09 Jul 2026 19:11:08 -0000"
-    },
-    {
-      "title": "GloboNews lan\u00E7a novo telejornal e reformula programa\u00E7\u00E3o em comemora\u00E7\u00E3o aos 30 anos do canal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/07/09/globonews-novo-telejornal-e-programacao-30-anos.ghtml",
-      "date": "Thu, 09 Jul 2026 18:55:11 -0000"
     }
   ]
 }
