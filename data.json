@@ -57,6 +57,18 @@
   ],
   "news": [
     {
+      "title": "Dia da Pizza: Brasil abre 13 pizzarias por dia, mas comprar uma pizza pesa cada vez mais no bolso",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/10/dia-da-pizza-brasil-abre-13-pizzarias-por-dia-mas-comprar-uma-pizza-pesa-cada-vez-mais-no-bolso.ghtml",
+      "date": "Fri, 10 Jul 2026 07:01:24 -0000"
+    },
+    {
+      "title": "Dia da Pizza: com mais de 40 mil pizzarias, Brasil abre um novo neg\u00F3cio a cada 2h; veja os sabores preferidos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/07/10/pizza-veja-os-sabores-preferidos.ghtml",
+      "date": "Fri, 10 Jul 2026 07:01:02 -0000"
+    },
+    {
       "title": "Mega-Sena, concurso 3029: confira os n\u00FAmeros sorteados",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/09/mega-sena-concurso-3029-confira-os-numeros-sorteados.ghtml",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/09/anac-publica-regra-que-garante-assentos-para-menores-de-16-anos-ao-lado-de-responsaveis.ghtml",
       "date": "Thu, 09 Jul 2026 17:45:51 -0000"
-    },
-    {
-      "title": "Volkswagen negocia demiss\u00E3o em massa e fechamento de f\u00E1bricas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/09/volkswagen-demissao-fechamento-fabricas.ghtml",
-      "date": "Thu, 09 Jul 2026 17:35:13 -0000"
-    },
-    {
-      "title": "\u0027New York Times\u0027 e outros jornais dos EUA pedem que Justi\u00E7a puna OpenAI em disputa sobre direitos autorais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/09/new-york-times-e-outros-jornais-dos-eua-pedem-que-justica-puna-openai-em-disputa-sobre-direitos-autorais.ghtml",
-      "date": "Thu, 09 Jul 2026 17:10:35 -0000"
     }
   ]
 }
