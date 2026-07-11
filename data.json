@@ -7,16 +7,34 @@
       "changeStr": "\u002B2.97%"
     },
     {
+      "symbol": "PETR4",
+      "price": 39.65,
+      "change": 1.12,
+      "changeStr": "\u002B1.12%"
+    },
+    {
       "symbol": "VALE3",
       "price": 74.18,
       "change": 1.41,
       "changeStr": "\u002B1.41%"
     },
     {
+      "symbol": "ITUB4",
+      "price": 44.3,
+      "change": 4.02,
+      "changeStr": "\u002B4.02%"
+    },
+    {
       "symbol": "BBDC4",
       "price": 18.86,
       "change": 4.78,
       "changeStr": "\u002B4.78%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 20.58,
+      "change": 2.9,
+      "changeStr": "\u002B2.90%"
     },
     {
       "symbol": "MGLU3",
@@ -29,15 +47,21 @@
       "price": 15.82,
       "change": 0.64,
       "changeStr": "\u002B0.64%"
-    },
-    {
-      "symbol": "WEGE3",
-      "price": 46.51,
-      "change": 1.68,
-      "changeStr": "\u002B1.68%"
     }
   ],
   "news": [
+    {
+      "title": "Em meio \u00E0 discuss\u00E3o sobre limita\u00E7\u00E3o a penduricalhos, presidente do TCU diz que aprovou gratifica\u00E7\u00E3o com \u0027muito orgulho\u0027 e \u0027muita vontade\u0027 ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/11/em-meio-a-discussao-sobre-limitacao-a-penduricalhos-presidente-do-tcu-diz-que-aprovou-gratificacao-com-muito-orgulho-e-muita-vontade.ghtml",
+      "date": "Sat, 11 Jul 2026 03:00:33 -0000"
+    },
+    {
+      "title": "Governo publica portaria que define alertas de publicidade de bets: \u0027apostar pode causar depend\u00EAncia\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/10/governo-publica-portaria-que-define-alertas-de-publicidade-de-bets-apostar-pode-causar-dependencia.ghtml",
+      "date": "Sat, 11 Jul 2026 00:55:24 -0000"
+    },
     {
       "title": "Apple processa OpenAI e acusa rival de roubar informa\u00E7\u00F5es secretas para criar novos produtos ",
       "source": "G1 Economia",
@@ -85,18 +109,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/10/uniao-europeia-meta-facebook-instagram.ghtml",
       "date": "Fri, 10 Jul 2026 12:31:44 -0000"
-    },
-    {
-      "title": "Movimento de navios cai no Estreito de Ormuz em meio \u00E0 escalada de tens\u00E3o entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/10/estreito-de-ormuz-navios.ghtml",
-      "date": "Fri, 10 Jul 2026 12:16:49 -0000"
-    },
-    {
-      "title": "Pre\u00E7o dos alimentos: o que ficou mais caro e o que barateou no 1\u00BA semestre",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/10/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-no-1o-semestre.ghtml",
-      "date": "Fri, 10 Jul 2026 12:01:02 -0000"
     }
   ]
 }
