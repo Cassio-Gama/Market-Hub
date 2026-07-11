@@ -47,9 +47,33 @@
       "price": 15.82,
       "change": 0.64,
       "changeStr": "\u002B0.64%"
+    },
+    {
+      "symbol": "WEGE3",
+      "price": 46.51,
+      "change": 1.68,
+      "changeStr": "\u002B1.68%"
     }
   ],
   "news": [
+    {
+      "title": "A economista que tenta entender a insatisfa\u00E7\u00E3o dos brasileiros sob Lula: \u0027Redes sociais criam desejos de consumo para al\u00E9m do crescimento da renda\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/11/a-economista-que-tenta-entender-a-insatisfacao-dos-brasileiros-sob-lula-redes-sociais-criam-desejos-de-consumo-para-alem-do-crescimento-da-renda.ghtml",
+      "date": "Sat, 11 Jul 2026 06:00:33 -0000"
+    },
+    {
+      "title": "O pa\u00EDs em que trabalhadores mais tiram licen\u00E7a m\u00E9dica agora quer endurecer as regras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/11/o-pais-em-que-trabalhadores-mais-tiram-licenca-medica-agora-quer-endurecer-as-regras.ghtml",
+      "date": "Sat, 11 Jul 2026 06:00:32 -0000"
+    },
+    {
+      "title": "Financiamento ou armadilha? Saiba diferenciar uma d\u00EDvida boa de uma d\u00EDvida ruim",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/07/11/financiamento-ou-armadilha-saiba-diferenciar-uma-divida-boa-de-uma-divida-ruim.ghtml",
+      "date": "Sat, 11 Jul 2026 05:00:33 -0000"
+    },
     {
       "title": "Em meio \u00E0 discuss\u00E3o sobre limita\u00E7\u00E3o a penduricalhos, presidente do TCU diz que aprovou gratifica\u00E7\u00E3o com \u0027muito orgulho\u0027 e \u0027muita vontade\u0027 ",
       "source": "G1 Economia",
@@ -91,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/10/linha-de-credito-do-move-brasil-para-entregadores-e-motoristas-de-app-e-adiada-para-27-de-julho.ghtml",
       "date": "Fri, 10 Jul 2026 14:27:46 -0000"
-    },
-    {
-      "title": "Sensores, IA e VAR: aposta da Fifa em tecnologia gera pol\u00EAmicas na Copa do Mundo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/10/fifa-tecnologia-copa-do-mundo.ghtml",
-      "date": "Fri, 10 Jul 2026 13:16:44 -0000"
-    },
-    {
-      "title": "Trabalhadores barram plano de reestrutura\u00E7\u00E3o da Volkswagen, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/10/trabalhadores-barram-plano-de-reestruturacao-da-volkswagen.ghtml",
-      "date": "Fri, 10 Jul 2026 13:03:44 -0000"
-    },
-    {
-      "title": "Uni\u00E3o Europeia exige que Meta mude o \u0027design viciante\u0027 do Facebook e do Instagram",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/10/uniao-europeia-meta-facebook-instagram.ghtml",
-      "date": "Fri, 10 Jul 2026 12:31:44 -0000"
     }
   ]
 }
