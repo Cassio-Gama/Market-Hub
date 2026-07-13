@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175816.1,
-      "change": -1.15,
-      "changeStr": "-1.15%"
+      "price": 175846.98,
+      "change": -1.14,
+      "changeStr": "-1.14%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.84,
-      "change": 3,
-      "changeStr": "\u002B3.00%"
+      "price": 40.81,
+      "change": 2.93,
+      "changeStr": "\u002B2.93%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.7,
-      "change": -2,
-      "changeStr": "-2.00%"
+      "price": 72.55,
+      "change": -2.2,
+      "changeStr": "-2.20%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.6,
-      "change": -1.58,
-      "changeStr": "-1.58%"
+      "price": 43.57,
+      "change": -1.65,
+      "changeStr": "-1.65%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.74,
-      "change": -0.64,
-      "changeStr": "-0.64%"
+      "price": 18.7,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.23,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "price": 20.22,
+      "change": -1.75,
+      "changeStr": "-1.75%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.12,
-      "change": -1.92,
-      "changeStr": "-1.92%"
+      "price": 5.07,
+      "change": -2.87,
+      "changeStr": "-2.87%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.82,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 15.84,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.57,
-      "change": -4.17,
-      "changeStr": "-4.17%"
+      "price": 44.36,
+      "change": -4.62,
+      "changeStr": "-4.62%"
     }
   ],
   "news": [
+    {
+      "title": "Em semana decisiva sobre novas taxas dos EUA, Lula diz n\u00E3o acreditar em tarifa\u00E7o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/13/em-semana-decisiva-sobre-novas-taxas-dos-eua-lula-diz-nao-acreditar-em-tarifaco.ghtml",
+      "date": "Mon, 13 Jul 2026 19:19:42 -0000"
+    },
+    {
+      "title": "SpaceX perdeu for\u00E7a um m\u00EAs ap\u00F3s estreia hist\u00F3rica na bolsa de valores?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/13/entenda-se-a-spacex-perdeu-forca-um-mes-apos-estreia-historica-na-bolsa-de-valores.ghtml",
+      "date": "Mon, 13 Jul 2026 18:47:05 -0000"
+    },
+    {
+      "title": "Ju\u00EDza anula acordo entre Trump e Receita Federal dos EUA que renderia benef\u00EDcios fiscais ao presidente e o acusa de manipular o judici\u00E1rio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/13/juiza-anula-acordo-entre-trump-e-receita-federal-dos-eua-que-renderia-soma-milionaria-ao-presidente.ghtml",
+      "date": "Mon, 13 Jul 2026 18:14:13 -0000"
+    },
     {
       "title": "Vendas globais de smartphones caem ao menor n\u00EDvel em 13 anos ap\u00F3s escassez de chips de mem\u00F3ria",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/13/ia-pode-transformar-a-economia-mais-rapido-que-a-revolucao-industrial-alertam-especialistas.ghtml",
       "date": "Mon, 13 Jul 2026 13:38:38 -0000"
-    },
-    {
-      "title": "UE quer estabelecer acesso \u0027progressivo e gradual\u0027 de menores \u00E0s redes sociais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/13/ue-quer-estabelecer-acesso-progressivo-e-gradual-de-menores-as-redes-sociais.ghtml",
-      "date": "Mon, 13 Jul 2026 12:11:12 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta, com tens\u00F5es entre EUA e Ir\u00E3 no foco; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/13/dolar-ibovespa.ghtml",
-      "date": "Mon, 13 Jul 2026 12:00:42 -0000"
-    },
-    {
-      "title": "Mercado financeiro reduz para 5,16% estimativa m\u00E9dia de infla\u00E7\u00E3o em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/13/mercado-financeiro-reduz-para-516percent-estimativa-media-de-inflacao-em-2026.ghtml",
-      "date": "Mon, 13 Jul 2026 11:57:08 -0000"
     }
   ]
 }
