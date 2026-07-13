@@ -1,55 +1,85 @@
 {
   "slider": [
     {
+      "symbol": "^BVSP",
+      "price": 175816.1,
+      "change": -1.15,
+      "changeStr": "-1.15%"
+    },
+    {
       "symbol": "PETR4",
-      "price": 40.59,
-      "change": 2.37,
-      "changeStr": "\u002B2.37%"
+      "price": 40.84,
+      "change": 3,
+      "changeStr": "\u002B3.00%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.23,
-      "change": -1.28,
-      "changeStr": "-1.28%"
+      "price": 72.7,
+      "change": -2,
+      "changeStr": "-2.00%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.76,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 43.6,
+      "change": -1.58,
+      "changeStr": "-1.58%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.83,
-      "change": -0.16,
-      "changeStr": "-0.16%"
+      "price": 18.74,
+      "change": -0.64,
+      "changeStr": "-0.64%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.35,
-      "change": -1.12,
-      "changeStr": "-1.12%"
+      "price": 20.23,
+      "change": -1.7,
+      "changeStr": "-1.70%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.14,
-      "change": -1.53,
-      "changeStr": "-1.53%"
+      "price": 5.12,
+      "change": -1.92,
+      "changeStr": "-1.92%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.89,
-      "change": 0.44,
-      "changeStr": "\u002B0.44%"
+      "price": 15.82,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.94,
-      "change": -3.38,
-      "changeStr": "-3.38%"
+      "price": 44.57,
+      "change": -4.17,
+      "changeStr": "-4.17%"
     }
   ],
   "news": [
+    {
+      "title": "Vendas globais de smartphones caem ao menor n\u00EDvel em 13 anos ap\u00F3s escassez de chips de mem\u00F3ria",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/13/vendas-globais-de-smartphones-caem-ao-menor-nivel-em-13-anos.ghtml",
+      "date": "Mon, 13 Jul 2026 17:15:40 -0000"
+    },
+    {
+      "title": "Minist\u00E9rio decide notificar Apple e Google por oferta irregular de aplicativos de apostas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/13/ministerio-decide-notificar-apple-e-google-por-oferta-irregular-de-aplicativos-de-apostas.ghtml",
+      "date": "Mon, 13 Jul 2026 16:29:56 -0000"
+    },
+    {
+      "title": "Lula diz que Trump vai praticar \u0027pirataria\u0027 se EUA tomarem controle do Estreito de Ormuz e cobrarem 20% sobre cargas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/13/lula-diz-que-trump-vai-praticar-pirataria-se-eua-tomarem-controle-do-estreito-de-ormuz-e-cobrarem-20percent-sobre-cargas.ghtml",
+      "date": "Mon, 13 Jul 2026 16:05:09 -0000"
+    },
+    {
+      "title": "Calif\u00F3rnia e outros 11 estados processam acordo de US$ 110 bilh\u00F5es entre Paramount e Warner Bros.",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/13/california-e-outros-11-estados-processam-acordo-de-us-110-bilhoes-entre-paramount-e-warner-bros.ghtml",
+      "date": "Mon, 13 Jul 2026 15:52:14 -0000"
+    },
     {
       "title": "Stellantis registra alta de 10% nas entregas globais de ve\u00EDculos no 2\u00BA trimestre",
       "source": "G1 Economia",
@@ -85,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/13/mercado-financeiro-reduz-para-516percent-estimativa-media-de-inflacao-em-2026.ghtml",
       "date": "Mon, 13 Jul 2026 11:57:08 -0000"
-    },
-    {
-      "title": "Trump ganhou US$ 1,4 bilh\u00E3o com criptomoedas e colocou parte do dinheiro em a\u00E7\u00F5es e t\u00EDtulos, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/13/trump-criptomoedas-investimentos.ghtml",
-      "date": "Mon, 13 Jul 2026 11:05:26 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo sobe mais de 3% ap\u00F3s escalada do conflito entre EUA e Ir\u00E3 e novo fechamento do Estreito de Ormuz",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/13/ira-ataques-eua-petroleo.ghtml",
-      "date": "Mon, 13 Jul 2026 10:48:11 -0000"
-    },
-    {
-      "title": "Pa\u00EDses europeus e Jap\u00E3o doam US$ 1 bilh\u00E3o para recupera\u00E7\u00E3o de Gaza",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/07/13/paises-europeus-e-japao-doam-us-1-bilhao-para-recuperacao-de-gaza.ghtml",
-      "date": "Mon, 13 Jul 2026 10:43:22 -0000"
-    },
-    {
-      "title": "Volkswagen pode cortar mais 50 mil empregos e elevar total de demiss\u00F5es para 100 mil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/13/volkswagen-pode-cortar-mais-50-mil-empregos-e-elevar-total-de-demissoes-para-100-mil.ghtml",
-      "date": "Mon, 13 Jul 2026 10:33:39 -0000"
     }
   ]
 }
