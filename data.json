@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175846.98,
-      "change": -1.14,
-      "changeStr": "-1.14%"
+      "price": 175739.08,
+      "change": -1.2,
+      "changeStr": "-1.20%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.81,
-      "change": 2.93,
-      "changeStr": "\u002B2.93%"
+      "price": 40.66,
+      "change": 2.55,
+      "changeStr": "\u002B2.55%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.55,
-      "change": -2.2,
-      "changeStr": "-2.20%"
+      "price": 72.85,
+      "change": -1.79,
+      "changeStr": "-1.79%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.57,
+      "price": 43.52,
+      "change": -1.76,
+      "changeStr": "-1.76%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 18.77,
+      "change": -0.48,
+      "changeStr": "-0.48%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 20.24,
       "change": -1.65,
       "changeStr": "-1.65%"
     },
     {
-      "symbol": "BBDC4",
-      "price": 18.7,
-      "change": -0.85,
-      "changeStr": "-0.85%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 20.22,
-      "change": -1.75,
-      "changeStr": "-1.75%"
-    },
-    {
       "symbol": "MGLU3",
-      "price": 5.07,
-      "change": -2.87,
-      "changeStr": "-2.87%"
+      "price": 5.06,
+      "change": -3.07,
+      "changeStr": "-3.07%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.84,
-      "change": 0.13,
-      "changeStr": "\u002B0.13%"
+      "price": 15.83,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.36,
-      "change": -4.62,
-      "changeStr": "-4.62%"
+      "price": 44.39,
+      "change": -4.56,
+      "changeStr": "-4.56%"
     }
   ],
   "news": [
+    {
+      "title": "Ap\u00F3s derrota na Suprema Corte, governo Trump j\u00E1 devolveu US$ 81 bilh\u00F5es em tarifas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/13/apos-derrota-na-suprema-corte-governo-trump-ja-devolveu-us-81-bilhoes-em-tarifas.ghtml",
+      "date": "Mon, 13 Jul 2026 20:30:08 -0000"
+    },
     {
       "title": "Em semana decisiva sobre novas taxas dos EUA, Lula diz n\u00E3o acreditar em tarifa\u00E7o",
       "source": "G1 Economia",
@@ -81,7 +87,7 @@
       "date": "Mon, 13 Jul 2026 17:15:40 -0000"
     },
     {
-      "title": "Minist\u00E9rio decide notificar Apple e Google por oferta irregular de aplicativos de apostas",
+      "title": "Minist\u00E9rio decide notificar Apple e Google por ofertarem apps de bets a menores de idade",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/07/13/ministerio-decide-notificar-apple-e-google-por-oferta-irregular-de-aplicativos-de-apostas.ghtml",
       "date": "Mon, 13 Jul 2026 16:29:56 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/13/meta-amplia-projeto-de-data-center-para-ia-nos-eua-e-eleva-investimento-para-mais-de-us-50-bilhoes.ghtml",
       "date": "Mon, 13 Jul 2026 13:55:22 -0000"
-    },
-    {
-      "title": "IA pode transformar a economia mais r\u00E1pido que a Revolu\u00E7\u00E3o Industrial, alertam especialistas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/13/ia-pode-transformar-a-economia-mais-rapido-que-a-revolucao-industrial-alertam-especialistas.ghtml",
-      "date": "Mon, 13 Jul 2026 13:38:38 -0000"
     }
   ]
 }
