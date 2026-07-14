@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176015.6,
-      "change": 0.16,
-      "changeStr": "\u002B0.16%"
+      "price": 176099.23,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.72,
-      "change": 0.15,
-      "changeStr": "\u002B0.15%"
+      "price": 40.63,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.91,
-      "change": 1.46,
-      "changeStr": "\u002B1.46%"
+      "price": 74.14,
+      "change": 1.77,
+      "changeStr": "\u002B1.77%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.44,
-      "change": -0.18,
-      "changeStr": "-0.18%"
+      "price": 43.38,
+      "change": -0.32,
+      "changeStr": "-0.32%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.56,
-      "change": -1.12,
-      "changeStr": "-1.12%"
+      "price": 18.46,
+      "change": -1.65,
+      "changeStr": "-1.65%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.46,
-      "change": 1.09,
-      "changeStr": "\u002B1.09%"
+      "price": 20.45,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5,
-      "change": -1.19,
-      "changeStr": "-1.19%"
+      "price": 5.02,
+      "change": -0.79,
+      "changeStr": "-0.79%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.88,
-      "change": 0.32,
-      "changeStr": "\u002B0.32%"
+      "price": 15.84,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.19,
-      "change": -0.45,
-      "changeStr": "-0.45%"
+      "price": 44.43,
+      "change": 0.09,
+      "changeStr": "\u002B0.09%"
     }
   ],
   "news": [
+    {
+      "title": "Nova York suspende constru\u00E7\u00E3o de data centers por preocupa\u00E7\u00E3o sobre consumo de energia e \u00E1gua",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/14/nova-york-suspende-construcao-de-data-centers-por-preocupacao-sobre-consumo-de-energia-e-agua.ghtml",
+      "date": "Tue, 14 Jul 2026 18:00:37 -0000"
+    },
+    {
+      "title": "Brasil seria 2\u00BA pa\u00EDs com maiores tarifas dos EUA se Trump confirmar novo tarifa\u00E7o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/14/brasil-seria-2o-pais-com-maiores-tarifas-dos-eua-se-trump-confirmar-novo-tarifaco.ghtml",
+      "date": "Tue, 14 Jul 2026 16:34:37 -0000"
+    },
     {
       "title": "Por que o PIX se tornou um foco da ofensiva comercial de Trump contra o Brasil?",
       "source": "G1 Economia",
@@ -63,7 +75,7 @@
       "date": "Tue, 14 Jul 2026 16:05:27 -0000"
     },
     {
-      "title": "BNDES Move Motoristas j\u00E1 soma R$ 1 bilh\u00E3o em financiamentos para taxistas e motoristas de aplicativo",
+      "title": "Move Aplicativos: cr\u00E9dito para motoristas de app e taxistas supera R$ 1 bilh\u00E3o em financiamentos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/07/14/bndes-move-motoristas-ja-soma-r-1-bilhao-em-financiamentos-para-taxistas-e-motoristas-de-aplicativo.ghtml",
       "date": "Tue, 14 Jul 2026 15:46:13 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/14/warren-buffett-deixa-de-doar-para-fundacao-de-bill-gates-apos-revelacoes-sobre-ligacao-com-jeffrey-epstein.ghtml",
       "date": "Tue, 14 Jul 2026 13:23:42 -0000"
-    },
-    {
-      "title": "Conselho aprova aumento de etanol na gasolina de 30% para 32% em meio \u00E0 escalada da guerra no Oriente M\u00E9dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/14/conselho-aprova-aumento-de-etanol-na-gasolina-de-30percent-para-32percent.ghtml",
-      "date": "Tue, 14 Jul 2026 13:11:45 -0000"
-    },
-    {
-      "title": "Guerra no Ir\u00E3: empresa de fertilizante Mosaic reduz produ\u00E7\u00E3o no Brasil por falta de enxofre",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/14/guerra-no-irao-empresa-de-fertilizante-mosaic-reduz-producao-no-brasil-por-falta-de-enxofre.ghtml",
-      "date": "Tue, 14 Jul 2026 12:01:56 -0000"
     }
   ]
 }
