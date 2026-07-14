@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175739.08,
-      "change": -1.2,
-      "changeStr": "-1.20%"
+      "price": 176682.95,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.66,
-      "change": 2.55,
-      "changeStr": "\u002B2.55%"
+      "price": 40.9,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.85,
-      "change": -1.79,
-      "changeStr": "-1.79%"
+      "price": 74.24,
+      "change": 1.91,
+      "changeStr": "\u002B1.91%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.52,
-      "change": -1.76,
-      "changeStr": "-1.76%"
+      "price": 43.82,
+      "change": 0.69,
+      "changeStr": "\u002B0.69%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.77,
-      "change": -0.48,
-      "changeStr": "-0.48%"
+      "price": 18.9,
+      "change": 0.69,
+      "changeStr": "\u002B0.69%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.24,
-      "change": -1.65,
-      "changeStr": "-1.65%"
+      "price": 20.45,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.06,
-      "change": -3.07,
-      "changeStr": "-3.07%"
+      "price": 5.08,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.83,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 15.93,
+      "change": 0.63,
+      "changeStr": "\u002B0.63%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.39,
-      "change": -4.56,
-      "changeStr": "-4.56%"
+      "price": 44.47,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     }
   ],
   "news": [
+    {
+      "title": "Warren Buffett deixa de doar para funda\u00E7\u00E3o de Bill Gates ap\u00F3s revela\u00E7\u00F5es sobre liga\u00E7\u00E3o com Jeffrey Epstein",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/14/warren-buffett-deixa-de-doar-para-fundacao-de-bill-gates-apos-revelacoes-sobre-ligacao-com-jeffrey-epstein.ghtml",
+      "date": "Tue, 14 Jul 2026 13:23:42 -0000"
+    },
+    {
+      "title": "Conselho aprova aumento de etanol na gasolina de 30% para 32% ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/14/conselho-aprova-aumento-de-etanol-na-gasolina-de-30percent-para-32percent.ghtml",
+      "date": "Tue, 14 Jul 2026 13:11:45 -0000"
+    },
+    {
+      "title": "Guerra no Ir\u00E3: empresa de fertilizante Mosaic reduz produ\u00E7\u00E3o no Brasil por falta de enxofre",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/14/guerra-no-irao-empresa-de-fertilizante-mosaic-reduz-producao-no-brasil-por-falta-de-enxofre.ghtml",
+      "date": "Tue, 14 Jul 2026 12:01:56 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em queda e vai a R$ 5,06, ap\u00F3s infla\u00E7\u00E3o dos EUA e de olho no petr\u00F3leo; Ibovespa sobe",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/14/dolar-ibovespa.ghtml",
+      "date": "Tue, 14 Jul 2026 12:00:10 -0000"
+    },
+    {
+      "title": "Oncocl\u00EDnicas entra com pedido de recupera\u00E7\u00E3o extrajudicial para renegociar R$ 5,1 bilh\u00F5es em d\u00EDvidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/14/oncoclinicas-entra-com-pedido-de-recuperacao-extrajudicial-para-renegociar-r-51-bilhoes-em-dividas.ghtml",
+      "date": "Tue, 14 Jul 2026 11:59:31 -0000"
+    },
     {
       "title": "Petr\u00F3leo sobe e atinge o maior n\u00EDvel em um m\u00EAs ap\u00F3s tens\u00E3o no Estreito de Ormuz",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/14/a-mesma-ia-pode-ter-te-avaliado-mal-e-rejeitado-seu-curriculo-em-varias-empresas-diz-pesquisa.ghtml",
       "date": "Tue, 14 Jul 2026 07:00:50 -0000"
-    },
-    {
-      "title": "\u0027Necromancia digital\u0027: como a IA est\u00E1 recriando pessoas mortas e dividindo opini\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/14/necromancia-digital-como-a-ia-esta-recriando-pessoas-mortas-e-dividindo-opinioes.ghtml",
-      "date": "Tue, 14 Jul 2026 06:00:15 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 25 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/14/mega-sena-pode-pagar-r-25-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Tue, 14 Jul 2026 03:01:16 -0000"
-    },
-    {
-      "title": "Ap\u00F3s promessas, supermercados seguem sem ampliar venda de ovos livres de gaiolas, diz estudo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/14/apos-promessas-supermercados-seguem-sem-ampliar-venda-de-ovos-livres-de-gaiolas-diz-estudo.ghtml",
-      "date": "Tue, 14 Jul 2026 03:01:10 -0000"
-    },
-    {
-      "title": "Conselho pode votar aumento de etanol na gasolina de 30% para 32% nesta ter\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/14/conselho-pode-votar-aumento-de-etanol-na-gasolina-de-30percent-para-32percent-nesta-terca.ghtml",
-      "date": "Tue, 14 Jul 2026 03:00:55 -0000"
-    },
-    {
-      "title": "Governo deve aumentar etanol na gasolina para 32%; veja quais carros podem sentir os efeitos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/14/etanol-na-gasolina-veja-quais-carros-podem-sentir-os-efeitos.ghtml",
-      "date": "Tue, 14 Jul 2026 03:00:51 -0000"
     }
   ]
 }
