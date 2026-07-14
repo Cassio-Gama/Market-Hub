@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176532.83,
-      "change": 0.45,
-      "changeStr": "\u002B0.45%"
+      "price": 176641.1,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.71,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 40.66,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.05,
-      "change": 1.65,
-      "changeStr": "\u002B1.65%"
+      "price": 74.01,
+      "change": 1.59,
+      "changeStr": "\u002B1.59%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.5,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 43.63,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.58,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 18.63,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.56,
-      "change": 1.58,
-      "changeStr": "\u002B1.58%"
+      "price": 20.59,
+      "change": 1.73,
+      "changeStr": "\u002B1.73%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.04,
-      "change": -0.4,
-      "changeStr": "-0.40%"
+      "price": 5.05,
+      "change": -0.2,
+      "changeStr": "-0.20%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.8,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "price": 15.81,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.25,
-      "change": -0.32,
-      "changeStr": "-0.32%"
+      "price": 44.2,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     }
   ],
   "news": [
+    {
+      "title": "ANTT j\u00E1 aplicou este ano quase R$ 1 bilh\u00E3o em multas por descumprimento do piso m\u00EDnimo do frete ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/14/antt-ja-aplicou-este-ano-quase-r-1-milhao-em-multas-por-descumprimento-do-piso-minimo-do-frete.ghtml",
+      "date": "Tue, 14 Jul 2026 21:43:33 -0000"
+    },
+    {
+      "title": "\u00C2nima fecha acordo para comprar a FMU por at\u00E9 R$ 410 milh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/negocios/noticia/2026/07/14/anima-educacao-assina-contrato-para-comprar-a-fmu.ghtml",
+      "date": "Tue, 14 Jul 2026 21:34:30 -0000"
+    },
+    {
+      "title": "Torcida do Brasil zicou a Fran\u00E7a? Classifica\u00E7\u00E3o da Espanha para a final da Copa rende memes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/14/memes-franca-espanha-copa-do-mundo.ghtml",
+      "date": "Tue, 14 Jul 2026 20:59:17 -0000"
+    },
     {
       "title": "Nvidia come\u00E7a a enviar um de seus chips mais poderosos para a China, diz autoridade dos EUA",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/14/decisao-do-conselho-de-politica-energetica-abre-caminho-para-suspensao-da-divida-de-angra-3.ghtml",
       "date": "Tue, 14 Jul 2026 15:32:24 -0000"
-    },
-    {
-      "title": "Mesmo com 81,6% das fam\u00EDlias endividadas, CNC indica sinais de melhora no perfil das d\u00EDvidas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/14/cnc-indica-sinais-de-melhora-no-perfil-das-dividas-junho.ghtml",
-      "date": "Tue, 14 Jul 2026 15:31:00 -0000"
-    },
-    {
-      "title": "Trump diz ter desistido de cobrar ped\u00E1gio de 20% a embarca\u00E7\u00F5es no Estreito de Ormuz ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/07/14/trump-desiste-de-taxa-de-20percent-a-embarcacoes-no-estreito-de-ormuz.ghtml",
-      "date": "Tue, 14 Jul 2026 15:08:17 -0000"
-    },
-    {
-      "title": "\u0027Dinheiro esquecido\u0027: Banco Central atualiza balan\u00E7o e diz que R$ 6,2 bilh\u00F5es podem ser resgatados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/14/dinheiro-esquecido-banco-central-atualiza-balanco-e-diz-que-r-62-bilhoes-podem-ser-resgatados.ghtml",
-      "date": "Tue, 14 Jul 2026 14:27:20 -0000"
     }
   ]
 }
