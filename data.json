@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176099.23,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 176532.83,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.63,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 40.71,
+      "change": 0.12,
+      "changeStr": "\u002B0.12%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.14,
-      "change": 1.77,
-      "changeStr": "\u002B1.77%"
+      "price": 74.05,
+      "change": 1.65,
+      "changeStr": "\u002B1.65%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.38,
-      "change": -0.32,
-      "changeStr": "-0.32%"
+      "price": 43.5,
+      "change": -0.05,
+      "changeStr": "-0.05%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.46,
-      "change": -1.65,
-      "changeStr": "-1.65%"
+      "price": 18.58,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.45,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
+      "price": 20.56,
+      "change": 1.58,
+      "changeStr": "\u002B1.58%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.02,
-      "change": -0.79,
-      "changeStr": "-0.79%"
+      "price": 5.04,
+      "change": -0.4,
+      "changeStr": "-0.40%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.84,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 15.8,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.43,
-      "change": 0.09,
-      "changeStr": "\u002B0.09%"
+      "price": 44.25,
+      "change": -0.32,
+      "changeStr": "-0.32%"
     }
   ],
   "news": [
+    {
+      "title": "Nvidia come\u00E7a a enviar um de seus chips mais poderosos para a China, diz autoridade dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/14/nvidia-comeca-a-enviar-um-de-seus-chips-mais-poderosos-para-a-china-diz-autoridade-dos-eua.ghtml",
+      "date": "Tue, 14 Jul 2026 18:45:42 -0000"
+    },
+    {
+      "title": "Guerras e tarifas levam confian\u00E7a da ind\u00FAstria ao menor n\u00EDvel desde a pandemia, diz CNI",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/14/guerras-e-tarifas-levam-confianca-da-industria-ao-menor-nivel-desde-a-pandemia-diz-cni.ghtml",
+      "date": "Tue, 14 Jul 2026 18:30:08 -0000"
+    },
     {
       "title": "Nova York suspende constru\u00E7\u00E3o de data centers por preocupa\u00E7\u00E3o sobre consumo de energia e \u00E1gua",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/14/dinheiro-esquecido-banco-central-atualiza-balanco-e-diz-que-r-62-bilhoes-podem-ser-resgatados.ghtml",
       "date": "Tue, 14 Jul 2026 14:27:20 -0000"
-    },
-    {
-      "title": "Ex-funcion\u00E1rios acusam Meta de usar IA para escolher trabalhadores com problemas de sa\u00FAde em demiss\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/14/ex-funcionarios-acusam-meta-de-usar-ia-para-escolher-trabalhadores-com-problemas-de-saude-em-demissoes.ghtml",
-      "date": "Tue, 14 Jul 2026 14:03:03 -0000"
-    },
-    {
-      "title": "Warren Buffett deixa de doar para funda\u00E7\u00E3o de Bill Gates ap\u00F3s revela\u00E7\u00F5es sobre liga\u00E7\u00E3o com Jeffrey Epstein",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/14/warren-buffett-deixa-de-doar-para-fundacao-de-bill-gates-apos-revelacoes-sobre-ligacao-com-jeffrey-epstein.ghtml",
-      "date": "Tue, 14 Jul 2026 13:23:42 -0000"
     }
   ]
 }
