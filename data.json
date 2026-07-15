@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176641.1,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
+      "price": 175881.81,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.66,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 40.69,
+      "change": 0.07,
+      "changeStr": "\u002B0.07%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.01,
-      "change": 1.59,
-      "changeStr": "\u002B1.59%"
+      "price": 74.63,
+      "change": 0.84,
+      "changeStr": "\u002B0.84%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.63,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 43.33,
+      "change": -0.69,
+      "changeStr": "-0.69%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.63,
-      "change": -0.75,
-      "changeStr": "-0.75%"
+      "price": 18.52,
+      "change": -0.59,
+      "changeStr": "-0.59%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.59,
-      "change": 1.73,
-      "changeStr": "\u002B1.73%"
+      "price": 20.48,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.05,
-      "change": -0.2,
-      "changeStr": "-0.20%"
+      "price": 4.97,
+      "change": -1.58,
+      "changeStr": "-1.58%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.81,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 15.47,
+      "change": -2.15,
+      "changeStr": "-2.15%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.2,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 43.36,
+      "change": -1.9,
+      "changeStr": "-1.90%"
     }
   ],
   "news": [
+    {
+      "title": "Trump transforma autonomia do Brasil em delito comercial, diz jornal brit\u00E2nico sobre tarifas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/15/trump-transforma-autonomia-do-brasil-em-delito-comercial-diz-jornal-britanico-sobre-tarifas.ghtml",
+      "date": "Wed, 15 Jul 2026 12:04:48 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em queda, com tarifa\u00E7o de Trump e tens\u00F5es no Oriente M\u00E9dio no radar; Ibovespa cai",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/15/dolar-ibovespa.ghtml",
+      "date": "Wed, 15 Jul 2026 12:00:07 -0000"
+    },
     {
       "title": "Quaest: Maioria apoia fim da escala 6x1 e diz que usaria tempo livre para descansar",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/15/nova-zelandia-confirma-primeiro-caso-de-gripe-aviaria.ghtml",
       "date": "Wed, 15 Jul 2026 04:23:58 -0000"
-    },
-    {
-      "title": "Investimento em saneamento cresce 51% mas segue abaixo do necess\u00E1rio para cumprir Marco Legal, diz estudo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/15/investimento-em-saneamento-cresce-51percent-mas-segue-abaixo-do-necessario-para-cumprir-marco-legal.ghtml",
-      "date": "Wed, 15 Jul 2026 04:13:35 -0000"
-    },
-    {
-      "title": "Abono salarial PIS/Pasep 2026: novo lote de pagamento acontece nesta quarta; veja quem recebe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/15/abono-salarial-pispasep-2026-novo-lote-de-pagamento-acontece-nesta-quarta-veja-quem-recebe.ghtml",
-      "date": "Wed, 15 Jul 2026 03:00:55 -0000"
     }
   ]
 }
