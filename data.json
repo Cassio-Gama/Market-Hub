@@ -2,62 +2,80 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175903.95,
-      "change": -0.42,
-      "changeStr": "-0.42%"
+      "price": 175488.19,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.41,
-      "change": -0.61,
-      "changeStr": "-0.61%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 73.86,
-      "change": -0.2,
-      "changeStr": "-0.20%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 43.32,
+      "price": 40.37,
       "change": -0.71,
       "changeStr": "-0.71%"
     },
     {
+      "symbol": "VALE3",
+      "price": 74.41,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 43.18,
+      "change": -1.03,
+      "changeStr": "-1.03%"
+    },
+    {
       "symbol": "BBDC4",
-      "price": 18.52,
-      "change": -0.59,
-      "changeStr": "-0.59%"
+      "price": 18.54,
+      "change": -0.48,
+      "changeStr": "-0.48%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.6,
-      "change": 0.05,
-      "changeStr": "\u002B0.05%"
+      "price": 20.63,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.86,
-      "change": -3.76,
-      "changeStr": "-3.76%"
+      "price": 4.96,
+      "change": -1.78,
+      "changeStr": "-1.78%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.69,
-      "change": -0.76,
-      "changeStr": "-0.76%"
+      "price": 15.54,
+      "change": -1.71,
+      "changeStr": "-1.71%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.8,
-      "change": -0.9,
-      "changeStr": "-0.90%"
+      "price": 43.84,
+      "change": -0.81,
+      "changeStr": "-0.81%"
     }
   ],
   "news": [
     {
-      "title": "Fazenda e C\u00E2mara anunciam acordo sobre projeto de renegocia\u00E7\u00E3o de d\u00EDvidas rurais",
+      "title": "Com alta dos alimentos e Guerra Oriente M\u00E9dio, governo eleva proje\u00E7\u00E3o de infla\u00E7\u00E3o para 5,1%, com estouro de meta ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/15/com-alta-dos-alimentos-e-guerra-oriente-medio-governo-eleva-projecao-de-inflacao-para-51percent-com-estouro-de-meta.ghtml",
+      "date": "Wed, 15 Jul 2026 17:15:31 -0000"
+    },
+    {
+      "title": "Em terra natal de Musk, Amazon sai na frente na corrida da internet via sat\u00E9lite",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/15/em-terra-natal-de-musk-amazon-sai-na-frente-na-corrida-da-internet-via-satelite.ghtml",
+      "date": "Wed, 15 Jul 2026 16:57:48 -0000"
+    },
+    {
+      "title": "Durigan diz que poss\u00EDvel tarifa\u00E7o dos EUA seria \u0027desproporcional\u0027 e que empres\u00E1rios e fam\u00EDlias do Brasil n\u00E3o podem ser prejudicados ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/15/durigan-diz-que-possivel-tarifaco-dos-eua-seria-injusto-e-desproporcional-e-diz-que-empresarios-e-familias-nao-podem-ser-prejudicados.ghtml",
+      "date": "Wed, 15 Jul 2026 16:03:36 -0000"
+    },
+    {
+      "title": "D\u00EDvidas rurais: Fazenda e C\u00E2mara fecham acordo sobre renegocia\u00E7\u00E3o, com 10 anos de prazo para quem teve perdas grandes de safra",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/15/fazenda-e-camara-anunciam-acordo-sobre-projeto-de-renegociacao-de-dividas-rurais.ghtml",
       "date": "Wed, 15 Jul 2026 15:32:39 -0000"
@@ -75,7 +93,7 @@
       "date": "Wed, 15 Jul 2026 12:04:48 -0000"
     },
     {
-      "title": "D\u00F3lar opera em queda, com tarifa\u00E7o de Trump e tens\u00F5es no Oriente M\u00E9dio no radar; Ibovespa cai",
+      "title": "D\u00F3lar oscila, com tarifa\u00E7o de Trump e tens\u00F5es no Oriente M\u00E9dio no radar; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/15/dolar-ibovespa.ghtml",
       "date": "Wed, 15 Jul 2026 12:00:07 -0000"
@@ -87,7 +105,7 @@
       "date": "Wed, 15 Jul 2026 11:17:03 -0000"
     },
     {
-      "title": "Percep\u00E7\u00E3o de melhora da economia explica melhora na avalia\u00E7\u00E3o do governo Lula, indica Quaest",
+      "title": "Percep\u00E7\u00E3o de melhora da economia explica avalia\u00E7\u00E3o do governo Lula, indica Quaest",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/15/economia-impulsiona-melhora-na-avaliacao-de-lula-aponta-quaest.ghtml",
       "date": "Wed, 15 Jul 2026 10:57:54 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/15/nao-queremos-ser-a-ultima-geracao-a-comer-esse-queijo-ondas-de-calor-ameacam-a-producao-do-parmigiano-reggiano-na-italia.ghtml",
       "date": "Wed, 15 Jul 2026 08:03:29 -0000"
-    },
-    {
-      "title": "Com guerra e alta dos combust\u00EDveis, transporte volta a ser \u0027vil\u00E3o\u0027 do or\u00E7amento das fam\u00EDlias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/15/com-guerra-e-alta-dos-combustiveis-transporte-volta-a-ser-vilao-do-orcamento-das-familias.ghtml",
-      "date": "Wed, 15 Jul 2026 07:01:12 -0000"
-    },
-    {
-      "title": "Por que o Brasil mistura etanol na gasolina? Hist\u00F3ria come\u00E7a em 1930 e cresce com a crise do petr\u00F3leo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/15/por-que-o-brasil-mistura-etanol-na-gasolina-historia-comeca-em-1930-e-cresce-com-a-crise-do-petroleo.ghtml",
-      "date": "Wed, 15 Jul 2026 07:01:08 -0000"
-    },
-    {
-      "title": "Por que o brasileiro parcela tudo? Entenda como o c\u00E9rebro influencia as compras e evite armadilhas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/07/15/por-que-o-brasileiro-parcela-tudo.ghtml",
-      "date": "Wed, 15 Jul 2026 06:00:12 -0000"
     }
   ]
 }
