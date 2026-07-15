@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175881.81,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 175903.95,
+      "change": -0.42,
+      "changeStr": "-0.42%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.69,
-      "change": 0.07,
-      "changeStr": "\u002B0.07%"
+      "price": 40.41,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.63,
-      "change": 0.84,
-      "changeStr": "\u002B0.84%"
+      "price": 73.86,
+      "change": -0.2,
+      "changeStr": "-0.20%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.33,
-      "change": -0.69,
-      "changeStr": "-0.69%"
+      "price": 43.32,
+      "change": -0.71,
+      "changeStr": "-0.71%"
     },
     {
       "symbol": "BBDC4",
@@ -32,30 +32,42 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 20.48,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 20.6,
+      "change": 0.05,
+      "changeStr": "\u002B0.05%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.97,
-      "change": -1.58,
-      "changeStr": "-1.58%"
+      "price": 4.86,
+      "change": -3.76,
+      "changeStr": "-3.76%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.47,
-      "change": -2.15,
-      "changeStr": "-2.15%"
+      "price": 15.69,
+      "change": -0.76,
+      "changeStr": "-0.76%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.36,
-      "change": -1.9,
-      "changeStr": "-1.90%"
+      "price": 43.8,
+      "change": -0.9,
+      "changeStr": "-0.90%"
     }
   ],
   "news": [
+    {
+      "title": "Fazenda e C\u00E2mara anunciam acordo sobre projeto de renegocia\u00E7\u00E3o de d\u00EDvidas rurais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/15/fazenda-e-camara-anunciam-acordo-sobre-projeto-de-renegociacao-de-dividas-rurais.ghtml",
+      "date": "Wed, 15 Jul 2026 15:32:39 -0000"
+    },
+    {
+      "title": "Tarifas dos EUA empurraram Brasil para outros parceiros comerciais, mas depend\u00EAncia chinesa preocupa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/15/tarifas-dos-eua-empurraram-brasil-para-outros-parceiros-comerciais-mas-dependencia-chinesa-preocupa.ghtml",
+      "date": "Wed, 15 Jul 2026 14:43:42 -0000"
+    },
     {
       "title": "Trump transforma autonomia do Brasil em delito comercial, diz jornal brit\u00E2nico sobre tarifas",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/g1-explica/noticia/2026/07/15/por-que-o-brasileiro-parcela-tudo.ghtml",
       "date": "Wed, 15 Jul 2026 06:00:12 -0000"
-    },
-    {
-      "title": "Como funciona o \u0027Instagram chin\u00EAs\u0027, que atraiu usu\u00E1rios do TikTok e fez turismo explodir",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/15/como-funciona-o-instagram-chines-que-atraiu-usuarios-do-tiktok-e-fez-turismo-explodir.ghtml",
-      "date": "Wed, 15 Jul 2026 06:00:10 -0000"
-    },
-    {
-      "title": "Nova Zel\u00E2ndia confirma primeiro caso de gripe avi\u00E1ria",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/15/nova-zelandia-confirma-primeiro-caso-de-gripe-aviaria.ghtml",
-      "date": "Wed, 15 Jul 2026 04:23:58 -0000"
     }
   ]
 }
