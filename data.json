@@ -57,10 +57,34 @@
   ],
   "news": [
     {
+      "title": "\u0027N\u00E3o queremos ser a \u00FAltima gera\u00E7\u00E3o a comer esse queijo\u0027: ondas de calor amea\u00E7am a produ\u00E7\u00E3o do Parmigiano Reggiano na It\u00E1lia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/15/nao-queremos-ser-a-ultima-geracao-a-comer-esse-queijo-ondas-de-calor-ameacam-a-producao-do-parmigiano-reggiano-na-italia.ghtml",
+      "date": "Wed, 15 Jul 2026 08:03:29 -0000"
+    },
+    {
+      "title": "Com guerra e alta dos combust\u00EDveis, transporte volta a ser \u0027vil\u00E3o\u0027 do or\u00E7amento das fam\u00EDlias",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/15/com-guerra-e-alta-dos-combustiveis-transporte-volta-a-ser-vilao-do-orcamento-das-familias.ghtml",
+      "date": "Wed, 15 Jul 2026 07:01:12 -0000"
+    },
+    {
+      "title": "Por que o Brasil mistura etanol na gasolina? Hist\u00F3ria come\u00E7a em 1930 e cresce com a crise do petr\u00F3leo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/15/por-que-o-brasil-mistura-etanol-na-gasolina-historia-comeca-em-1930-e-cresce-com-a-crise-do-petroleo.ghtml",
+      "date": "Wed, 15 Jul 2026 07:01:08 -0000"
+    },
+    {
       "title": "Por que o brasileiro parcela tudo? Entenda como o c\u00E9rebro influencia as compras e evite armadilhas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/g1-explica/noticia/2026/07/15/por-que-o-brasileiro-parcela-tudo.ghtml",
       "date": "Wed, 15 Jul 2026 06:00:12 -0000"
+    },
+    {
+      "title": "Como funciona o \u0027Instagram chin\u00EAs\u0027, que atraiu usu\u00E1rios do TikTok e fez turismo explodir",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/15/como-funciona-o-instagram-chines-que-atraiu-usuarios-do-tiktok-e-fez-turismo-explodir.ghtml",
+      "date": "Wed, 15 Jul 2026 06:00:10 -0000"
     },
     {
       "title": "Nova Zel\u00E2ndia confirma primeiro caso de gripe avi\u00E1ria",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/07/15/imposto-de-renda-2026-receita-paga-lote-especial-de-restituicao-automatica-nesta-quarta-veja-como-fazer.ghtml",
       "date": "Wed, 15 Jul 2026 03:00:31 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o de Trump: EUA definem nesta quarta se aplicam novas taxas ao Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/15/tarifaco-de-trump-eua-definem-nesta-quarta-se-aplicam-novas-taxas-ao-brasil.ghtml",
-      "date": "Wed, 15 Jul 2026 03:00:26 -0000"
-    },
-    {
-      "title": "Mega-Sena, concurso 3031: confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/14/mega-sena-concurso-3031-confira-os-numeros-sorteados.ghtml",
-      "date": "Wed, 15 Jul 2026 00:01:46 -0000"
-    },
-    {
-      "title": "Na v\u00E9spera do prazo para EUA decidir sobre novas taxas, Brasil faz reuni\u00E3o com americanos e diz que tarifa\u00E7o \u00E9 \u2018injusto\u2019",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/14/na-vespera-do-prazo-para-eua-decidir-sobre-novas-taxas-brasil-faz-reuniao-com-americanos-e-diz-que-tarifaco-e-injusto.ghtml",
-      "date": "Tue, 14 Jul 2026 22:43:10 -0000"
-    },
-    {
-      "title": "CEO da IBM admite impacto da IA nos neg\u00F3cios e a\u00E7\u00F5es t\u00EAm maior queda desde 1972",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/14/ceo-da-ibm-admite-impacto-da-ia-nos-negocios-e-acoes-tem-maior-queda-desde-1972.ghtml",
-      "date": "Tue, 14 Jul 2026 22:17:49 -0000"
     }
   ]
 }
