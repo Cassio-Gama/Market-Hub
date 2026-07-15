@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175488.19,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 176050.84,
+      "change": -0.33,
+      "changeStr": "-0.33%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.37,
-      "change": -0.71,
-      "changeStr": "-0.71%"
+      "price": 40.66,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.41,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 74.78,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.18,
-      "change": -1.03,
-      "changeStr": "-1.03%"
+      "price": 43.19,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.54,
-      "change": -0.48,
-      "changeStr": "-0.48%"
+      "price": 18.63,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.63,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 20.61,
+      "change": 0.1,
+      "changeStr": "\u002B0.10%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.96,
-      "change": -1.78,
-      "changeStr": "-1.78%"
+      "price": 5.08,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.54,
-      "change": -1.71,
-      "changeStr": "-1.71%"
+      "price": 15.57,
+      "change": -1.52,
+      "changeStr": "-1.52%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.84,
-      "change": -0.81,
-      "changeStr": "-0.81%"
+      "price": 44.33,
+      "change": 0.29,
+      "changeStr": "\u002B0.29%"
     }
   ],
   "news": [
+    {
+      "title": "xAI, de Elon Musk, processa usu\u00E1rio acusado de usar Grok para criar imagens de abuso sexual infantil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/15/xai-de-elon-musk-processa-usuario-acusado-de-usar-grok-para-criar-imagens-de-abuso-sexual-infantil.ghtml",
+      "date": "Wed, 15 Jul 2026 18:05:02 -0000"
+    },
+    {
+      "title": "Trump ataca veto a data centers em Nova York e diz que China ganhar\u00E1 a corrida da IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/15/trump-ataca-veto-a-data-centers-em-nova-york-e-diz-que-china-ganhara-a-corrida-da-ia.ghtml",
+      "date": "Wed, 15 Jul 2026 17:43:20 -0000"
+    },
     {
       "title": "Com alta dos alimentos e Guerra Oriente M\u00E9dio, governo eleva proje\u00E7\u00E3o de infla\u00E7\u00E3o para 5,1%, com estouro de meta ",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/15/quaest-fim-da-escala-6x1.ghtml",
       "date": "Wed, 15 Jul 2026 11:17:03 -0000"
-    },
-    {
-      "title": "Percep\u00E7\u00E3o de melhora da economia explica avalia\u00E7\u00E3o do governo Lula, indica Quaest",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/15/economia-impulsiona-melhora-na-avaliacao-de-lula-aponta-quaest.ghtml",
-      "date": "Wed, 15 Jul 2026 10:57:54 -0000"
-    },
-    {
-      "title": "\u0027N\u00E3o queremos ser a \u00FAltima gera\u00E7\u00E3o a comer esse queijo\u0027: ondas de calor amea\u00E7am a produ\u00E7\u00E3o do Parmigiano Reggiano na It\u00E1lia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/15/nao-queremos-ser-a-ultima-geracao-a-comer-esse-queijo-ondas-de-calor-ameacam-a-producao-do-parmigiano-reggiano-na-italia.ghtml",
-      "date": "Wed, 15 Jul 2026 08:03:29 -0000"
     }
   ]
 }
