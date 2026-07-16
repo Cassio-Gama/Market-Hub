@@ -57,7 +57,19 @@
   ],
   "news": [
     {
-      "title": "Fiesp critica atua\u00E7\u00E3o do governo brasileiro em negocia\u00E7\u00E3o do novo tarifa\u00E7o",
+      "title": "SpaceX tenta novo voo da supernave Starship nesta quinta; veja o que esperar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/16/spacex-tenta-novo-voo-da-supernave-starship-nesta-quinta-veja-o-que-esperar.ghtml",
+      "date": "Thu, 16 Jul 2026 03:41:03 -0000"
+    },
+    {
+      "title": "EUA anunciam tarifa de 25% sobre produtos brasileiros; veja itens que ser\u00E3o afetados ou isentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/16/eua-anunciam-tarifa-de-25percent-veja-itens-afetados-ou-isentos.ghtml",
+      "date": "Thu, 16 Jul 2026 03:25:05 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o de Trump: ind\u00FAstria diz que novas taxas ampliam as dificuldades j\u00E1 enfrentadas por exportadores",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/16/entidades-repercussao-tarifaco.ghtml",
       "date": "Thu, 16 Jul 2026 03:00:42 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/15/penduricalhos-tcu-libera-pagamento-de-gratificacao-fora-do-teto-a-servidores-do-proprio-tribunal-e-do-legislativo.ghtml",
       "date": "Wed, 15 Jul 2026 20:37:33 -0000"
-    },
-    {
-      "title": "xAI, de Elon Musk, processa usu\u00E1rio acusado de usar Grok para criar imagens de abuso sexual infantil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/15/xai-de-elon-musk-processa-usuario-acusado-de-usar-grok-para-criar-imagens-de-abuso-sexual-infantil.ghtml",
-      "date": "Wed, 15 Jul 2026 18:05:02 -0000"
-    },
-    {
-      "title": "Trump ataca veto a data centers em Nova York e diz que China ganhar\u00E1 a corrida da IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/15/trump-ataca-veto-a-data-centers-em-nova-york-e-diz-que-china-ganhara-a-corrida-da-ia.ghtml",
-      "date": "Wed, 15 Jul 2026 17:43:20 -0000"
     }
   ]
 }
