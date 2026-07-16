@@ -2,71 +2,77 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173867.27,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 173567.14,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.47,
-      "change": -0.3,
-      "changeStr": "-0.30%"
+      "price": 40.03,
+      "change": -1.38,
+      "changeStr": "-1.38%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.62,
-      "change": -2.54,
-      "changeStr": "-2.54%"
+      "price": 72.83,
+      "change": -2.25,
+      "changeStr": "-2.25%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.68,
-      "change": -1.07,
-      "changeStr": "-1.07%"
+      "price": 42.5,
+      "change": -1.48,
+      "changeStr": "-1.48%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.34,
-      "change": -1.4,
-      "changeStr": "-1.40%"
+      "price": 18.33,
+      "change": -1.45,
+      "changeStr": "-1.45%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.51,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "price": 20.7,
+      "change": 0.73,
+      "changeStr": "\u002B0.73%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.94,
-      "change": -1.79,
-      "changeStr": "-1.79%"
+      "price": 4.93,
+      "change": -1.99,
+      "changeStr": "-1.99%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.68,
-      "change": 0.71,
-      "changeStr": "\u002B0.71%"
+      "price": 15.65,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.3,
-      "change": -2.17,
-      "changeStr": "-2.17%"
+      "price": 43.38,
+      "change": -1.99,
+      "changeStr": "-1.99%"
     }
   ],
   "news": [
+    {
+      "title": "Governo faz coletiva sobre novo tarifa\u00E7o de 25% dos EUA contra Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/ao-vivo/governo-brasileiro-novo-tarifaco-de-trump.ghtml",
+      "date": "Thu, 16 Jul 2026 19:57:30 -0000"
+    },
+    {
+      "title": "Governo ter\u00E1 programa de apoio para empresas que tiverem problemas com novas taxas dos EUA sobre o Brasil, diz Alckmin",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/16/governo-tera-programa-de-apoio-para-empresas-que-tiverem-problemas-com-novas-taxas-dos-eua-sobre-o-brasil-diz-alckmin.ghtml",
+      "date": "Thu, 16 Jul 2026 19:55:50 -0000"
+    },
     {
       "title": "Exportadoras dizem que carne brasileira pode n\u00E3o conseguir atender exig\u00EAncias da UE sobre antimicrobianos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/16/exportadoras-dizem-que-carne-brasileira-pode-nao-conseguir-atender-exigencias-da-ue-sobre-antimicrobianos.ghtml",
       "date": "Thu, 16 Jul 2026 18:05:57 -0000"
-    },
-    {
-      "title": "Governo brasileiro fala sobre novo tarifa\u00E7o de 25% dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/ao-vivo/governo-brasileiro-novo-tarifaco-de-trump.ghtml",
-      "date": "Thu, 16 Jul 2026 17:42:26 -0000"
     },
     {
       "title": "Crime organizado movimenta bilh\u00F5es por meio de criptomoedas, alerta \u00F3rg\u00E3o global",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/07/16/caiado-critica-lula-e-flavio-bolsonaro-apos-anuncio-de-novo-tarifaco-pelos-eua.ghtml",
       "date": "Thu, 16 Jul 2026 13:16:51 -0000"
-    },
-    {
-      "title": "Governo rejeita cr\u00EDticas e diz que fez mais de 30 contatos com os EUA para negociar tarifas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/07/16/governo-rejeita-criticas-e-defende-que-fez-mais-de-30-contatos-com-os-eua-para-negociar-tarifas.ghtml",
-      "date": "Thu, 16 Jul 2026 12:39:26 -0000"
     }
   ]
 }
