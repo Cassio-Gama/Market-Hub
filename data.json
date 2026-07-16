@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173567.14,
-      "change": -1.39,
-      "changeStr": "-1.39%"
+      "price": 173825.27,
+      "change": -1.24,
+      "changeStr": "-1.24%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.03,
-      "change": -1.38,
-      "changeStr": "-1.38%"
+      "price": 39.89,
+      "change": -1.72,
+      "changeStr": "-1.72%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.83,
-      "change": -2.25,
-      "changeStr": "-2.25%"
+      "price": 72.98,
+      "change": -2.05,
+      "changeStr": "-2.05%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.5,
-      "change": -1.48,
-      "changeStr": "-1.48%"
+      "price": 42.55,
+      "change": -1.37,
+      "changeStr": "-1.37%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.33,
-      "change": -1.45,
-      "changeStr": "-1.45%"
+      "price": 18.41,
+      "change": -1.02,
+      "changeStr": "-1.02%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.7,
-      "change": 0.73,
-      "changeStr": "\u002B0.73%"
+      "price": 20.76,
+      "change": 1.02,
+      "changeStr": "\u002B1.02%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.93,
-      "change": -1.99,
-      "changeStr": "-1.99%"
+      "price": 4.92,
+      "change": -2.19,
+      "changeStr": "-2.19%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.65,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
+      "price": 15.6,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.38,
-      "change": -1.99,
-      "changeStr": "-1.99%"
+      "price": 43.49,
+      "change": -1.74,
+      "changeStr": "-1.74%"
     }
   ],
   "news": [
     {
+      "title": "SpaceX tenta novo voo da supernave Starship em instantes; acompanhe ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/inovacao/ao-vivo/starship-voo-13-nave-starship.ghtml",
+      "date": "Thu, 16 Jul 2026 21:17:26 -0000"
+    },
+    {
       "title": "Governo faz coletiva sobre novo tarifa\u00E7o de 25% dos EUA contra Brasil",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/ao-vivo/governo-brasileiro-novo-tarifaco-de-trump.ghtml",
-      "date": "Thu, 16 Jul 2026 19:57:30 -0000"
+      "date": "Thu, 16 Jul 2026 21:03:38 -0000"
     },
     {
-      "title": "Governo ter\u00E1 programa de apoio para empresas que tiverem problemas com novas taxas dos EUA sobre o Brasil, diz Alckmin",
+      "title": "Antes da nova tarifa, Brasil j\u00E1 havia perdido R$ 13,2 bilh\u00F5es em exporta\u00E7\u00F5es para os EUA, diz CNI",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/16/antes-da-nova-tarifa-brasil-ja-havia-perdido-r-132-bilhoes-em-exportacoes-para-os-eua-diz-cni.ghtml",
+      "date": "Thu, 16 Jul 2026 20:40:51 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o: Durigan diz que Brasil vai preservar soberania financeira e geol\u00F3gica \u0027sem viralatice\u0027 e que pa\u00EDs segue aberto a negocia\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/16/tafiraco-durigan-diz-que-brasil-vai-preservar-soberania-financeira-e-geologica-sem-viralatice-e-que-pais-segue-aberto-a-negociacoes.ghtml",
+      "date": "Thu, 16 Jul 2026 20:34:17 -0000"
+    },
+    {
+      "title": "Setor de a\u00E7\u00FAcar e etanol reage a tarifa dos EUA e diz que medida de Trump ignora realidade do mercado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/16/as-tarifas-dos-eua-sobre-o-brasil-sao-uma-pilula-amarga-para-os-produtores-de-acucar-e-etanol.ghtml",
+      "date": "Thu, 16 Jul 2026 20:18:21 -0000"
+    },
+    {
+      "title": "PIX: Gal\u00EDpolo defende meio de pagamento alvo de contesta\u00E7\u00E3o dos EUA; \u0027gratuito\u0027, \u0027seguro\u0027 e \u0027instant\u00E2neo\u0027  ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/16/pix-galipolo-defende-meio-de-pagamento-seguro-e-instantaneo.ghtml",
+      "date": "Thu, 16 Jul 2026 20:15:11 -0000"
+    },
+    {
+      "title": "Qual o impacto do tarifa\u00E7o de Trump no Brasil? \u0027Deve ser restrito\u0027 e mostra \u0027limites do protecionismo americano\u0027, diz economista",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/16/qual-o-impacto-do-tarifaco-de-trump-no-brasil-deve-ser-restrito-e-mostra-limites-do-protecionismo-americano-diz-economista.ghtml",
+      "date": "Thu, 16 Jul 2026 20:12:08 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o: ministro do Meio Ambiente diz que argumentos dos EUA para justificar novas taxas s\u00E3o \u0027absolutamente improcedentes\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/16/tarifaco-ministro-do-meio-ambiente-diz-que-argumentos-dos-eua-para-justificar-novas-taxas-sao-absolutamente-improcedentes.ghtml",
+      "date": "Thu, 16 Jul 2026 20:10:17 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o: ministro diz que 18% das exporta\u00E7\u00F5es brasileiras aos EUA, que correspondem a US$ 7,4 bilh\u00F5es, ser\u00E3o afetadas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/16/tarifaco-ministro-diz-que-18percent-das-exportacoes-brasileiras-que-correspondem-a-us-74-bilhoes-serao-afetadas.ghtml",
+      "date": "Thu, 16 Jul 2026 20:05:40 -0000"
+    },
+    {
+      "title": "Alckmin diz que empresas afetadas pelo tarifa\u00E7o ter\u00E3o ajuda e reciprocidade contra EUA ser\u00E1 usada em \u0027momento adequado\u0027",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/16/governo-tera-programa-de-apoio-para-empresas-que-tiverem-problemas-com-novas-taxas-dos-eua-sobre-o-brasil-diz-alckmin.ghtml",
       "date": "Thu, 16 Jul 2026 19:55:50 -0000"
-    },
-    {
-      "title": "Exportadoras dizem que carne brasileira pode n\u00E3o conseguir atender exig\u00EAncias da UE sobre antimicrobianos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/16/exportadoras-dizem-que-carne-brasileira-pode-nao-conseguir-atender-exigencias-da-ue-sobre-antimicrobianos.ghtml",
-      "date": "Thu, 16 Jul 2026 18:05:57 -0000"
-    },
-    {
-      "title": "Crime organizado movimenta bilh\u00F5es por meio de criptomoedas, alerta \u00F3rg\u00E3o global",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/16/crime-organizado-movimenta-bilhoes-por-meio-de-criptomoedas-alerta-orgao-global.ghtml",
-      "date": "Thu, 16 Jul 2026 16:28:36 -0000"
-    },
-    {
-      "title": "Lula convoca ministros para reuni\u00E3o no Planalto ap\u00F3s decis\u00E3o dos EUA de impor \u0027novo tarifa\u00E7o\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/07/16/lula-convoca-reuniao-no-planalto-para-discutir-tarifaco-apos-anuncio-dos-eua.ghtml",
-      "date": "Thu, 16 Jul 2026 15:43:47 -0000"
-    },
-    {
-      "title": "Brasil \u00E9 pa\u00EDs que mais viu tarifas aumentarem desde que Trump voltou ao poder",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/16/brasil-e-pais-que-mais-viu-tarifas-aumentarem-desde-que-trump-voltou-ao-poder.ghtml",
-      "date": "Thu, 16 Jul 2026 15:08:30 -0000"
-    },
-    {
-      "title": "Brasil avalia retalia\u00E7\u00E3o contra EUA com foco em patentes farmac\u00EAuticas e setor audiovisual, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/16/retaliacao-brasil.ghtml",
-      "date": "Thu, 16 Jul 2026 14:52:10 -0000"
-    },
-    {
-      "title": "EUA abrem investiga\u00E7\u00E3o contra Samsung por patentes de chips ligados \u00E0 IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/16/eua-investigam-samsung.ghtml",
-      "date": "Thu, 16 Jul 2026 14:19:59 -0000"
-    },
-    {
-      "title": "Veja quais dos 50 produtos brasileiros mais exportados aos EUA passar\u00E3o a pagar a nova tarifa de 25%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/16/veja-quais-dos-50-produtos-brasileiros-mais-exportados-aos-eua-passaram-a-pagar-a-nova-tarifa-de-25percent.ghtml",
-      "date": "Thu, 16 Jul 2026 14:00:36 -0000"
-    },
-    {
-      "title": "Caiado critica Lula e Fl\u00E1vio Bolsonaro ap\u00F3s an\u00FAncio de novo tarifa\u00E7o pelos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/07/16/caiado-critica-lula-e-flavio-bolsonaro-apos-anuncio-de-novo-tarifaco-pelos-eua.ghtml",
-      "date": "Thu, 16 Jul 2026 13:16:51 -0000"
     }
   ]
 }
