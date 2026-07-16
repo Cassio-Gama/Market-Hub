@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176010.9,
-      "change": -0.36,
-      "changeStr": "-0.36%"
+      "price": 174159.88,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.59,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 40.67,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.51,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 73.29,
+      "change": -1.64,
+      "changeStr": "-1.64%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.14,
-      "change": -1.12,
-      "changeStr": "-1.12%"
+      "price": 42.52,
+      "change": -1.44,
+      "changeStr": "-1.44%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.6,
-      "change": -0.16,
-      "changeStr": "-0.16%"
+      "price": 18.28,
+      "change": -1.72,
+      "changeStr": "-1.72%"
     },
     {
       "symbol": "BBAS3",
       "price": 20.55,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.03,
-      "change": -0.4,
-      "changeStr": "-0.40%"
+      "price": 4.97,
+      "change": -1.19,
+      "changeStr": "-1.19%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.57,
-      "change": -1.52,
-      "changeStr": "-1.52%"
+      "price": 15.53,
+      "change": -0.26,
+      "changeStr": "-0.26%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.26,
-      "change": 0.14,
-      "changeStr": "\u002B0.14%"
+      "price": 43.94,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     }
   ],
   "news": [
+    {
+      "title": "Caiado critica Lula e Fl\u00E1vio Bolsonaro ap\u00F3s an\u00FAncio de novo tarifa\u00E7o pelos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/16/caiado-critica-lula-e-flavio-bolsonaro-apos-anuncio-de-novo-tarifaco-pelos-eua.ghtml",
+      "date": "Thu, 16 Jul 2026 13:16:51 -0000"
+    },
+    {
+      "title": "Governo rejeita cr\u00EDticas e diz que fez mais de 30 contatos com os EUA para negociar tarifas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/16/governo-rejeita-criticas-e-defende-que-fez-mais-de-30-contatos-com-os-eua-para-negociar-tarifas.ghtml",
+      "date": "Thu, 16 Jul 2026 12:39:26 -0000"
+    },
+    {
+      "title": "UE obriga Google a abrir servi\u00E7os para OpenAI e outras concorrentes; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/16/google-tera-de-abrir-servicos-para-openai-e-outras-concorrentes-entenda.ghtml",
+      "date": "Thu, 16 Jul 2026 12:25:26 -0000"
+    },
+    {
+      "title": "\u0027Latino-americano frustrado\u0027, \u0027passa pano para Maduro\u0027: relembre as trocas de farpas entre Lula e Marco Rubio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/16/latino-americano-frustrado-passa-pano-para-maduro-relembre-as-trocas-de-farpas-entre-lula-e-marco-rubio.ghtml",
+      "date": "Thu, 16 Jul 2026 12:16:13 -0000"
+    },
+    {
+      "title": "Lula \u0027priorizou pr\u00F3prio ego em detrimento de acordo\u0027 e n\u00E3o \u0027negociou com os EUA de boa f\u00E9\u0027: o ataque de ministro de Trump ap\u00F3s tarifa\u00E7o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/16/lula-priorizou-proprio-ego-em-detrimento-de-acordo-e-nao-negociou-com-os-eua-de-boa-fe-o-ataque-de-ministro-de-trump-apos-tarifaco.ghtml",
+      "date": "Thu, 16 Jul 2026 12:14:59 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta e bate R$ 5,10, de olho em tarifas dos EUA e guerra no Ir\u00E3; Ibovespa cai",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/16/dolar-ibovespa.ghtml",
+      "date": "Thu, 16 Jul 2026 12:00:15 -0000"
+    },
     {
       "title": "Fl\u00E1vio volta a criticar Lula ao comentar post de Rubio que indica tarifa\u00E7o como ato pol\u00EDtico",
       "source": "G1 Economia",
@@ -63,7 +99,7 @@
       "date": "Thu, 16 Jul 2026 11:05:46 -0000"
     },
     {
-      "title": "Tarifa\u00E7o de Trump: veja a lista de produtos que ficaram isentos e os que ser\u00E3o afetados",
+      "title": "Tarifa\u00E7o de Trump: veja a lista de produtos que ficaram isentos e os que ser\u00E3o impactados pela nova taxa",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/16/tarifaco-de-trump-veja-a-lista-de-produtos-que-ficaram-isento-da-nova-tarifa-de-25percent.ghtml",
       "date": "Thu, 16 Jul 2026 10:40:30 -0000"
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/07/16/os-argumentos-do-governo-trump-para-novo-tarifaco-contra-o-brasil.ghtml",
       "date": "Thu, 16 Jul 2026 09:31:37 -0000"
-    },
-    {
-      "title": "\u0027Olho por olho, dente por dente?\u0027 O que diz a Lei de Reciprocidade que Lula quer usar contra novo tarifa\u00E7o dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/16/olho-por-olho-dente-por-dente-o-que-diz-a-lei-de-reciprocidade-que-lula-quer-usar-contra-novo-tarifaco-dos-eua.ghtml",
-      "date": "Thu, 16 Jul 2026 08:40:08 -0000"
-    },
-    {
-      "title": "Produtor colhe mam\u00E3o de quase 8 kg no interior de S\u00E3o Paulo; veja v\u00EDdeo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/16/produtor-colhe-mamao-de-quase-8-kg-no-interior-de-sao-paulo-veja-video.ghtml",
-      "date": "Thu, 16 Jul 2026 07:01:03 -0000"
-    },
-    {
-      "title": "Rubio acusa Lula de n\u00E3o negociar tarifas: \u0027Colocou o pr\u00F3prio ego \u00E0 frente de um acordo\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/07/16/rubio-acusa-lula-de-nao-negociar-tarifas.ghtml",
-      "date": "Thu, 16 Jul 2026 04:07:06 -0000"
-    },
-    {
-      "title": "SpaceX tenta novo voo da supernave Starship nesta quinta; veja o que esperar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/16/spacex-tenta-novo-voo-da-supernave-starship-nesta-quinta-veja-o-que-esperar.ghtml",
-      "date": "Thu, 16 Jul 2026 03:41:03 -0000"
-    },
-    {
-      "title": "EUA anunciam tarifa de 25% sobre produtos brasileiros; veja itens que ser\u00E3o afetados ou isentos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/16/eua-anunciam-tarifa-de-25percent-veja-itens-afetados-ou-isentos.ghtml",
-      "date": "Thu, 16 Jul 2026 03:25:05 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o de Trump: ind\u00FAstria diz que novas taxas ampliam as dificuldades j\u00E1 enfrentadas por exportadores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/16/entidades-repercussao-tarifaco.ghtml",
-      "date": "Thu, 16 Jul 2026 03:00:42 -0000"
     }
   ]
 }
