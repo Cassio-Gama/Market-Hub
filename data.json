@@ -57,10 +57,16 @@
   ],
   "news": [
     {
-      "title": "SpaceX tenta novo voo da supernave Starship em instantes; acompanhe ",
+      "title": "MG4 Urban chega por R$ 129.990; carro el\u00E9trico ser\u00E1 feito no Cear\u00E1",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/16/mg4-urban-no-brasil-preco-equipamentos-motor-bateria-lancamento.ghtml",
+      "date": "Thu, 16 Jul 2026 23:50:10 -0000"
+    },
+    {
+      "title": "SpaceX adia lan\u00E7amento da supernave Starship ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/inovacao/ao-vivo/starship-voo-13-nave-starship.ghtml",
-      "date": "Thu, 16 Jul 2026 21:17:26 -0000"
+      "date": "Thu, 16 Jul 2026 22:51:17 -0000"
     },
     {
       "title": "Governo faz coletiva sobre novo tarifa\u00E7o de 25% dos EUA contra Brasil",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/16/tarifaco-ministro-diz-que-18percent-das-exportacoes-brasileiras-que-correspondem-a-us-74-bilhoes-serao-afetadas.ghtml",
       "date": "Thu, 16 Jul 2026 20:05:40 -0000"
-    },
-    {
-      "title": "Alckmin diz que empresas afetadas pelo tarifa\u00E7o ter\u00E3o ajuda e reciprocidade contra EUA ser\u00E1 usada em \u0027momento adequado\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/16/governo-tera-programa-de-apoio-para-empresas-que-tiverem-problemas-com-novas-taxas-dos-eua-sobre-o-brasil-diz-alckmin.ghtml",
-      "date": "Thu, 16 Jul 2026 19:55:50 -0000"
     }
   ]
 }
