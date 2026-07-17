@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173817.88,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 173638.45,
+      "change": -0.11,
+      "changeStr": "-0.11%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.8,
-      "change": 2.28,
-      "changeStr": "\u002B2.28%"
+      "price": 40.93,
+      "change": 2.61,
+      "changeStr": "\u002B2.61%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.91,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 72.82,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.05,
-      "change": -1.18,
-      "changeStr": "-1.18%"
+      "price": 42.01,
+      "change": -1.27,
+      "changeStr": "-1.27%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.31,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 18.29,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.5,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 20.42,
+      "change": -1.64,
+      "changeStr": "-1.64%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.96,
-      "change": 0.81,
-      "changeStr": "\u002B0.81%"
+      "price": 4.95,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.58,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 15.59,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.33,
-      "change": -0.37,
-      "changeStr": "-0.37%"
+      "price": 43.47,
+      "change": -0.05,
+      "changeStr": "-0.05%"
     }
   ],
   "news": [
+    {
+      "title": "Fran\u00E7a bloqueia Polymarket e diz que plataforma opera de forma ilegal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/17/franca-bloqueia-polymarket-e-diz-que-plataforma-opera-de-forma-ilegal.ghtml",
+      "date": "Fri, 17 Jul 2026 18:48:46 -0000"
+    },
+    {
+      "title": "Meta e Anthropic negociam acordo de US$ 10 bilh\u00F5es por aluguel de data centers, diz jornal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/17/meta-e-anthropic-negociam-acordo-de-us-10-bilhoes-por-aluguel-de-data-centers-diz-jornal.ghtml",
+      "date": "Fri, 17 Jul 2026 18:34:29 -0000"
+    },
     {
       "title": "Brasil deve colher safra recorde de soja em 2026/27, mas El Ni\u00F1o amea\u00E7a produtividade",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/17/previa-do-pib-do-banco-central-mostra-crescimento-marginal-de-01percent-em-maio.ghtml",
       "date": "Fri, 17 Jul 2026 12:02:03 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta e vai a R$ 5,13, ap\u00F3s tarifa\u00E7o de Trump e com dados econ\u00F4micos no radar; Ibovespa sobe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/17/dolar-ibovespa.ghtml",
-      "date": "Fri, 17 Jul 2026 12:00:22 -0000"
-    },
-    {
-      "title": "Concurso do IBGE: inscri\u00E7\u00F5es para 1,4 mil vagas s\u00E3o prorrogadas; veja o novo prazo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/17/concurso-do-ibge-inscricoes-sao-prorrogadas.ghtml",
-      "date": "Fri, 17 Jul 2026 11:39:39 -0000"
     }
   ]
 }
