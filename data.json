@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173825.27,
-      "change": -1.24,
-      "changeStr": "-1.24%"
+      "price": 173859.39,
+      "change": 0.02,
+      "changeStr": "\u002B0.02%"
     },
     {
       "symbol": "PETR4",
-      "price": 39.89,
-      "change": -1.72,
-      "changeStr": "-1.72%"
+      "price": 40.89,
+      "change": 2.51,
+      "changeStr": "\u002B2.51%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.98,
-      "change": -2.05,
-      "changeStr": "-2.05%"
+      "price": 72.85,
+      "change": -0.18,
+      "changeStr": "-0.18%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.55,
-      "change": -1.37,
-      "changeStr": "-1.37%"
+      "price": 42.03,
+      "change": -1.22,
+      "changeStr": "-1.22%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.41,
-      "change": -1.02,
-      "changeStr": "-1.02%"
+      "price": 18.37,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.76,
-      "change": 1.02,
-      "changeStr": "\u002B1.02%"
+      "price": 20.68,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.92,
-      "change": -2.19,
-      "changeStr": "-2.19%"
+      "price": 4.94,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.6,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 15.66,
+      "change": 0.38,
+      "changeStr": "\u002B0.38%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.49,
-      "change": -1.74,
-      "changeStr": "-1.74%"
+      "price": 43.81,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     }
   ],
   "news": [
+    {
+      "title": "Como cultivar urucum",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/17/como-cultivar-urucum.ghtml",
+      "date": "Fri, 17 Jul 2026 14:33:54 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo sobe e se aproxima da maior alta semanal desde abril em meio a tens\u00F5es no Oriente M\u00E9dio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/17/precos-petroleo.ghtml",
+      "date": "Fri, 17 Jul 2026 14:04:59 -0000"
+    },
     {
       "title": "\u0027Pr\u00E9via do PIB\u0027 do Banco Central mostra crescimento marginal de 0,1% em maio",
       "source": "G1 Economia",
@@ -63,7 +75,7 @@
       "date": "Fri, 17 Jul 2026 12:02:03 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, ap\u00F3s tarifa\u00E7o de Trump e com dados econ\u00F4micos no radar",
+      "title": "D\u00F3lar opera em alta e vai a R$ 5,13, ap\u00F3s tarifa\u00E7o de Trump e com dados econ\u00F4micos no radar; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/17/dolar-ibovespa.ghtml",
       "date": "Fri, 17 Jul 2026 12:00:22 -0000"
@@ -75,7 +87,7 @@
       "date": "Fri, 17 Jul 2026 11:39:39 -0000"
     },
     {
-      "title": "Sobe na guerra, n\u00E3o cai na tr\u00E9gua: por que os pre\u00E7os da gasolina e diesel demoram a cair nos postos",
+      "title": "Sobe na guerra, n\u00E3o desce na tr\u00E9gua: por que os pre\u00E7os da gasolina e diesel demoram a cair nos postos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/07/17/sobe-na-guerra-nao-cai-na-tregua-por-que-os-precos-da-gasolina-e-diesel-demoram-a-cair-nos-postos.ghtml",
       "date": "Fri, 17 Jul 2026 08:01:12 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/guia/guia-de-compras/moda-e-beleza/meninos-usam-rosa-e-meninas-vao-usar-azul-entenda-tendencia-de-cores-para-copa-do-mundo-feminina-de-2027.ghtml",
       "date": "Fri, 17 Jul 2026 06:00:44 -0000"
-    },
-    {
-      "title": "Por que o Brasil ter\u00E1 a maior tarifa m\u00E9dia dos Estados Unidos na Am\u00E9rica do Sul",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/17/por-que-o-brasil-tera-a-maior-tarifa-media-dos-estados-unidos-na-america-do-sul.ghtml",
-      "date": "Fri, 17 Jul 2026 06:00:29 -0000"
-    },
-    {
-      "title": "Dona do ChatGPT lan\u00E7a teclado de R$ 1.000 para controlar agentes de IA; veja como ele funciona",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/17/dona-do-chatgpt-lanca-teclado-de-r-1000-para-controlar-agentes-de-ia-veja-como-ele-funciona.ghtml",
-      "date": "Fri, 17 Jul 2026 05:00:14 -0000"
     }
   ]
 }
