@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173638.45,
-      "change": -0.11,
-      "changeStr": "-0.11%"
+      "price": 173714.08,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.93,
-      "change": 2.61,
-      "changeStr": "\u002B2.61%"
+      "price": 40.9,
+      "change": 2.53,
+      "changeStr": "\u002B2.53%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.82,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 72.94,
+      "change": -0.05,
+      "changeStr": "-0.05%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.01,
-      "change": -1.27,
-      "changeStr": "-1.27%"
+      "price": 41.96,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     },
     {
       "symbol": "BBDC4",
@@ -32,30 +32,48 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 20.42,
-      "change": -1.64,
-      "changeStr": "-1.64%"
+      "price": 20.49,
+      "change": -1.3,
+      "changeStr": "-1.30%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.95,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 4.92,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.59,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 15.63,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.47,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 43.63,
+      "change": 0.32,
+      "changeStr": "\u002B0.32%"
     }
   ],
   "news": [
+    {
+      "title": "BRB e gestora de fundos cancelam venda de at\u00E9 R$ 15 bilh\u00F5es em ativos ligados ao Banco Master",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/17/brb-e-gestora-de-fundos-cancelam-venda-de-r-15-bilhoes-em-ativos-ligados-ao-banco-master.ghtml",
+      "date": "Fri, 17 Jul 2026 20:48:53 -0000"
+    },
+    {
+      "title": "Consumidores de a\u00E7\u00FAcar dos EUA pedem que governo permita mais importa\u00E7\u00F5es com tarifas reduzidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/17/consumidores-de-acucar-dos-eua-pedem-que-governo-permita-mais-importacoes-com-tarifas-reduzidas.ghtml",
+      "date": "Fri, 17 Jul 2026 20:39:52 -0000"
+    },
+    {
+      "title": "Trump culpa Canad\u00E1 por fuma\u00E7a de inc\u00EAndios florestais e amea\u00E7a cobrar \u0027custo da polui\u00E7\u00E3o\u0027 com tarifas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/17/trump-culpa-canada-por-fumaca-de-incendios-florestais-e-ameaca-cobrar-custo-da-poluicao-com-tarifas.ghtml",
+      "date": "Fri, 17 Jul 2026 19:32:37 -0000"
+    },
     {
       "title": "Fran\u00E7a bloqueia Polymarket e diz que plataforma opera de forma ilegal",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/17/tarifaco-deve-atingir-365percent-das-exportacoes-do-agro-brasileiro-diz-cna.ghtml",
       "date": "Fri, 17 Jul 2026 15:09:50 -0000"
-    },
-    {
-      "title": "Como cultivar urucum",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/17/como-cultivar-urucum.ghtml",
-      "date": "Fri, 17 Jul 2026 14:33:54 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo sobe e se aproxima da maior alta semanal desde abril em meio a tens\u00F5es no Oriente M\u00E9dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/17/precos-petroleo.ghtml",
-      "date": "Fri, 17 Jul 2026 14:04:59 -0000"
-    },
-    {
-      "title": "\u0027Pr\u00E9via do PIB\u0027 do Banco Central mostra crescimento marginal de 0,1% em maio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/17/previa-do-pib-do-banco-central-mostra-crescimento-marginal-de-01percent-em-maio.ghtml",
-      "date": "Fri, 17 Jul 2026 12:02:03 -0000"
     }
   ]
 }
