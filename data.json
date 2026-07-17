@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173859.39,
-      "change": 0.02,
-      "changeStr": "\u002B0.02%"
+      "price": 174395.31,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.89,
-      "change": 2.51,
-      "changeStr": "\u002B2.51%"
+      "price": 40.94,
+      "change": 2.63,
+      "changeStr": "\u002B2.63%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.85,
-      "change": -0.18,
-      "changeStr": "-0.18%"
+      "price": 73.01,
+      "change": 0.04,
+      "changeStr": "\u002B0.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.03,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 42.23,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.37,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 18.41,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.68,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 20.59,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     },
     {
       "symbol": "MGLU3",
@@ -50,12 +50,36 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 43.81,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 43.6,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     }
   ],
   "news": [
+    {
+      "title": "Starship n\u00E3o decola, a\u00E7\u00F5es da SpaceX caem e fortuna de Musk encolhe",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/17/starship-nao-decola-acoes-da-spacex-caem-e-fortuna-de-musk-encolhe.ghtml",
+      "date": "Fri, 17 Jul 2026 16:11:48 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o: governo prepara programa para diversificar mercado com foco em setores afetados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/17/tarifaco-governo-prepara-programa-para-diversificar-mercado-com-foco-em-setores-afetados.ghtml",
+      "date": "Fri, 17 Jul 2026 16:04:11 -0000"
+    },
+    {
+      "title": "China lan\u00E7a maior IA China lan\u00E7a maior IA de c\u00F3digo aberto do mundo e aumenta press\u00E3o sobre OpenAI e Anthropic",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/17/china-lanca-maior-ia-china-lanca-maior-ia-de-codigo-aberto-do-mundo-e-aumenta-pressao-sobre-openai-e-anthropic.ghtml",
+      "date": "Fri, 17 Jul 2026 15:58:15 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o deve atingir 36,5% das exporta\u00E7\u00F5es do agro para os EUA, diz CNA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/17/tarifaco-deve-atingir-365percent-das-exportacoes-do-agro-brasileiro-diz-cna.ghtml",
+      "date": "Fri, 17 Jul 2026 15:09:50 -0000"
+    },
     {
       "title": "Como cultivar urucum",
       "source": "G1 Economia",
@@ -75,7 +99,7 @@
       "date": "Fri, 17 Jul 2026 12:02:03 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta e vai a R$ 5,13, ap\u00F3s tarifa\u00E7o de Trump e com dados econ\u00F4micos no radar; Ibovespa cai",
+      "title": "D\u00F3lar opera em alta e vai a R$ 5,13, ap\u00F3s tarifa\u00E7o de Trump e com dados econ\u00F4micos no radar; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/17/dolar-ibovespa.ghtml",
       "date": "Fri, 17 Jul 2026 12:00:22 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/07/17/sobe-na-guerra-nao-cai-na-tregua-por-que-os-precos-da-gasolina-e-diesel-demoram-a-cair-nos-postos.ghtml",
       "date": "Fri, 17 Jul 2026 08:01:12 -0000"
-    },
-    {
-      "title": "Por que o PIX, meio mais usado por pequenos neg\u00F3cios, virou pretexto dos EUA no tarifa\u00E7o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/07/17/por-que-o-pix-meio-mais-usado-por-pequenos-negocios-virou-pretexto-dos-eua-no-tarifaco.ghtml",
-      "date": "Fri, 17 Jul 2026 08:01:10 -0000"
-    },
-    {
-      "title": "BC lan\u00E7a sistema que pode baratear juros em mercado trilion\u00E1rio de antecipa\u00E7\u00E3o de vendas a prazo para empresas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/17/bc-lanca-sistema-que-pode-baratear-juros-em-mercado-trilionario-de-antecipacao-de-vendas-a-prazo-para-empresas.ghtml",
-      "date": "Fri, 17 Jul 2026 06:00:58 -0000"
-    },
-    {
-      "title": "Vender mais barato ou cobrar mais caro? Qual estrat\u00E9gia d\u00E1 mais lucro?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/07/17/vender-mais-barato-ou-cobrar-mais-caro-qual-estrategia-da-mais-lucro.ghtml",
-      "date": "Fri, 17 Jul 2026 06:00:54 -0000"
-    },
-    {
-      "title": "Meninos usam rosa... e meninas v\u00E3o usar azul? Entenda tend\u00EAncia de cores para Copa do Mundo Feminina de 2027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/guia/guia-de-compras/moda-e-beleza/meninos-usam-rosa-e-meninas-vao-usar-azul-entenda-tendencia-de-cores-para-copa-do-mundo-feminina-de-2027.ghtml",
-      "date": "Fri, 17 Jul 2026 06:00:44 -0000"
     }
   ]
 }
