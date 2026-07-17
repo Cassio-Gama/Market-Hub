@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174395.31,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 40.94,
-      "change": 2.63,
-      "changeStr": "\u002B2.63%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 73.01,
-      "change": 0.04,
-      "changeStr": "\u002B0.04%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 42.23,
-      "change": -0.75,
-      "changeStr": "-0.75%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 18.41,
+      "price": 173817.88,
       "change": 0,
       "changeStr": "\u002B0.00%"
     },
     {
+      "symbol": "PETR4",
+      "price": 40.8,
+      "change": 2.28,
+      "changeStr": "\u002B2.28%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 72.91,
+      "change": -0.1,
+      "changeStr": "-0.10%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 42.05,
+      "change": -1.18,
+      "changeStr": "-1.18%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 18.31,
+      "change": -0.54,
+      "changeStr": "-0.54%"
+    },
+    {
       "symbol": "BBAS3",
-      "price": 20.59,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 20.5,
+      "change": -1.25,
+      "changeStr": "-1.25%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.94,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 4.96,
+      "change": 0.81,
+      "changeStr": "\u002B0.81%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.66,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 15.58,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.6,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 43.33,
+      "change": -0.37,
+      "changeStr": "-0.37%"
     }
   ],
   "news": [
+    {
+      "title": "Brasil deve colher safra recorde de soja em 2026/27, mas El Ni\u00F1o amea\u00E7a produtividade",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/17/brasil-deve-colher-safra-recorde-de-soja-em-202627-mas-el-nino-ameaca-produtividade.ghtml",
+      "date": "Fri, 17 Jul 2026 17:09:35 -0000"
+    },
     {
       "title": "Starship n\u00E3o decola, a\u00E7\u00F5es da SpaceX caem e fortuna de Musk encolhe",
       "source": "G1 Economia",
@@ -69,7 +75,7 @@
       "date": "Fri, 17 Jul 2026 16:04:11 -0000"
     },
     {
-      "title": "China lan\u00E7a maior IA China lan\u00E7a maior IA de c\u00F3digo aberto do mundo e aumenta press\u00E3o sobre OpenAI e Anthropic",
+      "title": "China lan\u00E7a maior IA de c\u00F3digo aberto do mundo e aumenta press\u00E3o sobre OpenAI e Anthropic",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/17/china-lanca-maior-ia-china-lanca-maior-ia-de-codigo-aberto-do-mundo-e-aumenta-pressao-sobre-openai-e-anthropic.ghtml",
       "date": "Fri, 17 Jul 2026 15:58:15 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/17/concurso-do-ibge-inscricoes-sao-prorrogadas.ghtml",
       "date": "Fri, 17 Jul 2026 11:39:39 -0000"
-    },
-    {
-      "title": "Sobe na guerra, n\u00E3o desce na tr\u00E9gua: por que os pre\u00E7os da gasolina e diesel demoram a cair nos postos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/17/sobe-na-guerra-nao-cai-na-tregua-por-que-os-precos-da-gasolina-e-diesel-demoram-a-cair-nos-postos.ghtml",
-      "date": "Fri, 17 Jul 2026 08:01:12 -0000"
     }
   ]
 }
