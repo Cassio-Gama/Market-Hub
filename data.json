@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173820.03,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 174153,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.88,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 41.24,
+      "change": 0.83,
+      "changeStr": "\u002B0.83%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.49,
-      "change": -0.62,
-      "changeStr": "-0.62%"
+      "price": 72.31,
+      "change": -0.86,
+      "changeStr": "-0.86%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.42,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
+      "price": 42.48,
+      "change": 1.24,
+      "changeStr": "\u002B1.24%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.46,
-      "change": 0.93,
-      "changeStr": "\u002B0.93%"
+      "price": 18.49,
+      "change": 1.09,
+      "changeStr": "\u002B1.09%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.37,
-      "change": -0.59,
-      "changeStr": "-0.59%"
+      "price": 20.33,
+      "change": -0.78,
+      "changeStr": "-0.78%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.89,
-      "change": -0.61,
-      "changeStr": "-0.61%"
+      "price": 4.9,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.7,
-      "change": 0.45,
-      "changeStr": "\u002B0.45%"
+      "price": 15.79,
+      "change": 1.02,
+      "changeStr": "\u002B1.02%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.22,
-      "change": -0.94,
-      "changeStr": "-0.94%"
+      "price": 43.39,
+      "change": -0.55,
+      "changeStr": "-0.55%"
     }
   ],
   "news": [
+    {
+      "title": "Movimenta\u00E7\u00E3o de passageiros em aeroportos soma 65,2 milh\u00F5es no 1\u00BA semestre de 2026, diz Anac",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/20/movimentacao-de-passageiros-em-aeroportos-soma-652-milhoes-no-1o-semestre-de-2026-diz-anac.ghtml",
+      "date": "Mon, 20 Jul 2026 14:50:33 -0000"
+    },
     {
       "title": "Empresa da Embraer anuncia acordos para encomendas de at\u00E9 46 \u0027carros voadores\u0027 com clientes dos EUA e da Su\u00ED\u00E7a",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/20/copa-do-mundo-2026-campea-espanha-leva-premio-de-r-255-milhoes-veja-quanto-ganhou-cada-uma-das-selecoes.ghtml",
       "date": "Mon, 20 Jul 2026 11:41:38 -0000"
-    },
-    {
-      "title": "Exporta\u00E7\u00F5es de carne bovina batem recorde no 1\u00BA semestre, mas cota da China e restri\u00E7\u00F5es da UE preocupam setor",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/20/exportacoes-de-carne-bovina-batem-recorde-no-1o-semestre-mas-cota-da-china-e-restricoes-da-ue-preocupam-setor.ghtml",
-      "date": "Mon, 20 Jul 2026 11:35:24 -0000"
     }
   ]
 }
