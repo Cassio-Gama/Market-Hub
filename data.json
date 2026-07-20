@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174153,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 173776.3,
+      "change": 0.04,
+      "changeStr": "\u002B0.04%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.24,
+      "price": 41.35,
+      "change": 1.1,
+      "changeStr": "\u002B1.10%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 71.81,
+      "change": -1.55,
+      "changeStr": "-1.55%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 42.34,
+      "change": 0.91,
+      "changeStr": "\u002B0.91%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 18.41,
+      "change": 0.66,
+      "changeStr": "\u002B0.66%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 20.22,
+      "change": -1.32,
+      "changeStr": "-1.32%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 4.92,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 15.76,
       "change": 0.83,
       "changeStr": "\u002B0.83%"
     },
     {
-      "symbol": "VALE3",
-      "price": 72.31,
-      "change": -0.86,
-      "changeStr": "-0.86%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 42.48,
-      "change": 1.24,
-      "changeStr": "\u002B1.24%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 18.49,
-      "change": 1.09,
-      "changeStr": "\u002B1.09%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 20.33,
-      "change": -0.78,
-      "changeStr": "-0.78%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 4.9,
-      "change": -0.41,
-      "changeStr": "-0.41%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 15.79,
-      "change": 1.02,
-      "changeStr": "\u002B1.02%"
-    },
-    {
       "symbol": "WEGE3",
-      "price": 43.39,
-      "change": -0.55,
-      "changeStr": "-0.55%"
+      "price": 43.23,
+      "change": -0.92,
+      "changeStr": "-0.92%"
     }
   ],
   "news": [
+    {
+      "title": "TCU pede ao Congresso reajuste de at\u00E9 40% em penduricalhos pagos aos servidores do \u00F3rg\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/20/tcu-pede-ao-congresso-reajuste-de-ate-40percent-em-penduricalhos-pagos-aos-servidores-do-orgao.ghtml",
+      "date": "Mon, 20 Jul 2026 18:49:32 -0000"
+    },
+    {
+      "title": "\u0027Dia da Amizade\u0027: Em meio ao tarifa\u00E7o, governo publica imagem do Brasil de m\u00E3os dadas com os EUA e manda indireta ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/20/dia-da-amizade-em-meio-ao-tarifaco-governo-publica-imagem-do-brasil-de-maos-dadas-com-os-eua-e-manda-indireta.ghtml",
+      "date": "Mon, 20 Jul 2026 18:38:36 -0000"
+    },
+    {
+      "title": "Fran\u00E7a se prepara para proibir uso de redes sociais para menores de 15 anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/20/franca-se-prepara-para-proibir-uso-de-redes-sociais-por-menores-de-15-anos.ghtml",
+      "date": "Mon, 20 Jul 2026 17:18:47 -0000"
+    },
+    {
+      "title": "Justi\u00E7a dos EUA suspende temporariamente compra da Warner Bros. pela Paramount",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/20/justica-eua-fusao-warner-bros-paramount.ghtml",
+      "date": "Mon, 20 Jul 2026 17:06:51 -0000"
+    },
+    {
+      "title": "Fabricante holandesa de equipamentos para chips oferece b\u00F4nus de 20 mil euros a funcion\u00E1rios que ficarem at\u00E9 2030",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/20/oferece-bonus-de-20-mil-euros-a-funcionarios-que-ficarem-ate-2030.ghtml",
+      "date": "Mon, 20 Jul 2026 16:59:18 -0000"
+    },
     {
       "title": "Movimenta\u00E7\u00E3o de passageiros em aeroportos soma 65,2 milh\u00F5es no 1\u00BA semestre de 2026, diz Anac",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/20/homens-tendem-a-usar-ofertas-de-emprego-aumentos-salariais-estudo.ghtml",
       "date": "Mon, 20 Jul 2026 12:33:44 -0000"
-    },
-    {
-      "title": "UE multa AliExpress em R$ 3,2 bilh\u00F5es por venda de produtos ilegais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/20/ue-multa-aliexpress-por-venda-de-produtos-ilegais.ghtml",
-      "date": "Mon, 20 Jul 2026 12:19:04 -0000"
-    },
-    {
-      "title": "China compra mais soja do Brasil enquanto reduz importa\u00E7\u00F5es dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/20/china-compra-mais-soja-do-brasil-enquanto-reduz-importacoes-dos-eua.ghtml",
-      "date": "Mon, 20 Jul 2026 12:06:21 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda, com foco em petr\u00F3leo e conflito entre EUA e Ir\u00E3; Ibovespa oscila",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/20/dolar-ibovespa.ghtml",
-      "date": "Mon, 20 Jul 2026 12:00:16 -0000"
-    },
-    {
-      "title": "Tarifas de Trump n\u00E3o v\u00E3o funcionar e fortalecer\u00E3o Lula, diz Nobel de Economia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/20/tarifas-de-trump-nao-vao-funcionar-e-fortalecerao-lula-diz-nobel-de-economia.ghtml",
-      "date": "Mon, 20 Jul 2026 11:51:02 -0000"
-    },
-    {
-      "title": "Copa do Mundo 2026: campe\u00E3 Espanha leva pr\u00EAmio de R$ 255 milh\u00F5es; veja quanto ganhou cada uma das sele\u00E7\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/20/copa-do-mundo-2026-campea-espanha-leva-premio-de-r-255-milhoes-veja-quanto-ganhou-cada-uma-das-selecoes.ghtml",
-      "date": "Mon, 20 Jul 2026 11:41:38 -0000"
     }
   ]
 }
