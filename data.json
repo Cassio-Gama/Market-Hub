@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173714.08,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 173820.03,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.9,
-      "change": 2.53,
-      "changeStr": "\u002B2.53%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 72.94,
+      "price": 40.88,
       "change": -0.05,
       "changeStr": "-0.05%"
     },
     {
+      "symbol": "VALE3",
+      "price": 72.49,
+      "change": -0.62,
+      "changeStr": "-0.62%"
+    },
+    {
       "symbol": "ITUB4",
-      "price": 41.96,
-      "change": -1.39,
-      "changeStr": "-1.39%"
+      "price": 42.42,
+      "change": 1.1,
+      "changeStr": "\u002B1.10%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.29,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 18.46,
+      "change": 0.93,
+      "changeStr": "\u002B0.93%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.49,
-      "change": -1.3,
-      "changeStr": "-1.30%"
+      "price": 20.37,
+      "change": -0.59,
+      "changeStr": "-0.59%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.92,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 4.89,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.63,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 15.7,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.63,
-      "change": 0.32,
-      "changeStr": "\u002B0.32%"
+      "price": 43.22,
+      "change": -0.94,
+      "changeStr": "-0.94%"
     }
   ],
   "news": [
+    {
+      "title": "Empresa da Embraer anuncia acordos para encomendas de at\u00E9 46 \u0027carros voadores\u0027 com clientes dos EUA e da Su\u00ED\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/20/empresa-da-embraer-anuncia-acordos-para-encomendas-de-ate-46-carros-voadores-com-clientes-dos-eua-e-da-suica.ghtml",
+      "date": "Mon, 20 Jul 2026 14:08:39 -0000"
+    },
+    {
+      "title": "\u0027Trump tentar\u00E1 punir Brasil por esse sucesso\u0027, diz Nobel de economia sobre a\u00E7\u00E3o do governo americano contra Pix",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/20/trump-tentara-punir-brasil-por-esse-sucesso-diz-nobel-de-economia-sobre-acao-do-governo-americano-contra-pix.ghtml",
+      "date": "Mon, 20 Jul 2026 12:49:13 -0000"
+    },
+    {
+      "title": "Samsung corta empregos nos EUA e oferece realoca\u00E7\u00E3o antes da mudan\u00E7a da sede",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/20/samsung-corta-empregos-nos-eua-e-oferece-realocacao-antes-da-mudanca-da-sede.ghtml",
+      "date": "Mon, 20 Jul 2026 12:40:43 -0000"
+    },
+    {
+      "title": "Homens tendem a usar ofertas de emprego para conseguir aumentos salariais mais do que mulheres, mostra estudo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/20/homens-tendem-a-usar-ofertas-de-emprego-aumentos-salariais-estudo.ghtml",
+      "date": "Mon, 20 Jul 2026 12:33:44 -0000"
+    },
+    {
+      "title": "UE multa AliExpress em R$ 3,2 bilh\u00F5es por venda de produtos ilegais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/20/ue-multa-aliexpress-por-venda-de-produtos-ilegais.ghtml",
+      "date": "Mon, 20 Jul 2026 12:19:04 -0000"
+    },
+    {
+      "title": "China compra mais soja do Brasil enquanto reduz importa\u00E7\u00F5es dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/20/china-compra-mais-soja-do-brasil-enquanto-reduz-importacoes-dos-eua.ghtml",
+      "date": "Mon, 20 Jul 2026 12:06:21 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em queda, com foco em petr\u00F3leo e conflito entre EUA e Ir\u00E3; Ibovespa oscila",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/20/dolar-ibovespa.ghtml",
+      "date": "Mon, 20 Jul 2026 12:00:16 -0000"
+    },
+    {
+      "title": "Tarifas de Trump n\u00E3o v\u00E3o funcionar e fortalecer\u00E3o Lula, diz Nobel de Economia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/20/tarifas-de-trump-nao-vao-funcionar-e-fortalecerao-lula-diz-nobel-de-economia.ghtml",
+      "date": "Mon, 20 Jul 2026 11:51:02 -0000"
+    },
     {
       "title": "Copa do Mundo 2026: campe\u00E3 Espanha leva pr\u00EAmio de R$ 255 milh\u00F5es; veja quanto ganhou cada uma das sele\u00E7\u00F5es",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/20/exportacoes-de-carne-bovina-batem-recorde-no-1o-semestre-mas-cota-da-china-e-restricoes-da-ue-preocupam-setor.ghtml",
       "date": "Mon, 20 Jul 2026 11:35:24 -0000"
-    },
-    {
-      "title": "Mercado reduz pela 3\u00AA semana seguida estimativa de infla\u00E7\u00E3o em 2026, que cai para 5,15%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/20/mercado-reduz-pela-3a-semana-seguida-estimativa-de-inflacao-em-2026-que-cai-para-515percent.ghtml",
-      "date": "Mon, 20 Jul 2026 11:34:04 -0000"
-    },
-    {
-      "title": "Como terroristas est\u00E3o usando IA para planejar ataques e burlar restri\u00E7\u00F5es dos chatbots",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/20/como-terroristas-estao-usando-ia-para-planejar-ataques-e-burlar-restricoes-dos-chatbots.ghtml",
-      "date": "Mon, 20 Jul 2026 03:02:01 -0000"
-    },
-    {
-      "title": "Bolsa Fam\u00EDlia 2026: pagamentos de julho come\u00E7am nesta segunda; veja calend\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/20/bolsa-familia-2026-pagamentos-de-julho-comecam-nesta-segunda-veja-calendario.ghtml",
-      "date": "Mon, 20 Jul 2026 03:00:38 -0000"
-    },
-    {
-      "title": "IBGE: inscri\u00E7\u00F5es para concurso com mais de 1,4 mil vagas e sal\u00E1rios de at\u00E9 R$ 5,2 mil terminam hoje ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/20/ibge-inscricoes-para-concurso-com-mais-de-14-mil-vagas-e-salarios-de-ate-r-52-mil-terminam-hoje.ghtml",
-      "date": "Mon, 20 Jul 2026 03:00:37 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo atinge maior pre\u00E7o desde junho ap\u00F3s novos ataques entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/19/petroleo-dispara-e-chega-a-maior-preco-desde-junho.ghtml",
-      "date": "Mon, 20 Jul 2026 01:12:50 -0000"
-    },
-    {
-      "title": "Mega-Sena, concurso 3033: confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/19/mega-sena-concurso-3033-resultado.ghtml",
-      "date": "Sun, 19 Jul 2026 14:00:55 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 35 milh\u00F5es neste domingo; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/19/mega-sena-pode-pagar-r-35-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
-      "date": "Sun, 19 Jul 2026 10:50:05 -0000"
-    },
-    {
-      "title": "Receita Nosso Campo: aprenda a fazer um delicioso cupim casqueirado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/07/19/receita-nosso-campo-aprenda-a-fazer-um-delicioso-cupim-casqueirado.ghtml",
-      "date": "Sun, 19 Jul 2026 10:30:09 -0000"
     }
   ]
 }
