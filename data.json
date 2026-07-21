@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173371.34,
-      "change": -0.2,
-      "changeStr": "-0.20%"
+      "price": 172458.86,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.15,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 41.47,
+      "change": 0.78,
+      "changeStr": "\u002B0.78%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.93,
-      "change": -1.38,
-      "changeStr": "-1.38%"
+      "price": 71.86,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.3,
-      "change": 0.81,
-      "changeStr": "\u002B0.81%"
+      "price": 42.29,
+      "change": -0.02,
+      "changeStr": "-0.02%"
     },
     {
       "symbol": "BBDC4",
       "price": 18.41,
-      "change": 0.66,
-      "changeStr": "\u002B0.66%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.17,
-      "change": -1.56,
-      "changeStr": "-1.56%"
+      "price": 20.22,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.86,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 4.82,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.79,
-      "change": 1.02,
-      "changeStr": "\u002B1.02%"
+      "price": 15.81,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.13,
-      "change": -1.15,
-      "changeStr": "-1.15%"
+      "price": 42.8,
+      "change": -0.77,
+      "changeStr": "-0.77%"
     }
   ],
   "news": [
     {
-      "title": "O que muda para Eduardo Bolsonaro ap\u00F3s o \u0027green card\u0027 concedido pelo governo Trump a ex-deputado",
+      "title": "IA impulsiona exporta\u00E7\u00F5es mexicanas para EUA e dificulta cruzada comercial de Trump",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/21/o-que-muda-para-eduardo-bolsonaro-apos-o-green-card-concedido-pelo-governo-trump-a-ex-deputado.ghtml",
-      "date": "Tue, 21 Jul 2026 12:18:52 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/21/ia-impulsiona-exportacoes-mexicanas-para-eua-e-dificulta-cruzada-comercial-de-trump.ghtml",
+      "date": "Tue, 21 Jul 2026 14:55:46 -0000"
     },
     {
-      "title": "D\u00F3lar abre em queda, com conflito no Oriente M\u00E9dio no radar",
+      "title": "Dona do Ozempic processa fabricante do Mounjaro nos EUA por publicidade enganosa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/21/dona-do-ozempic-processa-fabricante-do-mounjaro-nos-eua-por-publicidade-enganosa.ghtml",
+      "date": "Tue, 21 Jul 2026 14:48:28 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o: setor de m\u00E1quinas diz n\u00E3o apoiar reciprocidade e defende amplia\u00E7\u00E3o de programa de cr\u00E9dito para empresas afetadas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/21/tarifaco-setor-de-maquinas-diz-nao-apoiar-reciprocidade-e-defende-ampliacao-de-programa-de-credito-para-empresas-afetadas.ghtml",
+      "date": "Tue, 21 Jul 2026 14:20:55 -0000"
+    },
+    {
+      "title": "Governo prepara ajuda em etapas a empresas afetadas por tarifa\u00E7o ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/21/governo-prepara-ajuda-em-etapas-a-empresas-afetadas-por-tarifaco.ghtml",
+      "date": "Tue, 21 Jul 2026 14:20:38 -0000"
+    },
+    {
+      "title": "INSS come\u00E7a a analisar pedidos de pens\u00E3o a \u00F3rf\u00E3os de feminic\u00EDdio; veja as regras e como pedir",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/21/inss-comeca-a-analisar-pedidos-de-pensao-a-orfaos-de-feminicidio-veja-as-regras-e-como-pedir.ghtml",
+      "date": "Tue, 21 Jul 2026 13:47:13 -0000"
+    },
+    {
+      "title": "Ford faz recall no Brasil, mas defeito em Mustang s\u00F3 ser\u00E1 consertado em 2027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/21/ford-recall-no-brasil-defeito-em-mustang-limpador-parabrisas.ghtml",
+      "date": "Tue, 21 Jul 2026 13:10:57 -0000"
+    },
+    {
+      "title": "Embraer fecha acordo para vender at\u00E9 45 avi\u00F5es ao grupo controlador da Gol e da Avianca",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/21/embraer-fecha-acordo-para-vender-ate-45-avioes-ao-grupo-controlador-da-gol-e-da-avianca.ghtml",
+      "date": "Tue, 21 Jul 2026 13:07:50 -0000"
+    },
+    {
+      "title": "Conselho deve liberar R$ 13 bilh\u00F5es do lucro do FGTS a 138 milh\u00F5es de trabalhadores at\u00E9 agosto; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/21/governo-deve-distribuir-r-13-bilhoes-do-lucro-do-fgts-a-138-milhoes-de-trabalhadores-ate-agosto-entenda.ghtml",
+      "date": "Tue, 21 Jul 2026 12:58:41 -0000"
+    },
+    {
+      "title": "Sabre de luz de Luke Skywalker usado em \u0027O Imp\u00E9rio Contra-Ataca\u0027 \u00E9 leiloado por R$ 19 milh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/21/sabre-de-luz-de-luke-skywalker-e-leiloado-por-us-375-milhoes.ghtml",
+      "date": "Tue, 21 Jul 2026 12:41:07 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em queda, com conflito no Oriente M\u00E9dio no radar; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/21/dolar-ibovespa.ghtml",
       "date": "Tue, 21 Jul 2026 12:00:08 -0000"
-    },
-    {
-      "title": "EUA podem perder para o Brasil o papel de maior exportador agr\u00EDcola do mundo, diz Financial Times",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/21/eua-podem-perder-para-o-brasil-o-papel-de-maior-exportador-agricola-do-mundo-diz-financial-times.ghtml",
-      "date": "Tue, 21 Jul 2026 11:27:49 -0000"
-    },
-    {
-      "title": "Embraer anuncia venda de dois avi\u00F5es ao Jap\u00E3o e parceria para integrar m\u00EDssil ao cargueiro C-390",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/21/embraer-anuncia-venda-de-dois-avioes-ao-japao-e-parceria-para-integrar-missil-ao-cargueiro-c-390.ghtml",
-      "date": "Tue, 21 Jul 2026 11:18:54 -0000"
-    },
-    {
-      "title": "Trump prepara novas tarifas contra dezenas de pa\u00EDses, diz Financial Times",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/21/trump-prepara-novas-tarifas-contra-dezenas-de-paises-diz-financial-times.ghtml",
-      "date": "Tue, 21 Jul 2026 10:26:44 -0000"
-    },
-    {
-      "title": "Vinhos importados mais baratos perdem espa\u00E7o com infla\u00E7\u00E3o, enquanto r\u00F3tulos premium avan\u00E7am",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/21/vinhos-importados-mais-baratos-perdem-espaco-com-inflacao-enquanto-rotulos-premium-avancam.ghtml",
-      "date": "Tue, 21 Jul 2026 08:02:29 -0000"
-    },
-    {
-      "title": "\u0027Piratinha\u0027, \u0027hemorroida\u0027 e outros: a linha entre humor e ass\u00E9dio que leva apelidos no trabalho a indeniza\u00E7\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/21/assedio-humor-apelidos-trabalho-indenizacoes.ghtml",
-      "date": "Tue, 21 Jul 2026 07:01:06 -0000"
-    },
-    {
-      "title": "Excesso de cautela com defeso eleitoral gera apag\u00E3o de dados p\u00FAblicos que compromete acesso \u00E0 informa\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/21/excesso-de-cautela-com-defeso-eleitoral-gera-apagao-de-dados-publicos-que-compromete-acesso-a-informacao.ghtml",
-      "date": "Tue, 21 Jul 2026 06:00:18 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo cai ap\u00F3s sinal de media\u00E7\u00E3o entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/21/petroleo-cai-apos-sinal-de-mediacao-entre-eua-e-ira.ghtml",
-      "date": "Tue, 21 Jul 2026 05:45:23 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o de Trump: governo deve iniciar nesta ter\u00E7a reuni\u00F5es com setores afetados pela nova taxa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/21/tarifaco-de-trump-governo-deve-iniciar-nesta-terca-reunioes-com-setores-afetados-pela-nova-taxa.ghtml",
-      "date": "Tue, 21 Jul 2026 03:00:40 -0000"
     }
   ]
 }
