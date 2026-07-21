@@ -2,57 +2,57 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173447.6,
-      "change": 0.04,
-      "changeStr": "\u002B0.04%"
+      "price": 173325.66,
+      "change": -0.03,
+      "changeStr": "-0.03%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.64,
-      "change": 1.19,
-      "changeStr": "\u002B1.19%"
+      "price": 41.66,
+      "change": 1.24,
+      "changeStr": "\u002B1.24%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.26,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 72.37,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.55,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 42.53,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.6,
-      "change": 1.03,
-      "changeStr": "\u002B1.03%"
+      "price": 18.55,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.76,
-      "change": 2.93,
-      "changeStr": "\u002B2.93%"
+      "price": 20.88,
+      "change": 3.52,
+      "changeStr": "\u002B3.52%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.81,
-      "change": -1.03,
-      "changeStr": "-1.03%"
+      "price": 4.82,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.86,
-      "change": 0.44,
-      "changeStr": "\u002B0.44%"
+      "price": 15.8,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.64,
-      "change": -1.14,
-      "changeStr": "-1.14%"
+      "price": 42.47,
+      "change": -1.53,
+      "changeStr": "-1.53%"
     }
   ],
   "news": [
