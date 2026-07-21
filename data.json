@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172458.86,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 172994.2,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.47,
-      "change": 0.78,
-      "changeStr": "\u002B0.78%"
+      "price": 41.55,
+      "change": 0.97,
+      "changeStr": "\u002B0.97%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.86,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 72.24,
+      "change": 0.43,
+      "changeStr": "\u002B0.43%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.29,
-      "change": -0.02,
-      "changeStr": "-0.02%"
+      "price": 42.38,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.41,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 18.52,
+      "change": 0.6,
+      "changeStr": "\u002B0.60%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.22,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 20.68,
+      "change": 2.53,
+      "changeStr": "\u002B2.53%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.82,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 4.85,
+      "change": -0.21,
+      "changeStr": "-0.21%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.81,
-      "change": 0.13,
-      "changeStr": "\u002B0.13%"
+      "price": 15.84,
+      "change": 0.32,
+      "changeStr": "\u002B0.32%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.8,
-      "change": -0.77,
-      "changeStr": "-0.77%"
+      "price": 42.66,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     }
   ],
   "news": [
+    {
+      "title": "O que se sabe sobre a alface investigada ap\u00F3s surto de doen\u00E7a nos EUA; M\u00E9xico nega liga\u00E7\u00E3o com os casos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/21/o-que-se-sabe-sobre-a-alface-investigada-apos-surto-de-doenca-nos-eua-mexico-nega-ligacao-com-os-casos.ghtml",
+      "date": "Tue, 21 Jul 2026 17:26:01 -0000"
+    },
+    {
+      "title": "Carreira de escriv\u00E3o da PF tem sal\u00E1rio inicial acima de R$ 14 mil; veja fun\u00E7\u00F5es e como ingressar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/21/escrivao-pf-salario-funcoes.ghtml",
+      "date": "Tue, 21 Jul 2026 17:14:22 -0000"
+    },
+    {
+      "title": "GM, dona da Chevrolet, eleva previs\u00E3o de lucro ap\u00F3s alta nas vendas de picapes e SUVs nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/21/gm-chevrolet-eleva-previsao-de-lucro.ghtml",
+      "date": "Tue, 21 Jul 2026 15:40:15 -0000"
+    },
     {
       "title": "IA impulsiona exporta\u00E7\u00F5es mexicanas para EUA e dificulta cruzada comercial de Trump",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/21/embraer-fecha-acordo-para-vender-ate-45-avioes-ao-grupo-controlador-da-gol-e-da-avianca.ghtml",
       "date": "Tue, 21 Jul 2026 13:07:50 -0000"
-    },
-    {
-      "title": "Conselho deve liberar R$ 13 bilh\u00F5es do lucro do FGTS a 138 milh\u00F5es de trabalhadores at\u00E9 agosto; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/21/governo-deve-distribuir-r-13-bilhoes-do-lucro-do-fgts-a-138-milhoes-de-trabalhadores-ate-agosto-entenda.ghtml",
-      "date": "Tue, 21 Jul 2026 12:58:41 -0000"
-    },
-    {
-      "title": "Sabre de luz de Luke Skywalker usado em \u0027O Imp\u00E9rio Contra-Ataca\u0027 \u00E9 leiloado por R$ 19 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/21/sabre-de-luz-de-luke-skywalker-e-leiloado-por-us-375-milhoes.ghtml",
-      "date": "Tue, 21 Jul 2026 12:41:07 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda, com conflito no Oriente M\u00E9dio no radar; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/21/dolar-ibovespa.ghtml",
-      "date": "Tue, 21 Jul 2026 12:00:08 -0000"
     }
   ]
 }
