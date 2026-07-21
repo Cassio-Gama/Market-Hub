@@ -57,7 +57,13 @@
   ],
   "news": [
     {
-      "title": "EUA imp\u00F5em tarifa adicional de 50% sobre determinados produtos do Canad\u00E1",
+      "title": "Governo de Donald Trump concede green card dos Estados Unidos para Eduardo Bolsonaro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/20/governo-de-donald-trump-concede-green-card-dos-estados-unidos-para-eduardo-bolsonaro.ghtml",
+      "date": "Mon, 20 Jul 2026 21:59:37 -0000"
+    },
+    {
+      "title": "Governo Trump anuncia novo tarifa\u00E7o de 50% para o Canad\u00E1",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/20/eua-tarifas-de-50-canada.ghtml",
       "date": "Mon, 20 Jul 2026 21:15:18 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/20/oferece-bonus-de-20-mil-euros-a-funcionarios-que-ficarem-ate-2030.ghtml",
       "date": "Mon, 20 Jul 2026 16:59:18 -0000"
-    },
-    {
-      "title": "Movimenta\u00E7\u00E3o de passageiros em aeroportos soma 65,2 milh\u00F5es no 1\u00BA semestre de 2026, diz Anac",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/20/movimentacao-de-passageiros-em-aeroportos-soma-652-milhoes-no-1o-semestre-de-2026-diz-anac.ghtml",
-      "date": "Mon, 20 Jul 2026 14:50:33 -0000"
     }
   ]
 }
