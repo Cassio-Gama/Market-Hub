@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176465.48,
-      "change": 1.81,
-      "changeStr": "\u002B1.81%"
+      "price": 176241.31,
+      "change": 1.68,
+      "changeStr": "\u002B1.68%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.61,
-      "change": 2.28,
-      "changeStr": "\u002B2.28%"
+      "price": 42.42,
+      "change": 1.82,
+      "changeStr": "\u002B1.82%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.57,
-      "change": 3.23,
-      "changeStr": "\u002B3.23%"
+      "price": 74.66,
+      "change": 3.35,
+      "changeStr": "\u002B3.35%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.87,
-      "change": 0.8,
-      "changeStr": "\u002B0.80%"
+      "price": 42.52,
+      "change": -0.02,
+      "changeStr": "-0.02%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.79,
-      "change": 1.29,
-      "changeStr": "\u002B1.29%"
+      "price": 18.73,
+      "change": 0.97,
+      "changeStr": "\u002B0.97%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.86,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 20.87,
+      "change": -0.05,
+      "changeStr": "-0.05%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.84,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 4.81,
+      "change": -0.21,
+      "changeStr": "-0.21%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.1,
-      "change": 1.9,
-      "changeStr": "\u002B1.90%"
+      "price": 16.02,
+      "change": 1.39,
+      "changeStr": "\u002B1.39%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.16,
-      "change": 8.69,
-      "changeStr": "\u002B8.69%"
+      "price": 46.66,
+      "change": 9.87,
+      "changeStr": "\u002B9.87%"
     }
   ],
   "news": [
+    {
+      "title": "Instagram fora do ar? Rede social apresenta instabilidade nesta quarta-feira",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/22/instagram-fora-do-ar-rede-social-apresenta-instabilidade-nesta-quarta-feira.ghtml",
+      "date": "Wed, 22 Jul 2026 15:09:05 -0000"
+    },
+    {
+      "title": "Desmatamento no Brasil coloca agricultores dos EUA em desvantagem, diz representante comercial americano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/22/jamieson-greer-brasil-eua.ghtml",
+      "date": "Wed, 22 Jul 2026 14:48:59 -0000"
+    },
+    {
+      "title": "Reforma tribut\u00E1ria: governo adia para janeiro obriga\u00E7\u00E3o de pessoa f\u00EDsica e produtor rural ter \u0027CNPJ t\u00E9cnico\u0027 e emitir nota fiscal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/22/reforma-tributaria-governo-adia-para-janeiro-obrigacao-de-pessoa-fisica-e-produtor-rural-ter-cnpj-tecnico-e-emitir-nota-fiscal.ghtml",
+      "date": "Wed, 22 Jul 2026 14:09:57 -0000"
+    },
     {
       "title": "Primeira unidade da Ferrari Luce vai a leil\u00E3o; esportivo el\u00E9trico deve passar dos R$ 3,3 milh\u00F5es",
       "source": "G1 Economia",
@@ -93,28 +111,10 @@
       "date": "Wed, 22 Jul 2026 12:16:36 -0000"
     },
     {
-      "title": "D\u00F3lar oscila, de olho em novo tarifa\u00E7o de Trump e resultados corporativos; Ibovespa sobe",
+      "title": "D\u00F3lar cai, de olho em novo tarifa\u00E7o de Trump e resultados corporativos; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/22/dolar-ibovespa.ghtml",
       "date": "Wed, 22 Jul 2026 12:00:08 -0000"
-    },
-    {
-      "title": "Ministro diz que Brasil vai usar reciprocidade quando for necess\u00E1rio: \u0027Precisa ferir o advers\u00E1rio, n\u00E3o apenas irrit\u00E1-lo\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/22/reciprocidade-ministro-diz-que-brasil-vai-usar-instrumento-quando-for-necessario-precisa-ferir-o-adversario-nao-apenas-irrita-lo.ghtml",
-      "date": "Wed, 22 Jul 2026 11:48:18 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o de Trump: lagosta viva \u00E9 taxada, mas congelada escapa; veja lista de peixes e crust\u00E1ceos isentos e tarifados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/22/tarifaco-de-trump-lagosta-viva-e-taxada-mas-congelada-escapa-veja-lista-de-peixes-e-crustaceos-isentos-e-tarifados.ghtml",
-      "date": "Wed, 22 Jul 2026 11:42:03 -0000"
-    },
-    {
-      "title": "Homem \u00E9 condenado nos EUA por invadir mais de 500 contas do Snapchat e roubar fotos \u00EDntimas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/22/homem-e-condenado-nos-eua-por-invadir-mais-de-500-contas-do-snapchat-e-roubar-fotos-intimas.ghtml",
-      "date": "Wed, 22 Jul 2026 11:38:54 -0000"
     }
   ]
 }
