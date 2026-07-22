@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177427.22,
-      "change": 2.37,
-      "changeStr": "\u002B2.37%"
+      "price": 177547.56,
+      "change": 2.44,
+      "changeStr": "\u002B2.44%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.47,
-      "change": 1.94,
-      "changeStr": "\u002B1.94%"
+      "price": 42.58,
+      "change": 2.21,
+      "changeStr": "\u002B2.21%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.13,
-      "change": 4,
-      "changeStr": "\u002B4.00%"
+      "price": 75.1,
+      "change": 3.96,
+      "changeStr": "\u002B3.96%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.89,
-      "change": 0.85,
-      "changeStr": "\u002B0.85%"
+      "price": 42.9,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     },
     {
       "symbol": "BBDC4",
@@ -32,30 +32,36 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 21.04,
-      "change": 0.77,
-      "changeStr": "\u002B0.77%"
+      "price": 21.09,
+      "change": 1.01,
+      "changeStr": "\u002B1.01%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.92,
-      "change": 2.07,
-      "changeStr": "\u002B2.07%"
+      "price": 4.91,
+      "change": 1.87,
+      "changeStr": "\u002B1.87%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.05,
-      "change": 1.58,
-      "changeStr": "\u002B1.58%"
+      "price": 16.13,
+      "change": 2.09,
+      "changeStr": "\u002B2.09%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.49,
-      "change": 9.47,
-      "changeStr": "\u002B9.47%"
+      "price": 46.74,
+      "change": 10.05,
+      "changeStr": "\u002B10.05%"
     }
   ],
   "news": [
+    {
+      "title": "A\u00E7\u00F5es da Tesla caem ap\u00F3s empresa ampliar investimentos em IA e robot\u00E1xis",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/22/acoes-da-tesla-caem-apos-empresa-ampliar-investimentos-em-ia-e-robotaxis.ghtml",
+      "date": "Wed, 22 Jul 2026 20:54:01 -0000"
+    },
     {
       "title": "TCU alerta governo para risco fiscal de manter universaliza\u00E7\u00E3o dos Correios sem compensa\u00E7\u00E3o",
       "source": "G1 Economia",
@@ -75,7 +81,7 @@
       "date": "Wed, 22 Jul 2026 19:04:25 -0000"
     },
     {
-      "title": "Lula libera R$ 18,5 bilh\u00F5es em cr\u00E9dito para empresas afetadas por tarifa\u00E7o do governo Trump",
+      "title": "Governo Lula libera R$ 18,5 bilh\u00F5es em cr\u00E9dito para empresas afetadas por tarifa\u00E7o do governo Trump",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/22/tarifaco-lula-credito-para-empresas-afetadas-pelo-tarifaco.ghtml",
       "date": "Wed, 22 Jul 2026 18:40:16 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/22/jamieson-greer-brasil-eua.ghtml",
       "date": "Wed, 22 Jul 2026 14:48:59 -0000"
-    },
-    {
-      "title": "Reforma tribut\u00E1ria: governo adia para janeiro obriga\u00E7\u00E3o de pessoa f\u00EDsica e produtor rural ter \u0027CNPJ t\u00E9cnico\u0027 e emitir nota fiscal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/22/reforma-tributaria-governo-adia-para-janeiro-obrigacao-de-pessoa-fisica-e-produtor-rural-ter-cnpj-tecnico-e-emitir-nota-fiscal.ghtml",
-      "date": "Wed, 22 Jul 2026 14:09:57 -0000"
     }
   ]
 }
