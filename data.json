@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177315.1,
-      "change": 2.3,
-      "changeStr": "\u002B2.30%"
+      "price": 177427.22,
+      "change": 2.37,
+      "changeStr": "\u002B2.37%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.58,
-      "change": 2.21,
-      "changeStr": "\u002B2.21%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 74.98,
-      "change": 3.79,
-      "changeStr": "\u002B3.79%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 42.87,
-      "change": 0.8,
-      "changeStr": "\u002B0.80%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 18.91,
+      "price": 42.47,
       "change": 1.94,
       "changeStr": "\u002B1.94%"
     },
     {
+      "symbol": "VALE3",
+      "price": 75.13,
+      "change": 4,
+      "changeStr": "\u002B4.00%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 42.89,
+      "change": 0.85,
+      "changeStr": "\u002B0.85%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 18.97,
+      "change": 2.26,
+      "changeStr": "\u002B2.26%"
+    },
+    {
       "symbol": "BBAS3",
-      "price": 21.1,
-      "change": 1.05,
-      "changeStr": "\u002B1.05%"
+      "price": 21.04,
+      "change": 0.77,
+      "changeStr": "\u002B0.77%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.79,
-      "change": -0.62,
-      "changeStr": "-0.62%"
+      "price": 4.92,
+      "change": 2.07,
+      "changeStr": "\u002B2.07%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,36 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 46.59,
-      "change": 9.7,
-      "changeStr": "\u002B9.70%"
+      "price": 46.49,
+      "change": 9.47,
+      "changeStr": "\u002B9.47%"
     }
   ],
   "news": [
+    {
+      "title": "TCU alerta governo para risco fiscal de manter universaliza\u00E7\u00E3o dos Correios sem compensa\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/22/tcu-alerta-governo-para-risco-fiscal-de-manter-universalizacao-dos-correios-sem-compensacao.ghtml",
+      "date": "Wed, 22 Jul 2026 19:59:24 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o de Trump: veja as medidas do governo para tentar conter impacto das tarifas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/22/tarifaco-de-trump-veja-as-medidas-do-governo-para-tentar-conter-impacto-das-tarifas.ghtml",
+      "date": "Wed, 22 Jul 2026 19:50:40 -0000"
+    },
+    {
+      "title": "Adolescente que processava a Meta por danos \u00E0 sa\u00FAde mental desiste das acusa\u00E7\u00F5es contra a empresa dias antes do julgamento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/22/adolescente-que-processava-a-meta-por-danos-a-saude-mental-desiste-das-acusacoes-contra-a-empresa-dias-antes-do-julgamento.ghtml",
+      "date": "Wed, 22 Jul 2026 19:04:25 -0000"
+    },
+    {
+      "title": "Lula libera R$ 18,5 bilh\u00F5es em cr\u00E9dito para empresas afetadas por tarifa\u00E7o do governo Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/22/tarifaco-lula-credito-para-empresas-afetadas-pelo-tarifaco.ghtml",
+      "date": "Wed, 22 Jul 2026 18:40:16 -0000"
+    },
     {
       "title": "Como nova tarifa contra o Brasil faz parte de estrat\u00E9gia maior de Trump para inimigos (e aliados)",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/22/reforma-tributaria-governo-adia-para-janeiro-obrigacao-de-pessoa-fisica-e-produtor-rural-ter-cnpj-tecnico-e-emitir-nota-fiscal.ghtml",
       "date": "Wed, 22 Jul 2026 14:09:57 -0000"
-    },
-    {
-      "title": "Primeira unidade da Ferrari Luce vai a leil\u00E3o; esportivo el\u00E9trico deve passar dos R$ 3,3 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/22/primeira-unidade-da-ferrari-luce-vai-a-leilao.ghtml",
-      "date": "Wed, 22 Jul 2026 14:01:52 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o dos EUA: setor de cargas diz que medida de Trump \u00E9 \u0027pol\u00EDtica\u0027 e que responder da mesma forma pode piorar situa\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/22/tarifaco-dos-eua-setor-de-cargas-diz-que-medida-de-trump-e-politica-e-que-responder-da-mesma-forma-pode-piorar-situacao.ghtml",
-      "date": "Wed, 22 Jul 2026 13:55:45 -0000"
-    },
-    {
-      "title": "Embraer vai produzir mais 20 ca\u00E7as Gripen no interior de SP",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/22/embraer-vai-produzir-mais-20-cacas-gripen-no-interior-de-sp.ghtml",
-      "date": "Wed, 22 Jul 2026 13:03:45 -0000"
-    },
-    {
-      "title": "Funcion\u00E1rios acusam Meta de usar IA em demiss\u00F5es, mas esbarram na falta de provas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/22/funcionarios-meta-ia-demissoes.ghtml",
-      "date": "Wed, 22 Jul 2026 12:57:01 -0000"
     }
   ]
 }
