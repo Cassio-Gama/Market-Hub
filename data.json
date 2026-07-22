@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173325.66,
-      "change": -0.03,
-      "changeStr": "-0.03%"
+      "price": 176465.48,
+      "change": 1.81,
+      "changeStr": "\u002B1.81%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.66,
-      "change": 1.24,
-      "changeStr": "\u002B1.24%"
+      "price": 42.61,
+      "change": 2.28,
+      "changeStr": "\u002B2.28%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.37,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 74.57,
+      "change": 3.23,
+      "changeStr": "\u002B3.23%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.53,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 42.87,
+      "change": 0.8,
+      "changeStr": "\u002B0.80%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.55,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 18.79,
+      "change": 1.29,
+      "changeStr": "\u002B1.29%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.88,
-      "change": 3.52,
-      "changeStr": "\u002B3.52%"
+      "price": 20.86,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.82,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 4.84,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.8,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 16.1,
+      "change": 1.9,
+      "changeStr": "\u002B1.90%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.47,
-      "change": -1.53,
-      "changeStr": "-1.53%"
+      "price": 46.16,
+      "change": 8.69,
+      "changeStr": "\u002B8.69%"
     }
   ],
   "news": [
+    {
+      "title": "Primeira unidade da Ferrari Luce vai a leil\u00E3o; esportivo el\u00E9trico deve passar dos R$ 3,3 milh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/22/primeira-unidade-da-ferrari-luce-vai-a-leilao.ghtml",
+      "date": "Wed, 22 Jul 2026 14:01:52 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o dos EUA: setor de cargas diz que medida de Trump \u00E9 \u0027pol\u00EDtica\u0027 e que responder da mesma forma pode piorar situa\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/22/tarifaco-dos-eua-setor-de-cargas-diz-que-medida-de-trump-e-politica-e-que-responder-da-mesma-forma-pode-piorar-situacao.ghtml",
+      "date": "Wed, 22 Jul 2026 13:55:45 -0000"
+    },
+    {
+      "title": "Embraer vai produzir mais 20 ca\u00E7as Gripen no interior de SP",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/22/embraer-vai-produzir-mais-20-cacas-gripen-no-interior-de-sp.ghtml",
+      "date": "Wed, 22 Jul 2026 13:03:45 -0000"
+    },
+    {
+      "title": "Funcion\u00E1rios acusam Meta de usar IA em demiss\u00F5es, mas esbarram na falta de provas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/22/funcionarios-meta-ia-demissoes.ghtml",
+      "date": "Wed, 22 Jul 2026 12:57:01 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o dos EUA: governo anuncia nesta quarta nova linha de cr\u00E9dito para setores afetados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/22/tarifaco-dos-eua-governo-anuncia-nesta-quarta-nova-linha-de-credito-para-setores-afetados-pelo.ghtml",
+      "date": "Wed, 22 Jul 2026 12:29:00 -0000"
+    },
+    {
+      "title": "Escalada da guerra no Oriente M\u00E9dio pode reduzir crescimento global a 1,3% em 2026, diz Banco Mundial",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/22/guerra-no-oriente-medio-crescimento-global-banco-mundial.ghtml",
+      "date": "Wed, 22 Jul 2026 12:16:36 -0000"
+    },
+    {
+      "title": "D\u00F3lar oscila, de olho em novo tarifa\u00E7o de Trump e resultados corporativos; Ibovespa sobe",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/22/dolar-ibovespa.ghtml",
+      "date": "Wed, 22 Jul 2026 12:00:08 -0000"
+    },
+    {
+      "title": "Ministro diz que Brasil vai usar reciprocidade quando for necess\u00E1rio: \u0027Precisa ferir o advers\u00E1rio, n\u00E3o apenas irrit\u00E1-lo\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/22/reciprocidade-ministro-diz-que-brasil-vai-usar-instrumento-quando-for-necessario-precisa-ferir-o-adversario-nao-apenas-irrita-lo.ghtml",
+      "date": "Wed, 22 Jul 2026 11:48:18 -0000"
+    },
     {
       "title": "Tarifa\u00E7o de Trump: lagosta viva \u00E9 taxada, mas congelada escapa; veja lista de peixes e crust\u00E1ceos isentos e tarifados",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/22/homem-e-condenado-nos-eua-por-invadir-mais-de-500-contas-do-snapchat-e-roubar-fotos-intimas.ghtml",
       "date": "Wed, 22 Jul 2026 11:38:54 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo supera US$ 95 pela primeira vez desde junho ap\u00F3s escalada da guerra entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/22/petroleo-guerra-estados-unidos-e-ira.ghtml",
-      "date": "Wed, 22 Jul 2026 11:31:10 -0000"
-    },
-    {
-      "title": "Falta de emprego entre jovens vira desafio global",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/22/falta-de-emprego-entre-jovens-vira-desafio-global.ghtml",
-      "date": "Wed, 22 Jul 2026 10:32:52 -0000"
-    },
-    {
-      "title": "\nPor que o Brasil ter\u00E1 a maior tarifa m\u00E9dia dos EUA na Am\u00E9rica do Sul",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/22/por-que-o-brasil-tera-a-maior-tarifa-media-dos-eua-na-america-do-sul.ghtml",
-      "date": "Wed, 22 Jul 2026 10:31:09 -0000"
-    },
-    {
-      "title": "\u0027Ass\u00E9dio por pelos\u0027: por que campanha para incentivar homens a usar bermuda no trabalho causa pol\u00EAmica no Jap\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/22/assedio-por-pelos-por-que-campanha-para-incentivar-homens-a-usar-bermuda-no-trabalho-causa-polemica-no-japao.ghtml",
-      "date": "Wed, 22 Jul 2026 09:49:31 -0000"
-    },
-    {
-      "title": "Bitcoin, ethereum e outras criptomoedas: o que s\u00E3o e por que atraem tantos investidores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/07/22/bitcoin-ethereum-e-outras-criptomoedas-o-que-sao-e-por-que-atraem-tantos-investidores.ghtml",
-      "date": "Wed, 22 Jul 2026 05:00:16 -0000"
-    },
-    {
-      "title": "O que \u00E9 abandono de trabalho? Entenda regras que podem levar Eduardo Bolsonaro \u00E0 demiss\u00E3o da PF",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/22/abandono-trabalho-regras-eduardo-bolsonaro.ghtml",
-      "date": "Wed, 22 Jul 2026 03:00:53 -0000"
-    },
-    {
-      "title": "Trabalho em feriados: veja quais com\u00E9rcios podem abrir sem acordo, mesmo com nova regra do governo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/22/trabalho-em-feriados-veja-quais-comercios-podem-abrir-sem-acordo-mesmo-com-nova-regra-do-governo.ghtml",
-      "date": "Wed, 22 Jul 2026 03:00:46 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o de Trump: governo ainda estuda como reagir \u00E0 taxa\u00E7\u00E3o que come\u00E7a nesta quarta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/22/tarifaco-de-trump-governo-ainda-estuda-como-reagir-a-taxacao-que-comeca-nesta-quarta.ghtml",
-      "date": "Wed, 22 Jul 2026 03:00:31 -0000"
     }
   ]
 }
