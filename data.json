@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176241.31,
-      "change": 1.68,
-      "changeStr": "\u002B1.68%"
+      "price": 177315.1,
+      "change": 2.3,
+      "changeStr": "\u002B2.30%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.42,
-      "change": 1.82,
-      "changeStr": "\u002B1.82%"
+      "price": 42.58,
+      "change": 2.21,
+      "changeStr": "\u002B2.21%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.66,
-      "change": 3.35,
-      "changeStr": "\u002B3.35%"
+      "price": 74.98,
+      "change": 3.79,
+      "changeStr": "\u002B3.79%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.52,
-      "change": -0.02,
-      "changeStr": "-0.02%"
+      "price": 42.87,
+      "change": 0.8,
+      "changeStr": "\u002B0.80%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.73,
-      "change": 0.97,
-      "changeStr": "\u002B0.97%"
+      "price": 18.91,
+      "change": 1.94,
+      "changeStr": "\u002B1.94%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.87,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 21.1,
+      "change": 1.05,
+      "changeStr": "\u002B1.05%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.81,
-      "change": -0.21,
-      "changeStr": "-0.21%"
+      "price": 4.79,
+      "change": -0.62,
+      "changeStr": "-0.62%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.02,
-      "change": 1.39,
-      "changeStr": "\u002B1.39%"
+      "price": 16.05,
+      "change": 1.58,
+      "changeStr": "\u002B1.58%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.66,
-      "change": 9.87,
-      "changeStr": "\u002B9.87%"
+      "price": 46.59,
+      "change": 9.7,
+      "changeStr": "\u002B9.70%"
     }
   ],
   "news": [
+    {
+      "title": "Como nova tarifa contra o Brasil faz parte de estrat\u00E9gia maior de Trump para inimigos (e aliados)",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/22/como-nova-tarifa-contra-o-brasil-faz-parte-de-estrategia-maior-de-trump-para-inimigos-e-aliados.ghtml",
+      "date": "Wed, 22 Jul 2026 17:37:45 -0000"
+    },
+    {
+      "title": "Canad\u00E1 cancela inaugura\u00E7\u00E3o conjunta de ponte com os EUA ap\u00F3s tarifa\u00E7o de Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/22/canada-cancela-inauguracao-conjunta-de-ponte-com-os-eua-apos-tarifaco-de-trump.ghtml",
+      "date": "Wed, 22 Jul 2026 16:48:24 -0000"
+    },
+    {
+      "title": "Cidade espanhola presenteia campe\u00F5es da Copa com tomates equivalentes ao pr\u00F3prio peso; veja v\u00EDdeo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/22/cidade-espanhola-presenteia-campeoes-da-copa-com-tomates-equivalentes-ao-proprio-peso-veja-video.ghtml",
+      "date": "Wed, 22 Jul 2026 16:33:48 -0000"
+    },
     {
       "title": "Instagram fora do ar? Rede social apresenta instabilidade nesta quarta-feira",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/22/funcionarios-meta-ia-demissoes.ghtml",
       "date": "Wed, 22 Jul 2026 12:57:01 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o dos EUA: governo anuncia nesta quarta nova linha de cr\u00E9dito para setores afetados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/22/tarifaco-dos-eua-governo-anuncia-nesta-quarta-nova-linha-de-credito-para-setores-afetados-pelo.ghtml",
-      "date": "Wed, 22 Jul 2026 12:29:00 -0000"
-    },
-    {
-      "title": "Escalada da guerra no Oriente M\u00E9dio pode reduzir crescimento global a 1,3% em 2026, diz Banco Mundial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/22/guerra-no-oriente-medio-crescimento-global-banco-mundial.ghtml",
-      "date": "Wed, 22 Jul 2026 12:16:36 -0000"
-    },
-    {
-      "title": "D\u00F3lar cai, de olho em novo tarifa\u00E7o de Trump e resultados corporativos; Ibovespa sobe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/22/dolar-ibovespa.ghtml",
-      "date": "Wed, 22 Jul 2026 12:00:08 -0000"
     }
   ]
 }
