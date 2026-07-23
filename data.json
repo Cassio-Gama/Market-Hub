@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176631.06,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 176723.62,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.05,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
+      "price": 42.95,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.65,
-      "change": 0.73,
-      "changeStr": "\u002B0.73%"
+      "price": 75.68,
+      "change": 0.77,
+      "changeStr": "\u002B0.77%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.39,
-      "change": -1.19,
-      "changeStr": "-1.19%"
+      "price": 42.56,
+      "change": -0.79,
+      "changeStr": "-0.79%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.76,
-      "change": -1.11,
-      "changeStr": "-1.11%"
+      "price": 18.72,
+      "change": -1.32,
+      "changeStr": "-1.32%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.91,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 20.93,
+      "change": -0.76,
+      "changeStr": "-0.76%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.7,
-      "change": -4.28,
-      "changeStr": "-4.28%"
+      "price": 4.71,
+      "change": -4.07,
+      "changeStr": "-4.07%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.87,
-      "change": -1.61,
-      "changeStr": "-1.61%"
+      "price": 15.92,
+      "change": -1.3,
+      "changeStr": "-1.30%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.15,
-      "change": -3.4,
-      "changeStr": "-3.40%"
+      "price": 45.67,
+      "change": -2.29,
+      "changeStr": "-2.29%"
     }
   ],
   "news": [
+    {
+      "title": "Governo prorroga por mais dois meses subs\u00EDdio de \u00E0 gasolina e de ao diesel",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/23/governo-prorroga-por-mais-dois-meses-subsidio-de-a-gasolina-e-de-ao-diesel.ghtml",
+      "date": "Thu, 23 Jul 2026 21:01:21 -0000"
+    },
+    {
+      "title": "CGU prorroga investiga\u00E7\u00E3o contra servidores do BC por suposto envolvimento no caso Master",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/23/cgu-prorroga-investigacao-contra-servidores-do-bc-por-suposto-envolvimento-no-caso-master.ghtml",
+      "date": "Thu, 23 Jul 2026 21:00:20 -0000"
+    },
+    {
+      "title": "Justi\u00E7a dos EUA prorroga suspens\u00E3o da compra da Warner Bros. pela Paramount por mais 14 dias",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/23/justica-dos-eua-prorroga-suspensao-da-compra-da-warner-bros-pela-paramount-por-mais-14-dias.ghtml",
+      "date": "Thu, 23 Jul 2026 20:58:11 -0000"
+    },
+    {
+      "title": "Euro pode ganhar novas notas pela primeira vez desde 2002; veja os desenhos finalistas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/23/beethoven-da-vinci-e-marie-curie-bc-europeu-revela-propostas-para-novas-notas-de-euro-veja-os-desenhos.ghtml",
+      "date": "Thu, 23 Jul 2026 20:14:57 -0000"
+    },
+    {
+      "title": "Minist\u00E9rio nega ter pedido flexibiliza\u00E7\u00E3o \u00E0 UE para carne brasileira e aguarda an\u00E1lise de documentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/23/ministerio-nega-ter-pedido-flexibilizacao-a-ue-para-carne-brasileira-e-aguarda-analise-de-documentos.ghtml",
+      "date": "Thu, 23 Jul 2026 19:43:54 -0000"
+    },
     {
       "title": "Caso da OpenAI mobiliza Casa Branca e leva Congresso americano a discutir controle sobre IAs",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/23/governo-deve-prorrogar-por-mais-dois-meses-subsidio-a-gasolina.ghtml",
       "date": "Thu, 23 Jul 2026 16:18:25 -0000"
-    },
-    {
-      "title": "Casa Branca diz que governo far\u00E1 an\u00FAncio de novas tarifas nesta quinta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/23/casa-branca-diz-que-governo-fara-anuncio-de-novas-tarifas-nesta-quinta.ghtml",
-      "date": "Thu, 23 Jul 2026 15:57:04 -0000"
-    },
-    {
-      "title": "\u00D3rg\u00E3o do Senado identifica \u0027deteriora\u00E7\u00E3o percept\u00EDvel\u0027 de \u0027parte relevante\u0027 das estatais federais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/23/orgao-do-senado-identifica-deterioracao-perceptivel-de-parte-relevante-das-estatais-federais.ghtml",
-      "date": "Thu, 23 Jul 2026 14:30:08 -0000"
-    },
-    {
-      "title": "MPF quer suspender gasolina com 32% de etanol e cobra R$ 500 milh\u00F5es em indeniza\u00E7\u00E3o; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/23/mpf-gasolina-etanol.ghtml",
-      "date": "Thu, 23 Jul 2026 12:22:39 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta, ap\u00F3s novos ataques entre EUA e Ir\u00E3 e com alta do petr\u00F3leo no radar; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/23/dolar-ibovespa.ghtml",
-      "date": "Thu, 23 Jul 2026 12:00:08 -0000"
-    },
-    {
-      "title": "Google \u00E9 multado em US$ 1 bilh\u00E3o pela Uni\u00E3o Europeia e tenta evitar novas san\u00E7\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/23/google-multado-uniao-europeia.ghtml",
-      "date": "Thu, 23 Jul 2026 10:41:42 -0000"
     }
   ]
 }
