@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177547.56,
-      "change": 2.44,
-      "changeStr": "\u002B2.44%"
+      "price": 177258.27,
+      "change": -0.16,
+      "changeStr": "-0.16%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.58,
-      "change": 2.21,
-      "changeStr": "\u002B2.21%"
+      "price": 43.34,
+      "change": 1.78,
+      "changeStr": "\u002B1.78%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.1,
-      "change": 3.96,
-      "changeStr": "\u002B3.96%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 42.9,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 18.97,
+      "price": 76.8,
       "change": 2.26,
       "changeStr": "\u002B2.26%"
     },
     {
+      "symbol": "ITUB4",
+      "price": 42.57,
+      "change": -0.77,
+      "changeStr": "-0.77%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 18.83,
+      "change": -0.74,
+      "changeStr": "-0.74%"
+    },
+    {
       "symbol": "BBAS3",
-      "price": 21.09,
-      "change": 1.01,
-      "changeStr": "\u002B1.01%"
+      "price": 20.98,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.91,
-      "change": 1.87,
-      "changeStr": "\u002B1.87%"
+      "price": 4.82,
+      "change": -1.83,
+      "changeStr": "-1.83%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.13,
-      "change": 2.09,
-      "changeStr": "\u002B2.09%"
+      "price": 16.01,
+      "change": -0.74,
+      "changeStr": "-0.74%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.74,
-      "change": 10.05,
-      "changeStr": "\u002B10.05%"
+      "price": 45.45,
+      "change": -2.76,
+      "changeStr": "-2.76%"
     }
   ],
   "news": [
+    {
+      "title": "\u00D3rg\u00E3o do Senado identifica \u0027deteriora\u00E7\u00E3o percept\u00EDvel\u0027 de \u0027parte relevante\u0027 das estatais federais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/23/orgao-do-senado-identifica-deterioracao-perceptivel-de-parte-relevante-das-estatais-federais.ghtml",
+      "date": "Thu, 23 Jul 2026 14:30:08 -0000"
+    },
     {
       "title": "MPF quer suspender gasolina com 32% de etanol e cobra R$ 500 milh\u00F5es em indeniza\u00E7\u00E3o; entenda",
       "source": "G1 Economia",
@@ -63,7 +69,7 @@
       "date": "Thu, 23 Jul 2026 12:22:39 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, com petr\u00F3leo perto de US$ 100 no radar",
+      "title": "D\u00F3lar opera em alta, ap\u00F3s novos ataques entre EUA e Ir\u00E3 e com alta do petr\u00F3leo no radar; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/23/dolar-ibovespa.ghtml",
       "date": "Thu, 23 Jul 2026 12:00:08 -0000"
@@ -81,7 +87,7 @@
       "date": "Thu, 23 Jul 2026 07:43:55 -0000"
     },
     {
-      "title": "Petr\u00F3leo se aproxima de US$ 100 com escalada da guerra entre EUA e Ir\u00E3",
+      "title": "Petr\u00F3leo bate os US$ 100 com escalada da guerra entre EUA e Ir\u00E3",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/23/petroleo-passa-de-us-96-e-amplia-temor-sobre-inflacao-global.ghtml",
       "date": "Thu, 23 Jul 2026 06:18:08 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/empreendedorismo/noticia/2026/07/23/receita-federal-tira-sistema-do-cnpj-do-ar-ate-segunda-para-implementar-novo-modelo-com-letras.ghtml",
       "date": "Thu, 23 Jul 2026 03:00:33 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o de Trump pressiona setores, mas Brasil chega menos dependente dos EUA, dizem especialistas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/23/tarifaco-de-trump-pressiona-setores-mas-brasil-chega-menos-dependente-dos-eua-dizem-especialistas.ghtml",
-      "date": "Thu, 23 Jul 2026 03:00:30 -0000"
     }
   ]
 }
