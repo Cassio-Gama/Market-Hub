@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176508.48,
-      "change": -0.59,
-      "changeStr": "-0.59%"
+      "price": 176631.06,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.16,
-      "change": 1.36,
-      "changeStr": "\u002B1.36%"
+      "price": 43.05,
+      "change": 1.1,
+      "changeStr": "\u002B1.10%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.12,
-      "change": 1.36,
-      "changeStr": "\u002B1.36%"
+      "price": 75.65,
+      "change": 0.73,
+      "changeStr": "\u002B0.73%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.32,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 42.39,
+      "change": -1.19,
+      "changeStr": "-1.19%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.75,
-      "change": -1.16,
-      "changeStr": "-1.16%"
+      "price": 18.76,
+      "change": -1.11,
+      "changeStr": "-1.11%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.9,
-      "change": -0.9,
-      "changeStr": "-0.90%"
+      "price": 20.91,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.76,
-      "change": -3.05,
-      "changeStr": "-3.05%"
+      "price": 4.7,
+      "change": -4.28,
+      "changeStr": "-4.28%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.88,
-      "change": -1.55,
-      "changeStr": "-1.55%"
+      "price": 15.87,
+      "change": -1.61,
+      "changeStr": "-1.61%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.88,
-      "change": -3.98,
-      "changeStr": "-3.98%"
+      "price": 45.15,
+      "change": -3.4,
+      "changeStr": "-3.40%"
     }
   ],
   "news": [
+    {
+      "title": "Caso da OpenAI mobiliza Casa Branca e leva Congresso americano a discutir controle sobre IAs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/23/casa-branca-acompanha-incidente-com-ia-fora-de-controle-da-openai.ghtml",
+      "date": "Thu, 23 Jul 2026 19:10:08 -0000"
+    },
     {
       "title": "Opep\u002B deve aumentar produ\u00E7\u00E3o de petr\u00F3leo pela quarta vez seguida, mesmo com guerra entre EUA e Ir\u00E3",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/23/google-multado-uniao-europeia.ghtml",
       "date": "Thu, 23 Jul 2026 10:41:42 -0000"
-    },
-    {
-      "title": "O plano da China para se livrar da depend\u00EAncia do agro brasileiro (e por que isso assusta o Brasil)",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/23/o-plano-da-china-para-se-livrar-da-dependencia-do-agro-brasileiro-e-por-que-isso-assusta-o-brasil.ghtml",
-      "date": "Thu, 23 Jul 2026 07:43:55 -0000"
     }
   ]
 }
