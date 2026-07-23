@@ -57,6 +57,24 @@
   ],
   "news": [
     {
+      "title": "Petr\u00F3leo passa de US$ 96 e amplia temor sobre infla\u00E7\u00E3o global",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/23/petroleo-passa-de-us-96-e-amplia-temor-sobre-inflacao-global.ghtml",
+      "date": "Thu, 23 Jul 2026 06:18:08 -0000"
+    },
+    {
+      "title": "NR-1: o que muda para os trabalhadores ap\u00F3s o STF suspender multas por 90 dias?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/23/nr-1-o-que-muda-para-os-trabalhadores-apos-o-stf-suspender-multas.ghtml",
+      "date": "Thu, 23 Jul 2026 06:00:50 -0000"
+    },
+    {
+      "title": "Quando vender muito vira um problema: a hist\u00F3ria da loja de cookies que cresceu r\u00E1pido demais  ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/07/23/quando-vender-muito-vira-um-problema-a-historia-da-loja-de-cookies-que-cresceu-rapido-demais.ghtml",
+      "date": "Thu, 23 Jul 2026 06:00:08 -0000"
+    },
+    {
       "title": "O \u0027plano Trump\u0027: como empresas brasileiras tentam driblar o tarifa\u00E7o e reduzir a depend\u00EAncia dos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/23/como-empresas-brasileiras-tentam-driblar-o-tarifaco.ghtml",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/23/entenda-como-foi-a-invasao-sem-precedentes-por-modelo-da-openai.ghtml",
       "date": "Thu, 23 Jul 2026 03:00:10 -0000"
-    },
-    {
-      "title": "A\u00E7\u00F5es da Tesla caem ap\u00F3s empresa ampliar investimentos em IA e robot\u00E1xis",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/22/acoes-da-tesla-caem-apos-empresa-ampliar-investimentos-em-ia-e-robotaxis.ghtml",
-      "date": "Wed, 22 Jul 2026 20:54:01 -0000"
-    },
-    {
-      "title": "TCU alerta governo para risco fiscal de manter universaliza\u00E7\u00E3o dos Correios sem compensa\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/22/tcu-alerta-governo-para-risco-fiscal-de-manter-universalizacao-dos-correios-sem-compensacao.ghtml",
-      "date": "Wed, 22 Jul 2026 19:59:24 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o de Trump: veja as medidas do governo para tentar conter impacto das tarifas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/22/tarifaco-de-trump-veja-as-medidas-do-governo-para-tentar-conter-impacto-das-tarifas.ghtml",
-      "date": "Wed, 22 Jul 2026 19:50:40 -0000"
     }
   ]
 }
