@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177258.27,
-      "change": -0.16,
-      "changeStr": "-0.16%"
+      "price": 176508.48,
+      "change": -0.59,
+      "changeStr": "-0.59%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.34,
-      "change": 1.78,
-      "changeStr": "\u002B1.78%"
+      "price": 43.16,
+      "change": 1.36,
+      "changeStr": "\u002B1.36%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.8,
-      "change": 2.26,
-      "changeStr": "\u002B2.26%"
+      "price": 76.12,
+      "change": 1.36,
+      "changeStr": "\u002B1.36%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.57,
-      "change": -0.77,
-      "changeStr": "-0.77%"
+      "price": 42.32,
+      "change": -1.35,
+      "changeStr": "-1.35%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.83,
-      "change": -0.74,
-      "changeStr": "-0.74%"
+      "price": 18.75,
+      "change": -1.16,
+      "changeStr": "-1.16%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.98,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 20.9,
+      "change": -0.9,
+      "changeStr": "-0.90%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.82,
-      "change": -1.83,
-      "changeStr": "-1.83%"
+      "price": 4.76,
+      "change": -3.05,
+      "changeStr": "-3.05%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.01,
-      "change": -0.74,
-      "changeStr": "-0.74%"
+      "price": 15.88,
+      "change": -1.55,
+      "changeStr": "-1.55%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.45,
-      "change": -2.76,
-      "changeStr": "-2.76%"
+      "price": 44.88,
+      "change": -3.98,
+      "changeStr": "-3.98%"
     }
   ],
   "news": [
+    {
+      "title": "Opep\u002B deve aumentar produ\u00E7\u00E3o de petr\u00F3leo pela quarta vez seguida, mesmo com guerra entre EUA e Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/23/opep-deve-aumentar-producao-de-petroleo-pela-quarta-vez-seguida-mesmo-com-guerra-entre-eua-e-ira.ghtml",
+      "date": "Thu, 23 Jul 2026 16:49:53 -0000"
+    },
+    {
+      "title": "Imposto de Renda 2026: Receita abre consultas ao 3\u00BA lote de restitui\u00E7\u00E3o nesta sexta-feira",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/07/23/imposto-de-renda-2026-receita-abre-consultas-ao-3o-lote-de-restituicao-nesta-sexta-feira.ghtml",
+      "date": "Thu, 23 Jul 2026 16:39:35 -0000"
+    },
+    {
+      "title": "Biqu\u00EDni, 80 anos: como traje batizado por causa de bomba nuclear se tornou s\u00EDmbolo de brasilidade",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/pop-arte/noticia/2026/07/23/biquini-80-anos-como-traje-batizado-por-causa-de-bomba-nuclear-se-tornou-simbolo-de-brasilidade.ghtml",
+      "date": "Thu, 23 Jul 2026 16:19:21 -0000"
+    },
+    {
+      "title": "Governo deve prorrogar por mais dois meses subs\u00EDdio \u00E0 gasolina",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/23/governo-deve-prorrogar-por-mais-dois-meses-subsidio-a-gasolina.ghtml",
+      "date": "Thu, 23 Jul 2026 16:18:25 -0000"
+    },
+    {
+      "title": "Casa Branca diz que governo far\u00E1 an\u00FAncio de novas tarifas nesta quinta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/23/casa-branca-diz-que-governo-fara-anuncio-de-novas-tarifas-nesta-quinta.ghtml",
+      "date": "Thu, 23 Jul 2026 15:57:04 -0000"
+    },
     {
       "title": "\u00D3rg\u00E3o do Senado identifica \u0027deteriora\u00E7\u00E3o percept\u00EDvel\u0027 de \u0027parte relevante\u0027 das estatais federais",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/23/o-plano-da-china-para-se-livrar-da-dependencia-do-agro-brasileiro-e-por-que-isso-assusta-o-brasil.ghtml",
       "date": "Thu, 23 Jul 2026 07:43:55 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo bate os US$ 100 com escalada da guerra entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/23/petroleo-passa-de-us-96-e-amplia-temor-sobre-inflacao-global.ghtml",
-      "date": "Thu, 23 Jul 2026 06:18:08 -0000"
-    },
-    {
-      "title": "NR-1: o que muda para os trabalhadores ap\u00F3s o STF suspender multas por 90 dias?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/23/nr-1-o-que-muda-para-os-trabalhadores-apos-o-stf-suspender-multas.ghtml",
-      "date": "Thu, 23 Jul 2026 06:00:50 -0000"
-    },
-    {
-      "title": "Quando vender muito vira um problema: a hist\u00F3ria da loja de cookies que cresceu r\u00E1pido demais  ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/07/23/quando-vender-muito-vira-um-problema-a-historia-da-loja-de-cookies-que-cresceu-rapido-demais.ghtml",
-      "date": "Thu, 23 Jul 2026 06:00:08 -0000"
-    },
-    {
-      "title": "O \u0027plano Trump\u0027: como empresas brasileiras tentam driblar o tarifa\u00E7o e reduzir a depend\u00EAncia dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/23/como-empresas-brasileiras-tentam-driblar-o-tarifaco.ghtml",
-      "date": "Thu, 23 Jul 2026 03:00:47 -0000"
-    },
-    {
-      "title": "Receita Federal tira sistema do CNPJ do ar at\u00E9 segunda para implementar novo modelo com letras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/07/23/receita-federal-tira-sistema-do-cnpj-do-ar-ate-segunda-para-implementar-novo-modelo-com-letras.ghtml",
-      "date": "Thu, 23 Jul 2026 03:00:33 -0000"
     }
   ]
 }
