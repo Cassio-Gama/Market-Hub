@@ -57,13 +57,31 @@
   ],
   "news": [
     {
+      "title": "MPF quer suspender gasolina com 32% de etanol e cobra R$ 500 milh\u00F5es em indeniza\u00E7\u00E3o; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/23/mpf-gasolina-etanol.ghtml",
+      "date": "Thu, 23 Jul 2026 12:22:39 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre em alta, com petr\u00F3leo perto de US$ 100 no radar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/23/dolar-ibovespa.ghtml",
+      "date": "Thu, 23 Jul 2026 12:00:08 -0000"
+    },
+    {
+      "title": "Google \u00E9 multado em US$ 1 bilh\u00E3o pela Uni\u00E3o Europeia e tenta evitar novas san\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/23/google-multado-uniao-europeia.ghtml",
+      "date": "Thu, 23 Jul 2026 10:41:42 -0000"
+    },
+    {
       "title": "O plano da China para se livrar da depend\u00EAncia do agro brasileiro (e por que isso assusta o Brasil)",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/23/o-plano-da-china-para-se-livrar-da-dependencia-do-agro-brasileiro-e-por-que-isso-assusta-o-brasil.ghtml",
       "date": "Thu, 23 Jul 2026 07:43:55 -0000"
     },
     {
-      "title": "Petr\u00F3leo passa de US$ 96 e amplia temor sobre infla\u00E7\u00E3o global",
+      "title": "Petr\u00F3leo se aproxima de US$ 100 com escalada da guerra entre EUA e Ir\u00E3",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/23/petroleo-passa-de-us-96-e-amplia-temor-sobre-inflacao-global.ghtml",
       "date": "Thu, 23 Jul 2026 06:18:08 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/23/tarifaco-de-trump-pressiona-setores-mas-brasil-chega-menos-dependente-dos-eua-dizem-especialistas.ghtml",
       "date": "Thu, 23 Jul 2026 03:00:30 -0000"
-    },
-    {
-      "title": "INSS diz que fila caiu 74% em\n2026 e tem 1,6 milh\u00E3o de pedidos; Lula prometeu zerar at\u00E9 setembro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/23/inss-diz-que-fila-caiu-74percent-em-2026-e-tem-16-milhao-de-pedidos-lula-prometeu-zerar-ate-setembro.ghtml",
-      "date": "Thu, 23 Jul 2026 03:00:20 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o: setores atingidos e governo divergem sobre possibilidade de aplicar reciprocidade aos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/23/tarifaco-setores-atingidos-e-governo-divergem-sobre-possibilidade-de-aplicar-reciprocidade-aos-eua.ghtml",
-      "date": "Thu, 23 Jul 2026 03:00:15 -0000"
-    },
-    {
-      "title": "El Ni\u00F1o: governo antecipa contratos de reserva de energia para garantir abastecimento e evitar efeitos do fen\u00F4meno",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/23/el-nino-governo-antecipa-contratos-de-reserva-de-energia-para-garantir-abastecimento-e-evitar-efeitos-do-fenomeno.ghtml",
-      "date": "Thu, 23 Jul 2026 03:00:14 -0000"
     }
   ]
 }
