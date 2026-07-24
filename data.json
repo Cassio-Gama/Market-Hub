@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174282.7,
-      "change": -1.38,
-      "changeStr": "-1.38%"
+      "price": 174041.95,
+      "change": -1.52,
+      "changeStr": "-1.52%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.24,
-      "change": -1.65,
-      "changeStr": "-1.65%"
+      "price": 42.21,
+      "change": -1.72,
+      "changeStr": "-1.72%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.51,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 75.24,
+      "change": -0.58,
+      "changeStr": "-0.58%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.08,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 42.1,
+      "change": -1.08,
+      "changeStr": "-1.08%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.47,
-      "change": -1.34,
-      "changeStr": "-1.34%"
+      "price": 18.48,
+      "change": -1.28,
+      "changeStr": "-1.28%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.45,
-      "change": -2.29,
-      "changeStr": "-2.29%"
+      "price": 20.35,
+      "change": -2.77,
+      "changeStr": "-2.77%"
     },
     {
       "symbol": "MGLU3",
@@ -44,18 +44,36 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 15.65,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "price": 15.64,
+      "change": -1.76,
+      "changeStr": "-1.76%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.73,
-      "change": 0.13,
-      "changeStr": "\u002B0.13%"
+      "price": 45.99,
+      "change": 0.7,
+      "changeStr": "\u002B0.70%"
     }
   ],
   "news": [
+    {
+      "title": "Michelle Bolsonaro e Fl\u00E1vio voltam a se seguir nas redes sociais, mas ainda n\u00E3o se encontraram",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/24/michelle-bolsonaro-e-flavio-voltam-a-se-seguir-nas-redes-sociais-mas-ainda-nao-se-encontraram.ghtml",
+      "date": "Fri, 24 Jul 2026 20:45:27 -0000"
+    },
+    {
+      "title": "Governo estima que 47,3% das exporta\u00E7\u00F5es brasileiras s\u00E3o atingidas por tarifas dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/24/governo-estima-que-473percent-das-exportacoes-brasileiras-sao-atingidas-por-tarifas-dos-eua.ghtml",
+      "date": "Fri, 24 Jul 2026 19:58:05 -0000"
+    },
+    {
+      "title": "Paramount concorda em adiar fechamento da compra da Warner Bros. Discovery at\u00E9 decis\u00E3o judicial nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/24/paramount-concorda-em-adiar-fechamento-da-compra-da-warner-bros-discovery-ate-decisao-judicial-nos-eua.ghtml",
+      "date": "Fri, 24 Jul 2026 19:47:15 -0000"
+    },
     {
       "title": "Pequenas empresas dos EUA processam Trump por novas tarifas sobre 60 pa\u00EDses",
       "source": "G1 Economia",
@@ -69,7 +87,7 @@
       "date": "Fri, 24 Jul 2026 17:57:23 -0000"
     },
     {
-      "title": "\u0027Brasil precisa agir com firmeza\u0027: setor produtivo pede negocia\u00E7\u00E3o e rapidez ap\u00F3s nova tarifa de at\u00E9 37,5%",
+      "title": "\u0027Brasil precisa agir com firmeza\u0027: setor produtivo pede negocia\u00E7\u00E3o e rapidez ap\u00F3s nova tarifa dos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/24/brasil-precisa-agir-com-firmeza-setor-produtivo-pede-negociacao-e-rapidez-apos-nova-tarifa-de-ate-375percent.ghtml",
       "date": "Fri, 24 Jul 2026 17:45:21 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/24/presidente-do-bc-compara-cartao-de-credito-brasileiro-a-jabuticaba-e-uma-fruta-legal-mas-tem-coisa-que-voce-nao-quer-ser-o-unico-a-ter.ghtml",
       "date": "Fri, 24 Jul 2026 15:56:16 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o dos EUA: setores veem risco para economia e pedem ao governo que insista no di\u00E1logo em vez de agir com reciprocidade",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/24/tarifaco-dos-eua-setores-veem-risco-para-economia-e-pedem-ao-governo-que-insista-no-dialogo-em-vez-de-agir-com-reciprocidade.ghtml",
-      "date": "Fri, 24 Jul 2026 15:21:23 -0000"
-    },
-    {
-      "title": "Jetour T2 4x4 chega por R$ 349.900 contra Tank 300 e Haval H9; veja os pr\u00F3s e contras do jip\u00E3o h\u00EDbrido",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/24/jetour-t2-4x4-tank-300-haval-h9-pros-e-contras-jipao-hibrido.ghtml",
-      "date": "Fri, 24 Jul 2026 15:00:08 -0000"
-    },
-    {
-      "title": "Brasil \u00E9 o maior prejudicado por tarifa\u00E7o de Trump, diz Financial Times",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/24/brasil-e-o-maior-prejudicado-por-tarifaco-de-trump-diz-financial-times.ghtml",
-      "date": "Fri, 24 Jul 2026 14:52:19 -0000"
     }
   ]
 }
