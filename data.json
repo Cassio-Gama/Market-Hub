@@ -57,6 +57,18 @@
   ],
   "news": [
     {
+      "title": "SpaceX faz novo lan\u00E7amento da nave Starship",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/07/24/spacex-starship-voo-13.ghtml",
+      "date": "Fri, 24 Jul 2026 22:52:22 -0000"
+    },
+    {
+      "title": "Agente de IA da OpenAI invadiu sistema do Hugging Face e empresa s\u00F3 percebeu dias depois, diz investiga\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/24/agente-de-ia-da-openai-invadiu-sistema-do-hugging-face-e-empresa-so-percebeu-dias-depois-diz-investigacao.ghtml",
+      "date": "Fri, 24 Jul 2026 22:14:06 -0000"
+    },
+    {
       "title": "Michelle Bolsonaro e Fl\u00E1vio voltam a se seguir nas redes sociais, mas ainda n\u00E3o se encontraram",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/24/michelle-bolsonaro-e-flavio-voltam-a-se-seguir-nas-redes-sociais-mas-ainda-nao-se-encontraram.ghtml",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/24/apos-multa-contra-o-google-trump-anuncia-investigacao-contra-a-uniao-europeia-e-ameaca-novas-tarifas.ghtml",
       "date": "Fri, 24 Jul 2026 17:13:07 -0000"
-    },
-    {
-      "title": "Veto ao foie gras no Brasil reacende tens\u00E3o comercial com a Fran\u00E7a ap\u00F3s acordo Mercosul-UE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/24/veto-ao-foie-gras-no-brasil-reacende-tensao-comercial-com-a-franca-apos-acordo-mercosul-ue.ghtml",
-      "date": "Fri, 24 Jul 2026 16:49:46 -0000"
-    },
-    {
-      "title": "Presidente do BC compara cart\u00E3o de cr\u00E9dito brasileiro a jabuticaba: \u0027\u00C9 uma fruta legal, mas tem coisa que voc\u00EA n\u00E3o quer ser o \u00FAnico a ter\u2019",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/24/presidente-do-bc-compara-cartao-de-credito-brasileiro-a-jabuticaba-e-uma-fruta-legal-mas-tem-coisa-que-voce-nao-quer-ser-o-unico-a-ter.ghtml",
-      "date": "Fri, 24 Jul 2026 15:56:16 -0000"
     }
   ]
 }
