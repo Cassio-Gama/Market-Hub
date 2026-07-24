@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174924.16,
-      "change": -1.02,
-      "changeStr": "-1.02%"
+      "price": 175253.08,
+      "change": -0.83,
+      "changeStr": "-0.83%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.7,
-      "change": -0.58,
-      "changeStr": "-0.58%"
+      "price": 42.55,
+      "change": -0.93,
+      "changeStr": "-0.93%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.24,
-      "change": -0.58,
-      "changeStr": "-0.58%"
+      "price": 75.37,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.26,
-      "change": -0.7,
-      "changeStr": "-0.70%"
+      "price": 42.34,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.56,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 18.58,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.63,
-      "change": -1.43,
-      "changeStr": "-1.43%"
+      "price": 20.59,
+      "change": -1.62,
+      "changeStr": "-1.62%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.62,
-      "change": -1.91,
-      "changeStr": "-1.91%"
+      "price": 4.6,
+      "change": -2.34,
+      "changeStr": "-2.34%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.73,
-      "change": -1.19,
-      "changeStr": "-1.19%"
+      "price": 15.8,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.36,
-      "change": -0.68,
-      "changeStr": "-0.68%"
+      "price": 45.96,
+      "change": 0.63,
+      "changeStr": "\u002B0.63%"
     }
   ],
   "news": [
+    {
+      "title": "Tarifa\u00E7o dos EUA: setores veem risco para economia e pedem ao governo que insista no di\u00E1logo em vez de agir com reciprocidade",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/24/tarifaco-dos-eua-setores-veem-risco-para-economia-e-pedem-ao-governo-que-insista-no-dialogo-em-vez-de-agir-com-reciprocidade.ghtml",
+      "date": "Fri, 24 Jul 2026 15:21:23 -0000"
+    },
+    {
+      "title": "Jetour T2 4x4 chega por R$ 349.900 contra Tank 300 e Haval H9; veja os pr\u00F3s e contras do jip\u00E3o h\u00EDbrido",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/24/jetour-t2-4x4-tank-300-haval-h9-pros-e-contras-jipao-hibrido.ghtml",
+      "date": "Fri, 24 Jul 2026 15:00:08 -0000"
+    },
+    {
+      "title": "Brasil \u00E9 o maior prejudicado por tarifa\u00E7o de Trump, diz Financial Times",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/24/brasil-e-o-maior-prejudicado-por-tarifaco-de-trump-diz-financial-times.ghtml",
+      "date": "Fri, 24 Jul 2026 14:52:19 -0000"
+    },
+    {
+      "title": "Meta lan\u00E7a o Seller, aplicativo para vendedores do Facebook Marketplace",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/24/meta-lanca-o-seller-aplicativo-para-vendedores-do-facebook-marketplace.ghtml",
+      "date": "Fri, 24 Jul 2026 14:43:13 -0000"
+    },
+    {
+      "title": "\u0027Temos que tratar bet igual tratamos cigarro\u0027, diz ministro da Fazenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/24/durigan-expert-xp.ghtml",
+      "date": "Fri, 24 Jul 2026 14:39:10 -0000"
+    },
+    {
+      "title": "Vietn\u00E3 prop\u00F5e proibir menores de 16 anos de publicar conte\u00FAdo nas redes sociais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/24/vietna-propoe-proibir-menores-de-16-anos-de-publicar-conteudo-nas-redes-sociais.ghtml",
+      "date": "Fri, 24 Jul 2026 14:32:55 -0000"
+    },
+    {
+      "title": "Volkswagen defende cortes mais profundos diante do avan\u00E7o das montadoras chinesas na Europa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/24/volkswagen-defende-cortes-mais-profundos-diante-do-avanco-das-montadoras-chinesas-na-europa.ghtml",
+      "date": "Fri, 24 Jul 2026 14:18:39 -0000"
+    },
+    {
+      "title": "Volkswagen abandona previs\u00E3o de crescimento de vendas para 2026",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/24/volkswagen-abandona-previsao-de-crescimento-de-vendas-para-2026.ghtml",
+      "date": "Fri, 24 Jul 2026 14:05:07 -0000"
+    },
     {
       "title": "EUA fazem recall de quase 1,6 milh\u00E3o de d\u00FAzias de ovos por risco de salmonela",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/24/cidadaos-dos-eua-tentam-frear-expansao-desenfreada-de-data-centers.ghtml",
       "date": "Fri, 24 Jul 2026 13:22:33 -0000"
-    },
-    {
-      "title": "Governo prorroga subs\u00EDdio \u00E0 gasolina por mais 30 dias para conter alta de pre\u00E7os",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/24/governo-prorroga-subsidio-a-gasolina-para-conter-alta-de-precos-por-mais-30-dias.ghtml",
-      "date": "Fri, 24 Jul 2026 13:01:37 -0000"
-    },
-    {
-      "title": "Lula faz 1\u00AA visita \u00E0 Avibras ap\u00F3s retomada da produ\u00E7\u00E3o da empresa, em Jacare\u00ED",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/24/lula-faz-1a-visita-a-avibras-apos-retomada-da-producao-da-empresa.ghtml",
-      "date": "Fri, 24 Jul 2026 12:46:13 -0000"
-    },
-    {
-      "title": "Bilion\u00E1rio da Coreia do Sul \u00E9 condenado a pagar R$ 3,5 bilh\u00F5es \u00E0 ex-esposa em div\u00F3rcio; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/24/bilionario-da-coreia-do-sul-e-condenado-a-pagar-r-35-bilhoes-a-ex-esposa-em-divorcio-entenda.ghtml",
-      "date": "Fri, 24 Jul 2026 12:43:15 -0000"
-    },
-    {
-      "title": "Pa\u00EDses reagem a novas tarifas de Trump; Europa tem \u2018al\u00EDvio\u2019 ap\u00F3s multa milion\u00E1ria ao Google",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/24/paises-reagem-a-novas-tarifas-de-trump-europa-tem-alivio-apos-multa-milionaria-ao-google.ghtml",
-      "date": "Fri, 24 Jul 2026 12:41:06 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda, com petr\u00F3leo e tarifa\u00E7o no radar; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/24/dolar-ibovespa.ghtml",
-      "date": "Fri, 24 Jul 2026 12:00:24 -0000"
-    },
-    {
-      "title": "Como come\u00E7ar na produ\u00E7\u00E3o de leite? Cartilha gratuita re\u00FAne orienta\u00E7\u00F5es para produtores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/24/como-comecar-na-producao-de-leite-cartilha-gratuita-reune-orientacoes-para-produtores.ghtml",
-      "date": "Fri, 24 Jul 2026 11:56:04 -0000"
-    },
-    {
-      "title": "\u0027Estamos protegendo a cria\u00E7\u00E3o de Deus\u0027: as freiras ativistas que desafiam as companhias de Big Tech",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/24/estamos-protegendo-a-criacao-de-deus-as-freiras-ativistas-que-desafiam-as-companhias-de-big-tech.ghtml",
-      "date": "Fri, 24 Jul 2026 11:41:37 -0000"
-    },
-    {
-      "title": "Uni\u00E3o Europeia acusa TikTok de expor crian\u00E7as a riscos online",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/24/uniao-europeia-acusa-tiktok-de-expor-menores-a-riscos-online.ghtml",
-      "date": "Fri, 24 Jul 2026 11:29:48 -0000"
     }
   ]
 }
