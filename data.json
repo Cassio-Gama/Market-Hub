@@ -2,33 +2,33 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174417.39,
-      "change": -1.3,
-      "changeStr": "-1.30%"
+      "price": 174282.7,
+      "change": -1.38,
+      "changeStr": "-1.38%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.26,
-      "change": -1.61,
-      "changeStr": "-1.61%"
+      "price": 42.24,
+      "change": -1.65,
+      "changeStr": "-1.65%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.25,
-      "change": -0.57,
-      "changeStr": "-0.57%"
+      "price": 75.51,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.2,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 42.08,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.51,
-      "change": -1.12,
-      "changeStr": "-1.12%"
+      "price": 18.47,
+      "change": -1.34,
+      "changeStr": "-1.34%"
     },
     {
       "symbol": "BBAS3",
@@ -38,24 +38,42 @@
     },
     {
       "symbol": "MGLU3",
-      "price": 4.59,
-      "change": -2.55,
-      "changeStr": "-2.55%"
+      "price": 4.65,
+      "change": -1.27,
+      "changeStr": "-1.27%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.71,
-      "change": -1.32,
-      "changeStr": "-1.32%"
+      "price": 15.65,
+      "change": -1.7,
+      "changeStr": "-1.70%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.51,
-      "change": -0.35,
-      "changeStr": "-0.35%"
+      "price": 45.73,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     }
   ],
   "news": [
+    {
+      "title": "Pequenas empresas dos EUA processam Trump por novas tarifas sobre 60 pa\u00EDses",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/24/pequenas-empresas-dos-eua-processam-trump-por-novas-tarifas-sobre-60-paises.ghtml",
+      "date": "Fri, 24 Jul 2026 18:05:56 -0000"
+    },
+    {
+      "title": "Governo anuncia libera\u00E7\u00E3o de R$ 5,7 bilh\u00F5es em gastos no or\u00E7amento de 2026",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/24/governo-anuncia-liberacao-de-r-57-bilhoes-em-gastos-no-orcamento-de-2026.ghtml",
+      "date": "Fri, 24 Jul 2026 17:57:23 -0000"
+    },
+    {
+      "title": "\u0027Brasil precisa agir com firmeza\u0027: setor produtivo pede negocia\u00E7\u00E3o e rapidez ap\u00F3s nova tarifa de at\u00E9 37,5%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/24/brasil-precisa-agir-com-firmeza-setor-produtivo-pede-negociacao-e-rapidez-apos-nova-tarifa-de-ate-375percent.ghtml",
+      "date": "Fri, 24 Jul 2026 17:45:21 -0000"
+    },
     {
       "title": "Meta adiciona recursos de automa\u00E7\u00E3o de tarefas ao assistente de IA",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/24/brasil-e-o-maior-prejudicado-por-tarifaco-de-trump-diz-financial-times.ghtml",
       "date": "Fri, 24 Jul 2026 14:52:19 -0000"
-    },
-    {
-      "title": "Meta lan\u00E7a o Seller, aplicativo para vendedores do Facebook Marketplace",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/24/meta-lanca-o-seller-aplicativo-para-vendedores-do-facebook-marketplace.ghtml",
-      "date": "Fri, 24 Jul 2026 14:43:13 -0000"
-    },
-    {
-      "title": "\u0027Temos que tratar bet igual tratamos cigarro\u0027, diz ministro da Fazenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/24/durigan-expert-xp.ghtml",
-      "date": "Fri, 24 Jul 2026 14:39:10 -0000"
-    },
-    {
-      "title": "Vietn\u00E3 prop\u00F5e proibir menores de 16 anos de publicar conte\u00FAdo nas redes sociais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/24/vietna-propoe-proibir-menores-de-16-anos-de-publicar-conteudo-nas-redes-sociais.ghtml",
-      "date": "Fri, 24 Jul 2026 14:32:55 -0000"
     }
   ]
 }
