@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175253.08,
-      "change": -0.83,
-      "changeStr": "-0.83%"
+      "price": 174417.39,
+      "change": -1.3,
+      "changeStr": "-1.30%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.55,
-      "change": -0.93,
-      "changeStr": "-0.93%"
+      "price": 42.26,
+      "change": -1.61,
+      "changeStr": "-1.61%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.37,
-      "change": -0.41,
-      "changeStr": "-0.41%"
+      "price": 75.25,
+      "change": -0.57,
+      "changeStr": "-0.57%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.34,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 42.2,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.58,
-      "change": -0.75,
-      "changeStr": "-0.75%"
+      "price": 18.51,
+      "change": -1.12,
+      "changeStr": "-1.12%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.59,
-      "change": -1.62,
-      "changeStr": "-1.62%"
+      "price": 20.45,
+      "change": -2.29,
+      "changeStr": "-2.29%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.6,
-      "change": -2.34,
-      "changeStr": "-2.34%"
+      "price": 4.59,
+      "change": -2.55,
+      "changeStr": "-2.55%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.8,
-      "change": -0.75,
-      "changeStr": "-0.75%"
+      "price": 15.71,
+      "change": -1.32,
+      "changeStr": "-1.32%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.96,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
+      "price": 45.51,
+      "change": -0.35,
+      "changeStr": "-0.35%"
     }
   ],
   "news": [
+    {
+      "title": "Meta adiciona recursos de automa\u00E7\u00E3o de tarefas ao assistente de IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/24/meta-adiciona-recursos-de-automacao-de-tarefas-ao-assistente-de-ia.ghtml",
+      "date": "Fri, 24 Jul 2026 17:14:52 -0000"
+    },
+    {
+      "title": "Ap\u00F3s multa contra o Google, Trump anuncia investiga\u00E7\u00E3o contra a Uni\u00E3o Europeia e amea\u00E7a novas tarifas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/24/apos-multa-contra-o-google-trump-anuncia-investigacao-contra-a-uniao-europeia-e-ameaca-novas-tarifas.ghtml",
+      "date": "Fri, 24 Jul 2026 17:13:07 -0000"
+    },
+    {
+      "title": "Veto ao foie gras no Brasil reacende tens\u00E3o comercial com a Fran\u00E7a ap\u00F3s acordo Mercosul-UE",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/24/veto-ao-foie-gras-no-brasil-reacende-tensao-comercial-com-a-franca-apos-acordo-mercosul-ue.ghtml",
+      "date": "Fri, 24 Jul 2026 16:49:46 -0000"
+    },
+    {
+      "title": "Presidente do BC compara cart\u00E3o de cr\u00E9dito brasileiro a jabuticaba: \u0027\u00C9 uma fruta legal, mas tem coisa que voc\u00EA n\u00E3o quer ser o \u00FAnico a ter\u2019",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/24/presidente-do-bc-compara-cartao-de-credito-brasileiro-a-jabuticaba-e-uma-fruta-legal-mas-tem-coisa-que-voce-nao-quer-ser-o-unico-a-ter.ghtml",
+      "date": "Fri, 24 Jul 2026 15:56:16 -0000"
+    },
     {
       "title": "Tarifa\u00E7o dos EUA: setores veem risco para economia e pedem ao governo que insista no di\u00E1logo em vez de agir com reciprocidade",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/24/vietna-propoe-proibir-menores-de-16-anos-de-publicar-conteudo-nas-redes-sociais.ghtml",
       "date": "Fri, 24 Jul 2026 14:32:55 -0000"
-    },
-    {
-      "title": "Volkswagen defende cortes mais profundos diante do avan\u00E7o das montadoras chinesas na Europa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/24/volkswagen-defende-cortes-mais-profundos-diante-do-avanco-das-montadoras-chinesas-na-europa.ghtml",
-      "date": "Fri, 24 Jul 2026 14:18:39 -0000"
-    },
-    {
-      "title": "Volkswagen abandona previs\u00E3o de crescimento de vendas para 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/24/volkswagen-abandona-previsao-de-crescimento-de-vendas-para-2026.ghtml",
-      "date": "Fri, 24 Jul 2026 14:05:07 -0000"
-    },
-    {
-      "title": "EUA fazem recall de quase 1,6 milh\u00E3o de d\u00FAzias de ovos por risco de salmonela",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/24/eua-fazem-recall-de-quase-16-milhao-de-duzias-de-ovos-por-risco-de-salmonela.ghtml",
-      "date": "Fri, 24 Jul 2026 13:42:30 -0000"
-    },
-    {
-      "title": "\nCidad\u00E3os dos EUA tentam frear expans\u00E3o desenfreada de data centers",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/24/cidadaos-dos-eua-tentam-frear-expansao-desenfreada-de-data-centers.ghtml",
-      "date": "Fri, 24 Jul 2026 13:22:33 -0000"
     }
   ]
 }
