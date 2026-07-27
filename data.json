@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174845.75,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 175206.34,
+      "change": 0.67,
+      "changeStr": "\u002B0.67%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.14,
-      "change": -2.53,
-      "changeStr": "-2.53%"
+      "price": 40.99,
+      "change": -2.89,
+      "changeStr": "-2.89%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.16,
-      "change": -0.11,
-      "changeStr": "-0.11%"
+      "price": 75.51,
+      "change": 0.36,
+      "changeStr": "\u002B0.36%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.48,
-      "change": 0.9,
-      "changeStr": "\u002B0.90%"
+      "price": 42.59,
+      "change": 1.16,
+      "changeStr": "\u002B1.16%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.69,
-      "change": 1.14,
-      "changeStr": "\u002B1.14%"
+      "price": 18.73,
+      "change": 1.35,
+      "changeStr": "\u002B1.35%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.56,
-      "change": 1.03,
-      "changeStr": "\u002B1.03%"
+      "price": 20.53,
+      "change": 0.88,
+      "changeStr": "\u002B0.88%"
     },
     {
       "symbol": "MGLU3",
@@ -44,18 +44,36 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 15.63,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 15.84,
+      "change": 1.28,
+      "changeStr": "\u002B1.28%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.97,
-      "change": -0.04,
-      "changeStr": "-0.04%"
+      "price": 46.14,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     }
   ],
   "news": [
+    {
+      "title": "Presidente do BRB se re\u00FAne com Gal\u00EDpolo no Banco Central",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/27/presidente-do-brb-se-reune-com-galipolo-no-banco-central.ghtml",
+      "date": "Mon, 27 Jul 2026 19:25:39 -0000"
+    },
+    {
+      "title": "Brasil e Coreia do Sul aceleram negocia\u00E7\u00F5es por acordo comercial com o Mercosul",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/27/brasil-e-coreia-do-sul-aceleram-negociacoes-por-acordo-comercial-com-o-mercosul.ghtml",
+      "date": "Mon, 27 Jul 2026 18:52:55 -0000"
+    },
+    {
+      "title": "\nPorsche anuncia corte de 5 mil postos de trabalho",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/27/porsche-anuncia-corte-de-postos-de-trabalho.ghtml",
+      "date": "Mon, 27 Jul 2026 17:52:14 -0000"
+    },
     {
       "title": "Prompt injection: entenda o \u0027c\u00F3digo secreto\u0027 que professor usou para flagrar uso de IA em trabalho",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/27/china-critica-tarifas-dos-eua-e-reforca-apoio-ao-brasil-contra-o-que-chama-de-interferencia-externa.ghtml",
       "date": "Mon, 27 Jul 2026 12:37:13 -0000"
-    },
-    {
-      "title": "\u0027Taxa das blusinhas\u0027: ministro da Fazenda monitora de perto impacto e pode propor a Lula retorno da taxa\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/27/taxa-das-blusinhas-ministro-da-fazenda-monitora-de-perto-impacto-e-pode-propor-a-lula-retorno-da-taxacao.ghtml",
-      "date": "Mon, 27 Jul 2026 12:18:31 -0000"
-    },
-    {
-      "title": "D\u00F3lar e Ibovespa operam em alta, com redu\u00E7\u00E3o das tens\u00F5es no Oriente M\u00E9dio no foco",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/27/dolar-ibovespa.ghtml",
-      "date": "Mon, 27 Jul 2026 12:01:11 -0000"
-    },
-    {
-      "title": "\u0027A IA disse que havia pessoas vindo me matar. Peguei um martelo e me preparei pra guerra\u0027: como conversas com Grok fizeram homem delirar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/27/a-ia-disse-que-havia-pessoas-vindo-me-matar-peguei-um-martelo-e-me-preparei-pra-guerra-como-conversas-com-grok-fizeram-homem-delirar.ghtml",
-      "date": "Mon, 27 Jul 2026 11:48:55 -0000"
     }
   ]
 }
