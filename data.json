@@ -2,68 +2,104 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174041.95,
-      "change": -1.52,
-      "changeStr": "-1.52%"
+      "price": 174944.77,
+      "change": 0.52,
+      "changeStr": "\u002B0.52%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.21,
-      "change": -1.72,
-      "changeStr": "-1.72%"
+      "price": 41.31,
+      "change": -2.13,
+      "changeStr": "-2.13%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.24,
-      "change": -0.58,
-      "changeStr": "-0.58%"
+      "price": 75.01,
+      "change": -0.31,
+      "changeStr": "-0.31%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.1,
-      "change": -1.08,
-      "changeStr": "-1.08%"
+      "price": 42.56,
+      "change": 1.09,
+      "changeStr": "\u002B1.09%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.48,
-      "change": -1.28,
-      "changeStr": "-1.28%"
+      "price": 18.67,
+      "change": 1.03,
+      "changeStr": "\u002B1.03%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.35,
-      "change": -2.77,
-      "changeStr": "-2.77%"
+      "price": 20.43,
+      "change": 0.39,
+      "changeStr": "\u002B0.39%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.65,
-      "change": -1.27,
-      "changeStr": "-1.27%"
+      "price": 4.79,
+      "change": 3.01,
+      "changeStr": "\u002B3.01%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.64,
-      "change": -1.76,
-      "changeStr": "-1.76%"
+      "price": 15.62,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.99,
-      "change": 0.7,
-      "changeStr": "\u002B0.70%"
+      "price": 46.18,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     }
   ],
   "news": [
     {
-      "title": "Taxa das blusinhas: ministro da Fazenda monitora \u0027de perto\u0027 impacto e pode propor a Lula retorno da taxa\u00E7\u00E3o",
+      "title": "Amazon quer lan\u00E7ar mais de 5 mil sat\u00E9lites para levar sinal de internet direto a celulares",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/27/amazon-quer-lancar-mais-de-5-mil-satelites-para-levar-sinal-de-internet-direto-a-celulares.ghtml",
+      "date": "Mon, 27 Jul 2026 15:27:08 -0000"
+    },
+    {
+      "title": "Brasil pode perder mais de US$ 500 milh\u00F5es com bloqueio da Uni\u00E3o Europeia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/27/brasil-bloqueio-uniao-europeia.ghtml",
+      "date": "Mon, 27 Jul 2026 14:59:34 -0000"
+    },
+    {
+      "title": "Ap\u00F3s onda de inc\u00EAndios, veja como uma ra\u00E7a de vaca quase esquecida ajuda a Espanha a reduzir queimadas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/27/apos-onda-de-incendios-veja-como-uma-raca-de-vaca-quase-esquecida-ajuda-a-espanha-a-reduzir-queimadas.ghtml",
+      "date": "Mon, 27 Jul 2026 14:10:08 -0000"
+    },
+    {
+      "title": "Nova Chevrolet S10 Trail Boss tem suspens\u00E3o refor\u00E7ada e pneus para uso no fora de estrada",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/27/nova-chevrolet-s10-trail-boss.ghtml",
+      "date": "Mon, 27 Jul 2026 13:11:28 -0000"
+    },
+    {
+      "title": "Mercado reduz pela 4\u00AA semana seguida estimativa de infla\u00E7\u00E3o em 2026, que cai para 5,12%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/27/mercado-reduz-pela-4a-semana-seguida-estimativa-de-inflacao-em-2026-que-cai-para-512percent.ghtml",
+      "date": "Mon, 27 Jul 2026 12:55:07 -0000"
+    },
+    {
+      "title": "China critica novas tarifas dos EUA e se aproxima do Brasil em meio \u00E0 tens\u00E3o comercial",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/27/china-critica-tarifas-dos-eua-e-reforca-apoio-ao-brasil-contra-o-que-chama-de-interferencia-externa.ghtml",
+      "date": "Mon, 27 Jul 2026 12:37:13 -0000"
+    },
+    {
+      "title": "\u0027Taxa das blusinhas\u0027: ministro da Fazenda monitora de perto impacto e pode propor a Lula retorno da taxa\u00E7\u00E3o",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/27/taxa-das-blusinhas-ministro-da-fazenda-monitora-de-perto-impacto-e-pode-propor-a-lula-retorno-da-taxacao.ghtml",
       "date": "Mon, 27 Jul 2026 12:18:31 -0000"
     },
     {
-      "title": "D\u00F3lar abre em queda, com redu\u00E7\u00E3o das tens\u00F5es no Oriente M\u00E9dio",
+      "title": "D\u00F3lar e Ibovespa operam em alta, com redu\u00E7\u00E3o das tens\u00F5es no Oriente M\u00E9dio no foco",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/27/dolar-ibovespa.ghtml",
       "date": "Mon, 27 Jul 2026 12:01:11 -0000"
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/07/27/fabricante-de-chips-vira-a-empresa-mais-valiosa-da-china-apos-estreia-historica-na-bolsa.ghtml",
       "date": "Mon, 27 Jul 2026 11:28:55 -0000"
-    },
-    {
-      "title": "Ministro da Fazenda diz que Brasil est\u00E1 melhor que a Argentina e chama Milei de \u0027palha\u00E7o\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/27/ministro-da-fazenda-diz-que-brasil-esta-melhor-que-a-argentina-e-chama-milei-de-palhaco.ghtml",
-      "date": "Mon, 27 Jul 2026 11:24:35 -0000"
-    },
-    {
-      "title": "Ap\u00F3s tarifa\u00E7o de Trump, Lula discute acordo China-Mercosul com Xi Jinping",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/27/apos-tarifaco-de-trump-lula-discute-acordo-china-mercosul-com-xi-jinping.ghtml",
-      "date": "Mon, 27 Jul 2026 11:08:11 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo cai mais de 6% ap\u00F3s pausa nos ataques entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/27/petroleo-expectativa-de-tregua-entre-eua-e-ira.ghtml",
-      "date": "Mon, 27 Jul 2026 11:03:18 -0000"
-    },
-    {
-      "title": "O fazendeiro que quis abandonar o narcotr\u00E1fico na Col\u00F4mbia, mas n\u00E3o p\u00F4de",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/27/o-fazendeiro-que-quis-abandonar-o-narcotrafico-na-colombia-mas-nao-pode.ghtml",
-      "date": "Mon, 27 Jul 2026 07:01:03 -0000"
-    },
-    {
-      "title": "A intelig\u00EAncia artificial vai ajudar voc\u00EA no trabalho ou roubar seu emprego? Veja os cargos mais afetados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/27/a-inteligencia-artificial-vai-ajudar-voce-no-trabalho-ou-roubar-seu-emprego-veja-os-cargos-mais-afetados.ghtml",
-      "date": "Mon, 27 Jul 2026 06:00:32 -0000"
-    },
-    {
-      "title": "Governo lan\u00E7a programa para financiar motos de entregadores e mototaxistas; veja regras e modelos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/27/governo-lanca-programa-para-financiar-motos-de-entregadores-e-mototaxistas.ghtml",
-      "date": "Mon, 27 Jul 2026 03:00:42 -0000"
     }
   ]
 }
