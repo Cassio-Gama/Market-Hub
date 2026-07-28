@@ -57,7 +57,37 @@
   ],
   "news": [
     {
-      "title": "Receita Federal atualiza informa\u00E7\u00F5es e lista 22 empresas classificadas como devedoras contumazes ",
+      "title": "\u0027N\u00E3o queremos perder o mercado americano\u0027, diz presidente da ApexBrasil ao anunciar plano de diversifica\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/nao-queremos-perder-o-mercado-americano-diz-presidente-da-apexbrasil-ao-anunciar-plano-de-diversificacao.ghtml",
+      "date": "Tue, 28 Jul 2026 22:56:51 -0000"
+    },
+    {
+      "title": "Atitude de Milei \u00E9 \u0027lament\u00E1vel\u0027 e um desservi\u00E7o \u00E0 Argentina, diz Alckmin",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/atitude-de-milei-e-lamentavel-e-um-desservico-a-argentina-diz-alckmin.ghtml",
+      "date": "Tue, 28 Jul 2026 22:11:37 -0000"
+    },
+    {
+      "title": "Governo prorroga ades\u00E3o ao Desenrola 2.0 at\u00E9 31 de agosto; programa renegocia d\u00EDvidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/governo-prorroga-desenrola-ate-31-de-agosto.ghtml",
+      "date": "Tue, 28 Jul 2026 21:51:02 -0000"
+    },
+    {
+      "title": "IA da OpenAI invadiu outra empresa antes de fazer ataque \u0027sem precedentes\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/28/ia-da-openai-invadiu-outra-empresa-antes-de-fazer-ataque-sem-precedentes.ghtml",
+      "date": "Tue, 28 Jul 2026 21:43:51 -0000"
+    },
+    {
+      "title": "Alckmin fala em dobrar com\u00E9rcio com a Coreia do Sul ap\u00F3s novos acordos: \u0027\u00C9 uma necessidade estrat\u00E9gica\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/alckmin-fala-em-dobrar-comercio-entre-brasil-e-coreia-do-sul-apos-novos-acordos-e-uma-necessidade-estrategica.ghtml",
+      "date": "Tue, 28 Jul 2026 21:20:52 -0000"
+    },
+    {
+      "title": "Receita atualiza informa\u00E7\u00F5es e lista 22 empresas classificadas como devedoras contumazes ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/28/receita-federal-atualiza-informacoes-e-lista-22-empresas-classificadas-como-devedoras-contumazes.ghtml",
       "date": "Tue, 28 Jul 2026 21:08:52 -0000"
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/28/visa-planeja-demitir-mais-de-2-mil-funcionarios-com-aprofundamento-de-pressao-por-eficiencia.ghtml",
       "date": "Tue, 28 Jul 2026 16:17:17 -0000"
-    },
-    {
-      "title": "Brasil avalia acionar OMC contra veto da Uni\u00E3o Europeia \u00E0 carne brasileira e v\u00EA motiva\u00E7\u00E3o pol\u00EDtica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/07/28/brasil-avalia-acionar-omc-contra-veto-da-uniao-europeia-a-carne-brasileira-e-ve-motivacao-politica.ghtml",
-      "date": "Tue, 28 Jul 2026 16:15:29 -0000"
-    },
-    {
-      "title": "Lucro do FGTS: calculadora mostra quanto voc\u00EA vai receber com a distribui\u00E7\u00E3o de R$ 13 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/28/calculadora-lucro-do-fgts-quanto-voce-vai-receber.ghtml",
-      "date": "Tue, 28 Jul 2026 15:41:45 -0000"
-    },
-    {
-      "title": "Apple chega a valer US$ 5 trilh\u00F5es durante preg\u00E3o e ultrapassa Nvidia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/28/apple-nvidia-trilhoes.ghtml",
-      "date": "Tue, 28 Jul 2026 15:08:19 -0000"
-    },
-    {
-      "title": "\u00C9 #FAKE que fabricante de geladeiras Brastemp e Consul vai fechar f\u00E1brica no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/07/28/e-fake-que-fabricante-de-geladeiras-brastemp-e-consul-vai-fechar-fabrica-no-brasil.ghtml",
-      "date": "Tue, 28 Jul 2026 14:55:02 -0000"
-    },
-    {
-      "title": "X Money: rede social de Elon Musk lan\u00E7a servi\u00E7o de pagamentos e conta digital para assinantes nos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/28/x-money-rede-social-de-elon-musk-lanca-servico-de-pagamentos-e-conta-digital-para-assinantes-nos-eua.ghtml",
-      "date": "Tue, 28 Jul 2026 14:52:45 -0000"
     }
   ]
 }
