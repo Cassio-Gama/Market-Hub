@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177152.3,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
+      "price": 176607.45,
+      "change": 0.73,
+      "changeStr": "\u002B0.73%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.09,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 41.23,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.74,
-      "change": 0.07,
-      "changeStr": "\u002B0.07%"
+      "price": 75.63,
+      "change": -0.08,
+      "changeStr": "-0.08%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.93,
-      "change": 0.56,
-      "changeStr": "\u002B0.56%"
+      "price": 42.82,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.85,
-      "change": 0.75,
-      "changeStr": "\u002B0.75%"
+      "price": 18.8,
+      "change": 0.48,
+      "changeStr": "\u002B0.48%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.79,
-      "change": 1.41,
-      "changeStr": "\u002B1.41%"
+      "price": 20.76,
+      "change": 1.27,
+      "changeStr": "\u002B1.27%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5,
-      "change": 3.52,
-      "changeStr": "\u002B3.52%"
+      "price": 4.86,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.28,
-      "change": 2.65,
-      "changeStr": "\u002B2.65%"
+      "price": 16.12,
+      "change": 1.64,
+      "changeStr": "\u002B1.64%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.61,
-      "change": 0.45,
-      "changeStr": "\u002B0.45%"
+      "price": 46.66,
+      "change": 0.56,
+      "changeStr": "\u002B0.56%"
     }
   ],
   "news": [
+    {
+      "title": "Governo Trump alega que Brasil interfere na economia dos EUA e prorroga ordem executiva contra o pa\u00EDs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/07/28/eua-prorrogam-ordem-executiva-contra-o-brasil.ghtml",
+      "date": "Tue, 28 Jul 2026 19:08:18 -0000"
+    },
+    {
+      "title": "Avi\u00E3o de rota mais longa do mundo bate recorde com voo direto de 24 horas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/07/28/aviao-criado-para-fazer-rota-mais-longa-do-mundo-bate-recorde-com-voo-direto-de-24-horas.ghtml",
+      "date": "Tue, 28 Jul 2026 18:30:21 -0000"
+    },
     {
       "title": "OpenAI pode desacelerar avan\u00E7o da IA ap\u00F3s agente escapar e realizar ciberataque, diz Sam Altman",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/28/conselho-autoriza-pagamento-de-r-13-bilhoes-do-lucro-do-fgts-a-138-milhoes-de-trabalhadores.ghtml",
       "date": "Tue, 28 Jul 2026 14:45:12 -0000"
-    },
-    {
-      "title": "WhatsApp Web ganha chamadas de v\u00EDdeo e \u00E1udio; veja como vai funcionar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/28/whatsapp-web-ganha-chamadas-de-video-e-audio-veja-como-vai-funcionar.ghtml",
-      "date": "Tue, 28 Jul 2026 14:00:08 -0000"
-    },
-    {
-      "title": "IPCA-15: pr\u00E9via da infla\u00E7\u00E3o sobe 0,06% em julho puxada por energia el\u00E9trica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/28/ipca-15-previa-da-inflacao-julho.ghtml",
-      "date": "Tue, 28 Jul 2026 12:00:19 -0000"
     }
   ]
 }
