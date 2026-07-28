@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175334.45,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 176966.8,
+      "change": 0.93,
+      "changeStr": "\u002B0.93%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.01,
-      "change": -2.84,
-      "changeStr": "-2.84%"
+      "price": 41.51,
+      "change": 1.22,
+      "changeStr": "\u002B1.22%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.69,
-      "change": 0.6,
-      "changeStr": "\u002B0.60%"
+      "price": 75.14,
+      "change": -0.73,
+      "changeStr": "-0.73%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.69,
-      "change": 1.4,
-      "changeStr": "\u002B1.40%"
+      "price": 42.82,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.71,
-      "change": 1.24,
-      "changeStr": "\u002B1.24%"
+      "price": 18.85,
+      "change": 0.75,
+      "changeStr": "\u002B0.75%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.5,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 20.73,
+      "change": 1.12,
+      "changeStr": "\u002B1.12%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.83,
-      "change": 3.87,
-      "changeStr": "\u002B3.87%"
+      "price": 4.98,
+      "change": 3.11,
+      "changeStr": "\u002B3.11%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.86,
-      "change": 1.41,
-      "changeStr": "\u002B1.41%"
+      "price": 16.25,
+      "change": 2.46,
+      "changeStr": "\u002B2.46%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.4,
-      "change": 0.89,
-      "changeStr": "\u002B0.89%"
+      "price": 46.61,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     }
   ],
   "news": [
+    {
+      "title": "Apple chega a valer US$ 5 trilh\u00F5es durante preg\u00E3o e ultrapassa Nvidia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/apple-nvidia-trilhoes.ghtml",
+      "date": "Tue, 28 Jul 2026 15:08:19 -0000"
+    },
+    {
+      "title": "\u00C9 #FAKE que fabricante de geladeiras Brastemp e Consul vai fechar f\u00E1brica no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/07/28/e-fake-que-fabricante-de-geladeiras-brastemp-e-consul-vai-fechar-fabrica-no-brasil.ghtml",
+      "date": "Tue, 28 Jul 2026 14:55:02 -0000"
+    },
+    {
+      "title": "X Money: rede social de Elon Musk lan\u00E7a servi\u00E7o de pagamentos e conta digital para assinantes nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/x-money-rede-social-de-elon-musk-lanca-servico-de-pagamentos-e-conta-digital-para-assinantes-nos-eua.ghtml",
+      "date": "Tue, 28 Jul 2026 14:52:45 -0000"
+    },
+    {
+      "title": "Conselho autoriza pagamento de R$ 13 bilh\u00F5es do lucro do FGTS a 138 milh\u00F5es de trabalhadores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/conselho-autoriza-pagamento-de-r-13-bilhoes-do-lucro-do-fgts-a-138-milhoes-de-trabalhadores.ghtml",
+      "date": "Tue, 28 Jul 2026 14:45:12 -0000"
+    },
+    {
+      "title": "WhatsApp Web ganha chamadas de v\u00EDdeo e \u00E1udio; veja como vai funcionar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/28/whatsapp-web-ganha-chamadas-de-video-e-audio-veja-como-vai-funcionar.ghtml",
+      "date": "Tue, 28 Jul 2026 14:00:08 -0000"
+    },
+    {
+      "title": "IPCA-15: pr\u00E9via da infla\u00E7\u00E3o sobe 0,06% em julho puxada por energia el\u00E9trica",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/ipca-15-previa-da-inflacao-julho.ghtml",
+      "date": "Tue, 28 Jul 2026 12:00:19 -0000"
+    },
+    {
+      "title": "D\u00F3lar e Ibovespa operam em alta, com expectativa por negocia\u00E7\u00F5es entre EUA e Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/dolar-ibovespa.ghtml",
+      "date": "Tue, 28 Jul 2026 12:00:08 -0000"
+    },
+    {
+      "title": "Com d\u00F3lar mais baixo, gastos de brasileiros no exterior batem recorde no 1\u00BA semestre",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/com-dolar-mais-baixo-gastos-de-brasileiros-no-exterior-batem-recorde-no-1o-semestre.ghtml",
+      "date": "Tue, 28 Jul 2026 11:57:10 -0000"
+    },
     {
       "title": "Como centenas de conversas privadas com chat de IA Claude acabaram dispon\u00EDveis publicamente",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/28/johnson-johnson-oferece-r-28-bilhoes-para-encerrar-processos-que-ligam-uso-de-talco-a-cancer.ghtml",
       "date": "Tue, 28 Jul 2026 10:14:10 -0000"
-    },
-    {
-      "title": "Justa causa por trabalhar 4 minutos a mais: quando fazer hora extra pode virar motivo de demiss\u00E3o? ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/28/justa-causa-por-trabalhar-4-minutos-a-mais-quando-fazer-hora-extra-pode-virar-motivo-de-demissao.ghtml",
-      "date": "Tue, 28 Jul 2026 07:01:06 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 78 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/28/mega-sena-pode-pagar-r-78-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Tue, 28 Jul 2026 03:00:54 -0000"
-    },
-    {
-      "title": "Move Motoapp: 7 dicas para conseguir aprova\u00E7\u00E3o no financiamento para entregadores e mototaxistas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/28/move-motoapp-7-dicas-para-conseguir-aprovacao-no-financiamento-para-entregadores-e-mototaxistas.ghtml",
-      "date": "Tue, 28 Jul 2026 03:00:37 -0000"
-    },
-    {
-      "title": "Brasil x Argentina: veja as diferen\u00E7as entre as economias em 8 gr\u00E1ficos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/28/brasil-x-argentina-veja-as-diferencas-entre-as-economias.ghtml",
-      "date": "Tue, 28 Jul 2026 03:00:08 -0000"
-    },
-    {
-      "title": "Presidente do BRB se re\u00FAne com Gal\u00EDpolo no Banco Central",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/27/presidente-do-brb-se-reune-com-galipolo-no-banco-central.ghtml",
-      "date": "Mon, 27 Jul 2026 19:25:39 -0000"
-    },
-    {
-      "title": "Brasil e Coreia do Sul aceleram negocia\u00E7\u00F5es por acordo comercial com o Mercosul",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/27/brasil-e-coreia-do-sul-aceleram-negociacoes-por-acordo-comercial-com-o-mercosul.ghtml",
-      "date": "Mon, 27 Jul 2026 18:52:55 -0000"
-    },
-    {
-      "title": "\nPorsche anuncia corte de 5 mil postos de trabalho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/27/porsche-anuncia-corte-de-postos-de-trabalho.ghtml",
-      "date": "Mon, 27 Jul 2026 17:52:14 -0000"
-    },
-    {
-      "title": "Prompt injection: entenda o \u0027c\u00F3digo secreto\u0027 que professor usou para flagrar uso de IA em trabalho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/27/prompt-injection.ghtml",
-      "date": "Mon, 27 Jul 2026 16:41:48 -0000"
     }
   ]
 }
