@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176966.8,
-      "change": 0.93,
-      "changeStr": "\u002B0.93%"
+      "price": 177152.3,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.51,
-      "change": 1.22,
-      "changeStr": "\u002B1.22%"
+      "price": 41.09,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.14,
-      "change": -0.73,
-      "changeStr": "-0.73%"
+      "price": 75.74,
+      "change": 0.07,
+      "changeStr": "\u002B0.07%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.82,
-      "change": 0.3,
-      "changeStr": "\u002B0.30%"
+      "price": 42.93,
+      "change": 0.56,
+      "changeStr": "\u002B0.56%"
     },
     {
       "symbol": "BBDC4",
@@ -32,21 +32,21 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 20.73,
-      "change": 1.12,
-      "changeStr": "\u002B1.12%"
+      "price": 20.79,
+      "change": 1.41,
+      "changeStr": "\u002B1.41%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.98,
-      "change": 3.11,
-      "changeStr": "\u002B3.11%"
+      "price": 5,
+      "change": 3.52,
+      "changeStr": "\u002B3.52%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.25,
-      "change": 2.46,
-      "changeStr": "\u002B2.46%"
+      "price": 16.28,
+      "change": 2.65,
+      "changeStr": "\u002B2.65%"
     },
     {
       "symbol": "WEGE3",
@@ -56,6 +56,30 @@
     }
   ],
   "news": [
+    {
+      "title": "OpenAI pode desacelerar avan\u00E7o da IA ap\u00F3s agente escapar e realizar ciberataque, diz Sam Altman",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/openai-pode-desacelerar-avanco-da-ia-apos-agente-escapar-e-realizar-ciberataque-diz-sam-altman.ghtml",
+      "date": "Tue, 28 Jul 2026 16:35:10 -0000"
+    },
+    {
+      "title": "Visa planeja demitir mais de 2 mil funcion\u00E1rios com aprofundamento de press\u00E3o por efici\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/visa-planeja-demitir-mais-de-2-mil-funcionarios-com-aprofundamento-de-pressao-por-eficiencia.ghtml",
+      "date": "Tue, 28 Jul 2026 16:17:17 -0000"
+    },
+    {
+      "title": "Brasil avalia acionar OMC contra veto da Uni\u00E3o Europeia \u00E0 carne brasileira e v\u00EA motiva\u00E7\u00E3o pol\u00EDtica",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/28/brasil-avalia-acionar-omc-contra-veto-da-uniao-europeia-a-carne-brasileira-e-ve-motivacao-politica.ghtml",
+      "date": "Tue, 28 Jul 2026 16:15:29 -0000"
+    },
+    {
+      "title": "Lucro do FGTS: calculadora mostra quanto voc\u00EA vai receber com a distribui\u00E7\u00E3o de R$ 13 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/calculadora-lucro-do-fgts-quanto-voce-vai-receber.ghtml",
+      "date": "Tue, 28 Jul 2026 15:41:45 -0000"
+    },
     {
       "title": "Apple chega a valer US$ 5 trilh\u00F5es durante preg\u00E3o e ultrapassa Nvidia",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/28/ipca-15-previa-da-inflacao-julho.ghtml",
       "date": "Tue, 28 Jul 2026 12:00:19 -0000"
-    },
-    {
-      "title": "D\u00F3lar e Ibovespa operam em alta, com expectativa por negocia\u00E7\u00F5es entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/28/dolar-ibovespa.ghtml",
-      "date": "Tue, 28 Jul 2026 12:00:08 -0000"
-    },
-    {
-      "title": "Com d\u00F3lar mais baixo, gastos de brasileiros no exterior batem recorde no 1\u00BA semestre",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/28/com-dolar-mais-baixo-gastos-de-brasileiros-no-exterior-batem-recorde-no-1o-semestre.ghtml",
-      "date": "Tue, 28 Jul 2026 11:57:10 -0000"
-    },
-    {
-      "title": "Como centenas de conversas privadas com chat de IA Claude acabaram dispon\u00EDveis publicamente",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/28/como-centenas-de-conversas-privadas-com-chat-de-ia-claude-acabaram-disponiveis-publicamente.ghtml",
-      "date": "Tue, 28 Jul 2026 10:51:24 -0000"
-    },
-    {
-      "title": "Johnson \u0026 Johnson oferece R$ 28 bilh\u00F5es para encerrar processos que ligam uso de talco a c\u00E2ncer",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/28/johnson-johnson-oferece-r-28-bilhoes-para-encerrar-processos-que-ligam-uso-de-talco-a-cancer.ghtml",
-      "date": "Tue, 28 Jul 2026 10:14:10 -0000"
     }
   ]
 }
