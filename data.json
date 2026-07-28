@@ -2,62 +2,68 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176607.45,
-      "change": 0.73,
-      "changeStr": "\u002B0.73%"
+      "price": 176564.75,
+      "change": 0.7,
+      "changeStr": "\u002B0.70%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.23,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 41.21,
+      "change": 0.49,
+      "changeStr": "\u002B0.49%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.63,
-      "change": -0.08,
-      "changeStr": "-0.08%"
+      "price": 75.69,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.82,
-      "change": 0.3,
-      "changeStr": "\u002B0.30%"
+      "price": 42.86,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.8,
-      "change": 0.48,
-      "changeStr": "\u002B0.48%"
+      "price": 18.77,
+      "change": 0.32,
+      "changeStr": "\u002B0.32%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.76,
-      "change": 1.27,
-      "changeStr": "\u002B1.27%"
+      "price": 20.83,
+      "change": 1.61,
+      "changeStr": "\u002B1.61%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.86,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 4.83,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.12,
-      "change": 1.64,
-      "changeStr": "\u002B1.64%"
+      "price": 16.1,
+      "change": 1.51,
+      "changeStr": "\u002B1.51%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.66,
-      "change": 0.56,
-      "changeStr": "\u002B0.56%"
+      "price": 46.7,
+      "change": 0.65,
+      "changeStr": "\u002B0.65%"
     }
   ],
   "news": [
     {
-      "title": "Governo Trump alega que Brasil interfere na economia dos EUA e prorroga ordem executiva contra o pa\u00EDs",
+      "title": "Receita Federal atualiza informa\u00E7\u00F5es e lista 22 empresas classificadas como devedoras contumazes ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/28/receita-federal-atualiza-informacoes-e-lista-22-empresas-classificadas-como-devedoras-contumazes.ghtml",
+      "date": "Tue, 28 Jul 2026 21:08:52 -0000"
+    },
+    {
+      "title": "Governo Trump alega que Brasil interfere na economia dos EUA e prorroga san\u00E7\u00F5es por 1 ano",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/07/28/eua-prorrogam-ordem-executiva-contra-o-brasil.ghtml",
       "date": "Tue, 28 Jul 2026 19:08:18 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/28/x-money-rede-social-de-elon-musk-lanca-servico-de-pagamentos-e-conta-digital-para-assinantes-nos-eua.ghtml",
       "date": "Tue, 28 Jul 2026 14:52:45 -0000"
-    },
-    {
-      "title": "Conselho autoriza pagamento de R$ 13 bilh\u00F5es do lucro do FGTS a 138 milh\u00F5es de trabalhadores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/28/conselho-autoriza-pagamento-de-r-13-bilhoes-do-lucro-do-fgts-a-138-milhoes-de-trabalhadores.ghtml",
-      "date": "Tue, 28 Jul 2026 14:45:12 -0000"
     }
   ]
 }
