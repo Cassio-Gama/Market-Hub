@@ -57,13 +57,37 @@
   ],
   "news": [
     {
+      "title": "Mais de mil profissionais da ind\u00FAstria de IA pedem freio no avan\u00E7o da tecnologia; temor \u00E9 perder o controle",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/29/mais-de-mil-profissionais-da-industria-de-ia-pedem-freio-no-avanco-da-tecnologia-temor-e-perder-o-controle.ghtml",
+      "date": "Wed, 29 Jul 2026 12:02:10 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre sess\u00E3o desta quarta-feira, com foco em nova decis\u00E3o de juros do Fed",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/29/dolar-ibovespa.ghtml",
+      "date": "Wed, 29 Jul 2026 12:00:08 -0000"
+    },
+    {
+      "title": "Anac limita venda de passagens de empresa argentina ap\u00F3s cancelamento de 79% dos voos no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/29/anac-limita-venda-de-passagens-de-empresa-argentina-apos-cancelamento-de-79percent-dos-voos-no-brasil.ghtml",
+      "date": "Wed, 29 Jul 2026 11:38:46 -0000"
+    },
+    {
+      "title": "BMW vai cortar milhares de empregos na Alemanha at\u00E9 2027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/29/bmw-anuncia-corte-de-cerca-de-8-mil-empregos-na-alemanha-ate-2027.ghtml",
+      "date": "Wed, 29 Jul 2026 10:27:45 -0000"
+    },
+    {
       "title": "Benef\u00EDcios do PIX superam custos impostos ao Brasil pelas tarifas de Trump, diz Nobel de Economia",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/29/beneficios-do-pix-superam-custos-impostos-ao-brasil-pelas-tarifas-de-trump-diz-nobel-de-economia.ghtml",
       "date": "Wed, 29 Jul 2026 08:52:11 -0000"
     },
     {
-      "title": "Brasil faz primeira opera\u00E7\u00E3o usando vacas monitoradas por IA como garantia para empr\u00E9stimos",
+      "title": "Vacas monitoradas por IA viram garantia de empr\u00E9stimo pela 1\u00AA vez no Brasil",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/29/brasil-faz-primeira-operacao-usando-vacas-monitoradas-por-ia-como-garantia-para-emprestimos.ghtml",
       "date": "Wed, 29 Jul 2026 08:03:21 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/07/29/as-armas-do-brasil-na-guerra-comercial-de-trump-o-assunto-1771.ghtml",
       "date": "Wed, 29 Jul 2026 03:30:08 -0000"
-    },
-    {
-      "title": "FGTS distribuir\u00E1 lucro de R$ 13 bilh\u00F5es para trabalhadores; veja quem tem direito e como consultar valor",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/29/fgts-lucro-veja-quem-tem-direito-e-como-consultar-valor.ghtml",
-      "date": "Wed, 29 Jul 2026 03:00:53 -0000"
-    },
-    {
-      "title": "An\u00FAncio dos EUA de prorrogar medidas contra Brasil ocorre ap\u00F3s pedidos de aliados da fam\u00EDlia Bolsonaro por mais san\u00E7\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/29/anuncio-dos-eua-de-prorrogar-medidas-contra-brasil-ocorre-apos-pedidos-de-aliados-da-familia-bolsonaro-por-mais-sancoes.ghtml",
-      "date": "Wed, 29 Jul 2026 03:00:37 -0000"
-    },
-    {
-      "title": "Governo Trump pro\u00EDbe novos rob\u00F4s humanoides chineses para proteger desenvolvimento de IA nos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/28/governo-trump-robos-humanoides-chineses-ia.ghtml",
-      "date": "Wed, 29 Jul 2026 00:47:29 -0000"
-    },
-    {
-      "title": "Mega-Sena, concurso 3037: confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/28/mega-sena-concurso-3037-confira-os-numeros-sorteados.ghtml",
-      "date": "Wed, 29 Jul 2026 00:02:26 -0000"
     }
   ]
 }
