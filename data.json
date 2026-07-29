@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174805.66,
-      "change": -1,
-      "changeStr": "-1.00%"
+      "price": 173885.34,
+      "change": -1.52,
+      "changeStr": "-1.52%"
     },
     {
       "symbol": "PETR4",
@@ -14,48 +14,60 @@
     },
     {
       "symbol": "VALE3",
-      "price": 75.47,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 75.05,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.13,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "price": 41.82,
+      "change": -2.43,
+      "changeStr": "-2.43%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.46,
-      "change": -1.65,
-      "changeStr": "-1.65%"
+      "price": 18.35,
+      "change": -2.24,
+      "changeStr": "-2.24%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.9,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 20.78,
+      "change": -0.24,
+      "changeStr": "-0.24%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.78,
-      "change": -1.04,
-      "changeStr": "-1.04%"
+      "price": 4.76,
+      "change": -1.45,
+      "changeStr": "-1.45%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.93,
-      "change": -1.06,
-      "changeStr": "-1.06%"
+      "price": 15.9,
+      "change": -1.24,
+      "changeStr": "-1.24%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.59,
-      "change": -2.38,
-      "changeStr": "-2.38%"
+      "price": 45.64,
+      "change": -2.27,
+      "changeStr": "-2.27%"
     }
   ],
   "news": [
+    {
+      "title": "Sam Altman, da OpenAI, discute agente descontrolado com senadores dos EUA, enquanto Trump avalia controles para IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/29/sam-altman-da-openai-discute-agente-descontrolado-com-senadores-dos-eua-enquanto-trump-avalia-controles-para-ia.ghtml",
+      "date": "Wed, 29 Jul 2026 20:24:20 -0000"
+    },
+    {
+      "title": "SpaceX fecha contrato de US$ 1,6 bilh\u00E3o com For\u00E7a Espacial dos EUA para lan\u00E7ar sat\u00E9lites militares de mira",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/29/spacex-fecha-contrato-de-us-16-bilhao-com-forca-espacial-dos-eua-para-lancar-satelites-militares-de-mira.ghtml",
+      "date": "Wed, 29 Jul 2026 19:47:59 -0000"
+    },
     {
       "title": "Fed mant\u00E9m juros dos EUA na faixa de 3,50% a 3,75% ao ano pela 5\u00AA reuni\u00E3o consecutiva",
       "source": "G1 Economia",
@@ -73,6 +85,12 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/07/29/el-nino-governo-preve-gastar-ate-r-13-bilhao-para-enfrentar-secas-chuvas-intensas-e-incendios.ghtml",
       "date": "Wed, 29 Jul 2026 16:17:06 -0000"
+    },
+    {
+      "title": "Dinheiro na privada, pr\u00EAmio de R$ 20 mil e outras pol\u00EAmicas: como era o reality de Viih Tube e Eliezer ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/29/como-era-o-reality-de-viih-tube-e-eliezer.ghtml",
+      "date": "Wed, 29 Jul 2026 15:53:38 -0000"
     },
     {
       "title": "Viih Tube e Eliezer encerram reality com empregados e pagar\u00E3o R$ 350 mil por dano moral ",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/29/brasil-e-argentina-ja-estiveram-em-guerra.ghtml",
       "date": "Wed, 29 Jul 2026 14:19:51 -0000"
-    },
-    {
-      "title": "Alerta de tempestade e ventania: saiba se o seguro do seu carro cobre danos nesses casos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/29/saiba-se-o-seguro-do-seu-carro-cobre-danos-causados-pela-chuva.ghtml",
-      "date": "Wed, 29 Jul 2026 13:41:42 -0000"
-    },
-    {
-      "title": "Mais de mil profissionais da ind\u00FAstria de IA pedem freio no avan\u00E7o da tecnologia; temor \u00E9 perder o controle",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/29/mais-de-mil-profissionais-da-industria-de-ia-pedem-freio-no-avanco-da-tecnologia-temor-e-perder-o-controle.ghtml",
-      "date": "Wed, 29 Jul 2026 12:02:10 -0000"
-    },
-    {
-      "title": "D\u00F3lar cai ap\u00F3s Fed manter juros inalterados; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/29/dolar-ibovespa.ghtml",
-      "date": "Wed, 29 Jul 2026 12:00:08 -0000"
     }
   ]
 }
