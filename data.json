@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175067.78,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 174634.16,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.22,
-      "change": 2.45,
-      "changeStr": "\u002B2.45%"
+      "price": 42.09,
+      "change": 2.14,
+      "changeStr": "\u002B2.14%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.89,
-      "change": -1.06,
-      "changeStr": "-1.06%"
+      "price": 75.1,
+      "change": -0.78,
+      "changeStr": "-0.78%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.12,
-      "change": -1.73,
-      "changeStr": "-1.73%"
+      "price": 42,
+      "change": -2.01,
+      "changeStr": "-2.01%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.43,
-      "change": -1.81,
-      "changeStr": "-1.81%"
+      "price": 18.38,
+      "change": -2.08,
+      "changeStr": "-2.08%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.82,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 20.75,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.73,
-      "change": -2.07,
-      "changeStr": "-2.07%"
+      "price": 4.78,
+      "change": -1.04,
+      "changeStr": "-1.04%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.1,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 16.11,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.23,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 45.92,
+      "change": -1.67,
+      "changeStr": "-1.67%"
     }
   ],
   "news": [
+    {
+      "title": "El Ni\u00F1o: governo prev\u00EA gastar at\u00E9 R$ 1,3 bilh\u00E3o para enfrentar secas, chuvas intensas e inc\u00EAndios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/29/el-nino-governo-preve-gastar-ate-r-13-bilhao-para-enfrentar-secas-chuvas-intensas-e-incendios.ghtml",
+      "date": "Wed, 29 Jul 2026 16:17:06 -0000"
+    },
+    {
+      "title": "Viih Tube e Eliezer encerram reality com empregados e pagar\u00E3o R$ 350 mil por dano moral ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/29/viih-tube-e-eliezer-firmam-encerram-reality-com-empregados-e-pagarao-r-350-mil.ghtml",
+      "date": "Wed, 29 Jul 2026 15:23:16 -0000"
+    },
+    {
+      "title": "Democratas pedem investiga\u00E7\u00E3o sobre plano da Trump Media de vender acesso antecipado a posts de Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/29/democratas-pedem-investigacao-sobre-plano-da-trump-media.ghtml",
+      "date": "Wed, 29 Jul 2026 15:20:21 -0000"
+    },
     {
       "title": "OpenAI diz que ataque de sua IA atingiu mais alvos do que se sabia",
       "source": "G1 Economia",
@@ -81,7 +99,7 @@
       "date": "Wed, 29 Jul 2026 12:02:10 -0000"
     },
     {
-      "title": "D\u00F3lar e Ibovespa operam em queda, com foco em nova decis\u00E3o de juros dos EUA",
+      "title": "D\u00F3lar opera em alta, com foco em decis\u00E3o de juros dos EUA e novos ataques no Oriente M\u00E9dio; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/29/dolar-ibovespa.ghtml",
       "date": "Wed, 29 Jul 2026 12:00:08 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/07/29/bmw-anuncia-corte-de-cerca-de-8-mil-empregos-na-alemanha-ate-2027.ghtml",
       "date": "Wed, 29 Jul 2026 10:27:45 -0000"
-    },
-    {
-      "title": "Benef\u00EDcios do PIX superam custos impostos ao Brasil pelas tarifas de Trump, diz Nobel de Economia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/29/beneficios-do-pix-superam-custos-impostos-ao-brasil-pelas-tarifas-de-trump-diz-nobel-de-economia.ghtml",
-      "date": "Wed, 29 Jul 2026 08:52:11 -0000"
-    },
-    {
-      "title": "Vacas monitoradas por IA viram garantia de empr\u00E9stimo pela 1\u00AA vez no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/29/brasil-faz-primeira-operacao-usando-vacas-monitoradas-por-ia-como-garantia-para-emprestimos.ghtml",
-      "date": "Wed, 29 Jul 2026 08:03:21 -0000"
-    },
-    {
-      "title": "Aprovado em 1\u00BA lugar no CNU 2025, candidato \u00E9 impedido de tomar posse por forma\u00E7\u00E3o \u0027incompat\u00EDvel\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/29/cnu-2025-candidato-impedido-de-tomar-posse.ghtml",
-      "date": "Wed, 29 Jul 2026 06:00:13 -0000"
     }
   ]
 }
