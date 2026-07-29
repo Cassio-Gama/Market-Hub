@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176564.75,
-      "change": 0.7,
-      "changeStr": "\u002B0.70%"
+      "price": 175067.78,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.21,
-      "change": 0.49,
-      "changeStr": "\u002B0.49%"
+      "price": 42.22,
+      "change": 2.45,
+      "changeStr": "\u002B2.45%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.69,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 74.89,
+      "change": -1.06,
+      "changeStr": "-1.06%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.86,
-      "change": 0.4,
-      "changeStr": "\u002B0.40%"
+      "price": 42.12,
+      "change": -1.73,
+      "changeStr": "-1.73%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.77,
-      "change": 0.32,
-      "changeStr": "\u002B0.32%"
+      "price": 18.43,
+      "change": -1.81,
+      "changeStr": "-1.81%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.83,
-      "change": 1.61,
-      "changeStr": "\u002B1.61%"
+      "price": 20.82,
+      "change": -0.05,
+      "changeStr": "-0.05%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.83,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 4.73,
+      "change": -2.07,
+      "changeStr": "-2.07%"
     },
     {
       "symbol": "ABEV3",
       "price": 16.1,
-      "change": 1.51,
-      "changeStr": "\u002B1.51%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.7,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 46.23,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     }
   ],
   "news": [
+    {
+      "title": "OpenAI diz que ataque de sua IA atingiu mais alvos do que se sabia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/29/openai-diz-que-ataque-de-sua-ia-atingiu-mais-alvos-do-que-se-sabia.ghtml",
+      "date": "Wed, 29 Jul 2026 14:32:18 -0000"
+    },
+    {
+      "title": "Brasil e Argentina j\u00E1 estiveram em guerra?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/29/brasil-e-argentina-ja-estiveram-em-guerra.ghtml",
+      "date": "Wed, 29 Jul 2026 14:19:51 -0000"
+    },
+    {
+      "title": "Alerta de alagamentos no RS: saiba se o seguro do seu carro cobre danos causados pela chuva",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/29/saiba-se-o-seguro-do-seu-carro-cobre-danos-causados-pela-chuva.ghtml",
+      "date": "Wed, 29 Jul 2026 13:41:42 -0000"
+    },
     {
       "title": "Mais de mil profissionais da ind\u00FAstria de IA pedem freio no avan\u00E7o da tecnologia; temor \u00E9 perder o controle",
       "source": "G1 Economia",
@@ -63,7 +81,7 @@
       "date": "Wed, 29 Jul 2026 12:02:10 -0000"
     },
     {
-      "title": "D\u00F3lar abre sess\u00E3o desta quarta-feira, com foco em nova decis\u00E3o de juros do Fed",
+      "title": "D\u00F3lar e Ibovespa operam em queda, com foco em nova decis\u00E3o de juros dos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/29/dolar-ibovespa.ghtml",
       "date": "Wed, 29 Jul 2026 12:00:08 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/07/29/cnu-2025-candidato-impedido-de-tomar-posse.ghtml",
       "date": "Wed, 29 Jul 2026 06:00:13 -0000"
-    },
-    {
-      "title": "Crescer sem quebrar: como organizar as finan\u00E7as e n\u00E3o perder dinheiro no neg\u00F3cio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/07/29/crescer-sem-quebrar-como-organizar-as-financas-e-nao-perder-dinheiro-no-negocio.ghtml",
-      "date": "Wed, 29 Jul 2026 05:00:29 -0000"
-    },
-    {
-      "title": "Amortiza\u00E7\u00E3o do financiamento: veja como economizar juros e quitar o im\u00F3vel mais cedo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/07/29/amortizacao-do-financiamento-veja-como-economizar-juros-e-quitar-o-imovel-mais-cedo.ghtml",
-      "date": "Wed, 29 Jul 2026 05:00:15 -0000"
-    },
-    {
-      "title": "As armas do Brasil na guerra comercial de Trump - O Assunto #1771",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/07/29/as-armas-do-brasil-na-guerra-comercial-de-trump-o-assunto-1771.ghtml",
-      "date": "Wed, 29 Jul 2026 03:30:08 -0000"
     }
   ]
 }
