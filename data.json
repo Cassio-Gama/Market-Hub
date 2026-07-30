@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173885.34,
-      "change": -1.52,
-      "changeStr": "-1.52%"
+      "price": 174964.89,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "PETR4",
-      "price": 42,
-      "change": 1.92,
-      "changeStr": "\u002B1.92%"
+      "price": 42.08,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.05,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 75.17,
+      "change": 0.16,
+      "changeStr": "\u002B0.16%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.82,
-      "change": -2.43,
-      "changeStr": "-2.43%"
+      "price": 42.23,
+      "change": 0.98,
+      "changeStr": "\u002B0.98%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.35,
-      "change": -2.24,
-      "changeStr": "-2.24%"
+      "price": 18.04,
+      "change": -1.69,
+      "changeStr": "-1.69%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.78,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 20.86,
+      "change": 0.38,
+      "changeStr": "\u002B0.38%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.76,
-      "change": -1.45,
-      "changeStr": "-1.45%"
+      "price": 4.87,
+      "change": 2.31,
+      "changeStr": "\u002B2.31%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.9,
-      "change": -1.24,
-      "changeStr": "-1.24%"
+      "price": 15.57,
+      "change": -2.08,
+      "changeStr": "-2.08%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.64,
-      "change": -2.27,
-      "changeStr": "-2.27%"
+      "price": 46.46,
+      "change": 1.8,
+      "changeStr": "\u002B1.80%"
     }
   ],
   "news": [
     {
-      "title": "O que brasileiros pensam de influenciadores que fazem publicidade de bets: \u0027Destru\u00EDram minha vida\u0027",
+      "title": "Copa \u00E0 venda? Novo plano comercial da Fifa enfrenta resist\u00EAncia global",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/o-que-brasileiros-pensam-de-influenciadores-que-fazem-publicidade-de-bets-destruiram-minha-vida.ghtml",
-      "date": "Thu, 30 Jul 2026 09:04:15 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/copa-a-venda-novo-plano-comercial-da-fifa-enfrenta-resistencia-global.ghtml",
+      "date": "Thu, 30 Jul 2026 14:06:03 -0000"
     },
     {
-      "title": "\u0027Mais simb\u00F3lico do que efetivo\u0027: por que o Brasil foi \u00E0 OMC contra o tarifa\u00E7o, mesmo com o \u00F3rg\u00E3o enfraquecido",
+      "title": "Arrecada\u00E7\u00E3o federal soma R$ 264,4 bilh\u00F5es em junho e bate recorde para o m\u00EAs",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/mais-simbolico-do-que-efetivo-por-que-o-brasil-foi-a-omc-contra-o-tarifaco-mesmo-com-o-orgao-enfraquecido.ghtml",
-      "date": "Thu, 30 Jul 2026 08:03:42 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/arrecadacao-federal-soma-r-2644-bilhoes-em-junho-e-bate-recorde-para-o-mes.ghtml",
+      "date": "Thu, 30 Jul 2026 14:00:09 -0000"
     },
     {
-      "title": "Tecnologia, carne e IA: o que empresas de Brasil e Coreia do Sul negociaram em reuni\u00E3o fechada",
+      "title": "D\u00EDvida p\u00FAblica federal sobe 2,6% em junho e atinge R$ 9,27 trilh\u00F5es, diz Tesouro Nacional",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/tecnologia-carne-e-ia-o-que-empresas-de-brasil-e-coreia-do-sul-negociaram-em-reuniao-fechada.ghtml",
-      "date": "Thu, 30 Jul 2026 08:03:28 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/divida-publica-sobe-26percent-em-junho-e-atinge-r-927-trilhoes-diz-tesouro-nacional.ghtml",
+      "date": "Thu, 30 Jul 2026 13:24:00 -0000"
     },
     {
-      "title": "EUA pro\u00EDbem rob\u00F4s humanoides chineses e ampliam disputa tecnol\u00F3gica com Pequim",
+      "title": "T\u00E1xi sem volante da Amazon recebe autoriza\u00E7\u00E3o para operar comercialmente nos EUA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/30/eua-proibem-robos-humanoides-chineses-e-ampliam-disputa-tecnologica-com-pequim.ghtml",
-      "date": "Thu, 30 Jul 2026 06:00:22 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/07/30/zoox-taxi-sem-volante-da-amazon-autorizado-operar-comercialmente-nos-eua.ghtml",
+      "date": "Thu, 30 Jul 2026 13:20:18 -0000"
     },
     {
-      "title": "Gigantes de tecnologia s\u00E3o as marcas mais usadas para aplicar golpes na internet; veja lista",
+      "title": "TCU identifica irregularidades em 82% dos repasses via \u0027emendas Pix\u0027 analisados em auditoria",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/30/gigantes-de-tecnologia-sao-as-marcas-mais-usadas-para-aplicar-golpes-na-internet-veja-lista.ghtml",
-      "date": "Thu, 30 Jul 2026 06:00:20 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/07/30/auditoria-do-tcu-identifica-irregularidades-em-82percent-dos-repasses-via-emendas-pix.ghtml",
+      "date": "Thu, 30 Jul 2026 12:55:56 -0000"
     },
     {
-      "title": "Justi\u00E7a impede INSS de recusar benef\u00EDcios a entregadores do iFood por falta de carteira assinada",
+      "title": "Associa\u00E7\u00E3o repudia ataques de Paulo Figueiredo a jornalistas e ve\u00EDculos de comunica\u00E7\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/30/justica-impede-inss-de-recusar-beneficios-a-entregadores-do-ifood-por-falta-de-carteira-assinada.ghtml",
-      "date": "Thu, 30 Jul 2026 06:00:14 -0000"
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/07/30/abert-paulo-figueiredo.ghtml",
+      "date": "Thu, 30 Jul 2026 12:22:26 -0000"
     },
     {
-      "title": "\u0027Efeito China\u0027: pre\u00E7o m\u00E9dio do carro zero no Brasil tem a primeira queda em seis anos",
+      "title": "UE anuncia \u20AC 10 bilh\u00F5es para financiar sete gigaf\u00E1bricas de IA e reduzir dist\u00E2ncia de EUA e China na tecnologia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/30/preco-medio-do-carro-zero-no-brasil-tem-a-primeira-queda-em-seis-anos.ghtml",
-      "date": "Thu, 30 Jul 2026 06:00:13 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/30/ue-anuncia-euro-10-bilhoes-para-financiar-sete-gigafabricas-de-ia-e-reduzir-distancia-de-eua-e-china-na-tecnologia.ghtml",
+      "date": "Thu, 30 Jul 2026 12:03:29 -0000"
     },
     {
-      "title": "Por que a carpa nishikigoi pode valer at\u00E9 US$ 1,5 milh\u00E3o?",
+      "title": "Desemprego cai para 5,4% no trimestre encerrado em junho, no menor n\u00EDvel para o per\u00EDodo da s\u00E9rie hist\u00F3rica",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/30/por-que-a-carpa-nishikigoi-pode-valer-ate-us-15-milhao.ghtml",
-      "date": "Thu, 30 Jul 2026 05:00:08 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/desemprego-pnad-junho.ghtml",
+      "date": "Thu, 30 Jul 2026 12:00:54 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 86 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "title": "D\u00F3lar abre em queda, de olho em dados econ\u00F4micos e conflito entre EUA e Ir\u00E3",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/30/mega-sena-pode-pagar-r-86-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 30 Jul 2026 03:00:55 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/dolar-ibovespa.ghtml",
+      "date": "Thu, 30 Jul 2026 12:00:12 -0000"
     },
     {
-      "title": "FGTS distribuir\u00E1 lucro de R$ 13 bilh\u00F5es para trabalhadores nesta sexta; veja quem poder\u00E1 sacar o valor",
+      "title": "Apesar do Desenrola 2.0, inadimpl\u00EAncia banc\u00E1ria mant\u00E9m recorde em junho",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/fgts-distribuira-lucro-de-r-13-bilhoes-para-trabalhadores-nesta-sexta-veja-quem-podera-sacar-o-valor.ghtml",
-      "date": "Thu, 30 Jul 2026 03:00:52 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/mesmo-com-desenrola-20-inadimplencia-bancaria-mantem-recorde-em-junho.ghtml",
+      "date": "Thu, 30 Jul 2026 11:45:03 -0000"
     }
   ]
 }
