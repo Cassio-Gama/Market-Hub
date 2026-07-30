@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176939.62,
-      "change": 1.76,
-      "changeStr": "\u002B1.76%"
+      "price": 177158.86,
+      "change": 1.88,
+      "changeStr": "\u002B1.88%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.69,
-      "change": 1.64,
-      "changeStr": "\u002B1.64%"
+      "price": 42.84,
+      "change": 2,
+      "changeStr": "\u002B2.00%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.91,
-      "change": 1.15,
-      "changeStr": "\u002B1.15%"
+      "price": 76.09,
+      "change": 1.39,
+      "changeStr": "\u002B1.39%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.79,
-      "change": 2.32,
-      "changeStr": "\u002B2.32%"
+      "price": 42.74,
+      "change": 2.2,
+      "changeStr": "\u002B2.20%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.35,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 18.39,
+      "change": 0.22,
+      "changeStr": "\u002B0.22%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.18,
-      "change": 1.92,
-      "changeStr": "\u002B1.92%"
+      "price": 21.19,
+      "change": 1.97,
+      "changeStr": "\u002B1.97%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5,
-      "change": 5.04,
-      "changeStr": "\u002B5.04%"
+      "price": 5.02,
+      "change": 5.46,
+      "changeStr": "\u002B5.46%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.9,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 15.96,
+      "change": 0.38,
+      "changeStr": "\u002B0.38%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.77,
-      "change": 2.48,
-      "changeStr": "\u002B2.48%"
+      "price": 46.82,
+      "change": 2.59,
+      "changeStr": "\u002B2.59%"
     }
   ],
   "news": [
+    {
+      "title": "Justi\u00E7a homologa recupera\u00E7\u00E3o extrajudicial da Ra\u00EDzen e valida renegocia\u00E7\u00E3o de R$ 61,4 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/negocios/noticia/2026/07/30/justica-homologa-plano-de-recuperacao-extrajudicial-da-raizen.ghtml",
+      "date": "Thu, 30 Jul 2026 21:05:33 -0000"
+    },
+    {
+      "title": "BNDES aprova cr\u00E9dito de R$ 8 bilh\u00F5es para Azul, Gol, Latam e Abaet\u00E9",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/bndes-aprova-credito-de-r-8-bilhoes-para-azul-gol-latam-e-abaete.ghtml",
+      "date": "Thu, 30 Jul 2026 20:37:37 -0000"
+    },
     {
       "title": "\nDe Volkswagen \u00E0 BMW, crise se espalha nas montadoras alem\u00E3s",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/07/30/brasil-ve-discriminacao-em-novas-tarifas-dos-eua-e-pede-mediacao-da-omc.ghtml",
       "date": "Thu, 30 Jul 2026 14:46:45 -0000"
-    },
-    {
-      "title": "Copa \u00E0 venda? Novo plano comercial da Fifa enfrenta resist\u00EAncia global",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/copa-a-venda-novo-plano-comercial-da-fifa-enfrenta-resistencia-global.ghtml",
-      "date": "Thu, 30 Jul 2026 14:06:03 -0000"
-    },
-    {
-      "title": "Alta do petr\u00F3leo ajuda e arrecada\u00E7\u00E3o federal soma R$ 264,4 bilh\u00F5es em junho, novo recorde para o m\u00EAs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/arrecadacao-federal-soma-r-2644-bilhoes-em-junho-e-bate-recorde-para-o-mes.ghtml",
-      "date": "Thu, 30 Jul 2026 14:00:09 -0000"
     }
   ]
 }
