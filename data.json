@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175902.56,
-      "change": 1.16,
-      "changeStr": "\u002B1.16%"
+      "price": 176939.62,
+      "change": 1.76,
+      "changeStr": "\u002B1.76%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.47,
-      "change": 1.12,
-      "changeStr": "\u002B1.12%"
+      "price": 42.69,
+      "change": 1.64,
+      "changeStr": "\u002B1.64%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.48,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
+      "price": 75.91,
+      "change": 1.15,
+      "changeStr": "\u002B1.15%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.51,
-      "change": 1.65,
-      "changeStr": "\u002B1.65%"
+      "price": 42.79,
+      "change": 2.32,
+      "changeStr": "\u002B2.32%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.26,
-      "change": -0.49,
-      "changeStr": "-0.49%"
+      "price": 18.35,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.05,
-      "change": 1.3,
-      "changeStr": "\u002B1.30%"
+      "price": 21.18,
+      "change": 1.92,
+      "changeStr": "\u002B1.92%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.98,
-      "change": 4.62,
-      "changeStr": "\u002B4.62%"
+      "price": 5,
+      "change": 5.04,
+      "changeStr": "\u002B5.04%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.77,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 15.9,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.71,
-      "change": 2.34,
-      "changeStr": "\u002B2.34%"
+      "price": 46.77,
+      "change": 2.48,
+      "changeStr": "\u002B2.48%"
     }
   ],
   "news": [
+    {
+      "title": "\nDe Volkswagen \u00E0 BMW, crise se espalha nas montadoras alem\u00E3s",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/30/de-volkswagen-a-bmw-crise-se-espalha-nas-montadoras-alemas.ghtml",
+      "date": "Thu, 30 Jul 2026 19:41:09 -0000"
+    },
     {
       "title": "Contas do governo t\u00EAm d\u00E9ficit de R$ 48,2 bilh\u00F5es em junho",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/30/arrecadacao-federal-soma-r-2644-bilhoes-em-junho-e-bate-recorde-para-o-mes.ghtml",
       "date": "Thu, 30 Jul 2026 14:00:09 -0000"
-    },
-    {
-      "title": "D\u00EDvida p\u00FAblica federal sobe 2,6% em junho e atinge R$ 9,27 trilh\u00F5es, diz Tesouro Nacional",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/divida-publica-sobe-26percent-em-junho-e-atinge-r-927-trilhoes-diz-tesouro-nacional.ghtml",
-      "date": "Thu, 30 Jul 2026 13:24:00 -0000"
     }
   ]
 }
