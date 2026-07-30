@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174964.89,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 175798.02,
+      "change": 1.1,
+      "changeStr": "\u002B1.10%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.08,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 42.42,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.17,
-      "change": 0.16,
-      "changeStr": "\u002B0.16%"
+      "price": 75.27,
+      "change": 0.29,
+      "changeStr": "\u002B0.29%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.23,
-      "change": 0.98,
-      "changeStr": "\u002B0.98%"
+      "price": 42.61,
+      "change": 1.89,
+      "changeStr": "\u002B1.89%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.04,
-      "change": -1.69,
-      "changeStr": "-1.69%"
+      "price": 18.33,
+      "change": -0.11,
+      "changeStr": "-0.11%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.86,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 21.03,
+      "change": 1.2,
+      "changeStr": "\u002B1.20%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.87,
-      "change": 2.31,
-      "changeStr": "\u002B2.31%"
+      "price": 4.96,
+      "change": 4.2,
+      "changeStr": "\u002B4.20%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.57,
-      "change": -2.08,
-      "changeStr": "-2.08%"
+      "price": 15.62,
+      "change": -1.76,
+      "changeStr": "-1.76%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.46,
-      "change": 1.8,
-      "changeStr": "\u002B1.80%"
+      "price": 46.56,
+      "change": 2.02,
+      "changeStr": "\u002B2.02%"
     }
   ],
   "news": [
+    {
+      "title": "Caixa inicia nesta quinta dep\u00F3sito de R$ 13 bilh\u00F5es do lucro do FGTS a 138 milh\u00F5es de trabalhadores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/caixa-deposita-r-13-bilhoes-do-lucro-do-fgts-a-138-milhoes-de-trabalhadores-nesta-sexta.ghtml",
+      "date": "Thu, 30 Jul 2026 15:50:13 -0000"
+    },
+    {
+      "title": "Conselho de Pol\u00EDtica Energ\u00E9tica aprova novos leil\u00F5es de g\u00E1s; governo prev\u00EA redu\u00E7\u00E3o de mais de 50% no pre\u00E7o para ind\u00FAstria",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/cnpe-aprova-novos-leiloes-de-gas-da-uniao-e-governo-preve-reducao-de-mais-de-50percent-no-preco-para-industria.ghtml",
+      "date": "Thu, 30 Jul 2026 15:15:55 -0000"
+    },
+    {
+      "title": "CNPE aprova venda direta de g\u00E1s natural da Uni\u00E3o, e governo prev\u00EA queda de 50% no pre\u00E7o para a ind\u00FAstria",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/cnpe-aprova-venda-direta-de-gas-natural-da-uniao-e-governo-preve-queda-de-50percent-no-preco-para-a-industria.ghtml",
+      "date": "Thu, 30 Jul 2026 15:06:44 -0000"
+    },
+    {
+      "title": "Brasil v\u00EA \u0027discrimina\u00E7\u00E3o\u0027 em novas tarifas dos EUA e pede media\u00E7\u00E3o da OMC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/07/30/brasil-ve-discriminacao-em-novas-tarifas-dos-eua-e-pede-mediacao-da-omc.ghtml",
+      "date": "Thu, 30 Jul 2026 14:46:45 -0000"
+    },
     {
       "title": "Copa \u00E0 venda? Novo plano comercial da Fifa enfrenta resist\u00EAncia global",
       "source": "G1 Economia",
@@ -63,7 +87,7 @@
       "date": "Thu, 30 Jul 2026 14:06:03 -0000"
     },
     {
-      "title": "Arrecada\u00E7\u00E3o federal soma R$ 264,4 bilh\u00F5es em junho e bate recorde para o m\u00EAs",
+      "title": "Alta do petr\u00F3leo ajuda e arrecada\u00E7\u00E3o federal soma R$ 264,4 bilh\u00F5es em junho, novo recorde para o m\u00EAs",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/30/arrecadacao-federal-soma-r-2644-bilhoes-em-junho-e-bate-recorde-para-o-mes.ghtml",
       "date": "Thu, 30 Jul 2026 14:00:09 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/07/30/abert-paulo-figueiredo.ghtml",
       "date": "Thu, 30 Jul 2026 12:22:26 -0000"
-    },
-    {
-      "title": "UE anuncia \u20AC 10 bilh\u00F5es para financiar sete gigaf\u00E1bricas de IA e reduzir dist\u00E2ncia de EUA e China na tecnologia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/30/ue-anuncia-euro-10-bilhoes-para-financiar-sete-gigafabricas-de-ia-e-reduzir-distancia-de-eua-e-china-na-tecnologia.ghtml",
-      "date": "Thu, 30 Jul 2026 12:03:29 -0000"
-    },
-    {
-      "title": "Desemprego cai para 5,4% no trimestre encerrado em junho, no menor n\u00EDvel para o per\u00EDodo da s\u00E9rie hist\u00F3rica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/desemprego-pnad-junho.ghtml",
-      "date": "Thu, 30 Jul 2026 12:00:54 -0000"
-    },
-    {
-      "title": "D\u00F3lar abre em queda, de olho em dados econ\u00F4micos e conflito entre EUA e Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/dolar-ibovespa.ghtml",
-      "date": "Thu, 30 Jul 2026 12:00:12 -0000"
-    },
-    {
-      "title": "Apesar do Desenrola 2.0, inadimpl\u00EAncia banc\u00E1ria mant\u00E9m recorde em junho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/mesmo-com-desenrola-20-inadimplencia-bancaria-mantem-recorde-em-junho.ghtml",
-      "date": "Thu, 30 Jul 2026 11:45:03 -0000"
     }
   ]
 }
