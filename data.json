@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175798.02,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
+      "price": 175902.56,
+      "change": 1.16,
+      "changeStr": "\u002B1.16%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.42,
-      "change": 1,
-      "changeStr": "\u002B1.00%"
+      "price": 42.47,
+      "change": 1.12,
+      "changeStr": "\u002B1.12%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.27,
-      "change": 0.29,
-      "changeStr": "\u002B0.29%"
+      "price": 75.48,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.61,
-      "change": 1.89,
-      "changeStr": "\u002B1.89%"
+      "price": 42.51,
+      "change": 1.65,
+      "changeStr": "\u002B1.65%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.33,
-      "change": -0.11,
-      "changeStr": "-0.11%"
+      "price": 18.26,
+      "change": -0.49,
+      "changeStr": "-0.49%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.03,
-      "change": 1.2,
-      "changeStr": "\u002B1.20%"
+      "price": 21.05,
+      "change": 1.3,
+      "changeStr": "\u002B1.30%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.96,
-      "change": 4.2,
-      "changeStr": "\u002B4.20%"
+      "price": 4.98,
+      "change": 4.62,
+      "changeStr": "\u002B4.62%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.62,
-      "change": -1.76,
-      "changeStr": "-1.76%"
+      "price": 15.77,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.56,
-      "change": 2.02,
-      "changeStr": "\u002B2.02%"
+      "price": 46.71,
+      "change": 2.34,
+      "changeStr": "\u002B2.34%"
     }
   ],
   "news": [
+    {
+      "title": "Contas do governo t\u00EAm d\u00E9ficit de R$ 48,2 bilh\u00F5es em junho",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/contas-do-governo-tem-deficit-de-r-482-bilhoes-em-junho.ghtml",
+      "date": "Thu, 30 Jul 2026 17:33:20 -0000"
+    },
+    {
+      "title": "Os \u0027Bolsonaros de IA\u0027 que fazem campanha at\u00E9 contra Fl\u00E1vio nas redes sociais nesta elei\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/30/os-bolsonaros-de-ia-que-fazem-campanha-ate-contra-flavio-nas-redes-sociais-nesta-eleicao.ghtml",
+      "date": "Thu, 30 Jul 2026 17:20:11 -0000"
+    },
+    {
+      "title": "Morar sozinho pesa no bolso: 6 em cada 10 jovens da gera\u00E7\u00E3o Z ainda vivem de aluguel",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/30/morar-sozinho-pesa-no-bolso-6-em-cada-10-jovens-da-geracao-z-ainda-vivem-de-aluguel.ghtml",
+      "date": "Thu, 30 Jul 2026 17:03:29 -0000"
+    },
     {
       "title": "Caixa inicia nesta quinta dep\u00F3sito de R$ 13 bilh\u00F5es do lucro do FGTS a 138 milh\u00F5es de trabalhadores",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/30/divida-publica-sobe-26percent-em-junho-e-atinge-r-927-trilhoes-diz-tesouro-nacional.ghtml",
       "date": "Thu, 30 Jul 2026 13:24:00 -0000"
-    },
-    {
-      "title": "T\u00E1xi sem volante da Amazon recebe autoriza\u00E7\u00E3o para operar comercialmente nos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/30/zoox-taxi-sem-volante-da-amazon-autorizado-operar-comercialmente-nos-eua.ghtml",
-      "date": "Thu, 30 Jul 2026 13:20:18 -0000"
-    },
-    {
-      "title": "TCU identifica irregularidades em 82% dos repasses via \u0027emendas Pix\u0027 analisados em auditoria",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/07/30/auditoria-do-tcu-identifica-irregularidades-em-82percent-dos-repasses-via-emendas-pix.ghtml",
-      "date": "Thu, 30 Jul 2026 12:55:56 -0000"
-    },
-    {
-      "title": "Associa\u00E7\u00E3o repudia ataques de Paulo Figueiredo a jornalistas e ve\u00EDculos de comunica\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/07/30/abert-paulo-figueiredo.ghtml",
-      "date": "Thu, 30 Jul 2026 12:22:26 -0000"
     }
   ]
 }
