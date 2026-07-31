@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177183.02,
-      "change": 0.01,
-      "changeStr": "\u002B0.01%"
+      "price": 178268.55,
+      "change": 0.63,
+      "changeStr": "\u002B0.63%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.97,
-      "change": 0.3,
-      "changeStr": "\u002B0.30%"
+      "price": 43.5,
+      "change": 1.54,
+      "changeStr": "\u002B1.54%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.71,
-      "change": -0.5,
-      "changeStr": "-0.50%"
+      "price": 76.54,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.74,
-      "change": 2.2,
-      "changeStr": "\u002B2.20%"
+      "price": 43.06,
+      "change": 0.75,
+      "changeStr": "\u002B0.75%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.39,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 18.57,
+      "change": 0.98,
+      "changeStr": "\u002B0.98%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.19,
-      "change": 1.97,
-      "changeStr": "\u002B1.97%"
+      "price": 21.08,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.95,
-      "change": -1.39,
-      "changeStr": "-1.39%"
+      "price": 5.07,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.96,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 16.01,
+      "change": 0.31,
+      "changeStr": "\u002B0.31%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.82,
-      "change": 2.59,
-      "changeStr": "\u002B2.59%"
+      "price": 47.25,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     }
   ],
   "news": [
+    {
+      "title": "Super El Ni\u00F1o pode encarecer conta de luz em 2027, aponta estudo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/31/super-el-nino-pode-elevar-tarifas-de-energia-em-2027-diz-estudo.ghtml",
+      "date": "Fri, 31 Jul 2026 17:04:11 -0000"
+    },
+    {
+      "title": "Veja como construir viveiros escavados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/31/veja-como-construir-viveiros-escavados.ghtml",
+      "date": "Fri, 31 Jul 2026 16:16:24 -0000"
+    },
     {
       "title": "Stellantis faz recall de mais de 1,5 milh\u00E3o de picapes RAM 1500 por defeito nos cintos, diz ag\u00EAncia",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/31/rombo-das-estatais-federais-soma-r-78-bilhoes-no-1o-semestre-e-bate-recorde-historico.ghtml",
       "date": "Fri, 31 Jul 2026 12:38:09 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta na \u00FAltima sess\u00E3o do m\u00EAs, com foco em balan\u00E7os corporativos e maior otimismo global ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/31/dolar-ibovespa.ghtml",
-      "date": "Fri, 31 Jul 2026 12:00:09 -0000"
-    },
-    {
-      "title": "D\u00EDvida p\u00FAblica sobe 10 pontos do PIB na parcial do governo Lula e atinge 81,9%, maior n\u00EDvel em mais de 5 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/31/divida-publica-sobe-10-pontos-do-pib-na-parcial-do-governo-lula-e-atinge-819percent-maior-nivel-em-mais-de-5-anos.ghtml",
-      "date": "Fri, 31 Jul 2026 11:41:29 -0000"
     }
   ]
 }
