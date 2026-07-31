@@ -57,6 +57,30 @@
   ],
   "news": [
     {
+      "title": "Rombo das estatais federais soma R$ 7,8 bilh\u00F5es no 1\u00BA semestre e bate recorde hist\u00F3rico",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/31/rombo-das-estatais-federais-soma-r-78-bilhoes-no-1o-semestre-e-bate-recorde-historico.ghtml",
+      "date": "Fri, 31 Jul 2026 12:38:09 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre em alta na \u00FAltima sess\u00E3o do m\u00EAs, com foco em balan\u00E7os corporativos e maior otimismo global ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/31/dolar-ibovespa.ghtml",
+      "date": "Fri, 31 Jul 2026 12:00:09 -0000"
+    },
+    {
+      "title": "D\u00EDvida p\u00FAblica sobe 10 pontos do PIB na parcial do governo Lula e atinge 81,9%, maior n\u00EDvel em mais de 5 anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/31/divida-publica-sobe-10-pontos-do-pib-na-parcial-do-governo-lula-e-atinge-819percent-maior-nivel-em-mais-de-5-anos.ghtml",
+      "date": "Fri, 31 Jul 2026 11:41:29 -0000"
+    },
+    {
+      "title": "Aplicativo do Tesouro Direto ser\u00E1 desativado a partir de 17 de agosto",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/31/aplicativo-do-tesouro-direto-sera-desativado-a-partir-de-17-de-agosto.ghtml",
+      "date": "Fri, 31 Jul 2026 11:07:47 -0000"
+    },
+    {
       "title": "Milei promove reforma do Banco Central e \u0027shutdown\u0027 em caso de d\u00E9ficit na Argentina",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/31/milei-promove-reforma-do-banco-central-e-shutdown-em-caso-de-deficit-na-argentina.ghtml",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/30/governo-libera-r57-bi-no-orcamento-cidades-transportes-e-fazenda-sao-os-mais-beneficiados.ghtml",
       "date": "Fri, 31 Jul 2026 02:50:03 -0000"
-    },
-    {
-      "title": "Ap\u00F3s ataque de IA da OpenAI, Anthropic diz que seus modelos tamb\u00E9m invadiram outras empresas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/30/anthropic-claude-ataque-hacker.ghtml",
-      "date": "Fri, 31 Jul 2026 00:33:25 -0000"
-    },
-    {
-      "title": "Vale tem lucro de US$ 1,37 bilh\u00E3o no 2\u00BA trimestre, queda de 35%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/lucro-vale-2o-trimestre.ghtml",
-      "date": "Fri, 31 Jul 2026 00:13:33 -0000"
-    },
-    {
-      "title": "Mega-Sena, concurso 3038: confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/07/30/mega-sena-concurso-3038-confira-os-numeros-sorteados.ghtml",
-      "date": "Fri, 31 Jul 2026 00:01:35 -0000"
-    },
-    {
-      "title": "Justi\u00E7a homologa recupera\u00E7\u00E3o extrajudicial da Ra\u00EDzen e valida renegocia\u00E7\u00E3o de R$ 61,4 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/negocios/noticia/2026/07/30/justica-homologa-plano-de-recuperacao-extrajudicial-da-raizen.ghtml",
-      "date": "Thu, 30 Jul 2026 21:05:33 -0000"
     }
   ]
 }
