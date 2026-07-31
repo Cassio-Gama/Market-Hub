@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 178161.45,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
+      "price": 177999,
+      "change": 0.47,
+      "changeStr": "\u002B0.47%"
     },
     {
       "symbol": "PETR4",
@@ -32,9 +32,9 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 21.24,
-      "change": 0.24,
-      "changeStr": "\u002B0.24%"
+      "price": 21.35,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
     },
     {
       "symbol": "MGLU3",
@@ -44,9 +44,9 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 15.96,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 15.99,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "WEGE3",
@@ -56,6 +56,18 @@
     }
   ],
   "news": [
+    {
+      "title": "OpenAI descobre mais casos em que sua IA escapou de isolamento, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/31/openai-descobre-mais-casos-em-que-sua-ia-escapou-de-isolamento-diz-agencia.ghtml",
+      "date": "Fri, 31 Jul 2026 21:55:32 -0000"
+    },
+    {
+      "title": "Conta de luz: bandeira tarif\u00E1ria em agosto continuar\u00E1 amarela, decide Aneel",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/31/conta-de-luz-bandeira-tarifaria-em-agosto-continuara-amarela-decide-aneel.ghtml",
+      "date": "Fri, 31 Jul 2026 20:36:35 -0000"
+    },
     {
       "title": "Super El Ni\u00F1o pode encarecer conta de luz em 2027, aponta estudo",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/31/contas-publicas-tem-deficit-de-r-553-bilhoes-em-junho.ghtml",
       "date": "Fri, 31 Jul 2026 12:59:30 -0000"
-    },
-    {
-      "title": "Comiss\u00E3o Europeia discute incidentes com OpenAI e Anthropic antes da nova Lei de IA ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/31/comissao-europeia-discute-incidentes-com-openai-e-anthropic-antes-da-nova-lei-de-ia.ghtml",
-      "date": "Fri, 31 Jul 2026 12:40:37 -0000"
-    },
-    {
-      "title": "Rombo das estatais federais soma R$ 7,8 bilh\u00F5es no 1\u00BA semestre e bate recorde hist\u00F3rico",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/31/rombo-das-estatais-federais-soma-r-78-bilhoes-no-1o-semestre-e-bate-recorde-historico.ghtml",
-      "date": "Fri, 31 Jul 2026 12:38:09 -0000"
     }
   ]
 }
