@@ -2,57 +2,57 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 178268.55,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
+      "price": 178161.45,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.5,
-      "change": 1.54,
-      "changeStr": "\u002B1.54%"
+      "price": 43.42,
+      "change": 1.35,
+      "changeStr": "\u002B1.35%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.54,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 76.28,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.06,
-      "change": 0.75,
-      "changeStr": "\u002B0.75%"
+      "price": 42.89,
+      "change": 0.35,
+      "changeStr": "\u002B0.35%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.57,
-      "change": 0.98,
-      "changeStr": "\u002B0.98%"
+      "price": 18.43,
+      "change": 0.22,
+      "changeStr": "\u002B0.22%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.08,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 21.24,
+      "change": 0.24,
+      "changeStr": "\u002B0.24%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.07,
-      "change": 1,
-      "changeStr": "\u002B1.00%"
+      "price": 5.03,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.01,
-      "change": 0.31,
-      "changeStr": "\u002B0.31%"
+      "price": 15.96,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.25,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 47.2,
+      "change": 0.81,
+      "changeStr": "\u002B0.81%"
     }
   ],
   "news": [
@@ -75,7 +75,7 @@
       "date": "Fri, 31 Jul 2026 15:17:15 -0000"
     },
     {
-      "title": "Move Aplicativos: cr\u00E9dito para motoristas de app e taxistas supera R$ 2,2 bilh\u00F5es em financiamentos",
+      "title": "Move Aplicativos: s\u00F3 7,3% do valor destinado ao cr\u00E9dito foi liberado para motoristas de app e taxistas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/07/31/move-aplicativos-credito-motoristas-app-taxi.ghtml",
       "date": "Fri, 31 Jul 2026 14:53:13 -0000"
