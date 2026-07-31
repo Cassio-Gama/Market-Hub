@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177158.86,
-      "change": 1.88,
-      "changeStr": "\u002B1.88%"
+      "price": 177183.02,
+      "change": 0.01,
+      "changeStr": "\u002B0.01%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.84,
-      "change": 2,
-      "changeStr": "\u002B2.00%"
+      "price": 42.97,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.09,
-      "change": 1.39,
-      "changeStr": "\u002B1.39%"
+      "price": 75.71,
+      "change": -0.5,
+      "changeStr": "-0.50%"
     },
     {
       "symbol": "ITUB4",
@@ -38,9 +38,9 @@
     },
     {
       "symbol": "MGLU3",
-      "price": 5.02,
-      "change": 5.46,
-      "changeStr": "\u002B5.46%"
+      "price": 4.95,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     },
     {
       "symbol": "ABEV3",
@@ -57,13 +57,55 @@
   ],
   "news": [
     {
+      "title": "Stellantis faz recall de mais de 1,5 milh\u00E3o de picapes RAM 1500 por defeito nos cintos, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/31/stellantis-faz-recall-de-ram-1500-defeito-cinto-de-seguranca.ghtml",
+      "date": "Fri, 31 Jul 2026 15:17:15 -0000"
+    },
+    {
+      "title": "Move Aplicativos: cr\u00E9dito para motoristas de app e taxistas supera R$ 2,2 bilh\u00F5es em financiamentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/07/31/move-aplicativos-credito-motoristas-app-taxi.ghtml",
+      "date": "Fri, 31 Jul 2026 14:53:13 -0000"
+    },
+    {
+      "title": "O que aconteceu com a bolsa? B3 atrasa abertura de neg\u00F3cios nesta sexta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/31/o-que-aconteceu-com-a-bolsa-b3-atrasa-abertura-de-negocios-nesta-sexta.ghtml",
+      "date": "Fri, 31 Jul 2026 14:06:59 -0000"
+    },
+    {
+      "title": "Caixa conclui pagamento do lucro do FGTS; veja quanto voc\u00EA recebeu",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/31/caixa-conclui-pagamento-do-lucro-do-fgts.ghtml",
+      "date": "Fri, 31 Jul 2026 13:37:04 -0000"
+    },
+    {
+      "title": "Temu \u00E9 acusada pela UE de n\u00E3o cooperar em investiga\u00E7\u00E3o sobre poss\u00EDvel ajuda da China\n",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/31/temu-e-acusada-pela-ue-de-nao-cooperar-em-investigacao-sobre-possivel-ajuda-da-china.ghtml",
+      "date": "Fri, 31 Jul 2026 13:05:35 -0000"
+    },
+    {
+      "title": "Contas p\u00FAblicas t\u00EAm d\u00E9ficit prim\u00E1rio de R$ 55,3 bilh\u00F5es em junho; ao incluir juros, rombo soma R$ 1,3 trilh\u00E3o em doze meses",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/07/31/contas-publicas-tem-deficit-de-r-553-bilhoes-em-junho.ghtml",
+      "date": "Fri, 31 Jul 2026 12:59:30 -0000"
+    },
+    {
+      "title": "Comiss\u00E3o Europeia discute incidentes com OpenAI e Anthropic antes da nova Lei de IA ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/07/31/comissao-europeia-discute-incidentes-com-openai-e-anthropic-antes-da-nova-lei-de-ia.ghtml",
+      "date": "Fri, 31 Jul 2026 12:40:37 -0000"
+    },
+    {
       "title": "Rombo das estatais federais soma R$ 7,8 bilh\u00F5es no 1\u00BA semestre e bate recorde hist\u00F3rico",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/31/rombo-das-estatais-federais-soma-r-78-bilhoes-no-1o-semestre-e-bate-recorde-historico.ghtml",
       "date": "Fri, 31 Jul 2026 12:38:09 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta na \u00FAltima sess\u00E3o do m\u00EAs, com foco em balan\u00E7os corporativos e maior otimismo global ",
+      "title": "D\u00F3lar opera em alta na \u00FAltima sess\u00E3o do m\u00EAs, com foco em balan\u00E7os corporativos e maior otimismo global ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/31/dolar-ibovespa.ghtml",
       "date": "Fri, 31 Jul 2026 12:00:09 -0000"
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/07/31/divida-publica-sobe-10-pontos-do-pib-na-parcial-do-governo-lula-e-atinge-819percent-maior-nivel-em-mais-de-5-anos.ghtml",
       "date": "Fri, 31 Jul 2026 11:41:29 -0000"
-    },
-    {
-      "title": "Aplicativo do Tesouro Direto ser\u00E1 desativado a partir de 17 de agosto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/31/aplicativo-do-tesouro-direto-sera-desativado-a-partir-de-17-de-agosto.ghtml",
-      "date": "Fri, 31 Jul 2026 11:07:47 -0000"
-    },
-    {
-      "title": "Milei promove reforma do Banco Central e \u0027shutdown\u0027 em caso de d\u00E9ficit na Argentina",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/31/milei-promove-reforma-do-banco-central-e-shutdown-em-caso-de-deficit-na-argentina.ghtml",
-      "date": "Fri, 31 Jul 2026 10:41:37 -0000"
-    },
-    {
-      "title": "ES vai ganhar polo log\u00EDstico do agroneg\u00F3cio com aeroporto e galp\u00F5es para caf\u00E9, pimenta e fertilizantes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/07/31/es-vai-ganhar-polo-logistico-do-agronegocio-com-aeroporto-e-galpoes-para-cafe-pimenta-e-fertilizantes.ghtml",
-      "date": "Fri, 31 Jul 2026 07:01:04 -0000"
-    },
-    {
-      "title": "N\u00E3o era on\u00E7a: gato-mourisco cruza fazenda e surpreende moradora no interior do RJ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/07/31/nao-era-onca-gato-mourisco-cruza-fazenda-e-surpreende-moradora-no-interior-do-rj.ghtml",
-      "date": "Fri, 31 Jul 2026 06:02:45 -0000"
-    },
-    {
-      "title": "Gasolina com 32% de etanol chega aos postos amanh\u00E3; veja como proteger seu carro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/07/31/gasolina-com-32percent-de-etanol-chega-aos-postos-amanha-veja-como-proteger-seu-carro.ghtml",
-      "date": "Fri, 31 Jul 2026 03:00:15 -0000"
-    },
-    {
-      "title": "Imposto de Renda 2026: Receita paga o 3\u00BA lote de restitui\u00E7\u00E3o nesta sexta; veja se vai receber",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/07/31/receita-paga-o-3o-lote-de-restituicao-nesta-sexta.ghtml",
-      "date": "Fri, 31 Jul 2026 03:00:15 -0000"
-    },
-    {
-      "title": "Governo libera R$ 5,7 bi no or\u00E7amento; Cidades, Transportes e Fazenda s\u00E3o os mais beneficiados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/07/30/governo-libera-r57-bi-no-orcamento-cidades-transportes-e-fazenda-sao-os-mais-beneficiados.ghtml",
-      "date": "Fri, 31 Jul 2026 02:50:03 -0000"
     }
   ]
 }
