@@ -1,12 +1,6 @@
 {
   "slider": [
     {
-      "symbol": "^BVSP",
-      "price": 177999,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
-    },
-    {
       "symbol": "PETR4",
       "price": 43.42,
       "change": 1.35,
@@ -57,6 +51,30 @@
   ],
   "news": [
     {
+      "title": "D\u00F3lar abre em queda, \u00E0 espera de decis\u00F5es de juros e de olho no petr\u00F3leo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/03/dolar-ibovespa.ghtml",
+      "date": "Mon, 03 Aug 2026 12:00:08 -0000"
+    },
+    {
+      "title": "Ap\u00F3s acordo com MPT, Viih Tube e Eliezer publicam primeiro v\u00EDdeo sobre trabalho dom\u00E9stico",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/03/apos-acordo-com-mpt-viih-tube-e-eliezer-publicam-primeiro.ghtml",
+      "date": "Mon, 03 Aug 2026 11:46:17 -0000"
+    },
+    {
+      "title": "Mercado reduz pela 5\u00AA semana seguida estimativa de infla\u00E7\u00E3o em 2026 e projeta corte maior de juros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/03/mercado-reduz-pela-5a-semana-seguida-estimativa-de-inflacao-em-2026-e-projeta-corte-maior-de-juros.ghtml",
+      "date": "Mon, 03 Aug 2026 11:35:22 -0000"
+    },
+    {
+      "title": "Gigantes da ind\u00FAstria farmac\u00EAutica, AstraZeneca e BMS avaliam fus\u00E3o de R$ 2 trilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/03/gigantes-da-industria-farmaceutica-astrazeneca-e-bms-avaliam-fusao-de-r-2-trilhoes.ghtml",
+      "date": "Mon, 03 Aug 2026 10:40:58 -0000"
+    },
+    {
       "title": "Como provar que o trabalho causou um transtorno mental? Entenda o que a Justi\u00E7a analisa",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/03/como-provar-que-o-trabalho-causou-um-transtorno-mental-entenda-o-que-a-justica-analisa.ghtml",
@@ -91,30 +109,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/02/parceria-busca-recuperar-producao-de-gengibre-em-tapirai.ghtml",
       "date": "Sun, 02 Aug 2026 10:30:14 -0000"
-    },
-    {
-      "title": "Receita Nosso Campo: aprenda a fazer uma torta francesa de frutas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/02/receita-nosso-campo-aprenda-a-fazer-uma-torta-francesa-de-frutas.ghtml",
-      "date": "Sun, 02 Aug 2026 10:30:12 -0000"
-    },
-    {
-      "title": "Esquecidas na gaveta: brasileiros t\u00EAm quase R$ 32 milh\u00F5es guardados em moedas de 1 centavo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/02/esquecidas-na-gaveta-brasileiros-tem-quase-r-32-milhoes-guardados-em-moedas-de-1-centavo.ghtml",
-      "date": "Sun, 02 Aug 2026 08:00:45 -0000"
-    },
-    {
-      "title": "Conversa no WhatsApp vazada sem autoriza\u00E7\u00E3o leva caso \u00E0 mais alta corte da Alemanha",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/02/conversa-no-whatsapp-vazada-sem-autorizacao-leva-caso-a-mais-alta-corte-da-alemanha.ghtml",
-      "date": "Sun, 02 Aug 2026 08:00:17 -0000"
-    },
-    {
-      "title": "Vacas leiteiras tiram f\u00E9rias? Entenda por que elas passam dois meses sem produzir leite",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/02/vacas-leiteiras-tiram-ferias-entenda-por-que-elas-passam-dois-meses-sem-produzir-leite.ghtml",
-      "date": "Sun, 02 Aug 2026 07:01:19 -0000"
     }
   ]
 }
