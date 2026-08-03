@@ -2,62 +2,74 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177359.61,
-      "change": -0.36,
-      "changeStr": "-0.36%"
+      "price": 177839.6,
+      "change": -0.09,
+      "changeStr": "-0.09%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.84,
-      "change": -1.34,
-      "changeStr": "-1.34%"
+      "price": 42.88,
+      "change": -1.24,
+      "changeStr": "-1.24%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.38,
-      "change": -2.49,
-      "changeStr": "-2.49%"
+      "price": 74.48,
+      "change": -2.36,
+      "changeStr": "-2.36%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.95,
-      "change": 0.14,
-      "changeStr": "\u002B0.14%"
+      "price": 43.02,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.5,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 18.55,
+      "change": 0.65,
+      "changeStr": "\u002B0.65%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.23,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 21.32,
+      "change": -0.14,
+      "changeStr": "-0.14%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.04,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 5.19,
+      "change": 3.18,
+      "changeStr": "\u002B3.18%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.85,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "price": 15.78,
+      "change": -1.31,
+      "changeStr": "-1.31%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.07,
-      "change": 1.84,
-      "changeStr": "\u002B1.84%"
+      "price": 48.41,
+      "change": 2.56,
+      "changeStr": "\u002B2.56%"
     }
   ],
   "news": [
     {
-      "title": "Bondades de Lula superam R$ 280 bilh\u00F5es e se aproximam de pacote de Bolsonaro",
+      "title": "25 estados americanos entram na Justi\u00E7a contra novas tarifas impostas por Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/03/25-estados-americanos-entram-na-justica-contra-novas-tarifas-impostas-por-trump.ghtml",
+      "date": "Mon, 03 Aug 2026 19:13:01 -0000"
+    },
+    {
+      "title": "Apple trava nova batalha contra Reino Unido para impedir acesso do governo a dados de usu\u00E1rios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/03/apple-trava-nova-batalha-contra-reino-unido-para-impedir-acesso-do-governo-a-dados-de-usuarios.ghtml",
+      "date": "Mon, 03 Aug 2026 18:13:24 -0000"
+    },
+    {
+      "title": "\u0027Bondades\u0027 de Lula superam R$ 280 bilh\u00F5es e se aproximam de pacote de Bolsonaro",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/03/bondades-de-lula-superam-r-280-bilhoes-e-se-aproximam-de-pacote-de-bolsonaro.ghtml",
       "date": "Mon, 03 Aug 2026 17:30:39 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/03/entenda-o-que-sao-ibs-e-cbs-reforma-tributaria.ghtml",
       "date": "Mon, 03 Aug 2026 14:07:32 -0000"
-    },
-    {
-      "title": "Plano de sa\u00FAde dos Correios tem preju\u00EDzo de R$ 844 milh\u00F5es em 2025",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/03/plano-de-saude-dos-correios-tem-prejuizo-de-r-844-milhoes-em-2025.ghtml",
-      "date": "Mon, 03 Aug 2026 14:04:33 -0000"
-    },
-    {
-      "title": "Brasil bate recorde na produ\u00E7\u00E3o de petr\u00F3leo em junho, diz ANP",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/03/brasil-bate-recorde-na-producao-de-petroleo-em-junho-diz-anp.ghtml",
-      "date": "Mon, 03 Aug 2026 13:42:54 -0000"
     }
   ]
 }
