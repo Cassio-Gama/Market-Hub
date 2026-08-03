@@ -1,114 +1,120 @@
 {
   "slider": [
     {
+      "symbol": "^BVSP",
+      "price": 177302.53,
+      "change": -0.39,
+      "changeStr": "-0.39%"
+    },
+    {
       "symbol": "PETR4",
-      "price": 43.42,
-      "change": 1.35,
-      "changeStr": "\u002B1.35%"
+      "price": 43.02,
+      "change": -0.92,
+      "changeStr": "-0.92%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.28,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 74.27,
+      "change": -2.64,
+      "changeStr": "-2.64%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.89,
-      "change": 0.35,
-      "changeStr": "\u002B0.35%"
+      "price": 43.05,
+      "change": 0.37,
+      "changeStr": "\u002B0.37%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.43,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 18.48,
+      "change": 0.27,
+      "changeStr": "\u002B0.27%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.35,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 21.34,
+      "change": -0.05,
+      "changeStr": "-0.05%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.03,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 5.08,
+      "change": 0.99,
+      "changeStr": "\u002B0.99%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.99,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 15.94,
+      "change": -0.31,
+      "changeStr": "-0.31%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.2,
-      "change": 0.81,
-      "changeStr": "\u002B0.81%"
+      "price": 47.69,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar abre em queda, \u00E0 espera de decis\u00F5es de juros e de olho no petr\u00F3leo",
+      "title": "Alemanha discute proibi\u00E7\u00E3o de \u00F3culos inteligentes da Meta depois de grava\u00E7\u00F5es ilegais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/03/dolar-ibovespa.ghtml",
-      "date": "Mon, 03 Aug 2026 12:00:08 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/03/alemanha-discute-proibicao-de-oculos-inteligentes-da-meta-depois-de-gravacoes-ilegais.ghtml",
+      "date": "Mon, 03 Aug 2026 15:39:43 -0000"
     },
     {
-      "title": "Ap\u00F3s acordo com MPT, Viih Tube e Eliezer publicam primeiro v\u00EDdeo sobre trabalho dom\u00E9stico",
+      "title": "Usu\u00E1rios do WhatsApp relatam conta bloqueada pela plataforma",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/03/apos-acordo-com-mpt-viih-tube-e-eliezer-publicam-primeiro.ghtml",
-      "date": "Mon, 03 Aug 2026 11:46:17 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/03/usuarios-do-whatsapp-relatam-conta-bloqueada-pela-plataforma.ghtml",
+      "date": "Mon, 03 Aug 2026 15:24:05 -0000"
     },
     {
-      "title": "Mercado reduz pela 5\u00AA semana seguida estimativa de infla\u00E7\u00E3o em 2026 e projeta corte maior de juros",
+      "title": "Amazon atinge US$ 3 trilh\u00F5es em valor de mercado pela primeira vez",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/03/mercado-reduz-pela-5a-semana-seguida-estimativa-de-inflacao-em-2026-e-projeta-corte-maior-de-juros.ghtml",
-      "date": "Mon, 03 Aug 2026 11:35:22 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/03/amazon-valor-de-mercado.ghtml",
+      "date": "Mon, 03 Aug 2026 15:02:10 -0000"
     },
     {
-      "title": "Gigantes da ind\u00FAstria farmac\u00EAutica, AstraZeneca e BMS avaliam fus\u00E3o de R$ 2 trilh\u00F5es",
+      "title": "Musk perde R$ 1,8 trilh\u00E3o em um m\u00EAs, mas segue como pessoa mais rica do mundo; veja ranking",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/03/gigantes-da-industria-farmaceutica-astrazeneca-e-bms-avaliam-fusao-de-r-2-trilhoes.ghtml",
-      "date": "Mon, 03 Aug 2026 10:40:58 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/03/lista-bilionarios-agosto.ghtml",
+      "date": "Mon, 03 Aug 2026 14:55:30 -0000"
     },
     {
-      "title": "Como provar que o trabalho causou um transtorno mental? Entenda o que a Justi\u00E7a analisa",
+      "title": "Auxiliar de Fl\u00E1vio Bolsonaro para \u00E1rea econ\u00F4mica prop\u00F5e cortes equivalentes a 1,5% do PIB",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/03/como-provar-que-o-trabalho-causou-um-transtorno-mental-entenda-o-que-a-justica-analisa.ghtml",
-      "date": "Mon, 03 Aug 2026 07:01:11 -0000"
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/03/flavio-bolsonaro-economia-corte-gastos.ghtml",
+      "date": "Mon, 03 Aug 2026 14:34:54 -0000"
     },
     {
-      "title": "Ministro vai \u00E0 \u00CDndia em busca de ampliar com\u00E9rcio em defesa, tecnologia e ind\u00FAstria; Brasil quer diminuir efeito do tarifa\u00E7o dos EUA",
+      "title": "Jap\u00E3o e EUA compram ienes para conter queda da moeda japonesa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/03/ministro-vai-a-india-em-busca-de-ampliar-comercio-em-defesa-tecnologia-e-industria-brasil-quer-diminuir-efeito-do-tarifaco-dos-eua.ghtml",
-      "date": "Mon, 03 Aug 2026 03:00:22 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/03/japao-e-eua-compram-ienes-para-conter-queda-da-moeda-japonesa.ghtml",
+      "date": "Mon, 03 Aug 2026 14:12:50 -0000"
     },
     {
-      "title": "Ir\u00E3 diz estar pr\u00F3ximo de concluir acordo com Om\u00E3 sobre nova rota de tr\u00E2nsito de navios em Ormuz",
+      "title": "Entenda o que s\u00E3o o IBS e a CBS, novas siglas que chegam \u00E0s notas fiscais a partir desta segunda-feira",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/08/02/ira-diz-estar-proximo-acordo-oma-nova-rota-navios-ormuz.ghtml",
-      "date": "Sun, 02 Aug 2026 17:34:51 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/03/entenda-o-que-sao-ibs-e-cbs-reforma-tributaria.ghtml",
+      "date": "Mon, 03 Aug 2026 14:07:32 -0000"
     },
     {
-      "title": "Mega-Sena, concurso 3039: confira os n\u00FAmeros sorteados",
+      "title": "Plano de sa\u00FAde dos Correios tem preju\u00EDzo de R$ 844 milh\u00F5es em 2025",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/02/mega-sena-concurso-3039-confira-os-numeros-sorteados.ghtml",
-      "date": "Sun, 02 Aug 2026 14:07:08 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/03/plano-de-saude-dos-correios-tem-prejuizo-de-r-844-milhoes-em-2025.ghtml",
+      "date": "Mon, 03 Aug 2026 14:04:33 -0000"
     },
     {
-      "title": "Colheita de cana-de-a\u00E7\u00FAcar no interior paulista demanda tr\u00EAs turnos de trabalho",
+      "title": "Brasil bate recorde na produ\u00E7\u00E3o de petr\u00F3leo em junho, diz ANP",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/02/colheita-de-cana-de-acucar-no-interior-paulista-demanda-tres-turnos-de-trabalho.ghtml",
-      "date": "Sun, 02 Aug 2026 10:30:16 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/03/brasil-bate-recorde-na-producao-de-petroleo-em-junho-diz-anp.ghtml",
+      "date": "Mon, 03 Aug 2026 13:42:54 -0000"
     },
     {
-      "title": "Parceria busca recuperar produ\u00E7\u00E3o de gengibre em Tapira\u00ED",
+      "title": "Truth Social, de Trump, come\u00E7a a vender acesso antecipado a publica\u00E7\u00F5es da plataforma",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/02/parceria-busca-recuperar-producao-de-gengibre-em-tapirai.ghtml",
-      "date": "Sun, 02 Aug 2026 10:30:14 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/03/truth-social-truth-api.ghtml",
+      "date": "Mon, 03 Aug 2026 13:38:28 -0000"
     }
   ]
 }
