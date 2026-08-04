@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 178359.67,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 177759,
+      "change": -0.14,
+      "changeStr": "-0.14%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.61,
-      "change": -1.02,
-      "changeStr": "-1.02%"
+      "price": 42.55,
+      "change": -1.16,
+      "changeStr": "-1.16%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.36,
-      "change": 2.3,
-      "changeStr": "\u002B2.30%"
+      "price": 76.45,
+      "change": 2.42,
+      "changeStr": "\u002B2.42%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.81,
-      "change": -0.83,
-      "changeStr": "-0.83%"
+      "price": 42.1,
+      "change": -2.48,
+      "changeStr": "-2.48%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.38,
-      "change": -0.92,
-      "changeStr": "-0.92%"
+      "price": 18.14,
+      "change": -2.21,
+      "changeStr": "-2.21%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.21,
-      "change": -0.28,
-      "changeStr": "-0.28%"
+      "price": 20.99,
+      "change": -1.32,
+      "changeStr": "-1.32%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.11,
-      "change": -0.97,
-      "changeStr": "-0.97%"
+      "price": 4.95,
+      "change": -4.07,
+      "changeStr": "-4.07%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.87,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
+      "price": 15.9,
+      "change": 0.82,
+      "changeStr": "\u002B0.82%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.02,
-      "change": 1.7,
-      "changeStr": "\u002B1.70%"
+      "price": 48.95,
+      "change": 1.56,
+      "changeStr": "\u002B1.56%"
     }
   ],
   "news": [
+    {
+      "title": "Quanto as Big Techs j\u00E1 comprometeram com IA? A conta chega a R$ 5,6 trilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/04/quanto-as-big-techs-ja-comprometeram-com-ia-a-conta-chega-a-r-56-trilhoes.ghtml",
+      "date": "Tue, 04 Aug 2026 18:45:56 -0000"
+    },
     {
       "title": "BNDES aprova financiamento de at\u00E9 R$ 3,7 bilh\u00F5es para exporta\u00E7\u00E3o de avi\u00F5es da Embraer ao Canad\u00E1",
       "source": "G1 Economia",
@@ -73,6 +79,12 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/04/caso-master-otto-lobo-lula-indica-antonio-berwanger-diretoria-cvm.ghtml",
       "date": "Tue, 04 Aug 2026 12:15:33 -0000"
+    },
+    {
+      "title": "Caf\u00E9: entenda como inverno at\u00EDpico e chuvoso em julho pode impactar exporta\u00E7\u00E3o e qualidade da bebida",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/04/cafe-entenda-como-inverno-atipico-e-chuvoso-em-julho-pode-impactar-exportacao-precos-e-qualidade-da-bebida.ghtml",
+      "date": "Tue, 04 Aug 2026 12:14:19 -0000"
     },
     {
       "title": "D\u00F3lar e Ibovespa operam em alta, com dados dos EUA e redu\u00E7\u00E3o das tens\u00F5es no Oriente M\u00E9dio",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/04/bezerro-nasce-com-tres-orelhas-uma-delas-nas-costas-entenda-o-caso.ghtml",
       "date": "Tue, 04 Aug 2026 06:00:30 -0000"
-    },
-    {
-      "title": "Por que os brasileiros est\u00E3o trocando mais de emprego",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/04/por-que-os-brasileiros-estao-trocando-mais-de-emprego.ghtml",
-      "date": "Tue, 04 Aug 2026 04:00:14 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar pr\u00EAmio de R$ 135 milh\u00F5es nesta ter\u00E7a-feira; acompanhe ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/04/mega-sena-pode-pagar-premio-de-r-135-milhoes-nesta-terca-feira-acompanhe-ao-vivo.ghtml",
-      "date": "Tue, 04 Aug 2026 03:00:43 -0000"
     }
   ]
 }
