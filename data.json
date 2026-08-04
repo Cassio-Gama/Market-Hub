@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177759,
-      "change": -0.14,
-      "changeStr": "-0.14%"
+      "price": 177894.97,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.55,
-      "change": -1.16,
-      "changeStr": "-1.16%"
+      "price": 42.5,
+      "change": -1.28,
+      "changeStr": "-1.28%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.45,
-      "change": 2.42,
-      "changeStr": "\u002B2.42%"
+      "price": 76.31,
+      "change": 2.24,
+      "changeStr": "\u002B2.24%"
     },
     {
       "symbol": "ITUB4",
@@ -26,9 +26,9 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 18.14,
-      "change": -2.21,
-      "changeStr": "-2.21%"
+      "price": 18.22,
+      "change": -1.78,
+      "changeStr": "-1.78%"
     },
     {
       "symbol": "BBAS3",
@@ -38,24 +38,36 @@
     },
     {
       "symbol": "MGLU3",
-      "price": 4.95,
-      "change": -4.07,
-      "changeStr": "-4.07%"
+      "price": 4.92,
+      "change": -4.65,
+      "changeStr": "-4.65%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.9,
-      "change": 0.82,
-      "changeStr": "\u002B0.82%"
+      "price": 15.87,
+      "change": 0.63,
+      "changeStr": "\u002B0.63%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.95,
-      "change": 1.56,
-      "changeStr": "\u002B1.56%"
+      "price": 49.17,
+      "change": 2.01,
+      "changeStr": "\u002B2.01%"
     }
   ],
   "news": [
+    {
+      "title": "Justi\u00E7a dos EUA marca para mar\u00E7o de 2027 julgamento sobre compra da Warner Bros. pela Paramount",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/04/justica-dos-eua-marca-para-marco-de-2027-julgamento-sobre-compra-da-warner-bros-pela-paramount.ghtml",
+      "date": "Tue, 04 Aug 2026 19:42:48 -0000"
+    },
+    {
+      "title": "Mulher joga bilhete premiado de R$ 6 milh\u00F5es no lixo e garis conseguem recuper\u00E1-lo na It\u00E1lia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/04/mulher-joga-bilhete-premiado-de-r-6-milhoes-no-lixo-e-garis-conseguem-recupera-lo-na-italia.ghtml",
+      "date": "Tue, 04 Aug 2026 19:37:52 -0000"
+    },
     {
       "title": "Quanto as Big Techs j\u00E1 comprometeram com IA? A conta chega a R$ 5,6 trilh\u00F5es",
       "source": "G1 Economia",
@@ -87,7 +99,7 @@
       "date": "Tue, 04 Aug 2026 12:14:19 -0000"
     },
     {
-      "title": "D\u00F3lar e Ibovespa operam em alta, com dados dos EUA e redu\u00E7\u00E3o das tens\u00F5es no Oriente M\u00E9dio",
+      "title": "D\u00F3lar avan\u00E7a e Ibovespa recua em dia de aten\u00E7\u00E3o a dados dos EUA e cen\u00E1rio no Oriente M\u00E9dio",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/04/dolar-ibovespa.ghtml",
       "date": "Tue, 04 Aug 2026 12:01:05 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/04/polemica-do-anti-spam-bloqueio-de-ligacoes-indesejadas-gera-disputa-entre-operadoras-na-anatel.ghtml",
       "date": "Tue, 04 Aug 2026 08:03:35 -0000"
-    },
-    {
-      "title": "Trump quer vender milissegundos de vantagem a investidores; entenda por que isso vale milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/04/trump-quer-vender-milissegundos-de-vantagem-a-investidores-entenda-por-que-isso-vale-milhoes.ghtml",
-      "date": "Tue, 04 Aug 2026 08:03:06 -0000"
-    },
-    {
-      "title": "Bezerro nasce com tr\u00EAs orelhas, uma delas nas costas; entenda o caso",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/04/bezerro-nasce-com-tres-orelhas-uma-delas-nas-costas-entenda-o-caso.ghtml",
-      "date": "Tue, 04 Aug 2026 06:00:30 -0000"
     }
   ]
 }
