@@ -57,6 +57,18 @@
   ],
   "news": [
     {
+      "title": "D\u00F3lar abre em queda, com dados de emprego dos EUA no foco",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/04/dolar-ibovespa.ghtml",
+      "date": "Tue, 04 Aug 2026 12:01:05 -0000"
+    },
+    {
+      "title": "Os Estados americanos que tentam barrar tarifas de Trump contra Brasil e outros pa\u00EDses",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/04/os-estados-americanos-que-tentam-barrar-tarifas-de-trump-contra-brasil-e-outros-paises.ghtml",
+      "date": "Tue, 04 Aug 2026 10:11:07 -0000"
+    },
+    {
       "title": "Pol\u00EAmica do anti-spam: bloqueio de liga\u00E7\u00F5es indesejadas gera disputa entre operadoras na Anatel",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/04/polemica-do-anti-spam-bloqueio-de-ligacoes-indesejadas-gera-disputa-entre-operadoras-na-anatel.ghtml",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/03/25-estados-americanos-entram-na-justica-contra-novas-tarifas-impostas-por-trump.ghtml",
       "date": "Mon, 03 Aug 2026 19:13:01 -0000"
-    },
-    {
-      "title": "Apple trava nova batalha contra Reino Unido para impedir acesso do governo a dados de usu\u00E1rios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/03/apple-trava-nova-batalha-contra-reino-unido-para-impedir-acesso-do-governo-a-dados-de-usuarios.ghtml",
-      "date": "Mon, 03 Aug 2026 18:13:24 -0000"
-    },
-    {
-      "title": "\u0027Bondades\u0027 de Lula superam R$ 280 bilh\u00F5es e se aproximam de pacote de Bolsonaro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/03/bondades-de-lula-superam-r-280-bilhoes-e-se-aproximam-de-pacote-de-bolsonaro.ghtml",
-      "date": "Mon, 03 Aug 2026 17:30:39 -0000"
     }
   ]
 }
