@@ -2,62 +2,80 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 178000.23,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 178564.86,
+      "change": 0.32,
+      "changeStr": "\u002B0.32%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.05,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 42.56,
+      "change": -1.14,
+      "changeStr": "-1.14%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.64,
-      "change": -2.15,
-      "changeStr": "-2.15%"
+      "price": 76.19,
+      "change": 2.08,
+      "changeStr": "\u002B2.08%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.17,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 43.05,
+      "change": -0.28,
+      "changeStr": "-0.28%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.55,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 18.44,
+      "change": -0.59,
+      "changeStr": "-0.59%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.27,
-      "change": -0.37,
-      "changeStr": "-0.37%"
+      "price": 21.4,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.16,
-      "change": 2.58,
-      "changeStr": "\u002B2.58%"
+      "price": 5.14,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.77,
-      "change": -1.38,
-      "changeStr": "-1.38%"
+      "price": 15.81,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.2,
-      "change": 2.12,
-      "changeStr": "\u002B2.12%"
+      "price": 48.97,
+      "change": 1.6,
+      "changeStr": "\u002B1.60%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar abre em queda, com dados de emprego dos EUA no foco",
+      "title": "BNDES aprova financiamento de at\u00E9 R$ 3,7 bilh\u00F5es para exporta\u00E7\u00E3o de avi\u00F5es da Embraer ao Canad\u00E1",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/04/bndes-aprova-financiamento-de-ate-r-37-bilhoes-para-exportacao-de-avioes-da-embraer-ao-canada.ghtml",
+      "date": "Tue, 04 Aug 2026 14:09:00 -0000"
+    },
+    {
+      "title": "EXCLUSIVO: g1 j\u00E1 testou o novo BYD Song Pro flex, vendido por R$ 199.990",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/04/byd-song-pro-flex.ghtml",
+      "date": "Tue, 04 Aug 2026 13:38:09 -0000"
+    },
+    {
+      "title": "Ap\u00F3s pol\u00EAmica no caso Master, Lula escolhe servidor de carreira para diretoria da CVM",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/04/caso-master-otto-lobo-lula-indica-antonio-berwanger-diretoria-cvm.ghtml",
+      "date": "Tue, 04 Aug 2026 12:15:33 -0000"
+    },
+    {
+      "title": "D\u00F3lar e Ibovespa operam em alta, com dados dos EUA e redu\u00E7\u00E3o das tens\u00F5es no Oriente M\u00E9dio",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/04/dolar-ibovespa.ghtml",
       "date": "Tue, 04 Aug 2026 12:01:05 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/04/mega-sena-pode-pagar-premio-de-r-135-milhoes-nesta-terca-feira-acompanhe-ao-vivo.ghtml",
       "date": "Tue, 04 Aug 2026 03:00:43 -0000"
-    },
-    {
-      "title": "Enel SP: \u00C1rea t\u00E9cnica da Aneel rejeita pedido de per\u00EDcia e defende manter processo para encerrar concess\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/03/enel-sp-area-tecnica-da-aneel-rejeita-pedido-de-pericia-e-defende-manter-processo-para-encerrar-concessao.ghtml",
-      "date": "Tue, 04 Aug 2026 00:15:14 -0000"
-    },
-    {
-      "title": "TikTok faz acordo em tr\u00EAs processos sobre v\u00EDcio em redes sociais entre jovens antes de julgamento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/03/tiktok-faz-acordo-em-tres-processos-sobre-vicio-em-redes-sociais-entre-jovens-antes-de-julgamento.ghtml",
-      "date": "Mon, 03 Aug 2026 22:37:50 -0000"
-    },
-    {
-      "title": "25 estados americanos entram na Justi\u00E7a contra novas tarifas impostas por Trump",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/03/25-estados-americanos-entram-na-justica-contra-novas-tarifas-impostas-por-trump.ghtml",
-      "date": "Mon, 03 Aug 2026 19:13:01 -0000"
     }
   ]
 }
