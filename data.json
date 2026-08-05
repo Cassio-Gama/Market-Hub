@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177894.97,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 178788.81,
+      "change": 0.5,
+      "changeStr": "\u002B0.50%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.5,
-      "change": -1.28,
-      "changeStr": "-1.28%"
+      "price": 42.18,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.31,
-      "change": 2.24,
-      "changeStr": "\u002B2.24%"
+      "price": 76.45,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.1,
-      "change": -2.48,
-      "changeStr": "-2.48%"
+      "price": 43.15,
+      "change": 2.49,
+      "changeStr": "\u002B2.49%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.22,
-      "change": -1.78,
-      "changeStr": "-1.78%"
+      "price": 18.33,
+      "change": 0.7,
+      "changeStr": "\u002B0.70%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.99,
-      "change": -1.32,
-      "changeStr": "-1.32%"
+      "price": 21.17,
+      "change": 0.86,
+      "changeStr": "\u002B0.86%"
     },
     {
       "symbol": "MGLU3",
       "price": 4.92,
-      "change": -4.65,
-      "changeStr": "-4.65%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.87,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
+      "price": 15.85,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.17,
-      "change": 2.01,
-      "changeStr": "\u002B2.01%"
+      "price": 49.71,
+      "change": 1.1,
+      "changeStr": "\u002B1.10%"
     }
   ],
   "news": [
+    {
+      "title": "Produ\u00E7\u00E3o de carne bovina do Brasil deve cair em 2026 em meio a tarifas, barreiras comerciais e incertezas no mercado global",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/05/producao-de-carne-bovina-do-brasil-deve-cair-em-2026-em-meio-a-tarifas-barreiras-comerciais-e-incertezas-no-mercado-global.ghtml",
+      "date": "Wed, 05 Aug 2026 13:53:12 -0000"
+    },
+    {
+      "title": "Fran\u00E7a condena dois streamers ap\u00F3s morte de influenciador durante transmiss\u00E3o ao vivo; relembre o caso",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/05/franca-condena-dois-streamers-apos-morte-de-influenciador-durante-transmissao-ao-vivo-relembre-o-caso.ghtml",
+      "date": "Wed, 05 Aug 2026 12:50:07 -0000"
+    },
+    {
+      "title": "IA da Anthropic cria identidades falsas para enganar humanos em novo teste de seguran\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/05/ia-da-anthropic-cria-identidades-falsas-para-enganar-humanos-em-novo-teste-de-seguranca.ghtml",
+      "date": "Wed, 05 Aug 2026 12:29:08 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre em queda, \u00E0 espera da nova decis\u00E3o de juros do BC e de olho no Oriente M\u00E9dio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/05/dolar-ibovespa.ghtml",
+      "date": "Wed, 05 Aug 2026 12:00:08 -0000"
+    },
     {
       "title": "Allian\u00E7a Sa\u00FAde protocola plano de recupera\u00E7\u00E3o extrajudicial para renegociar R$ 1,1 bilh\u00E3o em d\u00EDvidas",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/08/05/comida-comum-negocios-milionarios.ghtml",
       "date": "Wed, 05 Aug 2026 06:00:08 -0000"
-    },
-    {
-      "title": "Ap\u00F3s tr\u00E9gua nos pre\u00E7os, azeite volta a ser amea\u00E7ado por calor extremo e inc\u00EAndios na Europa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/05/apos-tregua-nos-precos-azeite-volta-a-ser-ameacado-por-calor-extremo-e-incendios-na-europa.ghtml",
-      "date": "Wed, 05 Aug 2026 05:00:10 -0000"
-    },
-    {
-      "title": "Veto da UE atinge carne e mel brasileiros enquanto ganhavam espa\u00E7o no mercado europeu",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/05/veto-da-ue-atinge-carne-e-mel-brasileiros-enquanto-ganhavam-espaco-no-mercado-europeu.ghtml",
-      "date": "Wed, 05 Aug 2026 05:00:08 -0000"
-    },
-    {
-      "title": "O sobe e desce das a\u00E7\u00F5es: por que a bolsa \u00E9 uma aposta no futuro \u2014 e n\u00E3o um retrato do presente",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/08/05/como-o-mercado-financeiro-reage-as-noticias.ghtml",
-      "date": "Wed, 05 Aug 2026 04:00:08 -0000"
-    },
-    {
-      "title": "Banco Central deve cortar juro b\u00E1sico da economia pela 4\u00BA vez seguida, para 14% ao ano ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/05/banco-central-deve-cortar-juro-basico-da-economia-pela-4o-vez-seguida-para-14percent-ao-ano.ghtml",
-      "date": "Wed, 05 Aug 2026 03:00:39 -0000"
     }
   ]
 }
