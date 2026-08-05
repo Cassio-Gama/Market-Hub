@@ -2,57 +2,57 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 178219.36,
-      "change": 0.18,
-      "changeStr": "\u002B0.18%"
+      "price": 178029.05,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.06,
-      "change": -1.04,
-      "changeStr": "-1.04%"
+      "price": 41.89,
+      "change": -1.44,
+      "changeStr": "-1.44%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.18,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 76.65,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.99,
-      "change": 2.11,
-      "changeStr": "\u002B2.11%"
+      "price": 42.77,
+      "change": 1.59,
+      "changeStr": "\u002B1.59%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.17,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 18.08,
+      "change": -0.67,
+      "changeStr": "-0.67%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.13,
-      "change": 0.67,
-      "changeStr": "\u002B0.67%"
+      "price": 21.07,
+      "change": 0.38,
+      "changeStr": "\u002B0.38%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.81,
-      "change": -2.24,
-      "changeStr": "-2.24%"
+      "price": 4.79,
+      "change": -2.64,
+      "changeStr": "-2.64%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.81,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 15.83,
+      "change": -0.25,
+      "changeStr": "-0.25%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.22,
-      "change": 0.1,
-      "changeStr": "\u002B0.10%"
+      "price": 48.91,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     }
   ],
   "news": [
@@ -81,7 +81,7 @@
       "date": "Wed, 05 Aug 2026 12:29:08 -0000"
     },
     {
-      "title": "D\u00F3lar abre em queda, \u00E0 espera da nova decis\u00E3o de juros do BC e de olho no Oriente M\u00E9dio",
+      "title": "D\u00F3lar opera em queda, com nova decis\u00E3o de juros do BC e elei\u00E7\u00F5es no radar; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/05/dolar-ibovespa.ghtml",
       "date": "Wed, 05 Aug 2026 12:00:08 -0000"
