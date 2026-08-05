@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 178029.05,
-      "change": 0.08,
-      "changeStr": "\u002B0.08%"
+      "price": 177726.17,
+      "change": -0.09,
+      "changeStr": "-0.09%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.89,
-      "change": -1.44,
-      "changeStr": "-1.44%"
+      "price": 41.93,
+      "change": -1.34,
+      "changeStr": "-1.34%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.65,
-      "change": 0.45,
-      "changeStr": "\u002B0.45%"
+      "price": 76.66,
+      "change": 0.46,
+      "changeStr": "\u002B0.46%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.77,
-      "change": 1.59,
-      "changeStr": "\u002B1.59%"
+      "price": 42.38,
+      "change": 0.67,
+      "changeStr": "\u002B0.67%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.08,
-      "change": -0.67,
-      "changeStr": "-0.67%"
+      "price": 18.05,
+      "change": -0.83,
+      "changeStr": "-0.83%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.07,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 21.05,
+      "change": 0.29,
+      "changeStr": "\u002B0.29%"
     },
     {
       "symbol": "MGLU3",
@@ -44,15 +44,15 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 15.83,
-      "change": -0.25,
-      "changeStr": "-0.25%"
+      "price": 15.84,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.91,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 48.8,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     }
   ],
   "news": [
@@ -81,7 +81,7 @@
       "date": "Wed, 05 Aug 2026 12:29:08 -0000"
     },
     {
-      "title": "D\u00F3lar opera em queda, com nova decis\u00E3o de juros do BC e elei\u00E7\u00F5es no radar; Ibovespa sobe",
+      "title": "D\u00F3lar cai e fecha a R$ 5,12, em dia de nova decis\u00E3o de juros e com elei\u00E7\u00F5es no radar; Ibovespa recua",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/05/dolar-ibovespa.ghtml",
       "date": "Wed, 05 Aug 2026 12:00:08 -0000"
