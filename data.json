@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177726.17,
-      "change": -0.09,
-      "changeStr": "-0.09%"
+      "price": 176840.73,
+      "change": -0.5,
+      "changeStr": "-0.50%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.93,
-      "change": -1.34,
-      "changeStr": "-1.34%"
+      "price": 42.18,
+      "change": 0.6,
+      "changeStr": "\u002B0.60%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.66,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 75.92,
+      "change": -0.97,
+      "changeStr": "-0.97%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.38,
-      "change": 0.67,
-      "changeStr": "\u002B0.67%"
+      "price": 42.64,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.05,
-      "change": -0.83,
-      "changeStr": "-0.83%"
+      "price": 17.79,
+      "change": -1.44,
+      "changeStr": "-1.44%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.05,
-      "change": 0.29,
-      "changeStr": "\u002B0.29%"
+      "price": 20.65,
+      "change": -1.9,
+      "changeStr": "-1.90%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.79,
-      "change": -2.64,
-      "changeStr": "-2.64%"
+      "price": 4.7,
+      "change": -1.88,
+      "changeStr": "-1.88%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.84,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "price": 15.72,
+      "change": -0.76,
+      "changeStr": "-0.76%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.8,
-      "change": -0.75,
-      "changeStr": "-0.75%"
+      "price": 48.59,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     }
   ],
   "news": [
+    {
+      "title": "Aliados de Trump e democratas criticam resposta da Casa Branca ap\u00F3s ataques de IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/06/aliados-de-trump-e-democratas-criticam-resposta-da-casa-branca-apos-ataques-de-ia.ghtml",
+      "date": "Thu, 06 Aug 2026 14:21:27 -0000"
+    },
+    {
+      "title": "Durigan admite preocupa\u00E7\u00E3o com trajet\u00F3ria da d\u00EDvida e fala em redu\u00E7\u00E3o de benef\u00EDcios e controle de gastos para melhorar contas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/06/durigan-admite-preocupacao-com-trajetoria-da-divida-e-fala-em-reducao-de-beneficios-e-controle-de-gastos-para-melhorar-contas.ghtml",
+      "date": "Thu, 06 Aug 2026 14:13:29 -0000"
+    },
+    {
+      "title": "Presidente do Ita\u00FA v\u00EA calotes em alta enquanto taxas seguirem elevadas: \u0027N\u00E3o h\u00E1 quem defenda juros nesse patamar\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/06/presidente-do-itau.ghtml",
+      "date": "Thu, 06 Aug 2026 13:41:41 -0000"
+    },
+    {
+      "title": "Bets tiraram R$ 62,5 bilh\u00F5es das fam\u00EDlias brasileiras em 2025, aponta estudo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/06/bets-tiraram-r-625-bilhoes-das-familias-brasileiras-em-2025-aponta-estudo.ghtml",
+      "date": "Thu, 06 Aug 2026 13:19:54 -0000"
+    },
+    {
+      "title": "Meta lan\u00E7a IA para programa\u00E7\u00E3o, buscando competir com OpenAI e Anthropic",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/06/meta-lanca-ia-para-programacao-buscando-competir-com-openai-e-anthropic.ghtml",
+      "date": "Thu, 06 Aug 2026 12:34:22 -0000"
+    },
+    {
+      "title": "D\u00F3lar e Ibovespa operam em queda ap\u00F3s Copom reduzir juros ao menor patamar desde mar\u00E7o de 2025",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/06/dolar-ibovespa.ghtml",
+      "date": "Thu, 06 Aug 2026 12:00:08 -0000"
+    },
     {
       "title": "Comit\u00EA dos estados estima futuro imposto sobre o consumo brasileiro de 28% em 2033; taxa supera a dos pa\u00EDses da OCDE",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/06/amizade-no-trabalho-ajuda-ou-atrapalha-a-carreira-especialistas-explicam-onde-esta-o-limite.ghtml",
       "date": "Thu, 06 Aug 2026 06:00:19 -0000"
-    },
-    {
-      "title": "STF amplia isen\u00E7\u00E3o de impostos para compra de carro por pessoas com autismo e defici\u00EAncia; veja quem tem direito",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/06/stf-amplia-isencao-de-impostos-para-compra-de-carro-por-pessoas-com-autismo-e-deficiencia.ghtml",
-      "date": "Thu, 06 Aug 2026 06:00:17 -0000"
-    },
-    {
-      "title": "Concurso da Dataprev: inscri\u00E7\u00F5es para 1,8 mil vagas terminam nesta quinta; sal\u00E1rios chegam a R$ 10,6 mil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/08/06/concurso-dataprev-inscricoes-terminam-nesta-quinta.ghtml",
-      "date": "Thu, 06 Aug 2026 03:01:05 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 150 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/06/mega-sena-pode-pagar-r-150-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 06 Aug 2026 03:00:57 -0000"
-    },
-    {
-      "title": "Fux marca nova audi\u00EAncia no STF sobre empr\u00E9stimo bilion\u00E1rio para o BRB; cr\u00E9dito segue travado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/05/fux-marca-nova-audiencia-no-stf-para-tentar-destravar-emprestimo-bilionario-para-o-brb.ghtml",
-      "date": "Thu, 06 Aug 2026 00:01:30 -0000"
-    },
-    {
-      "title": "Meta diz que sua IA tamb\u00E9m fez ataque hacker a outra empresa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/05/ia-da-meta-tambem-fez-ataque-hacker-a-empresa-diz-site.ghtml",
-      "date": "Wed, 05 Aug 2026 23:30:26 -0000"
-    },
-    {
-      "title": "O que \u00E9 a taxa Selic \u2014 e como ela afeta juros, emprego e investimentos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/08/05/o-que-e-a-taxa-selic.ghtml",
-      "date": "Wed, 05 Aug 2026 21:53:51 -0000"
     }
   ]
 }
