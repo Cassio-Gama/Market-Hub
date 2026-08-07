@@ -1,6 +1,73 @@
 {
-  "slider": [],
+  "slider": [
+    {
+      "symbol": "^BVSP",
+      "price": 172912.52,
+      "change": -1.5,
+      "changeStr": "-1.50%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 41.48,
+      "change": -1.54,
+      "changeStr": "-1.54%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 75.24,
+      "change": -0.2,
+      "changeStr": "-0.20%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 41.16,
+      "change": -1.6,
+      "changeStr": "-1.60%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 17.48,
+      "change": -1.24,
+      "changeStr": "-1.24%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 19.98,
+      "change": -1.48,
+      "changeStr": "-1.48%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 4.24,
+      "change": -7.22,
+      "changeStr": "-7.22%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 15.5,
+      "change": -1.02,
+      "changeStr": "-1.02%"
+    },
+    {
+      "symbol": "WEGE3",
+      "price": 47.84,
+      "change": -1.16,
+      "changeStr": "-1.16%"
+    }
+  ],
   "news": [
+    {
+      "title": "Modelo de IA chin\u00EAs encontra brecha em teste de seguran\u00E7a e escapa de ambiente isolado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/07/modelo-de-ia-chines-encontra-brecha-em-teste-de-seguranca-e-escapa-de-ambiente-isolado.ghtml",
+      "date": "Fri, 07 Aug 2026 15:38:36 -0000"
+    },
+    {
+      "title": "Trump diz que Congresso dos EUA quer regulamentar a IA \u0022at\u00E9 acabar com ela\u0022",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/07/trump-diz-que-congresso-quer-regulamentar-setor-de-ia-a-ponto-de-inviabiliza-lo.ghtml",
+      "date": "Fri, 07 Aug 2026 15:21:45 -0000"
+    },
     {
       "title": "Importa\u00E7\u00E3o de carros chineses dobra no Brasil enquanto exporta\u00E7\u00F5es recuam 20,8%",
       "source": "G1 Economia",
@@ -8,7 +75,7 @@
       "date": "Fri, 07 Aug 2026 14:01:02 -0000"
     },
     {
-      "title": "EXCLUSIVO: Governo monta acordo para levar modelo de concurso unificado a estados e munic\u00EDpios",
+      "title": "EXCLUSIVO: Governo monta acordo para levar modelo do CNU a estados e munic\u00EDpios",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/08/07/exclusiva-governo-acordo-modelo-cnu-estados.ghtml",
       "date": "Fri, 07 Aug 2026 13:29:13 -0000"
@@ -48,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/07/meta-e-condenada-a-pagar-r-29-bilhoes-para-estado-dos-eua-por-caso-envolvendo-menores-nas-redes.ghtml",
       "date": "Fri, 07 Aug 2026 10:54:24 -0000"
-    },
-    {
-      "title": "INFOGR\u00C1FICO mostra como o tarifa\u00E7o mudou o mapa das exporta\u00E7\u00F5es brasileiras aos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/07/infografico-mostra-como-o-tarifaco-mudou-o-mapa-das-exportacoes-brasileiras-aos-eua.ghtml",
-      "date": "Fri, 07 Aug 2026 08:04:39 -0000"
-    },
-    {
-      "title": "Voc\u00EA sabe separar amizade e trabalho? Fa\u00E7a o QUIZ e descubra",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/07/voce-sabe-separar-amizade-e-trabalho-faca-o-quiz-e-descubra.ghtml",
-      "date": "Fri, 07 Aug 2026 07:01:50 -0000"
     }
   ]
 }
