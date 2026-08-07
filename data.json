@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175546.36,
-      "change": -1.23,
-      "changeStr": "-1.23%"
+      "price": 175698.1,
+      "change": 0.09,
+      "changeStr": "\u002B0.09%"
     },
     {
       "symbol": "PETR4",
@@ -57,6 +57,24 @@
   ],
   "news": [
     {
+      "title": "Embrapa lan\u00E7a nova cultivar de braqui\u00E1ria com potencial de aumentar ganho de peso bovino por hectare",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/07/embrapa-lanca-nova-cultivar-braquiaria-com-potencial-para-elevar-ganho-de-peso-bovino-por-hectare.ghtml",
+      "date": "Fri, 07 Aug 2026 12:51:38 -0000"
+    },
+    {
+      "title": "JBS anuncia investimento de US$ 5 bilh\u00F5es para expandir neg\u00F3cios na \u00C1sia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/07/jbs-anuncia-investimento-de-us-5-bilhoes-para-expandir-negocios-na-asia.ghtml",
+      "date": "Fri, 07 Aug 2026 12:02:20 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre em queda, de olho em novos dados de emprego dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/07/dolar-ibovespa.ghtml",
+      "date": "Fri, 07 Aug 2026 12:00:26 -0000"
+    },
+    {
       "title": "WhatsApp deixar\u00E1 de funcionar em celulares antigos em setembro; veja se o seu ser\u00E1 afetado",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/07/whatsapp-deixara-de-funcionar-em-celulares-antigos-em-setembro-veja-se-o-seu-sera-afetado.ghtml",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/07/el-nino-governo-decide-reduzir-geracao-de-hidreletricas-para-enfrentar-fenomeno-climatico.ghtml",
       "date": "Fri, 07 Aug 2026 03:00:49 -0000"
-    },
-    {
-      "title": "Concurso 3041 da Mega-Sena acumula e vai a R$ 165 milh\u00F5es; veja os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/06/mega-sena-concurso-3041-confira-os-numeros-sorteados.ghtml",
-      "date": "Fri, 07 Aug 2026 00:03:28 -0000"
-    },
-    {
-      "title": "Lucro da Petrobras sobe 96,8% no 2\u00BA trimestre, para R$ 52,4 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/06/lucro-petrobras-2o-trimestre.ghtml",
-      "date": "Thu, 06 Aug 2026 23:19:16 -0000"
-    },
-    {
-      "title": "Trump anuncia nova tarifa para proteger ind\u00FAstria de chips e energia solar dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/06/trump-nova-tarifa-materia-prima-semicondutores.ghtml",
-      "date": "Thu, 06 Aug 2026 21:48:46 -0000"
     }
   ]
 }
