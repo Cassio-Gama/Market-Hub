@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172533.34,
-      "change": -1.72,
-      "changeStr": "-1.72%"
+      "price": 172400.38,
+      "change": -1.79,
+      "changeStr": "-1.79%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.12,
-      "change": -2.4,
-      "changeStr": "-2.40%"
+      "price": 41.03,
+      "change": -2.61,
+      "changeStr": "-2.61%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.66,
-      "change": -0.97,
-      "changeStr": "-0.97%"
+      "price": 74.65,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41,
-      "change": -1.98,
-      "changeStr": "-1.98%"
+      "price": 40.87,
+      "change": -2.3,
+      "changeStr": "-2.30%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.42,
-      "change": -1.58,
-      "changeStr": "-1.58%"
+      "price": 17.31,
+      "change": -2.2,
+      "changeStr": "-2.20%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.98,
-      "change": -1.48,
-      "changeStr": "-1.48%"
+      "price": 20.06,
+      "change": -1.08,
+      "changeStr": "-1.08%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.29,
-      "change": -6.13,
-      "changeStr": "-6.13%"
+      "price": 4.35,
+      "change": -4.81,
+      "changeStr": "-4.81%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.53,
-      "change": -0.83,
-      "changeStr": "-0.83%"
+      "price": 15.49,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.9,
-      "change": -1.03,
-      "changeStr": "-1.03%"
+      "price": 47.79,
+      "change": -1.26,
+      "changeStr": "-1.26%"
     }
   ],
   "news": [
+    {
+      "title": "Tive que fazer um botox no meu curr\u00EDculo\u0027: como a IA prejudica mulheres nos processos seletivos de empregos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/07/tive-que-fazer-um-botox-no-meu-curriculo-como-a-ia-prejudica-mulheres-nos-processos-seletivos-de-empregos.ghtml",
+      "date": "Fri, 07 Aug 2026 18:49:19 -0000"
+    },
+    {
+      "title": "Trump retoma tentativa de demitir diretora do Fed Lisa Cook ap\u00F3s derrota na Suprema Corte",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/07/trump-lisa-cook.ghtml",
+      "date": "Fri, 07 Aug 2026 17:50:20 -0000"
+    },
     {
       "title": "Modelo de IA chin\u00EAs encontra brecha em teste de seguran\u00E7a e escapa de ambiente isolado",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/07/whatsapp-deixara-de-funcionar-em-celulares-antigos-em-setembro-veja-se-o-seu-sera-afetado.ghtml",
       "date": "Fri, 07 Aug 2026 11:11:00 -0000"
-    },
-    {
-      "title": "Como criar galinhas poedeiras e frangos caipiras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/07/como-criar-galinhas-poedeiras-e-frangos-caipiras.ghtml",
-      "date": "Fri, 07 Aug 2026 11:06:13 -0000"
-    },
-    {
-      "title": "Meta \u00E9 condenada a pagar R$ 2,9 bilh\u00F5es para estado dos EUA por caso envolvendo menores nas redes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/07/meta-e-condenada-a-pagar-r-29-bilhoes-para-estado-dos-eua-por-caso-envolvendo-menores-nas-redes.ghtml",
-      "date": "Fri, 07 Aug 2026 10:54:24 -0000"
     }
   ]
 }
