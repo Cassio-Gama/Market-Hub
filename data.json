@@ -1,61 +1,18 @@
 {
-  "slider": [
-    {
-      "symbol": "^BVSP",
-      "price": 175698.1,
-      "change": 0.09,
-      "changeStr": "\u002B0.09%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 42.13,
-      "change": 0.48,
-      "changeStr": "\u002B0.48%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 75.39,
-      "change": -1.66,
-      "changeStr": "-1.66%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 41.83,
-      "change": -1.3,
-      "changeStr": "-1.30%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 17.7,
-      "change": -1.94,
-      "changeStr": "-1.94%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 20.28,
-      "change": -3.66,
-      "changeStr": "-3.66%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 4.57,
-      "change": -4.59,
-      "changeStr": "-4.59%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 15.66,
-      "change": -1.14,
-      "changeStr": "-1.14%"
-    },
-    {
-      "symbol": "WEGE3",
-      "price": 48.4,
-      "change": -0.82,
-      "changeStr": "-0.82%"
-    }
-  ],
+  "slider": [],
   "news": [
+    {
+      "title": "Importa\u00E7\u00E3o de carros chineses dobra no Brasil enquanto exporta\u00E7\u00F5es recuam 20,8%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/07/importacao-de-carros-chineses-dobra-no-brasil.ghtml",
+      "date": "Fri, 07 Aug 2026 14:01:02 -0000"
+    },
+    {
+      "title": "EXCLUSIVO: Governo monta acordo para levar modelo de concurso unificado a estados e munic\u00EDpios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/08/07/exclusiva-governo-acordo-modelo-cnu-estados.ghtml",
+      "date": "Fri, 07 Aug 2026 13:29:13 -0000"
+    },
     {
       "title": "Embrapa lan\u00E7a nova cultivar de braqui\u00E1ria com potencial de aumentar ganho de peso bovino por hectare",
       "source": "G1 Economia",
@@ -69,7 +26,7 @@
       "date": "Fri, 07 Aug 2026 12:02:20 -0000"
     },
     {
-      "title": "D\u00F3lar abre em queda, de olho em novos dados de emprego dos EUA",
+      "title": "D\u00F3lar opera em queda, de olho em novos dados de emprego dos EUA; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/07/dolar-ibovespa.ghtml",
       "date": "Fri, 07 Aug 2026 12:00:26 -0000"
@@ -103,18 +60,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/07/voce-sabe-separar-amizade-e-trabalho-faca-o-quiz-e-descubra.ghtml",
       "date": "Fri, 07 Aug 2026 07:01:50 -0000"
-    },
-    {
-      "title": "Como a cerveja \u00E9 feita? Do l\u00FApulo \u00E0 levedura, veja o caminho da bebida at\u00E9 chegar ao copo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/07/como-a-cerveja-e-feita-do-lupulo-a-levedura-veja-o-caminho-da-bebida-ate-chegar-ao-copo.ghtml",
-      "date": "Fri, 07 Aug 2026 03:00:52 -0000"
-    },
-    {
-      "title": "El Ni\u00F1o: governo decide reduzir gera\u00E7\u00E3o de hidrel\u00E9tricas para enfrentar fen\u00F4meno clim\u00E1tico",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/07/el-nino-governo-decide-reduzir-geracao-de-hidreletricas-para-enfrentar-fenomeno-climatico.ghtml",
-      "date": "Fri, 07 Aug 2026 03:00:49 -0000"
     }
   ]
 }
