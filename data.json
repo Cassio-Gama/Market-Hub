@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176840.73,
-      "change": -0.5,
-      "changeStr": "-0.50%"
+      "price": 175546.36,
+      "change": -1.23,
+      "changeStr": "-1.23%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.18,
-      "change": 0.6,
-      "changeStr": "\u002B0.60%"
+      "price": 42.13,
+      "change": 0.48,
+      "changeStr": "\u002B0.48%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.92,
-      "change": -0.97,
-      "changeStr": "-0.97%"
+      "price": 75.39,
+      "change": -1.66,
+      "changeStr": "-1.66%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.64,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 41.83,
+      "change": -1.3,
+      "changeStr": "-1.30%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.79,
-      "change": -1.44,
-      "changeStr": "-1.44%"
+      "price": 17.7,
+      "change": -1.94,
+      "changeStr": "-1.94%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.65,
-      "change": -1.9,
-      "changeStr": "-1.90%"
+      "price": 20.28,
+      "change": -3.66,
+      "changeStr": "-3.66%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.7,
-      "change": -1.88,
-      "changeStr": "-1.88%"
+      "price": 4.57,
+      "change": -4.59,
+      "changeStr": "-4.59%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.72,
-      "change": -0.76,
-      "changeStr": "-0.76%"
+      "price": 15.66,
+      "change": -1.14,
+      "changeStr": "-1.14%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.59,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 48.4,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     }
   ],
   "news": [
+    {
+      "title": "Mega-Sena, concurso 3041: confira os n\u00FAmeros sorteados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/06/mega-sena-concurso-3041-confira-os-numeros-sorteados.ghtml",
+      "date": "Fri, 07 Aug 2026 00:03:28 -0000"
+    },
+    {
+      "title": "Lucro da Petrobras sobe 96,8% no 2\u00BA trimestre, para R$ 52,4 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/06/lucro-petrobras-2o-trimestre.ghtml",
+      "date": "Thu, 06 Aug 2026 23:19:16 -0000"
+    },
+    {
+      "title": "Trump anuncia nova tarifa para proteger ind\u00FAstria de chips e energia solar dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/06/trump-nova-tarifa-materia-prima-semicondutores.ghtml",
+      "date": "Thu, 06 Aug 2026 21:48:46 -0000"
+    },
+    {
+      "title": "Crise do BRB: Durigan nega \u0027in\u00E9rcia\u0027 da Uni\u00E3o e diz que reclama\u00E7\u00E3o do governo do DF prejudica acordo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/06/durigan-nega-inercia-em-analise-de-emprestimo-para-o-brb-e-diz-que-fala-do-governo-do-df-atrapalha-negociacao.ghtml",
+      "date": "Thu, 06 Aug 2026 21:28:26 -0000"
+    },
+    {
+      "title": "OpenAI prepara aparelho de IA sem tela para rivalizar com celular; pre\u00E7o deve passar de R$ 1,5 mil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/06/openai-prepara-aparelho-de-ia-sem-tela-para-rivalizar-com-celular.ghtml",
+      "date": "Thu, 06 Aug 2026 20:57:41 -0000"
+    },
+    {
+      "title": "Muito caro viajar de avi\u00E3o? Guerra encarece querosene e gera R$ 5,2 bilh\u00F5es de gastos a mais \u00E0s a\u00E9reas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/06/-guerra-encarece-querosene-e-gera-r-52-bilhoes-de-gastos-a-mais-as-aereas.ghtml",
+      "date": "Thu, 06 Aug 2026 20:25:51 -0000"
+    },
+    {
+      "title": "\u0027Efeito China\u0027: ofensiva chinesa traz 7 novas marcas de carros ao Brasil at\u00E9 2028",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/06/efeito-china-ofensiva-chinesa-traz-novas-marcas-de-carros-ao-brasil-ate-2028.ghtml",
+      "date": "Thu, 06 Aug 2026 20:00:20 -0000"
+    },
+    {
+      "title": "Balan\u00E7a comercial tem super\u00E1vit de US$ 7,1 bilh\u00F5es em julho; exporta\u00E7\u00F5es para os EUA caem 5%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/06/balanca-comercial-tem-superavit-de-us-71-bilhoes-em-julho-exportacoes-para-os-eua-caem-5percent.ghtml",
+      "date": "Thu, 06 Aug 2026 18:00:31 -0000"
+    },
+    {
+      "title": "8 em cada 10 fam\u00EDlias brasileiras t\u00EAm d\u00EDvidas; cart\u00E3o de cr\u00E9dito segue como principal vil\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/06/endividamento-das-familias-bate-recorde-pelo-6o-mes-seguido-e-chega-a-82percent-diz-cnc.ghtml",
+      "date": "Thu, 06 Aug 2026 15:41:26 -0000"
+    },
     {
       "title": "Aliados de Trump e democratas criticam resposta da Casa Branca ap\u00F3s ataques de IA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/06/aliados-de-trump-e-democratas-criticam-resposta-da-casa-branca-apos-ataques-de-ia.ghtml",
       "date": "Thu, 06 Aug 2026 14:21:27 -0000"
-    },
-    {
-      "title": "Durigan admite preocupa\u00E7\u00E3o com trajet\u00F3ria da d\u00EDvida e fala em redu\u00E7\u00E3o de benef\u00EDcios e controle de gastos para melhorar contas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/06/durigan-admite-preocupacao-com-trajetoria-da-divida-e-fala-em-reducao-de-beneficios-e-controle-de-gastos-para-melhorar-contas.ghtml",
-      "date": "Thu, 06 Aug 2026 14:13:29 -0000"
-    },
-    {
-      "title": "Presidente do Ita\u00FA v\u00EA calotes em alta enquanto taxas seguirem elevadas: \u0027N\u00E3o h\u00E1 quem defenda juros nesse patamar\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/06/presidente-do-itau.ghtml",
-      "date": "Thu, 06 Aug 2026 13:41:41 -0000"
-    },
-    {
-      "title": "Bets tiraram R$ 62,5 bilh\u00F5es das fam\u00EDlias brasileiras em 2025, aponta estudo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/06/bets-tiraram-r-625-bilhoes-das-familias-brasileiras-em-2025-aponta-estudo.ghtml",
-      "date": "Thu, 06 Aug 2026 13:19:54 -0000"
-    },
-    {
-      "title": "Meta lan\u00E7a IA para programa\u00E7\u00E3o, buscando competir com OpenAI e Anthropic",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/06/meta-lanca-ia-para-programacao-buscando-competir-com-openai-e-anthropic.ghtml",
-      "date": "Thu, 06 Aug 2026 12:34:22 -0000"
-    },
-    {
-      "title": "D\u00F3lar e Ibovespa operam em queda ap\u00F3s Copom reduzir juros ao menor patamar desde mar\u00E7o de 2025",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/06/dolar-ibovespa.ghtml",
-      "date": "Thu, 06 Aug 2026 12:00:08 -0000"
-    },
-    {
-      "title": "Comit\u00EA dos estados estima futuro imposto sobre o consumo brasileiro de 28% em 2033; taxa supera a dos pa\u00EDses da OCDE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/06/comite-dos-estados-estima-futuro-imposto-sobre-o-consumo-brasileiro-de-28percent-em-2033-taxa-supera-a-dos-paises-da-ocde.ghtml",
-      "date": "Thu, 06 Aug 2026 11:36:48 -0000"
-    },
-    {
-      "title": "Reino Unido libera compra da Warner Bros. Discovery pela Paramount; opera\u00E7\u00E3o ainda enfrenta batalha judicial nos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/06/reino-unido-libera-compra-da-warner-bros-discovery-pela-paramount-operacao-ainda-enfrenta-batalha-judicial-nos-eua.ghtml",
-      "date": "Thu, 06 Aug 2026 11:33:44 -0000"
-    },
-    {
-      "title": "Golpe da antena falsa: criminosos bloqueiam sinal das operadoras para tirar dinheiro de v\u00EDtimas ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/06/golpe-da-antena-falsa-criminosos-bloqueiam-sinal-das-operadoras-para-tirar-dinheiro-de-vitimas.ghtml",
-      "date": "Thu, 06 Aug 2026 08:04:12 -0000"
-    },
-    {
-      "title": "Amizade no trabalho ajuda ou atrapalha a carreira? Especialistas explicam onde est\u00E1 o limite",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/06/amizade-no-trabalho-ajuda-ou-atrapalha-a-carreira-especialistas-explicam-onde-esta-o-limite.ghtml",
-      "date": "Thu, 06 Aug 2026 06:00:19 -0000"
     }
   ]
 }
