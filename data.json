@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172263.1,
-      "change": -0.15,
-      "changeStr": "-0.15%"
+      "price": 172140.73,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.64,
-      "change": 1.88,
-      "changeStr": "\u002B1.88%"
+      "price": 41.84,
+      "change": 2.37,
+      "changeStr": "\u002B2.37%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.72,
-      "change": 1,
-      "changeStr": "\u002B1.00%"
+      "price": 76.03,
+      "change": 1.41,
+      "changeStr": "\u002B1.41%"
     },
     {
       "symbol": "ITUB4",
@@ -26,21 +26,21 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 17.13,
-      "change": -1.04,
-      "changeStr": "-1.04%"
+      "price": 17.14,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.17,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 20.07,
+      "change": 0.05,
+      "changeStr": "\u002B0.05%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.63,
-      "change": 5.23,
-      "changeStr": "\u002B5.23%"
+      "price": 4.57,
+      "change": 3.86,
+      "changeStr": "\u002B3.86%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,24 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 48.01,
-      "change": -0.23,
-      "changeStr": "-0.23%"
+      "price": 47.77,
+      "change": -0.73,
+      "changeStr": "-0.73%"
     }
   ],
   "news": [
+    {
+      "title": "EUA respondem ao Brasil na OMC e dizem que est\u00E3o \u0027\u00E0 disposi\u00E7\u00E3o\u0027 para discutir tarifa\u00E7o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/10/eua-respondem-ao-brasil-na-omc-e-dizem-que-estao-a-disposicao-para-discutir-tarifaco.ghtml",
+      "date": "Mon, 10 Aug 2026 16:21:37 -0000"
+    },
+    {
+      "title": "Tirar Discord do ar, como pediu Janja, n\u00E3o resolve problema e pode empurrar usu\u00E1rios para outros lugares",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/10/tirar-discord-do-ar-como-pediu-janja-nao-resolve-problema-e-pode-empurrar-usuarios-para-outros-lugares.ghtml",
+      "date": "Mon, 10 Aug 2026 16:13:21 -0000"
+    },
     {
       "title": "BC trabalha em PIX internacional, em garantia de cr\u00E9dito e discute uso indevido de mensagens nas transa\u00E7\u00F5es e alerta de golpe",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/10/veja-as-10-profissoes-mais-valorizadas-da-tecnologia.ghtml",
       "date": "Mon, 10 Aug 2026 07:01:07 -0000"
-    },
-    {
-      "title": "\u0027Investimento circular\u0027: como o dinheiro gira entre gigantes de IA e alimenta temor de nova bolha",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/10/investimento-circular-como-o-dinheiro-gira-entre-gigantes-de-ia-e-alimenta-temor-de-nova-bolha.ghtml",
-      "date": "Mon, 10 Aug 2026 06:00:21 -0000"
-    },
-    {
-      "title": "Primeiro a OpenAI, depois a Meta: por que rob\u00F4s de IA continuam fazendo ataques hackers",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/10/primeiro-a-openai-depois-a-meta-por-que-robos-de-ia-continuam-fazendo-ataques-hackers.ghtml",
-      "date": "Mon, 10 Aug 2026 03:00:13 -0000"
     }
   ]
 }
