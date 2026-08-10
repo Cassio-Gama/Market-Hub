@@ -2,51 +2,51 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172429.02,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 172263.1,
+      "change": -0.15,
+      "changeStr": "-0.15%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.33,
-      "change": 1.13,
-      "changeStr": "\u002B1.13%"
+      "price": 41.64,
+      "change": 1.88,
+      "changeStr": "\u002B1.88%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.97,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 75.72,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.75,
-      "change": -2.58,
-      "changeStr": "-2.58%"
+      "price": 40.6,
+      "change": -0.37,
+      "changeStr": "-0.37%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.26,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 17.13,
+      "change": -1.04,
+      "changeStr": "-1.04%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.07,
-      "change": 0.05,
-      "changeStr": "\u002B0.05%"
+      "price": 20.17,
+      "change": 0.55,
+      "changeStr": "\u002B0.55%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.4,
-      "change": -3.72,
-      "changeStr": "-3.72%"
+      "price": 4.63,
+      "change": 5.23,
+      "changeStr": "\u002B5.23%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.45,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "price": 15.33,
+      "change": -0.97,
+      "changeStr": "-0.97%"
     },
     {
       "symbol": "WEGE3",
@@ -57,13 +57,25 @@
   ],
   "news": [
     {
-      "title": "Desenrola Adimplentes come\u00E7a a valer nesta segunda: veja quem pode participar e como funciona",
+      "title": "BC trabalha em PIX internacional, em garantia de cr\u00E9dito e discute uso indevido de mensagens nas transa\u00E7\u00F5es e alerta de golpe",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/pix/noticia/2026/08/10/bc-trabalha-em-pix-internacional-em-garantia-de-credito-e-discute-uso-indevido-de-mensagens-nas-transacoes.ghtml",
+      "date": "Mon, 10 Aug 2026 13:38:37 -0000"
+    },
+    {
+      "title": "Meta, dona do Instagram, enfrenta novo julgamento nos EUA por v\u00EDcio em redes sociais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/10/meta-dona-do-instagram-enfrenta-novo-julgamento-nos-eua-por-vicio-em-redes-sociais.ghtml",
+      "date": "Mon, 10 Aug 2026 13:22:40 -0000"
+    },
+    {
+      "title": "Desenrola Adimplentes come\u00E7a nesta segunda; veja regras e quem pode participar",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/10/desenrola-adimplentes-quem-pode-participar.ghtml",
       "date": "Mon, 10 Aug 2026 12:47:12 -0000"
     },
     {
-      "title": "D\u00F3lar sobe nesta segunda-feira, de olho em alta do petr\u00F3leo",
+      "title": "D\u00F3lar opera em alta, com avan\u00E7o do petr\u00F3leo no radar; Ibovespa oscila",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/10/dolar-ibovespa.ghtml",
       "date": "Mon, 10 Aug 2026 12:00:08 -0000"
@@ -81,7 +93,7 @@
       "date": "Mon, 10 Aug 2026 11:31:55 -0000"
     },
     {
-      "title": "Por reaproxima\u00E7\u00E3o com Lula, Alcolumbre atuou por neutralidade da federa\u00E7\u00E3o Uni\u00E3o-PP em estados-chave",
+      "title": "Por reaproxima\u00E7\u00E3o com Lula, Alcolumbre atuou pela neutralidade da federa\u00E7\u00E3o Uni\u00E3o-PP em estados-chave",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/10/por-reaproximacao-com-lula-alcolumbre-atuou-por-neutralidade-da-federacao-uniao-pp-em-estados-chave.ghtml",
       "date": "Mon, 10 Aug 2026 10:00:13 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/10/primeiro-a-openai-depois-a-meta-por-que-robos-de-ia-continuam-fazendo-ataques-hackers.ghtml",
       "date": "Mon, 10 Aug 2026 03:00:13 -0000"
-    },
-    {
-      "title": "Por que Miami virou a nova capital dos ultrarricos nos EUA (e ficou mais cara at\u00E9 que Nova York)",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/09/por-que-miami-virou-a-nova-capital-dos-ultrarricos-nos-eua-e-ficou-mais-cara-ate-que-nova-york.ghtml",
-      "date": "Sun, 09 Aug 2026 19:19:07 -0000"
-    },
-    {
-      "title": "A volta por cima dos irm\u00E3os Batista: como donos da JBS sa\u00EDram da Lava Jato e voltaram aos holofotes, com participa\u00E7\u00E3o at\u00E9 na diplomacia mundial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/09/a-volta-por-cima-dos-irmaos-batista-como-donos-da-jbs-sairam-da-lava-jato-e-voltaram-aos-holofotes-com-participacao-ate-na-diplomacia-mundial.ghtml",
-      "date": "Sun, 09 Aug 2026 18:48:16 -0000"
     }
   ]
 }
