@@ -1,81 +1,44 @@
 {
-  "slider": [
-    {
-      "symbol": "^BVSP",
-      "price": 172257.12,
-      "change": -0.15,
-      "changeStr": "-0.15%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 42.42,
-      "change": 3.79,
-      "changeStr": "\u002B3.79%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 76.02,
-      "change": 1.4,
-      "changeStr": "\u002B1.40%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 40.48,
-      "change": -0.66,
-      "changeStr": "-0.66%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 17.17,
-      "change": -0.81,
-      "changeStr": "-0.81%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 20.06,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 4.36,
-      "change": -0.91,
-      "changeStr": "-0.91%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 15.33,
-      "change": -0.97,
-      "changeStr": "-0.97%"
-    },
-    {
-      "symbol": "WEGE3",
-      "price": 47.59,
-      "change": -1.1,
-      "changeStr": "-1.10%"
-    }
-  ],
+  "slider": [],
   "news": [
     {
-      "title": "Bilion\u00E1rio brasileiro Eduardo Saverin se junta a Jeff Bezos em cons\u00F3rcio que negocia compra de 30% do Liverpool, diz site",
+      "title": "Quem \u00E9 Wesley Batista Filho, que ser\u00E1 o novo CEO global da JBS",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/10/quem-e-wesley-batista-filho-que-sera-o-novo-ceo-global-da-jbs.ghtml",
+      "date": "Mon, 10 Aug 2026 20:22:43 -0000"
+    },
+    {
+      "title": "JBS anuncia Wesley Batista Filho como novo CEO global a partir de 2027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/10/jbs-wesley-batista-filho-ceo.ghtml",
+      "date": "Mon, 10 Aug 2026 20:16:02 -0000"
+    },
+    {
+      "title": "YouTube dobra exig\u00EAncia de horas de exibi\u00E7\u00E3o para novos criadores come\u00E7arem a ganhar dinheiro com v\u00EDdeos na plataforma",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/10/youtube-dobra-exigencia-de-horas-de-exibicao-para-novos-criadores-comecarem-a-ganhar-dinheiro-com-videos-na-plataforma.ghtml",
+      "date": "Mon, 10 Aug 2026 19:55:30 -0000"
+    },
+    {
+      "title": "Bilion\u00E1rio brasileiro Eduardo Saverin se junta a Jeff Bezos em cons\u00F3rcio que negocia compra de 30% do Liverpool, diz TV",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/10/bilionario-brasileiro-eduardo-saverin-se-junta-a-jeff-bezos-em-consorcio-que-negocia-compra-de-30percent-do-liverpool-diz-site.ghtml",
       "date": "Mon, 10 Aug 2026 17:37:18 -0000"
     },
     {
-      "title": "Trump amplia prazo de regra que facilita transporte de combust\u00EDveis nos EUA",
+      "title": "Trump prorroga suspens\u00E3o de lei centen\u00E1ria para tentar conter pre\u00E7o dos combust\u00EDveis nos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/10/trump-amplia-prazo-de-regra-que-facilita-transporte-de-combustiveis-nos-eua.ghtml",
       "date": "Mon, 10 Aug 2026 17:17:39 -0000"
     },
     {
-      "title": "Nvidia negocia pacote de R$ 2,55 trilh\u00F5es para financiar infraestrutura de IA",
+      "title": "Nvidia negocia com gigantes de Wall Street pacote de US$ 500 bilh\u00F5es para financiar infraestrutura de IA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/10/nvidia-negocia-pacote-de-r-255-trilhoes-para-financiar-infraestrutura-de-ia.ghtml",
       "date": "Mon, 10 Aug 2026 16:58:18 -0000"
     },
     {
-      "title": "EUA respondem ao Brasil na OMC e dizem que est\u00E3o \u0027\u00E0 disposi\u00E7\u00E3o\u0027 para discutir tarifa\u00E7o",
+      "title": "EUA respondem ao Brasil na OMC e dizem estar \u0027\u00E0 disposi\u00E7\u00E3o\u0027 para discutir tarifa\u00E7o",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/10/eua-respondem-ao-brasil-na-omc-e-dizem-que-estao-a-disposicao-para-discutir-tarifaco.ghtml",
       "date": "Mon, 10 Aug 2026 16:21:37 -0000"
@@ -87,7 +50,7 @@
       "date": "Mon, 10 Aug 2026 16:13:21 -0000"
     },
     {
-      "title": "BC trabalha em PIX internacional, em garantia de cr\u00E9dito e discute uso indevido de mensagens nas transa\u00E7\u00F5es e alerta de golpe",
+      "title": "BC trabalha em PIX Internacional e em garantia e prepara novas regras contra golpes e mensagens indevidas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/pix/noticia/2026/08/10/bc-trabalha-em-pix-internacional-em-garantia-de-credito-e-discute-uso-indevido-de-mensagens-nas-transacoes.ghtml",
       "date": "Mon, 10 Aug 2026 13:38:37 -0000"
@@ -97,24 +60,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/10/meta-dona-do-instagram-enfrenta-novo-julgamento-nos-eua-por-vicio-em-redes-sociais.ghtml",
       "date": "Mon, 10 Aug 2026 13:22:40 -0000"
-    },
-    {
-      "title": "Desenrola Adimplentes come\u00E7a nesta segunda; veja regras e quem pode participar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/10/desenrola-adimplentes-quem-pode-participar.ghtml",
-      "date": "Mon, 10 Aug 2026 12:47:12 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta, com avan\u00E7o do petr\u00F3leo no radar; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/10/dolar-ibovespa.ghtml",
-      "date": "Mon, 10 Aug 2026 12:00:08 -0000"
-    },
-    {
-      "title": "Embraer tem receita recorde de R$ 11,3 bilh\u00F5es no 2\u00BA trimestre de 2026 e entrega 65 avi\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/10/embraer-tem-receita-recorde-de-r-113-bilhoes-no-2o-trimestre-de-2026-e-entrega-65-avioes.ghtml",
-      "date": "Mon, 10 Aug 2026 11:49:35 -0000"
     }
   ]
 }
