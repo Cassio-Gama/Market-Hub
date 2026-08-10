@@ -1,6 +1,67 @@
 {
-  "slider": [],
+  "slider": [
+    {
+      "symbol": "^BVSP",
+      "price": 172179.94,
+      "change": -0.19,
+      "changeStr": "-0.19%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 42.23,
+      "change": 3.33,
+      "changeStr": "\u002B3.33%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 75.93,
+      "change": 1.28,
+      "changeStr": "\u002B1.28%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 40.42,
+      "change": -0.81,
+      "changeStr": "-0.81%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 17.18,
+      "change": -0.75,
+      "changeStr": "-0.75%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 20.03,
+      "change": -0.15,
+      "changeStr": "-0.15%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 4.32,
+      "change": -1.82,
+      "changeStr": "-1.82%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 15.27,
+      "change": -1.36,
+      "changeStr": "-1.36%"
+    },
+    {
+      "symbol": "WEGE3",
+      "price": 47.63,
+      "change": -1.02,
+      "changeStr": "-1.02%"
+    }
+  ],
   "news": [
+    {
+      "title": "China pede para entrar em disputa do Brasil contra tarifa\u00E7o dos EUA na OMC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/10/china-pede-para-entrar-em-disputa-do-brasil-contra-tarifaco-dos-eua-na-omc.ghtml",
+      "date": "Mon, 10 Aug 2026 21:32:40 -0000"
+    },
     {
       "title": "Quem \u00E9 Wesley Batista Filho, que ser\u00E1 o novo CEO global da JBS",
       "source": "G1 Economia",
@@ -54,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/pix/noticia/2026/08/10/bc-trabalha-em-pix-internacional-em-garantia-de-credito-e-discute-uso-indevido-de-mensagens-nas-transacoes.ghtml",
       "date": "Mon, 10 Aug 2026 13:38:37 -0000"
-    },
-    {
-      "title": "Meta, dona do Instagram, enfrenta novo julgamento nos EUA por v\u00EDcio em redes sociais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/10/meta-dona-do-instagram-enfrenta-novo-julgamento-nos-eua-por-vicio-em-redes-sociais.ghtml",
-      "date": "Mon, 10 Aug 2026 13:22:40 -0000"
     }
   ]
 }
