@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172140.73,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 172180.25,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.84,
-      "change": 2.37,
-      "changeStr": "\u002B2.37%"
+      "price": 42.13,
+      "change": 3.08,
+      "changeStr": "\u002B3.08%"
     },
     {
       "symbol": "VALE3",
-      "price": 76.03,
-      "change": 1.41,
-      "changeStr": "\u002B1.41%"
+      "price": 75.91,
+      "change": 1.25,
+      "changeStr": "\u002B1.25%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.6,
-      "change": -0.37,
-      "changeStr": "-0.37%"
+      "price": 40.47,
+      "change": -0.69,
+      "changeStr": "-0.69%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.14,
-      "change": -0.98,
-      "changeStr": "-0.98%"
+      "price": 17.25,
+      "change": -0.35,
+      "changeStr": "-0.35%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.07,
-      "change": 0.05,
-      "changeStr": "\u002B0.05%"
+      "price": 20.08,
+      "change": 0.1,
+      "changeStr": "\u002B0.10%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.57,
-      "change": 3.86,
-      "changeStr": "\u002B3.86%"
+      "price": 4.47,
+      "change": 1.59,
+      "changeStr": "\u002B1.59%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.33,
-      "change": -0.97,
-      "changeStr": "-0.97%"
+      "price": 15.29,
+      "change": -1.23,
+      "changeStr": "-1.23%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.77,
-      "change": -0.73,
-      "changeStr": "-0.73%"
+      "price": 47.62,
+      "change": -1.04,
+      "changeStr": "-1.04%"
     }
   ],
   "news": [
+    {
+      "title": "Bilion\u00E1rio brasileiro Eduardo Saverin se junta a Jeff Bezos em cons\u00F3rcio que negocia compra de 30% do Liverpool, diz site",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/10/bilionario-brasileiro-eduardo-saverin-se-junta-a-jeff-bezos-em-consorcio-que-negocia-compra-de-30percent-do-liverpool-diz-site.ghtml",
+      "date": "Mon, 10 Aug 2026 17:37:18 -0000"
+    },
+    {
+      "title": "Trump amplia prazo de regra que facilita transporte de combust\u00EDveis nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/10/trump-amplia-prazo-de-regra-que-facilita-transporte-de-combustiveis-nos-eua.ghtml",
+      "date": "Mon, 10 Aug 2026 17:17:39 -0000"
+    },
+    {
+      "title": "Nvidia negocia pacote de R$ 2,55 trilh\u00F5es para financiar infraestrutura de IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/10/nvidia-negocia-pacote-de-r-255-trilhoes-para-financiar-infraestrutura-de-ia.ghtml",
+      "date": "Mon, 10 Aug 2026 16:58:18 -0000"
+    },
     {
       "title": "EUA respondem ao Brasil na OMC e dizem que est\u00E3o \u0027\u00E0 disposi\u00E7\u00E3o\u0027 para discutir tarifa\u00E7o",
       "source": "G1 Economia",
@@ -87,7 +105,7 @@
       "date": "Mon, 10 Aug 2026 12:47:12 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta, com avan\u00E7o do petr\u00F3leo no radar; Ibovespa oscila",
+      "title": "D\u00F3lar opera em alta, com avan\u00E7o do petr\u00F3leo no radar; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/10/dolar-ibovespa.ghtml",
       "date": "Mon, 10 Aug 2026 12:00:08 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/10/embraer-tem-receita-recorde-de-r-113-bilhoes-no-2o-trimestre-de-2026-e-entrega-65-avioes.ghtml",
       "date": "Mon, 10 Aug 2026 11:49:35 -0000"
-    },
-    {
-      "title": "Analistas do mercado baixam pela 6\u00AA semana seguida expectativa de infla\u00E7\u00E3o em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/10/analistas-do-mercado-baixam-pela-6a-semana-seguida-expectativa-de-inflacao-em-2026.ghtml",
-      "date": "Mon, 10 Aug 2026 11:31:55 -0000"
-    },
-    {
-      "title": "Por reaproxima\u00E7\u00E3o com Lula, Alcolumbre atuou pela neutralidade da federa\u00E7\u00E3o Uni\u00E3o-PP em estados-chave",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/10/por-reaproximacao-com-lula-alcolumbre-atuou-por-neutralidade-da-federacao-uniao-pp-em-estados-chave.ghtml",
-      "date": "Mon, 10 Aug 2026 10:00:13 -0000"
-    },
-    {
-      "title": "Sal\u00E1rios de at\u00E9 R$ 53 mil e falta de profissionais: veja as 10 profiss\u00F5es mais valorizadas da tecnologia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/10/veja-as-10-profissoes-mais-valorizadas-da-tecnologia.ghtml",
-      "date": "Mon, 10 Aug 2026 07:01:07 -0000"
     }
   ]
 }
