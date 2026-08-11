@@ -3,26 +3,26 @@
     {
       "symbol": "^BVSP",
       "price": 172179.94,
-      "change": -0.19,
-      "changeStr": "-0.19%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.23,
-      "change": 3.33,
-      "changeStr": "\u002B3.33%"
+      "price": 42.42,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.93,
-      "change": 1.28,
-      "changeStr": "\u002B1.28%"
+      "price": 76.23,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.42,
-      "change": -0.81,
-      "changeStr": "-0.81%"
+      "price": 40.45,
+      "change": 0.07,
+      "changeStr": "\u002B0.07%"
     },
     {
       "symbol": "BBDC4",
@@ -32,15 +32,15 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 20.03,
-      "change": -0.15,
-      "changeStr": "-0.15%"
+      "price": 19.99,
+      "change": -0.2,
+      "changeStr": "-0.20%"
     },
     {
       "symbol": "MGLU3",
       "price": 4.32,
-      "change": -1.82,
-      "changeStr": "-1.82%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,54 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 47.63,
-      "change": -1.02,
-      "changeStr": "-1.02%"
+      "price": 47.52,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     }
   ],
   "news": [
+    {
+      "title": "Depois do foie gras, quais pr\u00E1ticas de cria\u00E7\u00E3o e abate de animais podem ser proibidas?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/depois-do-foie-gras-quais-praticas-de-criacao-e-abate-de-animais-podem-ser-proibidas.ghtml",
+      "date": "Tue, 11 Aug 2026 12:39:19 -0000"
+    },
+    {
+      "title": "Pre\u00E7o dos alimentos: o que ficou mais caro e o que barateou em julho",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-em-julho.ghtml",
+      "date": "Tue, 11 Aug 2026 12:01:23 -0000"
+    },
+    {
+      "title": "IPCA: Infla\u00E7\u00E3o desacelera para 0,07% em julho com queda nos pre\u00E7os dos alimentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/ipca-inflacao-julho.ghtml",
+      "date": "Tue, 11 Aug 2026 12:00:40 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre em queda, de olho em infla\u00E7\u00E3o e ata do Copom",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/dolar-ibovespa.ghtml",
+      "date": "Tue, 11 Aug 2026 12:00:09 -0000"
+    },
+    {
+      "title": "Brics discutem integra\u00E7\u00E3o de sistemas de pagamento e moedas digitais, diz presidente do BC da \u00CDndia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/brics-discutem-integracao-de-sistemas-de-pagamento-e-moedas-digitais-diz-presidente-do-bc-da-india.ghtml",
+      "date": "Tue, 11 Aug 2026 11:54:20 -0000"
+    },
+    {
+      "title": "Ford do Brasil adianta a inspe\u00E7\u00E3o por recall de 1.371 unidades do Mustang",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/11/ford-do-brasil-adianta-recall-do-mustang.ghtml",
+      "date": "Tue, 11 Aug 2026 11:48:58 -0000"
+    },
+    {
+      "title": "\u0027Dinheiro esquecido\u0027: BC atualiza balan\u00E7o e diz que R$ 5,1 bilh\u00F5es podem ser resgatados; 22,66 milh\u00F5es de pessoas t\u00EAm direito",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/dinheiro-esquecido-bc-atualiza-balanco-e-diz-que-r-51-bilhoes-podem-ser-resgatados-2266-milhoes-de-pessoas-tem-direito.ghtml",
+      "date": "Tue, 11 Aug 2026 11:48:30 -0000"
+    },
     {
       "title": "Noruega tamb\u00E9m vai deixar de comprar carne do Brasil a partir de setembro ap\u00F3s decis\u00E3o da UE",
       "source": "G1 Economia",
@@ -69,52 +111,10 @@
       "date": "Tue, 11 Aug 2026 11:15:57 -0000"
     },
     {
-      "title": "BC v\u00EA infla\u00E7\u00E3o desacelerando, mas aponta press\u00E3o do petr\u00F3leo e de gastos p\u00FAblicos; porta fica aberta na pr\u00F3xima reuni\u00E3o",
+      "title": "BC v\u00EA infla\u00E7\u00E3o desacelerando, mas aponta press\u00E3o do petr\u00F3leo e de gastos p\u00FAblicos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/11/bc-ve-inflacao-desacelerando-mas-ve-pressao-do-petroleo-e-de-gastos-publicos-porta-fica-aberta-para-proxima-decisao.ghtml",
       "date": "Tue, 11 Aug 2026 11:07:29 -0000"
-    },
-    {
-      "title": "Governo define datas para recesso no Natal e no Ano Novo; veja regras ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/governo-define-datas-para-recesso-no-natal-e-no-ano-novo-veja-regras.ghtml",
-      "date": "Tue, 11 Aug 2026 10:44:05 -0000"
-    },
-    {
-      "title": "ECA Digital: redes sociais dever\u00E3o abrir dados sobre den\u00FAncias de viola\u00E7\u00F5es contra menores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/11/eca-digital-redes-sociais-deverao-abrir-dados-sobre-denuncias-de-violacoes-contra-menores.ghtml",
-      "date": "Tue, 11 Aug 2026 10:36:16 -0000"
-    },
-    {
-      "title": "Sucess\u00E3o na JBS marca volta da fam\u00EDlia Batista ao comando, diz Financial Times",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/sucessao-na-jbs-marca-volta-da-familia-batista-ao-comando-diz-financial-times.ghtml",
-      "date": "Tue, 11 Aug 2026 10:18:23 -0000"
-    },
-    {
-      "title": "Crise na Apex: posso perder dinheiro? Entenda o que se sabe sobre d\u00EDvida de quase R$ 1 bi e o impacto para clientes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/11/crise-na-apex-posso-perder-dinheiro-entenda-o-que-se-sabe-sobre-divida-de-quase-r-1-bi-e-o-impacto-para-clientes.ghtml",
-      "date": "Tue, 11 Aug 2026 07:01:18 -0000"
-    },
-    {
-      "title": "\u0027Golpe das tarefas\u0027: veja como uma falsa vaga de home office fez uma trabalhadora perder R$ 1,2 mil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/golpe-das-tarefas-veja-como-uma-falsa-vaga-de-home-office-fez-uma-trabalhadora-perder-r-12-mil.ghtml",
-      "date": "Tue, 11 Aug 2026 05:00:13 -0000"
-    },
-    {
-      "title": "Investimento em saneamento b\u00E1sico bate recorde em 2024, mas Brasil ainda enfrenta desafios para universalizar acesso, diz entidade",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/11/investimento-em-saneamento-basico-bate-recorde-em-2024-mas-brasil-ainda-enfrenta-desafios-para-universalizar-acesso-diz-entidade.ghtml",
-      "date": "Tue, 11 Aug 2026 03:00:38 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar pr\u00EAmio de R$ 3,5 milh\u00F5es nesta ter\u00E7a-feira; acompanhe ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/11/mega-sena-pode-pagar-premio-de-r-35-milhoes-nesta-terca-feira-acompanhe-ao-vivo.ghtml",
-      "date": "Tue, 11 Aug 2026 03:00:34 -0000"
     }
   ]
 }
