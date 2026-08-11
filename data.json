@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170242.34,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 168670.19,
+      "change": -2.04,
+      "changeStr": "-2.04%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.66,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 41.35,
+      "change": -2.08,
+      "changeStr": "-2.08%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.68,
-      "change": -0.33,
-      "changeStr": "-0.33%"
+      "price": 74.59,
+      "change": -1.76,
+      "changeStr": "-1.76%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.87,
-      "change": -1.36,
-      "changeStr": "-1.36%"
+      "price": 39.42,
+      "change": -2.47,
+      "changeStr": "-2.47%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.07,
-      "change": -0.64,
-      "changeStr": "-0.64%"
+      "price": 16.9,
+      "change": -1.63,
+      "changeStr": "-1.63%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.78,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 19.54,
+      "change": -2.45,
+      "changeStr": "-2.45%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.37,
-      "change": 1.16,
-      "changeStr": "\u002B1.16%"
+      "price": 4.34,
+      "change": 0.46,
+      "changeStr": "\u002B0.46%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.08,
-      "change": -1.24,
-      "changeStr": "-1.24%"
+      "price": 15.05,
+      "change": -1.44,
+      "changeStr": "-1.44%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.77,
-      "change": 0.29,
-      "changeStr": "\u002B0.29%"
+      "price": 47.17,
+      "change": -0.97,
+      "changeStr": "-0.97%"
     }
   ],
   "news": [
+    {
+      "title": "ApexBrasil anuncia \u0027plano socorro\u0027 para empresas afetadas pelo tarifa\u00E7o; Canad\u00E1, Alemanha e China entram como foco",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/apexbrasil-anuncia-plano-socorro-para-empresas-afetadas-pelo-tarifaco-canada-alemanha-e-china-entram-como-foco.ghtml",
+      "date": "Tue, 11 Aug 2026 16:34:03 -0000"
+    },
+    {
+      "title": "Aux\u00EDlio-doen\u00E7a: veja quem tem direito, como pedir e quais documentos apresentar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/auxilio-doenca-inss.ghtml",
+      "date": "Tue, 11 Aug 2026 16:29:50 -0000"
+    },
+    {
+      "title": "Governo concede subs\u00EDdio a produtores de cana do Nordeste afetados pelo tarifa\u00E7o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/11/governo-concede-subsidio-a-produtores-de-cana-do-nordeste-afetados-pelo-tarifaco.ghtml",
+      "date": "Tue, 11 Aug 2026 16:03:08 -0000"
+    },
+    {
+      "title": "Startup de IA Manus retomar\u00E1 opera\u00E7\u00E3o independente ap\u00F3s sa\u00EDda da Meta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/11/startup-de-ia-manus-meta.ghtml",
+      "date": "Tue, 11 Aug 2026 15:45:10 -0000"
+    },
+    {
+      "title": "Em meio ao tarifa\u00E7o dos EUA, ministro se re\u00FAne com chefe de bloco asi\u00E1tico para ampliar com\u00E9rcio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/11/em-meio-ao-tarifaco-dos-eua-ministro-se-reune-com-chefe-de-grupo-que-reune-paises-asiaticos-em-busca-de-novos-parceiros-comerciais.ghtml",
+      "date": "Tue, 11 Aug 2026 15:05:49 -0000"
+    },
     {
       "title": "Venda de carros cai na China, e marcas chinesas aceleram chegada ao Brasil e a novos mercados",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/depois-do-foie-gras-quais-praticas-de-criacao-e-abate-de-animais-podem-ser-proibidas.ghtml",
       "date": "Tue, 11 Aug 2026 12:39:19 -0000"
-    },
-    {
-      "title": "Pre\u00E7o dos alimentos: o que ficou mais caro e o que barateou em julho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-em-julho.ghtml",
-      "date": "Tue, 11 Aug 2026 12:01:23 -0000"
-    },
-    {
-      "title": "IPCA: Infla\u00E7\u00E3o desacelera para 0,07% em julho com queda nos pre\u00E7os dos alimentos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/11/ipca-inflacao-julho.ghtml",
-      "date": "Tue, 11 Aug 2026 12:00:40 -0000"
-    },
-    {
-      "title": "D\u00F3lar oscila, de olho em infla\u00E7\u00E3o e ata do Copom; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/11/dolar-ibovespa.ghtml",
-      "date": "Tue, 11 Aug 2026 12:00:09 -0000"
-    },
-    {
-      "title": "Brics discutem integra\u00E7\u00E3o de sistemas de pagamento e moedas digitais, diz presidente do BC da \u00CDndia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/11/brics-discutem-integracao-de-sistemas-de-pagamento-e-moedas-digitais-diz-presidente-do-bc-da-india.ghtml",
-      "date": "Tue, 11 Aug 2026 11:54:20 -0000"
-    },
-    {
-      "title": "Ford do Brasil adianta a inspe\u00E7\u00E3o por recall de 1.371 unidades do Mustang",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/11/ford-do-brasil-adianta-recall-do-mustang.ghtml",
-      "date": "Tue, 11 Aug 2026 11:48:58 -0000"
     }
   ]
 }
