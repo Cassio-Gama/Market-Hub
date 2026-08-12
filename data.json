@@ -2,62 +2,62 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167581.88,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 167491.06,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.54,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 41.45,
+      "change": -0.5,
+      "changeStr": "-0.50%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.96,
-      "change": -1.94,
-      "changeStr": "-1.94%"
+      "price": 73.18,
+      "change": -1.64,
+      "changeStr": "-1.64%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.56,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 38.43,
+      "change": -1.46,
+      "changeStr": "-1.46%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.84,
-      "change": 0.3,
-      "changeStr": "\u002B0.30%"
+      "price": 16.74,
+      "change": -0.3,
+      "changeStr": "-0.30%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.32,
-      "change": 0.21,
-      "changeStr": "\u002B0.21%"
+      "price": 19,
+      "change": -1.45,
+      "changeStr": "-1.45%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.21,
-      "change": -1.17,
-      "changeStr": "-1.17%"
+      "price": 4.24,
+      "change": -0.47,
+      "changeStr": "-0.47%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.84,
-      "change": -1.13,
-      "changeStr": "-1.13%"
+      "price": 14.85,
+      "change": -1.07,
+      "changeStr": "-1.07%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.67,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 47.64,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     }
   ],
   "news": [
     {
-      "title": "Relatora amplia projeto sobre combust\u00EDveis e inclui gastos fora do teto e benef\u00EDcios a fertilizantes e minerais cr\u00EDticos",
+      "title": "C\u00E2mara aprova texto-base de projeto que amplia gastos fora do teto e benef\u00EDcios a fertilizantes e minerais cr\u00EDticos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/08/12/relatora-amplia-projeto-sobre-combustiveis-e-inclui-gastos-fora-do-teto-e-beneficios-a-fertilizantes-e-minerais-criticos.ghtml",
       "date": "Wed, 12 Aug 2026 18:57:46 -0000"
