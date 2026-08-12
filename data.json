@@ -2,62 +2,80 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167757.69,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 167952.44,
+      "change": 0.05,
+      "changeStr": "\u002B0.05%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.61,
-      "change": -0.12,
-      "changeStr": "-0.12%"
+      "price": 41.74,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.06,
-      "change": -1.8,
-      "changeStr": "-1.80%"
+      "price": 73.31,
+      "change": -1.47,
+      "changeStr": "-1.47%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.79,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 38.59,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.8,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 16.83,
+      "change": 0.24,
+      "changeStr": "\u002B0.24%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.32,
-      "change": 0.21,
-      "changeStr": "\u002B0.21%"
+      "price": 19.31,
+      "change": 0.16,
+      "changeStr": "\u002B0.16%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.29,
-      "change": 0.7,
-      "changeStr": "\u002B0.70%"
+      "price": 4.26,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.91,
-      "change": -0.67,
-      "changeStr": "-0.67%"
+      "price": 14.92,
+      "change": -0.6,
+      "changeStr": "-0.60%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.66,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
+      "price": 47.62,
+      "change": 0.55,
+      "changeStr": "\u002B0.55%"
     }
   ],
   "news": [
     {
-      "title": "Discord: o que \u00E9 a rede social que ter\u00E1 lives suspensas no Brasil ap\u00F3s decis\u00E3o da ANPD",
+      "title": "Terremoto afeta exporta\u00E7\u00F5es de caf\u00E9 da Col\u00F4mbia e amea\u00E7a embarques internacionais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/terremoto-afeta-exportacoes-de-cafe-da-colombia-e-ameaca-embarques-internacionais.ghtml",
+      "date": "Wed, 12 Aug 2026 16:19:19 -0000"
+    },
+    {
+      "title": "Trump \u00E9 processado por plano de vender acesso antecipado a posts do Truth Social",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/12/trump-e-processado-por-plano-de-vender-acesso-antecipado-a-posts-do-truth-social.ghtml",
+      "date": "Wed, 12 Aug 2026 15:42:35 -0000"
+    },
+    {
+      "title": "Ex-CEO da Disney e empres\u00E1rio compram Los Angeles Lakers por US$ 12,5 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/12/ex-ceo-da-disney-e-empresario-compram-los-angeles-lakers-por-us-125-bilhoes.ghtml",
+      "date": "Wed, 12 Aug 2026 15:22:09 -0000"
+    },
+    {
+      "title": "Discord: o que \u00E9 a rede social que ter\u00E1 transmiss\u00F5es ao vivo suspensas no Brasil ap\u00F3s decis\u00E3o da ANPD",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/12/discord-o-que-e-a-rede-social-que-tera-lives-suspensas-no-brasil-apos-decisao-da-anpd.ghtml",
       "date": "Wed, 12 Aug 2026 14:29:46 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/australia-cria-protecao-inedita-para-entregadores-de-aplicativo.ghtml",
       "date": "Wed, 12 Aug 2026 10:34:05 -0000"
-    },
-    {
-      "title": "Os trabalhadores que \u0027d\u00E3o adeus \u00E0 CLT\u0027 atr\u00E1s do sonho de viver fazendo v\u00EDdeos de IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/08/12/os-trabalhadores-que-dao-adeus-a-clt-atras-do-sonho-de-viver-fazendo-videos-de-ia.ghtml",
-      "date": "Wed, 12 Aug 2026 08:47:25 -0000"
-    },
-    {
-      "title": "Como estoques recordes e avan\u00E7o do agro brasileiro podem reduzir impacto do \u0027super El Ni\u00F1o\u0027 no mundo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/como-estoques-recordes-e-avanco-do-agro-brasileiro-podem-reduzir-impacto-do-super-el-nino-no-mundo.ghtml",
-      "date": "Wed, 12 Aug 2026 08:03:51 -0000"
-    },
-    {
-      "title": "Transpetro publica editais de concurso com 4.171 vagas e sal\u00E1rios de at\u00E9 R$ 15 mil; veja como participar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/08/12/transpetro-publica-edital-de-concurso-com-4171-vagas-e-salarios-de-ate-r-15-mil-veja-como-participar.ghtml",
-      "date": "Wed, 12 Aug 2026 07:22:11 -0000"
     }
   ]
 }
