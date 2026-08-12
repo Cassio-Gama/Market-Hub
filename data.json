@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167952.44,
-      "change": 0.05,
-      "changeStr": "\u002B0.05%"
+      "price": 167581.88,
+      "change": -0.17,
+      "changeStr": "-0.17%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.74,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
+      "price": 41.54,
+      "change": -0.29,
+      "changeStr": "-0.29%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.31,
-      "change": -1.47,
-      "changeStr": "-1.47%"
+      "price": 72.96,
+      "change": -1.94,
+      "changeStr": "-1.94%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.59,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 38.56,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.83,
-      "change": 0.24,
-      "changeStr": "\u002B0.24%"
+      "price": 16.84,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.31,
-      "change": 0.16,
-      "changeStr": "\u002B0.16%"
+      "price": 19.32,
+      "change": 0.21,
+      "changeStr": "\u002B0.21%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.26,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 4.21,
+      "change": -1.17,
+      "changeStr": "-1.17%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.92,
-      "change": -0.6,
-      "changeStr": "-0.60%"
+      "price": 14.84,
+      "change": -1.13,
+      "changeStr": "-1.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.62,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 47.67,
+      "change": 0.65,
+      "changeStr": "\u002B0.65%"
     }
   ],
   "news": [
+    {
+      "title": "Relatora amplia projeto sobre combust\u00EDveis e inclui gastos fora do teto e benef\u00EDcios a fertilizantes e minerais cr\u00EDticos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/12/relatora-amplia-projeto-sobre-combustiveis-e-inclui-gastos-fora-do-teto-e-beneficios-a-fertilizantes-e-minerais-criticos.ghtml",
+      "date": "Wed, 12 Aug 2026 18:57:46 -0000"
+    },
+    {
+      "title": "Congresso adia instala\u00E7\u00E3o da comiss\u00E3o para analisar MP da \u0027Taxa das Blusinhas\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/12/congresso-adia-instalacao-da-comissao-para-analisar-mp-da-taxa-das-blusinhas.ghtml",
+      "date": "Wed, 12 Aug 2026 18:22:28 -0000"
+    },
+    {
+      "title": "Projeto de lei quer suspender por 10 anos CNH de motorista alcoolizado que causar morte",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/12/projeto-de-lei-quer-suspender-por-10-anos-cnh-de-motorista-alcoolizado-que-causar-morte.ghtml",
+      "date": "Wed, 12 Aug 2026 17:07:31 -0000"
+    },
     {
       "title": "Terremoto afeta exporta\u00E7\u00F5es de caf\u00E9 da Col\u00F4mbia e amea\u00E7a embarques internacionais",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/milhares-de-concurseiros-tomam-as-ruas-em-nova-onda-de-protestos-na-india-entenda.ghtml",
       "date": "Wed, 12 Aug 2026 13:02:23 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe, com infla\u00E7\u00E3o dos EUA e Oriente M\u00E9dio no foco; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/12/dolar-ibovespa.ghtml",
-      "date": "Wed, 12 Aug 2026 12:00:31 -0000"
-    },
-    {
-      "title": "Crise no campo: pedidos de recupera\u00E7\u00E3o judicial saltam entre produtores rurais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/recuperacao-judicial-agronegocio.ghtml",
-      "date": "Wed, 12 Aug 2026 11:25:43 -0000"
-    },
-    {
-      "title": "Austr\u00E1lia cria prote\u00E7\u00E3o in\u00E9dita para entregadores de aplicativo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/australia-cria-protecao-inedita-para-entregadores-de-aplicativo.ghtml",
-      "date": "Wed, 12 Aug 2026 10:34:05 -0000"
     }
   ]
 }
