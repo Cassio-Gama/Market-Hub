@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168135.69,
-      "change": 0.16,
-      "changeStr": "\u002B0.16%"
+      "price": 167757.69,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.66,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 41.61,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.4,
-      "change": -2.02,
-      "changeStr": "-2.02%"
+      "price": 73.06,
+      "change": -1.8,
+      "changeStr": "-1.80%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.15,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 38.79,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.88,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 16.8,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.33,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 19.32,
+      "change": 0.21,
+      "changeStr": "\u002B0.21%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.28,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
+      "price": 4.29,
+      "change": 0.7,
+      "changeStr": "\u002B0.70%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.01,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "price": 14.91,
+      "change": -0.67,
+      "changeStr": "-0.67%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.63,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
+      "price": 47.66,
+      "change": 0.63,
+      "changeStr": "\u002B0.63%"
     }
   ],
   "news": [
+    {
+      "title": "Discord: o que \u00E9 a rede social que ter\u00E1 lives suspensas no Brasil ap\u00F3s decis\u00E3o da ANPD",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/12/discord-o-que-e-a-rede-social-que-tera-lives-suspensas-no-brasil-apos-decisao-da-anpd.ghtml",
+      "date": "Wed, 12 Aug 2026 14:29:46 -0000"
+    },
+    {
+      "title": "CNJ e BC firmam parceria para criar sistema de rastreamento para compra e venda de precat\u00F3rios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/12/cnj-e-banco-central-firmam-convenio-para-criar-estrutura-nacional-de-rastreamento-da-compra-e-venda-de-precatorios.ghtml",
+      "date": "Wed, 12 Aug 2026 14:25:40 -0000"
+    },
+    {
+      "title": "Em meio a san\u00E7\u00F5es dos EUA, Ir\u00E3 vai integrar banco criado pelo Brasil e outros pa\u00EDses do Brics",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/12/ira-banco-do-brics.ghtml",
+      "date": "Wed, 12 Aug 2026 13:14:04 -0000"
+    },
     {
       "title": "Milhares de concurseiros tomam as ruas em nova onda de protestos na \u00CDndia; entenda",
       "source": "G1 Economia",
@@ -63,7 +81,7 @@
       "date": "Wed, 12 Aug 2026 13:02:23 -0000"
     },
     {
-      "title": "D\u00F3lar abre em queda, com infla\u00E7\u00E3o dos EUA e Oriente M\u00E9dio no foco",
+      "title": "D\u00F3lar sobe, com infla\u00E7\u00E3o dos EUA e Oriente M\u00E9dio no foco; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/12/dolar-ibovespa.ghtml",
       "date": "Wed, 12 Aug 2026 12:00:31 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/08/12/transpetro-publica-edital-de-concurso-com-4171-vagas-e-salarios-de-ate-r-15-mil-veja-como-participar.ghtml",
       "date": "Wed, 12 Aug 2026 07:22:11 -0000"
-    },
-    {
-      "title": "Defesa do Consumidor do ES prop\u00F5e \u00E0 Fazenda que bets mostrem risco de perda para apostadores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/12/defesa-do-consumidor-do-es-propoe-a-fazenda-que-bets-mostrem-risco-de-perda-para-apostadores.ghtml",
-      "date": "Wed, 12 Aug 2026 07:01:47 -0000"
-    },
-    {
-      "title": "\u00C1lcool, cigarro e home office: caso de juiz afastado exp\u00F5e limites da postura no trabalho remoto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/alcool-cigarro-e-home-office-caso-de-juiz-afastado-expoe-limites-da-postura-no-trabalho-remoto.ghtml",
-      "date": "Wed, 12 Aug 2026 06:00:32 -0000"
-    },
-    {
-      "title": "\u0027Presente\u00EDsmo\u0027: por que tantos profissionais continuam trabalhando mesmo doentes?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/presenteismo-por-que-tantos-profissionais-continuam-trabalhando-mesmo-doentes.ghtml",
-      "date": "Wed, 12 Aug 2026 06:00:08 -0000"
     }
   ]
 }
