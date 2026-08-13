@@ -57,13 +57,19 @@
   ],
   "news": [
     {
+      "title": "Emprego formal teve 2,2 milh\u00F5es de vagas abertas no primeiro semestre de 2026, diz governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/13/emprego-formal-abriu-22-milhoes-de-vagas-no-primeiro-semestre-de-2026-diz-governo.ghtml",
+      "date": "Thu, 13 Aug 2026 20:51:43 -0000"
+    },
+    {
       "title": "EUA acusam Brasil de ajudar China a driblar tarifas e colocam pa\u00EDs em lista de alto risco comercial",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/13/eua-acusam-brasil-de-ajudar-china-a-driblar-tarifas-e-colocam-pais-em-lista-de-alto-risco-comercial.ghtml",
       "date": "Thu, 13 Aug 2026 20:39:30 -0000"
     },
     {
-      "title": "Empr\u00E9stimo do BRB: Celina Le\u00E3o diz a Fux que DF \u0027fez sua parte\u0027; Uni\u00E3o n\u00E3o tem liga\u00E7\u00E3o com crise, rebate Durigan",
+      "title": "Empr\u00E9stimo do BRB: ap\u00F3s reuni\u00E3o tensa no STF, governo do DF e \u00F3rg\u00E3os federais decidem manter negocia\u00E7\u00E3o de R$ 6,6 bilh\u00F5es",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/reuniao-conciliacao-emprestimo-brb-celina-durigan.ghtml",
       "date": "Thu, 13 Aug 2026 20:08:46 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/openai-do-chatgpt-diz-que-ia-pode-adicionar-r-1-trilhao-ao-pib-do-brasil-em-tres-anos.ghtml",
       "date": "Thu, 13 Aug 2026 16:12:24 -0000"
-    },
-    {
-      "title": "Onda de calor na Espanha pode levar ao aumento do pre\u00E7o do azeite?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/13/onda-de-calor-na-espanha-preco-do-azeite.ghtml",
-      "date": "Thu, 13 Aug 2026 14:49:10 -0000"
     }
   ]
 }
