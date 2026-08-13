@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167340.4,
-      "change": -0.09,
-      "changeStr": "-0.09%"
+      "price": 167098.8,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.41,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 41.54,
+      "change": 0.22,
+      "changeStr": "\u002B0.22%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.2,
-      "change": -1.34,
-      "changeStr": "-1.34%"
+      "price": 72.42,
+      "change": -1.04,
+      "changeStr": "-1.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.47,
-      "change": 0.1,
-      "changeStr": "\u002B0.10%"
+      "price": 38.46,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
     },
     {
       "symbol": "BBDC4",
@@ -32,30 +32,48 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 18.9,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 18.62,
+      "change": -2,
+      "changeStr": "-2.00%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.25,
-      "change": 0.24,
-      "changeStr": "\u002B0.24%"
+      "price": 4.14,
+      "change": -2.36,
+      "changeStr": "-2.36%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.89,
-      "change": 0.27,
-      "changeStr": "\u002B0.27%"
+      "price": 15.02,
+      "change": 1.14,
+      "changeStr": "\u002B1.14%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.78,
-      "change": 0.29,
-      "changeStr": "\u002B0.29%"
+      "price": 47.7,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     }
   ],
   "news": [
+    {
+      "title": "Onda de calor na Espanha pode levar ao aumento do pre\u00E7o do azeite?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/13/onda-de-calor-na-espanha-preco-do-azeite.ghtml",
+      "date": "Thu, 13 Aug 2026 14:49:10 -0000"
+    },
+    {
+      "title": "Empresas americanas come\u00E7am a receber bilh\u00F5es de d\u00F3lares de volta ap\u00F3s tarifas de Trump serem derrubadas\n",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/13/empresas-americanas-comecam-a-receber-bilhoes-de-dolares-de-volta-apos-tarifas-de-trump-serem-derrubadas.ghtml",
+      "date": "Thu, 13 Aug 2026 13:25:11 -0000"
+    },
+    {
+      "title": "Congresso adia para 1\u00BA de setembro instala\u00E7\u00E3o da comiss\u00E3o para analisar MP da \u0027taxa das blusinhas\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/13/congresso-adia-novamente-instalacao-da-comissao-para-analisar-mp-da-taxa-das-blusinhas.ghtml",
+      "date": "Thu, 13 Aug 2026 13:24:20 -0000"
+    },
     {
       "title": "Anthropic negocia compra de startup de IA por US$ 6 bilh\u00F5es, diz ag\u00EAncia",
       "source": "G1 Economia",
@@ -69,7 +87,7 @@
       "date": "Thu, 13 Aug 2026 12:07:41 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta com tens\u00E3o no Oriente M\u00E9dio e dados dos EUA no radar",
+      "title": "D\u00F3lar sobe e Ibovespa oscila, ap\u00F3s infla\u00E7\u00E3o fraca nos EUA e bons dados do varejo brasileiro",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/13/dolar-ibovespa.ghtml",
       "date": "Thu, 13 Aug 2026 12:00:09 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/13/saque-do-fgts-novo-caminho-na-justica-veja-o-que-muda.ghtml",
       "date": "Thu, 13 Aug 2026 08:02:16 -0000"
-    },
-    {
-      "title": "Casa pr\u00F3pria ou aluguel: como saber o que vale mais a pena para voc\u00EA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/08/13/casa-propria-ou-aluguel-como-saber-o-que-vale-mais-a-pena-para-voce.ghtml",
-      "date": "Thu, 13 Aug 2026 06:00:20 -0000"
-    },
-    {
-      "title": "Veja como salvar uma orqu\u00EDdea com folhas e ra\u00EDzes secas ou murchas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/13/veja-como-salvar-uma-orquidea-com-folhas-e-raizes-secas-ou-murchas.ghtml",
-      "date": "Thu, 13 Aug 2026 05:00:10 -0000"
-    },
-    {
-      "title": "BRB, Uni\u00E3o, DF e bancos retomam concilia\u00E7\u00E3o no STF nesta quinta para tentar destravar empr\u00E9stimo; entenda o que est\u00E1 em jogo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/brb-uniao-df-e-bancos-retomam-conciliacao-no-stf-nesta-quinta-para-tentar-destravar-emprestimo-entenda-o-que-esta-em-jogo.ghtml",
-      "date": "Thu, 13 Aug 2026 03:00:14 -0000"
     }
   ]
 }
