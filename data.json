@@ -1,6 +1,73 @@
 {
-  "slider": [],
+  "slider": [
+    {
+      "symbol": "^BVSP",
+      "price": 167491.06,
+      "change": -0.23,
+      "changeStr": "-0.23%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 41.45,
+      "change": -0.5,
+      "changeStr": "-0.50%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 73.18,
+      "change": -1.64,
+      "changeStr": "-1.64%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 38.43,
+      "change": -1.46,
+      "changeStr": "-1.46%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 16.74,
+      "change": -0.3,
+      "changeStr": "-0.30%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 19,
+      "change": -1.45,
+      "changeStr": "-1.45%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 4.24,
+      "change": -0.47,
+      "changeStr": "-0.47%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 14.85,
+      "change": -1.07,
+      "changeStr": "-1.07%"
+    },
+    {
+      "symbol": "WEGE3",
+      "price": 47.64,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
+    }
+  ],
   "news": [
+    {
+      "title": "Casa pr\u00F3pria ou aluguel: como saber o que vale mais a pena para voc\u00EA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/08/13/casa-propria-ou-aluguel-como-saber-o-que-vale-mais-a-pena-para-voce.ghtml",
+      "date": "Thu, 13 Aug 2026 06:00:20 -0000"
+    },
+    {
+      "title": "Veja como salvar uma orqu\u00EDdea com folhas e ra\u00EDzes secas ou murchas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/13/veja-como-salvar-uma-orquidea-com-folhas-e-raizes-secas-ou-murchas.ghtml",
+      "date": "Thu, 13 Aug 2026 05:00:10 -0000"
+    },
     {
       "title": "BRB, Uni\u00E3o, DF e bancos retomam concilia\u00E7\u00E3o no STF nesta quinta para tentar destravar empr\u00E9stimo; entenda o que est\u00E1 em jogo",
       "source": "G1 Economia",
@@ -48,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/08/12/relatora-amplia-projeto-sobre-combustiveis-e-inclui-gastos-fora-do-teto-e-beneficios-a-fertilizantes-e-minerais-criticos.ghtml",
       "date": "Wed, 12 Aug 2026 18:57:46 -0000"
-    },
-    {
-      "title": "Congresso adia instala\u00E7\u00E3o da comiss\u00E3o para analisar MP da \u0027Taxa das Blusinhas\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/08/12/congresso-adia-instalacao-da-comissao-para-analisar-mp-da-taxa-das-blusinhas.ghtml",
-      "date": "Wed, 12 Aug 2026 18:22:28 -0000"
-    },
-    {
-      "title": "Projeto de lei quer suspender por 10 anos CNH de motorista alcoolizado que causar morte; multa pode chegar a R$ 14,6 mil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/12/projeto-de-lei-quer-suspender-por-10-anos-cnh-de-motorista-alcoolizado-que-causar-morte.ghtml",
-      "date": "Wed, 12 Aug 2026 17:07:31 -0000"
     }
   ]
 }
