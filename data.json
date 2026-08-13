@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166825.27,
-      "change": -0.4,
-      "changeStr": "-0.40%"
+      "price": 167085.86,
+      "change": -0.24,
+      "changeStr": "-0.24%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.65,
-      "change": 0.48,
-      "changeStr": "\u002B0.48%"
+      "price": 41.88,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.11,
-      "change": -1.46,
-      "changeStr": "-1.46%"
+      "price": 71.74,
+      "change": -1.97,
+      "changeStr": "-1.97%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.32,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 38.42,
+      "change": -0.03,
+      "changeStr": "-0.03%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.62,
-      "change": -0.72,
-      "changeStr": "-0.72%"
+      "price": 16.63,
+      "change": -0.66,
+      "changeStr": "-0.66%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.4,
-      "change": -3.16,
-      "changeStr": "-3.16%"
+      "price": 18.23,
+      "change": -4.05,
+      "changeStr": "-4.05%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.04,
-      "change": -4.72,
-      "changeStr": "-4.72%"
+      "price": 4.06,
+      "change": -4.25,
+      "changeStr": "-4.25%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.94,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 14.96,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.47,
-      "change": -0.36,
-      "changeStr": "-0.36%"
+      "price": 47.45,
+      "change": -0.4,
+      "changeStr": "-0.40%"
     }
   ],
   "news": [
+    {
+      "title": "Durigan diz que cerca de 800 mil pessoas foram exclu\u00EDdas de bets por terem aderido ao Desenrola 2.0",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/13/durigan-diz-que-cerca-de-800-mil-pessoas-foram-excluidas-de-bets-por-terem-aderido-ao-desenrola-20.ghtml",
+      "date": "Thu, 13 Aug 2026 18:20:41 -0000"
+    },
+    {
+      "title": "Jeep Avenger: 6 motivos para comprar e 6 motivos para n\u00E3o comprar o novo SUV de R$ 114.990",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/13/jeep-avenger-motivos-para-comprar.ghtml",
+      "date": "Thu, 13 Aug 2026 17:40:45 -0000"
+    },
+    {
+      "title": "Canetas emagrecedoras viram febre: 1,3 milh\u00E3o de pedidos movimentam R$ 2,3 bilh\u00F5es em 6 meses",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/13/canetas-emagrecedoras-viram-febre-13-milhao-de-pedidos-movimentam-r-23-bilhoes-em-6-meses.ghtml",
+      "date": "Thu, 13 Aug 2026 17:11:01 -0000"
+    },
     {
       "title": "Internacional oferece trator \u00E0 Justi\u00E7a como garantia por d\u00EDvida com empres\u00E1rio; entenda",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/anthropic-negocia-compra-de-startup-de-ia-por-us-6-bilhoes-diz-agencia.ghtml",
       "date": "Thu, 13 Aug 2026 12:11:03 -0000"
-    },
-    {
-      "title": "Correios s\u00E3o condenados a adotar medidas de seguran\u00E7a ap\u00F3s morte de trabalhador; entenda o caso",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/13/correios-sao-condenados-a-adotar-medidas-de-seguranca-apos-morte-de-trabalhador.ghtml",
-      "date": "Thu, 13 Aug 2026 12:07:41 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe e Ibovespa oscila, ap\u00F3s infla\u00E7\u00E3o fraca nos EUA e bons dados do varejo brasileiro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/13/dolar-ibovespa.ghtml",
-      "date": "Thu, 13 Aug 2026 12:00:09 -0000"
-    },
-    {
-      "title": "Com mais de R$ 51 bilh\u00F5es em d\u00EDvidas, Braskem avalia pedir recupera\u00E7\u00E3o extrajudicial ainda em agosto, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/13/braskem-avalia-pedir-recuperacao-extrajudicial-ainda-em-agosto-diz-agencia.ghtml",
-      "date": "Thu, 13 Aug 2026 11:07:40 -0000"
     }
   ]
 }
