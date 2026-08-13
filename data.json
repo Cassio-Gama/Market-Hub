@@ -1,61 +1,12 @@
 {
-  "slider": [
-    {
-      "symbol": "^BVSP",
-      "price": 167491.06,
-      "change": -0.23,
-      "changeStr": "-0.23%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 41.45,
-      "change": -0.5,
-      "changeStr": "-0.50%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 73.18,
-      "change": -1.64,
-      "changeStr": "-1.64%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 38.43,
-      "change": -1.46,
-      "changeStr": "-1.46%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 16.74,
-      "change": -0.3,
-      "changeStr": "-0.30%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 19,
-      "change": -1.45,
-      "changeStr": "-1.45%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 4.24,
-      "change": -0.47,
-      "changeStr": "-0.47%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 14.85,
-      "change": -1.07,
-      "changeStr": "-1.07%"
-    },
-    {
-      "symbol": "WEGE3",
-      "price": 47.64,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
-    }
-  ],
+  "slider": [],
   "news": [
+    {
+      "title": "BRB, Uni\u00E3o, DF e bancos retomam concilia\u00E7\u00E3o no STF nesta quinta para tentar destravar empr\u00E9stimo; entenda o que est\u00E1 em jogo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/brb-uniao-df-e-bancos-retomam-conciliacao-no-stf-nesta-quinta-para-tentar-destravar-emprestimo-entenda-o-que-esta-em-jogo.ghtml",
+      "date": "Thu, 13 Aug 2026 03:00:14 -0000"
+    },
     {
       "title": "Gatilhos inclu\u00EDdos no projeto que reduz  pre\u00E7o do combust\u00EDvel deve gerar economia de R$ 10 bi no pr\u00F3ximo ano, diz Durigan",
       "source": "G1 Economia",
@@ -109,12 +60,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/08/12/projeto-de-lei-quer-suspender-por-10-anos-cnh-de-motorista-alcoolizado-que-causar-morte.ghtml",
       "date": "Wed, 12 Aug 2026 17:07:31 -0000"
-    },
-    {
-      "title": "Terremoto afeta exporta\u00E7\u00F5es de caf\u00E9 da Col\u00F4mbia e amea\u00E7a embarques internacionais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/terremoto-afeta-exportacoes-de-cafe-da-colombia-e-ameaca-embarques-internacionais.ghtml",
-      "date": "Wed, 12 Aug 2026 16:19:19 -0000"
     }
   ]
 }
