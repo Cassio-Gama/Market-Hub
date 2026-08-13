@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167085.86,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 167100.95,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.88,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
+      "price": 41.9,
+      "change": 1.09,
+      "changeStr": "\u002B1.09%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.74,
-      "change": -1.97,
-      "changeStr": "-1.97%"
+      "price": 71.9,
+      "change": -1.75,
+      "changeStr": "-1.75%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.42,
-      "change": -0.03,
-      "changeStr": "-0.03%"
+      "price": 38.31,
+      "change": -0.31,
+      "changeStr": "-0.31%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.63,
-      "change": -0.66,
-      "changeStr": "-0.66%"
+      "price": 16.66,
+      "change": -0.48,
+      "changeStr": "-0.48%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.23,
-      "change": -4.05,
-      "changeStr": "-4.05%"
+      "price": 18.21,
+      "change": -4.16,
+      "changeStr": "-4.16%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.06,
-      "change": -4.25,
-      "changeStr": "-4.25%"
+      "price": 3.98,
+      "change": -6.13,
+      "changeStr": "-6.13%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.96,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 14.92,
+      "change": 0.47,
+      "changeStr": "\u002B0.47%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.45,
-      "change": -0.4,
-      "changeStr": "-0.40%"
+      "price": 47.5,
+      "change": -0.29,
+      "changeStr": "-0.29%"
     }
   ],
   "news": [
+    {
+      "title": "EUA acusam Brasil de ajudar China a driblar tarifas e colocam pa\u00EDs em lista de alto risco comercial",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/13/eua-acusam-brasil-de-ajudar-china-a-driblar-tarifas-e-colocam-pais-em-lista-de-alto-risco-comercial.ghtml",
+      "date": "Thu, 13 Aug 2026 20:39:30 -0000"
+    },
+    {
+      "title": "Empr\u00E9stimo do BRB: Celina Le\u00E3o diz a Fux que DF \u0027fez sua parte\u0027; Uni\u00E3o n\u00E3o tem liga\u00E7\u00E3o com crise, rebate Durigan",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/reuniao-conciliacao-emprestimo-brb-celina-durigan.ghtml",
+      "date": "Thu, 13 Aug 2026 20:08:46 -0000"
+    },
+    {
+      "title": "Instagram muda identidade visual pela 1\u00AA vez em 10 anos; veja como ficou",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/instagram-muda-logo-pela-1a-vez-em-10-anos-veja-como-ficou.ghtml",
+      "date": "Thu, 13 Aug 2026 19:25:18 -0000"
+    },
     {
       "title": "Durigan diz que cerca de 800 mil pessoas foram exclu\u00EDdas de bets por terem aderido ao Desenrola 2.0",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/13/onda-de-calor-na-espanha-preco-do-azeite.ghtml",
       "date": "Thu, 13 Aug 2026 14:49:10 -0000"
-    },
-    {
-      "title": "Empresas americanas come\u00E7am a receber bilh\u00F5es de d\u00F3lares de volta ap\u00F3s tarifas de Trump serem derrubadas\n",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/13/empresas-americanas-comecam-a-receber-bilhoes-de-dolares-de-volta-apos-tarifas-de-trump-serem-derrubadas.ghtml",
-      "date": "Thu, 13 Aug 2026 13:25:11 -0000"
-    },
-    {
-      "title": "Congresso adia para 1\u00BA de setembro instala\u00E7\u00E3o da comiss\u00E3o para analisar MP da \u0027taxa das blusinhas\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/08/13/congresso-adia-novamente-instalacao-da-comissao-para-analisar-mp-da-taxa-das-blusinhas.ghtml",
-      "date": "Thu, 13 Aug 2026 13:24:20 -0000"
-    },
-    {
-      "title": "Anthropic negocia compra de startup de IA por US$ 6 bilh\u00F5es, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/anthropic-negocia-compra-de-startup-de-ia-por-us-6-bilhoes-diz-agencia.ghtml",
-      "date": "Thu, 13 Aug 2026 12:11:03 -0000"
     }
   ]
 }
