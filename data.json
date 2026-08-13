@@ -2,62 +2,80 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167491.06,
-      "change": -0.23,
-      "changeStr": "-0.23%"
+      "price": 167340.4,
+      "change": -0.09,
+      "changeStr": "-0.09%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.45,
-      "change": -0.5,
-      "changeStr": "-0.50%"
+      "price": 41.41,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.18,
-      "change": -1.64,
-      "changeStr": "-1.64%"
+      "price": 72.2,
+      "change": -1.34,
+      "changeStr": "-1.34%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.43,
-      "change": -1.46,
-      "changeStr": "-1.46%"
+      "price": 38.47,
+      "change": 0.1,
+      "changeStr": "\u002B0.10%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.74,
-      "change": -0.3,
-      "changeStr": "-0.30%"
+      "price": 16.79,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19,
-      "change": -1.45,
-      "changeStr": "-1.45%"
+      "price": 18.9,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.24,
-      "change": -0.47,
-      "changeStr": "-0.47%"
+      "price": 4.25,
+      "change": 0.24,
+      "changeStr": "\u002B0.24%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.85,
-      "change": -1.07,
-      "changeStr": "-1.07%"
+      "price": 14.89,
+      "change": 0.27,
+      "changeStr": "\u002B0.27%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.64,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 47.78,
+      "change": 0.29,
+      "changeStr": "\u002B0.29%"
     }
   ],
   "news": [
     {
-      "title": "Braskem avalia pedir recupera\u00E7\u00E3o extrajudicial ainda em agosto, diz ag\u00EAncia",
+      "title": "Anthropic negocia compra de startup de IA por US$ 6 bilh\u00F5es, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/anthropic-negocia-compra-de-startup-de-ia-por-us-6-bilhoes-diz-agencia.ghtml",
+      "date": "Thu, 13 Aug 2026 12:11:03 -0000"
+    },
+    {
+      "title": "Correios s\u00E3o condenados a adotar medidas de seguran\u00E7a ap\u00F3s morte de trabalhador; entenda o caso",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/13/correios-sao-condenados-a-adotar-medidas-de-seguranca-apos-morte-de-trabalhador.ghtml",
+      "date": "Thu, 13 Aug 2026 12:07:41 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre em alta com tens\u00E3o no Oriente M\u00E9dio e dados dos EUA no radar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/13/dolar-ibovespa.ghtml",
+      "date": "Thu, 13 Aug 2026 12:00:09 -0000"
+    },
+    {
+      "title": "Com mais de R$ 51 bilh\u00F5es em d\u00EDvidas, Braskem avalia pedir recupera\u00E7\u00E3o extrajudicial ainda em agosto, diz ag\u00EAncia",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/13/braskem-avalia-pedir-recuperacao-extrajudicial-ainda-em-agosto-diz-agencia.ghtml",
       "date": "Thu, 13 Aug 2026 11:07:40 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/brb-uniao-df-e-bancos-retomam-conciliacao-no-stf-nesta-quinta-para-tentar-destravar-emprestimo-entenda-o-que-esta-em-jogo.ghtml",
       "date": "Thu, 13 Aug 2026 03:00:14 -0000"
-    },
-    {
-      "title": "Gatilhos inclu\u00EDdos no projeto que reduz  pre\u00E7o do combust\u00EDvel deve gerar economia de R$ 10 bi no pr\u00F3ximo ano, diz Durigan",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/12/gatilhos-incluidos-no-projeto-que-reduz-preco-do-combustivel-deve-gerar-economia-de-r-10-bi-no-proximo-ano-diz-durigan.ghtml",
-      "date": "Thu, 13 Aug 2026 00:35:28 -0000"
-    },
-    {
-      "title": "Jeep Avenger \u00E9 o h\u00EDbrido mais barato do Brasil por R$ 114.990",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/12/jeep-lanca-avenger-preco-equipamentos.ghtml",
-      "date": "Wed, 12 Aug 2026 23:30:08 -0000"
-    },
-    {
-      "title": "Senado aprova projeto que reduz pre\u00E7o do combust\u00EDvel; texto amplia gastos fora do teto em 2026 e prev\u00EA ajuste fiscal em 2027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/12/senado-aprova-projeto-que-reduz-preco-do-combustivel-com-dinheiro-da-alta-do-petroleo-texto-amplia-gastos-fora-do-teto.ghtml",
-      "date": "Wed, 12 Aug 2026 22:56:40 -0000"
     }
   ]
 }
