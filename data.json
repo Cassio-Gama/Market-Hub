@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167098.8,
-      "change": -0.23,
-      "changeStr": "-0.23%"
+      "price": 166825.27,
+      "change": -0.4,
+      "changeStr": "-0.40%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.54,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 41.65,
+      "change": 0.48,
+      "changeStr": "\u002B0.48%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.42,
-      "change": -1.04,
-      "changeStr": "-1.04%"
+      "price": 72.11,
+      "change": -1.46,
+      "changeStr": "-1.46%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.46,
-      "change": 0.08,
-      "changeStr": "\u002B0.08%"
+      "price": 38.32,
+      "change": -0.29,
+      "changeStr": "-0.29%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.79,
-      "change": 0.3,
-      "changeStr": "\u002B0.30%"
+      "price": 16.62,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.62,
-      "change": -2,
-      "changeStr": "-2.00%"
+      "price": 18.4,
+      "change": -3.16,
+      "changeStr": "-3.16%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.14,
-      "change": -2.36,
-      "changeStr": "-2.36%"
+      "price": 4.04,
+      "change": -4.72,
+      "changeStr": "-4.72%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.02,
-      "change": 1.14,
-      "changeStr": "\u002B1.14%"
+      "price": 14.94,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.7,
-      "change": 0.13,
-      "changeStr": "\u002B0.13%"
+      "price": 47.47,
+      "change": -0.36,
+      "changeStr": "-0.36%"
     }
   ],
   "news": [
+    {
+      "title": "Internacional oferece trator \u00E0 Justi\u00E7a como garantia por d\u00EDvida com empres\u00E1rio; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/13/internacional-oferece-trator-a-justica-como-garantia-por-divida-com-empresario-entenda.ghtml",
+      "date": "Thu, 13 Aug 2026 16:50:29 -0000"
+    },
+    {
+      "title": "C\u00E2mara aprova projeto para converter milhas em dinheiro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/13/camara-aprova-projeto-para-converter-milhas-em-dinheiro.ghtml",
+      "date": "Thu, 13 Aug 2026 16:46:18 -0000"
+    },
+    {
+      "title": "OpenAI, do ChatGPT, diz que IA pode adicionar R$ 1 trilh\u00E3o ao PIB do Brasil em tr\u00EAs anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/openai-do-chatgpt-diz-que-ia-pode-adicionar-r-1-trilhao-ao-pib-do-brasil-em-tres-anos.ghtml",
+      "date": "Thu, 13 Aug 2026 16:12:24 -0000"
+    },
     {
       "title": "Onda de calor na Espanha pode levar ao aumento do pre\u00E7o do azeite?",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/13/braskem-avalia-pedir-recuperacao-extrajudicial-ainda-em-agosto-diz-agencia.ghtml",
       "date": "Thu, 13 Aug 2026 11:07:40 -0000"
-    },
-    {
-      "title": "Preju\u00EDzo da Americanas quase triplica no 2\u00BA trimestre e vai a R$ 274 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/13/prejuizo-americanas-2o-tri.ghtml",
-      "date": "Thu, 13 Aug 2026 10:38:55 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 3,5 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/13/mega-sena-pode-pagar-r-35-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 13 Aug 2026 08:52:49 -0000"
-    },
-    {
-      "title": "Saque do FGTS: trabalhador que n\u00E3o consegue sacar ter\u00E1 novo caminho na Justi\u00E7a; veja o que muda ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/13/saque-do-fgts-novo-caminho-na-justica-veja-o-que-muda.ghtml",
-      "date": "Thu, 13 Aug 2026 08:02:16 -0000"
     }
   ]
 }
