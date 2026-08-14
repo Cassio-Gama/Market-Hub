@@ -2,31 +2,31 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167100.95,
-      "change": -0.23,
-      "changeStr": "-0.23%"
+      "price": 166769.34,
+      "change": -0.2,
+      "changeStr": "-0.20%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.9,
-      "change": 1.09,
-      "changeStr": "\u002B1.09%"
+      "price": 41.72,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.9,
-      "change": -1.75,
-      "changeStr": "-1.75%"
+      "price": 71.51,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.31,
-      "change": -0.31,
-      "changeStr": "-0.31%"
+      "price": 38.23,
+      "change": -0.21,
+      "changeStr": "-0.21%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.66,
+      "price": 16.58,
       "change": -0.48,
       "changeStr": "-0.48%"
     },
@@ -44,18 +44,54 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 14.92,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
+      "price": 14.91,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.5,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 47.28,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     }
   ],
   "news": [
+    {
+      "title": "Chef premiado retorna a restaurante ap\u00F3s den\u00FAncias de agress\u00F5es e humilha\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/08/14/chef-premiado-retorna-a-restaurante-apos-denuncias-de-agressoes-e-humilhacoes.ghtml",
+      "date": "Fri, 14 Aug 2026 13:09:13 -0000"
+    },
+    {
+      "title": "Vendas de carros chineses est\u00E3o em alta, exceto na pr\u00F3pria China",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/vendas-de-carros-chineses.ghtml",
+      "date": "Fri, 14 Aug 2026 12:44:17 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre em queda nesta sexta-feira, de olho em dados do varejo nos EUA e reciprocidade no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/dolar-ibovespa.ghtml",
+      "date": "Fri, 14 Aug 2026 12:16:49 -0000"
+    },
+    {
+      "title": "Desemprego cai em 13 estados brasileiros no 2\u00BA trimestre de 2026, diz IBGE",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/desemprego-estados-pnad.ghtml",
+      "date": "Fri, 14 Aug 2026 12:00:34 -0000"
+    },
+    {
+      "title": "Trabalhadora \u00E9 demitida ap\u00F3s obter medida protetiva contra ex; empresa \u00E9 condenada",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/14/trabalhadora-e-demitida-apos-obter-medida-protetiva-contra-ex-empresa-e-condenada.ghtml",
+      "date": "Fri, 14 Aug 2026 11:59:44 -0000"
+    },
+    {
+      "title": "Processo de reciprocidade \u00E9 pol\u00EDtico e decis\u00E3o ficar\u00E1 para o pr\u00F3ximo governo, pondera ministro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/14/processo-de-reciprocidade-e-politico-e-decisao-ficara-para-o-proximo-governo.ghtml",
+      "date": "Fri, 14 Aug 2026 11:59:07 -0000"
+    },
     {
       "title": "Banco Central decreta liquida\u00E7\u00E3o extrajudicial de duas empresas do grupo Simpala",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/14/ele-contou-ao-chatgpt-que-queria-matar-o-filho-e-foi-preso-conversas-com-ia-podem-ser-prova-de-crime-no-brasil.ghtml",
       "date": "Fri, 14 Aug 2026 09:06:26 -0000"
-    },
-    {
-      "title": "\u0027Workslop\u0027: os trabalhos malfeitos por IA que geram retrabalho, roubam tempo e custam milh\u00F5es \u00E0s empresas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/14/workslop-como-trabalhos-malfeitos-por-ia-estao-roubando-tempo-e-dinheiro-das-empresas.ghtml",
-      "date": "Fri, 14 Aug 2026 08:04:08 -0000"
-    },
-    {
-      "title": "Peixes t\u00EAm \u0027impress\u00E3o digital\u0027 que revela de onde vieram, mostra estudo; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/14/peixes-tem-impressao-digital-que-revela-de-onde-vieram-mostra-estudo-entenda.ghtml",
-      "date": "Fri, 14 Aug 2026 06:00:47 -0000"
-    },
-    {
-      "title": "Como o super El Ni\u00F1o pode afetar a Am\u00E9rica Latina, principal regi\u00E3o exportadora de alimentos do mundo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/14/como-o-super-el-nino-pode-afetar-a-america-latina-principal-regiao-exportadora-de-alimentos-do-mundo.ghtml",
-      "date": "Fri, 14 Aug 2026 06:00:13 -0000"
-    },
-    {
-      "title": "O que \u00E9 a Lei da Reciprocidade Econ\u00F4mica, que Brasil aciona contra os EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/08/14/o-que-e-a-lei-da-reciprocidade-economica-brasil-eua.ghtml",
-      "date": "Fri, 14 Aug 2026 03:00:16 -0000"
-    },
-    {
-      "title": "Mega-Sena, concurso 3044: confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/13/mega-sena-concurso-3044.ghtml",
-      "date": "Fri, 14 Aug 2026 00:02:53 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o: Governo d\u00E1 in\u00EDcio a processo de reciprocidade contra os Estados Unidos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/13/tarifaco-governo-da-inicio-a-processo-de-reciprocidade-contra-os-estados-unidos.ghtml",
-      "date": "Thu, 13 Aug 2026 22:36:50 -0000"
     }
   ]
 }
