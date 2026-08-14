@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 165532.9,
-      "change": -0.94,
-      "changeStr": "-0.94%"
+      "price": 165345.53,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.1,
-      "change": 0.48,
-      "changeStr": "\u002B0.48%"
+      "price": 41.95,
+      "change": 0.12,
+      "changeStr": "\u002B0.12%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.89,
-      "change": -0.01,
-      "changeStr": "-0.01%"
+      "price": 71.17,
+      "change": -1.02,
+      "changeStr": "-1.02%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.07,
-      "change": -0.63,
-      "changeStr": "-0.63%"
+      "price": 38.16,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.45,
-      "change": -1.26,
-      "changeStr": "-1.26%"
+      "price": 16.37,
+      "change": -1.74,
+      "changeStr": "-1.74%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.9,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "price": 18.06,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     },
     {
       "symbol": "MGLU3",
-      "price": 3.8,
-      "change": -4.52,
-      "changeStr": "-4.52%"
+      "price": 3.76,
+      "change": -5.53,
+      "changeStr": "-5.53%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.69,
-      "change": -1.54,
-      "changeStr": "-1.54%"
+      "price": 14.75,
+      "change": -1.14,
+      "changeStr": "-1.14%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.96,
-      "change": -1.14,
-      "changeStr": "-1.14%"
+      "price": 47.22,
+      "change": -0.59,
+      "changeStr": "-0.59%"
     }
   ],
   "news": [
+    {
+      "title": "Quem \u00E9 Eduardo Saverin, bilion\u00E1rio brasileiro que comprou participa\u00E7\u00E3o no Liverpool",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/quem-e-eduardo-saverin-brasileiro-que-comprou-participacao-no-liverpool.ghtml",
+      "date": "Fri, 14 Aug 2026 17:47:25 -0000"
+    },
+    {
+      "title": "Instagram impulsiona rede de golpes que promete ajudar migrantes a chegar \u00E0 Ceuta por at\u00E9 R$ 2,8 mil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/14/instagram-impulsiona-rede-de-golpes-que-promete-ajudar-migrantes-a-chegar-a-ceuta-por-ate-r-28-mil.ghtml",
+      "date": "Fri, 14 Aug 2026 17:35:22 -0000"
+    },
+    {
+      "title": "Bilion\u00E1rio brasileiro Eduardo Saverin se junta a Jeff Bezos da Amazon e compra 30% do Liverpool da Inglaterra ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/jeff-bezzos-saverin-brasileiro-liverpool-compra.ghtml",
+      "date": "Fri, 14 Aug 2026 17:24:54 -0000"
+    },
+    {
+      "title": "Medo de perder o emprego cai ao menor n\u00EDvel desde 2025, mostra FGV",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/14/medo-de-perder-o-emprego-cai-ao-menor-nivel-desde-2025-mostra-fgv.ghtml",
+      "date": "Fri, 14 Aug 2026 17:08:20 -0000"
+    },
     {
       "title": "China quer levar c\u00E3es-rob\u00F4s \u00E0 Lua para construir base com astronautas at\u00E9 2035",
       "source": "G1 Economia",
@@ -75,7 +99,7 @@
       "date": "Fri, 14 Aug 2026 15:50:24 -0000"
     },
     {
-      "title": "FIEMG afirma que guerra comercial com os EUA pode encarecer produtos e afetar empregos",
+      "title": "FIEMG e Amcham alertam contra retalia\u00E7\u00E3o aos EUA e defendem negocia\u00E7\u00E3o para evitar alta de custos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/14/guerra-comercial-com-os-eua-pode-encarecer-produtos-e-afetar-empregos-diz-entidade-industrial.ghtml",
       "date": "Fri, 14 Aug 2026 15:10:08 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/14/vendas-de-carros-chineses.ghtml",
       "date": "Fri, 14 Aug 2026 12:44:17 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta e vai a R$ 5,23, de olho em dados dos EUA e \u00E0 espera de nova pesquisa eleitoral; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/14/dolar-ibovespa.ghtml",
-      "date": "Fri, 14 Aug 2026 12:16:49 -0000"
-    },
-    {
-      "title": "Desemprego cai em 13 estados brasileiros no 2\u00BA trimestre de 2026, diz IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/14/desemprego-estados-pnad.ghtml",
-      "date": "Fri, 14 Aug 2026 12:00:34 -0000"
-    },
-    {
-      "title": "Trabalhadora \u00E9 demitida ap\u00F3s obter medida protetiva contra ex; empresa \u00E9 condenada",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/14/trabalhadora-e-demitida-apos-obter-medida-protetiva-contra-ex-empresa-e-condenada.ghtml",
-      "date": "Fri, 14 Aug 2026 11:59:44 -0000"
-    },
-    {
-      "title": "Processo de reciprocidade \u00E9 pol\u00EDtico e decis\u00E3o ficar\u00E1 para o pr\u00F3ximo governo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/14/processo-de-reciprocidade-e-politico-e-decisao-ficara-para-o-proximo-governo.ghtml",
-      "date": "Fri, 14 Aug 2026 11:59:07 -0000"
     }
   ]
 }
