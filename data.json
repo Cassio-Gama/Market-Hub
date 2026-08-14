@@ -2,57 +2,57 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166769.34,
-      "change": -0.2,
-      "changeStr": "-0.20%"
+      "price": 165569.45,
+      "change": -0.92,
+      "changeStr": "-0.92%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.72,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 42.39,
+      "change": 1.17,
+      "changeStr": "\u002B1.17%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.51,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 71.45,
+      "change": -0.63,
+      "changeStr": "-0.63%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.23,
-      "change": -0.21,
-      "changeStr": "-0.21%"
+      "price": 38.05,
+      "change": -0.68,
+      "changeStr": "-0.68%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.58,
-      "change": -0.48,
-      "changeStr": "-0.48%"
+      "price": 16.45,
+      "change": -1.26,
+      "changeStr": "-1.26%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.21,
-      "change": -4.16,
-      "changeStr": "-4.16%"
+      "price": 17.94,
+      "change": -1.48,
+      "changeStr": "-1.48%"
     },
     {
       "symbol": "MGLU3",
-      "price": 3.98,
-      "change": -6.13,
-      "changeStr": "-6.13%"
+      "price": 3.82,
+      "change": -4.02,
+      "changeStr": "-4.02%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.91,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 14.77,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.28,
-      "change": -0.46,
-      "changeStr": "-0.46%"
+      "price": 46.76,
+      "change": -1.56,
+      "changeStr": "-1.56%"
     }
   ],
   "news": [
@@ -87,7 +87,7 @@
       "date": "Fri, 14 Aug 2026 11:59:44 -0000"
     },
     {
-      "title": "Processo de reciprocidade \u00E9 pol\u00EDtico e decis\u00E3o ficar\u00E1 para o pr\u00F3ximo governo, pondera ministro",
+      "title": "Processo de reciprocidade \u00E9 pol\u00EDtico e decis\u00E3o ficar\u00E1 para o pr\u00F3ximo governo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/14/processo-de-reciprocidade-e-politico-e-decisao-ficara-para-o-proximo-governo.ghtml",
       "date": "Fri, 14 Aug 2026 11:59:07 -0000"
