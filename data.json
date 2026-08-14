@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 165345.53,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 166934.2,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.95,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 42.09,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.17,
-      "change": -1.02,
-      "changeStr": "-1.02%"
+      "price": 71.3,
+      "change": -0.83,
+      "changeStr": "-0.83%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.16,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 39,
+      "change": 1.8,
+      "changeStr": "\u002B1.80%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.37,
-      "change": -1.74,
-      "changeStr": "-1.74%"
+      "price": 16.54,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.06,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 18.38,
+      "change": 0.93,
+      "changeStr": "\u002B0.93%"
     },
     {
       "symbol": "MGLU3",
-      "price": 3.76,
-      "change": -5.53,
-      "changeStr": "-5.53%"
+      "price": 3.91,
+      "change": -1.76,
+      "changeStr": "-1.76%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,18 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 47.22,
-      "change": -0.59,
-      "changeStr": "-0.59%"
+      "price": 47.5,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     }
   ],
   "news": [
+    {
+      "title": "Golpe usa concurso da Transpetro para cobrar inscri\u00E7\u00E3o e roubar dados de candidatos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/08/14/golpe-no-concurso-da-transpetro-sites-falsos-cobram-inscricao-e-roubam-dados-de-candidatos.ghtml",
+      "date": "Fri, 14 Aug 2026 19:48:21 -0000"
+    },
     {
       "title": "Quem \u00E9 Eduardo Saverin, bilion\u00E1rio brasileiro que comprou participa\u00E7\u00E3o no Liverpool",
       "source": "G1 Economia",
@@ -69,7 +75,7 @@
       "date": "Fri, 14 Aug 2026 17:35:22 -0000"
     },
     {
-      "title": "Bilion\u00E1rio brasileiro Eduardo Saverin se junta a Jeff Bezos da Amazon e compra 30% do Liverpool da Inglaterra ",
+      "title": "Bilion\u00E1rio brasileiro Eduardo Saverin se junta a Jeff Bezos, da Amazon, e compra 30% do Liverpool da Inglaterra ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/14/jeff-bezzos-saverin-brasileiro-liverpool-compra.ghtml",
       "date": "Fri, 14 Aug 2026 17:24:54 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/empreendedorismo/noticia/2026/08/14/chef-premiado-retorna-a-restaurante-apos-denuncias-de-agressoes-e-humilhacoes.ghtml",
       "date": "Fri, 14 Aug 2026 13:09:13 -0000"
-    },
-    {
-      "title": "Vendas de carros chineses est\u00E3o em alta, exceto na pr\u00F3pria China",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/14/vendas-de-carros-chineses.ghtml",
-      "date": "Fri, 14 Aug 2026 12:44:17 -0000"
     }
   ]
 }
