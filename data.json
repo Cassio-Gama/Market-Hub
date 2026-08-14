@@ -57,6 +57,12 @@
   ],
   "news": [
     {
+      "title": "\u0027Workslop\u0027: como trabalhos malfeitos por IA est\u00E3o roubando tempo e dinheiro das empresas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/14/workslop-como-trabalhos-malfeitos-por-ia-estao-roubando-tempo-e-dinheiro-das-empresas.ghtml",
+      "date": "Fri, 14 Aug 2026 08:04:08 -0000"
+    },
+    {
       "title": "Peixes t\u00EAm \u0027impress\u00E3o digital\u0027 que revela de onde vieram, mostra estudo; entenda",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/14/peixes-tem-impressao-digital-que-revela-de-onde-vieram-mostra-estudo-entenda.ghtml",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/grupo-de-hackers-diz-ter-roubado-dados-de-quase-50-empresas-incluindo-philips-e-shell.ghtml",
       "date": "Thu, 13 Aug 2026 22:09:46 -0000"
-    },
-    {
-      "title": "Emprego formal teve 2,2 milh\u00F5es de vagas abertas no primeiro semestre de 2026, diz governo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/13/emprego-formal-abriu-22-milhoes-de-vagas-no-primeiro-semestre-de-2026-diz-governo.ghtml",
-      "date": "Thu, 13 Aug 2026 20:51:43 -0000"
     }
   ]
 }
