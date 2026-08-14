@@ -57,6 +57,12 @@
   ],
   "news": [
     {
+      "title": "Petrobras descobre pela 1\u00AA vez sinais de petr\u00F3leo ou g\u00E1s na Foz do Amazonas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/petrobras-anuncia-descoberta-de-hidrocarbonetos-em-poco-exploratorio-na-foz-do-amazonas.ghtml",
+      "date": "Fri, 14 Aug 2026 21:56:18 -0000"
+    },
+    {
       "title": "Golpe usa concurso da Transpetro para cobrar inscri\u00E7\u00E3o e roubar dados de candidatos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/08/14/golpe-no-concurso-da-transpetro-sites-falsos-cobram-inscricao-e-roubam-dados-de-candidatos.ghtml",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/14/guerra-comercial-com-os-eua-pode-encarecer-produtos-e-afetar-empregos-diz-entidade-industrial.ghtml",
       "date": "Fri, 14 Aug 2026 15:10:08 -0000"
-    },
-    {
-      "title": "Chef premiado retorna a restaurante ap\u00F3s den\u00FAncias de agress\u00F5es e humilha\u00E7\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/08/14/chef-premiado-retorna-a-restaurante-apos-denuncias-de-agressoes-e-humilhacoes.ghtml",
-      "date": "Fri, 14 Aug 2026 13:09:13 -0000"
     }
   ]
 }
