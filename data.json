@@ -2,33 +2,33 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166869.9,
-      "change": -0.04,
-      "changeStr": "-0.04%"
+      "price": 166908.05,
+      "change": -0.02,
+      "changeStr": "-0.02%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.32,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 42.19,
+      "change": 0.24,
+      "changeStr": "\u002B0.24%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.09,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 71.38,
+      "change": 0.11,
+      "changeStr": "\u002B0.11%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.49,
-      "change": -1.31,
-      "changeStr": "-1.31%"
+      "price": 38.48,
+      "change": -1.33,
+      "changeStr": "-1.33%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.36,
-      "change": -1.09,
-      "changeStr": "-1.09%"
+      "price": 16.32,
+      "change": -1.33,
+      "changeStr": "-1.33%"
     },
     {
       "symbol": "BBAS3",
@@ -38,24 +38,48 @@
     },
     {
       "symbol": "MGLU3",
-      "price": 4.16,
-      "change": 6.39,
-      "changeStr": "\u002B6.39%"
+      "price": 4.15,
+      "change": 6.14,
+      "changeStr": "\u002B6.14%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.68,
-      "change": -0.47,
-      "changeStr": "-0.47%"
+      "price": 14.62,
+      "change": -0.88,
+      "changeStr": "-0.88%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.27,
-      "change": 1.62,
-      "changeStr": "\u002B1.62%"
+      "price": 48.06,
+      "change": 1.18,
+      "changeStr": "\u002B1.18%"
     }
   ],
   "news": [
+    {
+      "title": "Dona do TikTok assina acordo sobre direitos autorais de IA com grupo de Hollywood",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/17/dona-do-tiktok-assina-acordo-sobre-direitos-autorais-de-ia-com-grupo-de-hollywood.ghtml",
+      "date": "Mon, 17 Aug 2026 15:11:44 -0000"
+    },
+    {
+      "title": "Nestl\u00E9 aposta em produtos para quem usa rem\u00E9dios para emagrecer",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/negocios/noticia/2026/08/17/nestle-aposta-em-produtos-para-quem-usa-remedios-para-emagrecer.ghtml",
+      "date": "Mon, 17 Aug 2026 14:58:33 -0000"
+    },
+    {
+      "title": "Ministro da Fazenda espera retomada da rela\u00E7\u00E3o com os Estados Unidos ap\u00F3s elei\u00E7\u00F5es e diz que Brasil n\u00E3o se dobra",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/ministro-da-fazenda-espera-retomada-da-relacao-com-os-estados-unidos-apos-eleicoes-e-diz-que-brasil-nao-se-dobra.ghtml",
+      "date": "Mon, 17 Aug 2026 14:49:07 -0000"
+    },
+    {
+      "title": "Marabraz entra com pedido de recupera\u00E7\u00E3o judicial para renegociar d\u00EDvida de R$ 140 milh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/marabraz-recuperacao-judicial.ghtml",
+      "date": "Mon, 17 Aug 2026 14:35:54 -0000"
+    },
     {
       "title": "Casas Bahia pede recupera\u00E7\u00E3o judicial; entenda o que significa e como funciona",
       "source": "G1 Economia",
@@ -87,34 +111,10 @@
       "date": "Mon, 17 Aug 2026 12:01:15 -0000"
     },
     {
-      "title": "D\u00F3lar abre em queda, ap\u00F3s pesquisa eleitoral e de olho no varejo brasileiro",
+      "title": "D\u00F3lar opera em queda, ap\u00F3s pesquisa eleitoral e de olho no varejo brasileiro; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/17/dolar-ibovespa.ghtml",
       "date": "Mon, 17 Aug 2026 12:00:22 -0000"
-    },
-    {
-      "title": "Dona da Tok\u0026Stok e da Mobly tem preju\u00EDzo de R$ 232,7 milh\u00F5es no 2\u00BA trimestre",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/17/dona-da-tokandstok-e-da-mobly-tem-prejuizo-de-r-2327-milhoes-no-2o-trimestre.ghtml",
-      "date": "Mon, 17 Aug 2026 11:51:25 -0000"
-    },
-    {
-      "title": "Por que julgamento da Meta pode mudar o futuro do Facebook e do Instagram",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/17/por-que-julgamento-da-meta-pode-mudar-o-futuro-do-facebook-e-do-instagram.ghtml",
-      "date": "Mon, 17 Aug 2026 11:45:56 -0000"
-    },
-    {
-      "title": "Casas Bahia entra com pedido de recupera\u00E7\u00E3o judicial para renegociar d\u00EDvida de R$ 17,3 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entra-com-pedido-de-recuperacao-judicial.ghtml",
-      "date": "Mon, 17 Aug 2026 10:15:09 -0000"
-    },
-    {
-      "title": "Novo golpe do Desenrola exibe CPF e dados da v\u00EDtima para cobrar acordo por PIX; saiba como se proteger",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/17/novo-golpe-do-desenrola-exibe-cpf-e-dados-da-vitima-para-cobrar-acordo-por-pix-saiba-como-se-proteger.ghtml",
-      "date": "Mon, 17 Aug 2026 08:04:11 -0000"
     }
   ]
 }
