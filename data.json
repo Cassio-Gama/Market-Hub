@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166845.03,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 166783.56,
+      "change": -0.09,
+      "changeStr": "-0.09%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.59,
-      "change": 1.19,
-      "changeStr": "\u002B1.19%"
+      "price": 42.47,
+      "change": 0.9,
+      "changeStr": "\u002B0.90%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.6,
-      "change": 0.42,
-      "changeStr": "\u002B0.42%"
+      "price": 71.41,
+      "change": 0.15,
+      "changeStr": "\u002B0.15%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.31,
-      "change": -1.77,
-      "changeStr": "-1.77%"
+      "price": 38.38,
+      "change": -1.59,
+      "changeStr": "-1.59%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.26,
-      "change": -1.69,
-      "changeStr": "-1.69%"
+      "price": 16.22,
+      "change": -1.93,
+      "changeStr": "-1.93%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18,
-      "change": -2.07,
-      "changeStr": "-2.07%"
+      "price": 17.95,
+      "change": -2.34,
+      "changeStr": "-2.34%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.2,
-      "change": 7.42,
-      "changeStr": "\u002B7.42%"
+      "price": 4.23,
+      "change": 8.18,
+      "changeStr": "\u002B8.18%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,18 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 48,
-      "change": 1.05,
-      "changeStr": "\u002B1.05%"
+      "price": 47.99,
+      "change": 1.03,
+      "changeStr": "\u002B1.03%"
     }
   ],
   "news": [
+    {
+      "title": "Petrobras confirma descoberta de petr\u00F3leo na Foz do Amazonas, no litoral do Amap\u00E1",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/petrobras-foz-do-amazonas.ghtml",
+      "date": "Mon, 17 Aug 2026 19:57:15 -0000"
+    },
     {
       "title": "Paramount pede garantia de US$ 1,88 bilh\u00E3o a estados americanos que contestam fus\u00E3o com Warner",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/17/dona-do-tiktok-assina-acordo-sobre-direitos-autorais-de-ia-com-grupo-de-hollywood.ghtml",
       "date": "Mon, 17 Aug 2026 15:11:44 -0000"
-    },
-    {
-      "title": "De amea\u00E7a a oportunidade: como a Nestl\u00E9 quer lucrar com a febre de Ozempic e Mounjaro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/negocios/noticia/2026/08/17/nestle-aposta-em-produtos-para-quem-usa-remedios-para-emagrecer.ghtml",
-      "date": "Mon, 17 Aug 2026 14:58:33 -0000"
     }
   ]
 }
