@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166723.19,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 166845.03,
+      "change": -0.05,
+      "changeStr": "-0.05%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.61,
-      "change": 1.24,
-      "changeStr": "\u002B1.24%"
+      "price": 42.59,
+      "change": 1.19,
+      "changeStr": "\u002B1.19%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.49,
-      "change": 0.27,
-      "changeStr": "\u002B0.27%"
+      "price": 71.6,
+      "change": 0.42,
+      "changeStr": "\u002B0.42%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.29,
-      "change": -1.82,
-      "changeStr": "-1.82%"
+      "price": 38.31,
+      "change": -1.77,
+      "changeStr": "-1.77%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.23,
-      "change": -1.87,
-      "changeStr": "-1.87%"
+      "price": 16.26,
+      "change": -1.69,
+      "changeStr": "-1.69%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.03,
-      "change": -1.9,
-      "changeStr": "-1.90%"
+      "price": 18,
+      "change": -2.07,
+      "changeStr": "-2.07%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.19,
-      "change": 7.16,
-      "changeStr": "\u002B7.16%"
+      "price": 4.2,
+      "change": 7.42,
+      "changeStr": "\u002B7.42%"
     },
     {
       "symbol": "ABEV3",
@@ -56,6 +56,12 @@
     }
   ],
   "news": [
+    {
+      "title": "Paramount pede garantia de US$ 1,88 bilh\u00E3o a estados americanos que contestam fus\u00E3o com Warner",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/paramount-pede-garantia-de-us-188-bilhao-a-estados-que-contestam-fusao-com-warner.ghtml",
+      "date": "Mon, 17 Aug 2026 19:07:19 -0000"
+    },
     {
       "title": "Casas Bahia espera 2027 pior que 2026, diz presidente",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/negocios/noticia/2026/08/17/nestle-aposta-em-produtos-para-quem-usa-remedios-para-emagrecer.ghtml",
       "date": "Mon, 17 Aug 2026 14:58:33 -0000"
-    },
-    {
-      "title": "Ministro da Fazenda espera retomada da rela\u00E7\u00E3o com os Estados Unidos ap\u00F3s elei\u00E7\u00F5es e diz que Brasil n\u00E3o se dobra",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/17/ministro-da-fazenda-espera-retomada-da-relacao-com-os-estados-unidos-apos-eleicoes-e-diz-que-brasil-nao-se-dobra.ghtml",
-      "date": "Mon, 17 Aug 2026 14:49:07 -0000"
     }
   ]
 }
