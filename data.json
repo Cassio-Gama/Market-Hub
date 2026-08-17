@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166820.5,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 166723.19,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.23,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
+      "price": 42.61,
+      "change": 1.24,
+      "changeStr": "\u002B1.24%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.69,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 71.49,
+      "change": 0.27,
+      "changeStr": "\u002B0.27%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.3,
-      "change": -1.79,
-      "changeStr": "-1.79%"
+      "price": 38.29,
+      "change": -1.82,
+      "changeStr": "-1.82%"
     },
     {
       "symbol": "BBDC4",
@@ -32,30 +32,48 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 18.12,
-      "change": -1.41,
-      "changeStr": "-1.41%"
+      "price": 18.03,
+      "change": -1.9,
+      "changeStr": "-1.90%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.1,
-      "change": 4.86,
-      "changeStr": "\u002B4.86%"
+      "price": 4.19,
+      "change": 7.16,
+      "changeStr": "\u002B7.16%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.71,
-      "change": -0.27,
-      "changeStr": "-0.27%"
+      "price": 14.67,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.96,
-      "change": 0.97,
-      "changeStr": "\u002B0.97%"
+      "price": 48,
+      "change": 1.05,
+      "changeStr": "\u002B1.05%"
     }
   ],
   "news": [
+    {
+      "title": "Casas Bahia espera 2027 pior que 2026, diz presidente",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-espera-2027-pior-que-2026-diz-presidente.ghtml",
+      "date": "Mon, 17 Aug 2026 18:19:52 -0000"
+    },
+    {
+      "title": "Recupera\u00E7\u00E3o judicial da Casas Bahia: o que muda para quem comprou? E para os funcion\u00E1rios?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/17/recuperacao-judicial-da-casas-bahia-o-que-muda-para-quem-comprou-e-para-os-funcionarios.ghtml",
+      "date": "Mon, 17 Aug 2026 18:10:54 -0000"
+    },
+    {
+      "title": "\u0027Proibir redes sociais para jovens n\u00E3o ser\u00E1 solu\u00E7\u00E3o m\u00E1gica\u0027, diz psic\u00F3loga canadense",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/17/proibir-redes-sociais-para-jovens-nao-sera-solucao-magica-diz-psicologa-canadense.ghtml",
+      "date": "Mon, 17 Aug 2026 17:58:56 -0000"
+    },
     {
       "title": "Rio \u2018AAA\u2019: o que a nota de cr\u00E9dito da Fitch significa para a cidade?",
       "source": "G1 Economia",
@@ -75,7 +93,7 @@
       "date": "Mon, 17 Aug 2026 16:14:13 -0000"
     },
     {
-      "title": "Ex-funcion\u00E1rio da Casas Bahia usa redes sociais para lamentar fechamento de loja: \u0027daqui, tirei meu sustento\u0027",
+      "title": "Ex-funcion\u00E1rios da Casas Bahia lamentam fechamento de lojas em meio a crise da varejista",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/17/ex-funcionario-da-casas-bahia-usa-redes-sociais-para-lamentar-fechamento-de-loja-daqui-eu-formei-minha-familia.ghtml",
       "date": "Mon, 17 Aug 2026 15:49:27 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/17/ministro-da-fazenda-espera-retomada-da-relacao-com-os-estados-unidos-apos-eleicoes-e-diz-que-brasil-nao-se-dobra.ghtml",
       "date": "Mon, 17 Aug 2026 14:49:07 -0000"
-    },
-    {
-      "title": "Marabraz entra com pedido de recupera\u00E7\u00E3o judicial para renegociar d\u00EDvida de R$ 140 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/17/marabraz-recuperacao-judicial.ghtml",
-      "date": "Mon, 17 Aug 2026 14:35:54 -0000"
-    },
-    {
-      "title": "Casas Bahia pede recupera\u00E7\u00E3o judicial; entenda o que significa e como funciona",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-pede-recuperacao-judicial-entenda-o-que-significa-e-como-funciona.ghtml",
-      "date": "Mon, 17 Aug 2026 13:50:29 -0000"
-    },
-    {
-      "title": "A\u00E7\u00F5es da Casas Bahia despencam na bolsa e passam de mais de R$ 400 para centavos em 5 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/17/acoes-da-casas-bahia.ghtml",
-      "date": "Mon, 17 Aug 2026 13:46:10 -0000"
     }
   ]
 }
