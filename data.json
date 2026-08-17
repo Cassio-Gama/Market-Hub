@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166867.81,
-      "change": -0.04,
-      "changeStr": "-0.04%"
+      "price": 166820.5,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.38,
-      "change": 0.69,
-      "changeStr": "\u002B0.69%"
+      "price": 42.23,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.6,
-      "change": 0.42,
-      "changeStr": "\u002B0.42%"
+      "price": 71.69,
+      "change": 0.55,
+      "changeStr": "\u002B0.55%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.34,
-      "change": -1.69,
-      "changeStr": "-1.69%"
+      "price": 38.3,
+      "change": -1.79,
+      "changeStr": "-1.79%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.27,
-      "change": -1.63,
-      "changeStr": "-1.63%"
+      "price": 16.23,
+      "change": -1.87,
+      "changeStr": "-1.87%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.19,
-      "change": -1.03,
-      "changeStr": "-1.03%"
+      "price": 18.12,
+      "change": -1.41,
+      "changeStr": "-1.41%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.12,
-      "change": 5.37,
-      "changeStr": "\u002B5.37%"
+      "price": 4.1,
+      "change": 4.86,
+      "changeStr": "\u002B4.86%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.67,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 14.71,
+      "change": -0.27,
+      "changeStr": "-0.27%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.9,
-      "change": 0.84,
-      "changeStr": "\u002B0.84%"
+      "price": 47.96,
+      "change": 0.97,
+      "changeStr": "\u002B0.97%"
     }
   ],
   "news": [
+    {
+      "title": "Rio \u2018AAA\u2019: o que a nota de cr\u00E9dito da Fitch significa para a cidade?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/17/rio-aaa-o-que-a-nota-de-credito-da-fitch-significa-para-a-cidade.ghtml",
+      "date": "Mon, 17 Aug 2026 16:45:07 -0000"
+    },
+    {
+      "title": "Juros altos, cr\u00E9dito caro e marketplaces: os choques que pressionam o varejo brasileiro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/os-choques-que-pressionam-o-varejo-brasileiro.ghtml",
+      "date": "Mon, 17 Aug 2026 16:31:34 -0000"
+    },
     {
       "title": "Estrangeiros retiram R$ 15,6 bilh\u00F5es da Bolsa em agosto, maior sa\u00EDda desde 2022",
       "source": "G1 Economia",
@@ -75,7 +87,7 @@
       "date": "Mon, 17 Aug 2026 15:11:44 -0000"
     },
     {
-      "title": "Nestl\u00E9 aposta em produtos para quem usa rem\u00E9dios para emagrecer",
+      "title": "De amea\u00E7a a oportunidade: como a Nestl\u00E9 quer lucrar com a febre de Ozempic e Mounjaro",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/negocios/noticia/2026/08/17/nestle-aposta-em-produtos-para-quem-usa-remedios-para-emagrecer.ghtml",
       "date": "Mon, 17 Aug 2026 14:58:33 -0000"
@@ -99,22 +111,10 @@
       "date": "Mon, 17 Aug 2026 13:50:29 -0000"
     },
     {
-      "title": "A\u00E7\u00F5es da Casas Bahia despencam na Bolsa e passam de mais de R$ 400 para centavos em cinco anos",
+      "title": "A\u00E7\u00F5es da Casas Bahia despencam na bolsa e passam de mais de R$ 400 para centavos em 5 anos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/17/acoes-da-casas-bahia.ghtml",
       "date": "Mon, 17 Aug 2026 13:46:10 -0000"
-    },
-    {
-      "title": "Casas Bahia pede recupera\u00E7\u00E3o judicial: entenda a crise da varejista e quem faz parte do grupo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entenda-a-crise.ghtml",
-      "date": "Mon, 17 Aug 2026 13:30:41 -0000"
-    },
-    {
-      "title": "Casas Bahia demite 3 mil funcion\u00E1rios e fecha quase 300 lojas em agosto; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/17/casas-bahia-demite-3-mil-funcionarios-e-fecha-quase-300-lojas-em-agosto-entenda.ghtml",
-      "date": "Mon, 17 Aug 2026 13:28:46 -0000"
     }
   ]
 }
