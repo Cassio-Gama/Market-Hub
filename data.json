@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166934.2,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 167903.83,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.09,
-      "change": 0.45,
-      "changeStr": "\u002B0.45%"
+      "price": 42.67,
+      "change": 1.38,
+      "changeStr": "\u002B1.38%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.3,
-      "change": -0.83,
-      "changeStr": "-0.83%"
+      "price": 71.27,
+      "change": -0.04,
+      "changeStr": "-0.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39,
-      "change": 1.8,
-      "changeStr": "\u002B1.80%"
+      "price": 38.85,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.54,
-      "change": -0.72,
-      "changeStr": "-0.72%"
+      "price": 16.49,
+      "change": -0.3,
+      "changeStr": "-0.30%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.38,
-      "change": 0.93,
-      "changeStr": "\u002B0.93%"
+      "price": 18.35,
+      "change": -0.16,
+      "changeStr": "-0.16%"
     },
     {
       "symbol": "MGLU3",
-      "price": 3.91,
-      "change": -1.76,
-      "changeStr": "-1.76%"
+      "price": 4.25,
+      "change": 8.7,
+      "changeStr": "\u002B8.70%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.75,
-      "change": -1.14,
-      "changeStr": "-1.14%"
+      "price": 14.86,
+      "change": 0.75,
+      "changeStr": "\u002B0.75%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.5,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 48.05,
+      "change": 1.16,
+      "changeStr": "\u002B1.16%"
     }
   ],
   "news": [
+    {
+      "title": "Casas Bahia pede recupera\u00E7\u00E3o judicial: entenda a crise da varejista e quem faz parte do grupo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entenda-a-crise.ghtml",
+      "date": "Mon, 17 Aug 2026 13:30:41 -0000"
+    },
+    {
+      "title": "Casas Bahia demite 3 mil funcion\u00E1rios e fecha quase 300 lojas em agosto; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/17/casas-bahia-demite-3-mil-funcionarios-e-fecha-quase-300-lojas-em-agosto-entenda.ghtml",
+      "date": "Mon, 17 Aug 2026 13:28:46 -0000"
+    },
     {
       "title": "\u0027Pr\u00E9via\u0027 do PIB do Banco Central registra crescimento de 0,2% no 2\u00BA trimestre, com forte desacelera\u00E7\u00E3o",
       "source": "G1 Economia",
@@ -81,7 +93,7 @@
       "date": "Mon, 17 Aug 2026 11:45:56 -0000"
     },
     {
-      "title": "Casas Bahia entra com pedido de recupera\u00E7\u00E3o judicial",
+      "title": "Casas Bahia entra com pedido de recupera\u00E7\u00E3o judicial para renegociar d\u00EDvida de R$ 17,3 bilh\u00F5es",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entra-com-pedido-de-recuperacao-judicial.ghtml",
       "date": "Mon, 17 Aug 2026 10:15:09 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/17/correios-balanco-previo-aponta-prejuizo-de-r-54-bilhoes-no-1o-semestre-de-2026.ghtml",
       "date": "Mon, 17 Aug 2026 05:00:10 -0000"
-    },
-    {
-      "title": "Ag\u00EAncia de classifica\u00E7\u00E3o de risco Fitch eleva nota de cr\u00E9dito do munic\u00EDpio do Rio de Janeiro para o grau mais alto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/16/agencia-de-classificacao-de-risco-fitch-eleva-nota-de-credito-do-municipio-do-rio-de-janeiro-para-o-grau-mais-alto.ghtml",
-      "date": "Sun, 16 Aug 2026 15:44:40 -0000"
-    },
-    {
-      "title": "Mega-Sena, concurso 3045: confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/16/mega-sena-concurso-3045-confira-os-numeros-sorteados.ghtml",
-      "date": "Sun, 16 Aug 2026 14:03:19 -0000"
     }
   ]
 }
