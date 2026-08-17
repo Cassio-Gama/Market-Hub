@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166908.05,
-      "change": -0.02,
-      "changeStr": "-0.02%"
+      "price": 166867.81,
+      "change": -0.04,
+      "changeStr": "-0.04%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.19,
-      "change": 0.24,
-      "changeStr": "\u002B0.24%"
+      "price": 42.38,
+      "change": 0.69,
+      "changeStr": "\u002B0.69%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.38,
-      "change": 0.11,
-      "changeStr": "\u002B0.11%"
+      "price": 71.6,
+      "change": 0.42,
+      "changeStr": "\u002B0.42%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.48,
-      "change": -1.33,
-      "changeStr": "-1.33%"
+      "price": 38.34,
+      "change": -1.69,
+      "changeStr": "-1.69%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.32,
-      "change": -1.33,
-      "changeStr": "-1.33%"
+      "price": 16.27,
+      "change": -1.63,
+      "changeStr": "-1.63%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.28,
+      "price": 18.19,
+      "change": -1.03,
+      "changeStr": "-1.03%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 4.12,
+      "change": 5.37,
+      "changeStr": "\u002B5.37%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 14.67,
       "change": -0.54,
       "changeStr": "-0.54%"
     },
     {
-      "symbol": "MGLU3",
-      "price": 4.15,
-      "change": 6.14,
-      "changeStr": "\u002B6.14%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 14.62,
-      "change": -0.88,
-      "changeStr": "-0.88%"
-    },
-    {
       "symbol": "WEGE3",
-      "price": 48.06,
-      "change": 1.18,
-      "changeStr": "\u002B1.18%"
+      "price": 47.9,
+      "change": 0.84,
+      "changeStr": "\u002B0.84%"
     }
   ],
   "news": [
+    {
+      "title": "Estrangeiros retiram R$ 15,6 bilh\u00F5es da Bolsa em agosto, maior sa\u00EDda desde 2022",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/estrangeiros-retiram-r-156-bilhoes-da-bolsa-em-agosto-maior-saida-desde-2022.ghtml",
+      "date": "Mon, 17 Aug 2026 16:14:13 -0000"
+    },
+    {
+      "title": "Ex-funcion\u00E1rio da Casas Bahia usa redes sociais para lamentar fechamento de loja: \u0027daqui, tirei meu sustento\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/ex-funcionario-da-casas-bahia-usa-redes-sociais-para-lamentar-fechamento-de-loja-daqui-eu-formei-minha-familia.ghtml",
+      "date": "Mon, 17 Aug 2026 15:49:27 -0000"
+    },
     {
       "title": "Dona do TikTok assina acordo sobre direitos autorais de IA com grupo de Hollywood",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/17/casas-bahia-demite-3-mil-funcionarios-e-fecha-quase-300-lojas-em-agosto-entenda.ghtml",
       "date": "Mon, 17 Aug 2026 13:28:46 -0000"
-    },
-    {
-      "title": "\u0027Pr\u00E9via\u0027 do PIB do Banco Central registra crescimento de 0,2% no 2\u00BA trimestre, com forte desacelera\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/17/previa-do-pib-do-banco-central-registra-crescimento-de-02percent-no-2o-trimestre.ghtml",
-      "date": "Mon, 17 Aug 2026 12:01:15 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda, ap\u00F3s pesquisa eleitoral e de olho no varejo brasileiro; Ibovespa sobe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/17/dolar-ibovespa.ghtml",
-      "date": "Mon, 17 Aug 2026 12:00:22 -0000"
     }
   ]
 }
