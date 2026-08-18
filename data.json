@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166953.47,
-      "change": 0.1,
-      "changeStr": "\u002B0.10%"
+      "price": 166648.14,
+      "change": -0.08,
+      "changeStr": "-0.08%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.79,
-      "change": 0.75,
-      "changeStr": "\u002B0.75%"
+      "price": 42.43,
+      "change": -0.09,
+      "changeStr": "-0.09%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.08,
-      "change": 0.94,
-      "changeStr": "\u002B0.94%"
+      "price": 71.99,
+      "change": 0.81,
+      "changeStr": "\u002B0.81%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.44,
-      "change": 0.16,
-      "changeStr": "\u002B0.16%"
+      "price": 38.41,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.19,
-      "change": -0.18,
-      "changeStr": "-0.18%"
+      "price": 16.18,
+      "change": -0.25,
+      "changeStr": "-0.25%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.89,
-      "change": -0.33,
-      "changeStr": "-0.33%"
+      "price": 17.88,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.14,
-      "change": -2.13,
-      "changeStr": "-2.13%"
+      "price": 4.19,
+      "change": -0.95,
+      "changeStr": "-0.95%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.78,
-      "change": 0.75,
-      "changeStr": "\u002B0.75%"
+      "price": 14.74,
+      "change": 0.48,
+      "changeStr": "\u002B0.48%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.89,
-      "change": -0.21,
-      "changeStr": "-0.21%"
+      "price": 48.13,
+      "change": 0.29,
+      "changeStr": "\u002B0.29%"
     }
   ],
   "news": [
+    {
+      "title": "Efeito domin\u00F3: crises de Casas Bahia e Marabraz podem deixar cr\u00E9dito mais dif\u00EDcil ao varejo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/18/efeito-domino-crises-de-casas-bahia-e-marabraz-podem-deixar-credito-mais-dificil-ao-varejo.ghtml",
+      "date": "Tue, 18 Aug 2026 16:30:08 -0000"
+    },
+    {
+      "title": "Crise na Apex: justi\u00E7a decreta bloqueio de bens e quebra de sigilo banc\u00E1rio de presidente afastado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/18/crise-na-apex-justica-decreta-bloqueio-de-bens-e-quebra-de-sigilo-bancario-de-presidente-afastado.ghtml",
+      "date": "Tue, 18 Aug 2026 16:18:05 -0000"
+    },
+    {
+      "title": "Rob\u00F4s que dan\u00E7am, lutam e trabalham: gigante chinesa estreia na bolsa ap\u00F3s levantar quase US$ 1 bilh\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/18/robos-que-dancam-lutam-e-trabalham-gigante-chinesa-estreia-na-bolsa-apos-levantar-quase-us-1-bilhao.ghtml",
+      "date": "Tue, 18 Aug 2026 15:58:37 -0000"
+    },
+    {
+      "title": "Disney processa governo Trump para barrar amea\u00E7a contra emissoras da ABC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/18/disney-processa-governo-trump-para-barrar-ameaca-contra-emissoras-da-abc.ghtml",
+      "date": "Tue, 18 Aug 2026 15:40:55 -0000"
+    },
     {
       "title": "Lei Seca: nova regra vai detectar uso de drogas e fazer pr\u00E9-teste em motorista para indicar \u00E1lcool",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/18/chatgpt-anuncia-versao-para-adolescentes-com-limites-de-conteudo-uso-e-controle-dos-pais.ghtml",
       "date": "Tue, 18 Aug 2026 11:42:49 -0000"
-    },
-    {
-      "title": "Meta enfrenta julgamento que pode for\u00E7ar mudan\u00E7as em Facebook e Instagram",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/18/meta-julgamento.ghtml",
-      "date": "Tue, 18 Aug 2026 10:54:46 -0000"
-    },
-    {
-      "title": "Novo pr\u00E9-sal? O que j\u00E1 se sabe e o que ainda falta descobrir sobre o petr\u00F3leo na Foz do Amazonas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/ap/amapa/noticia/2026/08/18/novo-pre-sal-o-que-ja-se-sabe-e-o-que-ainda-falta-descobrir-sobre-o-petroleo-na-foz-do-amazonas.ghtml",
-      "date": "Tue, 18 Aug 2026 09:52:48 -0000"
-    },
-    {
-      "title": "Crise econ\u00F4mica, \u0027santinho\u0027 nas redes e mais: casos na Justi\u00E7a mostram formas mais comuns de ass\u00E9dio eleitoral no trabalho ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/crise-economica-santinho-nas-redes-e-mais-casos-na-justica-mostram-formas-mais-comuns-de-assedio-eleitoral-no-trabalho.ghtml",
-      "date": "Tue, 18 Aug 2026 08:03:06 -0000"
-    },
-    {
-      "title": "Empregos em tecnologia crescem mais fora do Sul e Sudeste; sal\u00E1rios chegam a R$ 40,5 mil ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/empregos-em-tecnologia-crescem-mais-fora-do-sul-e-sudeste.ghtml",
-      "date": "Tue, 18 Aug 2026 08:02:41 -0000"
     }
   ]
 }
