@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167589.19,
-      "change": 0.48,
-      "changeStr": "\u002B0.48%"
+      "price": 166953.47,
+      "change": 0.1,
+      "changeStr": "\u002B0.10%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.98,
-      "change": 1.2,
-      "changeStr": "\u002B1.20%"
+      "price": 42.79,
+      "change": 0.75,
+      "changeStr": "\u002B0.75%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.46,
-      "change": 1.47,
-      "changeStr": "\u002B1.47%"
+      "price": 72.08,
+      "change": 0.94,
+      "changeStr": "\u002B0.94%"
     },
     {
       "symbol": "ITUB4",
@@ -26,36 +26,54 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 16.23,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 16.19,
+      "change": -0.18,
+      "changeStr": "-0.18%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.96,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 17.89,
+      "change": -0.33,
+      "changeStr": "-0.33%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.08,
-      "change": -3.55,
-      "changeStr": "-3.55%"
+      "price": 4.14,
+      "change": -2.13,
+      "changeStr": "-2.13%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.77,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 14.78,
+      "change": 0.75,
+      "changeStr": "\u002B0.75%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.14,
-      "change": 0.31,
-      "changeStr": "\u002B0.31%"
+      "price": 47.89,
+      "change": -0.21,
+      "changeStr": "-0.21%"
     }
   ],
   "news": [
+    {
+      "title": "Lei Seca: nova regra vai detectar uso de drogas e fazer pr\u00E9-teste em motorista para indicar \u00E1lcool",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/18/novas-regras-lei-seca-teste-uso-de-drogas.ghtml",
+      "date": "Tue, 18 Aug 2026 15:12:50 -0000"
+    },
+    {
+      "title": "Elogiou, ganhou? Clientes acusam maior bet do Brasil de dar b\u00F4nus por avalia\u00E7\u00F5es positivas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/noticia/2026/08/18/elogiou-ganhou-clientes-acusam-maior-bet-do-brasil-de-dar-bonus-por-avaliacoes-positivas.ghtml",
+      "date": "Tue, 18 Aug 2026 14:56:07 -0000"
+    },
+    {
+      "title": "De Casas Bahia ao Grupo P\u00E3o de A\u00E7\u00FAcar: por que grandes varejistas est\u00E3o revendo o modelo de lojas f\u00EDsicas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/08/18/de-casas-bahia-ao-grupo-pao-de-acucar-por-que-grandes-varejistas-estao-revendo-o-modelo-de-lojas-fisicas.ghtml",
+      "date": "Tue, 18 Aug 2026 14:55:38 -0000"
+    },
     {
       "title": "STF decide que munic\u00EDpios n\u00E3o podem cobrar IPTU com al\u00EDquota maior por causa do tamanho do im\u00F3vel",
       "source": "G1 Economia",
@@ -63,7 +81,7 @@
       "date": "Tue, 18 Aug 2026 12:52:19 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta, de olho em petr\u00F3leo e dados de atividade nos EUA; Ibovespa sobe",
+      "title": "D\u00F3lar inverte e passa a cair, de olho em petr\u00F3leo e dados de atividade nos EUA; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/18/dolar-ibovespa.ghtml",
       "date": "Tue, 18 Aug 2026 12:00:09 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/empregos-em-tecnologia-crescem-mais-fora-do-sul-e-sudeste.ghtml",
       "date": "Tue, 18 Aug 2026 08:02:41 -0000"
-    },
-    {
-      "title": "Trabalhadores veem empresas tolerarem abusos de chefes que entregam resultados ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/trabalhadores-veem-empresas-tolerarem-abusos-de-chefes-que-entregam-resultados.ghtml",
-      "date": "Tue, 18 Aug 2026 07:03:11 -0000"
-    },
-    {
-      "title": "C\u00E2meras digitais e fones com fio est\u00E3o de volta. Mas por qu\u00EA?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/18/por-que-cameras-digitais-e-fones-com-fio-estao-de-volta.ghtml",
-      "date": "Tue, 18 Aug 2026 06:02:16 -0000"
-    },
-    {
-      "title": "Lim\u00F5es \u0027alien\u00EDgenas\u0027 intrigam produtora; entenda o que causa a deforma\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/18/limoes-alienigenas-intrigam-produtora-entenda-o-que-causa-a-deformacao.ghtml",
-      "date": "Tue, 18 Aug 2026 06:00:18 -0000"
     }
   ]
 }
