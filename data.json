@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166875.17,
-      "change": 0.05,
-      "changeStr": "\u002B0.05%"
+      "price": 167019.27,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.75,
-      "change": 0.66,
-      "changeStr": "\u002B0.66%"
+      "price": 42.86,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.95,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 71.51,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.53,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 38.3,
+      "change": -0.21,
+      "changeStr": "-0.21%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.2,
-      "change": -0.12,
-      "changeStr": "-0.12%"
+      "price": 16.1,
+      "change": -0.74,
+      "changeStr": "-0.74%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.91,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 17.87,
+      "change": -0.45,
+      "changeStr": "-0.45%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.19,
-      "change": -0.95,
-      "changeStr": "-0.95%"
+      "price": 4.23,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,30 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 48.21,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 48.47,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     }
   ],
   "news": [
+    {
+      "title": "Ibovespa tem 2\u00BA pior desempenho entre 21 bolsas em agosto",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/18/ibovespa-tem-2o-pior-desempenho-entre-21-bolsas-em-agosto.ghtml",
+      "date": "Tue, 18 Aug 2026 18:37:36 -0000"
+    },
+    {
+      "title": "OpenAI reduz desenvolvimento de IA ap\u00F3s agente em teste invadir sistemas de outra empresa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/18/openai-reduz-desenvolvimento-de-ia-apos-agente-em-teste-invadir-sistemas-de-outra-empresa.ghtml",
+      "date": "Tue, 18 Aug 2026 18:31:46 -0000"
+    },
+    {
+      "title": "Promessa de menos trabalho com IA esbarra em jornadas de at\u00E9 90 horas; OpenAI n\u00E3o testou \u0027semana de 4 dias\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/promessa-de-menos-trabalho-com-ia-esbarra-em-jornadas-de-ate-90-horas.ghtml",
+      "date": "Tue, 18 Aug 2026 17:37:11 -0000"
+    },
     {
       "title": "Minist\u00E9rio da Fazenda suspende ZeroumBet, criada pela influenciadora Deolane Bezerra, e outras empresas de apostas online",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/18/disney-processa-governo-trump-para-barrar-ameaca-contra-emissoras-da-abc.ghtml",
       "date": "Tue, 18 Aug 2026 15:40:55 -0000"
-    },
-    {
-      "title": "Lei Seca: nova regra vai detectar uso de drogas e fazer pr\u00E9-teste em motorista para indicar \u00E1lcool",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/18/novas-regras-lei-seca-teste-uso-de-drogas.ghtml",
-      "date": "Tue, 18 Aug 2026 15:12:50 -0000"
-    },
-    {
-      "title": "Elogiou, ganhou? Clientes acusam maior bet do Brasil de dar b\u00F4nus por avalia\u00E7\u00F5es positivas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/noticia/2026/08/18/elogiou-ganhou-clientes-acusam-maior-bet-do-brasil-de-dar-bonus-por-avaliacoes-positivas.ghtml",
-      "date": "Tue, 18 Aug 2026 14:56:07 -0000"
-    },
-    {
-      "title": "De Casas Bahia ao Grupo P\u00E3o de A\u00E7\u00FAcar: por que grandes varejistas est\u00E3o revendo o modelo de lojas f\u00EDsicas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/08/18/de-casas-bahia-ao-grupo-pao-de-acucar-por-que-grandes-varejistas-estao-revendo-o-modelo-de-lojas-fisicas.ghtml",
-      "date": "Tue, 18 Aug 2026 14:55:38 -0000"
     }
   ]
 }
