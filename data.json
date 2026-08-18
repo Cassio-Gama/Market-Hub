@@ -2,57 +2,57 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167702.58,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 167589.19,
+      "change": 0.48,
+      "changeStr": "\u002B0.48%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.02,
-      "change": 1.3,
-      "changeStr": "\u002B1.30%"
+      "price": 42.98,
+      "change": 1.2,
+      "changeStr": "\u002B1.20%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.66,
-      "change": 0.35,
-      "changeStr": "\u002B0.35%"
+      "price": 72.46,
+      "change": 1.47,
+      "changeStr": "\u002B1.47%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.62,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
+      "price": 38.44,
+      "change": 0.16,
+      "changeStr": "\u002B0.16%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.29,
-      "change": 0.43,
-      "changeStr": "\u002B0.43%"
+      "price": 16.23,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.95,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 17.96,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.12,
-      "change": -2.6,
-      "changeStr": "-2.60%"
+      "price": 4.08,
+      "change": -3.55,
+      "changeStr": "-3.55%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.75,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 14.77,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.19,
-      "change": 0.42,
-      "changeStr": "\u002B0.42%"
+      "price": 48.14,
+      "change": 0.31,
+      "changeStr": "\u002B0.31%"
     }
   ],
   "news": [
@@ -63,7 +63,7 @@
       "date": "Tue, 18 Aug 2026 12:52:19 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, de olho em petr\u00F3leo e dados de atividade nos EUA",
+      "title": "D\u00F3lar opera em alta, de olho em petr\u00F3leo e dados de atividade nos EUA; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/18/dolar-ibovespa.ghtml",
       "date": "Tue, 18 Aug 2026 12:00:09 -0000"
