@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167771.7,
-      "change": 0.86,
-      "changeStr": "\u002B0.86%"
+      "price": 167510.75,
+      "change": 0.71,
+      "changeStr": "\u002B0.71%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.4,
-      "change": 1.88,
-      "changeStr": "\u002B1.88%"
+      "price": 43.24,
+      "change": 1.5,
+      "changeStr": "\u002B1.50%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.06,
-      "change": 0.71,
-      "changeStr": "\u002B0.71%"
+      "price": 72.13,
+      "change": 0.81,
+      "changeStr": "\u002B0.81%"
     },
     {
       "symbol": "ITUB4",
@@ -26,33 +26,33 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 16.08,
-      "change": -0.25,
-      "changeStr": "-0.25%"
+      "price": 16.05,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.12,
-      "change": 1.8,
-      "changeStr": "\u002B1.80%"
+      "price": 18.05,
+      "change": 1.4,
+      "changeStr": "\u002B1.40%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.13,
-      "change": -3.5,
-      "changeStr": "-3.50%"
+      "price": 4.1,
+      "change": -4.21,
+      "changeStr": "-4.21%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.79,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 14.74,
+      "change": 0.07,
+      "changeStr": "\u002B0.07%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.4,
-      "change": -0.14,
-      "changeStr": "-0.14%"
+      "price": 48.34,
+      "change": -0.27,
+      "changeStr": "-0.27%"
     }
   ],
   "news": [
@@ -63,7 +63,7 @@
       "date": "Wed, 19 Aug 2026 18:25:12 -0000"
     },
     {
-      "title": "Ministro do Desenvolvimento diz que tarifa\u00E7o dos EUA \u00E9 ilegal e espera amenizar efeitos at\u00E9 dezembro",
+      "title": "Ministro do Desenvolvimento diz que tarifa\u00E7o dos EUA \u00E9 \u0027ilegal\u0027 e espera amenizar efeitos at\u00E9 dezembro",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/19/ministro-do-desenvolvimento-diz-que-tarifaco-dos-eua-e-ilegal-e-espera-amenizar-efeitos-ate-dezembro.ghtml",
       "date": "Wed, 19 Aug 2026 18:18:33 -0000"
