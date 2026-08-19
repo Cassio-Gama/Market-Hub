@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167953.98,
-      "change": 0.97,
-      "changeStr": "\u002B0.97%"
+      "price": 167771.7,
+      "change": 0.86,
+      "changeStr": "\u002B0.86%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.23,
-      "change": 1.48,
-      "changeStr": "\u002B1.48%"
+      "price": 43.4,
+      "change": 1.88,
+      "changeStr": "\u002B1.88%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.98,
-      "change": 2,
-      "changeStr": "\u002B2.00%"
+      "price": 72.06,
+      "change": 0.71,
+      "changeStr": "\u002B0.71%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.24,
-      "change": 0.13,
-      "changeStr": "\u002B0.13%"
+      "price": 38.41,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.05,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 16.08,
+      "change": -0.25,
+      "changeStr": "-0.25%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.11,
-      "change": 1.74,
-      "changeStr": "\u002B1.74%"
+      "price": 18.12,
+      "change": 1.8,
+      "changeStr": "\u002B1.80%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.16,
-      "change": -2.8,
-      "changeStr": "-2.80%"
+      "price": 4.13,
+      "change": -3.5,
+      "changeStr": "-3.50%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.72,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 14.79,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.35,
-      "change": -0.25,
-      "changeStr": "-0.25%"
+      "price": 48.4,
+      "change": -0.14,
+      "changeStr": "-0.14%"
     }
   ],
   "news": [
+    {
+      "title": "Ap\u00F3s recordes, bolsa entra em queda livre: por que o Ibovespa vive sua pior sequ\u00EAncia desde 2023?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/19/apos-recordes-bolsa-entra-em-queda-livre-por-que-o-ibovespa-vive-sua-pior-sequencia-desde-2023.ghtml",
+      "date": "Wed, 19 Aug 2026 18:25:12 -0000"
+    },
+    {
+      "title": "Ministro do Desenvolvimento diz que tarifa\u00E7o dos EUA \u00E9 ilegal e espera amenizar efeitos at\u00E9 dezembro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/19/ministro-do-desenvolvimento-diz-que-tarifaco-dos-eua-e-ilegal-e-espera-amenizar-efeitos-ate-dezembro.ghtml",
+      "date": "Wed, 19 Aug 2026 18:18:33 -0000"
+    },
     {
       "title": "Ex-executivo da Meta diz que Zuckerberg deixou seguran\u00E7a infantil em segundo plano",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/19/acoes-da-moderna-disparam-90percent-apos-vacina-personalizada-contra-cancer-ter-resultado-positivo-em-teste.ghtml",
       "date": "Wed, 19 Aug 2026 13:47:32 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda, de olho em alta do petr\u00F3leo e \u00E0 espera da ata do Fed; Ibovespa sobe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/19/dolar-ibovespa.ghtml",
-      "date": "Wed, 19 Aug 2026 12:00:20 -0000"
-    },
-    {
-      "title": "Lei Seca com teste de drogas em motoristas entra em vigor; entenda o que muda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/19/diario-oficial-da-uniao-publica-novas-regras-lei-seca-teste-uso-de-drogas-entenda.ghtml",
-      "date": "Wed, 19 Aug 2026 11:27:37 -0000"
     }
   ]
 }
