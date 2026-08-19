@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169106.19,
-      "change": 1.67,
-      "changeStr": "\u002B1.67%"
+      "price": 169988.98,
+      "change": 2.2,
+      "changeStr": "\u002B2.20%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.58,
-      "change": 2.3,
-      "changeStr": "\u002B2.30%"
+      "price": 43.83,
+      "change": 2.89,
+      "changeStr": "\u002B2.89%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.24,
-      "change": 2.36,
-      "changeStr": "\u002B2.36%"
+      "price": 73.53,
+      "change": 2.77,
+      "changeStr": "\u002B2.77%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.75,
-      "change": 1.47,
-      "changeStr": "\u002B1.47%"
+      "price": 38.73,
+      "change": 1.41,
+      "changeStr": "\u002B1.41%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.37,
-      "change": 1.55,
-      "changeStr": "\u002B1.55%"
+      "price": 16.34,
+      "change": 1.36,
+      "changeStr": "\u002B1.36%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.23,
-      "change": 2.42,
-      "changeStr": "\u002B2.42%"
+      "price": 18.12,
+      "change": 1.8,
+      "changeStr": "\u002B1.80%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.4,
-      "change": 2.8,
-      "changeStr": "\u002B2.80%"
+      "price": 4.33,
+      "change": 1.17,
+      "changeStr": "\u002B1.17%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.83,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 14.88,
+      "change": 1.02,
+      "changeStr": "\u002B1.02%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.8,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 48.85,
+      "change": 0.78,
+      "changeStr": "\u002B0.78%"
     }
   ],
   "news": [
+    {
+      "title": "A\u00E7\u00F5es da Moderna disparam 90% ap\u00F3s vacina personalizada contra c\u00E2ncer ter resultado positivo em teste",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/19/acoes-da-moderna-disparam-90percent-apos-vacina-personalizada-contra-cancer-ter-resultado-positivo-em-teste.ghtml",
+      "date": "Wed, 19 Aug 2026 13:47:32 -0000"
+    },
     {
       "title": "D\u00F3lar abre em queda, de olho em alta do petr\u00F3leo e \u00E0 espera da ata do Fed",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/18/mega-sena-concurso-3046-confira-os-numeros-sorteados.ghtml",
       "date": "Wed, 19 Aug 2026 00:03:12 -0000"
-    },
-    {
-      "title": "Governo criar\u00E1 at\u00E9 o final do ano sala de situa\u00E7\u00E3o para evitar manipula\u00E7\u00E3o esportiva em apostas, diz secret\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/18/governo-criara-ate-o-final-do-ano-sala-de-situacao-para-evitar-manipulacao-esportiva-em-apostas-diz-secretario.ghtml",
-      "date": "Tue, 18 Aug 2026 22:49:41 -0000"
     }
   ]
 }
