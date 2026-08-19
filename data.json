@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168730.77,
-      "change": 1.44,
-      "changeStr": "\u002B1.44%"
+      "price": 168155.3,
+      "change": 1.09,
+      "changeStr": "\u002B1.09%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.56,
-      "change": 2.25,
-      "changeStr": "\u002B2.25%"
+      "price": 43.36,
+      "change": 1.78,
+      "changeStr": "\u002B1.78%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.41,
-      "change": 2.6,
-      "changeStr": "\u002B2.60%"
+      "price": 73.26,
+      "change": 2.39,
+      "changeStr": "\u002B2.39%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.37,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
+      "price": 38.27,
+      "change": 0.21,
+      "changeStr": "\u002B0.21%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.2,
-      "change": 0.5,
-      "changeStr": "\u002B0.50%"
+      "price": 16.08,
+      "change": -0.25,
+      "changeStr": "-0.25%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.18,
-      "change": 2.13,
-      "changeStr": "\u002B2.13%"
+      "price": 18.06,
+      "change": 1.46,
+      "changeStr": "\u002B1.46%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.19,
-      "change": -2.1,
-      "changeStr": "-2.10%"
+      "price": 4.18,
+      "change": -2.34,
+      "changeStr": "-2.34%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.83,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 14.72,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.67,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 48.39,
+      "change": -0.17,
+      "changeStr": "-0.17%"
     }
   ],
   "news": [
+    {
+      "title": "Google paga US$ 10 milh\u00F5es por dados de companhia a\u00E9rea falida para treinar IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/19/google-paga-us-10-milhoes-por-dados-de-companhia-aerea-falida-para-treinar-ia.ghtml",
+      "date": "Wed, 19 Aug 2026 16:18:17 -0000"
+    },
+    {
+      "title": "Exporta\u00E7\u00F5es de carne bovina caem 26% em agosto com temor de tarifa maior na China",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/19/exportacoes-de-carne-bovina-caem-26percent-em-agosto-com-temor-de-tarifa-maior-na-china.ghtml",
+      "date": "Wed, 19 Aug 2026 16:17:16 -0000"
+    },
+    {
+      "title": "Lei Seca: Brasil j\u00E1 tem teste para flagrar motorista que usou drogas; veja subst\u00E2ncias detectadas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/19/lei-seca-brasil-teste-brasil-drogas.ghtml",
+      "date": "Wed, 19 Aug 2026 16:10:08 -0000"
+    },
     {
       "title": "Trump anuncia acordo com o Canad\u00E1 e diz que tarifas ser\u00E3o zeradas para agricultores",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/19/crise-do-varejo-por-que-algumas-gigantes-estao-em-crise-e-outras-seguem-crescendo.ghtml",
       "date": "Wed, 19 Aug 2026 08:04:27 -0000"
-    },
-    {
-      "title": "Canetas emagrecedoras j\u00E1 mudam gastos com comida e at\u00E9 o PIB de pa\u00EDses; entenda os efeitos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/08/19/canetas-emagrecedoras-ja-mudam-gastos-com-comida-e-ate-o-pib-de-paises-entenda-os-efeitos.ghtml",
-      "date": "Wed, 19 Aug 2026 06:00:47 -0000"
-    },
-    {
-      "title": "Trump suspende por tr\u00EAs dias tarifas de 50% sobre importa\u00E7\u00F5es canadenses",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/19/trump-suspende-por-tres-dias-tarifas-de-50percent-sobre-importacoes-canadenses.ghtml",
-      "date": "Wed, 19 Aug 2026 04:54:08 -0000"
-    },
-    {
-      "title": "A Foz do Amazonas e o futuro da explora\u00E7\u00E3o de petr\u00F3leo no Brasil - O Assunto #1786",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/19/a-foz-do-amazonas-e-o-futuro-da-exploracao-de-petroleo-no-brasil-o-assunto-1786.ghtml",
-      "date": "Wed, 19 Aug 2026 03:30:08 -0000"
     }
   ]
 }
