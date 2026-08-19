@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169988.98,
-      "change": 2.2,
-      "changeStr": "\u002B2.20%"
+      "price": 168730.77,
+      "change": 1.44,
+      "changeStr": "\u002B1.44%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.83,
-      "change": 2.89,
-      "changeStr": "\u002B2.89%"
+      "price": 43.56,
+      "change": 2.25,
+      "changeStr": "\u002B2.25%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.53,
-      "change": 2.77,
-      "changeStr": "\u002B2.77%"
+      "price": 73.41,
+      "change": 2.6,
+      "changeStr": "\u002B2.60%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.73,
-      "change": 1.41,
-      "changeStr": "\u002B1.41%"
+      "price": 38.37,
+      "change": 0.47,
+      "changeStr": "\u002B0.47%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.34,
-      "change": 1.36,
-      "changeStr": "\u002B1.36%"
+      "price": 16.2,
+      "change": 0.5,
+      "changeStr": "\u002B0.50%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.12,
-      "change": 1.8,
-      "changeStr": "\u002B1.80%"
+      "price": 18.18,
+      "change": 2.13,
+      "changeStr": "\u002B2.13%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.33,
-      "change": 1.17,
-      "changeStr": "\u002B1.17%"
+      "price": 4.19,
+      "change": -2.1,
+      "changeStr": "-2.10%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.88,
-      "change": 1.02,
-      "changeStr": "\u002B1.02%"
+      "price": 14.83,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.85,
-      "change": 0.78,
-      "changeStr": "\u002B0.78%"
+      "price": 48.67,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     }
   ],
   "news": [
+    {
+      "title": "Trump anuncia acordo com o Canad\u00E1 e diz que tarifas ser\u00E3o zeradas para agricultores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/19/trump-anuncia-acordo-com-o-canada-e-diz-que-tarifas-serao-zeradas-para-agricultores.ghtml",
+      "date": "Wed, 19 Aug 2026 15:33:53 -0000"
+    },
+    {
+      "title": "\uD83D\uDE2D n\u00E3o \u00E9 s\u00F3 choro: como o emoji virou o mais popular do mundo em 2025; veja o ranking",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/19/emojis-mais-populares.ghtml",
+      "date": "Wed, 19 Aug 2026 15:00:58 -0000"
+    },
     {
       "title": "A\u00E7\u00F5es da Moderna disparam 90% ap\u00F3s vacina personalizada contra c\u00E2ncer ter resultado positivo em teste",
       "source": "G1 Economia",
@@ -63,7 +75,7 @@
       "date": "Wed, 19 Aug 2026 13:47:32 -0000"
     },
     {
-      "title": "D\u00F3lar abre em queda, de olho em alta do petr\u00F3leo e \u00E0 espera da ata do Fed",
+      "title": "D\u00F3lar opera em queda, de olho em alta do petr\u00F3leo e \u00E0 espera da ata do Fed; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/19/dolar-ibovespa.ghtml",
       "date": "Wed, 19 Aug 2026 12:00:20 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/19/a-foz-do-amazonas-e-o-futuro-da-exploracao-de-petroleo-no-brasil-o-assunto-1786.ghtml",
       "date": "Wed, 19 Aug 2026 03:30:08 -0000"
-    },
-    {
-      "title": "Lei Seca completou 18 anos em 2026: entenda as multas, infra\u00E7\u00F5es e novas mudan\u00E7as",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/19/lei-seca-entenda-as-multas-infracoes-e-novas-mudancas.ghtml",
-      "date": "Wed, 19 Aug 2026 03:00:48 -0000"
-    },
-    {
-      "title": "Mega-Sena 3046 acumula e vai a R$ 50 milh\u00F5es; veja os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/18/mega-sena-concurso-3046-confira-os-numeros-sorteados.ghtml",
-      "date": "Wed, 19 Aug 2026 00:03:12 -0000"
     }
   ]
 }
