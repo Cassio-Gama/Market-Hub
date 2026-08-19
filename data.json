@@ -57,13 +57,25 @@
   ],
   "news": [
     {
+      "title": "D\u00F3lar abre em queda, de olho em alta do petr\u00F3leo e \u00E0 espera da ata do Fed",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/19/dolar-ibovespa.ghtml",
+      "date": "Wed, 19 Aug 2026 12:00:20 -0000"
+    },
+    {
+      "title": "Lei Seca com teste de drogas em motoristas entra em vigor; entenda o que muda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/19/diario-oficial-da-uniao-publica-novas-regras-lei-seca-teste-uso-de-drogas-entenda.ghtml",
+      "date": "Wed, 19 Aug 2026 11:27:37 -0000"
+    },
+    {
       "title": "Descoberta na Foz do Amazonas s\u00F3 ser\u00E1 \u0027passaporte para o futuro\u0027 se modelo adotado no pr\u00E9-sal mudar, diz ex-diretor da Petrobras",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/19/descoberta-na-foz-do-amazonas-so-sera-passaporte-para-o-futuro-se-modelo-adotado-no-pre-sal-mudar-diz-ex-diretor-da-petrobras.ghtml",
       "date": "Wed, 19 Aug 2026 10:17:04 -0000"
     },
     {
-      "title": "Crise do varejo? Por que algumas gigantes est\u00E3o em crise e outras seguem crescendo",
+      "title": "Crise do varejo? Por que algumas gigantes enfrentam dificuldades e outras seguem crescendo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/19/crise-do-varejo-por-que-algumas-gigantes-estao-em-crise-e-outras-seguem-crescendo.ghtml",
       "date": "Wed, 19 Aug 2026 08:04:27 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/18/governo-criara-ate-o-final-do-ano-sala-de-situacao-para-evitar-manipulacao-esportiva-em-apostas-diz-secretario.ghtml",
       "date": "Tue, 18 Aug 2026 22:49:41 -0000"
-    },
-    {
-      "title": "Ibovespa tem 2\u00BA pior desempenho entre 21 bolsas em agosto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/18/ibovespa-tem-2o-pior-desempenho-entre-21-bolsas-em-agosto.ghtml",
-      "date": "Tue, 18 Aug 2026 18:37:36 -0000"
-    },
-    {
-      "title": "OpenAI reduz desenvolvimento de IA ap\u00F3s agente em teste invadir sistemas de outra empresa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/18/openai-reduz-desenvolvimento-de-ia-apos-agente-em-teste-invadir-sistemas-de-outra-empresa.ghtml",
-      "date": "Tue, 18 Aug 2026 18:31:46 -0000"
     }
   ]
 }
