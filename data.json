@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168155.3,
-      "change": 1.09,
-      "changeStr": "\u002B1.09%"
+      "price": 167953.98,
+      "change": 0.97,
+      "changeStr": "\u002B0.97%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.36,
-      "change": 1.78,
-      "changeStr": "\u002B1.78%"
+      "price": 43.23,
+      "change": 1.48,
+      "changeStr": "\u002B1.48%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.26,
-      "change": 2.39,
-      "changeStr": "\u002B2.39%"
+      "price": 72.98,
+      "change": 2,
+      "changeStr": "\u002B2.00%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.27,
-      "change": 0.21,
-      "changeStr": "\u002B0.21%"
+      "price": 38.24,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.08,
-      "change": -0.25,
-      "changeStr": "-0.25%"
+      "price": 16.05,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.06,
-      "change": 1.46,
-      "changeStr": "\u002B1.46%"
+      "price": 18.11,
+      "change": 1.74,
+      "changeStr": "\u002B1.74%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.18,
-      "change": -2.34,
-      "changeStr": "-2.34%"
+      "price": 4.16,
+      "change": -2.8,
+      "changeStr": "-2.80%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,24 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 48.39,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 48.35,
+      "change": -0.25,
+      "changeStr": "-0.25%"
     }
   ],
   "news": [
+    {
+      "title": "Ex-executivo da Meta diz que Zuckerberg deixou seguran\u00E7a infantil em segundo plano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/19/meta-julgamento-zuckerberg.ghtml",
+      "date": "Wed, 19 Aug 2026 17:11:50 -0000"
+    },
+    {
+      "title": "Justi\u00E7a manda Casas Bahia reverter demiss\u00F5es; veja como ficam os funcion\u00E1rios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/19/justica-casas-bahia-reverter-demissoes.ghtml",
+      "date": "Wed, 19 Aug 2026 16:56:56 -0000"
+    },
     {
       "title": "Google paga US$ 10 milh\u00F5es por dados de companhia a\u00E9rea falida para treinar IA",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/08/19/diario-oficial-da-uniao-publica-novas-regras-lei-seca-teste-uso-de-drogas-entenda.ghtml",
       "date": "Wed, 19 Aug 2026 11:27:37 -0000"
-    },
-    {
-      "title": "Descoberta na Foz do Amazonas s\u00F3 ser\u00E1 \u0027passaporte para o futuro\u0027 se modelo adotado no pr\u00E9-sal mudar, diz ex-diretor da Petrobras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/19/descoberta-na-foz-do-amazonas-so-sera-passaporte-para-o-futuro-se-modelo-adotado-no-pre-sal-mudar-diz-ex-diretor-da-petrobras.ghtml",
-      "date": "Wed, 19 Aug 2026 10:17:04 -0000"
-    },
-    {
-      "title": "Crise do varejo? Por que algumas gigantes enfrentam dificuldades e outras seguem crescendo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/19/crise-do-varejo-por-que-algumas-gigantes-estao-em-crise-e-outras-seguem-crescendo.ghtml",
-      "date": "Wed, 19 Aug 2026 08:04:27 -0000"
     }
   ]
 }
