@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167725.39,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 167927.16,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.28,
-      "change": 2.71,
-      "changeStr": "\u002B2.71%"
+      "price": 44.32,
+      "change": 2.81,
+      "changeStr": "\u002B2.81%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.96,
-      "change": 2.54,
-      "changeStr": "\u002B2.54%"
+      "price": 74.02,
+      "change": 2.62,
+      "changeStr": "\u002B2.62%"
     },
     {
       "symbol": "ITUB4",
-      "price": 37.45,
-      "change": -2.4,
-      "changeStr": "-2.40%"
+      "price": 37.51,
+      "change": -2.24,
+      "changeStr": "-2.24%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.71,
-      "change": -1.94,
-      "changeStr": "-1.94%"
+      "price": 15.75,
+      "change": -1.69,
+      "changeStr": "-1.69%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.01,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 18.04,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "MGLU3",
-      "price": 3.82,
-      "change": -5.68,
-      "changeStr": "-5.68%"
+      "price": 3.88,
+      "change": -4.2,
+      "changeStr": "-4.20%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.86,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 14.9,
+      "change": 0.81,
+      "changeStr": "\u002B0.81%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.32,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 48.4,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     }
   ],
   "news": [
+    {
+      "title": "Receita Federal tem at\u00E9 14 de setembro para entregar proposta de c\u00E1lculo da CBS ao TCU",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/20/receita-federal-tem-ate-14-de-setembro-para-entregar-proposta-de-calculo-da-cbs-ao-tcu.ghtml",
+      "date": "Thu, 20 Aug 2026 19:55:51 -0000"
+    },
+    {
+      "title": "Ele vendia carros sem saber que era filho de um pr\u00EDncipe; DNA revelou a verdade aos 26 anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/20/ele-vendia-carros-sem-saber-que-era-filho-de-um-principe-dna-revelou-a-verdade-aos-26-anos.ghtml",
+      "date": "Thu, 20 Aug 2026 19:50:59 -0000"
+    },
     {
       "title": "Frigor\u00EDficos Uniaves e Pif Paf s\u00E3o condenados por jornada excessiva e aus\u00EAncia de descanso semanal de funcion\u00E1rios no ES",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/20/australia-aprova-lei-que-pode-cobrar-de-gigantes-de-tecnologia-por-noticias.ghtml",
       "date": "Thu, 20 Aug 2026 13:49:15 -0000"
-    },
-    {
-      "title": "Enquanto Trump promete cortar gastos, d\u00EDvida dos EUA bate recorde de US$ 40 trilh\u00F5es e preocupa investidores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/20/enquanto-trump-promete-cortar-gastos-divida-dos-eua-bate-recorde-de-us-40-trilhoes-e-preocupa-investidores.ghtml",
-      "date": "Thu, 20 Aug 2026 12:58:50 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta, mesmo ap\u00F3s an\u00FAncio do Tesouro americano e de olho no petr\u00F3leo; Ibovespa oscila",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/20/dolar-ibovespa.ghtml",
-      "date": "Thu, 20 Aug 2026 12:00:30 -0000"
     }
   ]
 }
