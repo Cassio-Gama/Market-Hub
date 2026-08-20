@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167805.1,
-      "change": -0.01,
-      "changeStr": "-0.01%"
+      "price": 167725.39,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.4,
-      "change": 2.99,
-      "changeStr": "\u002B2.99%"
+      "price": 44.28,
+      "change": 2.71,
+      "changeStr": "\u002B2.71%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.67,
-      "change": 2.14,
-      "changeStr": "\u002B2.14%"
+      "price": 73.96,
+      "change": 2.54,
+      "changeStr": "\u002B2.54%"
     },
     {
       "symbol": "ITUB4",
-      "price": 37.48,
-      "change": -2.32,
-      "changeStr": "-2.32%"
+      "price": 37.45,
+      "change": -2.4,
+      "changeStr": "-2.40%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.76,
-      "change": -1.62,
-      "changeStr": "-1.62%"
+      "price": 15.71,
+      "change": -1.94,
+      "changeStr": "-1.94%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.04,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 18.01,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "MGLU3",
-      "price": 3.83,
-      "change": -5.43,
-      "changeStr": "-5.43%"
+      "price": 3.82,
+      "change": -5.68,
+      "changeStr": "-5.68%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.73,
-      "change": -0.34,
-      "changeStr": "-0.34%"
+      "price": 14.86,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.31,
-      "change": -0.41,
-      "changeStr": "-0.41%"
+      "price": 48.32,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     }
   ],
   "news": [
+    {
+      "title": "Frigor\u00EDficos Uniaves e Pif Paf s\u00E3o condenados por jornada excessiva e aus\u00EAncia de descanso semanal de funcion\u00E1rios no ES",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/08/20/frigorificos-uniaves-e-pif-paf-sao-condenados-por-jornada-excessiva-e-ausencia-de-descanso-semanal-de-funcionarios-no-es.ghtml",
+      "date": "Thu, 20 Aug 2026 19:09:03 -0000"
+    },
     {
       "title": "Move Brasil: ap\u00F3s baixa procura, governo aumenta limite de cr\u00E9dito para motoristas de app comprarem carros",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/20/dolar-ibovespa.ghtml",
       "date": "Thu, 20 Aug 2026 12:00:30 -0000"
-    },
-    {
-      "title": "Em nome da campanha de Lula, Durigan acena com ajuste gradual das contas p\u00FAblicas para reduzir taxa de juros",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/20/em-nome-de-lula-durigan-acena-com-ajuste-gradual-das-contas-publicas-para-reduzir-juros.ghtml",
-      "date": "Thu, 20 Aug 2026 11:34:12 -0000"
     }
   ]
 }
