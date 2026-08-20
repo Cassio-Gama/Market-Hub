@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167381.73,
-      "change": -0.27,
-      "changeStr": "-0.27%"
+      "price": 167805.1,
+      "change": -0.01,
+      "changeStr": "-0.01%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.39,
-      "change": 2.97,
-      "changeStr": "\u002B2.97%"
+      "price": 44.4,
+      "change": 2.99,
+      "changeStr": "\u002B2.99%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.69,
-      "change": 2.16,
-      "changeStr": "\u002B2.16%"
+      "price": 73.67,
+      "change": 2.14,
+      "changeStr": "\u002B2.14%"
     },
     {
       "symbol": "ITUB4",
-      "price": 37.44,
-      "change": -2.42,
-      "changeStr": "-2.42%"
+      "price": 37.48,
+      "change": -2.32,
+      "changeStr": "-2.32%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.73,
-      "change": -1.81,
-      "changeStr": "-1.81%"
+      "price": 15.76,
+      "change": -1.62,
+      "changeStr": "-1.62%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18,
-      "change": -0.44,
-      "changeStr": "-0.44%"
+      "price": 18.04,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "MGLU3",
-      "price": 3.84,
-      "change": -5.19,
-      "changeStr": "-5.19%"
+      "price": 3.83,
+      "change": -5.43,
+      "changeStr": "-5.43%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.63,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 14.73,
+      "change": -0.34,
+      "changeStr": "-0.34%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.23,
-      "change": -0.58,
-      "changeStr": "-0.58%"
+      "price": 48.31,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     }
   ],
   "news": [
+    {
+      "title": "Move Brasil: ap\u00F3s baixa procura, governo aumenta limite de cr\u00E9dito para motoristas de app comprarem carros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/20/move-brasil-apos-baixa-procura-governo-aumenta-limite-de-credito-para-motoristas-de-app-comprarem-carros.ghtml",
+      "date": "Thu, 20 Aug 2026 17:33:54 -0000"
+    },
     {
       "title": "Banco fechado por greve? Veja se precisa pagar contas e como ficam saques e dep\u00F3sitos",
       "source": "G1 Economia",
@@ -99,7 +105,7 @@
       "date": "Thu, 20 Aug 2026 12:58:50 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta, mesmo ap\u00F3s an\u00FAncio do Tesouro americano e de olho no petr\u00F3leo; Ibovespa sobe",
+      "title": "D\u00F3lar opera em alta, mesmo ap\u00F3s an\u00FAncio do Tesouro americano e de olho no petr\u00F3leo; Ibovespa oscila",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/20/dolar-ibovespa.ghtml",
       "date": "Thu, 20 Aug 2026 12:00:30 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/20/em-nome-de-lula-durigan-acena-com-ajuste-gradual-das-contas-publicas-para-reduzir-juros.ghtml",
       "date": "Thu, 20 Aug 2026 11:34:12 -0000"
-    },
-    {
-      "title": "\u0027Orcas\u0027 da Polymarket: mais de 150 apostadores podem ter lucrado com segredos militares",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/08/20/usuarios-de-site-de-apostas-nos-eua-tiveram-acesso-a-informacoes-das-forcas-armadas-diz-pesquisa.ghtml",
-      "date": "Thu, 20 Aug 2026 11:12:54 -0000"
     }
   ]
 }
