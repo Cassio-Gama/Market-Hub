@@ -2,57 +2,57 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168261.55,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 169135.56,
+      "change": 0.78,
+      "changeStr": "\u002B0.78%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.2,
-      "change": 2.53,
-      "changeStr": "\u002B2.53%"
+      "price": 44.45,
+      "change": 3.11,
+      "changeStr": "\u002B3.11%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.03,
-      "change": -0.14,
-      "changeStr": "-0.14%"
+      "price": 73.75,
+      "change": 2.25,
+      "changeStr": "\u002B2.25%"
     },
     {
       "symbol": "ITUB4",
-      "price": 37.98,
-      "change": -1.02,
-      "changeStr": "-1.02%"
+      "price": 37.99,
+      "change": -0.99,
+      "changeStr": "-0.99%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.87,
-      "change": -0.94,
-      "changeStr": "-0.94%"
+      "price": 15.89,
+      "change": -0.81,
+      "changeStr": "-0.81%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.96,
-      "change": -0.66,
-      "changeStr": "-0.66%"
+      "price": 18.14,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     },
     {
       "symbol": "MGLU3",
-      "price": 3.89,
-      "change": -3.95,
-      "changeStr": "-3.95%"
+      "price": 3.87,
+      "change": -4.44,
+      "changeStr": "-4.44%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.68,
-      "change": -0.68,
-      "changeStr": "-0.68%"
+      "price": 14.67,
+      "change": -0.74,
+      "changeStr": "-0.74%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.2,
-      "change": -0.64,
-      "changeStr": "-0.64%"
+      "price": 48.69,
+      "change": 0.37,
+      "changeStr": "\u002B0.37%"
     }
   ],
   "news": [
@@ -81,7 +81,7 @@
       "date": "Thu, 20 Aug 2026 12:58:50 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, mesmo ap\u00F3s an\u00FAncio do Tesouro americano e de olho no petr\u00F3leo",
+      "title": "D\u00F3lar opera em alta, mesmo ap\u00F3s an\u00FAncio do Tesouro americano e de olho no petr\u00F3leo; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/20/dolar-ibovespa.ghtml",
       "date": "Thu, 20 Aug 2026 12:00:30 -0000"
