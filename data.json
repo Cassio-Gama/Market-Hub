@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169135.56,
-      "change": 0.78,
-      "changeStr": "\u002B0.78%"
+      "price": 168272.95,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.45,
-      "change": 3.11,
-      "changeStr": "\u002B3.11%"
+      "price": 44.33,
+      "change": 2.83,
+      "changeStr": "\u002B2.83%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.75,
-      "change": 2.25,
-      "changeStr": "\u002B2.25%"
+      "price": 73.74,
+      "change": 2.23,
+      "changeStr": "\u002B2.23%"
     },
     {
       "symbol": "ITUB4",
-      "price": 37.99,
-      "change": -0.99,
-      "changeStr": "-0.99%"
+      "price": 37.7,
+      "change": -1.75,
+      "changeStr": "-1.75%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.89,
+      "price": 15.8,
+      "change": -1.37,
+      "changeStr": "-1.37%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 18.03,
+      "change": -0.28,
+      "changeStr": "-0.28%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 3.76,
+      "change": -7.16,
+      "changeStr": "-7.16%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 14.66,
       "change": -0.81,
       "changeStr": "-0.81%"
     },
     {
-      "symbol": "BBAS3",
-      "price": 18.14,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 3.87,
-      "change": -4.44,
-      "changeStr": "-4.44%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 14.67,
-      "change": -0.74,
-      "changeStr": "-0.74%"
-    },
-    {
       "symbol": "WEGE3",
-      "price": 48.69,
-      "change": 0.37,
-      "changeStr": "\u002B0.37%"
+      "price": 48.45,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     }
   ],
   "news": [
+    {
+      "title": "Greve dos banc\u00E1rios fecha ag\u00EAncias na regi\u00E3o de Araraquara e S\u00E3o Carlos; entenda as reivindica\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/20/greve-dos-bancarios-fecha-agencias-na-regiao-de-araraquara-e-sao-carlos-entenda-as-reivindicacoes.ghtml",
+      "date": "Thu, 20 Aug 2026 16:34:27 -0000"
+    },
+    {
+      "title": "Mark Zuckerberg, da Meta, compra castelo do s\u00E9culo XIX no sudeste da Irlanda\n",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/20/zuckerberg-de-meta-compra-castelo-do-seculo-xix-no-sudeste-da-irlanda.ghtml",
+      "date": "Thu, 20 Aug 2026 15:43:41 -0000"
+    },
     {
       "title": "Desigualdade: 1% mais rico concentra quase um quarto de toda a renda do pa\u00EDs, aponta estudo da Oxfam",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/20/so-3percent-das-casas-do-reino-unido-tem-ar-condicionado-veja-por-que-instalar-o-aparelho-pode-ser-caro-e-piorar-calor.ghtml",
       "date": "Thu, 20 Aug 2026 11:08:33 -0000"
-    },
-    {
-      "title": "Por que fundador de gigante do setor imobili\u00E1rio foi condenado \u00E0 pris\u00E3o perp\u00E9tua na China",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/20/por-que-fundador-de-gigante-do-setor-imobiliario-foi-condenado-a-prisao-perpetua-na-china.ghtml",
-      "date": "Thu, 20 Aug 2026 10:14:09 -0000"
-    },
-    {
-      "title": "Leil\u00E3o da Casas Bahia tem notebooks, celulares e eletrodom\u00E9sticos; veja como n\u00E3o cair em golpe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/20/leilao-da-casas-bahia-tem-notebooks-celulares-e-eletrodomesticos-veja-como-nao-cair-em-golpe.ghtml",
-      "date": "Thu, 20 Aug 2026 08:03:02 -0000"
     }
   ]
 }
