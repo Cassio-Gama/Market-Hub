@@ -2,68 +2,74 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168272.95,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 167381.73,
+      "change": -0.27,
+      "changeStr": "-0.27%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.33,
-      "change": 2.83,
-      "changeStr": "\u002B2.83%"
+      "price": 44.39,
+      "change": 2.97,
+      "changeStr": "\u002B2.97%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.74,
-      "change": 2.23,
-      "changeStr": "\u002B2.23%"
+      "price": 73.69,
+      "change": 2.16,
+      "changeStr": "\u002B2.16%"
     },
     {
       "symbol": "ITUB4",
-      "price": 37.7,
-      "change": -1.75,
-      "changeStr": "-1.75%"
+      "price": 37.44,
+      "change": -2.42,
+      "changeStr": "-2.42%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.8,
-      "change": -1.37,
-      "changeStr": "-1.37%"
+      "price": 15.73,
+      "change": -1.81,
+      "changeStr": "-1.81%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.03,
-      "change": -0.28,
-      "changeStr": "-0.28%"
+      "price": 18,
+      "change": -0.44,
+      "changeStr": "-0.44%"
     },
     {
       "symbol": "MGLU3",
-      "price": 3.76,
-      "change": -7.16,
-      "changeStr": "-7.16%"
+      "price": 3.84,
+      "change": -5.19,
+      "changeStr": "-5.19%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.66,
-      "change": -0.81,
-      "changeStr": "-0.81%"
+      "price": 14.63,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.45,
-      "change": -0.12,
-      "changeStr": "-0.12%"
+      "price": 48.23,
+      "change": -0.58,
+      "changeStr": "-0.58%"
     }
   ],
   "news": [
     {
-      "title": "Greve dos banc\u00E1rios fecha ag\u00EAncias na regi\u00E3o de Araraquara e S\u00E3o Carlos; entenda as reivindica\u00E7\u00F5es",
+      "title": "Banco fechado por greve? Veja se precisa pagar contas e como ficam saques e dep\u00F3sitos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/20/banco-fechado-por-greve-veja-mudancas.ghtml",
+      "date": "Thu, 20 Aug 2026 17:22:31 -0000"
+    },
+    {
+      "title": "Greve dos banc\u00E1rios fecha ag\u00EAncias no interior de SP; veja reivindica\u00E7\u00F5es",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/20/greve-dos-bancarios-fecha-agencias-na-regiao-de-araraquara-e-sao-carlos-entenda-as-reivindicacoes.ghtml",
       "date": "Thu, 20 Aug 2026 16:34:27 -0000"
     },
     {
-      "title": "Mark Zuckerberg, da Meta, compra castelo do s\u00E9culo XIX no sudeste da Irlanda\n",
+      "title": "Mark Zuckerberg, da Meta, compra castelo do s\u00E9culo XIX no sudeste da Irlanda; veja fotos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/20/zuckerberg-de-meta-compra-castelo-do-seculo-xix-no-sudeste-da-irlanda.ghtml",
       "date": "Thu, 20 Aug 2026 15:43:41 -0000"
@@ -99,7 +105,7 @@
       "date": "Thu, 20 Aug 2026 12:00:30 -0000"
     },
     {
-      "title": "Em nome de Lula, Durigan acena com ajuste gradual das contas p\u00FAblicas em eventual novo mandato para reduzir juros",
+      "title": "Em nome da campanha de Lula, Durigan acena com ajuste gradual das contas p\u00FAblicas para reduzir taxa de juros",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/20/em-nome-de-lula-durigan-acena-com-ajuste-gradual-das-contas-publicas-para-reduzir-juros.ghtml",
       "date": "Thu, 20 Aug 2026 11:34:12 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/08/20/usuarios-de-site-de-apostas-nos-eua-tiveram-acesso-a-informacoes-das-forcas-armadas-diz-pesquisa.ghtml",
       "date": "Thu, 20 Aug 2026 11:12:54 -0000"
-    },
-    {
-      "title": "S\u00F3 3% das casas do Reino Unido t\u00EAm ar-condicionado; veja por que instalar o aparelho pode ser caro e \u0027piorar calor\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/20/so-3percent-das-casas-do-reino-unido-tem-ar-condicionado-veja-por-que-instalar-o-aparelho-pode-ser-caro-e-piorar-calor.ghtml",
-      "date": "Thu, 20 Aug 2026 11:08:33 -0000"
     }
   ]
 }
