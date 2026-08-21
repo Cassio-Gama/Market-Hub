@@ -2,57 +2,57 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170948.42,
-      "change": 1.8,
-      "changeStr": "\u002B1.80%"
+      "price": 171199.98,
+      "change": 1.95,
+      "changeStr": "\u002B1.95%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.49,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 44.28,
+      "change": -0.09,
+      "changeStr": "-0.09%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.29,
-      "change": 1.72,
-      "changeStr": "\u002B1.72%"
+      "price": 75.28,
+      "change": 1.7,
+      "changeStr": "\u002B1.70%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.3,
-      "change": 2.11,
-      "changeStr": "\u002B2.11%"
+      "price": 38.47,
+      "change": 2.56,
+      "changeStr": "\u002B2.56%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.15,
-      "change": 2.54,
-      "changeStr": "\u002B2.54%"
+      "price": 16.16,
+      "change": 2.6,
+      "changeStr": "\u002B2.60%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.48,
-      "change": 2.44,
-      "changeStr": "\u002B2.44%"
+      "price": 18.49,
+      "change": 2.49,
+      "changeStr": "\u002B2.49%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.14,
-      "change": 6.7,
-      "changeStr": "\u002B6.70%"
+      "price": 4.13,
+      "change": 6.44,
+      "changeStr": "\u002B6.44%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.95,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 14.97,
+      "change": 0.47,
+      "changeStr": "\u002B0.47%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.4,
-      "change": 2.07,
-      "changeStr": "\u002B2.07%"
+      "price": 49.38,
+      "change": 2.02,
+      "changeStr": "\u002B2.02%"
     }
   ],
   "news": [
@@ -99,13 +99,13 @@
       "date": "Fri, 21 Aug 2026 12:34:41 -0000"
     },
     {
-      "title": "\u2018Opera\u00E7\u00E3o salva-hamb\u00FArguer\u2019: Trump libera limite extra para importar carne e tentar baixar pre\u00E7os nos EUA",
+      "title": "\u2018Opera\u00E7\u00E3o salva-hamb\u00FArguer\u2019: Trump determina cota extra de importa\u00E7\u00E3o de carne e tenta baixar pre\u00E7os nos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/21/trump-hamburguer-eua.ghtml",
       "date": "Fri, 21 Aug 2026 12:04:25 -0000"
     },
     {
-      "title": "D\u00F3lar opera em queda, de olho em guerra econ\u00F4mica de Trump no Ir\u00E3 e elei\u00E7\u00F5es no Brasil; Ibovespa sobe",
+      "title": "Ibovespa sobe quase 2%, com ajuda do exterior e \u00E0 espera de nova pesquisa eleitoral; d\u00F3lar cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/21/dolar-ibovespa.ghtml",
       "date": "Fri, 21 Aug 2026 12:00:28 -0000"
