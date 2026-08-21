@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170973.19,
-      "change": 1.81,
-      "changeStr": "\u002B1.81%"
+      "price": 170948.42,
+      "change": 1.8,
+      "changeStr": "\u002B1.80%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.54,
-      "change": 0.5,
-      "changeStr": "\u002B0.50%"
+      "price": 44.49,
+      "change": 0.38,
+      "changeStr": "\u002B0.38%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.48,
-      "change": 1.97,
-      "changeStr": "\u002B1.97%"
+      "price": 75.29,
+      "change": 1.72,
+      "changeStr": "\u002B1.72%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.4,
-      "change": 2.37,
-      "changeStr": "\u002B2.37%"
+      "price": 38.3,
+      "change": 2.11,
+      "changeStr": "\u002B2.11%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.1,
-      "change": 2.22,
-      "changeStr": "\u002B2.22%"
+      "price": 16.15,
+      "change": 2.54,
+      "changeStr": "\u002B2.54%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.37,
-      "change": 1.83,
-      "changeStr": "\u002B1.83%"
+      "price": 18.48,
+      "change": 2.44,
+      "changeStr": "\u002B2.44%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.1,
-      "change": 5.67,
-      "changeStr": "\u002B5.67%"
+      "price": 4.14,
+      "change": 6.7,
+      "changeStr": "\u002B6.70%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.96,
-      "change": 0.4,
-      "changeStr": "\u002B0.40%"
+      "price": 14.95,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.19,
-      "change": 1.63,
-      "changeStr": "\u002B1.63%"
+      "price": 49.4,
+      "change": 2.07,
+      "changeStr": "\u002B2.07%"
     }
   ],
   "news": [
+    {
+      "title": "Aprenda a montar uma horta em casa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/21/aprenda-a-montar-uma-horta-em-casa.ghtml",
+      "date": "Fri, 21 Aug 2026 15:27:36 -0000"
+    },
     {
       "title": "70% dos jovens trabalham e 32% conciliam emprego e estudos no Brasil, diz pesquisa",
       "source": "G1 Economia",
@@ -63,7 +69,7 @@
       "date": "Fri, 21 Aug 2026 14:30:15 -0000"
     },
     {
-      "title": "Volkswagen apresenta Tukan; picape eletrificada que vai encarar Fiat Toro",
+      "title": "Volkswagen apresenta Tukan; picape eletrificada que vai ter vers\u00E3o cabine simples e dupla",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/08/21/volkswagen-apresenta-picape-tukan-chega-no-primeiro-semestre-de-2027.ghtml",
       "date": "Fri, 21 Aug 2026 13:49:35 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/21/stf-mantem-suspensao-temporaria-de-multas-da-nr-1.ghtml",
       "date": "Fri, 21 Aug 2026 11:21:02 -0000"
-    },
-    {
-      "title": "Fam\u00EDlias iranianas lutam para comprar o b\u00E1sico enquanto EUA intensificam guerra econ\u00F4mica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/08/21/familias-iranianas-lutam-para-comprar-o-basico-enquanto-eua-intensificam-guerra-economica.ghtml",
-      "date": "Fri, 21 Aug 2026 09:34:42 -0000"
     }
   ]
 }
