@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171108.9,
-      "change": 1.89,
-      "changeStr": "\u002B1.89%"
+      "price": 171031.73,
+      "change": 1.85,
+      "changeStr": "\u002B1.85%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.37,
-      "change": 0.11,
-      "changeStr": "\u002B0.11%"
+      "price": 44.3,
+      "change": -0.05,
+      "changeStr": "-0.05%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.92,
-      "change": 1.22,
-      "changeStr": "\u002B1.22%"
+      "price": 75.03,
+      "change": 1.36,
+      "changeStr": "\u002B1.36%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.69,
-      "change": 3.15,
-      "changeStr": "\u002B3.15%"
+      "price": 38.6,
+      "change": 2.91,
+      "changeStr": "\u002B2.91%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.25,
-      "change": 3.17,
-      "changeStr": "\u002B3.17%"
+      "price": 16.24,
+      "change": 3.11,
+      "changeStr": "\u002B3.11%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.45,
-      "change": 2.27,
-      "changeStr": "\u002B2.27%"
+      "price": 18.43,
+      "change": 2.16,
+      "changeStr": "\u002B2.16%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.13,
-      "change": 6.44,
-      "changeStr": "\u002B6.44%"
+      "price": 4.16,
+      "change": 7.22,
+      "changeStr": "\u002B7.22%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.99,
-      "change": 0.6,
-      "changeStr": "\u002B0.60%"
+      "price": 15,
+      "change": 0.67,
+      "changeStr": "\u002B0.67%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.37,
-      "change": 2,
-      "changeStr": "\u002B2.00%"
+      "price": 49.27,
+      "change": 1.8,
+      "changeStr": "\u002B1.80%"
     }
   ],
   "news": [
+    {
+      "title": "ANPD inicia monitoramento de redes sociais e ferramentas de IA para avaliar prote\u00E7\u00E3o de crian\u00E7as e mulheres",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/21/anpd-monitoramento-redes-sociais-ferramentas-de-iaprotecao-criancas-mulheres.ghtml",
+      "date": "Fri, 21 Aug 2026 20:13:59 -0000"
+    },
+    {
+      "title": "Durigan diz que crise da Casas Bahia n\u00E3o indica problema geral na economia: \u0027N\u00E3o h\u00E1\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/21/entrevista-dario-durigan.ghtml",
+      "date": "Fri, 21 Aug 2026 19:43:55 -0000"
+    },
     {
       "title": "J\u0026F, de Wesley e Joesley Batista, compra fabricante de armas de guerra Avibras\n",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/21/free-flow-motoristas-poderao-consultar-passagens-pelo-app-cnh-do-brasil-a-partir-de-segunda.ghtml",
       "date": "Fri, 21 Aug 2026 12:34:41 -0000"
-    },
-    {
-      "title": "\u2018Opera\u00E7\u00E3o salva-hamb\u00FArguer\u2019: Trump determina cota extra de importa\u00E7\u00E3o de carne e tenta baixar pre\u00E7os nos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/21/trump-hamburguer-eua.ghtml",
-      "date": "Fri, 21 Aug 2026 12:04:25 -0000"
-    },
-    {
-      "title": "Ibovespa sobe mais de 2% com melhora no exterior e expectativa por corte de juros; d\u00F3lar cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/21/dolar-ibovespa.ghtml",
-      "date": "Fri, 21 Aug 2026 12:00:28 -0000"
     }
   ]
 }
