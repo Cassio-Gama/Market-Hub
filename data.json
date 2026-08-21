@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169776.48,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
+      "price": 170973.19,
+      "change": 1.81,
+      "changeStr": "\u002B1.81%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.49,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 44.54,
+      "change": 0.5,
+      "changeStr": "\u002B0.50%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.09,
-      "change": 1.45,
-      "changeStr": "\u002B1.45%"
+      "price": 75.48,
+      "change": 1.97,
+      "changeStr": "\u002B1.97%"
     },
     {
       "symbol": "ITUB4",
-      "price": 37.97,
-      "change": 1.23,
-      "changeStr": "\u002B1.23%"
+      "price": 38.4,
+      "change": 2.37,
+      "changeStr": "\u002B2.37%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.93,
-      "change": 1.14,
-      "changeStr": "\u002B1.14%"
+      "price": 16.1,
+      "change": 2.22,
+      "changeStr": "\u002B2.22%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.18,
-      "change": 0.78,
-      "changeStr": "\u002B0.78%"
+      "price": 18.37,
+      "change": 1.83,
+      "changeStr": "\u002B1.83%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.09,
-      "change": 5.41,
-      "changeStr": "\u002B5.41%"
+      "price": 4.1,
+      "change": 5.67,
+      "changeStr": "\u002B5.67%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.9,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 14.96,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.6,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 49.19,
+      "change": 1.63,
+      "changeStr": "\u002B1.63%"
     }
   ],
   "news": [
+    {
+      "title": "70% dos jovens trabalham e 32% conciliam emprego e estudos no Brasil, diz pesquisa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/21/70percent-dos-jovens-trabalham-e-32percent-conciliam-emprego-e-estudos-no-brasil-diz-pesquisa.ghtml",
+      "date": "Fri, 21 Aug 2026 14:30:15 -0000"
+    },
     {
       "title": "Volkswagen apresenta Tukan; picape eletrificada que vai encarar Fiat Toro",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/08/21/familias-iranianas-lutam-para-comprar-o-basico-enquanto-eua-intensificam-guerra-economica.ghtml",
       "date": "Fri, 21 Aug 2026 09:34:42 -0000"
-    },
-    {
-      "title": "Ferrari Luce de R$ 200 milh\u00F5es pode dar \u0027desconto\u0027 milion\u00E1rio no imposto de renda do comprador; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/21/ferrari-luce-desconto-milionario-no-imposto-de-renda-do-comprador.ghtml",
-      "date": "Fri, 21 Aug 2026 06:00:42 -0000"
     }
   ]
 }
