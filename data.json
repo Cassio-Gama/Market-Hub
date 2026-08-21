@@ -2,15 +2,15 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171023.22,
-      "change": 1.84,
-      "changeStr": "\u002B1.84%"
+      "price": 171428.9,
+      "change": 2.09,
+      "changeStr": "\u002B2.09%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.29,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 44.5,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     },
     {
       "symbol": "VALE3",
@@ -20,42 +20,48 @@
     },
     {
       "symbol": "ITUB4",
-      "price": 38.43,
-      "change": 2.45,
-      "changeStr": "\u002B2.45%"
+      "price": 38.7,
+      "change": 3.17,
+      "changeStr": "\u002B3.17%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.21,
-      "change": 2.92,
-      "changeStr": "\u002B2.92%"
+      "price": 16.26,
+      "change": 3.24,
+      "changeStr": "\u002B3.24%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.43,
-      "change": 2.16,
-      "changeStr": "\u002B2.16%"
+      "price": 18.45,
+      "change": 2.27,
+      "changeStr": "\u002B2.27%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.12,
-      "change": 6.19,
-      "changeStr": "\u002B6.19%"
+      "price": 4.1,
+      "change": 5.67,
+      "changeStr": "\u002B5.67%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.96,
-      "change": 0.4,
-      "changeStr": "\u002B0.40%"
+      "price": 15.02,
+      "change": 0.81,
+      "changeStr": "\u002B0.81%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.46,
-      "change": 2.19,
-      "changeStr": "\u002B2.19%"
+      "price": 49.3,
+      "change": 1.86,
+      "changeStr": "\u002B1.86%"
     }
   ],
   "news": [
+    {
+      "title": "J\u0026F, de Wesley e Joesley Batista, compra fabricante de armas de guerra Avibras\n",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/21/jandf-de-wesley-e-joesley-batista-compra-fabricante-de-armas-de-guerra-avibras.ghtml",
+      "date": "Fri, 21 Aug 2026 18:20:50 -0000"
+    },
     {
       "title": "Aprenda a montar uma horta em casa",
       "source": "G1 Economia",
@@ -69,7 +75,7 @@
       "date": "Fri, 21 Aug 2026 14:30:15 -0000"
     },
     {
-      "title": "Volkswagen apresenta Tukan; picape eletrificada que vai ter vers\u00E3o cabine simples e dupla",
+      "title": "Volkswagen apresenta Tukan, picape eletrificada que tenta amea\u00E7ar dom\u00EDnio da Fiat",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/08/21/volkswagen-apresenta-picape-tukan-chega-no-primeiro-semestre-de-2027.ghtml",
       "date": "Fri, 21 Aug 2026 13:49:35 -0000"
@@ -105,16 +111,10 @@
       "date": "Fri, 21 Aug 2026 12:04:25 -0000"
     },
     {
-      "title": "Ibovespa sobe quase 2%, com ajuda do exterior e \u00E0 espera de nova pesquisa eleitoral; d\u00F3lar cai",
+      "title": "Ibovespa sobe mais de 2% com melhora no exterior e expectativa por corte de juros; d\u00F3lar cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/21/dolar-ibovespa.ghtml",
       "date": "Fri, 21 Aug 2026 12:00:28 -0000"
-    },
-    {
-      "title": "STF mant\u00E9m suspens\u00E3o de multas da NR-1; entenda o que muda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/21/stf-mantem-suspensao-temporaria-de-multas-da-nr-1.ghtml",
-      "date": "Fri, 21 Aug 2026 11:21:02 -0000"
     }
   ]
 }
