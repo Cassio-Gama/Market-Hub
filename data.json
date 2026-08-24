@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171944.9,
-      "change": 0.53,
-      "changeStr": "\u002B0.53%"
+      "price": 172937.89,
+      "change": 1.11,
+      "changeStr": "\u002B1.11%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.91,
-      "change": -5.4,
-      "changeStr": "-5.40%"
+      "price": 42.02,
+      "change": -5.15,
+      "changeStr": "-5.15%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.77,
-      "change": 3.65,
-      "changeStr": "\u002B3.65%"
+      "price": 78.21,
+      "change": 4.24,
+      "changeStr": "\u002B4.24%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.82,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
+      "price": 39.09,
+      "change": 1.27,
+      "changeStr": "\u002B1.27%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.39,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 16.5,
+      "change": 1.6,
+      "changeStr": "\u002B1.60%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.63,
-      "change": 1.09,
-      "changeStr": "\u002B1.09%"
+      "price": 18.85,
+      "change": 2.28,
+      "changeStr": "\u002B2.28%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.2,
-      "change": 0.96,
-      "changeStr": "\u002B0.96%"
+      "price": 4.24,
+      "change": 1.92,
+      "changeStr": "\u002B1.92%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.25,
-      "change": 1.67,
-      "changeStr": "\u002B1.67%"
+      "price": 15.35,
+      "change": 2.33,
+      "changeStr": "\u002B2.33%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.18,
-      "change": -0.18,
-      "changeStr": "-0.18%"
+      "price": 49.48,
+      "change": 0.43,
+      "changeStr": "\u002B0.43%"
     }
   ],
   "news": [
+    {
+      "title": "Minera\u00E7\u00E3o da Braskem: entenda como solo afundou em Macei\u00F3 e obrigou 60 mil pessoas a deixarem suas casas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/al/alagoas/noticia/2026/08/24/mineracao-da-braskem-entenda-como-solo-afundou-em-maceio-e-obrigou-60-mil-pessoas-a-deixarem-suas-casas.ghtml",
+      "date": "Mon, 24 Aug 2026 14:41:33 -0000"
+    },
+    {
+      "title": "Mega-Sena 3048: aposta simples que levou R$ 57 milh\u00F5es foi feita online em SC; estado teve outros dois premiados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/24/mega-sena-3048-aposta-simples-que-levou-r-57-milhoes-foi-feita-online-em-sc-estado-teve-outros-dois-premiados.ghtml",
+      "date": "Mon, 24 Aug 2026 14:41:05 -0000"
+    },
     {
       "title": "Gal\u00EDpolo v\u00EA risco em avan\u00E7o de cr\u00E9dito sem garantia e alerta para endividamento das fam\u00EDlias",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/24/com-dividas-de-mais-de-us-10-bilhoes-petroquimica-braskem-pede-recuperacao-extrajudicial-no-brasil.ghtml",
       "date": "Mon, 24 Aug 2026 11:52:48 -0000"
-    },
-    {
-      "title": "Tesla faz recall de 2,7 milh\u00F5es de carros na China por motivos de seguran\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/24/tesla-faz-recall-de-milhoes-de-carros-na-china-por-motivos-de-seguranca.ghtml",
-      "date": "Mon, 24 Aug 2026 11:42:03 -0000"
-    },
-    {
-      "title": "Mercado financeiro baixa proje\u00E7\u00E3o de crescimento da economia em 2026 para 1,95%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/24/mercado-financeiro-baixa-projecao-de-crescimento-da-economia-em-2026-para-195percent.ghtml",
-      "date": "Mon, 24 Aug 2026 11:40:49 -0000"
     }
   ]
 }
