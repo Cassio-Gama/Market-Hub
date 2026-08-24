@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170448.88,
-      "change": 1.5,
-      "changeStr": "\u002B1.50%"
+      "price": 171944.9,
+      "change": 0.53,
+      "changeStr": "\u002B0.53%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.3,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 41.91,
+      "change": -5.4,
+      "changeStr": "-5.40%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.03,
-      "change": 1.36,
-      "changeStr": "\u002B1.36%"
+      "price": 77.77,
+      "change": 3.65,
+      "changeStr": "\u002B3.65%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.6,
-      "change": 2.91,
-      "changeStr": "\u002B2.91%"
+      "price": 38.82,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.24,
-      "change": 3.11,
-      "changeStr": "\u002B3.11%"
+      "price": 16.39,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.43,
-      "change": 2.16,
-      "changeStr": "\u002B2.16%"
+      "price": 18.63,
+      "change": 1.09,
+      "changeStr": "\u002B1.09%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.16,
-      "change": 7.22,
-      "changeStr": "\u002B7.22%"
+      "price": 4.2,
+      "change": 0.96,
+      "changeStr": "\u002B0.96%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15,
-      "change": 0.67,
-      "changeStr": "\u002B0.67%"
+      "price": 15.25,
+      "change": 1.67,
+      "changeStr": "\u002B1.67%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.27,
-      "change": 1.8,
-      "changeStr": "\u002B1.80%"
+      "price": 49.18,
+      "change": -0.18,
+      "changeStr": "-0.18%"
     }
   ],
   "news": [
+    {
+      "title": "Gal\u00EDpolo v\u00EA risco em avan\u00E7o de cr\u00E9dito sem garantia e alerta para endividamento das fam\u00EDlias",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/galipolo-febraban-tech.ghtml",
+      "date": "Mon, 24 Aug 2026 13:54:26 -0000"
+    },
+    {
+      "title": "Trump anuncia tarifas de 50% sobre produtos do Canad\u00E1 em 2027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/trump-anuncia-tarifas-de-50percent-sobre-produtos-do-canada-em-2027.ghtml",
+      "date": "Mon, 24 Aug 2026 13:42:43 -0000"
+    },
+    {
+      "title": "Desastre em Macei\u00F3, d\u00EDvida alta e queda no setor: o caminho da Braskem at\u00E9 a recupera\u00E7\u00E3o extrajudicial",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/desastre-em-maceio-divida-alta-e-queda-no-setor-o-caminho-da-braskem-ate-a-recuperacao-extrajudicial.ghtml",
+      "date": "Mon, 24 Aug 2026 13:39:25 -0000"
+    },
+    {
+      "title": "Free flow: CNH do Brasil passa a exibir passagens e como pagar o ped\u00E1gio eletr\u00F4nico",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/24/free-flow-cnh-do-brasil.ghtml",
+      "date": "Mon, 24 Aug 2026 13:23:10 -0000"
+    },
+    {
+      "title": "Conhe\u00E7a a Braskem, gigante petroqu\u00EDmica que vai entrar com pedido de recupera\u00E7\u00E3o extrajudicial no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/conheca-a-braskem-recuperacao-extrajudicial.ghtml",
+      "date": "Mon, 24 Aug 2026 13:14:56 -0000"
+    },
     {
       "title": "Nova Zel\u00E2ndia apresentar\u00E1 projeto de lei que pro\u00EDbe redes sociais para menores de 16 anos",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/24/mercado-financeiro-baixa-projecao-de-crescimento-da-economia-em-2026-para-195percent.ghtml",
       "date": "Mon, 24 Aug 2026 11:40:49 -0000"
-    },
-    {
-      "title": "Imposto de Renda 2026: Receita abre consulta ao 4\u00BA lote de restitui\u00E7\u00E3o nesta segunda; veja como fazer",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/08/24/imposto-de-renda-2026-restituicao.ghtml",
-      "date": "Mon, 24 Aug 2026 10:46:57 -0000"
-    },
-    {
-      "title": "O \u0027segundo aluguel\u0027 est\u00E1 mais caro: condom\u00EDnio sobe acima da infla\u00E7\u00E3o e pesa at\u00E9 40% do aluguel",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/24/o-segundo-aluguel-esta-mais-caro-condominio-sobe-acima-da-inflacao-e-pesa-ate-40percent-do-aluguel.ghtml",
-      "date": "Mon, 24 Aug 2026 08:04:34 -0000"
-    },
-    {
-      "title": "Simples Nacional muda em 2027: empresas t\u00EAm at\u00E9 setembro para escolher como pagar novos impostos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/08/24/simples-nacional-muda-em-2027.ghtml",
-      "date": "Mon, 24 Aug 2026 06:00:45 -0000"
-    },
-    {
-      "title": "Google, Apple e mais: veja como \u00E9 trabalhar nas empresas mais valiosas no mundo ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/24/veja-como-e-trabalhar-nas-empresas-mais-valiosas-no-mundo.ghtml",
-      "date": "Mon, 24 Aug 2026 05:00:16 -0000"
-    },
-    {
-      "title": "Como pesquisas militares dos EUA viraram base para os c\u00E3es-rob\u00F4s da China",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/24/como-pesquisas-militares-dos-eua-viraram-base-para-os-caes-robos-da-china.ghtml",
-      "date": "Mon, 24 Aug 2026 05:00:15 -0000"
     }
   ]
 }
