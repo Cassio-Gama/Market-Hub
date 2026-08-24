@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172591.98,
-      "change": 0.91,
-      "changeStr": "\u002B0.91%"
+      "price": 172338.84,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.01,
-      "change": -5.17,
-      "changeStr": "-5.17%"
+      "price": 41.83,
+      "change": -5.58,
+      "changeStr": "-5.58%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.04,
-      "change": 4.01,
-      "changeStr": "\u002B4.01%"
+      "price": 77.74,
+      "change": 3.61,
+      "changeStr": "\u002B3.61%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.88,
-      "change": 0.73,
-      "changeStr": "\u002B0.73%"
+      "price": 38.81,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.42,
-      "change": 1.11,
-      "changeStr": "\u002B1.11%"
+      "price": 16.41,
+      "change": 1.05,
+      "changeStr": "\u002B1.05%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.72,
-      "change": 1.57,
-      "changeStr": "\u002B1.57%"
+      "price": 18.73,
+      "change": 1.63,
+      "changeStr": "\u002B1.63%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.22,
-      "change": 1.44,
-      "changeStr": "\u002B1.44%"
+      "price": 4.27,
+      "change": 2.64,
+      "changeStr": "\u002B2.64%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.29,
-      "change": 1.93,
-      "changeStr": "\u002B1.93%"
+      "price": 15.3,
+      "change": 2,
+      "changeStr": "\u002B2.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.27,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 49.12,
+      "change": -0.3,
+      "changeStr": "-0.30%"
     }
   ],
   "news": [
+    {
+      "title": "Braskem cai 5,3% ap\u00F3s B3 anunciar exclus\u00E3o de a\u00E7\u00F5es dos \u00EDndices da Bolsa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/braskem-cai-53percent-apos-b3-anunciar-exclusao-de-acoes-dos-indices-da-bolsa.ghtml",
+      "date": "Mon, 24 Aug 2026 17:31:09 -0000"
+    },
+    {
+      "title": "Elei\u00E7\u00F5es 2026: ministro da Fazenda defende combater \u0027pejotiza\u00E7\u00E3o\u0027 para conter d\u00E9ficit da Previd\u00EAncia Social",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-ministro-da-fazenda-defende-combater-pejotizacao-para-reduzir-deficit-da-previdencia-social.ghtml",
+      "date": "Mon, 24 Aug 2026 16:45:44 -0000"
+    },
     {
       "title": "Brasil Soberano: governo define plano para aplicar R$ 13,5 bilh\u00F5es em cr\u00E9dito para empresas afetadas por tarifa\u00E7o e conflitos",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/24/conheca-a-braskem-recuperacao-extrajudicial.ghtml",
       "date": "Mon, 24 Aug 2026 13:14:56 -0000"
-    },
-    {
-      "title": "Nova Zel\u00E2ndia apresentar\u00E1 projeto de lei que pro\u00EDbe redes sociais para menores de 16 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/24/nova-zelandia-apresentara-projeto-de-lei-que-proibe-redes-sociais-para-menores-de-16-anos.ghtml",
-      "date": "Mon, 24 Aug 2026 12:35:53 -0000"
-    },
-    {
-      "title": "D\u00F3lar abre em alta, com cen\u00E1rio eleitoral no Brasil e guerra no Oriente M\u00E9dio no radar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/24/dolar-ibovespa.ghtml",
-      "date": "Mon, 24 Aug 2026 12:00:23 -0000"
     }
   ]
 }
