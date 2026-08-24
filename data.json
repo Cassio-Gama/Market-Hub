@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172030.55,
-      "change": 0.58,
-      "changeStr": "\u002B0.58%"
+      "price": 172240.3,
+      "change": 0.71,
+      "changeStr": "\u002B0.71%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.82,
-      "change": -5.6,
-      "changeStr": "-5.60%"
+      "price": 42,
+      "change": -5.19,
+      "changeStr": "-5.19%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.1,
-      "change": 2.76,
-      "changeStr": "\u002B2.76%"
+      "price": 77.24,
+      "change": 2.95,
+      "changeStr": "\u002B2.95%"
     },
     {
       "symbol": "ITUB4",
@@ -26,36 +26,48 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 16.39,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 16.4,
+      "change": 0.99,
+      "changeStr": "\u002B0.99%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.66,
-      "change": 1.25,
-      "changeStr": "\u002B1.25%"
+      "price": 18.68,
+      "change": 1.36,
+      "changeStr": "\u002B1.36%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.25,
-      "change": 2.16,
-      "changeStr": "\u002B2.16%"
+      "price": 4.21,
+      "change": 1.2,
+      "changeStr": "\u002B1.20%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.28,
-      "change": 1.87,
-      "changeStr": "\u002B1.87%"
+      "price": 15.29,
+      "change": 1.93,
+      "changeStr": "\u002B1.93%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.9,
-      "change": -0.75,
-      "changeStr": "-0.75%"
+      "price": 48.88,
+      "change": -0.79,
+      "changeStr": "-0.79%"
     }
   ],
   "news": [
+    {
+      "title": "Fl\u00E1vio prop\u00F5e a Tarc\u00EDsio pacto de um mandato s\u00F3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/24/flavio-propoe-a-tarcisio-pacto-de-um-mandato-so.ghtml",
+      "date": "Mon, 24 Aug 2026 19:18:47 -0000"
+    },
+    {
+      "title": "Trump comprou a\u00E7\u00F5es da SpaceX, de Elon Musk, mostra declara\u00E7\u00E3o financeira",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/trump-comprou-acoes-da-spacex-de-elon-musk-em-junho.ghtml",
+      "date": "Mon, 24 Aug 2026 18:53:48 -0000"
+    },
     {
       "title": "Benefici\u00E1rios do INSS sem biometria poder\u00E3o contratar consignado com valida\u00E7\u00E3o de dados banc\u00E1rios",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/24/mega-sena-3048-aposta-simples-que-levou-r-57-milhoes-foi-feita-online-em-sc-estado-teve-outros-dois-premiados.ghtml",
       "date": "Mon, 24 Aug 2026 14:41:05 -0000"
-    },
-    {
-      "title": "Gal\u00EDpolo v\u00EA risco em cr\u00E9dito caro usado para despesas fixas e alerta para endividamento das fam\u00EDlias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/24/galipolo-febraban-tech.ghtml",
-      "date": "Mon, 24 Aug 2026 13:54:26 -0000"
-    },
-    {
-      "title": "Trump anuncia tarifas de 50% sobre produtos do Canad\u00E1 em 2027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/24/trump-anuncia-tarifas-de-50percent-sobre-produtos-do-canada-em-2027.ghtml",
-      "date": "Mon, 24 Aug 2026 13:42:43 -0000"
     }
   ]
 }
