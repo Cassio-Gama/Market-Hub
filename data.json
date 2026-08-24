@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172240.3,
-      "change": 0.71,
-      "changeStr": "\u002B0.71%"
+      "price": 171906.72,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     },
     {
       "symbol": "PETR4",
-      "price": 42,
-      "change": -5.19,
-      "changeStr": "-5.19%"
+      "price": 42.11,
+      "change": -4.94,
+      "changeStr": "-4.94%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.24,
-      "change": 2.95,
-      "changeStr": "\u002B2.95%"
+      "price": 77.13,
+      "change": 2.8,
+      "changeStr": "\u002B2.80%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.84,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 38.73,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.4,
-      "change": 0.99,
-      "changeStr": "\u002B0.99%"
+      "price": 16.27,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.68,
-      "change": 1.36,
-      "changeStr": "\u002B1.36%"
+      "price": 18.6,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.21,
-      "change": 1.2,
-      "changeStr": "\u002B1.20%"
+      "price": 4.16,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.29,
-      "change": 1.93,
-      "changeStr": "\u002B1.93%"
+      "price": 15.25,
+      "change": 1.67,
+      "changeStr": "\u002B1.67%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.88,
-      "change": -0.79,
-      "changeStr": "-0.79%"
+      "price": 49.07,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     }
   ],
   "news": [
+    {
+      "title": "g1 completa 20 anos e lan\u00E7a campanha que marca in\u00EDcio das comemora\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/08/24/g1-completa-20-anos-e-lanca-campanha-que-marca-inicio-das-comemoracoes.ghtml",
+      "date": "Mon, 24 Aug 2026 20:30:15 -0000"
+    },
+    {
+      "title": "Braskem protocola pedido de recupera\u00E7\u00E3o extrajudicial para reestruturar d\u00EDvida de R$ 56 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/braskem-protocola-pedido-de-recuperacao-extrajudicial-para-reestruturar-divida-de-r-56-bilhoes.ghtml",
+      "date": "Mon, 24 Aug 2026 20:17:58 -0000"
+    },
+    {
+      "title": "Brasileiros pedem nas redes socias que H\u00E4agen-Dazs n\u00E3o deixe o p\u00E1is: \u0027pelo amor de Deus\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/brasileiros-pedem-nas-redes-socias-que-haagen-dazs-nao-deixe-o-pais-pelo-amor-de-deus.ghtml",
+      "date": "Mon, 24 Aug 2026 20:00:34 -0000"
+    },
     {
       "title": "Fl\u00E1vio prop\u00F5e a Tarc\u00EDsio pacto de um mandato s\u00F3",
       "source": "G1 Economia",
@@ -75,7 +93,7 @@
       "date": "Mon, 24 Aug 2026 18:38:33 -0000"
     },
     {
-      "title": "Empresa dos EUA avan\u00E7a para comprar \u00FAnica mineradora de terras raras do Brasil com aporte de R$ 3,8 bi do governo americano",
+      "title": "Empresa dos EUA avan\u00E7a na compra de mineradora brasileira de terras raras com apoio bilion\u00E1rio do governo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/24/eua-terrasraras-compra.ghtml",
       "date": "Mon, 24 Aug 2026 18:10:50 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-ministro-da-fazenda-defende-combater-pejotizacao-para-reduzir-deficit-da-previdencia-social.ghtml",
       "date": "Mon, 24 Aug 2026 16:45:44 -0000"
-    },
-    {
-      "title": "Brasil Soberano: governo define plano para aplicar R$ 13,5 bilh\u00F5es em cr\u00E9dito para empresas afetadas por tarifa\u00E7o e conflitos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/24/brasil-soberano-executivo-define-plano-para-aplicar-r-135-bilhoes-em-linhas-de-credito-para-empresas-afetadas-pelo-tarifaco.ghtml",
-      "date": "Mon, 24 Aug 2026 15:50:34 -0000"
-    },
-    {
-      "title": "Minera\u00E7\u00E3o da Braskem: entenda como solo afundou em Macei\u00F3 e obrigou 60 mil pessoas a deixarem suas casas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/al/alagoas/noticia/2026/08/24/mineracao-da-braskem-entenda-como-solo-afundou-em-maceio-e-obrigou-60-mil-pessoas-a-deixarem-suas-casas.ghtml",
-      "date": "Mon, 24 Aug 2026 14:41:33 -0000"
-    },
-    {
-      "title": "Mega-Sena 3048: aposta simples que levou R$ 57 milh\u00F5es foi feita online em SC; estado teve outros dois premiados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/24/mega-sena-3048-aposta-simples-que-levou-r-57-milhoes-foi-feita-online-em-sc-estado-teve-outros-dois-premiados.ghtml",
-      "date": "Mon, 24 Aug 2026 14:41:05 -0000"
     }
   ]
 }
