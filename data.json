@@ -2,62 +2,80 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172338.84,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 172030.55,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.83,
-      "change": -5.58,
-      "changeStr": "-5.58%"
+      "price": 41.82,
+      "change": -5.6,
+      "changeStr": "-5.60%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.74,
-      "change": 3.61,
-      "changeStr": "\u002B3.61%"
+      "price": 77.1,
+      "change": 2.76,
+      "changeStr": "\u002B2.76%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.81,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 38.84,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.41,
-      "change": 1.05,
-      "changeStr": "\u002B1.05%"
+      "price": 16.39,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.73,
-      "change": 1.63,
-      "changeStr": "\u002B1.63%"
+      "price": 18.66,
+      "change": 1.25,
+      "changeStr": "\u002B1.25%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.27,
-      "change": 2.64,
-      "changeStr": "\u002B2.64%"
+      "price": 4.25,
+      "change": 2.16,
+      "changeStr": "\u002B2.16%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.3,
-      "change": 2,
-      "changeStr": "\u002B2.00%"
+      "price": 15.28,
+      "change": 1.87,
+      "changeStr": "\u002B1.87%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.12,
-      "change": -0.3,
-      "changeStr": "-0.30%"
+      "price": 48.9,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     }
   ],
   "news": [
     {
-      "title": "Braskem cai 5,3% ap\u00F3s B3 anunciar exclus\u00E3o de a\u00E7\u00F5es dos \u00EDndices da Bolsa",
+      "title": "Benefici\u00E1rios do INSS sem biometria poder\u00E3o contratar consignado com valida\u00E7\u00E3o de dados banc\u00E1rios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/beneficiarios-do-inss-sem-biometria-poderao-contratar-consignado-com-validacao-de-dados-bancarios.ghtml",
+      "date": "Mon, 24 Aug 2026 18:38:33 -0000"
+    },
+    {
+      "title": "Empresa dos EUA avan\u00E7a para comprar \u00FAnica mineradora de terras raras do Brasil com aporte de R$ 3,8 bi do governo americano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/eua-terrasraras-compra.ghtml",
+      "date": "Mon, 24 Aug 2026 18:10:50 -0000"
+    },
+    {
+      "title": "Marca de sorvetes H\u00E4agen-Dazs deixa de ser distribu\u00EDda no Brasil ap\u00F3s quase 30 anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/sorvetes-haagen-dazs-brasil.ghtml",
+      "date": "Mon, 24 Aug 2026 18:04:57 -0000"
+    },
+    {
+      "title": "Braskem despenca 6% ap\u00F3s pedido de recupera\u00E7\u00E3o extrajudicial tirar a\u00E7\u00F5es de 18 \u00EDndices da B3",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/24/braskem-cai-53percent-apos-b3-anunciar-exclusao-de-acoes-dos-indices-da-bolsa.ghtml",
       "date": "Mon, 24 Aug 2026 17:31:09 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/24/trump-anuncia-tarifas-de-50percent-sobre-produtos-do-canada-em-2027.ghtml",
       "date": "Mon, 24 Aug 2026 13:42:43 -0000"
-    },
-    {
-      "title": "Desastre em Macei\u00F3, d\u00EDvida alta e queda no setor: o caminho da Braskem at\u00E9 a recupera\u00E7\u00E3o extrajudicial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/24/desastre-em-maceio-divida-alta-e-queda-no-setor-o-caminho-da-braskem-ate-a-recuperacao-extrajudicial.ghtml",
-      "date": "Mon, 24 Aug 2026 13:39:25 -0000"
-    },
-    {
-      "title": "Free flow: CNH do Brasil passa a exibir passagens e como pagar o ped\u00E1gio eletr\u00F4nico",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/24/free-flow-cnh-do-brasil.ghtml",
-      "date": "Mon, 24 Aug 2026 13:23:10 -0000"
-    },
-    {
-      "title": "Conhe\u00E7a a Braskem, gigante petroqu\u00EDmica que vai entrar com pedido de recupera\u00E7\u00E3o extrajudicial no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/24/conheca-a-braskem-recuperacao-extrajudicial.ghtml",
-      "date": "Mon, 24 Aug 2026 13:14:56 -0000"
     }
   ]
 }
