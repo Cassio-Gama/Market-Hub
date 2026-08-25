@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174331.72,
-      "change": 1.41,
-      "changeStr": "\u002B1.41%"
+      "price": 174576.8,
+      "change": 1.55,
+      "changeStr": "\u002B1.55%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.27,
-      "change": -1.99,
-      "changeStr": "-1.99%"
+      "price": 41.35,
+      "change": -1.8,
+      "changeStr": "-1.80%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.36,
-      "change": 1.59,
-      "changeStr": "\u002B1.59%"
+      "price": 78.7,
+      "change": 2.04,
+      "changeStr": "\u002B2.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.47,
-      "change": 1.91,
-      "changeStr": "\u002B1.91%"
+      "price": 39.44,
+      "change": 1.83,
+      "changeStr": "\u002B1.83%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.74,
-      "change": 2.89,
-      "changeStr": "\u002B2.89%"
+      "price": 16.78,
+      "change": 3.13,
+      "changeStr": "\u002B3.13%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.54,
-      "change": 5.05,
-      "changeStr": "\u002B5.05%"
+      "price": 19.57,
+      "change": 5.22,
+      "changeStr": "\u002B5.22%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.41,
-      "change": 6.01,
-      "changeStr": "\u002B6.01%"
+      "price": 4.54,
+      "change": 9.13,
+      "changeStr": "\u002B9.13%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.23,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 15.31,
+      "change": 0.39,
+      "changeStr": "\u002B0.39%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.57,
-      "change": 1.02,
-      "changeStr": "\u002B1.02%"
+      "price": 49.58,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     }
   ],
   "news": [
+    {
+      "title": "TCU derruba medida cautelar que suspendia o uso do \u0027dinheiro esquecido\u0027 no Desenrola 2.0",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/25/tcu-derruba-medida-cautelar-que-suspendia-o-uso-do-dinheiro-esquecido-de-trabalhadores-nos-bancos-para-o-desenrola-20.ghtml",
+      "date": "Tue, 25 Aug 2026 20:09:33 -0000"
+    },
     {
       "title": "Arrecada\u00E7\u00E3o federal soma R$ 289 bilh\u00F5es em julho, novo recorde para o m\u00EAs",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/25/china-reduz-importacao-de-alimentos-e-amplia-producao-agricola.ghtml",
       "date": "Tue, 25 Aug 2026 12:44:57 -0000"
-    },
-    {
-      "title": "Por que o Brasil multou o TikTok e suspendeu lives do Discord? Entenda a diferen\u00E7a entre os casos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/por-que-a-anpd-multou-o-tiktok-e-suspendeu-lives-do-discord-entenda-a-diferenca-entre-os-casos.ghtml",
-      "date": "Tue, 25 Aug 2026 12:29:25 -0000"
     }
   ]
 }
