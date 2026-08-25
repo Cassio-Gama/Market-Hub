@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171659.95,
-      "change": -0.14,
-      "changeStr": "-0.14%"
+      "price": 172615.5,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     },
     {
       "symbol": "PETR4",
@@ -14,48 +14,54 @@
     },
     {
       "symbol": "VALE3",
-      "price": 77.45,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 77.78,
+      "change": 0.84,
+      "changeStr": "\u002B0.84%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.7,
-      "change": -0.08,
-      "changeStr": "-0.08%"
+      "price": 38.96,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.38,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 16.44,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.76,
-      "change": 0.86,
-      "changeStr": "\u002B0.86%"
+      "price": 18.84,
+      "change": 1.29,
+      "changeStr": "\u002B1.29%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.12,
-      "change": -0.96,
-      "changeStr": "-0.96%"
+      "price": 4.23,
+      "change": 1.68,
+      "changeStr": "\u002B1.68%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.06,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 15.14,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.48,
-      "change": -1.2,
-      "changeStr": "-1.20%"
+      "price": 48.75,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     }
   ],
   "news": [
+    {
+      "title": "Ap\u00F3s tarifas de Trump, Canad\u00E1 anuncia retalia\u00E7\u00E3o de at\u00E9 50% contra os EUA ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/25/canada-tarifas-eua.ghtml",
+      "date": "Tue, 25 Aug 2026 15:03:50 -0000"
+    },
     {
       "title": "Governo amplia servi\u00E7os para MEIs no Contrata\u002BBrasil e regulamenta sistema de compras online",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/anpd-multa-tiktok-por-falhas-na-protecao-de-menores.ghtml",
       "date": "Tue, 25 Aug 2026 10:04:00 -0000"
-    },
-    {
-      "title": "V\u00CDDEO: gado foge de inc\u00EAndio que atinge fazendas; fogo avan\u00E7a por \u00E1reas rurais de tr\u00EAs estados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/25/video-gado-foge-de-incendio-que-atinge-fazendas-fogo-avanca-por-areas-rurais-de-tres-estados.ghtml",
-      "date": "Tue, 25 Aug 2026 06:00:46 -0000"
     }
   ]
 }
