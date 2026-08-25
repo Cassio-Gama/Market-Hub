@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173335.66,
-      "change": 0.83,
-      "changeStr": "\u002B0.83%"
+      "price": 173186.48,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.2,
-      "change": -2.16,
-      "changeStr": "-2.16%"
+      "price": 41.11,
+      "change": -2.37,
+      "changeStr": "-2.37%"
     },
     {
       "symbol": "VALE3",
-      "price": 78,
-      "change": 1.13,
-      "changeStr": "\u002B1.13%"
+      "price": 77.88,
+      "change": 0.97,
+      "changeStr": "\u002B0.97%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.11,
-      "change": 0.98,
-      "changeStr": "\u002B0.98%"
+      "price": 39.12,
+      "change": 1.01,
+      "changeStr": "\u002B1.01%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.61,
-      "change": 2.09,
-      "changeStr": "\u002B2.09%"
+      "price": 16.56,
+      "change": 1.78,
+      "changeStr": "\u002B1.78%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.09,
-      "change": 2.63,
-      "changeStr": "\u002B2.63%"
+      "price": 19.12,
+      "change": 2.8,
+      "changeStr": "\u002B2.80%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.32,
-      "change": 3.85,
-      "changeStr": "\u002B3.85%"
+      "price": 4.38,
+      "change": 5.29,
+      "changeStr": "\u002B5.29%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.18,
-      "change": -0.46,
-      "changeStr": "-0.46%"
+      "price": 15.16,
+      "change": -0.59,
+      "changeStr": "-0.59%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.93,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 49.02,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     }
   ],
   "news": [
+    {
+      "title": "Arrecada\u00E7\u00E3o federal soma R$ 289 bilh\u00F5es em julho, novo recorde para o m\u00EAs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/25/arrecadacao-federal-soma-r-289-bilhoes-em-julho-novo-recorde-para-o-mes.ghtml",
+      "date": "Tue, 25 Aug 2026 16:55:38 -0000"
+    },
     {
       "title": "Embraer certifica jato que pousa sozinho; modelo \u00E9 o mais veloz e de maior alcance do mundo",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/por-que-a-anpd-multou-o-tiktok-e-suspendeu-lives-do-discord-entenda-a-diferenca-entre-os-casos.ghtml",
       "date": "Tue, 25 Aug 2026 12:29:25 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda com petr\u00F3leo e tens\u00F5es entre EUA e Ir\u00E3 no radar; Ibovespa avan\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/25/dolar-ibovespa.ghtml",
-      "date": "Tue, 25 Aug 2026 12:00:47 -0000"
     }
   ]
 }
