@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171906.72,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
+      "price": 171414.84,
+      "change": -0.29,
+      "changeStr": "-0.29%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.11,
-      "change": -4.94,
-      "changeStr": "-4.94%"
+      "price": 41.58,
+      "change": -1.26,
+      "changeStr": "-1.26%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.13,
-      "change": 2.8,
-      "changeStr": "\u002B2.80%"
+      "price": 76.99,
+      "change": -0.18,
+      "changeStr": "-0.18%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.73,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 38.57,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.27,
-      "change": 0.18,
-      "changeStr": "\u002B0.18%"
+      "price": 16.36,
+      "change": 0.55,
+      "changeStr": "\u002B0.55%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.6,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 18.72,
+      "change": 0.65,
+      "changeStr": "\u002B0.65%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.16,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 4.12,
+      "change": -0.96,
+      "changeStr": "-0.96%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.25,
-      "change": 1.67,
-      "changeStr": "\u002B1.67%"
+      "price": 15.14,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.07,
-      "change": -0.41,
-      "changeStr": "-0.41%"
+      "price": 48.52,
+      "change": -1.12,
+      "changeStr": "-1.12%"
     }
   ],
   "news": [
+    {
+      "title": "H\u00E4agen-Dazs, Walmart, Ford e mais: veja marcas famosas que encerraram atividades no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/25/veja-marcas-famosas-que-encerraram-atividades-no-brasil.ghtml",
+      "date": "Tue, 25 Aug 2026 13:46:11 -0000"
+    },
     {
       "title": "\nChina reduz importa\u00E7\u00E3o de alimentos e amplia produ\u00E7\u00E3o agr\u00EDcola\n",
       "source": "G1 Economia",
@@ -69,7 +75,7 @@
       "date": "Tue, 25 Aug 2026 12:29:25 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta com petr\u00F3leo e tens\u00F5es entre EUA e Ir\u00E3 no radar",
+      "title": "D\u00F3lar opera em queda com petr\u00F3leo e tens\u00F5es entre EUA e Ir\u00E3 no radar; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/25/dolar-ibovespa.ghtml",
       "date": "Tue, 25 Aug 2026 12:00:47 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/25/inss-inicia-pagamento-de-beneficios-de-agosto-veja-calendario.ghtml",
       "date": "Tue, 25 Aug 2026 03:01:01 -0000"
-    },
-    {
-      "title": "Free flow: veja o passo a passo para consultar e pagar ped\u00E1gio eletr\u00F4nico no app CNH do Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/25/free-flow-veja-o-passo-a-passo-para-consultar-e-pagar-pedagio-eletronico-no-app-cnh-do-brasil.ghtml",
-      "date": "Tue, 25 Aug 2026 03:00:57 -0000"
     }
   ]
 }
