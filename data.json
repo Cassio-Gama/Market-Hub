@@ -57,7 +57,25 @@
   ],
   "news": [
     {
-      "title": "BYD mostra Mako no Festival Interlagos para enfrentar Fiat Toro e Volkswagen Tukan",
+      "title": "\nChina reduz importa\u00E7\u00E3o de alimentos e amplia produ\u00E7\u00E3o agr\u00EDcola\n",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/25/china-reduz-importacao-de-alimentos-e-amplia-producao-agricola.ghtml",
+      "date": "Tue, 25 Aug 2026 12:44:57 -0000"
+    },
+    {
+      "title": "Por que o Brasil multou o TikTok e suspendeu lives do Discord? Entenda a diferen\u00E7a entre os casos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/por-que-a-anpd-multou-o-tiktok-e-suspendeu-lives-do-discord-entenda-a-diferenca-entre-os-casos.ghtml",
+      "date": "Tue, 25 Aug 2026 12:29:25 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta com petr\u00F3leo e tens\u00F5es entre EUA e Ir\u00E3 no radar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/25/dolar-ibovespa.ghtml",
+      "date": "Tue, 25 Aug 2026 12:00:47 -0000"
+    },
+    {
+      "title": "BYD mostra picape h\u00EDbrida Mako para enfrentar Fiat Toro e Volkswagen Tukan",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/08/25/byd-mako-festival-interlagos.ghtml",
       "date": "Tue, 25 Aug 2026 11:08:10 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/08/25/free-flow-veja-o-passo-a-passo-para-consultar-e-pagar-pedagio-eletronico-no-app-cnh-do-brasil.ghtml",
       "date": "Tue, 25 Aug 2026 03:00:57 -0000"
-    },
-    {
-      "title": "H\u00E4agen-Dazs fora do Brasil: por que a marca de sorvetes americana tem nome que parece ser dinamarqu\u00EAs ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/25/haagen-dazs-fora-do-brasil-por-que-a-marca-de-sorvetes-americana-tem-nome-que-parece-ser-dinamarques.ghtml",
-      "date": "Tue, 25 Aug 2026 03:00:43 -0000"
-    },
-    {
-      "title": "Estado americano investiga OpenAI por ataque hacker feito por intelig\u00EAncia artificial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/24/estado-americana-investiga-openai-por-ataque-hacker-feito-por-inteligencia-artificial.ghtml",
-      "date": "Tue, 25 Aug 2026 00:34:05 -0000"
-    },
-    {
-      "title": "Governo eleva estimativa e calcula sal\u00E1rio m\u00EDnimo de R$ 1.741 em 2027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/24/governo-eleva-estimativa-e-calcula-salario-minimo-de-r-1741-em-2027.ghtml",
-      "date": "Mon, 24 Aug 2026 23:16:48 -0000"
     }
   ]
 }
