@@ -57,7 +57,13 @@
   ],
   "news": [
     {
-      "title": "Governo eleva estimativa e c\u00E1lcula sal\u00E1rio m\u00EDnimo de R$ 1.741 em 2027",
+      "title": "Estado americano investiga OpenAI por ataque hacker feito por intelig\u00EAncia artificial",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/24/estado-americana-investiga-openai-por-ataque-hacker-feito-por-inteligencia-artificial.ghtml",
+      "date": "Tue, 25 Aug 2026 00:34:05 -0000"
+    },
+    {
+      "title": "Governo eleva estimativa e calcula sal\u00E1rio m\u00EDnimo de R$ 1.741 em 2027",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/24/governo-eleva-estimativa-e-calcula-salario-minimo-de-r-1741-em-2027.ghtml",
       "date": "Mon, 24 Aug 2026 23:16:48 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/24/sorvetes-haagen-dazs-brasil.ghtml",
       "date": "Mon, 24 Aug 2026 18:04:57 -0000"
-    },
-    {
-      "title": "Braskem despenca mais de 6% ap\u00F3s pedido de recupera\u00E7\u00E3o extrajudicial tirar a\u00E7\u00F5es de 18 \u00EDndices da B3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/24/braskem-cai-53percent-apos-b3-anunciar-exclusao-de-acoes-dos-indices-da-bolsa.ghtml",
-      "date": "Mon, 24 Aug 2026 17:31:09 -0000"
     }
   ]
 }
