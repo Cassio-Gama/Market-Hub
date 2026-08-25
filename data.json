@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172615.5,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 173335.66,
+      "change": 0.83,
+      "changeStr": "\u002B0.83%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.34,
-      "change": -1.83,
-      "changeStr": "-1.83%"
+      "price": 41.2,
+      "change": -2.16,
+      "changeStr": "-2.16%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.78,
-      "change": 0.84,
-      "changeStr": "\u002B0.84%"
+      "price": 78,
+      "change": 1.13,
+      "changeStr": "\u002B1.13%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.96,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 39.11,
+      "change": 0.98,
+      "changeStr": "\u002B0.98%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.44,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
+      "price": 16.61,
+      "change": 2.09,
+      "changeStr": "\u002B2.09%"
     },
     {
       "symbol": "BBAS3",
-      "price": 18.84,
-      "change": 1.29,
-      "changeStr": "\u002B1.29%"
+      "price": 19.09,
+      "change": 2.63,
+      "changeStr": "\u002B2.63%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.23,
-      "change": 1.68,
-      "changeStr": "\u002B1.68%"
+      "price": 4.32,
+      "change": 3.85,
+      "changeStr": "\u002B3.85%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.14,
-      "change": -0.72,
-      "changeStr": "-0.72%"
+      "price": 15.18,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.75,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 48.93,
+      "change": -0.29,
+      "changeStr": "-0.29%"
     }
   ],
   "news": [
+    {
+      "title": "Embraer certifica jato que pousa sozinho; modelo \u00E9 o mais veloz e de maior alcance do mundo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/25/embraer-certifica-jato-que-pousa-sozinho-modelo-e-o-mais-veloz-e-de-maior-alcance-do-mundo.ghtml",
+      "date": "Tue, 25 Aug 2026 16:15:30 -0000"
+    },
+    {
+      "title": "Setor de fertilizantes pede R$ 2 bilh\u00F5es ao governo para conter impacto da guerra no Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/25/setor-de-fertilizantes-subsidios.ghtml",
+      "date": "Tue, 25 Aug 2026 16:04:07 -0000"
+    },
     {
       "title": "Ap\u00F3s tarifas de Trump, Canad\u00E1 anuncia retalia\u00E7\u00E3o de at\u00E9 50% contra os EUA ",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/25/dolar-ibovespa.ghtml",
       "date": "Tue, 25 Aug 2026 12:00:47 -0000"
-    },
-    {
-      "title": "BYD mostra picape h\u00EDbrida Mako para enfrentar Fiat Toro e Volkswagen Tukan",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/25/byd-mako-festival-interlagos.ghtml",
-      "date": "Tue, 25 Aug 2026 11:08:10 -0000"
-    },
-    {
-      "title": "ANPD multa TikTok em R$ 153,7 milh\u00F5es por falhas na prote\u00E7\u00E3o de menores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/anpd-multa-tiktok-por-falhas-na-protecao-de-menores.ghtml",
-      "date": "Tue, 25 Aug 2026 10:04:00 -0000"
     }
   ]
 }
