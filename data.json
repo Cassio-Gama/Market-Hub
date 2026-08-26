@@ -2,68 +2,68 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175034.77,
+      "price": 175030.94,
       "change": 0.26,
       "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.76,
-      "change": 0.99,
-      "changeStr": "\u002B0.99%"
+      "price": 42.16,
+      "change": 1.96,
+      "changeStr": "\u002B1.96%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.23,
-      "change": 0.67,
-      "changeStr": "\u002B0.67%"
+      "price": 78.53,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.74,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 39.56,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.11,
-      "change": 1.97,
-      "changeStr": "\u002B1.97%"
+      "price": 16.98,
+      "change": 1.19,
+      "changeStr": "\u002B1.19%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.69,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 19.47,
+      "change": -0.51,
+      "changeStr": "-0.51%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.7,
-      "change": 3.52,
-      "changeStr": "\u002B3.52%"
+      "price": 4.68,
+      "change": 3.08,
+      "changeStr": "\u002B3.08%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.33,
-      "change": 0.13,
-      "changeStr": "\u002B0.13%"
+      "price": 15.24,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.9,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 49.85,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     }
   ],
   "news": [
     {
-      "title": "Meta vai pagar R$ 86 bilh\u00F5es em acordo por alega\u00E7\u00F5es de v\u00EDcio de crian\u00E7as em redes sociais nos EUA",
+      "title": "Meta vai pagar US$ 16 bilh\u00F5es em acordo por alega\u00E7\u00F5es de v\u00EDcio de crian\u00E7as em redes sociais nos EUA",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/meta-vai-pagar-us-bilhoes-em-acordo-por-alegacoes-de-vicio-de-criancas-em-redes-sociais-nos-eua.ghtml",
       "date": "Wed, 26 Aug 2026 13:41:32 -0000"
     },
     {
-      "title": "Jaecoo 5 chega em setembro como SUV compacto mais potente do Brasil para encarar Honda HR-V",
+      "title": "Jaecoo 5 chega em setembro como o mais potente da categoria, para enfrentar HR-V, Creta e Renegade",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/08/26/jaecoo-5-chega-em-setembro.ghtml",
       "date": "Wed, 26 Aug 2026 13:09:43 -0000"
