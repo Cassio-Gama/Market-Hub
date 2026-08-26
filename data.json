@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174576.8,
-      "change": 1.55,
-      "changeStr": "\u002B1.55%"
+      "price": 175034.77,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.35,
-      "change": -1.8,
-      "changeStr": "-1.80%"
+      "price": 41.76,
+      "change": 0.99,
+      "changeStr": "\u002B0.99%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.7,
-      "change": 2.04,
-      "changeStr": "\u002B2.04%"
+      "price": 79.23,
+      "change": 0.67,
+      "changeStr": "\u002B0.67%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.44,
-      "change": 1.83,
-      "changeStr": "\u002B1.83%"
+      "price": 39.74,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.78,
-      "change": 3.13,
-      "changeStr": "\u002B3.13%"
+      "price": 17.11,
+      "change": 1.97,
+      "changeStr": "\u002B1.97%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.57,
-      "change": 5.22,
-      "changeStr": "\u002B5.22%"
+      "price": 19.69,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.54,
-      "change": 9.13,
-      "changeStr": "\u002B9.13%"
+      "price": 4.7,
+      "change": 3.52,
+      "changeStr": "\u002B3.52%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.31,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 15.33,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.58,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
+      "price": 49.9,
+      "change": 0.65,
+      "changeStr": "\u002B0.65%"
     }
   ],
   "news": [
+    {
+      "title": "Meta vai pagar R$ 86 bilh\u00F5es em acordo por alega\u00E7\u00F5es de v\u00EDcio de crian\u00E7as em redes sociais nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/meta-vai-pagar-us-bilhoes-em-acordo-por-alegacoes-de-vicio-de-criancas-em-redes-sociais-nos-eua.ghtml",
+      "date": "Wed, 26 Aug 2026 13:41:32 -0000"
+    },
+    {
+      "title": "Jaecoo 5 chega em setembro como SUV compacto mais potente do Brasil para encarar Honda HR-V",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/26/jaecoo-5-chega-em-setembro.ghtml",
+      "date": "Wed, 26 Aug 2026 13:09:43 -0000"
+    },
+    {
+      "title": "Omar Aziz vai propor transi\u00E7\u00E3o de at\u00E9 um ano para fim da escala 6x1",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/26/omar-aziz-vai-propor-transicao-de-ate-um-ano-para-fim-da-escala-6x1.ghtml",
+      "date": "Wed, 26 Aug 2026 13:02:07 -0000"
+    },
     {
       "title": "Bill Gates alerta para perigos da IA e quer discutir regras com Xi Jinping, presidente da China",
       "source": "G1 Economia",
@@ -63,19 +81,19 @@
       "date": "Wed, 26 Aug 2026 12:36:28 -0000"
     },
     {
-      "title": "GWM Tank 400: novo SUV h\u00EDbrido \u00E9 anunciado no Brasil para enfrentar o Toyota SW4",
+      "title": "GWM Tank 400 h\u00EDbrido flex chega ao Brasil em 2026, para rivalizar com Toyota SW4",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/08/26/gwm-tank-400.ghtml",
       "date": "Wed, 26 Aug 2026 12:27:25 -0000"
     },
     {
-      "title": "IPCA-15: pre\u00E7os caem 0,40% em agosto na pr\u00E9via da infla\u00E7\u00E3o, puxados por habita\u00E7\u00E3o, transportes e alimenta\u00E7\u00E3o",
+      "title": "IPCA-15: pre\u00E7os caem 0,40% em agosto, com conta de luz, gasolina e alimentos mais baratos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/26/ipca-15-previa-da-inflacao-agosto.ghtml",
       "date": "Wed, 26 Aug 2026 12:00:39 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta com foco na pr\u00E9via da infla\u00E7\u00E3o de agosto, d\u00EDvida p\u00FAblica e indicadores dos EUA",
+      "title": "D\u00F3lar opera em alta com foco em IPCA-15, d\u00EDvida p\u00FAblica e indicadores dos EUA; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/26/dolar-ibovespa.ghtml",
       "date": "Wed, 26 Aug 2026 12:00:16 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/golpistas-avancam-do-roubo-de-senhas-para-o-uso-de-ia-para-clonar-pessoas-no-brasil-revela-estudo.ghtml",
       "date": "Wed, 26 Aug 2026 08:04:17 -0000"
-    },
-    {
-      "title": "As duas frentes da guerra comercial de Trump - O Assunto #1791",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/26/as-duas-frentes-da-guerra-comercial-de-trump-o-assunto-1791.ghtml",
-      "date": "Wed, 26 Aug 2026 03:30:15 -0000"
-    },
-    {
-      "title": "Justi\u00E7a mant\u00E9m reintegra\u00E7\u00E3o de 1.900 demitidos da Casas Bahia; veja o que acontece agora",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/26/justica-mantem-reintegracao-de-1900-demitidos-da-casas-bahia-veja-o-que-acontece-agora.ghtml",
-      "date": "Wed, 26 Aug 2026 03:00:55 -0000"
-    },
-    {
-      "title": "TikTok leva multa in\u00E9dita no Brasil: o que causou a decis\u00E3o? E o que muda? Veja perguntas e respostas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/tiktok-leva-multa-inedita-no-brasil-o-que-causou-a-decisao-e-o-que-muda-veja-perguntas-e-respostas.ghtml",
-      "date": "Wed, 26 Aug 2026 03:00:46 -0000"
     }
   ]
 }
