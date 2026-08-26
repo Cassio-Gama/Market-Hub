@@ -1,61 +1,97 @@
 {
   "slider": [
     {
-      "symbol": "^BVSP",
-      "price": 174546.55,
-      "change": -0.02,
-      "changeStr": "-0.02%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 41.58,
-      "change": 0.56,
-      "changeStr": "\u002B0.56%"
-    },
-    {
       "symbol": "VALE3",
-      "price": 78.56,
-      "change": -0.18,
-      "changeStr": "-0.18%"
+      "price": 78.45,
+      "change": -0.32,
+      "changeStr": "-0.32%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.4,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 39.45,
+      "change": 0.03,
+      "changeStr": "\u002B0.03%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.95,
-      "change": 1.01,
-      "changeStr": "\u002B1.01%"
+      "price": 16.99,
+      "change": 1.25,
+      "changeStr": "\u002B1.25%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.41,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 19.52,
+      "change": -0.26,
+      "changeStr": "-0.26%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.69,
-      "change": 3.3,
-      "changeStr": "\u002B3.30%"
+      "price": 4.71,
+      "change": 3.74,
+      "changeStr": "\u002B3.74%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.23,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 15.24,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.25,
-      "change": 1.35,
-      "changeStr": "\u002B1.35%"
+      "price": 50.42,
+      "change": 1.69,
+      "changeStr": "\u002B1.69%"
     }
   ],
   "news": [
+    {
+      "title": "Chinesa DFM chega ao Brasil com hatch e SUV el\u00E9tricos para rivalizar com BYD e GWM",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/26/chinesa-dfm-chega-ao-brasil-com-hatch-e-suv-eletricos-para-rivalizar-com-byd-e-gwm.ghtml",
+      "date": "Wed, 26 Aug 2026 23:01:15 -0000"
+    },
+    {
+      "title": "Hackers ligados \u00E0 China atacaram NASA, Senado e \u00F3rg\u00E3os dos EUA, diz Justi\u00E7a americana",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/hackers-ligados-a-china-atacaram-nasa-senado-e-orgaos-dos-eua-diz-justica-americana.ghtml",
+      "date": "Wed, 26 Aug 2026 22:34:03 -0000"
+    },
+    {
+      "title": "Trump oficializa cota extra de importa\u00E7\u00E3o de carne para baixar pre\u00E7os nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/26/trump-oficializa-cota-extra-de-importacao-de-carne-para-baixar-precos-nos-eua.ghtml",
+      "date": "Wed, 26 Aug 2026 21:37:55 -0000"
+    },
+    {
+      "title": "Governo \u00E9 contra a explora\u00E7\u00E3o de terras raras em Goi\u00E1s por empresa americana e avalia como rever neg\u00F3cio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/26/governo-e-contra-a-exploracao-de-terras-raras-em-goias-por-empresa-americana-e-avalia-como-rever-negocio.ghtml",
+      "date": "Wed, 26 Aug 2026 21:29:03 -0000"
+    },
+    {
+      "title": "Dona de Habib\u2019s e Ragazzo entra em recupera\u00E7\u00E3o judicial; veja quais s\u00E3o os pr\u00F3ximos passos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/26/recuperacao-judicial-proximos-passos.ghtml",
+      "date": "Wed, 26 Aug 2026 20:30:42 -0000"
+    },
+    {
+      "title": "Dona de Habib\u2019s e Ragazzo entra em recupera\u00E7\u00E3o judicial com d\u00EDvida de R$ 265,2 milh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/26/recuperacao-judicial-habibs.ghtml",
+      "date": "Wed, 26 Aug 2026 19:49:03 -0000"
+    },
+    {
+      "title": "Carro zero mais barato do Brasil, pre\u00E7o do Renault Kwid cai quase R$ 12 mil e parte de R$ 71.190",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/26/renault-kwid-fica-quase-r-12-mil-mais-barato-e-parte-de-r-71190.ghtml",
+      "date": "Wed, 26 Aug 2026 19:30:04 -0000"
+    },
+    {
+      "title": "O que muda nas redes nos EUA ap\u00F3s acordo bilion\u00E1rio da Meta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/o-que-muda-nas-redes-nos-eua-apos-acordo-bilionario-da-meta.ghtml",
+      "date": "Wed, 26 Aug 2026 19:12:42 -0000"
+    },
     {
       "title": "Trump analisa regras da carne bovina enquanto produtores se op\u00F5em a tarifas; JBS e MBRF est\u00E3o no setor",
       "source": "G1 Economia",
@@ -67,54 +103,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/26/divida-publica-federal-cresce-022percent-em-julho-e-atinge-r-928-trilhoes.ghtml",
       "date": "Wed, 26 Aug 2026 18:09:44 -0000"
-    },
-    {
-      "title": "Governo prorroga subs\u00EDdio \u00E0 gasolina at\u00E9 9 de setembro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/26/governo-prorroga-subsidio-a-gasolina-ate-9-de-setembro.ghtml",
-      "date": "Wed, 26 Aug 2026 17:09:05 -0000"
-    },
-    {
-      "title": "Jeep lan\u00E7a S\u00E9rie Especial 85 Anos para Renegade, Avenger, Compass e Commander",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/26/jeep-lanca-serie-especial-85-anos.ghtml",
-      "date": "Wed, 26 Aug 2026 17:04:09 -0000"
-    },
-    {
-      "title": "Justi\u00E7a libera R$ 2,75 bilh\u00F5es para atrasados do INSS; veja quem tem direito e como receber",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/26/governo-libera-r-275-bilhoes-para-atrasados-do-inss-veja-quem-tem-direito-e-como-receber.ghtml",
-      "date": "Wed, 26 Aug 2026 16:45:24 -0000"
-    },
-    {
-      "title": "Meta vai pagar US$ 16 bilh\u00F5es em acordo por alega\u00E7\u00F5es de v\u00EDcio de crian\u00E7as em redes sociais nos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/meta-vai-pagar-us-bilhoes-em-acordo-por-alegacoes-de-vicio-de-criancas-em-redes-sociais-nos-eua.ghtml",
-      "date": "Wed, 26 Aug 2026 13:41:32 -0000"
-    },
-    {
-      "title": "Jaecoo 5 chega em setembro como o mais potente da categoria, para enfrentar HR-V, Creta e Renegade",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/26/jaecoo-5-chega-em-setembro.ghtml",
-      "date": "Wed, 26 Aug 2026 13:09:43 -0000"
-    },
-    {
-      "title": "Omar Aziz vai propor transi\u00E7\u00E3o de at\u00E9 um ano para fim da escala 6x1",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/26/omar-aziz-vai-propor-transicao-de-ate-um-ano-para-fim-da-escala-6x1.ghtml",
-      "date": "Wed, 26 Aug 2026 13:02:07 -0000"
-    },
-    {
-      "title": "Bill Gates alerta para perigos da IA e quer discutir regras com Xi Jinping, presidente da China",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/bill-gates-alerta-para-perigos-da-ia-e-quer-discutir-regras-com-xi-jinping-presidente-da-china.ghtml",
-      "date": "Wed, 26 Aug 2026 12:36:28 -0000"
-    },
-    {
-      "title": "GWM Tank 400 h\u00EDbrido flex chega ao Brasil em 2026, para rivalizar com Toyota SW4",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/26/gwm-tank-400.ghtml",
-      "date": "Wed, 26 Aug 2026 12:27:25 -0000"
     }
   ]
 }
