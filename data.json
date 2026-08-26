@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175030.94,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 174546.55,
+      "change": -0.02,
+      "changeStr": "-0.02%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.16,
-      "change": 1.96,
-      "changeStr": "\u002B1.96%"
+      "price": 41.58,
+      "change": 0.56,
+      "changeStr": "\u002B0.56%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.53,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 78.56,
+      "change": -0.18,
+      "changeStr": "-0.18%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.56,
-      "change": 0.3,
-      "changeStr": "\u002B0.30%"
+      "price": 39.4,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.98,
-      "change": 1.19,
-      "changeStr": "\u002B1.19%"
+      "price": 16.95,
+      "change": 1.01,
+      "changeStr": "\u002B1.01%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.47,
-      "change": -0.51,
-      "changeStr": "-0.51%"
+      "price": 19.41,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.68,
-      "change": 3.08,
-      "changeStr": "\u002B3.08%"
+      "price": 4.69,
+      "change": 3.3,
+      "changeStr": "\u002B3.30%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.24,
-      "change": -0.46,
-      "changeStr": "-0.46%"
+      "price": 15.23,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.85,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 50.25,
+      "change": 1.35,
+      "changeStr": "\u002B1.35%"
     }
   ],
   "news": [
+    {
+      "title": "Trump analisa regras da carne bovina enquanto produtores se op\u00F5em a tarifas; JBS e MBRF est\u00E3o no setor",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/26/trump-analisa-regras-da-carne-bovina-enquanto-produtores-se-opoem-a-tarifas.ghtml",
+      "date": "Wed, 26 Aug 2026 18:34:45 -0000"
+    },
+    {
+      "title": "D\u00EDvida p\u00FAblica federal cresce 0,22% em julho e atinge R$ 9,28 trilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/26/divida-publica-federal-cresce-022percent-em-julho-e-atinge-r-928-trilhoes.ghtml",
+      "date": "Wed, 26 Aug 2026 18:09:44 -0000"
+    },
+    {
+      "title": "Governo prorroga subs\u00EDdio \u00E0 gasolina at\u00E9 9 de setembro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/26/governo-prorroga-subsidio-a-gasolina-ate-9-de-setembro.ghtml",
+      "date": "Wed, 26 Aug 2026 17:09:05 -0000"
+    },
+    {
+      "title": "Jeep lan\u00E7a S\u00E9rie Especial 85 Anos para Renegade, Avenger, Compass e Commander",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/26/jeep-lanca-serie-especial-85-anos.ghtml",
+      "date": "Wed, 26 Aug 2026 17:04:09 -0000"
+    },
+    {
+      "title": "Justi\u00E7a libera R$ 2,75 bilh\u00F5es para atrasados do INSS; veja quem tem direito e como receber",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/26/governo-libera-r-275-bilhoes-para-atrasados-do-inss-veja-quem-tem-direito-e-como-receber.ghtml",
+      "date": "Wed, 26 Aug 2026 16:45:24 -0000"
+    },
     {
       "title": "Meta vai pagar US$ 16 bilh\u00F5es em acordo por alega\u00E7\u00F5es de v\u00EDcio de crian\u00E7as em redes sociais nos EUA",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/08/26/gwm-tank-400.ghtml",
       "date": "Wed, 26 Aug 2026 12:27:25 -0000"
-    },
-    {
-      "title": "IPCA-15: pre\u00E7os caem 0,40% em agosto, com conta de luz, gasolina e alimentos mais baratos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/26/ipca-15-previa-da-inflacao-agosto.ghtml",
-      "date": "Wed, 26 Aug 2026 12:00:39 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta com foco em IPCA-15, d\u00EDvida p\u00FAblica e indicadores dos EUA; Ibovespa sobe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/26/dolar-ibovespa.ghtml",
-      "date": "Wed, 26 Aug 2026 12:00:16 -0000"
-    },
-    {
-      "title": "MPT processa Uber em R$ 321 milh\u00F5es por cobrar taxa de motoristas para trabalhar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/26/mpt-processa-uber-por-cobrar-taxa-de-motoristas-para-trabalhar.ghtml",
-      "date": "Wed, 26 Aug 2026 11:28:09 -0000"
-    },
-    {
-      "title": "H\u00E4agen-Dazs de sa\u00EDda do Brasil: os 4 motivos para o adeus da marca de sorvetes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/26/haagen-dazs-de-saida-do-brasil-os-4-motivos-para-o-adeus-da-marca-de-sorvetes.ghtml",
-      "date": "Wed, 26 Aug 2026 10:14:56 -0000"
-    },
-    {
-      "title": "Golpistas avan\u00E7am do roubo de senhas para o uso de IA para \u0027clonar\u0027 pessoas no Brasil, revela estudo ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/golpistas-avancam-do-roubo-de-senhas-para-o-uso-de-ia-para-clonar-pessoas-no-brasil-revela-estudo.ghtml",
-      "date": "Wed, 26 Aug 2026 08:04:17 -0000"
     }
   ]
 }
