@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174586.27,
-      "change": 0.01,
-      "changeStr": "\u002B0.01%"
+      "price": 175267.81,
+      "change": 0.39,
+      "changeStr": "\u002B0.39%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.45,
-      "change": 0.24,
-      "changeStr": "\u002B0.24%"
+      "price": 42.78,
+      "change": 3.21,
+      "changeStr": "\u002B3.21%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.45,
-      "change": -0.32,
-      "changeStr": "-0.32%"
+      "price": 79.16,
+      "change": 0.91,
+      "changeStr": "\u002B0.91%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.45,
-      "change": 0.03,
-      "changeStr": "\u002B0.03%"
+      "price": 39.05,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.99,
-      "change": 1.25,
-      "changeStr": "\u002B1.25%"
+      "price": 16.95,
+      "change": -0.24,
+      "changeStr": "-0.24%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.52,
-      "change": -0.26,
-      "changeStr": "-0.26%"
+      "price": 20.07,
+      "change": 2.82,
+      "changeStr": "\u002B2.82%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.71,
-      "change": 3.74,
-      "changeStr": "\u002B3.74%"
+      "price": 4.8,
+      "change": 1.91,
+      "changeStr": "\u002B1.91%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.24,
-      "change": -0.46,
-      "changeStr": "-0.46%"
+      "price": 15.11,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.42,
-      "change": 1.69,
-      "changeStr": "\u002B1.69%"
+      "price": 50.09,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     }
   ],
   "news": [
     {
-      "title": "A corrida da IA pode encarecer sua conta de luz? Entenda o impacto dos data centers",
+      "title": "Do Habib\u0027s \u00E0s Casas Bahia, por que tantas empresas est\u00E3o quebrando no Brasil?",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/08/27/a-corrida-da-ia-pode-encarecer-sua-conta-de-luz-entenda-o-impacto-dos-data-centers.ghtml",
-      "date": "Thu, 27 Aug 2026 06:00:25 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/27/do-habib-s-as-casas-bahia-por-que-tantas-empresas-estao-quebrando-no-brasil.ghtml",
+      "date": "Thu, 27 Aug 2026 19:32:15 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 25 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "title": "Contas do governo registraram um super\u00E1vit prim\u00E1rio de R$ 10,8 bilh\u00F5es em julho",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/27/mega-sena-pode-pagar-r-25-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 27 Aug 2026 03:02:07 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/27/contas-do-governo-registraram-um-superavit-primario-de-r-108-bilhoes-em-julho-informou-tesouro-nacional.ghtml",
+      "date": "Thu, 27 Aug 2026 19:15:34 -0000"
     },
     {
-      "title": "Governo n\u00E3o espera solu\u00E7\u00E3o r\u00E1pida para tarifa\u00E7o, mesmo com retomada das negocia\u00E7\u00F5es com os EUA",
+      "title": "Justi\u00E7a do DF suspende imposto de exporta\u00E7\u00E3o de 12% sobre petr\u00F3leo; arrecada\u00E7\u00E3o j\u00E1 chega a R$ 7,9 bilh\u00F5es",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/27/governo-nao-espera-solucao-rapida-para-tarifaco-mesmo-com-retomada-das-negociacoes-com-os-eua.ghtml",
-      "date": "Thu, 27 Aug 2026 03:00:48 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/27/justica-federal-do-df-suspende-imposto-de-exportacao-de-12percent-sobre-petroleo.ghtml",
+      "date": "Thu, 27 Aug 2026 18:58:37 -0000"
     },
     {
-      "title": "Dona do Habib\u2019s em recupera\u00E7\u00E3o judicial: quais os motivos? Lojas v\u00E3o fechar? O que acontece agora?",
+      "title": "Gest\u00E3o Trump negocia com governo interino da Venezuela para assumir parte das reservas de petr\u00F3leo do pa\u00EDs, diz site",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/27/dona-do-habibs-em-recuperacao-judicial-o-que-acontece-agora.ghtml",
-      "date": "Thu, 27 Aug 2026 03:00:40 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/08/27/gestao-trump-conversa-com-governo-interino-da-venezuela-para-assumir-parte-das-reservas-de-petroleo-do-pais-diz-site.ghtml",
+      "date": "Thu, 27 Aug 2026 17:13:41 -0000"
     },
     {
-      "title": "Crimes online, falha em modera\u00E7\u00E3o e falta de acordo: por que o Discord foi processado em R$ 500 milh\u00F5es pelo governo",
+      "title": "Brasil assina acordo para ampliar com\u00E9rcio com a \u00CDndia enquanto aguarda retomada de negocia\u00E7\u00E3o para reduzir tarifa\u00E7o dos EUA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/27/crimes-online-falha-em-moderacao-e-falta-de-acordo-por-que-o-discord-foi-processado-em-r-500-milhoes-pelo-governo.ghtml",
-      "date": "Thu, 27 Aug 2026 03:00:24 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/27/brasil-assina-acordo-para-ampliar-comercio-com-a-india-enquanto-aguarda-retomada-de-negociacao-para-reduzir-tarifaco-dos-eua.ghtml",
+      "date": "Thu, 27 Aug 2026 16:48:40 -0000"
     },
     {
-      "title": "Lucro da Nvidia dispara 126% no 2\u00BA trimestre, para US$ 59,7 bilh\u00F5es, e CEO diz que demanda por chips segue forte",
+      "title": "OpenAI abre opera\u00E7\u00E3o no Brasil ap\u00F3s pa\u00EDs se tornar 3\u00BA maior mercado do ChatGPT",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/lucro-nvidia.ghtml",
-      "date": "Thu, 27 Aug 2026 01:16:48 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/27/openai-lanca-operacao-comercial-no-brasil.ghtml",
+      "date": "Thu, 27 Aug 2026 15:27:32 -0000"
     },
     {
-      "title": "Caixa tem lucro de R$ 3,9 bilh\u00F5es no 2\u00BA trimestre, alta de 5,9%",
+      "title": "Honda Prelude volta ao Brasil ap\u00F3s 25 anos por R$ 380 mil; Senna j\u00E1 foi garoto-propaganda do esportivo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/26/lucro-caixa-2o-trimestre.ghtml",
-      "date": "Thu, 27 Aug 2026 00:51:01 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/08/27/honda-lanca-no-brasil-prelude-por-r-380-mil-ayrton-senna-ja-foi-garoto-propaganda-do-esportivo.ghtml",
+      "date": "Thu, 27 Aug 2026 14:32:40 -0000"
     },
     {
-      "title": "Chinesa DFM chega ao Brasil em outubro com hatch e SUV el\u00E9tricos para rivalizar com BYD e GWM",
+      "title": "Vit\u00F3ria lidera ranking de cidades mais competitivas do pa\u00EDs pela primeira vez; veja munic\u00EDpios do top 10",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/26/chinesa-dfm-chega-ao-brasil-com-hatch-e-suv-eletricos-para-rivalizar-com-byd-e-gwm.ghtml",
-      "date": "Wed, 26 Aug 2026 23:01:15 -0000"
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/27/vitoria-lidera-ranking-de-cidades-mais-competitivas-do-pais-pela-primeira-vez-veja-municipios-do-top-10.ghtml",
+      "date": "Thu, 27 Aug 2026 14:19:43 -0000"
     },
     {
-      "title": "Hackers ligados \u00E0 China atacaram NASA, Senado e \u00F3rg\u00E3os dos EUA, diz Justi\u00E7a americana",
+      "title": "MG apresenta o el\u00E9trico IM6 no Brasil, SUV de luxo para encarar a Porsche; g1 j\u00E1 testou",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/hackers-ligados-a-china-atacaram-nasa-senado-e-orgaos-dos-eua-diz-justica-americana.ghtml",
-      "date": "Wed, 26 Aug 2026 22:34:03 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/08/27/mg-im6.ghtml",
+      "date": "Thu, 27 Aug 2026 12:19:01 -0000"
     },
     {
-      "title": "Trump oficializa cota extra de importa\u00E7\u00E3o de carne para baixar pre\u00E7os nos EUA",
+      "title": "Desemprego cai para 5,3% no trimestre at\u00E9 julho, e n\u00FAmero de pessoas ocupadas bate recorde hist\u00F3rico",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/26/trump-oficializa-cota-extra-de-importacao-de-carne-para-baixar-precos-nos-eua.ghtml",
-      "date": "Wed, 26 Aug 2026 21:37:55 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/27/desemprego-pnad-julho.ghtml",
+      "date": "Thu, 27 Aug 2026 12:00:33 -0000"
     }
   ]
 }
