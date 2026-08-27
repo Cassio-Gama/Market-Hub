@@ -1,6 +1,18 @@
 {
   "slider": [
     {
+      "symbol": "^BVSP",
+      "price": 174586.27,
+      "change": 0.01,
+      "changeStr": "\u002B0.01%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 41.45,
+      "change": 0.24,
+      "changeStr": "\u002B0.24%"
+    },
+    {
       "symbol": "VALE3",
       "price": 78.45,
       "change": -0.32,
@@ -45,7 +57,49 @@
   ],
   "news": [
     {
-      "title": "Chinesa DFM chega ao Brasil com hatch e SUV el\u00E9tricos para rivalizar com BYD e GWM",
+      "title": "A corrida da IA pode encarecer sua conta de luz? Entenda o impacto dos data centers",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/08/27/a-corrida-da-ia-pode-encarecer-sua-conta-de-luz-entenda-o-impacto-dos-data-centers.ghtml",
+      "date": "Thu, 27 Aug 2026 06:00:25 -0000"
+    },
+    {
+      "title": "Mega-Sena pode pagar R$ 25 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/27/mega-sena-pode-pagar-r-25-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+      "date": "Thu, 27 Aug 2026 03:02:07 -0000"
+    },
+    {
+      "title": "Governo n\u00E3o espera solu\u00E7\u00E3o r\u00E1pida para tarifa\u00E7o, mesmo com retomada das negocia\u00E7\u00F5es com os EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/27/governo-nao-espera-solucao-rapida-para-tarifaco-mesmo-com-retomada-das-negociacoes-com-os-eua.ghtml",
+      "date": "Thu, 27 Aug 2026 03:00:48 -0000"
+    },
+    {
+      "title": "Dona do Habib\u2019s em recupera\u00E7\u00E3o judicial: quais os motivos? Lojas v\u00E3o fechar? O que acontece agora?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/27/dona-do-habibs-em-recuperacao-judicial-o-que-acontece-agora.ghtml",
+      "date": "Thu, 27 Aug 2026 03:00:40 -0000"
+    },
+    {
+      "title": "Crimes online, falha em modera\u00E7\u00E3o e falta de acordo: por que o Discord foi processado em R$ 500 milh\u00F5es pelo governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/27/crimes-online-falha-em-moderacao-e-falta-de-acordo-por-que-o-discord-foi-processado-em-r-500-milhoes-pelo-governo.ghtml",
+      "date": "Thu, 27 Aug 2026 03:00:24 -0000"
+    },
+    {
+      "title": "Lucro da Nvidia dispara 126% no 2\u00BA trimestre, para US$ 59,7 bilh\u00F5es, e CEO diz que demanda por chips segue forte",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/lucro-nvidia.ghtml",
+      "date": "Thu, 27 Aug 2026 01:16:48 -0000"
+    },
+    {
+      "title": "Caixa tem lucro de R$ 3,9 bilh\u00F5es no 2\u00BA trimestre, alta de 5,9%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/26/lucro-caixa-2o-trimestre.ghtml",
+      "date": "Thu, 27 Aug 2026 00:51:01 -0000"
+    },
+    {
+      "title": "Chinesa DFM chega ao Brasil em outubro com hatch e SUV el\u00E9tricos para rivalizar com BYD e GWM",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/08/26/chinesa-dfm-chega-ao-brasil-com-hatch-e-suv-eletricos-para-rivalizar-com-byd-e-gwm.ghtml",
       "date": "Wed, 26 Aug 2026 23:01:15 -0000"
@@ -61,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/26/trump-oficializa-cota-extra-de-importacao-de-carne-para-baixar-precos-nos-eua.ghtml",
       "date": "Wed, 26 Aug 2026 21:37:55 -0000"
-    },
-    {
-      "title": "Governo \u00E9 contra a explora\u00E7\u00E3o de terras raras em Goi\u00E1s por empresa americana e avalia como rever neg\u00F3cio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/08/26/governo-e-contra-a-exploracao-de-terras-raras-em-goias-por-empresa-americana-e-avalia-como-rever-negocio.ghtml",
-      "date": "Wed, 26 Aug 2026 21:29:03 -0000"
-    },
-    {
-      "title": "Dona de Habib\u2019s e Ragazzo entra em recupera\u00E7\u00E3o judicial; veja quais s\u00E3o os pr\u00F3ximos passos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/26/recuperacao-judicial-proximos-passos.ghtml",
-      "date": "Wed, 26 Aug 2026 20:30:42 -0000"
-    },
-    {
-      "title": "Dona de Habib\u2019s e Ragazzo entra em recupera\u00E7\u00E3o judicial com d\u00EDvida de R$ 265,2 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/26/recuperacao-judicial-habibs.ghtml",
-      "date": "Wed, 26 Aug 2026 19:49:03 -0000"
-    },
-    {
-      "title": "Carro zero mais barato do Brasil, pre\u00E7o do Renault Kwid cai quase R$ 12 mil e parte de R$ 71.190",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/26/renault-kwid-fica-quase-r-12-mil-mais-barato-e-parte-de-r-71190.ghtml",
-      "date": "Wed, 26 Aug 2026 19:30:04 -0000"
-    },
-    {
-      "title": "O que muda nas redes nos EUA ap\u00F3s acordo bilion\u00E1rio da Meta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/26/o-que-muda-nas-redes-nos-eua-apos-acordo-bilionario-da-meta.ghtml",
-      "date": "Wed, 26 Aug 2026 19:12:42 -0000"
-    },
-    {
-      "title": "Trump analisa regras da carne bovina enquanto produtores se op\u00F5em a tarifas; JBS e MBRF est\u00E3o no setor",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/26/trump-analisa-regras-da-carne-bovina-enquanto-produtores-se-opoem-a-tarifas.ghtml",
-      "date": "Wed, 26 Aug 2026 18:34:45 -0000"
-    },
-    {
-      "title": "D\u00EDvida p\u00FAblica federal cresce 0,22% em julho e atinge R$ 9,28 trilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/26/divida-publica-federal-cresce-022percent-em-julho-e-atinge-r-928-trilhoes.ghtml",
-      "date": "Wed, 26 Aug 2026 18:09:44 -0000"
     }
   ]
 }
