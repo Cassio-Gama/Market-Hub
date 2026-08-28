@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175135.4,
-      "change": 0.31,
-      "changeStr": "\u002B0.31%"
+      "price": 174489.4,
+      "change": -0.37,
+      "changeStr": "-0.37%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.7,
-      "change": 3.02,
-      "changeStr": "\u002B3.02%"
+      "price": 43.18,
+      "change": 1.12,
+      "changeStr": "\u002B1.12%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.11,
-      "change": 0.84,
-      "changeStr": "\u002B0.84%"
+      "price": 78.07,
+      "change": -1.31,
+      "changeStr": "-1.31%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.1,
-      "change": -0.89,
-      "changeStr": "-0.89%"
+      "price": 38.99,
+      "change": -0.28,
+      "changeStr": "-0.28%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.93,
-      "change": -0.35,
-      "changeStr": "-0.35%"
+      "price": 17.01,
+      "change": 0.47,
+      "changeStr": "\u002B0.47%"
     },
     {
       "symbol": "BBAS3",
-      "price": 19.97,
-      "change": 2.31,
-      "changeStr": "\u002B2.31%"
+      "price": 20.09,
+      "change": 0.6,
+      "changeStr": "\u002B0.60%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.84,
-      "change": 2.76,
-      "changeStr": "\u002B2.76%"
+      "price": 4.53,
+      "change": -6.4,
+      "changeStr": "-6.40%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.12,
-      "change": -0.79,
-      "changeStr": "-0.79%"
+      "price": 15.04,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.25,
-      "change": -0.34,
-      "changeStr": "-0.34%"
+      "price": 50.06,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     }
   ],
   "news": [
     {
-      "title": "Equil\u00EDbrio fiscal: onde est\u00E1 o desafio e o que fazer para super\u00E1-lo? - O Assunto #1793",
+      "title": "Trump promete ordem judicial contra frigor\u00EDficos em meio a alta nos pre\u00E7os da carne nos EUA: \u0027Monop\u00F3lio nefasto\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/28/equilibrio-fiscal-onde-esta-o-desafio-e-o-que-fazer-para-supera-lo-o-assunto-1793.ghtml",
-      "date": "Fri, 28 Aug 2026 03:30:15 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/28/trump-promete-ordem-judicial-processamento-alimentos.ghtml",
+      "date": "Fri, 28 Aug 2026 16:14:08 -0000"
     },
     {
-      "title": "Guerra no Oriente M\u00E9dio completa seis meses com impacto no petr\u00F3leo, alimentos e mercados",
+      "title": "Veja como fazer an\u00E1lise do solo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/28/guerra-no-oriente-medio-completa-seis-meses-com-impacto-no-petroleo-alimentos-e-mercados.ghtml",
-      "date": "Fri, 28 Aug 2026 03:01:26 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/28/veja-como-fazer-analise-do-solo.ghtml",
+      "date": "Fri, 28 Aug 2026 15:30:49 -0000"
     },
     {
-      "title": "Quem \u00E9 Eduardo Saverin, o brasileiro mais rico da lista de bilion\u00E1rios da Forbes",
+      "title": "Quer comprar carro pelo Move Brasil? Governo amplia prazo de financiamento para 84 meses",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/28/quem-e-eduardo-saverin-o-brasileiro-mais-rico-da-lista-de-bilionarios-da-forbes.ghtml",
-      "date": "Fri, 28 Aug 2026 03:00:16 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/08/28/quer-comprar-carro-pelo-move-brasil-governo-amplia-prazo-de-financiamento-para-84-meses.ghtml",
+      "date": "Fri, 28 Aug 2026 15:23:30 -0000"
     },
     {
-      "title": "Forbes divulga ranking dos 10 maiores bilion\u00E1rios do Brasil em 2026; confira a lista",
+      "title": "Brasil tem 214,2 milh\u00F5es de habitantes, diz IBGE",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/27/forbes-divulga-ranking-dos-10-maiores-bilionarios-do-brasil-em-2026-confira-a-lista.ghtml",
-      "date": "Fri, 28 Aug 2026 02:32:46 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/28/brasil-tem-2142-milhoes-de-habitantes-diz-ibge.ghtml",
+      "date": "Fri, 28 Aug 2026 14:32:45 -0000"
     },
     {
-      "title": "Mega-Sena 3050 acumula e pr\u00EAmio vai a R$ 30 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "title": "Mesmo com Desenrola 2.0, inadimpl\u00EAncia banc\u00E1ria sobe e bate recorde em julho",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/27/mega-sena-concurso-3050-confira-os-numeros-sorteados.ghtml",
-      "date": "Fri, 28 Aug 2026 00:02:26 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/28/mesmo-com-desenrola-20-inadimplencia-bancaria-sobe-e-bate-recorde-em-julho.ghtml",
+      "date": "Fri, 28 Aug 2026 13:44:00 -0000"
     },
     {
-      "title": "Meta \u00E9 denunciada ap\u00F3s fazer a\u00E7\u00E3o publicit\u00E1ria sobre Instagram em frente a escolas",
+      "title": "Congresso define aliados de Lula como presidente e relatora de comiss\u00E3o da MP do fim da taxa das blusinhas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/27/meta-denuncia-instagram-escolas.ghtml",
-      "date": "Thu, 27 Aug 2026 23:01:00 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/08/28/congresso-define-aliados-de-lula-como-presidente-e-relatora-de-comissao-da-mp-do-fim-da-taxa-das-blusinhas.ghtml",
+      "date": "Fri, 28 Aug 2026 13:22:25 -0000"
     },
     {
-      "title": "Jatinho sai da pista e cancela voos no Santos Dumont: saiba os direitos dos passageiros",
+      "title": "Quem s\u00E3o os cinco bilion\u00E1rios mais velhos do Brasil em 2026? Dois t\u00EAm 97 anos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/27/voos-cancelados-direitos-dos-passageiros.ghtml",
-      "date": "Thu, 27 Aug 2026 21:07:20 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/28/quem-sao-os-cinco-bilionarios-mais-velhos-do-brasil-em-2026-dois-tem-97-anos.ghtml",
+      "date": "Fri, 28 Aug 2026 13:00:00 -0000"
     },
     {
-      "title": "Meta s\u00F3 pagar\u00E1 o valor integral de multa se YouTube e TikTok tamb\u00E9m fecharem acordo nos EUA; entenda",
+      "title": "Quem s\u00E3o os bilion\u00E1rios brasileiros mais jovens na lista da Forbes em 2026",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/27/meta-so-pagara-o-valor-integral-de-multa-se-youtube-e-tiktok-tambem-fecharem-acordo-nos-eua-entenda.ghtml",
-      "date": "Thu, 27 Aug 2026 20:06:16 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/28/quem-sao-os-bilionarios-brasileiros-mais-jovens-na-lista-da-forbes.ghtml",
+      "date": "Fri, 28 Aug 2026 12:33:24 -0000"
     },
     {
-      "title": "Do Habib\u0027s \u00E0s Casas Bahia, por que tantas empresas est\u00E3o quebrando no Brasil?",
+      "title": "D\u00F3lar dispara 1% com dados de emprego no Brasil e discurso do Fed; Ibovespa recua",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/27/do-habib-s-as-casas-bahia-por-que-tantas-empresas-estao-quebrando-no-brasil.ghtml",
-      "date": "Thu, 27 Aug 2026 19:32:15 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/28/dolar-ibovespa.ghtml",
+      "date": "Fri, 28 Aug 2026 12:00:05 -0000"
     },
     {
-      "title": "Contas do governo registraram um super\u00E1vit prim\u00E1rio de R$ 10,8 bilh\u00F5es em julho",
+      "title": "\u0027Rei do Ovo\u0027, irm\u00E3os Batista e mais: veja quem s\u00E3o os bilion\u00E1rios do agro brasileiro em 2026 ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/27/contas-do-governo-registraram-um-superavit-primario-de-r-108-bilhoes-em-julho-informou-tesouro-nacional.ghtml",
-      "date": "Thu, 27 Aug 2026 19:15:34 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/28/veja-quem-sao-os-bilionarios-do-agro-brasileiro.ghtml",
+      "date": "Fri, 28 Aug 2026 11:47:10 -0000"
     }
   ]
 }
