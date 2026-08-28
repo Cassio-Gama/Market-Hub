@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175267.81,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 175135.4,
+      "change": 0.31,
+      "changeStr": "\u002B0.31%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.78,
-      "change": 3.21,
-      "changeStr": "\u002B3.21%"
+      "price": 42.7,
+      "change": 3.02,
+      "changeStr": "\u002B3.02%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.16,
-      "change": 0.91,
-      "changeStr": "\u002B0.91%"
+      "price": 79.11,
+      "change": 0.84,
+      "changeStr": "\u002B0.84%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.05,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 39.1,
+      "change": -0.89,
+      "changeStr": "-0.89%"
     },
     {
       "symbol": "BBDC4",
-      "price": 16.95,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 16.93,
+      "change": -0.35,
+      "changeStr": "-0.35%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.07,
-      "change": 2.82,
-      "changeStr": "\u002B2.82%"
+      "price": 19.97,
+      "change": 2.31,
+      "changeStr": "\u002B2.31%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.8,
-      "change": 1.91,
-      "changeStr": "\u002B1.91%"
+      "price": 4.84,
+      "change": 2.76,
+      "changeStr": "\u002B2.76%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.11,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 15.12,
+      "change": -0.79,
+      "changeStr": "-0.79%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.09,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 50.25,
+      "change": -0.34,
+      "changeStr": "-0.34%"
     }
   ],
   "news": [
+    {
+      "title": "Equil\u00EDbrio fiscal: onde est\u00E1 o desafio e o que fazer para super\u00E1-lo? - O Assunto #1793",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/28/equilibrio-fiscal-onde-esta-o-desafio-e-o-que-fazer-para-supera-lo-o-assunto-1793.ghtml",
+      "date": "Fri, 28 Aug 2026 03:30:15 -0000"
+    },
+    {
+      "title": "Guerra no Oriente M\u00E9dio completa seis meses com impacto no petr\u00F3leo, alimentos e mercados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/28/guerra-no-oriente-medio-completa-seis-meses-com-impacto-no-petroleo-alimentos-e-mercados.ghtml",
+      "date": "Fri, 28 Aug 2026 03:01:26 -0000"
+    },
+    {
+      "title": "Quem \u00E9 Eduardo Saverin, o brasileiro mais rico da lista de bilion\u00E1rios da Forbes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/28/quem-e-eduardo-saverin-o-brasileiro-mais-rico-da-lista-de-bilionarios-da-forbes.ghtml",
+      "date": "Fri, 28 Aug 2026 03:00:16 -0000"
+    },
+    {
+      "title": "Forbes divulga ranking dos 10 maiores bilion\u00E1rios do Brasil em 2026; confira a lista",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/27/forbes-divulga-ranking-dos-10-maiores-bilionarios-do-brasil-em-2026-confira-a-lista.ghtml",
+      "date": "Fri, 28 Aug 2026 02:32:46 -0000"
+    },
+    {
+      "title": "Mega-Sena 3050 acumula e pr\u00EAmio vai a R$ 30 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/27/mega-sena-concurso-3050-confira-os-numeros-sorteados.ghtml",
+      "date": "Fri, 28 Aug 2026 00:02:26 -0000"
+    },
+    {
+      "title": "Meta \u00E9 denunciada ap\u00F3s fazer a\u00E7\u00E3o publicit\u00E1ria sobre Instagram em frente a escolas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/27/meta-denuncia-instagram-escolas.ghtml",
+      "date": "Thu, 27 Aug 2026 23:01:00 -0000"
+    },
+    {
+      "title": "Jatinho sai da pista e cancela voos no Santos Dumont: saiba os direitos dos passageiros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/27/voos-cancelados-direitos-dos-passageiros.ghtml",
+      "date": "Thu, 27 Aug 2026 21:07:20 -0000"
+    },
+    {
+      "title": "Meta s\u00F3 pagar\u00E1 o valor integral de multa se YouTube e TikTok tamb\u00E9m fecharem acordo nos EUA; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/27/meta-so-pagara-o-valor-integral-de-multa-se-youtube-e-tiktok-tambem-fecharem-acordo-nos-eua-entenda.ghtml",
+      "date": "Thu, 27 Aug 2026 20:06:16 -0000"
+    },
     {
       "title": "Do Habib\u0027s \u00E0s Casas Bahia, por que tantas empresas est\u00E3o quebrando no Brasil?",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/27/contas-do-governo-registraram-um-superavit-primario-de-r-108-bilhoes-em-julho-informou-tesouro-nacional.ghtml",
       "date": "Thu, 27 Aug 2026 19:15:34 -0000"
-    },
-    {
-      "title": "Justi\u00E7a do DF suspende imposto de exporta\u00E7\u00E3o de 12% sobre petr\u00F3leo; arrecada\u00E7\u00E3o j\u00E1 chega a R$ 7,9 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/27/justica-federal-do-df-suspende-imposto-de-exportacao-de-12percent-sobre-petroleo.ghtml",
-      "date": "Thu, 27 Aug 2026 18:58:37 -0000"
-    },
-    {
-      "title": "Gest\u00E3o Trump negocia com governo interino da Venezuela para assumir parte das reservas de petr\u00F3leo do pa\u00EDs, diz site",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/08/27/gestao-trump-conversa-com-governo-interino-da-venezuela-para-assumir-parte-das-reservas-de-petroleo-do-pais-diz-site.ghtml",
-      "date": "Thu, 27 Aug 2026 17:13:41 -0000"
-    },
-    {
-      "title": "Brasil assina acordo para ampliar com\u00E9rcio com a \u00CDndia enquanto aguarda retomada de negocia\u00E7\u00E3o para reduzir tarifa\u00E7o dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/27/brasil-assina-acordo-para-ampliar-comercio-com-a-india-enquanto-aguarda-retomada-de-negociacao-para-reduzir-tarifaco-dos-eua.ghtml",
-      "date": "Thu, 27 Aug 2026 16:48:40 -0000"
-    },
-    {
-      "title": "OpenAI abre opera\u00E7\u00E3o no Brasil ap\u00F3s pa\u00EDs se tornar 3\u00BA maior mercado do ChatGPT",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/27/openai-lanca-operacao-comercial-no-brasil.ghtml",
-      "date": "Thu, 27 Aug 2026 15:27:32 -0000"
-    },
-    {
-      "title": "Honda Prelude volta ao Brasil ap\u00F3s 25 anos por R$ 380 mil; Senna j\u00E1 foi garoto-propaganda do esportivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/27/honda-lanca-no-brasil-prelude-por-r-380-mil-ayrton-senna-ja-foi-garoto-propaganda-do-esportivo.ghtml",
-      "date": "Thu, 27 Aug 2026 14:32:40 -0000"
-    },
-    {
-      "title": "Vit\u00F3ria lidera ranking de cidades mais competitivas do pa\u00EDs pela primeira vez; veja munic\u00EDpios do top 10",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/27/vitoria-lidera-ranking-de-cidades-mais-competitivas-do-pais-pela-primeira-vez-veja-municipios-do-top-10.ghtml",
-      "date": "Thu, 27 Aug 2026 14:19:43 -0000"
-    },
-    {
-      "title": "MG apresenta o el\u00E9trico IM6 no Brasil, SUV de luxo para encarar a Porsche; g1 j\u00E1 testou",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/08/27/mg-im6.ghtml",
-      "date": "Thu, 27 Aug 2026 12:19:01 -0000"
-    },
-    {
-      "title": "Desemprego cai para 5,3% no trimestre at\u00E9 julho, e n\u00FAmero de pessoas ocupadas bate recorde hist\u00F3rico",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/27/desemprego-pnad-julho.ghtml",
-      "date": "Thu, 27 Aug 2026 12:00:33 -0000"
     }
   ]
 }
