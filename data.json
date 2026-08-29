@@ -2,62 +2,92 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174489.4,
-      "change": -0.37,
-      "changeStr": "-0.37%"
+      "price": 175664.62,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.18,
-      "change": 1.12,
-      "changeStr": "\u002B1.12%"
+      "price": 43.55,
+      "change": 1.99,
+      "changeStr": "\u002B1.99%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.07,
-      "change": -1.31,
-      "changeStr": "-1.31%"
+      "price": 78.58,
+      "change": -0.67,
+      "changeStr": "-0.67%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.99,
-      "change": -0.28,
-      "changeStr": "-0.28%"
+      "price": 39.19,
+      "change": 0.23,
+      "changeStr": "\u002B0.23%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.01,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
+      "price": 17.08,
+      "change": 0.89,
+      "changeStr": "\u002B0.89%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.09,
-      "change": 0.6,
-      "changeStr": "\u002B0.60%"
+      "price": 20.17,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.53,
-      "change": -6.4,
-      "changeStr": "-6.40%"
+      "price": 4.62,
+      "change": -4.55,
+      "changeStr": "-4.55%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.04,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 15.19,
+      "change": 0.46,
+      "changeStr": "\u002B0.46%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.06,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 49.98,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     }
   ],
   "news": [
     {
-      "title": "Trump promete ordem judicial contra frigor\u00EDficos em meio a alta nos pre\u00E7os da carne nos EUA: \u0027Monop\u00F3lio nefasto\u0027",
+      "title": "Trump anuncia acordo que garante aos EUA controle de mais de 65 bilh\u00F5es de barris de petr\u00F3leo em reservas da Venezuela",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/08/28/trump-anuncia-acordo-que-garante-aos-eua-controle-de-mais-de-65-bilhoes-de-barris-de-petroleo-da-venezuela.ghtml",
+      "date": "Fri, 28 Aug 2026 22:52:53 -0000"
+    },
+    {
+      "title": "Conta de luz: Aneel mant\u00E9m bandeira tarif\u00E1ria amarela em setembro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/28/aneel-bandeira-tarifaria-setembro.ghtml",
+      "date": "Fri, 28 Aug 2026 21:56:16 -0000"
+    },
+    {
+      "title": "ArcelorMittal anuncia investimento de at\u00E9 R$ 5 bi na unidade Tubar\u00E3o, no ES; projeto deve gerar 3 mil empregos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/28/arcelormittal-anuncia-investimento-de-ate-r-5-bi-em-novo-laminador-na-unidade-tubarao-no-es.ghtml",
+      "date": "Fri, 28 Aug 2026 20:18:07 -0000"
+    },
+    {
+      "title": "Chefe do Fed adota tom mais duro e sugere alta de juros nos EUA para conter infla\u00E7\u00E3o; veja impactos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/28/presidente-do-fed-sugere-que-eua-podem-aumentar-taxas-de-juros-para-conter-inflacao.ghtml",
+      "date": "Fri, 28 Aug 2026 19:21:38 -0000"
+    },
+    {
+      "title": "Brasil cria 58,5 mil empregos formais em julho, queda de 56% na compara\u00E7\u00E3o com mesmo m\u00EAs de 2025",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/28/brasil-cria-585-mil-empregos-formais-em-julho.ghtml",
+      "date": "Fri, 28 Aug 2026 17:15:03 -0000"
+    },
+    {
+      "title": "Trump mira grandes frigor\u00EDficos em meio \u00E0 alta de pre\u00E7os da carne nos EUA; JBS pode ser afetada",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/28/trump-promete-ordem-judicial-processamento-alimentos.ghtml",
       "date": "Fri, 28 Aug 2026 16:14:08 -0000"
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/08/28/mesmo-com-desenrola-20-inadimplencia-bancaria-sobe-e-bate-recorde-em-julho.ghtml",
       "date": "Fri, 28 Aug 2026 13:44:00 -0000"
-    },
-    {
-      "title": "Congresso define aliados de Lula como presidente e relatora de comiss\u00E3o da MP do fim da taxa das blusinhas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/08/28/congresso-define-aliados-de-lula-como-presidente-e-relatora-de-comissao-da-mp-do-fim-da-taxa-das-blusinhas.ghtml",
-      "date": "Fri, 28 Aug 2026 13:22:25 -0000"
-    },
-    {
-      "title": "Quem s\u00E3o os cinco bilion\u00E1rios mais velhos do Brasil em 2026? Dois t\u00EAm 97 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/28/quem-sao-os-cinco-bilionarios-mais-velhos-do-brasil-em-2026-dois-tem-97-anos.ghtml",
-      "date": "Fri, 28 Aug 2026 13:00:00 -0000"
-    },
-    {
-      "title": "Quem s\u00E3o os bilion\u00E1rios brasileiros mais jovens na lista da Forbes em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/28/quem-sao-os-bilionarios-brasileiros-mais-jovens-na-lista-da-forbes.ghtml",
-      "date": "Fri, 28 Aug 2026 12:33:24 -0000"
-    },
-    {
-      "title": "D\u00F3lar dispara 1% com dados de emprego no Brasil e discurso do Fed; Ibovespa recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/28/dolar-ibovespa.ghtml",
-      "date": "Fri, 28 Aug 2026 12:00:05 -0000"
-    },
-    {
-      "title": "\u0027Rei do Ovo\u0027, irm\u00E3os Batista e mais: veja quem s\u00E3o os bilion\u00E1rios do agro brasileiro em 2026 ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/28/veja-quem-sao-os-bilionarios-do-agro-brasileiro.ghtml",
-      "date": "Fri, 28 Aug 2026 11:47:10 -0000"
     }
   ]
 }
