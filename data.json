@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176827.34,
-      "change": 0.66,
-      "changeStr": "\u002B0.66%"
+      "price": 177723.69,
+      "change": 1.17,
+      "changeStr": "\u002B1.17%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.55,
-      "change": 1.99,
-      "changeStr": "\u002B1.99%"
+      "price": 44.91,
+      "change": 3.12,
+      "changeStr": "\u002B3.12%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.19,
-      "change": 0.78,
-      "changeStr": "\u002B0.78%"
+      "price": 78.31,
+      "change": -0.34,
+      "changeStr": "-0.34%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.53,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
+      "price": 39.6,
+      "change": 1.05,
+      "changeStr": "\u002B1.05%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.31,
-      "change": 1.35,
-      "changeStr": "\u002B1.35%"
+      "price": 17.22,
+      "change": 0.82,
+      "changeStr": "\u002B0.82%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.43,
-      "change": 1.29,
-      "changeStr": "\u002B1.29%"
+      "price": 20.86,
+      "change": 3.42,
+      "changeStr": "\u002B3.42%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.62,
-      "change": -4.55,
-      "changeStr": "-4.55%"
+      "price": 4.85,
+      "change": 4.98,
+      "changeStr": "\u002B4.98%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.3,
-      "change": 0.72,
-      "changeStr": "\u002B0.72%"
+      "price": 15.11,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.15,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 50.04,
+      "change": 0.12,
+      "changeStr": "\u002B0.12%"
     }
   ],
   "news": [
     {
-      "title": "IA pode amea\u00E7ar sistema financeiro global ao facilitar ataques cibern\u00E9ticos, alerta presidente do Banco da Inglaterra",
+      "title": "Ap\u00F3s ampliar cota para importa\u00E7\u00E3o, EUA anunciam plano para pecuaristas com prioridade \u00E0 carne americana",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/31/avanco-ia-bancocentral-inglaterra.ghtml",
-      "date": "Mon, 31 Aug 2026 12:56:22 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/31/apos-ampliar-cota-para-importacao-eua-anunciam-plano-para-pecuaristas-com-prioridade-a-carne-americana.ghtml",
+      "date": "Mon, 31 Aug 2026 19:11:38 -0000"
     },
     {
-      "title": "Alckmin diz que Brasil n\u00E3o sair\u00E1 da mesa de negocia\u00E7\u00E3o sobre tarifa\u00E7o dos EUA",
+      "title": "Tarifa\u00E7o: em reuni\u00E3o, ministros dizem que n\u00E3o concordam com \u0027tratamento discriminat\u00F3rio\u0027 e \u0027injusto\u0027 dos EUA contra o Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/31/alckmin-macro-day-btg.ghtml",
-      "date": "Mon, 31 Aug 2026 12:49:39 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/31/em-reuniao-governo-brasileiro-diz-nao-concordar-com-tarifas-de-trump-mas-diz-estar-aberto-ao-dialogo.ghtml",
+      "date": "Mon, 31 Aug 2026 18:56:20 -0000"
     },
     {
-      "title": "D\u00F3lar opera em queda de olho na escalada entre EUA e Ir\u00E3 e no Or\u00E7amento brasileiro",
+      "title": "Em \u00FAltimo dia como CEO da Apple, Tim Cook se despede em carta aos funcion\u00E1rios: \u0027\u00C9 dif\u00EDcil acreditar que este dia chegou\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/31/dolar-ibovespa.ghtml",
-      "date": "Mon, 31 Aug 2026 12:00:51 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/31/em-ultimo-dia-como-ceo-da-apple-tim-cook-se-despede-em-carta-aos-funcionarios-e-dificil-acreditar-que-este-dia-chegou.ghtml",
+      "date": "Mon, 31 Aug 2026 18:02:54 -0000"
     },
     {
-      "title": "Contas p\u00FAblicas t\u00EAm super\u00E1vit em julho; d\u00EDvida sobe para 82,5% do PIB, maior n\u00EDvel em mais de cinco anos",
+      "title": "Refit: Justi\u00E7a decreta fal\u00EAncia das empresas do grupo no RJ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/31/contas-publicas-tem-superavit-em-julho-divida-sobe-para-825percent-do-pib-maior-nivel-em-mais-de-cinco-anos.ghtml",
-      "date": "Mon, 31 Aug 2026 11:47:54 -0000"
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/31/refit-justica-decreta-falencia-das-empresas-do-grupo-no-rj.ghtml",
+      "date": "Mon, 31 Aug 2026 17:30:31 -0000"
     },
     {
-      "title": "Analistas do mercado reduzem estimativa de infla\u00E7\u00E3o e de crescimento da economia em 2026",
+      "title": "Governo lan\u00E7a medidas para padronizar uso de biometria em portos e aeroportos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/31/analistas-do-mercado-reduzem-estimativa-de-inflacao-e-de-crescimento-da-economia-em-2026.ghtml",
-      "date": "Mon, 31 Aug 2026 11:33:51 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/08/31/governo-quer-padronizar-uso-de-biometria-em-portos-e-aeroportos.ghtml",
+      "date": "Mon, 31 Aug 2026 17:30:11 -0000"
     },
     {
-      "title": "Ap\u00F3s conversa entre Lula e Trump, Brasil e EUA iniciam nesta segunda nova fase de negocia\u00E7\u00F5es sobre o tarifa\u00E7o",
+      "title": "Tentativas de golpes por meios como mensagens ou liga\u00E7\u00F5es afetam 45 milh\u00F5es no Brasil, diz pesquisa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/31/apos-conversa-de-lula-e-trump-representantes-de-brasil-e-eua-iniciam-nova-fase-de-negociacoes-do-tarifaco.ghtml",
-      "date": "Mon, 31 Aug 2026 11:05:46 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/31/tentativas-de-golpes-por-meios-como-mensagens-ou-ligacoes-afetam-45-milhoes-no-brasil-diz-pesquisa.ghtml",
+      "date": "Mon, 31 Aug 2026 17:00:18 -0000"
     },
     {
-      "title": "O plano bilion\u00E1rio da China para fazer uma nova revolu\u00E7\u00E3o industrial com milh\u00F5es de rob\u00F4s",
+      "title": "10 anos depois, startup acusa Meta de roubar ideia que virou o Instagram Shopping",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/31/o-plano-bilionario-da-china-para-fazer-uma-nova-revolucao-industrial-com-milhoes-de-robos.ghtml",
-      "date": "Mon, 31 Aug 2026 10:33:47 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/31/10-anos-depois-startup-acusa-meta-de-roubar-ideia-que-virou-o-instagram-shopping.ghtml",
+      "date": "Mon, 31 Aug 2026 16:32:50 -0000"
     },
     {
-      "title": "Os v\u00EDdeos feitos com IA que erotizam a escravid\u00E3o no Brasil para lucrar com an\u00FAncios",
+      "title": "Ind\u00FAstria da defesa pode perder contratos, competitividade e investimentos se reciprocidade for adotada, diz minist\u00E9rio",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/31/os-videos-feitos-com-ia-que-erotizam-a-escravidao-no-brasil-para-lucrar-com-anuncios.ghtml",
-      "date": "Mon, 31 Aug 2026 06:00:45 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/08/31/industria-da-defesa-pode-perder-contratos-competitividade-e-investimentos-se-reciprocidade-for-adotada-diz-ministerio.ghtml",
+      "date": "Mon, 31 Aug 2026 15:41:07 -0000"
     },
     {
-      "title": "Imposto de Renda 2026: Receita paga o 4\u00BA lote de restitui\u00E7\u00E3o nesta segunda; veja como fazer",
+      "title": "Ex-deputado dos EUA George Santos \u00E9 banido para sempre de plataforma de apostas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/08/31/imposto-de-renda-2026-receita-paga-o-4o-lote-de-restituicao-nesta-segunda-veja-como-fazer.ghtml",
-      "date": "Mon, 31 Aug 2026 03:01:14 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/08/31/ex-deputado-dos-eua-george-santos-e-banido-para-sempre-de-plataforma-de-apostas-diz-imprensa-americana.ghtml",
+      "date": "Mon, 31 Aug 2026 15:39:06 -0000"
     },
     {
-      "title": "Feriad\u00E3o \u00E0 vista: falta uma semana para o pr\u00F3ximo feriado prolongado ap\u00F3s quase tr\u00EAs meses",
+      "title": "Bradesco e Agro: infogr\u00E1fico mostra como o banco vem construindo a parceria com o setor",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/31/falta-uma-semana-para-o-proximo-feriado-prolongado.ghtml",
-      "date": "Mon, 31 Aug 2026 03:01:05 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/especial-publicitario/bradesco/noticia/2026/08/31/bradesco-e-agro-infografico-mostra-como-o-banco-vem-construindo-a-parceria-com-o-setor.ghtml",
+      "date": "Mon, 31 Aug 2026 15:33:33 -0000"
     }
   ]
 }
