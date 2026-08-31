@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 177723.69,
-      "change": 1.17,
-      "changeStr": "\u002B1.17%"
+      "price": 177418.78,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.91,
-      "change": 3.12,
-      "changeStr": "\u002B3.12%"
+      "price": 45.02,
+      "change": 3.38,
+      "changeStr": "\u002B3.38%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.31,
-      "change": -0.34,
-      "changeStr": "-0.34%"
+      "price": 77.85,
+      "change": -0.93,
+      "changeStr": "-0.93%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.6,
-      "change": 1.05,
-      "changeStr": "\u002B1.05%"
+      "price": 39.52,
+      "change": 0.84,
+      "changeStr": "\u002B0.84%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.22,
-      "change": 0.82,
-      "changeStr": "\u002B0.82%"
+      "price": 17.19,
+      "change": 0.64,
+      "changeStr": "\u002B0.64%"
     },
     {
       "symbol": "BBAS3",
-      "price": 20.86,
-      "change": 3.42,
-      "changeStr": "\u002B3.42%"
+      "price": 20.74,
+      "change": 2.83,
+      "changeStr": "\u002B2.83%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.85,
-      "change": 4.98,
-      "changeStr": "\u002B4.98%"
+      "price": 4.81,
+      "change": 4.11,
+      "changeStr": "\u002B4.11%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.11,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 15.03,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.04,
-      "change": 0.12,
-      "changeStr": "\u002B0.12%"
+      "price": 50.15,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     }
   ],
   "news": [
+    {
+      "title": "Leandro Vilain ser\u00E1 novo presidente da Febraban",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/31/leandro-vilain-sera-novo-presidente-da-febraban.ghtml",
+      "date": "Mon, 31 Aug 2026 22:03:49 -0000"
+    },
+    {
+      "title": "Bebidas alco\u00F3licas, refrigerantes e cigarros: governo inclui \u0027imposto do pecado\u0027 no or\u00E7amento de 2027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/31/para-taxar-cigarros-bebidas-alcoolicas-e-refrigerantes-governo-inclui-imposto-do-pecado-no-orcamento-de-2027.ghtml",
+      "date": "Mon, 31 Aug 2026 21:24:26 -0000"
+    },
+    {
+      "title": "Or\u00E7amento: governo estima arrecadar R$ 636 bilh\u00F5es com a CBS em 2027, novo tributo da reforma tribut\u00E1ria",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-governo-estima-arrecadar-r-636-bilhoes-com-a-cbs-em-2027-novo-tributo-da-reforma-tributaria.ghtml",
+      "date": "Mon, 31 Aug 2026 21:23:19 -0000"
+    },
+    {
+      "title": "Or\u00E7amento 2027: governo prev\u00EA Bolsa Fam\u00EDlia sem reajuste no pr\u00F3ximo ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-governo-preve-bolsa-familia-sem-reajuste-no-proximo-ano.ghtml",
+      "date": "Mon, 31 Aug 2026 21:15:44 -0000"
+    },
+    {
+      "title": "Comiss\u00E3o adia vota\u00E7\u00E3o do fim da taxa das blusinhas para ter\u00E7a-feira",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/31/comissao-adia-votacao-do-fim-da-taxa-das-blusinhas-para-terca-feira.ghtml",
+      "date": "Mon, 31 Aug 2026 20:53:58 -0000"
+    },
+    {
+      "title": "Or\u00E7amento 2027: proposta do governo limita reajustes de servidores p\u00FAblicos seguindo \u0027gatilho\u0027 da regra fiscal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-proposta-do-governo-limita-reajustes-de-servidores-publicos-seguindo-gatilho-da-regra-fiscal.ghtml",
+      "date": "Mon, 31 Aug 2026 20:38:11 -0000"
+    },
+    {
+      "title": "Or\u00E7amento 2027: governo prop\u00F5e R$ 44,8 bilh\u00F5es para emendas parlamentares",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-governo-propoe-r-448-bilhoes-para-emendas-parlamentares.ghtml",
+      "date": "Mon, 31 Aug 2026 20:34:11 -0000"
+    },
+    {
+      "title": "Or\u00E7amento: governo projeta super\u00E1vit de R$ 18,6 bilh\u00F5es nas contas p\u00FAblicas em 2027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-governo-projeta-superavit-em-suas-contas-em-2027.ghtml",
+      "date": "Mon, 31 Aug 2026 20:30:14 -0000"
+    },
+    {
+      "title": "Or\u00E7amento 2027: governo prev\u00EA aumento do sal\u00E1rio m\u00EDnimo para R$ 1.741 no pr\u00F3ximo ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-governo-preve-aumento-do-salario-minimo-para-r-1741-no-proximo-ano.ghtml",
+      "date": "Mon, 31 Aug 2026 20:29:26 -0000"
+    },
     {
       "title": "Ap\u00F3s ampliar cota para importa\u00E7\u00E3o, EUA anunciam plano para pecuaristas com prioridade \u00E0 carne americana",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/31/apos-ampliar-cota-para-importacao-eua-anunciam-plano-para-pecuaristas-com-prioridade-a-carne-americana.ghtml",
       "date": "Mon, 31 Aug 2026 19:11:38 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o: em reuni\u00E3o, ministros dizem que n\u00E3o concordam com \u0027tratamento discriminat\u00F3rio\u0027 e \u0027injusto\u0027 dos EUA contra o Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/31/em-reuniao-governo-brasileiro-diz-nao-concordar-com-tarifas-de-trump-mas-diz-estar-aberto-ao-dialogo.ghtml",
-      "date": "Mon, 31 Aug 2026 18:56:20 -0000"
-    },
-    {
-      "title": "Em \u00FAltimo dia como CEO da Apple, Tim Cook se despede em carta aos funcion\u00E1rios: \u0027\u00C9 dif\u00EDcil acreditar que este dia chegou\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/31/em-ultimo-dia-como-ceo-da-apple-tim-cook-se-despede-em-carta-aos-funcionarios-e-dificil-acreditar-que-este-dia-chegou.ghtml",
-      "date": "Mon, 31 Aug 2026 18:02:54 -0000"
-    },
-    {
-      "title": "Refit: Justi\u00E7a decreta fal\u00EAncia das empresas do grupo no RJ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/31/refit-justica-decreta-falencia-das-empresas-do-grupo-no-rj.ghtml",
-      "date": "Mon, 31 Aug 2026 17:30:31 -0000"
-    },
-    {
-      "title": "Governo lan\u00E7a medidas para padronizar uso de biometria em portos e aeroportos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/31/governo-quer-padronizar-uso-de-biometria-em-portos-e-aeroportos.ghtml",
-      "date": "Mon, 31 Aug 2026 17:30:11 -0000"
-    },
-    {
-      "title": "Tentativas de golpes por meios como mensagens ou liga\u00E7\u00F5es afetam 45 milh\u00F5es no Brasil, diz pesquisa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/31/tentativas-de-golpes-por-meios-como-mensagens-ou-ligacoes-afetam-45-milhoes-no-brasil-diz-pesquisa.ghtml",
-      "date": "Mon, 31 Aug 2026 17:00:18 -0000"
-    },
-    {
-      "title": "10 anos depois, startup acusa Meta de roubar ideia que virou o Instagram Shopping",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/31/10-anos-depois-startup-acusa-meta-de-roubar-ideia-que-virou-o-instagram-shopping.ghtml",
-      "date": "Mon, 31 Aug 2026 16:32:50 -0000"
-    },
-    {
-      "title": "Ind\u00FAstria da defesa pode perder contratos, competitividade e investimentos se reciprocidade for adotada, diz minist\u00E9rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/08/31/industria-da-defesa-pode-perder-contratos-competitividade-e-investimentos-se-reciprocidade-for-adotada-diz-ministerio.ghtml",
-      "date": "Mon, 31 Aug 2026 15:41:07 -0000"
-    },
-    {
-      "title": "Ex-deputado dos EUA George Santos \u00E9 banido para sempre de plataforma de apostas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/08/31/ex-deputado-dos-eua-george-santos-e-banido-para-sempre-de-plataforma-de-apostas-diz-imprensa-americana.ghtml",
-      "date": "Mon, 31 Aug 2026 15:39:06 -0000"
-    },
-    {
-      "title": "Bradesco e Agro: infogr\u00E1fico mostra como o banco vem construindo a parceria com o setor",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/especial-publicitario/bradesco/noticia/2026/08/31/bradesco-e-agro-infografico-mostra-como-o-banco-vem-construindo-a-parceria-com-o-setor.ghtml",
-      "date": "Mon, 31 Aug 2026 15:33:33 -0000"
     }
   ]
 }
