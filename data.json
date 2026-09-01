@@ -2,62 +2,74 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 180705.73,
-      "change": 1.85,
-      "changeStr": "\u002B1.85%"
+      "price": 179722.48,
+      "change": 1.3,
+      "changeStr": "\u002B1.30%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.79,
-      "change": 3.93,
-      "changeStr": "\u002B3.93%"
+      "price": 46.87,
+      "change": 4.11,
+      "changeStr": "\u002B4.11%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.6,
-      "change": 0.96,
-      "changeStr": "\u002B0.96%"
+      "price": 78.3,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.98,
-      "change": 1.16,
-      "changeStr": "\u002B1.16%"
+      "price": 39.88,
+      "change": 0.91,
+      "changeStr": "\u002B0.91%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.39,
-      "change": 1.16,
-      "changeStr": "\u002B1.16%"
+      "price": 17.4,
+      "change": 1.22,
+      "changeStr": "\u002B1.22%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.37,
-      "change": 3.04,
-      "changeStr": "\u002B3.04%"
+      "price": 21.21,
+      "change": 2.27,
+      "changeStr": "\u002B2.27%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.8,
-      "change": -0.21,
-      "changeStr": "-0.21%"
+      "price": 4.62,
+      "change": -3.95,
+      "changeStr": "-3.95%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.23,
-      "change": 1.33,
-      "changeStr": "\u002B1.33%"
+      "price": 15.17,
+      "change": 0.93,
+      "changeStr": "\u002B0.93%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.89,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 49.7,
+      "change": -0.9,
+      "changeStr": "-0.90%"
     }
   ],
   "news": [
     {
-      "title": "Combust\u00EDvel de avi\u00E3o sobe 14% em setembro e dobra no ano; as passagens v\u00E3o ficar mais caras?",
+      "title": "Como PF recuperou mensagens de Vorcaro a Moraes mesmo com visualiza\u00E7\u00E3o \u00FAnica",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/01/mensagens-visualizacao-unica-vorcaro-moraes.ghtml",
+      "date": "Tue, 01 Sep 2026 20:05:00 -0000"
+    },
+    {
+      "title": "Entenda o caso Master, as acusa\u00E7\u00F5es e as conversas de Vorcaro com Moraes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/01/entenda-o-caso-master.ghtml",
+      "date": "Tue, 01 Sep 2026 18:36:31 -0000"
+    },
+    {
+      "title": "Combust\u00EDvel de avi\u00E3o j\u00E1 subiu 53% no ano e aumenta press\u00E3o sobre pre\u00E7o das passagens a\u00E9reas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/01/combustivel-de-aviao-sobe-14percent-em-setembro-e-dobra-no-ano.ghtml",
       "date": "Tue, 01 Sep 2026 17:24:26 -0000"
@@ -81,7 +93,7 @@
       "date": "Tue, 01 Sep 2026 16:14:56 -0000"
     },
     {
-      "title": "Veja a posi\u00E7\u00E3o do Brasil em ranking mundial de crescimento do PIB",
+      "title": "Brasil fica em 5\u00BA em ranking de crescimento do PIB e pode superar R\u00FAssia em 2027",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/01/ranking-mundial-do-pib.ghtml",
       "date": "Tue, 01 Sep 2026 15:07:30 -0000"
@@ -93,7 +105,7 @@
       "date": "Tue, 01 Sep 2026 15:01:47 -0000"
     },
     {
-      "title": "BNDES aumenta participa\u00E7\u00E3o no Plano Brasil Soberano, que chega a R$ 22,6 bilh\u00F5es",
+      "title": "BNDES amplia cr\u00E9dito para empresas afetadas por tarifa\u00E7o e guerras; pacote chega a R$ 22,6 bilh\u00F5es",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/01/bndes-plano-brasil-soberano.ghtml",
       "date": "Tue, 01 Sep 2026 14:46:14 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/empreendedorismo/noticia/2026/09/01/simples-nacional-muda-em-2027-entenda.ghtml",
       "date": "Tue, 01 Sep 2026 14:34:38 -0000"
-    },
-    {
-      "title": "Shein tem estreia discreta na Bolsa de Hong Kong e arrecada US$ 1,7 bilh\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/01/shein-estreia-bolsa-hong-kong.ghtml",
-      "date": "Tue, 01 Sep 2026 14:11:15 -0000"
-    },
-    {
-      "title": "John Ternus assume oficialmente como CEO da Apple; conhe\u00E7a o executivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/01/john-ternus-assume-oficialmente-como-ceo-da-apple-conheca-o-executivo.ghtml",
-      "date": "Tue, 01 Sep 2026 13:43:57 -0000"
     }
   ]
 }
