@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 180599.7,
-      "change": 1.79,
-      "changeStr": "\u002B1.79%"
+      "price": 180705.73,
+      "change": 1.85,
+      "changeStr": "\u002B1.85%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.22,
-      "change": 2.67,
-      "changeStr": "\u002B2.67%"
+      "price": 46.79,
+      "change": 3.93,
+      "changeStr": "\u002B3.93%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.9,
-      "change": 1.35,
-      "changeStr": "\u002B1.35%"
+      "price": 78.6,
+      "change": 0.96,
+      "changeStr": "\u002B0.96%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.3,
-      "change": 1.97,
-      "changeStr": "\u002B1.97%"
+      "price": 39.98,
+      "change": 1.16,
+      "changeStr": "\u002B1.16%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.45,
-      "change": 1.51,
-      "changeStr": "\u002B1.51%"
+      "price": 17.39,
+      "change": 1.16,
+      "changeStr": "\u002B1.16%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.38,
-      "change": 3.09,
-      "changeStr": "\u002B3.09%"
+      "price": 21.37,
+      "change": 3.04,
+      "changeStr": "\u002B3.04%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.89,
-      "change": 1.66,
-      "changeStr": "\u002B1.66%"
+      "price": 4.8,
+      "change": -0.21,
+      "changeStr": "-0.21%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.37,
-      "change": 2.26,
-      "changeStr": "\u002B2.26%"
+      "price": 15.23,
+      "change": 1.33,
+      "changeStr": "\u002B1.33%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.03,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 49.89,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     }
   ],
   "news": [
+    {
+      "title": "Combust\u00EDvel de avi\u00E3o sobe 14% em setembro e dobra no ano; as passagens v\u00E3o ficar mais caras?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/01/combustivel-de-aviao-sobe-14percent-em-setembro-e-dobra-no-ano.ghtml",
+      "date": "Tue, 01 Sep 2026 17:24:26 -0000"
+    },
+    {
+      "title": "App de envio de dinheiro do exterior ao Brasil anuncia nova fase global",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/especial-publicitario/tap-tap-send-0109/noticia/2026/09/01/app-de-envio-de-dinheiro-do-exterior-ao-brasil-anuncia-nova-fase-global.ghtml",
+      "date": "Tue, 01 Sep 2026 16:43:46 -0000"
+    },
+    {
+      "title": "Esfaqueamento na Times Square: mulher que morreu ap\u00F3s facada era vice-presidente do Bank of America",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/01/esfaqueamento-na-times-square-vice-presidente-do-bank-of-america-morre-apos-facada.ghtml",
+      "date": "Tue, 01 Sep 2026 16:21:20 -0000"
+    },
+    {
+      "title": "Acidente na Fl\u00F3rida: entender os direitos pode ser essencial para v\u00EDtimas de les\u00E3o corporal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/especial-publicitario/first-choice-of-law-109/noticia/2026/09/01/acidente-na-florida-entender-os-direitos-pode-ser-essencial-para-vitimas-de-lesao-corporal.ghtml",
+      "date": "Tue, 01 Sep 2026 16:14:56 -0000"
+    },
+    {
+      "title": "Veja a posi\u00E7\u00E3o do Brasil em ranking mundial de crescimento do PIB",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/01/ranking-mundial-do-pib.ghtml",
+      "date": "Tue, 01 Sep 2026 15:07:30 -0000"
+    },
+    {
+      "title": "MP do fim da taxa das blusinhas: comiss\u00E3o estuda incluir exclusividade de entrega pelos Correios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/01/mp-do-fim-da-taxa-das-blusinhas-comissao-estuda-incluir-exclusividade-de-entrega-pelos-correios.ghtml",
+      "date": "Tue, 01 Sep 2026 15:01:47 -0000"
+    },
+    {
+      "title": "BNDES aumenta participa\u00E7\u00E3o no Plano Brasil Soberano, que chega a R$ 22,6 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/01/bndes-plano-brasil-soberano.ghtml",
+      "date": "Tue, 01 Sep 2026 14:46:14 -0000"
+    },
+    {
+      "title": "Simples Nacional muda em 2027: empresas devem escolher como pagar novos impostos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/09/01/simples-nacional-muda-em-2027-entenda.ghtml",
+      "date": "Tue, 01 Sep 2026 14:34:38 -0000"
+    },
     {
       "title": "Shein tem estreia discreta na Bolsa de Hong Kong e arrecada US$ 1,7 bilh\u00E3o",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/01/john-ternus-assume-oficialmente-como-ceo-da-apple-conheca-o-executivo.ghtml",
       "date": "Tue, 01 Sep 2026 13:43:57 -0000"
-    },
-    {
-      "title": "Justi\u00E7a derruba liminar que suspendia imposto de exporta\u00E7\u00E3o de petr\u00F3leo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/01/justica-derruba-liminar-imposto-de-exportacao-de-petroleo.ghtml",
-      "date": "Tue, 01 Sep 2026 13:28:57 -0000"
-    },
-    {
-      "title": "PIB mostra \u0027desacelera\u00E7\u00E3o importante\u0027 da economia e acende alerta sobre consumo das fam\u00EDlias, apontam economistas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/01/pib-mostra-desaceleracao-importante-da-economia-e-acende-alerta-sobre-consumo-das-familias-apontam-economistas.ghtml",
-      "date": "Tue, 01 Sep 2026 13:27:46 -0000"
-    },
-    {
-      "title": "PIB perde for\u00E7a no 2\u00BA tri: os 3 desafios para o pr\u00F3ximo presidente na economia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/01/pib-perde-forca-no-2o-tri-os-3-desafios-para-o-proximo-presidente-na-economia.ghtml",
-      "date": "Tue, 01 Sep 2026 13:15:13 -0000"
-    },
-    {
-      "title": "PIB desacelera, mas cresce 0,5% no 2\u00BA trimestre, puxado pela agropecu\u00E1ria, diz IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/01/pib-do-brasil-cresce-05percent-no-2o-trimestre-de-2026-diz-ibge.ghtml",
-      "date": "Tue, 01 Sep 2026 12:00:23 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em baixa com PIB e agenda econ\u00F4mica no radar; Ibovespa avan\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/01/dolar-ibovespa.ghtml",
-      "date": "Tue, 01 Sep 2026 12:00:15 -0000"
-    },
-    {
-      "title": "Como \u00E9 a nova regra do PIX que pode ajudar a inibir golpes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/01/como-e-a-nova-regra-do-pix-que-pode-ajudar-a-inibir-golpes.ghtml",
-      "date": "Tue, 01 Sep 2026 11:36:28 -0000"
-    },
-    {
-      "title": "Golpes do Free Flow: quase 500 sites falsos cobram falso ped\u00E1gio por PIX; veja como se proteger",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/01/golpes-do-free-flow-quase-500-sites-falsos-cobram-falso-pedagio-por-pix-veja-como-se-proteger.ghtml",
-      "date": "Tue, 01 Sep 2026 08:04:16 -0000"
-    },
-    {
-      "title": "Droga Raia \u00E9 condenada a pagar R$ 4 milh\u00F5es por casos de ass\u00E9dio moral, sexual e materno; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/01/droga-raia-e-condenada-a-pagar-r-4-milhoes-entenda.ghtml",
-      "date": "Tue, 01 Sep 2026 07:01:08 -0000"
     }
   ]
 }
