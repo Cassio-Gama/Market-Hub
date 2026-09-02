@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 179722.48,
-      "change": 1.3,
-      "changeStr": "\u002B1.30%"
+      "price": 183784.08,
+      "change": 2.26,
+      "changeStr": "\u002B2.26%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.87,
-      "change": 4.11,
-      "changeStr": "\u002B4.11%"
+      "price": 47.04,
+      "change": 0.36,
+      "changeStr": "\u002B0.36%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.3,
-      "change": 0.58,
-      "changeStr": "\u002B0.58%"
+      "price": 80.83,
+      "change": 3.23,
+      "changeStr": "\u002B3.23%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.88,
-      "change": 0.91,
-      "changeStr": "\u002B0.91%"
+      "price": 41.02,
+      "change": 2.86,
+      "changeStr": "\u002B2.86%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.4,
-      "change": 1.22,
-      "changeStr": "\u002B1.22%"
+      "price": 17.72,
+      "change": 1.84,
+      "changeStr": "\u002B1.84%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.21,
-      "change": 2.27,
-      "changeStr": "\u002B2.27%"
+      "price": 22.16,
+      "change": 4.48,
+      "changeStr": "\u002B4.48%"
     },
     {
       "symbol": "MGLU3",
-      "price": 4.62,
-      "change": -3.95,
-      "changeStr": "-3.95%"
+      "price": 5.06,
+      "change": 9.52,
+      "changeStr": "\u002B9.52%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.17,
-      "change": 0.93,
-      "changeStr": "\u002B0.93%"
+      "price": 15.55,
+      "change": 2.5,
+      "changeStr": "\u002B2.50%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.7,
-      "change": -0.9,
-      "changeStr": "-0.90%"
+      "price": 50.39,
+      "change": 1.39,
+      "changeStr": "\u002B1.39%"
     }
   ],
   "news": [
+    {
+      "title": "Dropbox afirma que cerca de 5 mil contas foram comprometidas em ataque hacker em agosto",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/02/dropbox-afirma-que-cerca-de-5-mil-contas-foram-comprometidas-em-ataque-hacker-de-agosto.ghtml",
+      "date": "Wed, 02 Sep 2026 12:51:04 -0000"
+    },
+    {
+      "title": "OpenAI diz que seu novo modelo de IA \u00E9 t\u00E3o avan\u00E7ado que exigir\u00E1 mais medidas de seguran\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/02/openai-diz-que-novo-modelo-de-ia-e-tao-avancado-que-exigira-mais-medidas-de-seguranca.ghtml",
+      "date": "Wed, 02 Sep 2026 12:32:25 -0000"
+    },
+    {
+      "title": "Poss\u00EDvel falha nos cintos de seguran\u00E7a provoca recall da RAM 1500 no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/02/recall-ram-1500-no-brasil.ghtml",
+      "date": "Wed, 02 Sep 2026 12:26:52 -0000"
+    },
+    {
+      "title": "Uber anuncia corte de 3,3 mil vagas em reestrutura\u00E7\u00E3o da empresa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/uber-anuncia-corte-de-vagas-em-reestruturacao-da-empresa.ghtml",
+      "date": "Wed, 02 Sep 2026 12:13:05 -0000"
+    },
+    {
+      "title": "BC diz que endividamento ainda pressiona empresas e fam\u00EDlias e prepara medidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/02/bc-diz-que-endividamento-ainda-pressiona-empresas-e-familias-e-prepara-medidas.ghtml",
+      "date": "Wed, 02 Sep 2026 12:00:25 -0000"
+    },
+    {
+      "title": "D\u00F3lar recua com foco na pol\u00EDtica e em indicadores econ\u00F4micos; Ibovespa avan\u00E7a ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/02/dolar-ibovespa.ghtml",
+      "date": "Wed, 02 Sep 2026 12:00:15 -0000"
+    },
     {
       "title": "\u0027Bomba at\u00F4mica\u0027 e \u0027terremoto pol\u00EDtico\u0027: o que imprensa internacional disse sobre mensagens entre Vorcaro e Moraes",
       "source": "G1 Economia",
@@ -75,46 +111,10 @@
       "date": "Wed, 02 Sep 2026 03:00:52 -0000"
     },
     {
-      "title": "Mega-Sena 3052 acumula e pr\u00EAmio vai a R$ 41 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "title": "Fim da 6x1: CCJ do Senado pode votar nesta quarta proposta que reduz jornada de trabalho",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/01/mega-sena-concurso-3052-confira-os-numeros-sorteados.ghtml",
-      "date": "Wed, 02 Sep 2026 00:03:10 -0000"
-    },
-    {
-      "title": "Mesmo ap\u00F3s pedido de arquivamento da PGR, Mendon\u00E7a deve insistir\u00A0que \nplen\u00E1rio do STF analise mensagens entre Moraes e Vorcaro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml",
-      "date": "Tue, 01 Sep 2026 23:11:09 -0000"
-    },
-    {
-      "title": "Como PF recuperou mensagens de Vorcaro a Moraes mesmo com visualiza\u00E7\u00E3o \u00FAnica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/01/mensagens-visualizacao-unica-vorcaro-moraes.ghtml",
-      "date": "Tue, 01 Sep 2026 20:05:00 -0000"
-    },
-    {
-      "title": "Entenda o caso Master, as acusa\u00E7\u00F5es e as conversas de Vorcaro com Moraes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/01/entenda-o-caso-master.ghtml",
-      "date": "Tue, 01 Sep 2026 18:36:31 -0000"
-    },
-    {
-      "title": "Combust\u00EDvel de avi\u00E3o j\u00E1 subiu 53% no ano e aumenta press\u00E3o sobre pre\u00E7o das passagens a\u00E9reas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/01/combustivel-de-aviao-sobe-14percent-em-setembro-e-dobra-no-ano.ghtml",
-      "date": "Tue, 01 Sep 2026 17:24:26 -0000"
-    },
-    {
-      "title": "App de envio de dinheiro do exterior ao Brasil anuncia nova fase global",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/especial-publicitario/tap-tap-send-0109/noticia/2026/09/01/app-de-envio-de-dinheiro-do-exterior-ao-brasil-anuncia-nova-fase-global.ghtml",
-      "date": "Tue, 01 Sep 2026 16:43:46 -0000"
-    },
-    {
-      "title": "Esfaqueamento na Times Square: mulher que morreu ap\u00F3s facada era vice-presidente do Bank of America",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/01/esfaqueamento-na-times-square-vice-presidente-do-bank-of-america-morre-apos-facada.ghtml",
-      "date": "Tue, 01 Sep 2026 16:21:20 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/09/02/fim-da-6x1-ccj-do-senado-pode-votar-nesta-quarta-proposta-que-reduz-jornada-de-trabalho.ghtml",
+      "date": "Wed, 02 Sep 2026 03:00:27 -0000"
     }
   ]
 }
