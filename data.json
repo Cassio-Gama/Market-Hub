@@ -2,62 +2,74 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 184856.23,
-      "change": 2.86,
-      "changeStr": "\u002B2.86%"
+      "price": 185205.1,
+      "change": 3.05,
+      "changeStr": "\u002B3.05%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.15,
-      "change": 2.73,
-      "changeStr": "\u002B2.73%"
+      "price": 48.2,
+      "change": 2.84,
+      "changeStr": "\u002B2.84%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.19,
-      "change": 2.41,
-      "changeStr": "\u002B2.41%"
+      "price": 80.8,
+      "change": 3.19,
+      "changeStr": "\u002B3.19%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.21,
-      "change": 3.34,
-      "changeStr": "\u002B3.34%"
+      "price": 41.41,
+      "change": 3.84,
+      "changeStr": "\u002B3.84%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.72,
-      "change": 1.84,
-      "changeStr": "\u002B1.84%"
+      "price": 17.75,
+      "change": 2.01,
+      "changeStr": "\u002B2.01%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.33,
-      "change": 5.28,
-      "changeStr": "\u002B5.28%"
+      "price": 22.26,
+      "change": 4.95,
+      "changeStr": "\u002B4.95%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.41,
-      "change": 17.1,
-      "changeStr": "\u002B17.10%"
+      "price": 5.4,
+      "change": 16.88,
+      "changeStr": "\u002B16.88%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.54,
-      "change": 2.44,
-      "changeStr": "\u002B2.44%"
+      "price": 15.6,
+      "change": 2.83,
+      "changeStr": "\u002B2.83%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.75,
-      "change": 2.11,
-      "changeStr": "\u002B2.11%"
+      "price": 50.84,
+      "change": 2.29,
+      "changeStr": "\u002B2.29%"
     }
   ],
   "news": [
     {
-      "title": "Escala 6x1: o que acontece agora? o que muda para empresas e trabalhadores? Entenda",
+      "title": "Lago Ont\u00E1rio vira \u0027Lago Am\u00E9rica\u0027 nos mapas da Apple nos EUA ap\u00F3s ordem de Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/02/lago-ontario-vira-lago-america-nos-mapas-da-apple-nos-eua-apos-ordem-de-trump.ghtml",
+      "date": "Wed, 02 Sep 2026 20:35:05 -0000"
+    },
+    {
+      "title": "Ju\u00EDza dos EUA rejeita tentativa de separar neg\u00F3cio de publicidade do Google",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/02/juiza-dos-eua-rejeita-tentativa-de-separar-negocio-de-publicidade-do-google.ghtml",
+      "date": "Wed, 02 Sep 2026 18:44:36 -0000"
+    },
+    {
+      "title": "Escala 6x1: o que acontece agora? O que muda para empresas e trabalhadores? Entenda",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/escala-6x1-o-que-acontece-agora-o-que-muda-entenda.ghtml",
       "date": "Wed, 02 Sep 2026 18:14:18 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/02/dropbox-afirma-que-cerca-de-5-mil-contas-foram-comprometidas-em-ataque-hacker-de-agosto.ghtml",
       "date": "Wed, 02 Sep 2026 12:51:04 -0000"
-    },
-    {
-      "title": "OpenAI diz que seu novo modelo de IA \u00E9 t\u00E3o avan\u00E7ado que exigir\u00E1 mais medidas de seguran\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/02/openai-diz-que-novo-modelo-de-ia-e-tao-avancado-que-exigira-mais-medidas-de-seguranca.ghtml",
-      "date": "Wed, 02 Sep 2026 12:32:25 -0000"
-    },
-    {
-      "title": "Poss\u00EDvel falha nos cintos de seguran\u00E7a provoca recall da RAM 1500 no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/02/recall-ram-1500-no-brasil.ghtml",
-      "date": "Wed, 02 Sep 2026 12:26:52 -0000"
     }
   ]
 }
