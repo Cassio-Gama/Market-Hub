@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 183784.08,
-      "change": 2.26,
-      "changeStr": "\u002B2.26%"
+      "price": 184856.23,
+      "change": 2.86,
+      "changeStr": "\u002B2.86%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.04,
-      "change": 0.36,
-      "changeStr": "\u002B0.36%"
+      "price": 48.15,
+      "change": 2.73,
+      "changeStr": "\u002B2.73%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.83,
-      "change": 3.23,
-      "changeStr": "\u002B3.23%"
+      "price": 80.19,
+      "change": 2.41,
+      "changeStr": "\u002B2.41%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.02,
-      "change": 2.86,
-      "changeStr": "\u002B2.86%"
+      "price": 41.21,
+      "change": 3.34,
+      "changeStr": "\u002B3.34%"
     },
     {
       "symbol": "BBDC4",
@@ -32,30 +32,72 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 22.16,
-      "change": 4.48,
-      "changeStr": "\u002B4.48%"
+      "price": 22.33,
+      "change": 5.28,
+      "changeStr": "\u002B5.28%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.06,
-      "change": 9.52,
-      "changeStr": "\u002B9.52%"
+      "price": 5.41,
+      "change": 17.1,
+      "changeStr": "\u002B17.10%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.55,
-      "change": 2.5,
-      "changeStr": "\u002B2.50%"
+      "price": 15.54,
+      "change": 2.44,
+      "changeStr": "\u002B2.44%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.39,
-      "change": 1.39,
-      "changeStr": "\u002B1.39%"
+      "price": 50.75,
+      "change": 2.11,
+      "changeStr": "\u002B2.11%"
     }
   ],
   "news": [
+    {
+      "title": "Escala 6x1: o que acontece agora? o que muda para empresas e trabalhadores? Entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/escala-6x1-o-que-acontece-agora-o-que-muda-entenda.ghtml",
+      "date": "Wed, 02 Sep 2026 18:14:18 -0000"
+    },
+    {
+      "title": "Dona da Farm, Hering e Schutz, Azzas 2154 anuncia cis\u00E3o ap\u00F3s crise entre s\u00F3cios e queda nos resultados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/02/cisao-azzas-2154.ghtml",
+      "date": "Wed, 02 Sep 2026 17:32:19 -0000"
+    },
+    {
+      "title": "Fim da 6x1: relator l\u00EA parecer; presidente da CCJ concede vista de uma hora ap\u00F3s pedido da oposi\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/02/fim-da-6x1-relator-le-parecer-presidente-da-ccj-concede-vista-de-uma-hora-apos-pedido-da-oposicao.ghtml",
+      "date": "Wed, 02 Sep 2026 16:40:27 -0000"
+    },
+    {
+      "title": "Companhia que transporta cargas dos Correios tem opera\u00E7\u00F5es suspensas pela Anac; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/02/companhia-que-transporta-cargas-dos-correios-tem-operacoes-suspensas-pela-anac-entenda.ghtml",
+      "date": "Wed, 02 Sep 2026 16:06:42 -0000"
+    },
+    {
+      "title": "Risco de inc\u00EAndio: Jeep do Brasil faz recall dos modelos Wrangler e Gladiator Rubicon",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/02/recall-jeep.ghtml",
+      "date": "Wed, 02 Sep 2026 15:57:03 -0000"
+    },
+    {
+      "title": "Comiss\u00E3o aprova fim da \u0027taxa das blusinhas\u0027; medida segue para vota\u00E7\u00E3o no plen\u00E1rio da C\u00E2mara",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/02/comissao-aprova-fim-da-taxa-das-blusinhas-medida-segue-para-votacao-no-plenario-da-camara.ghtml",
+      "date": "Wed, 02 Sep 2026 15:25:53 -0000"
+    },
+    {
+      "title": "Ap\u00F3s acordo, petrol\u00EDfera dos EUA anuncia US$ 7 bilh\u00F5es para ampliar produ\u00E7\u00E3o na Venezuela; expectativa \u00E9 mais que dobrar extra\u00E7\u00E3o at\u00E9 2030",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/02/apos-acordo-petrolifera-dos-eua-anuncia-us-7-bilhoes-para-ampliar-producao-na-venezuela-expectativa-e-mais-que-dobrar-extracao-ate-2030.ghtml",
+      "date": "Wed, 02 Sep 2026 14:41:46 -0000"
+    },
     {
       "title": "Dropbox afirma que cerca de 5 mil contas foram comprometidas em ataque hacker em agosto",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/09/02/recall-ram-1500-no-brasil.ghtml",
       "date": "Wed, 02 Sep 2026 12:26:52 -0000"
-    },
-    {
-      "title": "Uber anuncia corte de 3,3 mil vagas em reestrutura\u00E7\u00E3o da empresa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/uber-anuncia-corte-de-vagas-em-reestruturacao-da-empresa.ghtml",
-      "date": "Wed, 02 Sep 2026 12:13:05 -0000"
-    },
-    {
-      "title": "BC diz que endividamento ainda pressiona empresas e fam\u00EDlias e prepara medidas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/02/bc-diz-que-endividamento-ainda-pressiona-empresas-e-familias-e-prepara-medidas.ghtml",
-      "date": "Wed, 02 Sep 2026 12:00:25 -0000"
-    },
-    {
-      "title": "D\u00F3lar recua com foco na pol\u00EDtica e em indicadores econ\u00F4micos; Ibovespa avan\u00E7a ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/02/dolar-ibovespa.ghtml",
-      "date": "Wed, 02 Sep 2026 12:00:15 -0000"
-    },
-    {
-      "title": "\u0027Bomba at\u00F4mica\u0027 e \u0027terremoto pol\u00EDtico\u0027: o que imprensa internacional disse sobre mensagens entre Vorcaro e Moraes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/02/bomba-atomica-e-terremoto-politico-o-que-imprensa-internacional-disse-sobre-mensagens-entre-vorcaro-e-moraes.ghtml",
-      "date": "Wed, 02 Sep 2026 08:45:15 -0000"
-    },
-    {
-      "title": "6x1, 5x2, 4x3 e 12x36: entenda como funcionam as escalas de trabalho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/entenda-como-funcionam-as-escalas-de-trabalho.ghtml",
-      "date": "Wed, 02 Sep 2026 03:01:02 -0000"
-    },
-    {
-      "title": "Fim da escala 6x1: quem apoia, quem \u00E9 contra e o que ainda pode mudar na proposta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/fim-da-escala-6x1-quem-apoia-quem-e-contra-e-o-que-ainda-pode-mudar-na-proposta.ghtml",
-      "date": "Wed, 02 Sep 2026 03:00:52 -0000"
-    },
-    {
-      "title": "Fim da 6x1: CCJ do Senado pode votar nesta quarta proposta que reduz jornada de trabalho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/09/02/fim-da-6x1-ccj-do-senado-pode-votar-nesta-quarta-proposta-que-reduz-jornada-de-trabalho.ghtml",
-      "date": "Wed, 02 Sep 2026 03:00:27 -0000"
     }
   ]
 }
