@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 184882.58,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 185188.12,
+      "change": -0.01,
+      "changeStr": "-0.01%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.65,
-      "change": -1.14,
-      "changeStr": "-1.14%"
+      "price": 47.56,
+      "change": -1.33,
+      "changeStr": "-1.33%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.97,
-      "change": -3.5,
-      "changeStr": "-3.50%"
+      "price": 78.45,
+      "change": -2.91,
+      "changeStr": "-2.91%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.77,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
+      "price": 41.92,
+      "change": 1.23,
+      "changeStr": "\u002B1.23%"
     },
     {
       "symbol": "BBDC4",
@@ -32,89 +32,89 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 22.31,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 22.45,
+      "change": 0.85,
+      "changeStr": "\u002B0.85%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.65,
-      "change": 4.63,
-      "changeStr": "\u002B4.63%"
+      "price": 5.56,
+      "change": 2.96,
+      "changeStr": "\u002B2.96%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.73,
-      "change": 0.83,
-      "changeStr": "\u002B0.83%"
+      "price": 15.76,
+      "change": 1.03,
+      "changeStr": "\u002B1.03%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.4,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
+      "price": 52.06,
+      "change": 2.4,
+      "changeStr": "\u002B2.40%"
     }
   ],
   "news": [
     {
-      "title": "OpenAI lan\u00E7a primeiro modelo de IA ap\u00F3s ataque \u0027sem precedentes\u0027 por seus sistemas",
+      "title": "Taxa das blusinhas: calculadora do g1 mostra quanto voc\u00EA pagaria com ou sem o imposto",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/openai-gpt-6-astra-modelo-inteligencia-artificial.ghtml",
-      "date": "Thu, 03 Sep 2026 18:00:58 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/03/calculadora-do-g1-taxa-das-blusinhas.ghtml",
+      "date": "Thu, 03 Sep 2026 21:11:07 -0000"
     },
     {
-      "title": "Tesla lan\u00E7a Cybercab, um robot\u00E1xi sem volante nem pedais",
+      "title": "Congresso aprova fim da \u0027taxa das blusinhas\u0027: como ficam as compras internacionais de at\u00E9 US$ 50?",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/03/tesla-lanca-cybercab-um-robotaxi-sem-volante-nem-pedais.ghtml",
-      "date": "Thu, 03 Sep 2026 16:20:23 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/03/taxa-das-blusinhas-como-ficam-as-compras-internacionais-de-ate-us-50.ghtml",
+      "date": "Thu, 03 Sep 2026 21:10:41 -0000"
     },
     {
-      "title": "ChatGPT fora do ar? Usu\u00E1rios relatam instabilidade nesta quinta-feira",
+      "title": "Senado aprova fim da \u0027taxa das blusinhas\u0027; texto segue para san\u00E7\u00E3o presidencial",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/chatgpt-fora-do-ar-usuarios-relatam-instabilidade-nesta-quinta-feira.ghtml",
-      "date": "Thu, 03 Sep 2026 15:19:29 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/09/03/senado-aprova-fim-da-taxa-das-blusinhas-texto-segue-para-sancao.ghtml",
+      "date": "Thu, 03 Sep 2026 21:09:09 -0000"
     },
     {
-      "title": "D\u00F3lar cai a R$ 5,09 com expectativa por pesquisa eleitoral e dados dos EUA; Ibovespa avan\u00E7a",
+      "title": "Volkswagen aprova plano que pode cortar 50 mil empregos; veja o que est\u00E1 por tr\u00E1s da decis\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/03/dolar-ibovespa.ghtml",
-      "date": "Thu, 03 Sep 2026 12:00:15 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/09/03/volkswagen-aprova-plano-que-pode-cortar-50-mil-empregos-veja-o-que-esta-por-tras-da-decisao.ghtml",
+      "date": "Thu, 03 Sep 2026 20:41:06 -0000"
     },
     {
-      "title": "3cora\u00E7\u00F5es conclui compra da Yoki e da Kitano por R$ 800 milh\u00F5es e assume opera\u00E7\u00E3o da General Mills no Brasil",
+      "title": "Holanda tira toneladas de ouro de Nova York e manda para Londres de olho em \u0027instabilidade geopol\u00EDtica\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/03/3coracoes-compra-yoki-e-kitano-por-r-800-milhoes-e-assume-operacao-da-general-mills-no-brasil.ghtml",
-      "date": "Thu, 03 Sep 2026 11:42:54 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/03/holanda-tira-toneladas-de-ouro-de-nova-york-e-manda-para-londres-de-olho-em-instabilidade-geopolitica.ghtml",
+      "date": "Thu, 03 Sep 2026 20:39:24 -0000"
     },
     {
-      "title": "Governo prorroga por 60 dias cobran\u00E7a de imposto de 12% sobre exporta\u00E7\u00E3o de petr\u00F3leo",
+      "title": "\nGoverno critica in\u00EDcio do veto \u00E0 venda de carne brasileira para Uni\u00E3o Europeia e cita possibilidade de \u0027medidas de reciprocidade\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/03/governo-prorroga-por-60-dias-cobranca-de-imposto-de-12percent-sobre-exportacao-de-petroleo.ghtml",
-      "date": "Thu, 03 Sep 2026 11:26:39 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/03/governo-critica-inicio-do-veto-a-venda-de-carne-brasileira-para-uniao-europeia-e-cita-possibilidade-de-medidas-de-reciprocidade.ghtml",
+      "date": "Thu, 03 Sep 2026 20:38:35 -0000"
     },
     {
-      "title": "Banco Central decreta liquida\u00E7\u00E3o de corretoras ligadas a ex-s\u00F3cio do Banco Master",
+      "title": "O que \u00E9 \u0027ativo miner\u00E1rio\u0027, neg\u00F3cio citado por Nikolas Ferreira a Vorcaro",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/03/banco-central-liquidacao-extrajudicial.ghtml",
-      "date": "Thu, 03 Sep 2026 11:08:40 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/03/o-que-e-ativo-minerario-citado-por-nikolas-ferreira-a-vorcaro.ghtml",
+      "date": "Thu, 03 Sep 2026 20:24:41 -0000"
     },
     {
-      "title": "Apple enfrenta processo de R$ 15 bilh\u00F5es no Reino Unido por regras de rastreamento de aplicativos",
+      "title": "Governo anuncia que INSS passou a analisar mais pedidos de benef\u00EDcios por m\u00EAs do que n\u00FAmero de novos requerimentos ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/apple-processo-reino-unido.ghtml",
-      "date": "Thu, 03 Sep 2026 10:56:57 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/03/governo-anuncia-que-inss-passou-a-analisar-mais-pedidos-de-beneficios-por-mes-do-que-numero-de-novos-requerimentos.ghtml",
+      "date": "Thu, 03 Sep 2026 19:18:44 -0000"
     },
     {
-      "title": "Governo notifica 115 empresas por irregularidades no vale-alimenta\u00E7\u00E3o e vale-refei\u00E7\u00E3o",
+      "title": "C\u00E2mara aprova fim da taxa das blusinhas; MP segue para o Senado",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/03/governo-notifica-115-empresas-por-irregularidades-no-vale-alimentacao-e-vale-refeicao.ghtml",
-      "date": "Thu, 03 Sep 2026 07:01:11 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/09/03/camara-aprova-fim-da-taxa-das-blusinhas-mp-segue-para-o-senado.ghtml",
+      "date": "Thu, 03 Sep 2026 18:59:47 -0000"
     },
     {
-      "title": "Sob nova dire\u00E7\u00E3o, Apple manter\u00E1 prest\u00EDgio na era da intelig\u00EAncia artificial?",
+      "title": "PIX: BC altera regras para ampliar prote\u00E7\u00E3o contra fraudes; usu\u00E1rio poder\u00E1 anexar documentos para facilitar identifica\u00E7\u00E3o de crimes",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/sob-nova-direcao-apple-mantera-prestigio-na-era-da-inteligencia-artificial.ghtml",
-      "date": "Thu, 03 Sep 2026 06:00:26 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/03/banco-central-altera-regras-pix.ghtml",
+      "date": "Thu, 03 Sep 2026 18:28:43 -0000"
     }
   ]
 }
