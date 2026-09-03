@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185205.1,
-      "change": 3.05,
-      "changeStr": "\u002B3.05%"
+      "price": 187846.47,
+      "change": 1.43,
+      "changeStr": "\u002B1.43%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.2,
-      "change": 2.84,
-      "changeStr": "\u002B2.84%"
+      "price": 48.88,
+      "change": 1.41,
+      "changeStr": "\u002B1.41%"
     },
     {
       "symbol": "VALE3",
-      "price": 80.8,
-      "change": 3.19,
-      "changeStr": "\u002B3.19%"
+      "price": 79.64,
+      "change": -1.44,
+      "changeStr": "-1.44%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.41,
-      "change": 3.84,
-      "changeStr": "\u002B3.84%"
+      "price": 42.33,
+      "change": 2.22,
+      "changeStr": "\u002B2.22%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.75,
-      "change": 2.01,
-      "changeStr": "\u002B2.01%"
+      "price": 17.94,
+      "change": 1.07,
+      "changeStr": "\u002B1.07%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.26,
-      "change": 4.95,
-      "changeStr": "\u002B4.95%"
+      "price": 22.86,
+      "change": 2.7,
+      "changeStr": "\u002B2.70%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.4,
-      "change": 16.88,
-      "changeStr": "\u002B16.88%"
+      "price": 5.75,
+      "change": 6.48,
+      "changeStr": "\u002B6.48%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.6,
-      "change": 2.83,
-      "changeStr": "\u002B2.83%"
+      "price": 15.81,
+      "change": 1.35,
+      "changeStr": "\u002B1.35%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.84,
-      "change": 2.29,
-      "changeStr": "\u002B2.29%"
+      "price": 52.2,
+      "change": 2.68,
+      "changeStr": "\u002B2.68%"
     }
   ],
   "news": [
+    {
+      "title": "D\u00F3lar cai com foco em dados dos EUA e vota\u00E7\u00F5es no Congresso; Ibovespa avan\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/03/dolar-ibovespa.ghtml",
+      "date": "Thu, 03 Sep 2026 12:00:15 -0000"
+    },
+    {
+      "title": "3cora\u00E7\u00F5es conclui compra da Yoki e da Kitano por R$ 800 milh\u00F5es e assume opera\u00E7\u00E3o da General Mills no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/03/3coracoes-compra-yoki-e-kitano-por-r-800-milhoes-e-assume-operacao-da-general-mills-no-brasil.ghtml",
+      "date": "Thu, 03 Sep 2026 11:42:54 -0000"
+    },
+    {
+      "title": "Governo prorroga por 60 dias cobran\u00E7a de imposto de 12% sobre exporta\u00E7\u00E3o de petr\u00F3leo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/03/governo-prorroga-por-60-dias-cobranca-de-imposto-de-12percent-sobre-exportacao-de-petroleo.ghtml",
+      "date": "Thu, 03 Sep 2026 11:26:39 -0000"
+    },
+    {
+      "title": "Banco Central decreta liquida\u00E7\u00E3o de corretoras ligadas a ex-s\u00F3cio do Banco Master",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/03/banco-central-liquidacao-extrajudicial.ghtml",
+      "date": "Thu, 03 Sep 2026 11:08:40 -0000"
+    },
+    {
+      "title": "Apple enfrenta processo de R$ 15 bilh\u00F5es no Reino Unido por regras de rastreamento de aplicativos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/apple-processo-reino-unido.ghtml",
+      "date": "Thu, 03 Sep 2026 10:56:57 -0000"
+    },
     {
       "title": "Governo notifica 115 empresas por irregularidades no vale-alimenta\u00E7\u00E3o e vale-refei\u00E7\u00E3o",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/03/quinto-dia-util-de-setembro-2026-veja-a-data-do-pagamento.ghtml",
       "date": "Thu, 03 Sep 2026 03:01:07 -0000"
-    },
-    {
-      "title": "UE compra pouca carne do Brasil, mas paga mais e funciona como \u2018vitrine\u2019; saiba por que o veto preocupa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/03/ue-compra-pouca-carne-do-brasil-mas-paga-mais-e-funciona-como-vitrine-saiba-por-que-o-veto-preocupa.ghtml",
-      "date": "Thu, 03 Sep 2026 03:01:04 -0000"
-    },
-    {
-      "title": "Calend\u00E1rio de setembro 2026: veja datas de pagamento do INSS, Bolsa Fam\u00EDlia p\u00E9-de-meia e mais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/03/calendario-de-setembro-2026-datas-de-pagamento-inss-bolsa-familia-pe-de-meia.ghtml",
-      "date": "Thu, 03 Sep 2026 03:00:55 -0000"
-    },
-    {
-      "title": "Ap\u00F3s veto da Uni\u00E3o Europeia, carne vai ficar mais barata no Brasil? Entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/03/apos-veto-da-uniao-europeia-como-fica-o-preco-da-carne-no-brasil.ghtml",
-      "date": "Thu, 03 Sep 2026 03:00:42 -0000"
-    },
-    {
-      "title": "UE suspende importa\u00E7\u00F5es de carnes do Brasil nesta quinta-feira; o que acontece agora?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/03/ue-suspende-importacoes-de-carnes-do-brasil-nesta-quinta-feira-o-que-acontece-agora.ghtml",
-      "date": "Thu, 03 Sep 2026 03:00:39 -0000"
-    },
-    {
-      "title": "Nova York suspende uso de IA para alunos de escolas p\u00FAblicas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/02/nova-york-suspensao-inteligencia-artificial-escolas-publicas.ghtml",
-      "date": "Thu, 03 Sep 2026 00:23:20 -0000"
     }
   ]
 }
