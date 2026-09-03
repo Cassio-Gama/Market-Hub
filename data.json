@@ -2,62 +2,80 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187846.47,
-      "change": 1.43,
-      "changeStr": "\u002B1.43%"
+      "price": 184882.58,
+      "change": -0.17,
+      "changeStr": "-0.17%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.88,
-      "change": 1.41,
-      "changeStr": "\u002B1.41%"
+      "price": 47.65,
+      "change": -1.14,
+      "changeStr": "-1.14%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.64,
-      "change": -1.44,
-      "changeStr": "-1.44%"
+      "price": 77.97,
+      "change": -3.5,
+      "changeStr": "-3.50%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.33,
-      "change": 2.22,
-      "changeStr": "\u002B2.22%"
+      "price": 41.77,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.94,
-      "change": 1.07,
-      "changeStr": "\u002B1.07%"
+      "price": 17.79,
+      "change": 0.23,
+      "changeStr": "\u002B0.23%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.86,
-      "change": 2.7,
-      "changeStr": "\u002B2.70%"
+      "price": 22.31,
+      "change": 0.22,
+      "changeStr": "\u002B0.22%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.75,
-      "change": 6.48,
-      "changeStr": "\u002B6.48%"
+      "price": 5.65,
+      "change": 4.63,
+      "changeStr": "\u002B4.63%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.81,
-      "change": 1.35,
-      "changeStr": "\u002B1.35%"
+      "price": 15.73,
+      "change": 0.83,
+      "changeStr": "\u002B0.83%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.2,
-      "change": 2.68,
-      "changeStr": "\u002B2.68%"
+      "price": 51.4,
+      "change": 1.1,
+      "changeStr": "\u002B1.10%"
     }
   ],
   "news": [
     {
-      "title": "D\u00F3lar cai com foco em dados dos EUA e vota\u00E7\u00F5es no Congresso; Ibovespa avan\u00E7a",
+      "title": "OpenAI lan\u00E7a primeiro modelo de IA ap\u00F3s ataque \u0027sem precedentes\u0027 por seus sistemas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/openai-gpt-6-astra-modelo-inteligencia-artificial.ghtml",
+      "date": "Thu, 03 Sep 2026 18:00:58 -0000"
+    },
+    {
+      "title": "Tesla lan\u00E7a Cybercab, um robot\u00E1xi sem volante nem pedais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/03/tesla-lanca-cybercab-um-robotaxi-sem-volante-nem-pedais.ghtml",
+      "date": "Thu, 03 Sep 2026 16:20:23 -0000"
+    },
+    {
+      "title": "ChatGPT fora do ar? Usu\u00E1rios relatam instabilidade nesta quinta-feira",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/chatgpt-fora-do-ar-usuarios-relatam-instabilidade-nesta-quinta-feira.ghtml",
+      "date": "Thu, 03 Sep 2026 15:19:29 -0000"
+    },
+    {
+      "title": "D\u00F3lar cai a R$ 5,09 com expectativa por pesquisa eleitoral e dados dos EUA; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/03/dolar-ibovespa.ghtml",
       "date": "Thu, 03 Sep 2026 12:00:15 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/sob-nova-direcao-apple-mantera-prestigio-na-era-da-inteligencia-artificial.ghtml",
       "date": "Thu, 03 Sep 2026 06:00:26 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 41 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/03/mega-sena-pode-pagar-r-41-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 03 Sep 2026 03:01:55 -0000"
-    },
-    {
-      "title": "Saque-anivers\u00E1rio FGTS setembro: veja calend\u00E1rio e quem pode sacar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/03/saque-aniversario-fgts-setembro-calendario-e-quem-pode-sacar.ghtml",
-      "date": "Thu, 03 Sep 2026 03:01:46 -0000"
-    },
-    {
-      "title": "Quinto dia \u00FAtil de setembro de 2026: veja a data do pagamento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/03/quinto-dia-util-de-setembro-2026-veja-a-data-do-pagamento.ghtml",
-      "date": "Thu, 03 Sep 2026 03:01:07 -0000"
     }
   ]
 }
