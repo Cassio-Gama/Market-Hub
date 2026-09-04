@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185188.12,
-      "change": -0.01,
-      "changeStr": "-0.01%"
+      "price": 184282.4,
+      "change": -0.49,
+      "changeStr": "-0.49%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.56,
-      "change": -1.33,
-      "changeStr": "-1.33%"
+      "price": 47,
+      "change": -1.18,
+      "changeStr": "-1.18%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.45,
-      "change": -2.91,
-      "changeStr": "-2.91%"
+      "price": 78.43,
+      "change": -0.03,
+      "changeStr": "-0.03%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.92,
-      "change": 1.23,
-      "changeStr": "\u002B1.23%"
+      "price": 41.7,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.79,
-      "change": 0.23,
-      "changeStr": "\u002B0.23%"
+      "price": 17.75,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.45,
-      "change": 0.85,
-      "changeStr": "\u002B0.85%"
+      "price": 22.23,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.56,
-      "change": 2.96,
-      "changeStr": "\u002B2.96%"
+      "price": 5.69,
+      "change": 2.34,
+      "changeStr": "\u002B2.34%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.76,
-      "change": 1.03,
-      "changeStr": "\u002B1.03%"
+      "price": 15.78,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.06,
-      "change": 2.4,
-      "changeStr": "\u002B2.40%"
+      "price": 51.97,
+      "change": -0.17,
+      "changeStr": "-0.17%"
     }
   ],
   "news": [
+    {
+      "title": "Aprenda a cultivar pitaia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/04/aprenda-a-cultivar-pitaia.ghtml",
+      "date": "Fri, 04 Sep 2026 14:01:24 -0000"
+    },
+    {
+      "title": "Nanoempreendedor fica dispensado de se inscrever no CNPJ e de emitir nota fiscal eletr\u00F4nica at\u00E9 o fim de 2028",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/09/04/nanoempreendedor-fica-dispensado-de-se-inscrever-no-cnpj-e-de-emitir-nota-fiscal-eletronica-ate-o-fim-de-2028.ghtml",
+      "date": "Fri, 04 Sep 2026 13:24:29 -0000"
+    },
+    {
+      "title": "Jornada maior, renda menor: quase 2 milh\u00F5es trabalham por aplicativos no Brasil, mostra IBGE",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/04/quase-2-milhoes-trabalham-por-aplicativos-no-brasil-mostra-ibge.ghtml",
+      "date": "Fri, 04 Sep 2026 13:00:01 -0000"
+    },
+    {
+      "title": "Pre\u00E7os globais dos alimentos atingem maior n\u00EDvel desde 2022, em meio a clima extremo e guerras, diz FAO",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/04/precos-mundiais-dos-alimentos-atingem-maior-nivel-desde-2022-em-meio-a-riscos-de-oferta-diz-fao.ghtml",
+      "date": "Fri, 04 Sep 2026 12:50:34 -0000"
+    },
+    {
+      "title": "Cadillac inicia pr\u00E9-venda no Brasil este m\u00EAs; SUVs podem passar dos R$ 600 mil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/04/cadillac-inicia-pre-venda-no-brasil.ghtml",
+      "date": "Fri, 04 Sep 2026 12:37:08 -0000"
+    },
+    {
+      "title": "D\u00F3lar tem leve alta ap\u00F3s pesquisa eleitoral e dados de emprego dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/04/dolar-ibovespa.ghtml",
+      "date": "Fri, 04 Sep 2026 12:00:00 -0000"
+    },
+    {
+      "title": "Trump posta mensagem de senador dos EUA que diz que agricultores brasileiros pagam menos por sementes de milho",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/04/trump-publica-mensagem-de-senador-que-pede-insumos-agricolas-mais-baratos-nos-eua-e-diz-que-produtores-brasileiros-pagam-menos-por-sementes.ghtml",
+      "date": "Fri, 04 Sep 2026 11:53:41 -0000"
+    },
+    {
+      "title": "China, grande compradora de frango brasileiro, agora avan\u00E7a nas exporta\u00E7\u00F5es e pode virar concorrente do Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/04/china-brasil-exportacoes-frango.ghtml",
+      "date": "Fri, 04 Sep 2026 11:43:38 -0000"
+    },
+    {
+      "title": "Entenda a reviravolta que levou ao fim da \u0022taxa das blusinhas\u0022",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/04/entenda-a-reviravolta-que-levou-ao-fim-da-taxa-das-blusinhas.ghtml",
+      "date": "Fri, 04 Sep 2026 10:28:28 -0000"
+    },
     {
       "title": "A\u00E9rea japonesa faz novo pedido e eleva para 23 encomenda de aeronaves da Embraer",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/04/aerea-japonesa-faz-novo-pedido-e-eleva-para-23-encomenda-de-aeronaves-da-embraer.ghtml",
       "date": "Fri, 04 Sep 2026 08:56:43 -0000"
-    },
-    {
-      "title": "Como ser\u00E1 viajar no jato da Embraer que consegue pousar sozinho ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/04/como-sera-viajar-no-jato-da-embraer-que-consegue-pousar-sozinho.ghtml",
-      "date": "Fri, 04 Sep 2026 08:12:31 -0000"
-    },
-    {
-      "title": "Efeito China: pre\u00E7os de carros usados caem at\u00E9 20% com enxurrada de novos modelos chineses",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/04/efeito-china-precos-de-carros-usados-caem-ate-20percent-com-enxurrada-de-novos-modelos-chineses.ghtml",
-      "date": "Fri, 04 Sep 2026 07:00:00 -0000"
-    },
-    {
-      "title": "Por que Brasil e EUA devem trilh\u00F5es \u2014 e quem empresta esse dinheiro aos governos?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/09/04/quem-empresta-dinheiro-a-governos.ghtml",
-      "date": "Fri, 04 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Vai trabalhar no feriado de 7 de Setembro? Veja se d\u00E1 para emendar e quais s\u00E3o seus direitos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/04/vai-trabalhar-no-feriado-de-7-de-setembro-veja-se-da-para-emendar-e-quais-sao-seus-direitos.ghtml",
-      "date": "Fri, 04 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Mega-Sena 3053 acumula e pr\u00EAmio vai a R$ 48 milh\u00F5es; confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/03/mega-sena-concurso-3053-confira-os-numeros-sorteados.ghtml",
-      "date": "Fri, 04 Sep 2026 00:03:58 -0000"
-    },
-    {
-      "title": "Apple \u00E9 processada nos EUA por patentes de reconhecimento facial em iPhones",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/apple-e-processada-nos-eua-por-patentes-de-autenticacao-facial-em-iphones.ghtml",
-      "date": "Thu, 03 Sep 2026 23:42:15 -0000"
-    },
-    {
-      "title": "Nestl\u00E9 vai abrir f\u00E1brica de f\u00F3rmulas infantis em MG com investimento de R$ 600 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/03/nova-fabrica-da-nestle-em-ituiutaba-vai-gerar-cerca-de-700-empregos-durante-as-obras.ghtml",
-      "date": "Thu, 03 Sep 2026 22:38:09 -0000"
-    },
-    {
-      "title": "Taxa das blusinhas: calculadora do g1 mostra quanto voc\u00EA pagaria com ou sem o imposto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/03/calculadora-do-g1-taxa-das-blusinhas.ghtml",
-      "date": "Thu, 03 Sep 2026 21:11:07 -0000"
-    },
-    {
-      "title": "Congresso aprova fim da \u0027taxa das blusinhas\u0027: como ficam as compras internacionais de at\u00E9 US$ 50?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/03/taxa-das-blusinhas-como-ficam-as-compras-internacionais-de-ate-us-50.ghtml",
-      "date": "Thu, 03 Sep 2026 21:10:41 -0000"
     }
   ]
 }
