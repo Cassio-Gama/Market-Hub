@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 184282.4,
-      "change": -0.49,
-      "changeStr": "-0.49%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 47,
-      "change": -1.18,
-      "changeStr": "-1.18%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 78.43,
-      "change": -0.03,
-      "changeStr": "-0.03%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 41.7,
-      "change": -0.52,
-      "changeStr": "-0.52%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 17.75,
-      "change": -0.22,
-      "changeStr": "-0.22%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 22.23,
-      "change": -0.98,
-      "changeStr": "-0.98%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 5.69,
-      "change": 2.34,
-      "changeStr": "\u002B2.34%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 15.78,
+      "price": 185420.05,
       "change": 0.13,
       "changeStr": "\u002B0.13%"
     },
     {
+      "symbol": "PETR4",
+      "price": 47.01,
+      "change": -1.16,
+      "changeStr": "-1.16%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 79.15,
+      "change": 0.89,
+      "changeStr": "\u002B0.89%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 42,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 17.84,
+      "change": 0.28,
+      "changeStr": "\u002B0.28%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 22.54,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 5.78,
+      "change": 3.96,
+      "changeStr": "\u002B3.96%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 15.74,
+      "change": -0.13,
+      "changeStr": "-0.13%"
+    },
+    {
       "symbol": "WEGE3",
-      "price": 51.97,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 52.1,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
     }
   ],
   "news": [
+    {
+      "title": "Balan\u00E7a comercial tem super\u00E1vit de US$ 7,4 bilh\u00F5es em agosto, maior para o m\u00EAs em tr\u00EAs anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/04/balanca-comercial-tem-superavit-de-us-74-bilhoes-em-agosto.ghtml",
+      "date": "Fri, 04 Sep 2026 18:00:00 -0000"
+    },
+    {
+      "title": "Depois de um dia de lan\u00E7amento, t\u00E1xis sem motorista da Tesla s\u00E3o investigados nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/04/depois-de-um-dia-de-lancamento-taxis-sem-motorista-da-tesla-sao-investigados-nos-eua.ghtml",
+      "date": "Fri, 04 Sep 2026 17:22:23 -0000"
+    },
+    {
+      "title": "Musk tenta barrar lei contra nudes falsos feitos por IA, mas juiz mant\u00E9m proibi\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/04/musk-tenta-barrar-lei-contra-nudes-falsos-feitos-por-ia-mas-juiz-mantem-proibicao.ghtml",
+      "date": "Fri, 04 Sep 2026 17:09:24 -0000"
+    },
+    {
+      "title": "Agentes de IA da OpenAI invadem site alem\u00E3o e criam f\u00F3rum para burlar regras da pr\u00F3pria empresa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/04/agentes-de-ia-da-openai-invadem-site-alemao-e-criam-forum-para-burlar-regras-da-propria-empresa.ghtml",
+      "date": "Fri, 04 Sep 2026 15:46:02 -0000"
+    },
+    {
+      "title": "Ibama autoriza Petrobras a perfurar tr\u00EAs novos po\u00E7os na Foz do Amazonas\n ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/04/ibama-petrobras-amazonas.ghtml",
+      "date": "Fri, 04 Sep 2026 14:25:03 -0000"
+    },
     {
       "title": "Aprenda a cultivar pitaia",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/09/04/cadillac-inicia-pre-venda-no-brasil.ghtml",
       "date": "Fri, 04 Sep 2026 12:37:08 -0000"
-    },
-    {
-      "title": "D\u00F3lar tem leve alta ap\u00F3s pesquisa eleitoral e dados de emprego dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/04/dolar-ibovespa.ghtml",
-      "date": "Fri, 04 Sep 2026 12:00:00 -0000"
-    },
-    {
-      "title": "Trump posta mensagem de senador dos EUA que diz que agricultores brasileiros pagam menos por sementes de milho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/04/trump-publica-mensagem-de-senador-que-pede-insumos-agricolas-mais-baratos-nos-eua-e-diz-que-produtores-brasileiros-pagam-menos-por-sementes.ghtml",
-      "date": "Fri, 04 Sep 2026 11:53:41 -0000"
-    },
-    {
-      "title": "China, grande compradora de frango brasileiro, agora avan\u00E7a nas exporta\u00E7\u00F5es e pode virar concorrente do Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/04/china-brasil-exportacoes-frango.ghtml",
-      "date": "Fri, 04 Sep 2026 11:43:38 -0000"
-    },
-    {
-      "title": "Entenda a reviravolta que levou ao fim da \u0022taxa das blusinhas\u0022",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/04/entenda-a-reviravolta-que-levou-ao-fim-da-taxa-das-blusinhas.ghtml",
-      "date": "Fri, 04 Sep 2026 10:28:28 -0000"
-    },
-    {
-      "title": "A\u00E9rea japonesa faz novo pedido e eleva para 23 encomenda de aeronaves da Embraer",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/04/aerea-japonesa-faz-novo-pedido-e-eleva-para-23-encomenda-de-aeronaves-da-embraer.ghtml",
-      "date": "Fri, 04 Sep 2026 08:56:43 -0000"
     }
   ]
 }
