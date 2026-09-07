@@ -57,6 +57,12 @@
   ],
   "news": [
     {
+      "title": "Em uma semana, Andr\u00E9 Mendon\u00E7a dispara e conquista 1,3 milh\u00E3o de seguidores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/09/07/em-uma-semana-andre-mendonca-dispara-e-conquista-13-milhao-de-seguidores.ghtml",
+      "date": "Mon, 07 Sep 2026 21:39:22 -0000"
+    },
+    {
       "title": "Trump amea\u00E7a impedir Bombardier de vender avi\u00F5es nos EUA se empresa canadense n\u00E3o passar a produzir no pa\u00EDs",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/07/trump-ameaca-impedir-bombardier-de-vender-avioes-nos-eua-se-empresa-canadense-nao-passar-a-produzir-no-pais.ghtml",
@@ -69,7 +75,7 @@
       "date": "Mon, 07 Sep 2026 19:25:12 -0000"
     },
     {
-      "title": "C\u00FApula na Fran\u00E7a re\u00FAne autoridades e empresas para debater o futuro da produ\u00E7\u00E3o audiovisual",
+      "title": "C\u00FApula na Fran\u00E7a re\u00FAne autoridades, entidades e empresas para debater o futuro da produ\u00E7\u00E3o audiovisual",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/09/07/cupula-na-franca-reune-autoridades-e-empresas-para-debater-o-futuro-da-imagem.ghtml",
       "date": "Mon, 07 Sep 2026 17:57:56 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/06/mega-sena-concurso-3054-confira-os-numeros-sorteados.ghtml",
       "date": "Sun, 06 Sep 2026 14:01:45 -0000"
-    },
-    {
-      "title": "Baixo lucro em safra de urucum preocupa produtores da Nova Alta Paulista",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/06/baixo-lucro-em-safra-de-urucum-preocupa-produtores-da-nova-alta-paulista.ghtml",
-      "date": "Sun, 06 Sep 2026 10:30:00 -0000"
     }
   ]
 }
