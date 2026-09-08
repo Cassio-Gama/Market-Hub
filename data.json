@@ -57,13 +57,25 @@
   ],
   "news": [
     {
+      "title": "iPhone 18: Apple deve lan\u00E7ar celular dobr\u00E1vel nesta quarta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
+      "date": "Tue, 08 Sep 2026 23:33:39 -0000"
+    },
+    {
+      "title": "CVM condena Vorcaro a multa de R$ 20 milh\u00F5es por fraude; Banco Master ter\u00E1 de pagar R$ 12 milh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/08/cvm-condena-vorcaro-banco-fraude.ghtml",
+      "date": "Tue, 08 Sep 2026 22:00:46 -0000"
+    },
+    {
       "title": "Autorregula\u00E7\u00E3o do consignado j\u00E1 aplicou mais de 2,2 mil puni\u00E7\u00F5es por abusos contra aposentados, diz Febraban",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/08/autorregulacao-do-consignado-ja-aplicou-mais-de-22-mil-punicoes-por-abusos-contra-aposentados-diz-febraban.ghtml",
       "date": "Tue, 08 Sep 2026 20:40:10 -0000"
     },
     {
-      "title": "Petr\u00F3leo encosta em US$ 100, nova m\u00E1xima em seis semanas, ap\u00F3s ataque na Ar\u00E1bia Saudita",
+      "title": "Petr\u00F3leo chega perto de US$ 100 e bate m\u00E1xima em 6 semanas ap\u00F3s ataque \u00E0 Ar\u00E1bia Saudita",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/08/petroleo-encosta-em-us-100-nova-maxima-em-seis-semanas-apos-ataque-de-houthis-na-arabia-saudita.ghtml",
       "date": "Tue, 08 Sep 2026 20:26:05 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/08/australia-redes-algoritmos.ghtml",
       "date": "Tue, 08 Sep 2026 17:19:15 -0000"
-    },
-    {
-      "title": "Elon Musk ganha document\u00E1rio de 4 horas com vers\u00E3o do bilion\u00E1rio criada por IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/08/musk-documentario-de-4-horas.ghtml",
-      "date": "Tue, 08 Sep 2026 14:58:13 -0000"
-    },
-    {
-      "title": "Efeito China: mais da metade dos carros importados pelo Brasil j\u00E1 vem do pa\u00EDs asi\u00E1tico, diz a Anfavea",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/08/resultado-producao-anfavea.ghtml",
-      "date": "Tue, 08 Sep 2026 14:00:01 -0000"
     }
   ]
 }
