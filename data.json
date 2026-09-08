@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 188126.56,
-      "change": 1.61,
-      "changeStr": "\u002B1.61%"
+      "price": 187366.84,
+      "change": 1.2,
+      "changeStr": "\u002B1.20%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.94,
-      "change": 1.76,
-      "changeStr": "\u002B1.76%"
+      "price": 48.09,
+      "change": 2.08,
+      "changeStr": "\u002B2.08%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.85,
-      "change": 1.56,
-      "changeStr": "\u002B1.56%"
+      "price": 79.02,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.57,
-      "change": 1.55,
-      "changeStr": "\u002B1.55%"
+      "price": 42.43,
+      "change": 1.22,
+      "changeStr": "\u002B1.22%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.31,
-      "change": 2.29,
-      "changeStr": "\u002B2.29%"
+      "price": 18.22,
+      "change": 1.79,
+      "changeStr": "\u002B1.79%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.81,
-      "change": 1.29,
-      "changeStr": "\u002B1.29%"
+      "price": 22.6,
+      "change": 0.36,
+      "changeStr": "\u002B0.36%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.88,
-      "change": 1.55,
-      "changeStr": "\u002B1.55%"
+      "price": 5.83,
+      "change": 0.69,
+      "changeStr": "\u002B0.69%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.81,
-      "change": 0.44,
-      "changeStr": "\u002B0.44%"
+      "price": 15.82,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.9,
-      "change": 2.24,
-      "changeStr": "\u002B2.24%"
+      "price": 52.65,
+      "change": 1.76,
+      "changeStr": "\u002B1.76%"
     }
   ],
   "news": [
+    {
+      "title": "Autorregula\u00E7\u00E3o do consignado j\u00E1 aplicou mais de 2,2 mil puni\u00E7\u00F5es por abusos contra aposentados, diz Febraban",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/08/autorregulacao-do-consignado-ja-aplicou-mais-de-22-mil-punicoes-por-abusos-contra-aposentados-diz-febraban.ghtml",
+      "date": "Tue, 08 Sep 2026 20:40:10 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo encosta em US$ 100, nova m\u00E1xima em seis semanas, ap\u00F3s ataque na Ar\u00E1bia Saudita",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/08/petroleo-encosta-em-us-100-nova-maxima-em-seis-semanas-apos-ataque-de-houthis-na-arabia-saudita.ghtml",
+      "date": "Tue, 08 Sep 2026 20:26:05 -0000"
+    },
+    {
+      "title": "Meta lan\u00E7a o Muse, assistente de IA que acessa aplicativos, envia e-mails e faz pagamentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/08/meta-lanca-agente-ia-muse.ghtml",
+      "date": "Tue, 08 Sep 2026 20:00:34 -0000"
+    },
+    {
+      "title": "Ex-banqueiro su\u00ED\u00E7o admite pagar R$ 500 milh\u00F5es em propina e recebe pena de 2 anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/08/ex-banqueiro-suico-admite-pagar-r-500-milhoes-em-propina-e-recebe-pena-de-2-anos.ghtml",
+      "date": "Tue, 08 Sep 2026 19:43:59 -0000"
+    },
+    {
+      "title": "Receita barra mais de R$ 1 bilh\u00E3o em pedidos suspeitos de reembolso de sal\u00E1rio-maternidade",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/08/receita-barra-r-1-bilhao-em-pedidos-suspeitos-de-salario-maternidade.ghtml",
+      "date": "Tue, 08 Sep 2026 18:39:57 -0000"
+    },
     {
       "title": "EUA acusam empresas chinesas de IA de copiar modelos avan\u00E7ados para reduzir custos",
       "source": "G1 Economia",
@@ -63,58 +93,28 @@
       "date": "Tue, 08 Sep 2026 17:57:12 -0000"
     },
     {
-      "title": "Volkswagen prepara nova van para o Brasil em parceria com gigante chinesa",
+      "title": "Volkswagen prepara van com \u2018esp\u00EDrito de Kombi\u2019 para o Brasil em parceria com gigante chinesa",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/09/08/volkswagen-prepara-nova-van-para-o-brasil-em-parceria-com-gigante-chinesa.ghtml",
       "date": "Tue, 08 Sep 2026 17:50:58 -0000"
     },
     {
-      "title": "\u0027Meu Feed, Meu Jeito\u0027: Austr\u00E1lia prop\u00F5e que usu\u00E1rios escolham o que aparece nas redes sociais",
+      "title": "\u0027Meu Feed, Meu Jeito\u0027: Austr\u00E1lia quer dar a usu\u00E1rios op\u00E7\u00E3o de \u0027desligar\u0027 algoritmo das redes sociais",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/08/australia-redes-algoritmos.ghtml",
       "date": "Tue, 08 Sep 2026 17:19:15 -0000"
+    },
+    {
+      "title": "Elon Musk ganha document\u00E1rio de 4 horas com vers\u00E3o do bilion\u00E1rio criada por IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/08/musk-documentario-de-4-horas.ghtml",
+      "date": "Tue, 08 Sep 2026 14:58:13 -0000"
     },
     {
       "title": "Efeito China: mais da metade dos carros importados pelo Brasil j\u00E1 vem do pa\u00EDs asi\u00E1tico, diz a Anfavea",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/09/08/resultado-producao-anfavea.ghtml",
       "date": "Tue, 08 Sep 2026 14:00:01 -0000"
-    },
-    {
-      "title": "Mobiliza\u00E7\u00E3o de ministros aposentados pressiona Fachin",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/09/08/mobilizacao-de-ministros-aposentados-pressiona-fachin.ghtml",
-      "date": "Tue, 08 Sep 2026 12:43:45 -0000"
-    },
-    {
-      "title": "Grindr aceita pagar R$ 180 milh\u00F5es para encerrar a\u00E7\u00E3o no Reino Unido por vazamento de dados, diz jornal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/08/grindr-aceita-acordo-reino-unido.ghtml",
-      "date": "Tue, 08 Sep 2026 12:40:14 -0000"
-    },
-    {
-      "title": "\u0027Dinheiro esquecido\u0027: BC diz que R$ 5,6 bilh\u00F5es podem ser resgatados; 23,6 milh\u00F5es de pessoas t\u00EAm direito",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/08/dinheiro-esquecido-bc-diz-que-r-56-bilhoes-podem-ser-resgatados-236-milhoes-de-pessoas-tem-direito.ghtml",
-      "date": "Tue, 08 Sep 2026 12:37:37 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda, de olho em alta do petr\u00F3leo e cen\u00E1rio eleitoral; Ibovespa sobe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/08/dolar-ibovespa.ghtml",
-      "date": "Tue, 08 Sep 2026 12:00:14 -0000"
-    },
-    {
-      "title": "Ford do Brasil faz recall da Ranger Raptor por poss\u00EDvel problema em airbags laterais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/08/recall-ford-ranger-raptor.ghtml",
-      "date": "Tue, 08 Sep 2026 11:40:35 -0000"
-    },
-    {
-      "title": "Mercado financeiro reduz estimativa de infla\u00E7\u00E3o para 5% e eleva proje\u00E7\u00E3o de crescimento da economia em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/08/mercado-financeiro-reduz-estimativa-de-inflacao-para-5percent-e-eleva-projecao-de-crescimento-da-economia-em-2026.ghtml",
-      "date": "Tue, 08 Sep 2026 11:30:39 -0000"
     }
   ]
 }
