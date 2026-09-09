@@ -2,68 +2,86 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185404.11,
-      "change": -1.05,
-      "changeStr": "-1.05%"
+      "price": 185629.05,
+      "change": -0.93,
+      "changeStr": "-0.93%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.6,
-      "change": 1.06,
-      "changeStr": "\u002B1.06%"
+      "price": 48.42,
+      "change": 0.69,
+      "changeStr": "\u002B0.69%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.72,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 79.1,
+      "change": 0.1,
+      "changeStr": "\u002B0.10%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.81,
-      "change": -1.46,
-      "changeStr": "-1.46%"
+      "price": 41.59,
+      "change": -1.98,
+      "changeStr": "-1.98%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.9,
-      "change": -1.76,
-      "changeStr": "-1.76%"
+      "price": 17.79,
+      "change": -2.36,
+      "changeStr": "-2.36%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.11,
-      "change": -2.17,
-      "changeStr": "-2.17%"
+      "price": 22.18,
+      "change": -1.86,
+      "changeStr": "-1.86%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.67,
-      "change": -2.74,
-      "changeStr": "-2.74%"
+      "price": 5.57,
+      "change": -4.46,
+      "changeStr": "-4.46%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.56,
-      "change": -1.64,
-      "changeStr": "-1.64%"
+      "price": 15.58,
+      "change": -1.52,
+      "changeStr": "-1.52%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.65,
-      "change": -1.9,
-      "changeStr": "-1.90%"
+      "price": 51.69,
+      "change": -1.82,
+      "changeStr": "-1.82%"
     }
   ],
   "news": [
     {
-      "title": "Apple lan\u00E7a primeiro iPhone dobr\u00E1vel e novos iPhone 18 Pro e Pro Max",
+      "title": "Biocombust\u00EDvel: chuvas at\u00EDpicas impulsionam pre\u00E7os do etanol mesmo com estoque robusto no mercado paulista, analisa USP",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
-      "date": "Wed, 09 Sep 2026 18:16:42 -0000"
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/09/biocombustivel-chuvas-atipicas-impulsionam-precos-do-etanol-em-setembro-mesmo-com-estoque-robusto-no-mercado-paulista-analisa-usp.ghtml",
+      "date": "Wed, 09 Sep 2026 20:55:18 -0000"
     },
     {
-      "title": "Apple apresenta o iPhone Duo por US$ 2 mil, primeiro celular dobr\u00E1vel da marca",
+      "title": "Apple lan\u00E7a iPhone Duo, seu primeiro celular dobr\u00E1vel, e novos 18 Pro e Pro Max",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
+      "date": "Wed, 09 Sep 2026 20:21:50 -0000"
+    },
+    {
+      "title": "Lula assina decreto que reduz tributos sobre gasolina e MP que cria subs\u00EDdio para diesel",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/09/lula-assina-decreto-que-reduz-tributos-sobre-gasolina-e-mp-que-cria-subsidio-para-diesel.ghtml",
+      "date": "Wed, 09 Sep 2026 19:30:31 -0000"
+    },
+    {
+      "title": "Apple lan\u00E7a iPhone dobr\u00E1vel de R$ 30.999 e web reage; veja memes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/iphone-18-memes.ghtml",
+      "date": "Wed, 09 Sep 2026 19:02:59 -0000"
+    },
+    {
+      "title": "Apple lan\u00E7a o iPhone Duo, primeiro celular dobr\u00E1vel da marca, por at\u00E9 R$ 30.999",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-dobravel.ghtml",
       "date": "Wed, 09 Sep 2026 17:54:14 -0000"
@@ -75,7 +93,7 @@
       "date": "Wed, 09 Sep 2026 17:33:39 -0000"
     },
     {
-      "title": "Apple lan\u00E7a iPhone dobr\u00E1vel e novos iPhone 18 Pro e Pro Max; veja novidades e pre\u00E7os nos EUA",
+      "title": "Apple lan\u00E7a primeiro iPhone dobr\u00E1vel e novos 18 Pro e Pro Max; veja as novidades e pre\u00E7os no Brasil",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-18-lancamento.ghtml",
       "date": "Wed, 09 Sep 2026 17:00:00 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/09/09/nova-cnh-carro-particular-stf.ghtml",
       "date": "Wed, 09 Sep 2026 15:28:18 -0000"
-    },
-    {
-      "title": "Meta come\u00E7a a testar substituto da checagem de fatos na Am\u00E9rica Latina",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/meta-facebook-notas-da-comunidade.ghtml",
-      "date": "Wed, 09 Sep 2026 14:49:41 -0000"
-    },
-    {
-      "title": "Governo destina R$ 6,6 bilh\u00F5es em subs\u00EDdios \u00E0 produ\u00E7\u00E3o e importa\u00E7\u00E3o de combust\u00EDveis; guerra no Oriente M\u00E9dio elevou pre\u00E7os",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/09/governo-destina-r-66-bilhoes-em-subsidios-a-producao-e-importacao-de-combustiveis-guerra-no-oriente-medio-elevou-precos.ghtml",
-      "date": "Wed, 09 Sep 2026 14:41:31 -0000"
-    },
-    {
-      "title": "Opera\u00E7\u00E3o nacional resgata quase 500 trabalhadores em situa\u00E7\u00E3o an\u00E1loga \u00E0 escravid\u00E3o em agosto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/09/operacao-nacional-resgata-trabalhadores-em-situacao-analoga-a-escravidao.ghtml",
-      "date": "Wed, 09 Sep 2026 14:00:01 -0000"
     }
   ]
 }
