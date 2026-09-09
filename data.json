@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187366.84,
-      "change": 1.2,
-      "changeStr": "\u002B1.20%"
+      "price": 186628.17,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.09,
-      "change": 2.08,
-      "changeStr": "\u002B2.08%"
+      "price": 48.76,
+      "change": 1.39,
+      "changeStr": "\u002B1.39%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.02,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
+      "price": 79.95,
+      "change": 1.18,
+      "changeStr": "\u002B1.18%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.43,
-      "change": 1.22,
-      "changeStr": "\u002B1.22%"
+      "price": 41.81,
+      "change": -1.46,
+      "changeStr": "-1.46%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.22,
-      "change": 1.79,
-      "changeStr": "\u002B1.79%"
+      "price": 17.95,
+      "change": -1.48,
+      "changeStr": "-1.48%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.6,
-      "change": 0.36,
-      "changeStr": "\u002B0.36%"
+      "price": 22.34,
+      "change": -1.15,
+      "changeStr": "-1.15%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.83,
-      "change": 0.69,
-      "changeStr": "\u002B0.69%"
+      "price": 5.75,
+      "change": -1.37,
+      "changeStr": "-1.37%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.82,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
+      "price": 15.64,
+      "change": -1.14,
+      "changeStr": "-1.14%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.65,
-      "change": 1.76,
-      "changeStr": "\u002B1.76%"
+      "price": 51.73,
+      "change": -1.75,
+      "changeStr": "-1.75%"
     }
   ],
   "news": [
+    {
+      "title": "Opera\u00E7\u00E3o nacional resgata quase 500 trabalhadores em situa\u00E7\u00E3o an\u00E1loga \u00E0 escravid\u00E3o em agosto",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/09/operacao-nacional-resgata-trabalhadores-em-situacao-analoga-a-escravidao.ghtml",
+      "date": "Wed, 09 Sep 2026 14:00:01 -0000"
+    },
+    {
+      "title": "Etanol do posto pode receber corante verde e gosto amargo para n\u00E3o ser usado em bebidas falsas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/09/anp-medidas-etanol-combustivel-em-bebidas.ghtml",
+      "date": "Wed, 09 Sep 2026 13:48:20 -0000"
+    },
+    {
+      "title": "Uber libera v\u00EDdeo ao vivo para pais em viagens de filhos adolescentes; veja como vai funcionar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/uber-video-ao-vivo-pais-adolescentes.ghtml",
+      "date": "Wed, 09 Sep 2026 13:00:01 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta com petr\u00F3leo acima de US$ 100; Ibovespa cai com cen\u00E1rio pol\u00EDtico no foco",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/09/dolar-ibovespa.ghtml",
+      "date": "Wed, 09 Sep 2026 12:00:00 -0000"
+    },
+    {
+      "title": "Messi acerta compra de time da 2\u00AA divis\u00E3o da Espanha e amplia neg\u00F3cios no futebol",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/09/messi-compra-time-da-segunda-divisao-da-espanha.ghtml",
+      "date": "Wed, 09 Sep 2026 11:30:54 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo supera US$ 100 pela primeira vez em mais de um m\u00EAs com aumento das tens\u00F5es no Oriente M\u00E9dio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/09/petroleo-oriente-medio.ghtml",
+      "date": "Wed, 09 Sep 2026 11:21:31 -0000"
+    },
+    {
+      "title": "Ex-pesquisador da OpenAI e da Anthropic acusa empresas de \u0027brincar com vidas\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/ex-pesquisador-da-openai-e-da-anthropic-acusa-empresas-de-brincar-com-vidas.ghtml",
+      "date": "Wed, 09 Sep 2026 11:00:39 -0000"
+    },
     {
       "title": "Ind\u00FAstrias e grandes empresas v\u00E3o investir R$ 1,1 bi em expans\u00E3o e novos neg\u00F3cios em S\u00E3o Mateus ",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/guia/guia-de-compras/promocoes-de-99-como-evitar-problemas-nas-compras-em-datas-duplas-das-lojas.ghtml",
       "date": "Wed, 09 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Apple deve lan\u00E7ar primeiro iPhone dobr\u00E1vel nesta quarta; relembre as mudan\u00E7as de gera\u00E7\u00F5es passadas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-deve-lancar-primeiro-iphone-dobravel-nesta-quarta.ghtml",
-      "date": "Wed, 09 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "EUA v\u00E3o proibir importa\u00E7\u00E3o de latic\u00EDnios, bebidas alco\u00F3licas e motocicletas do Canad\u00E1",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/08/eua-canada-importacao.ghtml",
-      "date": "Wed, 09 Sep 2026 00:22:30 -0000"
-    },
-    {
-      "title": "Mega-Sena 3055 acumula e pr\u00EAmio vai a R$ 76 milh\u00F5es; confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/08/mega-sena-concurso-3055-confira-os-numeros-sorteados.ghtml",
-      "date": "Wed, 09 Sep 2026 00:02:53 -0000"
-    },
-    {
-      "title": "iPhone 18: Apple deve lan\u00E7ar celular dobr\u00E1vel nesta quarta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
-      "date": "Tue, 08 Sep 2026 23:33:39 -0000"
-    },
-    {
-      "title": "CVM condena Vorcaro a multa de R$ 20 milh\u00F5es por fraude; Banco Master ter\u00E1 de pagar R$ 12 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/08/cvm-condena-vorcaro-banco-fraude.ghtml",
-      "date": "Tue, 08 Sep 2026 22:00:46 -0000"
-    },
-    {
-      "title": "Autorregula\u00E7\u00E3o do consignado j\u00E1 aplicou mais de 2,2 mil puni\u00E7\u00F5es por abusos contra aposentados, diz Febraban",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/08/autorregulacao-do-consignado-ja-aplicou-mais-de-22-mil-punicoes-por-abusos-contra-aposentados-diz-febraban.ghtml",
-      "date": "Tue, 08 Sep 2026 20:40:10 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo chega perto de US$ 100 e bate m\u00E1xima em 6 semanas ap\u00F3s ataque \u00E0 Ar\u00E1bia Saudita",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/08/petroleo-encosta-em-us-100-nova-maxima-em-seis-semanas-apos-ataque-de-houthis-na-arabia-saudita.ghtml",
-      "date": "Tue, 08 Sep 2026 20:26:05 -0000"
     }
   ]
 }
