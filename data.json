@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186628.17,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 185404.11,
+      "change": -1.05,
+      "changeStr": "-1.05%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.76,
-      "change": 1.39,
-      "changeStr": "\u002B1.39%"
+      "price": 48.6,
+      "change": 1.06,
+      "changeStr": "\u002B1.06%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.95,
-      "change": 1.18,
-      "changeStr": "\u002B1.18%"
+      "price": 78.72,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "ITUB4",
@@ -26,95 +26,95 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 17.95,
-      "change": -1.48,
-      "changeStr": "-1.48%"
+      "price": 17.9,
+      "change": -1.76,
+      "changeStr": "-1.76%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.34,
-      "change": -1.15,
-      "changeStr": "-1.15%"
+      "price": 22.11,
+      "change": -2.17,
+      "changeStr": "-2.17%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.75,
-      "change": -1.37,
-      "changeStr": "-1.37%"
+      "price": 5.67,
+      "change": -2.74,
+      "changeStr": "-2.74%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.64,
-      "change": -1.14,
-      "changeStr": "-1.14%"
+      "price": 15.56,
+      "change": -1.64,
+      "changeStr": "-1.64%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.73,
-      "change": -1.75,
-      "changeStr": "-1.75%"
+      "price": 51.65,
+      "change": -1.9,
+      "changeStr": "-1.90%"
     }
   ],
   "news": [
+    {
+      "title": "Apple lan\u00E7a primeiro iPhone dobr\u00E1vel e novos iPhone 18 Pro e Pro Max",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
+      "date": "Wed, 09 Sep 2026 18:16:42 -0000"
+    },
+    {
+      "title": "Apple apresenta o iPhone Duo por US$ 2 mil, primeiro celular dobr\u00E1vel da marca",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-dobravel.ghtml",
+      "date": "Wed, 09 Sep 2026 17:54:14 -0000"
+    },
+    {
+      "title": "Quem \u00E9 o novo CEO da Apple? John Ternus fez 1\u00AA apresenta\u00E7\u00E3o como chefe da empresa em evento de lan\u00E7amento dos novos iPhones",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/quem-e-o-novo-ceo-da-apple-john-ternus.ghtml",
+      "date": "Wed, 09 Sep 2026 17:33:39 -0000"
+    },
+    {
+      "title": "Apple lan\u00E7a iPhone dobr\u00E1vel e novos iPhone 18 Pro e Pro Max; veja novidades e pre\u00E7os nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-18-lancamento.ghtml",
+      "date": "Wed, 09 Sep 2026 17:00:00 -0000"
+    },
+    {
+      "title": "Brasil pode ficar com at\u00E9 40% da nova cota de importa\u00E7\u00E3o de carne bovina dos EUA; entenda\n",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/09/brasil-eua-cota-carne.ghtml",
+      "date": "Wed, 09 Sep 2026 16:45:31 -0000"
+    },
+    {
+      "title": "EUA acusam empresas chinesas de usar IA americana para acelerar desenvolvimento; China rebate ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/eua-acusam-empresas-chinesas-de-usar-ia-americana-para-acelerar-desenvolvimento-china-rebate-e-fala-em-dois-pesos-e-duas-medidas.ghtml",
+      "date": "Wed, 09 Sep 2026 16:16:58 -0000"
+    },
+    {
+      "title": "Nova CNH: STF arquiva a\u00E7\u00E3o e permite uso de carro particular no exame de dire\u00E7\u00E3o ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/09/nova-cnh-carro-particular-stf.ghtml",
+      "date": "Wed, 09 Sep 2026 15:28:18 -0000"
+    },
+    {
+      "title": "Meta come\u00E7a a testar substituto da checagem de fatos na Am\u00E9rica Latina",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/meta-facebook-notas-da-comunidade.ghtml",
+      "date": "Wed, 09 Sep 2026 14:49:41 -0000"
+    },
+    {
+      "title": "Governo destina R$ 6,6 bilh\u00F5es em subs\u00EDdios \u00E0 produ\u00E7\u00E3o e importa\u00E7\u00E3o de combust\u00EDveis; guerra no Oriente M\u00E9dio elevou pre\u00E7os",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/09/governo-destina-r-66-bilhoes-em-subsidios-a-producao-e-importacao-de-combustiveis-guerra-no-oriente-medio-elevou-precos.ghtml",
+      "date": "Wed, 09 Sep 2026 14:41:31 -0000"
+    },
     {
       "title": "Opera\u00E7\u00E3o nacional resgata quase 500 trabalhadores em situa\u00E7\u00E3o an\u00E1loga \u00E0 escravid\u00E3o em agosto",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/09/operacao-nacional-resgata-trabalhadores-em-situacao-analoga-a-escravidao.ghtml",
       "date": "Wed, 09 Sep 2026 14:00:01 -0000"
-    },
-    {
-      "title": "Etanol do posto pode receber corante verde e gosto amargo para n\u00E3o ser usado em bebidas falsas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/09/anp-medidas-etanol-combustivel-em-bebidas.ghtml",
-      "date": "Wed, 09 Sep 2026 13:48:20 -0000"
-    },
-    {
-      "title": "Uber libera v\u00EDdeo ao vivo para pais em viagens de filhos adolescentes; veja como vai funcionar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/uber-video-ao-vivo-pais-adolescentes.ghtml",
-      "date": "Wed, 09 Sep 2026 13:00:01 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta com petr\u00F3leo acima de US$ 100; Ibovespa cai com cen\u00E1rio pol\u00EDtico no foco",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/09/dolar-ibovespa.ghtml",
-      "date": "Wed, 09 Sep 2026 12:00:00 -0000"
-    },
-    {
-      "title": "Messi acerta compra de time da 2\u00AA divis\u00E3o da Espanha e amplia neg\u00F3cios no futebol",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/09/messi-compra-time-da-segunda-divisao-da-espanha.ghtml",
-      "date": "Wed, 09 Sep 2026 11:30:54 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo supera US$ 100 pela primeira vez em mais de um m\u00EAs com aumento das tens\u00F5es no Oriente M\u00E9dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/09/petroleo-oriente-medio.ghtml",
-      "date": "Wed, 09 Sep 2026 11:21:31 -0000"
-    },
-    {
-      "title": "Ex-pesquisador da OpenAI e da Anthropic acusa empresas de \u0027brincar com vidas\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/ex-pesquisador-da-openai-e-da-anthropic-acusa-empresas-de-brincar-com-vidas.ghtml",
-      "date": "Wed, 09 Sep 2026 11:00:39 -0000"
-    },
-    {
-      "title": "Ind\u00FAstrias e grandes empresas v\u00E3o investir R$ 1,1 bi em expans\u00E3o e novos neg\u00F3cios em S\u00E3o Mateus ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/09/09/industrias-e-grandes-empresas-vao-investir-r-11-bi-em-expansao-e-novos-negocios-em-sao-mateus.ghtml",
-      "date": "Wed, 09 Sep 2026 07:00:00 -0000"
-    },
-    {
-      "title": "Infesta\u00E7\u00E3o de mosca-do-est\u00E1bulo provoca mortes de animais e causa preju\u00EDzos a pecuaristas em SP",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/09/infestacao-de-mosca-do-estabulo-provoca-mortes-de-animais-e-causa-prejuizos-a-pecuaristas-em-sp.ghtml",
-      "date": "Wed, 09 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Promo\u00E7\u00F5es de 9.9: como evitar problemas nas compras em \u0027datas duplas\u0027 das lojas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/guia/guia-de-compras/promocoes-de-99-como-evitar-problemas-nas-compras-em-datas-duplas-das-lojas.ghtml",
-      "date": "Wed, 09 Sep 2026 06:00:00 -0000"
     }
   ]
 }
