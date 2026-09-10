@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185629.05,
-      "change": -0.93,
-      "changeStr": "-0.93%"
+      "price": 185371.95,
+      "change": -0.14,
+      "changeStr": "-0.14%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.42,
-      "change": 0.69,
-      "changeStr": "\u002B0.69%"
+      "price": 48.84,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     },
     {
       "symbol": "VALE3",
-      "price": 79.1,
-      "change": 0.1,
-      "changeStr": "\u002B0.10%"
+      "price": 77.65,
+      "change": -1.83,
+      "changeStr": "-1.83%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.59,
-      "change": -1.98,
-      "changeStr": "-1.98%"
+      "price": 41.53,
+      "change": -0.14,
+      "changeStr": "-0.14%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.79,
-      "change": -2.36,
-      "changeStr": "-2.36%"
+      "price": 17.87,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.18,
-      "change": -1.86,
-      "changeStr": "-1.86%"
+      "price": 22.23,
+      "change": 0.23,
+      "changeStr": "\u002B0.23%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.57,
-      "change": -4.46,
-      "changeStr": "-4.46%"
+      "price": 5.51,
+      "change": -1.08,
+      "changeStr": "-1.08%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.58,
-      "change": -1.52,
-      "changeStr": "-1.52%"
+      "price": 15.64,
+      "change": 0.39,
+      "changeStr": "\u002B0.39%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.69,
-      "change": -1.82,
-      "changeStr": "-1.82%"
+      "price": 51.86,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     }
   ],
   "news": [
     {
-      "title": "ES ter\u00E1 um dos menores trechos de rodovia federal do Brasil com a inaugura\u00E7\u00E3o da BR-447; veja ranking nacional",
+      "title": "A aposta da Apple ao lan\u00E7ar iPhone dobr\u00E1vel",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/10/es-tera-um-dos-menores-trechos-de-rodovia-federal-do-brasil-com-a-inauguracao-da-br-447-veja-ranking-nacional.ghtml",
-      "date": "Thu, 10 Sep 2026 07:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/10/a-aposta-da-apple-ao-lancar-iphone-dobravel.ghtml",
+      "date": "Thu, 10 Sep 2026 14:06:06 -0000"
     },
     {
-      "title": "g1 20 anos: f\u00E9rias na Lua, rob\u00F4s e IA substituindo o celular podem fazer parte da sua vida at\u00E9 2046",
+      "title": "Fim do desconto da Petrobras: como ficam os pre\u00E7os da gasolina?",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/10/g1-20-anos-como-fica-a-tecnologia.ghtml",
-      "date": "Thu, 10 Sep 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/10/fim-do-desconto-da-petrobras-como-ficam-os-precos-da-gasolina.ghtml",
+      "date": "Thu, 10 Sep 2026 13:40:15 -0000"
     },
     {
-      "title": "G\u00E1s do Povo: quem recebe o voucher de setembro e como consultar pelo CPF",
+      "title": "Ford do Brasil faz recall de Ranger por falha no escape; reparo ser\u00E1 feito s\u00F3 em 2027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/10/gas-do-povo-quem-recebe-o-voucher-de-setembro-e-como-consultar-pelo-cpf.ghtml",
-      "date": "Thu, 10 Sep 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/09/10/ford-brasil-recall-ranger-escape.ghtml",
+      "date": "Thu, 10 Sep 2026 13:05:55 -0000"
     },
     {
-      "title": "Capinha de novo iPhone dobr\u00E1vel chama aten\u00E7\u00E3o pelo pre\u00E7o; veja detalhes",
+      "title": "Conflito no Oriente M\u00E9dio pode encarecer produtos e pressionar infla\u00E7\u00E3o, diz CEO da Nestl\u00E9",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/10/capinha-de-novo-iphone-dobravel-chama-atencao-pelo-preco-veja-detalhes.ghtml",
-      "date": "Thu, 10 Sep 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/10/ceo-da-nestle-diz-que-conflito-no-oriente-medio-provoca-inflacao-e-eleva-custos-de-fornecedores.ghtml",
+      "date": "Thu, 10 Sep 2026 12:27:36 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 76 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "title": "Especialistas e empres\u00E1rios defendem reforma tribut\u00E1ria em carta-manifesto a candidatos \u00E0 Presid\u00EAncia da Rep\u00FAblica",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/10/mega-sena-pode-pagar-r-76-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 10 Sep 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/pr/parana/economia/noticia/2026/09/10/especialistas-e-empresarios-defendem-reforma-tributaria-em-carta-manifesto-a-candidatos-a-presidencia-da-republica.ghtml",
+      "date": "Thu, 10 Sep 2026 12:13:47 -0000"
     },
     {
-      "title": "Apple aumenta pre\u00E7os de iPhones antigos mesmo com chegada de novas vers\u00F5es; veja reajustes",
+      "title": "D\u00F3lar opera em alta, com infla\u00E7\u00E3o dos EUA no radar; Ibovespa cai",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/10/apple-aumenta-precos-de-iphones-antigos-mesmo-com-chegada-de-novas-versoes-veja-reajustes.ghtml",
-      "date": "Thu, 10 Sep 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/10/dolar-ibovespa.ghtml",
+      "date": "Thu, 10 Sep 2026 12:00:14 -0000"
     },
     {
-      "title": "Petrobras eleva pre\u00E7o da gasolina para distribuidoras, mas pre\u00E7o final n\u00E3o deve mudar; entenda",
+      "title": "Caixa entra em greve nacional e Banco do Brasil tem paralisa\u00E7\u00E3o parcial a partir desta quinta-feira",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/09/petrobras-preco-gasolina.ghtml",
-      "date": "Wed, 09 Sep 2026 23:49:11 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/10/caixa-entra-em-greve-nacional-e-banco-do-brasil-tem-paralisacao-parcial-a-partir-desta-quinta-feira.ghtml",
+      "date": "Thu, 10 Sep 2026 11:37:08 -0000"
     },
     {
-      "title": "Leil\u00E3o para nova concess\u00E3o do Aeroporto de Bras\u00EDlia ser\u00E1 em dezembro; veja detalhes do edital",
+      "title": "iOS 27 turbinado com IA ser\u00E1 liberado na pr\u00F3xima segunda; veja iPhones compat\u00EDveis",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/09/leilao-para-nova-concessao-do-aeroporto-de-brasilia-sera-em-dezembro-veja-detalhes-do-edital.ghtml",
-      "date": "Wed, 09 Sep 2026 22:51:05 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/10/ios-27-turbinado-com-ia-sera-liberado-na-proxima-segunda-veja-iphones-compativeis.ghtml",
+      "date": "Thu, 10 Sep 2026 11:24:05 -0000"
     },
     {
-      "title": "Apple lan\u00E7a iPhone Duo, seu primeiro celular dobr\u00E1vel, e os novos 18 Pro e Pro Max",
+      "title": "\u00CDndia vai pressionar por cria\u00E7\u00E3o de moeda digital do BRICS apesar de obst\u00E1culos, diz ag\u00EAncia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
-      "date": "Wed, 09 Sep 2026 22:05:19 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/10/india-criacao-moeda-digital-brics.ghtml",
+      "date": "Thu, 10 Sep 2026 11:09:10 -0000"
     },
     {
-      "title": "Biocombust\u00EDvel: chuvas at\u00EDpicas impulsionam pre\u00E7os do etanol mesmo com estoque robusto no mercado paulista, analisa USP",
+      "title": "Transpetro prorroga inscri\u00E7\u00F5es de concurso com mais de 4 mil vagas e altera data das provas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/09/biocombustivel-chuvas-atipicas-impulsionam-precos-do-etanol-em-setembro-mesmo-com-estoque-robusto-no-mercado-paulista-analisa-usp.ghtml",
-      "date": "Wed, 09 Sep 2026 20:55:18 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/09/10/transpetro-prorrogra-inscricoes-de-concursos-para-terra-e-mar-e-altera-data-das-provas.ghtml",
+      "date": "Thu, 10 Sep 2026 10:27:10 -0000"
     }
   ]
 }
