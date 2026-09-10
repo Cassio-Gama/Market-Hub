@@ -57,16 +57,28 @@
   ],
   "news": [
     {
+      "title": "Petrobras anuncia reajuste nos pre\u00E7os da gasolina para as distribuidoras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/09/petrobras-preco-gasolina.ghtml",
+      "date": "Wed, 09 Sep 2026 23:49:11 -0000"
+    },
+    {
+      "title": "Leil\u00E3o para nova concess\u00E3o do Aeroporto de Bras\u00EDlia ser\u00E1 em dezembro; veja detalhes do edital",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/09/leilao-para-nova-concessao-do-aeroporto-de-brasilia-sera-em-dezembro-veja-detalhes-do-edital.ghtml",
+      "date": "Wed, 09 Sep 2026 22:51:05 -0000"
+    },
+    {
+      "title": "Apple lan\u00E7a iPhone Duo, seu primeiro celular dobr\u00E1vel, e os novos 18 Pro e Pro Max",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
+      "date": "Wed, 09 Sep 2026 22:05:19 -0000"
+    },
+    {
       "title": "Biocombust\u00EDvel: chuvas at\u00EDpicas impulsionam pre\u00E7os do etanol mesmo com estoque robusto no mercado paulista, analisa USP",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/09/biocombustivel-chuvas-atipicas-impulsionam-precos-do-etanol-em-setembro-mesmo-com-estoque-robusto-no-mercado-paulista-analisa-usp.ghtml",
       "date": "Wed, 09 Sep 2026 20:55:18 -0000"
-    },
-    {
-      "title": "Apple lan\u00E7a iPhone Duo, seu primeiro celular dobr\u00E1vel, e novos 18 Pro e Pro Max",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
-      "date": "Wed, 09 Sep 2026 20:21:50 -0000"
     },
     {
       "title": "Lula assina decreto que reduz tributos sobre gasolina e MP que cria subs\u00EDdio para diesel",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/09/brasil-eua-cota-carne.ghtml",
       "date": "Wed, 09 Sep 2026 16:45:31 -0000"
-    },
-    {
-      "title": "EUA acusam empresas chinesas de usar IA americana para acelerar desenvolvimento; China rebate ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/09/eua-acusam-empresas-chinesas-de-usar-ia-americana-para-acelerar-desenvolvimento-china-rebate-e-fala-em-dois-pesos-e-duas-medidas.ghtml",
-      "date": "Wed, 09 Sep 2026 16:16:58 -0000"
-    },
-    {
-      "title": "Nova CNH: STF arquiva a\u00E7\u00E3o e permite uso de carro particular no exame de dire\u00E7\u00E3o ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/09/nova-cnh-carro-particular-stf.ghtml",
-      "date": "Wed, 09 Sep 2026 15:28:18 -0000"
     }
   ]
 }
