@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185371.95,
-      "change": -0.14,
-      "changeStr": "-0.14%"
+      "price": 187518.23,
+      "change": 1.02,
+      "changeStr": "\u002B1.02%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.84,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
+      "price": 49.08,
+      "change": 1.36,
+      "changeStr": "\u002B1.36%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.65,
-      "change": -1.83,
-      "changeStr": "-1.83%"
+      "price": 77.9,
+      "change": -1.52,
+      "changeStr": "-1.52%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.53,
-      "change": -0.14,
-      "changeStr": "-0.14%"
+      "price": 42.37,
+      "change": 1.88,
+      "changeStr": "\u002B1.88%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.87,
-      "change": 0.45,
-      "changeStr": "\u002B0.45%"
+      "price": 18.31,
+      "change": 2.92,
+      "changeStr": "\u002B2.92%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.23,
-      "change": 0.23,
-      "changeStr": "\u002B0.23%"
+      "price": 22.63,
+      "change": 2.03,
+      "changeStr": "\u002B2.03%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.51,
-      "change": -1.08,
-      "changeStr": "-1.08%"
+      "price": 5.86,
+      "change": 5.21,
+      "changeStr": "\u002B5.21%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.64,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 15.69,
+      "change": 0.71,
+      "changeStr": "\u002B0.71%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.86,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
+      "price": 51.95,
+      "change": 0.5,
+      "changeStr": "\u002B0.50%"
     }
   ],
   "news": [
+    {
+      "title": "Nubank come\u00E7a a oferecer servi\u00E7os financeiros nos EUA; veja como vai funcionar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/10/nubank-inicia-servicos-nos-eua-por-conta-poupanca-cartoes-e-remessa.ghtml",
+      "date": "Thu, 10 Sep 2026 17:08:34 -0000"
+    },
+    {
+      "title": "Dinamarca quer proibir celulares nas escolas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/10/dinamarca-quer-proibir-celulares-nas-escolas.ghtml",
+      "date": "Thu, 10 Sep 2026 16:34:31 -0000"
+    },
+    {
+      "title": "Presidente da GM confirma para novembro a produ\u00E7\u00E3o do Chevrolet Captiva h\u00EDbrido no Cear\u00E1",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/10/chevrolet-captiva-phev-ceara-producao.ghtml",
+      "date": "Thu, 10 Sep 2026 14:38:58 -0000"
+    },
     {
       "title": "A aposta da Apple ao lan\u00E7ar iPhone dobr\u00E1vel",
       "source": "G1 Economia",
@@ -87,7 +105,7 @@
       "date": "Thu, 10 Sep 2026 12:13:47 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta, com infla\u00E7\u00E3o dos EUA no radar; Ibovespa cai",
+      "title": "D\u00F3lar opera em queda e Ibovespa sobe com investidores atentos \u00E0 disputa eleitoral",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/10/dolar-ibovespa.ghtml",
       "date": "Thu, 10 Sep 2026 12:00:14 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/10/caixa-entra-em-greve-nacional-e-banco-do-brasil-tem-paralisacao-parcial-a-partir-desta-quinta-feira.ghtml",
       "date": "Thu, 10 Sep 2026 11:37:08 -0000"
-    },
-    {
-      "title": "iOS 27 turbinado com IA ser\u00E1 liberado na pr\u00F3xima segunda; veja iPhones compat\u00EDveis",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/10/ios-27-turbinado-com-ia-sera-liberado-na-proxima-segunda-veja-iphones-compativeis.ghtml",
-      "date": "Thu, 10 Sep 2026 11:24:05 -0000"
-    },
-    {
-      "title": "\u00CDndia vai pressionar por cria\u00E7\u00E3o de moeda digital do BRICS apesar de obst\u00E1culos, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/10/india-criacao-moeda-digital-brics.ghtml",
-      "date": "Thu, 10 Sep 2026 11:09:10 -0000"
-    },
-    {
-      "title": "Transpetro prorroga inscri\u00E7\u00F5es de concurso com mais de 4 mil vagas e altera data das provas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/09/10/transpetro-prorrogra-inscricoes-de-concursos-para-terra-e-mar-e-altera-data-das-provas.ghtml",
-      "date": "Thu, 10 Sep 2026 10:27:10 -0000"
     }
   ]
 }
