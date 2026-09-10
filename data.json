@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187518.23,
-      "change": 1.02,
-      "changeStr": "\u002B1.02%"
+      "price": 188268.6,
+      "change": 1.42,
+      "changeStr": "\u002B1.42%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.08,
-      "change": 1.36,
-      "changeStr": "\u002B1.36%"
+      "price": 49.12,
+      "change": 1.45,
+      "changeStr": "\u002B1.45%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.9,
-      "change": -1.52,
-      "changeStr": "-1.52%"
+      "price": 78.23,
+      "change": -1.1,
+      "changeStr": "-1.10%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.37,
-      "change": 1.88,
-      "changeStr": "\u002B1.88%"
+      "price": 42.35,
+      "change": 1.83,
+      "changeStr": "\u002B1.83%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.31,
-      "change": 2.92,
-      "changeStr": "\u002B2.92%"
+      "price": 18.48,
+      "change": 3.88,
+      "changeStr": "\u002B3.88%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.63,
-      "change": 2.03,
-      "changeStr": "\u002B2.03%"
+      "price": 22.8,
+      "change": 2.8,
+      "changeStr": "\u002B2.80%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.86,
-      "change": 5.21,
-      "changeStr": "\u002B5.21%"
+      "price": 5.94,
+      "change": 6.64,
+      "changeStr": "\u002B6.64%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.69,
-      "change": 0.71,
-      "changeStr": "\u002B0.71%"
+      "price": 15.74,
+      "change": 1.03,
+      "changeStr": "\u002B1.03%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.95,
-      "change": 0.5,
-      "changeStr": "\u002B0.50%"
+      "price": 52.17,
+      "change": 0.93,
+      "changeStr": "\u002B0.93%"
     }
   ],
   "news": [
+    {
+      "title": "Petr\u00F3leo dispara, fecha a US$ 107 e atinge maior n\u00EDvel desde maio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/10/preco-petroleo.ghtml",
+      "date": "Thu, 10 Sep 2026 20:53:17 -0000"
+    },
+    {
+      "title": "Ap\u00F3s sair do ar em maio, R\u00E1dio Eldorado anuncia retorno a partir de outubro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/10/apos-quatro-meses-radio-eldorado-volta-ao-ar.ghtml",
+      "date": "Thu, 10 Sep 2026 19:14:47 -0000"
+    },
+    {
+      "title": "Justi\u00E7a suspende registro de novos agrot\u00F3xicos \u00E0 base de glifosato por 90 dias em todo o pa\u00EDs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/10/justica-suspende-registro-de-novos-agrotoxicos-a-base-de-glifosato-por-90-dias-em-todo-o-pais.ghtml",
+      "date": "Thu, 10 Sep 2026 19:13:29 -0000"
+    },
+    {
+      "title": "Nova CNH: brasileiros economizaram quase R$ 10 bilh\u00F5es com novas regras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/10/nova-cnh-economia-novas-regras.ghtml",
+      "date": "Thu, 10 Sep 2026 19:11:16 -0000"
+    },
+    {
+      "title": "Anthropic diz ter identificado pa\u00EDses que usaram sua IA para fazer propaganda e desenvolver poss\u00EDveis armas biol\u00F3gicas, diz \u0027NYT\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/10/anthropic-diz-ter-identificado-paises-que-usaram-sua-ia-para-fazer-propaganda-e-desenvolver-possiveis-armas-biologicas-diz-nyt.ghtml",
+      "date": "Thu, 10 Sep 2026 18:22:06 -0000"
+    },
     {
       "title": "Nubank come\u00E7a a oferecer servi\u00E7os financeiros nos EUA; veja como vai funcionar",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/10/fim-do-desconto-da-petrobras-como-ficam-os-precos-da-gasolina.ghtml",
       "date": "Thu, 10 Sep 2026 13:40:15 -0000"
-    },
-    {
-      "title": "Ford do Brasil faz recall de Ranger por falha no escape; reparo ser\u00E1 feito s\u00F3 em 2027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/10/ford-brasil-recall-ranger-escape.ghtml",
-      "date": "Thu, 10 Sep 2026 13:05:55 -0000"
-    },
-    {
-      "title": "Conflito no Oriente M\u00E9dio pode encarecer produtos e pressionar infla\u00E7\u00E3o, diz CEO da Nestl\u00E9",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/10/ceo-da-nestle-diz-que-conflito-no-oriente-medio-provoca-inflacao-e-eleva-custos-de-fornecedores.ghtml",
-      "date": "Thu, 10 Sep 2026 12:27:36 -0000"
-    },
-    {
-      "title": "Especialistas e empres\u00E1rios defendem reforma tribut\u00E1ria em carta-manifesto a candidatos \u00E0 Presid\u00EAncia da Rep\u00FAblica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/pr/parana/economia/noticia/2026/09/10/especialistas-e-empresarios-defendem-reforma-tributaria-em-carta-manifesto-a-candidatos-a-presidencia-da-republica.ghtml",
-      "date": "Thu, 10 Sep 2026 12:13:47 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda e Ibovespa sobe com investidores atentos \u00E0 disputa eleitoral",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/10/dolar-ibovespa.ghtml",
-      "date": "Thu, 10 Sep 2026 12:00:14 -0000"
-    },
-    {
-      "title": "Caixa entra em greve nacional e Banco do Brasil tem paralisa\u00E7\u00E3o parcial a partir desta quinta-feira",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/10/caixa-entra-em-greve-nacional-e-banco-do-brasil-tem-paralisacao-parcial-a-partir-desta-quinta-feira.ghtml",
-      "date": "Thu, 10 Sep 2026 11:37:08 -0000"
     }
   ]
 }
