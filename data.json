@@ -2,62 +2,68 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186553.38,
-      "change": -0.91,
-      "changeStr": "-0.91%"
+      "price": 187206.89,
+      "change": -0.56,
+      "changeStr": "-0.56%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.58,
-      "change": -1.1,
-      "changeStr": "-1.10%"
+      "price": 49,
+      "change": -0.24,
+      "changeStr": "-0.24%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.64,
-      "change": -0.75,
-      "changeStr": "-0.75%"
+      "price": 78.2,
+      "change": -0.04,
+      "changeStr": "-0.04%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.49,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
+      "price": 42.73,
+      "change": 0.9,
+      "changeStr": "\u002B0.90%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.48,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 18.59,
+      "change": 0.6,
+      "changeStr": "\u002B0.60%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.48,
-      "change": -1.4,
-      "changeStr": "-1.40%"
+      "price": 22.49,
+      "change": -1.36,
+      "changeStr": "-1.36%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.74,
-      "change": -3.37,
-      "changeStr": "-3.37%"
+      "price": 5.76,
+      "change": -3.03,
+      "changeStr": "-3.03%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.65,
-      "change": -0.57,
-      "changeStr": "-0.57%"
+      "price": 15.62,
+      "change": -0.76,
+      "changeStr": "-0.76%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.5,
-      "change": -1.28,
-      "changeStr": "-1.28%"
+      "price": 51.49,
+      "change": -1.3,
+      "changeStr": "-1.30%"
     }
   ],
   "news": [
     {
-      "title": "Banco Master e BRB: PF aponta pagamentos antecipados, compras fracionadas e falhas de controle",
+      "title": "Greve do Banco do Brasil termina na maior parte do pa\u00EDs ap\u00F3s aprova\u00E7\u00E3o de acordo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/11/greve-banco-do-brasil-termina-parte-pais.ghtml",
+      "date": "Fri, 11 Sep 2026 19:12:34 -0000"
+    },
+    {
+      "title": "Banco Master e BRB: PF aponta pagamentos antecipados, compras fracionadas e falhas nos controles ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/11/banco-master-brb-laudo-policia-federal.ghtml",
       "date": "Fri, 11 Sep 2026 17:50:33 -0000"
@@ -99,7 +105,7 @@
       "date": "Fri, 11 Sep 2026 12:00:51 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta com novos dados de infla\u00E7\u00E3o no Brasil e nos EUA no foco; Ibovespa cai ",
+      "title": "D\u00F3lar fecha em alta com novos dados de infla\u00E7\u00E3o no Brasil e nos EUA no foco; Ibovespa cai ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/11/dolar-ibovespa.ghtml",
       "date": "Fri, 11 Sep 2026 12:00:00 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/11/criacao-de-porcos-publicacao-gratuita-orienta-sobre-alimentacao-e-manejo.ghtml",
       "date": "Fri, 11 Sep 2026 11:50:38 -0000"
-    },
-    {
-      "title": "\u0027Criei do nada um imp\u00E9rio da moda que me deixou multimilion\u00E1ria, mas cresceu tanto que abri fal\u00EAncia\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/11/criei-do-nada-um-imperio-da-moda-que-me-deixou-multimilionaria-mas-cresceu-tanto-que-abri-falencia.ghtml",
-      "date": "Fri, 11 Sep 2026 10:14:15 -0000"
     }
   ]
 }
