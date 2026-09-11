@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187263.89,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 186553.38,
+      "change": -0.91,
+      "changeStr": "-0.91%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.52,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 48.58,
+      "change": -1.1,
+      "changeStr": "-1.10%"
     },
     {
       "symbol": "VALE3",
-      "price": 77.57,
-      "change": -0.84,
-      "changeStr": "-0.84%"
+      "price": 77.64,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.41,
-      "change": 0.14,
-      "changeStr": "\u002B0.14%"
+      "price": 42.49,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.43,
-      "change": -0.27,
-      "changeStr": "-0.27%"
+      "price": 18.48,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.64,
-      "change": -0.7,
-      "changeStr": "-0.70%"
+      "price": 22.48,
+      "change": -1.4,
+      "changeStr": "-1.40%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.83,
-      "change": -1.85,
-      "changeStr": "-1.85%"
+      "price": 5.74,
+      "change": -3.37,
+      "changeStr": "-3.37%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.67,
-      "change": -0.44,
-      "changeStr": "-0.44%"
+      "price": 15.65,
+      "change": -0.57,
+      "changeStr": "-0.57%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.89,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 51.5,
+      "change": -1.28,
+      "changeStr": "-1.28%"
     }
   ],
   "news": [
+    {
+      "title": "Banco Master e BRB: PF aponta pagamentos antecipados, compras fracionadas e falhas de controle",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/11/banco-master-brb-laudo-policia-federal.ghtml",
+      "date": "Fri, 11 Sep 2026 17:50:33 -0000"
+    },
+    {
+      "title": "PF conclui que houve fraude em compras de R$ 17,5 bilh\u00F5es em carteiras do Master pelo BRB",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/11/pf-conclui-que-houve-fraude-em-compras-de-r-175-bilhoes-em-carteiras-do-master-pelo-brb.ghtml",
+      "date": "Fri, 11 Sep 2026 17:20:02 -0000"
+    },
+    {
+      "title": "China e Ir\u00E3 est\u00E3o entre pa\u00EDses que utilizaram IA para espionagem, diz Anthropic",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/11/china-e-ira-estao-entre-paises-que-utilizaram-ia-para-espionagem-diz-anthropic.ghtml",
+      "date": "Fri, 11 Sep 2026 15:55:15 -0000"
+    },
+    {
+      "title": "PF v\u00EA ind\u00EDcios de irregularidades em R$ 7 bilh\u00F5es em cr\u00E9ditos cedidos ao Master em investiga\u00E7\u00E3o que envolve opera\u00E7\u00F5es com o BRB",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/11/pf-ve-indicios-de-irregularidades-em-r-716-bilhoes-em-creditos-cedidos-ao-master-parte-dos-valores-foi-repassado-ao-brb.ghtml",
+      "date": "Fri, 11 Sep 2026 14:37:06 -0000"
+    },
     {
       "title": "Trabalhadores dos Correios entram em greve em todo o pa\u00EDs a partir desta sexta",
       "source": "G1 Economia",
@@ -75,7 +99,7 @@
       "date": "Fri, 11 Sep 2026 12:00:51 -0000"
     },
     {
-      "title": "D\u00F3lar e Ibovespa operam em queda, com infla\u00E7\u00E3o no Brasil e nos EUA no foco",
+      "title": "D\u00F3lar opera em alta com novos dados de infla\u00E7\u00E3o no Brasil e nos EUA no foco; Ibovespa cai ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/11/dolar-ibovespa.ghtml",
       "date": "Fri, 11 Sep 2026 12:00:00 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/11/criei-do-nada-um-imperio-da-moda-que-me-deixou-multimilionaria-mas-cresceu-tanto-que-abri-falencia.ghtml",
       "date": "Fri, 11 Sep 2026 10:14:15 -0000"
-    },
-    {
-      "title": "Primeira f\u00E1brica de carro voador no interior de SP deve operar at\u00E9 2028 e produzir at\u00E9 480 aeronaves por ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/11/primeira-fabrica-de-carro-voador-no-interior-de-sp-deve-operar-ate-2028-e-produzir-ate-480-aeronaves-por-ano.ghtml",
-      "date": "Fri, 11 Sep 2026 04:02:00 -0000"
-    },
-    {
-      "title": "CNU: prazo para manifestar interesse e permanecer na lista de espera termina nesta sexta ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/09/11/cnu-prazo-para-manifestar-interesse-e-permanecer-na-lista-de-espera-termina-nesta-sexta.ghtml",
-      "date": "Fri, 11 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Mega-Sena 3056 acumula e pr\u00EAmio vai a R$ 85 milh\u00F5es; confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/10/mega-sena-concurso-3056-confira-os-numeros-sorteados.ghtml",
-      "date": "Fri, 11 Sep 2026 00:02:54 -0000"
-    },
-    {
-      "title": "Calif\u00F3rnia passa a exigir protocolo de crise para IAs e pro\u00EDbe recursos viciantes para menores em redes sociais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/10/california-exige-protocolo-de-crise-para-ias-e-proibe-recursos-viciantes-para-menores-em-redes-sociais.ghtml",
-      "date": "Thu, 10 Sep 2026 22:57:37 -0000"
     }
   ]
 }
