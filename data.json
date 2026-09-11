@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 188268.6,
-      "change": 1.42,
-      "changeStr": "\u002B1.42%"
+      "price": 187263.89,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.12,
-      "change": 1.45,
-      "changeStr": "\u002B1.45%"
+      "price": 48.52,
+      "change": -1.22,
+      "changeStr": "-1.22%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.23,
-      "change": -1.1,
-      "changeStr": "-1.10%"
+      "price": 77.57,
+      "change": -0.84,
+      "changeStr": "-0.84%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.35,
-      "change": 1.83,
-      "changeStr": "\u002B1.83%"
+      "price": 42.41,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.48,
-      "change": 3.88,
-      "changeStr": "\u002B3.88%"
+      "price": 18.43,
+      "change": -0.27,
+      "changeStr": "-0.27%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.8,
-      "change": 2.8,
-      "changeStr": "\u002B2.80%"
+      "price": 22.64,
+      "change": -0.7,
+      "changeStr": "-0.70%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.94,
-      "change": 6.64,
-      "changeStr": "\u002B6.64%"
+      "price": 5.83,
+      "change": -1.85,
+      "changeStr": "-1.85%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.74,
-      "change": 1.03,
-      "changeStr": "\u002B1.03%"
+      "price": 15.67,
+      "change": -0.44,
+      "changeStr": "-0.44%"
     },
     {
       "symbol": "WEGE3",
-      "price": 52.17,
-      "change": 0.93,
-      "changeStr": "\u002B0.93%"
+      "price": 51.89,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     }
   ],
   "news": [
+    {
+      "title": "Trabalhadores dos Correios entram em greve em todo o pa\u00EDs a partir desta sexta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/11/trabalhadores-dos-correios-entram-em-greve-em-todo-o-pais-a-partir-desta-sexta.ghtml",
+      "date": "Fri, 11 Sep 2026 12:31:18 -0000"
+    },
+    {
+      "title": "Pre\u00E7o dos alimentos: o que ficou mais caro e o que barateou em agosto",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/11/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-em-agosto.ghtml",
+      "date": "Fri, 11 Sep 2026 12:04:16 -0000"
+    },
+    {
+      "title": "IPCA cai 0,32% em agosto e tem maior defla\u00E7\u00E3o em quatro anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/11/ipca-agosto.ghtml",
+      "date": "Fri, 11 Sep 2026 12:00:51 -0000"
+    },
+    {
+      "title": "D\u00F3lar e Ibovespa operam em queda, com infla\u00E7\u00E3o no Brasil e nos EUA no foco",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/11/dolar-ibovespa.ghtml",
+      "date": "Fri, 11 Sep 2026 12:00:00 -0000"
+    },
+    {
+      "title": "Cria\u00E7\u00E3o de porcos: publica\u00E7\u00E3o gratuita orienta sobre alimenta\u00E7\u00E3o e manejo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/11/criacao-de-porcos-publicacao-gratuita-orienta-sobre-alimentacao-e-manejo.ghtml",
+      "date": "Fri, 11 Sep 2026 11:50:38 -0000"
+    },
+    {
+      "title": "\u0027Criei do nada um imp\u00E9rio da moda que me deixou multimilion\u00E1ria, mas cresceu tanto que abri fal\u00EAncia\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/11/criei-do-nada-um-imperio-da-moda-que-me-deixou-multimilionaria-mas-cresceu-tanto-que-abri-falencia.ghtml",
+      "date": "Fri, 11 Sep 2026 10:14:15 -0000"
+    },
     {
       "title": "Primeira f\u00E1brica de carro voador no interior de SP deve operar at\u00E9 2028 e produzir at\u00E9 480 aeronaves por ano",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/10/california-exige-protocolo-de-crise-para-ias-e-proibe-recursos-viciantes-para-menores-em-redes-sociais.ghtml",
       "date": "Thu, 10 Sep 2026 22:57:37 -0000"
-    },
-    {
-      "title": "Correios esperam novo empr\u00E9stimo at\u00E9 o dia 15; cons\u00F3rcio de bancos conta com tr\u00EAs institui\u00E7\u00F5es estrangeiras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/10/correios-aguardam-novo-emprestimo-ate-o-dia-15-consorcio-de-bancos-conta-com-tres-instituicoes-estrangeiras.ghtml",
-      "date": "Thu, 10 Sep 2026 21:59:18 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo dispara, fecha a US$ 107 e atinge maior n\u00EDvel desde maio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/10/preco-petroleo.ghtml",
-      "date": "Thu, 10 Sep 2026 20:53:17 -0000"
-    },
-    {
-      "title": "Ap\u00F3s sair do ar em maio, R\u00E1dio Eldorado anuncia retorno a partir de outubro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/10/apos-quatro-meses-radio-eldorado-volta-ao-ar.ghtml",
-      "date": "Thu, 10 Sep 2026 19:14:47 -0000"
-    },
-    {
-      "title": "Justi\u00E7a suspende registro de novos agrot\u00F3xicos \u00E0 base de glifosato por 90 dias em todo o pa\u00EDs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/10/justica-suspende-registro-de-novos-agrotoxicos-a-base-de-glifosato-por-90-dias-em-todo-o-pais.ghtml",
-      "date": "Thu, 10 Sep 2026 19:13:29 -0000"
-    },
-    {
-      "title": "Nova CNH: brasileiros economizaram quase R$ 10 bilh\u00F5es com novas regras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/10/nova-cnh-economia-novas-regras.ghtml",
-      "date": "Thu, 10 Sep 2026 19:11:16 -0000"
-    },
-    {
-      "title": "Anthropic diz ter identificado pa\u00EDses que usaram sua IA para fazer propaganda e desenvolver poss\u00EDveis armas biol\u00F3gicas, diz \u0027NYT\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/10/anthropic-diz-ter-identificado-paises-que-usaram-sua-ia-para-fazer-propaganda-e-desenvolver-possiveis-armas-biologicas-diz-nyt.ghtml",
-      "date": "Thu, 10 Sep 2026 18:22:06 -0000"
     }
   ]
 }
