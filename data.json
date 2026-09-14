@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185648.88,
-      "change": -0.83,
-      "changeStr": "-0.83%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 48.9,
-      "change": -0.2,
-      "changeStr": "-0.20%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 75.54,
-      "change": -3.4,
-      "changeStr": "-3.40%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 42.34,
+      "price": 185500.88,
       "change": -0.91,
       "changeStr": "-0.91%"
     },
     {
+      "symbol": "PETR4",
+      "price": 48.92,
+      "change": -0.16,
+      "changeStr": "-0.16%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 75.48,
+      "change": -3.48,
+      "changeStr": "-3.48%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 42.35,
+      "change": -0.89,
+      "changeStr": "-0.89%"
+    },
+    {
       "symbol": "BBDC4",
-      "price": 18.35,
-      "change": -1.29,
-      "changeStr": "-1.29%"
+      "price": 18.33,
+      "change": -1.4,
+      "changeStr": "-1.40%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.16,
-      "change": -1.47,
-      "changeStr": "-1.47%"
+      "price": 22.12,
+      "change": -1.65,
+      "changeStr": "-1.65%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.64,
-      "change": -2.08,
-      "changeStr": "-2.08%"
+      "price": 5.57,
+      "change": -3.3,
+      "changeStr": "-3.30%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.83,
-      "change": 1.34,
-      "changeStr": "\u002B1.34%"
+      "price": 15.87,
+      "change": 1.6,
+      "changeStr": "\u002B1.60%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.01,
-      "change": -0.93,
-      "changeStr": "-0.93%"
+      "price": 50.74,
+      "change": -1.46,
+      "changeStr": "-1.46%"
     }
   ],
   "news": [
+    {
+      "title": "Brasil e Estados Unidos marcam reuni\u00E3o presencial para negociar tarifa\u00E7o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/14/brasil-e-estados-unidos-marcam-reuniao-presencial-para-negociar-tarifaco.ghtml",
+      "date": "Mon, 14 Sep 2026 20:31:08 -0000"
+    },
+    {
+      "title": "BRB afasta cinco funcion\u00E1rios citados em investiga\u00E7\u00F5es internas sobre o caso Master",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/14/brb-afasta-cinco-funcionarios-citados-em-investigacoes-internas-sobre-o-caso-master.ghtml",
+      "date": "Mon, 14 Sep 2026 19:46:25 -0000"
+    },
+    {
+      "title": "Nova York derruba sites usados para criar deepfakes ilegais de famosas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/14/nova-york-derruba-sites-usados-para-criar-deepfakes-ilegais-de-famosas.ghtml",
+      "date": "Mon, 14 Sep 2026 18:44:55 -0000"
+    },
     {
       "title": "OpenAI, Anthropic, Google e Musk querem frear avan\u00E7o da IA; por que isso \u00E9 t\u00E3o dif\u00EDcil?",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/14/como-autoridades-reagiram-apos-ceo-da-anthropic-pedir-freio-do-avanco-da-ia.ghtml",
       "date": "Mon, 14 Sep 2026 12:43:34 -0000"
-    },
-    {
-      "title": "Freio na IA: China acusa \u0027for\u00E7as hostis\u0027 de abusarem da tecnologia ap\u00F3s Trump dizer que lidera corrida ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/14/china-alerta-para-risco-da-ia-a-sua-seguranca-nacional.ghtml",
-      "date": "Mon, 14 Sep 2026 12:20:48 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta e bate R$ 5,18, \u00E0 espera de juros e de olho em quadro pol\u00EDtico brasileiro; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/14/dolar-ibovespa.ghtml",
-      "date": "Mon, 14 Sep 2026 12:00:23 -0000"
-    },
-    {
-      "title": "Claro avan\u00E7a na disputa com a Vivo ap\u00F3s Cade aprovar compra da Desktop por R$ 4 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/14/claro-desktop-compra.ghtml",
-      "date": "Mon, 14 Sep 2026 11:55:14 -0000"
     }
   ]
 }
