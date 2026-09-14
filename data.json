@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187206.89,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 185648.88,
+      "change": -0.83,
+      "changeStr": "-0.83%"
     },
     {
       "symbol": "PETR4",
-      "price": 49,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 48.9,
+      "change": -0.2,
+      "changeStr": "-0.20%"
     },
     {
       "symbol": "VALE3",
-      "price": 78.2,
-      "change": -0.04,
-      "changeStr": "-0.04%"
+      "price": 75.54,
+      "change": -3.4,
+      "changeStr": "-3.40%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.73,
-      "change": 0.9,
-      "changeStr": "\u002B0.90%"
+      "price": 42.34,
+      "change": -0.91,
+      "changeStr": "-0.91%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.59,
-      "change": 0.6,
-      "changeStr": "\u002B0.60%"
+      "price": 18.35,
+      "change": -1.29,
+      "changeStr": "-1.29%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.49,
-      "change": -1.36,
-      "changeStr": "-1.36%"
+      "price": 22.16,
+      "change": -1.47,
+      "changeStr": "-1.47%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.76,
-      "change": -3.03,
-      "changeStr": "-3.03%"
+      "price": 5.64,
+      "change": -2.08,
+      "changeStr": "-2.08%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.62,
-      "change": -0.76,
-      "changeStr": "-0.76%"
+      "price": 15.83,
+      "change": 1.34,
+      "changeStr": "\u002B1.34%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.49,
-      "change": -1.3,
-      "changeStr": "-1.30%"
+      "price": 51.01,
+      "change": -0.93,
+      "changeStr": "-0.93%"
     }
   ],
   "news": [
     {
-      "title": "China alerta para risco da IA \u00E0 sua seguran\u00E7a nacional",
+      "title": "OpenAI, Anthropic, Google e Musk querem frear avan\u00E7o da IA; por que isso \u00E9 t\u00E3o dif\u00EDcil?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/14/entenda-se-e-possivel-desacelerar-o-desenvolvimento-da-ia.ghtml",
+      "date": "Mon, 14 Sep 2026 16:21:03 -0000"
+    },
+    {
+      "title": "AirBaltic pede recupera\u00E7\u00E3o judicial nos EUA em meio \u00E0 guerra com o Ir\u00E3, diz ag\u00EAncia ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/14/airbaltic-pede-recuperacao-judicial-nos-eua.ghtml",
+      "date": "Mon, 14 Sep 2026 14:46:38 -0000"
+    },
+    {
+      "title": "\u0027Freio\u0027 na IA? Debate leva gigantes da tecnologia ao radar dos investidores; a\u00E7\u00F5es operam mistas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/14/acoes-tecnologia.ghtml",
+      "date": "Mon, 14 Sep 2026 14:14:31 -0000"
+    },
+    {
+      "title": "Freio na IA: Trump contra-ataca e fala em \u0027farsa\u0027 e \u0027conspira\u00E7\u00E3o doentia\u0027 para favorecer a China ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/14/freio-na-ia-trump-contra-ataca-e-fala-de-conspiracao-doentia-contra-a-tecnologia.ghtml",
+      "date": "Mon, 14 Sep 2026 14:02:26 -0000"
+    },
+    {
+      "title": "Por que empresas que aceleraram a corrida da IA agora defendem pisar no freio; entenda o que est\u00E1 por tr\u00E1s disso",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/14/por-que-empresas-que-aceleraram-a-corrida-da-ia-agora-defendem-limites-entenda-o-que-esta-por-tras-disso.ghtml",
+      "date": "Mon, 14 Sep 2026 13:34:54 -0000"
+    },
+    {
+      "title": "Greve dos Correios continua e n\u00E3o tem previs\u00E3o de encerramento; veja como ficam as entregas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/14/greve-dos-correios-continua-veja-como-ficam-as-entregas.ghtml",
+      "date": "Mon, 14 Sep 2026 13:07:18 -0000"
+    },
+    {
+      "title": "Frear a IA? Trump rejeita a ideia, China alerta para riscos e UE cobra seguran\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/14/como-autoridades-reagiram-apos-ceo-da-anthropic-pedir-freio-do-avanco-da-ia.ghtml",
+      "date": "Mon, 14 Sep 2026 12:43:34 -0000"
+    },
+    {
+      "title": "Freio na IA: China acusa \u0027for\u00E7as hostis\u0027 de abusarem da tecnologia ap\u00F3s Trump dizer que lidera corrida ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/09/14/china-alerta-para-risco-da-ia-a-sua-seguranca-nacional.ghtml",
       "date": "Mon, 14 Sep 2026 12:20:48 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, \u00E0 espera de novas decis\u00F5es de juros e de olho em quadro pol\u00EDtico brasileiro",
+      "title": "D\u00F3lar opera em alta e bate R$ 5,18, \u00E0 espera de juros e de olho em quadro pol\u00EDtico brasileiro; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/14/dolar-ibovespa.ghtml",
       "date": "Mon, 14 Sep 2026 12:00:23 -0000"
     },
     {
-      "title": "Claro recebe aval para comprar Desktop por R$ 4 bilh\u00F5es",
+      "title": "Claro avan\u00E7a na disputa com a Vivo ap\u00F3s Cade aprovar compra da Desktop por R$ 4 bilh\u00F5es",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/14/claro-desktop-compra.ghtml",
       "date": "Mon, 14 Sep 2026 11:55:14 -0000"
-    },
-    {
-      "title": "Economistas do  mercado reduzem estimativa de infla\u00E7\u00E3o e de crescimento do PIB em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/14/economistas-do-mercado-reduzem-estimativa-de-inflacao-e-de-crescimento-do-pib-em-2026.ghtml",
-      "date": "Mon, 14 Sep 2026 11:31:15 -0000"
-    },
-    {
-      "title": "Pre\u00E7os do petr\u00F3leo sobem quase 3% ap\u00F3s novos ataques \u00E0 Ar\u00E1bia Saudita e ao Estreito de Ormuz",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/14/precos-do-petroleo-sobem-quase-3-apos-novos-ataques-a-arabia-saudita-e-ao-estreito-de-ormuz.ghtml",
-      "date": "Mon, 14 Sep 2026 10:55:02 -0000"
-    },
-    {
-      "title": "Crise no STF pode ter impacto decisivo na elei\u00E7\u00E3o brasileira, diz Financial Times",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/14/crise-no-stf-pode-ter-impacto-decisivo-na-eleicao-brasileira-diz-financial-times.ghtml",
-      "date": "Mon, 14 Sep 2026 10:27:55 -0000"
-    },
-    {
-      "title": "Do peixe \u00E0 energia: como o calor recorde dos oceanos pode encarecer alimentos e afetar turismo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/14/do-peixe-a-energia-como-o-calor-recorde-dos-oceanos-pode-encarecer-alimentos-e-afetar-turismo.ghtml",
-      "date": "Mon, 14 Sep 2026 08:00:00 -0000"
-    },
-    {
-      "title": "Criminosos criam site e app falsos do Mercado Livre para invadir celulares de v\u00EDtimas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/14/criminosos-criam-site-e-app-falsos-do-mercado-livre-para-invadir-celulares-de-vitimas.ghtml",
-      "date": "Mon, 14 Sep 2026 07:00:01 -0000"
-    },
-    {
-      "title": "Intelig\u00EAncia artificial est\u00E1 cada vez mais dif\u00EDcil de se controlar. At\u00E9 quando os humanos v\u00E3o se manter no comando?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/14/inteligencia-artificial-esta-cada-vez-mais-dificil-de-se-controlar-ate-quando-os-humanos-vao-se-manter-no-comando.ghtml",
-      "date": "Mon, 14 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "title": "\u0027Precisamos excluir a data\u0027: Banco Master usou Word, PDFs e c\u00F3digos para fabricar documentos falsos, diz PF",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/14/banco-master-usou-word-pdfs-e-codigos-para-fabricar-documentos-falsos-diz-pf.ghtml",
-      "date": "Mon, 14 Sep 2026 03:00:00 -0000"
     }
   ]
 }
