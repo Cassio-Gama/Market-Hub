@@ -2,57 +2,57 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186964.25,
-      "change": 0.79,
-      "changeStr": "\u002B0.79%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 50.46,
-      "change": 3.15,
-      "changeStr": "\u002B3.15%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 75.1,
-      "change": -0.5,
-      "changeStr": "-0.50%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 42.59,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 18.3,
-      "change": -0.16,
-      "changeStr": "-0.16%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 22.19,
-      "change": 0.32,
-      "changeStr": "\u002B0.32%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 5.6,
+      "price": 186502.64,
       "change": 0.54,
       "changeStr": "\u002B0.54%"
     },
     {
+      "symbol": "PETR4",
+      "price": 50.43,
+      "change": 3.09,
+      "changeStr": "\u002B3.09%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 74.6,
+      "change": -1.17,
+      "changeStr": "-1.17%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 42.67,
+      "change": 0.76,
+      "changeStr": "\u002B0.76%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 18.2,
+      "change": -0.71,
+      "changeStr": "-0.71%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 22.04,
+      "change": -0.36,
+      "changeStr": "-0.36%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 5.57,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
+    },
+    {
       "symbol": "ABEV3",
-      "price": 15.85,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 15.73,
+      "change": -0.88,
+      "changeStr": "-0.88%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.93,
-      "change": 0.37,
-      "changeStr": "\u002B0.37%"
+      "price": 50.88,
+      "change": 0.28,
+      "changeStr": "\u002B0.28%"
     }
   ],
   "news": [
@@ -105,7 +105,7 @@
       "date": "Tue, 15 Sep 2026 12:44:51 -0000"
     },
     {
-      "title": "D\u00F3lar oscila, com julgamento Moraes-Vorcaro e Superquarta no radar; Ibovespa sobe",
+      "title": "D\u00F3lar sobe e fecha a R$ 5,15 de olho no STF e \u00E0 espera da Superquarta; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/15/dolar-ibovespa.ghtml",
       "date": "Tue, 15 Sep 2026 12:00:23 -0000"
