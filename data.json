@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185500.88,
-      "change": -0.91,
-      "changeStr": "-0.91%"
+      "price": 186196.05,
+      "change": 0.37,
+      "changeStr": "\u002B0.37%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.92,
-      "change": -0.16,
-      "changeStr": "-0.16%"
+      "price": 49.14,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.48,
-      "change": -3.48,
-      "changeStr": "-3.48%"
+      "price": 75.71,
+      "change": 0.3,
+      "changeStr": "\u002B0.30%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.35,
-      "change": -0.89,
-      "changeStr": "-0.89%"
+      "price": 42.6,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.33,
-      "change": -1.4,
-      "changeStr": "-1.40%"
+      "price": 18.38,
+      "change": 0.27,
+      "changeStr": "\u002B0.27%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.12,
-      "change": -1.65,
-      "changeStr": "-1.65%"
+      "price": 22.23,
+      "change": 0.5,
+      "changeStr": "\u002B0.50%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.57,
-      "change": -3.3,
-      "changeStr": "-3.30%"
+      "price": 5.58,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.87,
-      "change": 1.6,
-      "changeStr": "\u002B1.60%"
+      "price": 15.92,
+      "change": 0.32,
+      "changeStr": "\u002B0.32%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.74,
-      "change": -1.46,
-      "changeStr": "-1.46%"
+      "price": 51.18,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     }
   ],
   "news": [
+    {
+      "title": "Cade aprova compra da fabricante de m\u00EDsseis e foguetes Avibras pelos irm\u00E3os Batista",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/15/cade-aprova-compra-da-fabricante-de-misseis-e-foguetes-avibras-pelos-irmaos-batista.ghtml",
+      "date": "Tue, 15 Sep 2026 12:45:21 -0000"
+    },
+    {
+      "title": "Rendimento do Tesouro americano atinge maior n\u00EDvel em quase 20 anos; entenda como isso afeta o Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/15/rendimento-do-tesouro-americano.ghtml",
+      "date": "Tue, 15 Sep 2026 12:44:51 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre em alta, com julgamento Moraes-Vorcaro e Superquarta no radar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/15/dolar-ibovespa.ghtml",
+      "date": "Tue, 15 Sep 2026 12:00:23 -0000"
+    },
+    {
+      "title": "\u0027Com\u00E9rcio global vive momento cr\u00EDtico\u0027, alerta OMC em meio a guerras comerciais e novas tarifas ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/15/comercio-global-vive-momento-critico-alerta-omc-em-meio-a-guerras-comerciais-e-novas-tarifas.ghtml",
+      "date": "Tue, 15 Sep 2026 11:31:56 -0000"
+    },
     {
       "title": "Lagarta aparece coberta de \u0027casulos\u0027 brancos em SP; entenda o que aconteceu",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/15/mega-sena-pode-pagar-r-95-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
       "date": "Tue, 15 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Brasil e Estados Unidos marcam reuni\u00E3o presencial para negociar tarifa\u00E7o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/14/brasil-e-estados-unidos-marcam-reuniao-presencial-para-negociar-tarifaco.ghtml",
-      "date": "Mon, 14 Sep 2026 20:31:08 -0000"
-    },
-    {
-      "title": "BRB afasta cinco funcion\u00E1rios citados em investiga\u00E7\u00F5es internas sobre o caso Master",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/14/brb-afasta-cinco-funcionarios-citados-em-investigacoes-internas-sobre-o-caso-master.ghtml",
-      "date": "Mon, 14 Sep 2026 19:46:25 -0000"
-    },
-    {
-      "title": "Nova York derruba sites usados para criar deepfakes ilegais de famosas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/14/nova-york-derruba-sites-usados-para-criar-deepfakes-ilegais-de-famosas.ghtml",
-      "date": "Mon, 14 Sep 2026 18:44:55 -0000"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google e Musk querem frear avan\u00E7o da IA; por que isso \u00E9 t\u00E3o dif\u00EDcil?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/14/entenda-se-e-possivel-desacelerar-o-desenvolvimento-da-ia.ghtml",
-      "date": "Mon, 14 Sep 2026 16:21:03 -0000"
     }
   ]
 }
