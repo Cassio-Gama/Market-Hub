@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186196.05,
-      "change": 0.37,
-      "changeStr": "\u002B0.37%"
+      "price": 186964.25,
+      "change": 0.79,
+      "changeStr": "\u002B0.79%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.14,
-      "change": 0.45,
-      "changeStr": "\u002B0.45%"
+      "price": 50.46,
+      "change": 3.15,
+      "changeStr": "\u002B3.15%"
     },
     {
       "symbol": "VALE3",
-      "price": 75.71,
-      "change": 0.3,
-      "changeStr": "\u002B0.30%"
+      "price": 75.1,
+      "change": -0.5,
+      "changeStr": "-0.50%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.6,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 42.59,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.38,
-      "change": 0.27,
-      "changeStr": "\u002B0.27%"
+      "price": 18.3,
+      "change": -0.16,
+      "changeStr": "-0.16%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.23,
-      "change": 0.5,
-      "changeStr": "\u002B0.50%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 5.58,
-      "change": 0.18,
-      "changeStr": "\u002B0.18%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 15.92,
+      "price": 22.19,
       "change": 0.32,
       "changeStr": "\u002B0.32%"
     },
     {
+      "symbol": "MGLU3",
+      "price": 5.6,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 15.85,
+      "change": -0.13,
+      "changeStr": "-0.13%"
+    },
+    {
       "symbol": "WEGE3",
-      "price": 51.18,
-      "change": 0.87,
-      "changeStr": "\u002B0.87%"
+      "price": 50.93,
+      "change": 0.37,
+      "changeStr": "\u002B0.37%"
     }
   ],
   "news": [
+    {
+      "title": "Radares que fiscalizam velocidade m\u00E9dia ser\u00E3o testados em 8 estados; veja onde",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/15/radares-que-medem-velocidade-media-serao-testados-em-8-estados.ghtml",
+      "date": "Tue, 15 Sep 2026 17:12:41 -0000"
+    },
+    {
+      "title": "Humanidade perder\u00E1 autonomia se avan\u00E7o da IA n\u00E3o for limitado agora, diz ganhadora do Nobel",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/15/ia-ganhadora-do-nobel.ghtml",
+      "date": "Tue, 15 Sep 2026 15:18:49 -0000"
+    },
+    {
+      "title": "Lula sanciona programa que reduz impostos para instala\u00E7\u00E3o e amplia\u00E7\u00E3o de data centers",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/15/lula-sanciona-programa-que-reduz-impostos-para-instalacao-e-ampliacao-de-data-centers.ghtml",
+      "date": "Tue, 15 Sep 2026 15:18:27 -0000"
+    },
+    {
+      "title": "Meta One: plano pago de Instagram, WhatsApp e Facebook chega ao Brasil por at\u00E9 R$ 2 mil por m\u00EAs  ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/15/meta-one-plano-pago-de-instagram-whatsapp-e-facebook-chega-ao-brasil-por-ate-r-2-mil-por-mes.ghtml",
+      "date": "Tue, 15 Sep 2026 15:00:01 -0000"
+    },
+    {
+      "title": "OpenAI trabalha com Anthropic e Google para refor\u00E7ar seguran\u00E7a em IA, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/15/openai-anthropic-google-seguranca-ia.ghtml",
+      "date": "Tue, 15 Sep 2026 14:55:31 -0000"
+    },
+    {
+      "title": "ONU pede \u0027a\u00E7\u00E3o urgente\u0027 para regular IA e alerta para riscos sem precedentes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/15/onu-ia.ghtml",
+      "date": "Tue, 15 Sep 2026 14:04:55 -0000"
+    },
     {
       "title": "Cade aprova compra da fabricante de m\u00EDsseis e foguetes Avibras pelos irm\u00E3os Batista",
       "source": "G1 Economia",
@@ -69,7 +105,7 @@
       "date": "Tue, 15 Sep 2026 12:44:51 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, com julgamento Moraes-Vorcaro e Superquarta no radar",
+      "title": "D\u00F3lar oscila, com julgamento Moraes-Vorcaro e Superquarta no radar; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/15/dolar-ibovespa.ghtml",
       "date": "Tue, 15 Sep 2026 12:00:23 -0000"
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/15/comercio-global-vive-momento-critico-alerta-omc-em-meio-a-guerras-comerciais-e-novas-tarifas.ghtml",
       "date": "Tue, 15 Sep 2026 11:31:56 -0000"
-    },
-    {
-      "title": "Lagarta aparece coberta de \u0027casulos\u0027 brancos em SP; entenda o que aconteceu",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/15/lagarta-aparece-coberta-de-casulos-brancos-em-sp-entenda-o-que-aconteceu.ghtml",
-      "date": "Tue, 15 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "title": "\u2018Uma m\u00E3o na frente e outra atr\u00E1s\u2019: mais de 3 mil demitidos das Casas Bahia ainda esperam verbas rescis\u00F3rias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/15/demitidos-das-casas-bahia-ainda-esperam-verbas-rescisorias.ghtml",
-      "date": "Tue, 15 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Por que cofundador da Anthropic defende um \u0027bot\u00E3o de desligamento\u0027 obrigat\u00F3rio para IA ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/15/por-que-cofundador-da-anthropic-defende-um-botao-de-desligamento-obrigatorio-para-ia.ghtml",
-      "date": "Tue, 15 Sep 2026 05:00:00 -0000"
-    },
-    {
-      "title": "\u0027Dominar toda a internet\u0027, \u0027matar seres humanos\u0027: o que j\u00E1 disseram executivos e especialistas sobre os riscos da IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/15/dominar-toda-a-internet-matar-seres-humanos-o-que-ja-disseram-executivos-e-especialistas-sobre-os-riscos-da-ia.ghtml",
-      "date": "Tue, 15 Sep 2026 03:00:01 -0000"
-    },
-    {
-      "title": "Ap\u00F3s crise do metanol, garrafas ganham selo que permite detectar bebidas falsificadas pelo celular",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/09/15/apos-crise-do-metanol-garrafas-ganham-selo-que-permite-detectar-bebidas-falsificadas-pelo-celular.ghtml",
-      "date": "Tue, 15 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 95 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/15/mega-sena-pode-pagar-r-95-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Tue, 15 Sep 2026 03:00:00 -0000"
     }
   ]
 }
