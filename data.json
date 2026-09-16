@@ -2,15 +2,15 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186502.64,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 185995.56,
+      "change": -0.27,
+      "changeStr": "-0.27%"
     },
     {
       "symbol": "PETR4",
-      "price": 50.43,
-      "change": 3.09,
-      "changeStr": "\u002B3.09%"
+      "price": 49.76,
+      "change": -1.33,
+      "changeStr": "-1.33%"
     },
     {
       "symbol": "VALE3",
@@ -20,21 +20,21 @@
     },
     {
       "symbol": "ITUB4",
-      "price": 42.67,
-      "change": 0.76,
-      "changeStr": "\u002B0.76%"
+      "price": 42.57,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.2,
-      "change": -0.71,
-      "changeStr": "-0.71%"
+      "price": 18.13,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.04,
-      "change": -0.36,
-      "changeStr": "-0.36%"
+      "price": 21.89,
+      "change": -0.68,
+      "changeStr": "-0.68%"
     },
     {
       "symbol": "MGLU3",
@@ -44,18 +44,54 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 15.73,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "price": 15.7,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.88,
-      "change": 0.28,
-      "changeStr": "\u002B0.28%"
+      "price": 50.95,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     }
   ],
   "news": [
+    {
+      "title": "Chinesa Geely vai fabricar carros no Brasil em parceria com a Renault, com investimento de R$ 1,9 bilh\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/16/geely-vai-fabricar-carros-no-brasil-em-parceria-com-a-renault-com-investimento-de-r-19-bilhao.ghtml",
+      "date": "Wed, 16 Sep 2026 13:00:25 -0000"
+    },
+    {
+      "title": "Google anuncia projeto que usa 200 mil hectares de arroz no Brasil contra mudan\u00E7as clim\u00E1ticas; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/16/google-anuncia-projeto-que-usa-200-mil-hectares-de-arroz-no-brasil-contra-mudancas-climaticas-entenda.ghtml",
+      "date": "Wed, 16 Sep 2026 12:28:45 -0000"
+    },
+    {
+      "title": "\u0027Pr\u00E9via do PIB\u0027 do Banco Central tem retra\u00E7\u00E3o de 0,2% em julho",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/16/previa-do-pib-do-banco-central-tem-retracao-de-02percent-em-julho.ghtml",
+      "date": "Wed, 16 Sep 2026 12:07:17 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em queda, com foco em decis\u00F5es de juros nos EUA e no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/16/dolar-ibovespa.ghtml",
+      "date": "Wed, 16 Sep 2026 12:00:26 -0000"
+    },
+    {
+      "title": "iFood anuncia investimento de R$ 24 bilh\u00F5es no Brasil; empresa vai acelerar desenvolvimento de IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/16/ifood-investimento-brasil.ghtml",
+      "date": "Wed, 16 Sep 2026 11:01:36 -0000"
+    },
+    {
+      "title": "Mark Zuckerberg, CEO da Meta, rejeita apelos para desacelerar o desenvolvimento da IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/16/mark-zuckerberg-rejeita-desacelerar-ia.ghtml",
+      "date": "Wed, 16 Sep 2026 10:38:28 -0000"
+    },
     {
       "title": "Quanto um porco come at\u00E9 chegar aos 120 kg para o abate? Veja a conta",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/09/16/radar-de-velocidade-media-entenda-como-funciona-sistema-que-sera-testado-em-8-estados.ghtml",
       "date": "Wed, 16 Sep 2026 03:00:01 -0000"
-    },
-    {
-      "title": "Caixa e funcion\u00E1rios voltam a negociar nesta quarta; greve segue sem prazo para acabar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/16/caixa-e-funcionarios-voltam-a-negociar-nesta-quarta-greve-segue-sem-prazo-para-acabar.ghtml",
-      "date": "Wed, 16 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Superquarta: Brasil deve cortar juros, e EUA, subir; entenda o que isso muda para seu bolso",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/16/superquarta-brasil-deve-cortar-juros-e-eua-subir-entenda-o-que-isso-muda-para-seu-bolso.ghtml",
-      "date": "Wed, 16 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Copom deve cortar taxa b\u00E1sica de juros da economia pela 5\u00AA vez seguida, para 13,75% ao ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/16/copom-deve-cortar-taxa-basica-de-juros-da-economia-pela-5a-vez-seguida-para-1375percent-ao-ano.ghtml",
-      "date": "Wed, 16 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Mega-Sena 3058 acumula e pr\u00EAmio vai a R$ 102 milh\u00F5es; confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/15/mega-sena-concurso-3058-confira-os-numeros-sorteados.ghtml",
-      "date": "Wed, 16 Sep 2026 00:02:19 -0000"
-    },
-    {
-      "title": "Radares que fiscalizam velocidade m\u00E9dia ser\u00E3o testados em 8 estados; veja onde",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/15/radares-que-medem-velocidade-media-serao-testados-em-8-estados.ghtml",
-      "date": "Tue, 15 Sep 2026 17:12:41 -0000"
-    },
-    {
-      "title": "Humanidade perder\u00E1 autonomia se avan\u00E7o da IA n\u00E3o for limitado agora, diz ganhadora do Nobel",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/15/ia-ganhadora-do-nobel.ghtml",
-      "date": "Tue, 15 Sep 2026 15:18:49 -0000"
     }
   ]
 }
