@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186000.61,
-      "change": -0.27,
-      "changeStr": "-0.27%"
+      "price": 185547.66,
+      "change": -0.51,
+      "changeStr": "-0.51%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.02,
-      "change": -2.8,
-      "changeStr": "-2.80%"
+      "price": 48.65,
+      "change": -3.53,
+      "changeStr": "-3.53%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.05,
-      "change": -0.74,
-      "changeStr": "-0.74%"
+      "price": 73,
+      "change": -2.14,
+      "changeStr": "-2.14%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.37,
-      "change": -0.7,
-      "changeStr": "-0.70%"
+      "price": 42.62,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.15,
-      "change": -0.27,
-      "changeStr": "-0.27%"
+      "price": 18.21,
+      "change": 0.05,
+      "changeStr": "\u002B0.05%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.31,
-      "change": 1.23,
-      "changeStr": "\u002B1.23%"
+      "price": 22.71,
+      "change": 3.04,
+      "changeStr": "\u002B3.04%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.92,
-      "change": 6.28,
-      "changeStr": "\u002B6.28%"
+      "price": 5.94,
+      "change": 6.64,
+      "changeStr": "\u002B6.64%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.64,
-      "change": -0.57,
-      "changeStr": "-0.57%"
+      "price": 15.63,
+      "change": -0.64,
+      "changeStr": "-0.64%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.57,
-      "change": 1.36,
-      "changeStr": "\u002B1.36%"
+      "price": 51.28,
+      "change": 0.79,
+      "changeStr": "\u002B0.79%"
     }
   ],
   "news": [
+    {
+      "title": "Copom reduz a taxa b\u00E1sica de juros da economia, a Selic, de 14% para 13,75% ao ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/16/copom-reduz-a-taxa-basica-de-juros-da-economia-a-selic-de-14percent-para-1375percent-ao-ano.ghtml",
+      "date": "Wed, 16 Sep 2026 21:32:24 -0000"
+    },
+    {
+      "title": "Brasil segue com o maior juro real do mundo mesmo ap\u00F3s novo corte da Selic; veja ranking",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/16/ranking-juro-real-setembro.ghtml",
+      "date": "Wed, 16 Sep 2026 21:32:13 -0000"
+    },
+    {
+      "title": "Trump critica alta dos juros nos EUA e defende taxa de 1%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/16/trump-critica-juros-eua.ghtml",
+      "date": "Wed, 16 Sep 2026 20:49:42 -0000"
+    },
+    {
+      "title": "Lula sanciona pol\u00EDtica para explora\u00E7\u00E3o de minerais cr\u00EDticos e estrat\u00E9gicos em territ\u00F3rio nacional",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/16/lula-sanciona-politica-para-exploracao-de-minerais-criticos-e-estrategicos-em-territorio-nacional.ghtml",
+      "date": "Wed, 16 Sep 2026 20:47:14 -0000"
+    },
+    {
+      "title": "Brasil ter\u00E1 an\u00FAncios de investimentos em minerais estrat\u00E9gicos j\u00E1 na pr\u00F3xima semana, diz ministro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/16/brasil-tera-anuncios-de-investimentos-em-minerais-estrategicos-ja-na-proxima-semana-diz-ministro.ghtml",
+      "date": "Wed, 16 Sep 2026 20:33:18 -0000"
+    },
+    {
+      "title": "\u0027Fim do mundo pela IA\u0027? Chefes de gigantes de tecnologia e governos se dividem sobre riscos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/16/chefes-de-gigantes-de-tecnologia-e-governos-se-dividem-sobre-riscos-da-ia.ghtml",
+      "date": "Wed, 16 Sep 2026 20:17:32 -0000"
+    },
     {
       "title": "Fed eleva juros dos EUA pela 1\u00AA vez em mais de 3 anos, para a faixa de 3,75% a 4% ao ano",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/16/banco-mundial-economista-chefe.ghtml",
       "date": "Wed, 16 Sep 2026 13:44:58 -0000"
-    },
-    {
-      "title": "Chinesa Geely vai fabricar carros no Brasil em parceria com a Renault, com investimento de R$ 1,9 bilh\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/16/geely-vai-fabricar-carros-no-brasil-em-parceria-com-a-renault-com-investimento-de-r-19-bilhao.ghtml",
-      "date": "Wed, 16 Sep 2026 13:00:25 -0000"
-    },
-    {
-      "title": "Google anuncia projeto que usa 200 mil hectares de arroz no Brasil contra mudan\u00E7as clim\u00E1ticas; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/16/google-anuncia-projeto-que-usa-200-mil-hectares-de-arroz-no-brasil-contra-mudancas-climaticas-entenda.ghtml",
-      "date": "Wed, 16 Sep 2026 12:28:45 -0000"
-    },
-    {
-      "title": "\u0027Pr\u00E9via do PIB\u0027 do Banco Central tem retra\u00E7\u00E3o de 0,2% em julho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/16/previa-do-pib-do-banco-central-tem-retracao-de-02percent-em-julho.ghtml",
-      "date": "Wed, 16 Sep 2026 12:07:17 -0000"
-    },
-    {
-      "title": "D\u00F3lar e Ibovespa operam em queda, com foco em decis\u00F5es de juros no Brasil e nos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/16/dolar-ibovespa.ghtml",
-      "date": "Wed, 16 Sep 2026 12:00:26 -0000"
-    },
-    {
-      "title": "iFood anuncia investimento de R$ 24 bilh\u00F5es at\u00E9 mar\u00E7o de 2027, incluindo acelera\u00E7\u00E3o em IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/16/ifood-investimento-brasil.ghtml",
-      "date": "Wed, 16 Sep 2026 11:01:36 -0000"
-    },
-    {
-      "title": "\nUE prop\u00F5e proibi\u00E7\u00E3o de redes sociais para menores de 13 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/16/ue-propoe-proibicao-de-redes-sociais-para-menores-de-13-anos.ghtml",
-      "date": "Wed, 16 Sep 2026 10:55:19 -0000"
     }
   ]
 }
