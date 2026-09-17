@@ -2,39 +2,39 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186576.03,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 185992.03,
+      "change": 0.24,
+      "changeStr": "\u002B0.24%"
     },
     {
       "symbol": "PETR4",
-      "price": 49,
-      "change": 0.72,
-      "changeStr": "\u002B0.72%"
+      "price": 48.61,
+      "change": -0.08,
+      "changeStr": "-0.08%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.63,
-      "change": 2.23,
-      "changeStr": "\u002B2.23%"
+      "price": 74.51,
+      "change": 2.07,
+      "changeStr": "\u002B2.07%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.9,
-      "change": 0.66,
-      "changeStr": "\u002B0.66%"
+      "price": 42.58,
+      "change": -0.09,
+      "changeStr": "-0.09%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.17,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 18.15,
+      "change": -0.33,
+      "changeStr": "-0.33%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.87,
-      "change": 0.7,
-      "changeStr": "\u002B0.70%"
+      "price": 22.78,
+      "change": 0.31,
+      "changeStr": "\u002B0.31%"
     },
     {
       "symbol": "MGLU3",
@@ -44,18 +44,24 @@
     },
     {
       "symbol": "ABEV3",
-      "price": 15.65,
-      "change": 0.13,
-      "changeStr": "\u002B0.13%"
+      "price": 15.55,
+      "change": -0.51,
+      "changeStr": "-0.51%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.28,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 51.08,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     }
   ],
   "news": [
+    {
+      "title": "Bolsa Fam\u00EDlia maior antes da elei\u00E7\u00E3o: economistas questionam \u0027timing\u0027 e risco \u00E0s contas p\u00FAblicas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/17/bolsa-familia-maior-antes-da-eleicao-economistas-questionam-timing-e-risco-as-contas-publicas.ghtml",
+      "date": "Thu, 17 Sep 2026 19:00:14 -0000"
+    },
     {
       "title": "Especialistas de EUA e China prop\u00F5em para IA a\u00E7\u00F5es de seguran\u00E7a semelhantes \u00E0s do setor nuclear",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/17/openai-promete-comunicar-quando-suas-ias-agirem-de-forma-inesperada.ghtml",
       "date": "Thu, 17 Sep 2026 12:29:00 -0000"
-    },
-    {
-      "title": "D\u00F3lar abre em queda, ap\u00F3s BC reduzir juros pela 5\u00AA vez seguida e de olho no petr\u00F3leo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/17/dolar-ibovespa.ghtml",
-      "date": "Thu, 17 Sep 2026 12:00:00 -0000"
     }
   ]
 }
