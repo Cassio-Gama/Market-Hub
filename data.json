@@ -57,6 +57,24 @@
   ],
   "news": [
     {
+      "title": "C\u00E2mara dos EUA aprova projeto que aborda impacto de data centers nos custos de energia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/16/camara-dos-eua-aprova-projeto-que-aborda-impacto-de-data-centers-nos-custos-de-energia.ghtml",
+      "date": "Thu, 17 Sep 2026 00:51:38 -0000"
+    },
+    {
+      "title": "Petrobras aumenta diesel em R$ 1, mas reajuste ser\u00E1 neutralizado por subs\u00EDdio do governo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/16/petrobras-preco-diesel-subsidio-governo.ghtml",
+      "date": "Wed, 16 Sep 2026 23:42:13 -0000"
+    },
+    {
+      "title": "Superquarta: Brasil corta juros, e EUA, sobem; entenda o que isso muda para seu bolso",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/16/superquarta-o-que-isso-muda-para-seu-bolso.ghtml",
+      "date": "Wed, 16 Sep 2026 21:55:22 -0000"
+    },
+    {
       "title": "Copom reduz a taxa b\u00E1sica de juros da economia, a Selic, de 14% para 13,75% ao ano",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/16/copom-reduz-a-taxa-basica-de-juros-da-economia-a-selic-de-14percent-para-1375percent-ao-ano.ghtml",
@@ -69,7 +87,7 @@
       "date": "Wed, 16 Sep 2026 21:32:13 -0000"
     },
     {
-      "title": "Trump critica alta dos juros nos EUA e defende taxa de 1%",
+      "title": "Trump critica alta dos juros nos EUA e defende taxa de 1%, mas diz confiar em presidente do Fed",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/16/trump-critica-juros-eua.ghtml",
       "date": "Wed, 16 Sep 2026 20:49:42 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/16/decisao-fed-eua-setembro.ghtml",
       "date": "Wed, 16 Sep 2026 18:00:25 -0000"
-    },
-    {
-      "title": "JBS e Viva unem opera\u00E7\u00F5es e criam gigante com capacidade para processar mais de 20 milh\u00F5es de couros por ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/16/jbs-e-viva-unem-operacoes-e-criam-gigante-com-capacidade-para-processar-mais-de-20-milhoes-de-couros-por-ano.ghtml",
-      "date": "Wed, 16 Sep 2026 14:26:15 -0000"
-    },
-    {
-      "title": "O mundo est\u00E1 certo em temer IA, mas precisa confiar nas empresas, diz chefe da OpenAI\n",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/16/o-mundo-esta-certo-em-temer-ia-mas-precisa-confiar-nas-empresas-diz-chefe-da-openai.ghtml",
-      "date": "Wed, 16 Sep 2026 13:52:29 -0000"
-    },
-    {
-      "title": "Banco Mundial nomeia ganhador do Pr\u00EAmio Nobel, Michael\u00A0Kremer, como economista-chefe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/16/banco-mundial-economista-chefe.ghtml",
-      "date": "Wed, 16 Sep 2026 13:44:58 -0000"
     }
   ]
 }
