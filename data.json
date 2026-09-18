@@ -2,62 +2,104 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185992.03,
-      "change": 0.24,
-      "changeStr": "\u002B0.24%"
+      "price": 185016.97,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.61,
-      "change": -0.08,
-      "changeStr": "-0.08%"
+      "price": 48.33,
+      "change": -0.58,
+      "changeStr": "-0.58%"
     },
     {
       "symbol": "VALE3",
-      "price": 74.51,
-      "change": 2.07,
-      "changeStr": "\u002B2.07%"
+      "price": 73.17,
+      "change": -1.8,
+      "changeStr": "-1.80%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.58,
-      "change": -0.09,
-      "changeStr": "-0.09%"
+      "price": 42.43,
+      "change": -0.35,
+      "changeStr": "-0.35%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.15,
-      "change": -0.33,
-      "changeStr": "-0.33%"
+      "price": 18.01,
+      "change": -0.77,
+      "changeStr": "-0.77%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.78,
-      "change": 0.31,
-      "changeStr": "\u002B0.31%"
+      "price": 22.99,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.79,
-      "change": -2.53,
-      "changeStr": "-2.53%"
+      "price": 5.76,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.55,
-      "change": -0.51,
-      "changeStr": "-0.51%"
+      "price": 15.45,
+      "change": -0.64,
+      "changeStr": "-0.64%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.08,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 51.22,
+      "change": 0.27,
+      "changeStr": "\u002B0.27%"
     }
   ],
   "news": [
     {
-      "title": "BC amplia uso do Pix em contas-sal\u00E1rio e refor\u00E7a regras de seguran\u00E7a e combate a fraudes",
+      "title": "Nestl\u00E9 \u00E9 alvo de 3 a\u00E7\u00F5es na \u00CDndia ap\u00F3s problemas em produtos para beb\u00EAs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/18/nestle-e-alvo-de-3-acoes-na-india-apos-problemas-em-produtos-para-bebes.ghtml",
+      "date": "Fri, 18 Sep 2026 16:18:12 -0000"
+    },
+    {
+      "title": "Usu\u00E1rio do TikTok tem c\u00E2mera e fotos acessadas em ataque com ajuda de IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/18/usuario-do-tiktok-tem-camera-e-fotos-acessadas-em-ataque-com-ajuda-de-ia.ghtml",
+      "date": "Fri, 18 Sep 2026 14:19:48 -0000"
+    },
+    {
+      "title": "Tempo \u00FAmido e falta de sol aumentam procura por lavanderias e alternativas para secar roupas em casa no Centro-Sul",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/09/18/tempo-umido-e-falta-de-sol-aumentam-procura-por-lavanderias-e-alternativas-para-secar-roupas-no-centro-sul.ghtml",
+      "date": "Fri, 18 Sep 2026 13:36:12 -0000"
+    },
+    {
+      "title": "Reforma tribut\u00E1ria: empresas do Simples escolher\u00E3o modelo at\u00E9 setembro, mas poder\u00E3o rever decis\u00E3o depois que al\u00EDquota sair",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/18/reforma-tributaria-empresas-do-simples-escolherao-modelo-ate-setembro-mas-poderao-rever-decisao-depois-que-aliquota-sair.ghtml",
+      "date": "Fri, 18 Sep 2026 13:30:08 -0000"
+    },
+    {
+      "title": "Como cultivar peras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/18/como-cultivar-peras.ghtml",
+      "date": "Fri, 18 Sep 2026 13:24:48 -0000"
+    },
+    {
+      "title": "Pessoas com defici\u00EAncia ganham quase 30% menos e t\u00EAm menor acesso ao mercado de trabalho, diz IBGE",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/18/pessoas-com-deficiencia-ganham-quase-30percent-menos-e-tem-menor-acesso-ao-mercado-de-trabalho-diz-ibge.ghtml",
+      "date": "Fri, 18 Sep 2026 13:00:00 -0000"
+    },
+    {
+      "title": "Mbapp\u00E9 rompe com a Nike e assina contrato com a su\u00ED\u00E7a On",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/18/mbappe-rompe-com-a-nike-e-assina-contrato-com-a-suica-on.ghtml",
+      "date": "Fri, 18 Sep 2026 12:59:01 -0000"
+    },
+    {
+      "title": "BC amplia uso do PIX em contas-sal\u00E1rio e refor\u00E7a regras de seguran\u00E7a e combate a fraudes",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/18/bc-amplia-uso-do-pix-em-contas-salario-e-reforca-regras-de-seguranca-e-combate-a-fraudes.ghtml",
       "date": "Fri, 18 Sep 2026 12:35:35 -0000"
@@ -69,52 +111,10 @@
       "date": "Fri, 18 Sep 2026 12:23:30 -0000"
     },
     {
-      "title": "Bilion\u00E1rio Warren Buffett deixa a presid\u00EAncia da Berkshire Hathaway",
+      "title": "Buffett deixa a presid\u00EAncia da Berkshire Hathaway: da rejei\u00E7\u00E3o de Harvard \u00E0 dieta rica em a\u00E7\u00FAcar, veja curiosidades sobre o bilion\u00E1rio",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/18/warren-buffett-deixa-a-presidencia-de-berkshire-hathaway.ghtml",
       "date": "Fri, 18 Sep 2026 12:22:28 -0000"
-    },
-    {
-      "title": "D\u00F3lar abre em queda, com foco em pol\u00EDtica brasileira e pre\u00E7os do petr\u00F3leo no exterior",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/18/dolar-ibovespa.ghtml",
-      "date": "Fri, 18 Sep 2026 12:00:20 -0000"
-    },
-    {
-      "title": "Diretor da Microsoft chamou de \u0027roubo\u0027 uso de reportagens do NYT para treinar modelos da pr\u00F3pria empresa e da OpenAI",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/18/batalha-judicial-nyt-openai-microsoft.ghtml",
-      "date": "Fri, 18 Sep 2026 11:34:27 -0000"
-    },
-    {
-      "title": "Depois do viral: o que acontece quando acaba o assunto que fez um influenciador famoso?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/18/depois-do-viral-o-que-acontece-quando-acaba-o-assunto-que-fez-um-influenciador-famoso.ghtml",
-      "date": "Fri, 18 Sep 2026 08:00:00 -0000"
-    },
-    {
-      "title": "Anatel bloqueia empresas que fizeram mais de 4 milh\u00F5es de chamadas adulteradas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/18/anatel-bloqueio-chamadas-adulteradas.ghtml",
-      "date": "Fri, 18 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "title": "O alerta de chefe da Microsoft sobre a IA: \u0027Tratar a IA como humana \u00E9 um erro\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/18/o-alerta-de-chefe-da-microsoft-sobre-a-ia-tratar-a-ia-como-humana-e-um-erro.ghtml",
-      "date": "Fri, 18 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "title": "CNH vencida voltou a valer: entenda por que governo prorrogou prazo at\u00E9 dezembro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/18/cnh-vencida-voltou-a-valer-entenda-por-que-governo-prorrogou-prazo-ate-dezembro.ghtml",
-      "date": "Fri, 18 Sep 2026 05:00:00 -0000"
-    },
-    {
-      "title": "R$ 30 milh\u00F5es por dano moral: o que fez Luciano Hang, dono da Havan, ser processado por ass\u00E9dio eleitoral?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/18/luciano-hang-mpt-assedio-eleitoral.ghtml",
-      "date": "Fri, 18 Sep 2026 05:00:00 -0000"
     }
   ]
 }
