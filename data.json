@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185016.97,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 185229.17,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.33,
-      "change": -0.58,
-      "changeStr": "-0.58%"
+      "price": 48.5,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.17,
-      "change": -1.8,
-      "changeStr": "-1.80%"
+      "price": 73.37,
+      "change": -1.53,
+      "changeStr": "-1.53%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.43,
-      "change": -0.35,
-      "changeStr": "-0.35%"
+      "price": 42.33,
+      "change": -0.59,
+      "changeStr": "-0.59%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.01,
-      "change": -0.77,
-      "changeStr": "-0.77%"
+      "price": 17.99,
+      "change": -0.88,
+      "changeStr": "-0.88%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.99,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 23.2,
+      "change": 1.84,
+      "changeStr": "\u002B1.84%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.76,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 5.85,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.45,
-      "change": -0.64,
-      "changeStr": "-0.64%"
+      "price": 15.38,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.22,
-      "change": 0.27,
-      "changeStr": "\u002B0.27%"
+      "price": 51.78,
+      "change": 1.37,
+      "changeStr": "\u002B1.37%"
     }
   ],
   "news": [
+    {
+      "title": "V\u00CDDEO: T\u00F3quio testa rob\u00F4s coletores de lixo na esta\u00E7\u00E3o de trem mais movimentada do mundo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/18/video-toquio-testa-robos-coletores-de-lixo-na-estacao-de-trem-mais-movimentada-do-mundo.ghtml",
+      "date": "Fri, 18 Sep 2026 20:08:00 -0000"
+    },
+    {
+      "title": "Lula diz que petr\u00F3leo da Margem Equatorial pode ser um \u0027novo pr\u00E9-sal\u0027 e alerta sobre interesse de Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/18/lula-diz-que-petroleo-da-margem-equatorial-pode-ser-um-novo-pre-sal-e-alerta-sobre-interesse-de-trump.ghtml",
+      "date": "Fri, 18 Sep 2026 17:58:07 -0000"
+    },
     {
       "title": "Nestl\u00E9 \u00E9 alvo de 3 a\u00E7\u00F5es na \u00CDndia ap\u00F3s problemas em produtos para beb\u00EAs",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/18/bc-amplia-uso-do-pix-em-contas-salario-e-reforca-regras-de-seguranca-e-combate-a-fraudes.ghtml",
       "date": "Fri, 18 Sep 2026 12:35:35 -0000"
-    },
-    {
-      "title": "Para combater \u0027fake news\u0027 e orientar empresas, Receita Federal lan\u00E7a p\u00E1gina na internet sobre a reforma tribut\u00E1ria ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/18/para-combater-fake-news-e-orientar-empresas-receita-federal-lanca-pagina-na-internet-sobre-a-reforma-tributaria.ghtml",
-      "date": "Fri, 18 Sep 2026 12:23:30 -0000"
-    },
-    {
-      "title": "Buffett deixa a presid\u00EAncia da Berkshire Hathaway: da rejei\u00E7\u00E3o de Harvard \u00E0 dieta rica em a\u00E7\u00FAcar, veja curiosidades sobre o bilion\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/18/warren-buffett-deixa-a-presidencia-de-berkshire-hathaway.ghtml",
-      "date": "Fri, 18 Sep 2026 12:22:28 -0000"
     }
   ]
 }
