@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186663.66,
-      "change": 0.77,
-      "changeStr": "\u002B0.77%"
+      "price": 186979.56,
+      "change": 0.94,
+      "changeStr": "\u002B0.94%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.2,
-      "change": -0.62,
-      "changeStr": "-0.62%"
+      "price": 48.23,
+      "change": -0.56,
+      "changeStr": "-0.56%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.49,
-      "change": 0.16,
-      "changeStr": "\u002B0.16%"
+      "price": 72.85,
+      "change": -0.71,
+      "changeStr": "-0.71%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.99,
-      "change": 1.56,
-      "changeStr": "\u002B1.56%"
+      "price": 43.15,
+      "change": 1.94,
+      "changeStr": "\u002B1.94%"
     },
     {
       "symbol": "BBDC4",
@@ -32,89 +32,89 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 23.1,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 23.17,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.97,
-      "change": 2.05,
-      "changeStr": "\u002B2.05%"
+      "price": 6.06,
+      "change": 3.59,
+      "changeStr": "\u002B3.59%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.54,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
+      "price": 15.53,
+      "change": 0.98,
+      "changeStr": "\u002B0.98%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.5,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 51,
+      "change": -1.51,
+      "changeStr": "-1.51%"
     }
   ],
   "news": [
     {
-      "title": "O que \u00E9 abandono de trabalho? Entenda regra que levou Eduardo Bolsonaro \u00E0 demiss\u00E3o da PF",
+      "title": "OpenAI pede que EUA liderem cria\u00E7\u00E3o de padr\u00F5es globais para intelig\u00EAncia artificial",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/o-que-e-abandono-de-trabalho-entenda-regra.ghtml",
-      "date": "Mon, 21 Sep 2026 12:15:43 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/openai-pede-que-eua-liderem-criacao-de-padroes-globais-para-inteligencia-artificial.ghtml",
+      "date": "Mon, 21 Sep 2026 18:16:20 -0000"
     },
     {
-      "title": "Conhe\u00E7a a carreira de escriv\u00E3o da PF, cargo de Eduardo Bolsonaro que paga mais de R$ 14 mil no in\u00EDcio",
+      "title": "Estatal italiana Poste Italiane passa a controlar indiretamente a TIM Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/conheca-a-carreira-de-escrivao-da-pf-cargo-do-qual-eduardo-bolsonaro-foi-demitido.ghtml",
-      "date": "Mon, 21 Sep 2026 12:07:38 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/estatal-italiana-poste-italiane-passa-a-controlar-indiretamente-a-tim-brasil.ghtml",
+      "date": "Mon, 21 Sep 2026 18:08:32 -0000"
     },
     {
-      "title": "TST julga nesta segunda greve dos Correios e reivindica\u00E7\u00F5es dos trabalhadores, em paralisa\u00E7\u00E3o h\u00E1 11 dias",
+      "title": "Greve dos Correios continua ap\u00F3s Tribunal do Trabalho suspender julgamento; veja o que acontece agora",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/correios-greve-tst.ghtml",
-      "date": "Mon, 21 Sep 2026 12:03:03 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/greve-correios-tst.ghtml",
+      "date": "Mon, 21 Sep 2026 17:54:49 -0000"
     },
     {
-      "title": "D\u00F3lar abre em queda, com foco em recuo do petr\u00F3leo e reuni\u00E3o entre Trump e Xi Jinping",
+      "title": "Justi\u00E7a libera R$ 2,68 bilh\u00F5es para atrasados do INSS; veja se voc\u00EA tem direito e quando pode receber",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/21/dolar-ibovespa.ghtml",
-      "date": "Mon, 21 Sep 2026 12:00:34 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/21/justica-libera-r-268-bilhoes-para-atrasados-do-inss-veja-se-voce-tem-direito-e-quando-pode-receber.ghtml",
+      "date": "Mon, 21 Sep 2026 17:10:53 -0000"
     },
     {
-      "title": "Tesla enfrenta julgamento por suposta discrimina\u00E7\u00E3o contra trabalhadores negros",
+      "title": "Produ\u00E7\u00E3o industrial tem pior resultado para agosto em 11 anos; inten\u00E7\u00E3o de investir \u00E9 a menor em 6 anos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/tesla-enfrenta-julgamento-por-suposta-discriminacao-contra-trabalhadores-negros.ghtml",
-      "date": "Mon, 21 Sep 2026 11:38:02 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/21/producao-industrial-tem-pior-resultado-para-agosto-em-11-anos-intencao-de-investir-e-a-menor-em-6-anos.ghtml",
+      "date": "Mon, 21 Sep 2026 17:00:00 -0000"
     },
     {
-      "title": "Mercado eleva estimativa de infla\u00E7\u00E3o e passa a prever novo corte de juros neste ano",
+      "title": "Lula diz que Uruguai cedeu ao Brasil parte da cota de exporta\u00E7\u00E3o de carne bovina \u00E0 China\n",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/21/mercado-eleva-estimativa-de-inflacao-e-passa-a-prever-novo-corte-de-juros-neste-ano.ghtml",
-      "date": "Mon, 21 Sep 2026 11:31:27 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/21/lula-diz-que-uruguai-cedeu-ao-brasil-parte-da-cota-de-exportacao-de-carne-bovina-a-china.ghtml",
+      "date": "Mon, 21 Sep 2026 16:55:38 -0000"
     },
     {
-      "title": "UE multa Google em US$ 462 milh\u00F5es por viola\u00E7\u00E3o das regras sobre geolocaliza\u00E7\u00E3o",
+      "title": "Google lan\u00E7a notebook com IA para competir com MacBooks; veja fotos e pre\u00E7o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/ue-multa-google-em-us-462-milhoes-por-violacao-das-regras-sobre-geolocalizacao.ghtml",
-      "date": "Mon, 21 Sep 2026 10:47:15 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/google-lanca-notebook-com-ia-para-competir-com-macbook-e-chromebook.ghtml",
+      "date": "Mon, 21 Sep 2026 16:26:07 -0000"
     },
     {
-      "title": "Senacon abre processos contra 70 postos acusados de aumento abusivo no pre\u00E7o dos combust\u00EDveis",
+      "title": "Discord remove aplicativos usados para contornar suspens\u00E3o de v\u00EDdeos ao vivo no Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/09/21/senacon-abre-processos-contra-70-postos-por-suspeita-de-aumento-abusivo-no-preco-dos-combustiveis.ghtml",
-      "date": "Mon, 21 Sep 2026 10:29:32 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/discord-remove-aplicativos-usados-para-contornar-suspensao-de-videos-ao-vivo-no-brasil.ghtml",
+      "date": "Mon, 21 Sep 2026 16:08:16 -0000"
     },
     {
-      "title": "Voc\u00EA sente culpa ao avisar no trabalho que est\u00E1 doente? Talvez seja por isso...",
+      "title": "Paramount fecha acordo com 12 estados dos EUA que abre caminho para fus\u00E3o de US$ 110 bilh\u00F5es com a Warner",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/voce-sente-culpa-ao-avisar-no-trabalho-que-esta-doente-talvez-seja-por-isso.ghtml",
-      "date": "Mon, 21 Sep 2026 08:32:13 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/21/paramount-eua-warner.ghtml",
+      "date": "Mon, 21 Sep 2026 15:57:54 -0000"
     },
     {
-      "title": "A IA pode ter vontade pr\u00F3pria ou se revoltar contra humanos? ",
+      "title": "AMD entra para grupo de fabricantes de chips avaliadas em US$ 1 trilh\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/entenda-se-a-ia-pode-ter-vontade-propria-ou-se-revoltar-contra-humanos.ghtml",
-      "date": "Mon, 21 Sep 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/amd-entra-para-grupo-de-fabricantes-de-chips-avaliadas-em-us-1-trilhao.ghtml",
+      "date": "Mon, 21 Sep 2026 14:36:27 -0000"
     }
   ]
 }
