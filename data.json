@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185229.17,
-      "change": -0.41,
-      "changeStr": "-0.41%"
+      "price": 186663.66,
+      "change": 0.77,
+      "changeStr": "\u002B0.77%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.5,
-      "change": -0.23,
-      "changeStr": "-0.23%"
+      "price": 48.2,
+      "change": -0.62,
+      "changeStr": "-0.62%"
     },
     {
       "symbol": "VALE3",
-      "price": 73.37,
-      "change": -1.53,
-      "changeStr": "-1.53%"
+      "price": 73.49,
+      "change": 0.16,
+      "changeStr": "\u002B0.16%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.33,
-      "change": -0.59,
-      "changeStr": "-0.59%"
+      "price": 42.99,
+      "change": 1.56,
+      "changeStr": "\u002B1.56%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.99,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "price": 18.16,
+      "change": 0.94,
+      "changeStr": "\u002B0.94%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.2,
-      "change": 1.84,
-      "changeStr": "\u002B1.84%"
+      "price": 23.1,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.85,
+      "price": 5.97,
+      "change": 2.05,
+      "changeStr": "\u002B2.05%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 15.54,
       "change": 1.04,
       "changeStr": "\u002B1.04%"
     },
     {
-      "symbol": "ABEV3",
-      "price": 15.38,
-      "change": -1.09,
-      "changeStr": "-1.09%"
-    },
-    {
       "symbol": "WEGE3",
-      "price": 51.78,
-      "change": 1.37,
-      "changeStr": "\u002B1.37%"
+      "price": 51.5,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     }
   ],
   "news": [
     {
-      "title": "Gasolina com 35% de etanol pode estragar o carro? Veja pe\u00E7as que podem ser afetadas",
+      "title": "O que \u00E9 abandono de trabalho? Entenda regra que levou Eduardo Bolsonaro \u00E0 demiss\u00E3o da PF",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/21/gasolina-com-35percent-de-etanol-pode-estragar-o-carro-veja-pecas-que-podem-ser-afetadas.ghtml",
-      "date": "Mon, 21 Sep 2026 05:00:01 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/o-que-e-abandono-de-trabalho-entenda-regra.ghtml",
+      "date": "Mon, 21 Sep 2026 12:15:43 -0000"
     },
     {
-      "title": "Chefes de empresas de tecnologia pedem desacelera\u00E7\u00E3o da IA \u2014 mas o que a China pensa?",
+      "title": "Conhe\u00E7a a carreira de escriv\u00E3o da PF, cargo de Eduardo Bolsonaro que paga mais de R$ 14 mil no in\u00EDcio",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/chefes-de-empresas-de-tecnologia-pedem-desaceleracao-da-ia-mas-o-que-a-china-pensa.ghtml",
-      "date": "Mon, 21 Sep 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/conheca-a-carreira-de-escrivao-da-pf-cargo-do-qual-eduardo-bolsonaro-foi-demitido.ghtml",
+      "date": "Mon, 21 Sep 2026 12:07:38 -0000"
     },
     {
-      "title": "Transpetro: inscri\u00E7\u00F5es para concurso terminam nesta segunda; sal\u00E1rios chegam a R$ 15 mil",
+      "title": "TST julga nesta segunda greve dos Correios e reivindica\u00E7\u00F5es dos trabalhadores, em paralisa\u00E7\u00E3o h\u00E1 11 dias",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/09/21/transpetro-inscricoes-para-concurso-terminam-nesta-segunda-salarios-chegam-a-r-15-mil.ghtml",
-      "date": "Mon, 21 Sep 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/correios-greve-tst.ghtml",
+      "date": "Mon, 21 Sep 2026 12:03:03 -0000"
     },
     {
-      "title": "Greve da Caixa pode acabar nesta segunda; funcion\u00E1rios votam nova proposta do banco",
+      "title": "D\u00F3lar abre em queda, com foco em recuo do petr\u00F3leo e reuni\u00E3o entre Trump e Xi Jinping",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/greve-da-caixa-pode-acabar-nesta-segunda-funcionarios-votam-nova-proposta-do-banco.ghtml",
-      "date": "Mon, 21 Sep 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/21/dolar-ibovespa.ghtml",
+      "date": "Mon, 21 Sep 2026 12:00:34 -0000"
     },
     {
-      "title": "Ap\u00F3s Master, Dino d\u00E1 90 dias para Fazenda reavaliar regras de atua\u00E7\u00E3o da CVM",
+      "title": "Tesla enfrenta julgamento por suposta discrimina\u00E7\u00E3o contra trabalhadores negros",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/20/apos-master-dino-da-90-dias-para-fazenda-reavaliar-regras-de-atuacao-da-cvm.ghtml",
-      "date": "Sun, 20 Sep 2026 20:50:52 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/tesla-enfrenta-julgamento-por-suposta-discriminacao-contra-trabalhadores-negros.ghtml",
+      "date": "Mon, 21 Sep 2026 11:38:02 -0000"
     },
     {
-      "title": "\nEsta\u00E7\u00E3o espacial chinesa ganha primeira air fryer projetada para o espa\u00E7o",
+      "title": "Mercado eleva estimativa de infla\u00E7\u00E3o e passa a prever novo corte de juros neste ano",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/09/20/estacao-espacial-chinesa-ganha-primeira-air-fryer-projetada-para-o-espaco.ghtml",
-      "date": "Sun, 20 Sep 2026 15:30:31 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/21/mercado-eleva-estimativa-de-inflacao-e-passa-a-prever-novo-corte-de-juros-neste-ano.ghtml",
+      "date": "Mon, 21 Sep 2026 11:31:27 -0000"
     },
     {
-      "title": "Mega-Sena 3060 acumula, e pr\u00EAmio vai a R$ 32 milh\u00F5es; veja os n\u00FAmeros sorteados",
+      "title": "UE multa Google em US$ 462 milh\u00F5es por viola\u00E7\u00E3o das regras sobre geolocaliza\u00E7\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/20/mega-sena-3060-sorteio.ghtml",
-      "date": "Sun, 20 Sep 2026 13:52:22 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/ue-multa-google-em-us-462-milhoes-por-violacao-das-regras-sobre-geolocalizacao.ghtml",
+      "date": "Mon, 21 Sep 2026 10:47:15 -0000"
     },
     {
-      "title": "Produtores do interior de SP aumentam renda com cons\u00F3rcio de culturas  ",
+      "title": "Senacon abre processos contra 70 postos acusados de aumento abusivo no pre\u00E7o dos combust\u00EDveis",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/20/produtores-do-interior-de-sp-aumentam-renda-com-consorcio-de-culturas.ghtml",
-      "date": "Sun, 20 Sep 2026 10:30:00 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/09/21/senacon-abre-processos-contra-70-postos-por-suspeita-de-aumento-abusivo-no-preco-dos-combustiveis.ghtml",
+      "date": "Mon, 21 Sep 2026 10:29:32 -0000"
     },
     {
-      "title": "Clube de jardinagem do Jardim Bot\u00E2nico de Sorocaba oferece aulas gratuitas de poda e cultivo",
+      "title": "Voc\u00EA sente culpa ao avisar no trabalho que est\u00E1 doente? Talvez seja por isso...",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/20/clube-de-jardinagem-do-jardim-botanico-de-sorocaba-oferece-aulas-gratuitas-de-poda-e-cultivo.ghtml",
-      "date": "Sun, 20 Sep 2026 10:30:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/voce-sente-culpa-ao-avisar-no-trabalho-que-esta-doente-talvez-seja-por-isso.ghtml",
+      "date": "Mon, 21 Sep 2026 08:32:13 -0000"
     },
     {
-      "title": "Nostalgia milion\u00E1ria: por que adultos pagam fortunas por brinquedos da inf\u00E2ncia",
+      "title": "A IA pode ter vontade pr\u00F3pria ou se revoltar contra humanos? ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/20/nostalgia-milionaria-por-que-adultos-pagam-fortunas-por-brinquedos-da-infancia.ghtml",
-      "date": "Sun, 20 Sep 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/entenda-se-a-ia-pode-ter-vontade-propria-ou-se-revoltar-contra-humanos.ghtml",
+      "date": "Mon, 21 Sep 2026 08:00:00 -0000"
     }
   ]
 }
