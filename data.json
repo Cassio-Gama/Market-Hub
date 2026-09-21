@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186979.56,
-      "change": 0.94,
-      "changeStr": "\u002B0.94%"
+      "price": 186595.6,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.23,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 48,
+      "change": -1.03,
+      "changeStr": "-1.03%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.85,
-      "change": -0.71,
-      "changeStr": "-0.71%"
+      "price": 72.55,
+      "change": -1.12,
+      "changeStr": "-1.12%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.15,
-      "change": 1.94,
-      "changeStr": "\u002B1.94%"
+      "price": 43.08,
+      "change": 1.77,
+      "changeStr": "\u002B1.77%"
     },
     {
       "symbol": "BBDC4",
@@ -32,30 +32,60 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 23.17,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 22.99,
+      "change": -0.91,
+      "changeStr": "-0.91%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.06,
-      "change": 3.59,
-      "changeStr": "\u002B3.59%"
+      "price": 5.98,
+      "change": 2.22,
+      "changeStr": "\u002B2.22%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.53,
-      "change": 0.98,
-      "changeStr": "\u002B0.98%"
+      "price": 15.5,
+      "change": 0.78,
+      "changeStr": "\u002B0.78%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51,
-      "change": -1.51,
-      "changeStr": "-1.51%"
+      "price": 51.08,
+      "change": -1.35,
+      "changeStr": "-1.35%"
     }
   ],
   "news": [
+    {
+      "title": "Governo encontra espa\u00E7o fiscal de R$ 19,6 bilh\u00F5es no or\u00E7amento; parte vai bancar reajuste do Bolsa Fam\u00EDlia, diz ministro  ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/21/governo-encontra-espaco-fiscal-de-r-196-bilhoes-no-orcamento-parte-vai-bancar-reajuste-do-bolsa-familia-diz-ministro.ghtml",
+      "date": "Mon, 21 Sep 2026 22:42:22 -0000"
+    },
+    {
+      "title": "Funcion\u00E1rios da Caixa rejeitam proposta e greve continua; como ficam as contas e benef\u00EDcios?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/greve-da-caixa-continua-apos-funcionarios-rejeitarem-nova-proposta-do-banco.ghtml",
+      "date": "Mon, 21 Sep 2026 21:56:56 -0000"
+    },
+    {
+      "title": "Empresa \u00E9 condenada a pagar R$ 1,25 milh\u00E3o a funcion\u00E1ria demitida por faltar para fazer quimioterapia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/empresa-e-condenada-a-pagar-r-125-milhao-a-funcionaria-demitida-por-faltar-para-fazer-quimioterapia.ghtml",
+      "date": "Mon, 21 Sep 2026 21:05:28 -0000"
+    },
+    {
+      "title": "Col\u00FAmbia Brit\u00E2nica processa OpenAI nos EUA por ataque armado em escola no Canad\u00E1",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/columbia-britanica-processa-openai-nos-eua-por-ataque-armado-em-escola-no-canada.ghtml",
+      "date": "Mon, 21 Sep 2026 20:11:52 -0000"
+    },
+    {
+      "title": "\u0027Companheiros de IA\u0027: governo pede investiga\u00E7\u00E3o contra chatbots que simulam amizade e romance",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/companheiros-de-ia-governo-pede-investigacao-contra-chatbots-que-simulam-amizade-e-romance.ghtml",
+      "date": "Mon, 21 Sep 2026 19:55:25 -0000"
+    },
     {
       "title": "OpenAI pede que EUA liderem cria\u00E7\u00E3o de padr\u00F5es globais para intelig\u00EAncia artificial",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/21/producao-industrial-tem-pior-resultado-para-agosto-em-11-anos-intencao-de-investir-e-a-menor-em-6-anos.ghtml",
       "date": "Mon, 21 Sep 2026 17:00:00 -0000"
-    },
-    {
-      "title": "Lula diz que Uruguai cedeu ao Brasil parte da cota de exporta\u00E7\u00E3o de carne bovina \u00E0 China\n",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/21/lula-diz-que-uruguai-cedeu-ao-brasil-parte-da-cota-de-exportacao-de-carne-bovina-a-china.ghtml",
-      "date": "Mon, 21 Sep 2026 16:55:38 -0000"
-    },
-    {
-      "title": "Google lan\u00E7a notebook com IA para competir com MacBooks; veja fotos e pre\u00E7o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/google-lanca-notebook-com-ia-para-competir-com-macbook-e-chromebook.ghtml",
-      "date": "Mon, 21 Sep 2026 16:26:07 -0000"
-    },
-    {
-      "title": "Discord remove aplicativos usados para contornar suspens\u00E3o de v\u00EDdeos ao vivo no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/discord-remove-aplicativos-usados-para-contornar-suspensao-de-videos-ao-vivo-no-brasil.ghtml",
-      "date": "Mon, 21 Sep 2026 16:08:16 -0000"
-    },
-    {
-      "title": "Paramount fecha acordo com 12 estados dos EUA que abre caminho para fus\u00E3o de US$ 110 bilh\u00F5es com a Warner",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/21/paramount-eua-warner.ghtml",
-      "date": "Mon, 21 Sep 2026 15:57:54 -0000"
-    },
-    {
-      "title": "AMD entra para grupo de fabricantes de chips avaliadas em US$ 1 trilh\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/21/amd-entra-para-grupo-de-fabricantes-de-chips-avaliadas-em-us-1-trilhao.ghtml",
-      "date": "Mon, 21 Sep 2026 14:36:27 -0000"
     }
   ]
 }
