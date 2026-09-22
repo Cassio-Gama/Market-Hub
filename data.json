@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185708.3,
-      "change": -0.48,
-      "changeStr": "-0.48%"
+      "price": 187107.81,
+      "change": 0.27,
+      "changeStr": "\u002B0.27%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.07,
-      "change": 0.15,
-      "changeStr": "\u002B0.15%"
+      "price": 48.26,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.04,
-      "change": -0.7,
-      "changeStr": "-0.70%"
+      "price": 72.56,
+      "change": 0.01,
+      "changeStr": "\u002B0.01%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.7,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "price": 43.28,
+      "change": 0.46,
+      "changeStr": "\u002B0.46%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.15,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 18.39,
+      "change": 1.27,
+      "changeStr": "\u002B1.27%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.67,
-      "change": -1.39,
-      "changeStr": "-1.39%"
+      "price": 22.58,
+      "change": -1.78,
+      "changeStr": "-1.78%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.98,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 5.97,
+      "change": -0.17,
+      "changeStr": "-0.17%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.46,
-      "change": -0.26,
-      "changeStr": "-0.26%"
+      "price": 15.58,
+      "change": 0.52,
+      "changeStr": "\u002B0.52%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.32,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
+      "price": 51.89,
+      "change": 1.59,
+      "changeStr": "\u002B1.59%"
     }
   ],
   "news": [
+    {
+      "title": "Fazenda reduz previs\u00E3o de crescimento da economia para 2% e cita alta do peso das d\u00EDvidas das fam\u00EDlias",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/22/fazenda-reduz-previsao-de-crescimento-da-economia-para-2percent-e-cita-alta-do-peso-das-dividas-das-familias.ghtml",
+      "date": "Tue, 22 Sep 2026 17:30:56 -0000"
+    },
+    {
+      "title": "Testes de radar de velocidade m\u00E9dia s\u00E3o suspensos pela ANTT para ajustes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/22/testes-de-radar-de-velocidade-suspensos.ghtml",
+      "date": "Tue, 22 Sep 2026 16:33:13 -0000"
+    },
+    {
+      "title": "Petrobras vai perfurar 3 novos po\u00E7os na Foz do Amazonas a partir de janeiro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/22/petrobras-vai-perfurar-3-novos-pocos-na-foz-do-amazonas-a-partir-de-janeiro.ghtml",
+      "date": "Tue, 22 Sep 2026 16:03:07 -0000"
+    },
     {
       "title": "Arrecada\u00E7\u00E3o federal soma R$ 235 bilh\u00F5es em agosto, recorde para o m\u00EAs",
       "source": "G1 Economia",
@@ -93,28 +111,10 @@
       "date": "Tue, 22 Sep 2026 12:17:44 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, de olho em ata do Copom e Lula na ONU",
+      "title": "D\u00F3lar opera em alta, de olho em ata do Copom e Lula na ONU; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/22/dolar-ibovespa.ghtml",
       "date": "Tue, 22 Sep 2026 12:00:35 -0000"
-    },
-    {
-      "title": "Sem dar pistas sobre pr\u00F3ximos passos, BC diz que manter\u00E1 \u0027restri\u00E7\u00E3o adequada\u0027 na pol\u00EDtica de juros para conter infla\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/22/sem-dar-pistas-sobre-proximos-passos-bc-diz-que-mantera-restricao-adequada-na-politica-de-juros-para-conter-inflacao.ghtml",
-      "date": "Tue, 22 Sep 2026 11:09:00 -0000"
-    },
-    {
-      "title": "Gasolina sobe nos EUA e Trump diz que alta \u00E9 \u0027baixo pre\u00E7o a pagar\u0027 por guerra no Ir\u00E3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/22/gasolina-sobe-nos-eua-e-trump-diz-que-alta-e-baixo-preco-a-pagar-por-guerra-no-ira.ghtml",
-      "date": "Tue, 22 Sep 2026 08:00:00 -0000"
-    },
-    {
-      "title": "Lei Seca: drog\u00F4metro ter\u00E1 de diferenciar uso de rem\u00E9dio de \u0027abuso na balada\u0027, diz secret\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/22/lei-seca-drogometro-tera-de-diferenciar-uso-de-remedio-de-abuso-na-balada-diz-secretario.ghtml",
-      "date": "Tue, 22 Sep 2026 07:00:00 -0000"
     }
   ]
 }
