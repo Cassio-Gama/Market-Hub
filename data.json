@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186595.6,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 185708.3,
+      "change": -0.48,
+      "changeStr": "-0.48%"
     },
     {
       "symbol": "PETR4",
-      "price": 48,
-      "change": -1.03,
-      "changeStr": "-1.03%"
+      "price": 48.07,
+      "change": 0.15,
+      "changeStr": "\u002B0.15%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.55,
-      "change": -1.12,
-      "changeStr": "-1.12%"
+      "price": 72.04,
+      "change": -0.7,
+      "changeStr": "-0.70%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.08,
-      "change": 1.77,
-      "changeStr": "\u002B1.77%"
+      "price": 42.7,
+      "change": -0.88,
+      "changeStr": "-0.88%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.16,
-      "change": 0.94,
-      "changeStr": "\u002B0.94%"
+      "price": 18.15,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.99,
-      "change": -0.91,
-      "changeStr": "-0.91%"
+      "price": 22.67,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     },
     {
       "symbol": "MGLU3",
       "price": 5.98,
-      "change": 2.22,
-      "changeStr": "\u002B2.22%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.5,
-      "change": 0.78,
-      "changeStr": "\u002B0.78%"
+      "price": 15.46,
+      "change": -0.26,
+      "changeStr": "-0.26%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.08,
-      "change": -1.35,
-      "changeStr": "-1.35%"
+      "price": 51.32,
+      "change": 0.47,
+      "changeStr": "\u002B0.47%"
     }
   ],
   "news": [
+    {
+      "title": "Arrecada\u00E7\u00E3o federal soma R$ 235 bilh\u00F5es em agosto, recorde para o m\u00EAs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/22/arrecadacao-federal-soma-r-235-bilhoes-em-agosto-recorde-para-o-mes.ghtml",
+      "date": "Tue, 22 Sep 2026 14:00:01 -0000"
+    },
+    {
+      "title": "Anac registra tr\u00EAs casos graves de indisciplina na primeira semana de vig\u00EAncia de novas regras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/09/22/anac-registra-tres-casos-graves-de-indisciplina-na-primeira-semana-de-vigencia-de-novas-regras.ghtml",
+      "date": "Tue, 22 Sep 2026 13:56:09 -0000"
+    },
+    {
+      "title": "Bancos alertam para riscos de golpes, fraudes e vazamento de dados com bots de compras por IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/22/bancos-alertam-para-riscos-de-golpes-e-fraude-em-compras-com-agentes-de-ia.ghtml",
+      "date": "Tue, 22 Sep 2026 13:36:58 -0000"
+    },
+    {
+      "title": "JBS aprova pedido para fechar capital de subsidi\u00E1ria brasileira, mas grupo segue listado na bolsa com JBS N.V.",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/22/operacoes-da-jbs-na-bolsa-de-valores-do-brasil.ghtml",
+      "date": "Tue, 22 Sep 2026 13:32:07 -0000"
+    },
+    {
+      "title": "Vale compra 30% de mineradora por R$ 975 milh\u00F5es e amplia acesso a min\u00E9rio no Par\u00E1",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/22/vale-compra-ferro.ghtml",
+      "date": "Tue, 22 Sep 2026 12:24:39 -0000"
+    },
+    {
+      "title": "Ford do Brasil faz recall de Mustang por falhas el\u00E9tricas; reparo ser\u00E1 feito em 2027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/22/ford-do-brasil-faz-recall-de-mustang.ghtml",
+      "date": "Tue, 22 Sep 2026 12:17:44 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre em alta, de olho em ata do Copom e Lula na ONU",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/22/dolar-ibovespa.ghtml",
+      "date": "Tue, 22 Sep 2026 12:00:35 -0000"
+    },
+    {
+      "title": "Sem dar pistas sobre pr\u00F3ximos passos, BC diz que manter\u00E1 \u0027restri\u00E7\u00E3o adequada\u0027 na pol\u00EDtica de juros para conter infla\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/22/sem-dar-pistas-sobre-proximos-passos-bc-diz-que-mantera-restricao-adequada-na-politica-de-juros-para-conter-inflacao.ghtml",
+      "date": "Tue, 22 Sep 2026 11:09:00 -0000"
+    },
     {
       "title": "Gasolina sobe nos EUA e Trump diz que alta \u00E9 \u0027baixo pre\u00E7o a pagar\u0027 por guerra no Ir\u00E3",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/09/22/lei-seca-drogometro-tera-de-diferenciar-uso-de-remedio-de-abuso-na-balada-diz-secretario.ghtml",
       "date": "Tue, 22 Sep 2026 07:00:00 -0000"
-    },
-    {
-      "title": "\u0027Soltamos a besta\u0027: como o mundo se dividiu sobre at\u00E9 onde deixar a IA avan\u00E7ar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/22/soltamos-a-besta-como-o-mundo-se-dividiu-sobre-ate-onde-deixar-a-ia-avancar.ghtml",
-      "date": "Tue, 22 Sep 2026 07:00:00 -0000"
-    },
-    {
-      "title": "Vale a pena ser mes\u00E1rio? Veja quantos dias de folga voc\u00EA ganha e outros benef\u00EDcios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/22/vale-a-pena-ser-mesario-veja-quantos-dias-de-folga-voce-ganha-e-outros-beneficios.ghtml",
-      "date": "Tue, 22 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Rico Melqu\u00EDades: entenda o ass\u00E9dio eleitoral e as acusa\u00E7\u00F5es em a\u00E7\u00E3o de R$ 5 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/22/rico-melquiades-entenda-o-assedio-eleitoral-e-as-acusacoes-em-acao-de-r-5-milhoes.ghtml",
-      "date": "Tue, 22 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 32 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/22/mega-sena-pode-pagar-r-32-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Tue, 22 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Daniel Klabin, herdeiro da empresa de papel e celulose, se torna o bilion\u00E1rio mais velho do Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/22/daniel-klabin-herdeiro-da-empresa-de-papel-e-celulose-se-torna-o-bilionario-mais-velho-do-brasil.ghtml",
-      "date": "Tue, 22 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Governo encontra espa\u00E7o fiscal de R$ 19,6 bilh\u00F5es no or\u00E7amento; parte vai bancar reajuste do Bolsa Fam\u00EDlia, diz ministro  ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/21/governo-encontra-espaco-fiscal-de-r-196-bilhoes-no-orcamento-parte-vai-bancar-reajuste-do-bolsa-familia-diz-ministro.ghtml",
-      "date": "Mon, 21 Sep 2026 22:42:22 -0000"
-    },
-    {
-      "title": "Funcion\u00E1rios da Caixa rejeitam proposta e greve continua; como ficam as contas e benef\u00EDcios?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/greve-da-caixa-continua-apos-funcionarios-rejeitarem-nova-proposta-do-banco.ghtml",
-      "date": "Mon, 21 Sep 2026 21:56:56 -0000"
-    },
-    {
-      "title": "Empresa \u00E9 condenada a pagar R$ 1,25 milh\u00E3o a funcion\u00E1ria demitida por faltar para fazer quimioterapia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/empresa-e-condenada-a-pagar-r-125-milhao-a-funcionaria-demitida-por-faltar-para-fazer-quimioterapia.ghtml",
-      "date": "Mon, 21 Sep 2026 21:05:28 -0000"
     }
   ]
 }
