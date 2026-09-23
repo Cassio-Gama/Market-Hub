@@ -57,7 +57,19 @@
   ],
   "news": [
     {
-      "title": "Mega-Sena, concurso 3061: confira os n\u00FAmeros sorteados",
+      "title": "Comiss\u00E3o da ONU alerta que Super El Ni\u00F1o pode levar milh\u00F5es \u00E0 pobreza e tirar 2% do PIB da Am\u00E9rica Latina; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/23/comissao-da-onu-alerta-que-super-el-nino-pode-levar-milhoes-a-pobreza-e-tirar-2percent-do-pib-da-america-latina-entenda.ghtml",
+      "date": "Wed, 23 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Anac atualiza regras sobre atrasos e cancelamentos de voos; entenda o que muda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/23/anac-atualiza-regras-sobre-atrasos-e-cancelamentos-de-voos-entenda-o-que-muda.ghtml",
+      "date": "Wed, 23 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Mega-Sena 3061 acumula e pr\u00EAmio vai a R$ 38 milh\u00F5es; confira os n\u00FAmeros sorteados",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/22/mega-sena-concurso-3061-confira-os-numeros-sorteados.ghtml",
       "date": "Wed, 23 Sep 2026 00:02:49 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/22/arrecadacao-federal-soma-r-235-bilhoes-em-agosto-recorde-para-o-mes.ghtml",
       "date": "Tue, 22 Sep 2026 14:00:01 -0000"
-    },
-    {
-      "title": "Anac registra tr\u00EAs casos graves de indisciplina na primeira semana de vig\u00EAncia de novas regras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/09/22/anac-registra-tres-casos-graves-de-indisciplina-na-primeira-semana-de-vigencia-de-novas-regras.ghtml",
-      "date": "Tue, 22 Sep 2026 13:56:09 -0000"
-    },
-    {
-      "title": "Bancos alertam para riscos de golpes, fraudes e vazamento de dados com bots de compras por IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/22/bancos-alertam-para-riscos-de-golpes-e-fraude-em-compras-com-agentes-de-ia.ghtml",
-      "date": "Tue, 22 Sep 2026 13:36:58 -0000"
     }
   ]
 }
