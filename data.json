@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187180.98,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 185979.45,
+      "change": -0.77,
+      "changeStr": "-0.77%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.73,
-      "change": 2.85,
-      "changeStr": "\u002B2.85%"
+      "price": 49.74,
+      "change": 2.87,
+      "changeStr": "\u002B2.87%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.19,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "price": 71.63,
+      "change": -1.65,
+      "changeStr": "-1.65%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.94,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 42.37,
+      "change": -1.88,
+      "changeStr": "-1.88%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.31,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 18.04,
+      "change": -2.12,
+      "changeStr": "-2.12%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.5,
-      "change": -0.75,
-      "changeStr": "-0.75%"
+      "price": 22.23,
+      "change": -1.94,
+      "changeStr": "-1.94%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.16,
-      "change": 4.41,
-      "changeStr": "\u002B4.41%"
+      "price": 6.09,
+      "change": 3.22,
+      "changeStr": "\u002B3.22%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.42,
-      "change": -1.15,
-      "changeStr": "-1.15%"
+      "price": 15.36,
+      "change": -1.54,
+      "changeStr": "-1.54%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.52,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 51.22,
+      "change": -1.12,
+      "changeStr": "-1.12%"
     }
   ],
   "news": [
+    {
+      "title": "L\u00EDderes de IA discutem riscos da tecnologia em reuni\u00E3o do Conselho de Seguran\u00E7a da ONU",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/23/lideres-de-ia-discutem-riscos-da-tecnologia-em-reuniao-do-conselho-de-seguranca-da-onu.ghtml",
+      "date": "Wed, 23 Sep 2026 19:55:39 -0000"
+    },
+    {
+      "title": "Caixa e Correios em greve: quais s\u00E3o as reivindica\u00E7\u00F5es e como ficam os servi\u00E7os?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/23/greves-da-caixa-e-dos-correios-entenda-as-reivindicacoes-e-veja-como-ficam-os-servicos.ghtml",
+      "date": "Wed, 23 Sep 2026 19:14:07 -0000"
+    },
+    {
+      "title": "Globo recebe 5 indica\u00E7\u00F5es ao Emmy Internacional 2026",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/09/23/globo-recebe-indicacoes-ao-emmy-internacional-de-jornalismo-2026.ghtml",
+      "date": "Wed, 23 Sep 2026 18:12:11 -0000"
+    },
     {
       "title": "Geely lan\u00E7a carregador ultrarr\u00E1pido que recarrega carro em 8 minutos para concorrer com a BYD",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/23/eua-rejeitam-pedido-da-china-para-participar-de-negociacao-com-brasil-sobre-tarifaco-na-omc.ghtml",
       "date": "Wed, 23 Sep 2026 13:05:47 -0000"
-    },
-    {
-      "title": "Formaliza\u00E7\u00E3o bate recorde, mas 65% dos empregadores e aut\u00F4nomos ainda n\u00E3o t\u00EAm CNPJ, diz IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/09/23/formalizacao-bate-recorde-mas-65percent-dos-empregadores-e-autonomos-ainda-nao-tem-cnpj-diz-ibge.ghtml",
-      "date": "Wed, 23 Sep 2026 13:00:00 -0000"
-    },
-    {
-      "title": "A era do home office acabou? O que mostram os novos dados do IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/23/trabalho-local-ibge.ghtml",
-      "date": "Wed, 23 Sep 2026 13:00:00 -0000"
-    },
-    {
-      "title": "Brasil bate recorde com 103 milh\u00F5es de pessoas ocupadas; mulheres puxam avan\u00E7o desde 2012",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/23/brasil-bate-recorde-de-pessoas-ocupadas.ghtml",
-      "date": "Wed, 23 Sep 2026 13:00:00 -0000"
     }
   ]
 }
