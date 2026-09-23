@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185979.45,
-      "change": -0.77,
-      "changeStr": "-0.77%"
+      "price": 185814.1,
+      "change": -0.86,
+      "changeStr": "-0.86%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.74,
-      "change": 2.87,
-      "changeStr": "\u002B2.87%"
+      "price": 49.6,
+      "change": 2.59,
+      "changeStr": "\u002B2.59%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.63,
-      "change": -1.65,
-      "changeStr": "-1.65%"
+      "price": 71.48,
+      "change": -1.85,
+      "changeStr": "-1.85%"
     },
     {
       "symbol": "ITUB4",
@@ -26,36 +26,42 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 18.04,
-      "change": -2.12,
-      "changeStr": "-2.12%"
+      "price": 18.03,
+      "change": -2.17,
+      "changeStr": "-2.17%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.23,
-      "change": -1.94,
-      "changeStr": "-1.94%"
+      "price": 22.17,
+      "change": -2.21,
+      "changeStr": "-2.21%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.09,
-      "change": 3.22,
-      "changeStr": "\u002B3.22%"
+      "price": 6.12,
+      "change": 3.73,
+      "changeStr": "\u002B3.73%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.36,
-      "change": -1.54,
-      "changeStr": "-1.54%"
+      "price": 15.3,
+      "change": -1.92,
+      "changeStr": "-1.92%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.22,
-      "change": -1.12,
-      "changeStr": "-1.12%"
+      "price": 51.16,
+      "change": -1.24,
+      "changeStr": "-1.24%"
     }
   ],
   "news": [
+    {
+      "title": "Agente da OpenAI invadiu site do governo da Austr\u00E1lia, diz primeiro-ministro; caso \u00E9 in\u00E9dito",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/23/agente-da-openai-invadiu-site-do-governo-da-australia-diz-primeiro-ministro-caso-e-inedito.ghtml",
+      "date": "Wed, 23 Sep 2026 22:09:16 -0000"
+    },
     {
       "title": "L\u00EDderes de IA discutem riscos da tecnologia em reuni\u00E3o do Conselho de Seguran\u00E7a da ONU",
       "source": "G1 Economia",
@@ -67,6 +73,12 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/23/greves-da-caixa-e-dos-correios-entenda-as-reivindicacoes-e-veja-como-ficam-os-servicos.ghtml",
       "date": "Wed, 23 Sep 2026 19:14:07 -0000"
+    },
+    {
+      "title": "STF conclui julgamento e  decide igualar licen\u00E7a maternidade de m\u00E3es biol\u00F3gica e adotivas ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/23/stf-conclui-julgamento-e-decide-igualar-licenca-maternidade-de-maes-biologica-e-adotivas.ghtml",
+      "date": "Wed, 23 Sep 2026 18:20:31 -0000"
     },
     {
       "title": "Globo recebe 5 indica\u00E7\u00F5es ao Emmy Internacional 2026",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/23/flavio-bolsonaro-espera-sair-na-frente-no-primeiro-turno-para-atrair-apoio-do-centrao.ghtml",
       "date": "Wed, 23 Sep 2026 14:20:24 -0000"
-    },
-    {
-      "title": "Como \u00E9 o E2, avi\u00E3o da brasileira Embraer, e por que ele \u00E9 considerado um sucesso comercial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/23/como-e-o-e2-aviao-da-brasileira-embraer-e-por-que-ele-e-considerado-um-sucesso-comercial.ghtml",
-      "date": "Wed, 23 Sep 2026 13:32:56 -0000"
-    },
-    {
-      "title": "EUA rejeitam pedido da China para participar de negocia\u00E7\u00E3o com Brasil sobre tarifa\u00E7o na OMC",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/23/eua-rejeitam-pedido-da-china-para-participar-de-negociacao-com-brasil-sobre-tarifaco-na-omc.ghtml",
-      "date": "Wed, 23 Sep 2026 13:05:47 -0000"
     }
   ]
 }
