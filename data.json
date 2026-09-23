@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187422.92,
-      "change": 0.44,
-      "changeStr": "\u002B0.44%"
+      "price": 187180.98,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.35,
-      "change": 0.73,
-      "changeStr": "\u002B0.73%"
+      "price": 49.73,
+      "change": 2.85,
+      "changeStr": "\u002B2.85%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.83,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 72.19,
+      "change": -0.88,
+      "changeStr": "-0.88%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.18,
-      "change": 0.23,
-      "changeStr": "\u002B0.23%"
+      "price": 42.94,
+      "change": -0.56,
+      "changeStr": "-0.56%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.43,
-      "change": 1.49,
-      "changeStr": "\u002B1.49%"
+      "price": 18.31,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.67,
-      "change": -1.39,
-      "changeStr": "-1.39%"
+      "price": 22.5,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.9,
-      "change": -1.34,
-      "changeStr": "-1.34%"
+      "price": 6.16,
+      "change": 4.41,
+      "changeStr": "\u002B4.41%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.6,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 15.42,
+      "change": -1.15,
+      "changeStr": "-1.15%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.8,
-      "change": 1.41,
-      "changeStr": "\u002B1.41%"
+      "price": 51.52,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     }
   ],
   "news": [
     {
-      "title": "Por que os candidatos a presidente querem construir mais data centers no Brasil",
+      "title": "Geely lan\u00E7a carregador ultrarr\u00E1pido que recarrega carro em 8 minutos para concorrer com a BYD",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/23/por-que-os-candidatos-a-presidente-querem-construir-mais-data-centers-no-brasil.ghtml",
-      "date": "Wed, 23 Sep 2026 10:21:39 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/09/23/geely-lanca-carregador-ultrarrapido-que-recarrega-carro-em-8-minutos.ghtml",
+      "date": "Wed, 23 Sep 2026 15:25:48 -0000"
     },
     {
-      "title": "Os 10 dias que abalaram a corrida da IA: por que l\u00EDderes do setor agora pedem para \u0027pisar no freio\u0027",
+      "title": "Petrobras garante importa\u00E7\u00E3o de 650 milh\u00F5es de litros de diesel para outubro",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/23/os-10-dias-que-abalaram-a-corrida-da-ia-por-que-lideres-do-setor-agora-pedem-para-pisar-no-freio.ghtml",
-      "date": "Wed, 23 Sep 2026 07:00:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/23/petrobras-garante-importacao-de-650-milhoes-de-litros-de-diesel-para-outubro.ghtml",
+      "date": "Wed, 23 Sep 2026 15:18:28 -0000"
     },
     {
-      "title": "Vendas de rob\u00F4s humanoides atingiram 7 mil unidades em todo o mundo em 2025",
+      "title": "OCDE cita \u2018demanda interna resiliente\u2019 e eleva previs\u00E3o do PIB brasileiro em 2026",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/23/vendas-de-robos-humanoides-atingiram-7-mil-unidades-em-todo-o-mundo-em-2025.ghtml",
-      "date": "Wed, 23 Sep 2026 07:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/23/ocde-eleva-previsao-para-pib-do-brasil-em-2026-e-cita-demanda-domestica-resiliente.ghtml",
+      "date": "Wed, 23 Sep 2026 15:13:49 -0000"
     },
     {
-      "title": "Nostalgia dos anos 1980 esquece um detalhe: a infla\u00E7\u00E3o chegou a quase 1.800%; relembre",
+      "title": "As ambi\u00E7\u00F5es da China com IA em meio \u00E0s conversas de Trump com Xi",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/09/23/nostalgia-dos-anos-1980-esquece-um-detalhe-a-inflacao-chegou-a-quase-1800percent-relembre.ghtml",
-      "date": "Wed, 23 Sep 2026 06:00:01 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/23/as-ambicoes-da-china-com-ia-em-meio-as-conversas-de-trump-com-xi.ghtml",
+      "date": "Wed, 23 Sep 2026 14:21:06 -0000"
     },
     {
-      "title": "Elei\u00E7\u00F5es: postar opini\u00E3o pol\u00EDtica nas redes sociais pode afetar a vida profissional? Entenda",
+      "title": "Fl\u00E1vio Bolsonaro espera sair na frente no primeiro turno para atrair apoio do Centr\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/23/eleicoes-postar-opiniao-politica-nas-redes-sociais-pode-afetar-a-vida-profissional-entenda.ghtml",
-      "date": "Wed, 23 Sep 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/23/flavio-bolsonaro-espera-sair-na-frente-no-primeiro-turno-para-atrair-apoio-do-centrao.ghtml",
+      "date": "Wed, 23 Sep 2026 14:20:24 -0000"
     },
     {
-      "title": "Comiss\u00E3o da ONU alerta que Super El Ni\u00F1o pode levar milh\u00F5es \u00E0 pobreza e tirar 2% do PIB da Am\u00E9rica Latina; entenda",
+      "title": "Como \u00E9 o E2, avi\u00E3o da brasileira Embraer, e por que ele \u00E9 considerado um sucesso comercial",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/23/comissao-da-onu-alerta-que-super-el-nino-pode-levar-milhoes-a-pobreza-e-tirar-2percent-do-pib-da-america-latina-entenda.ghtml",
-      "date": "Wed, 23 Sep 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/23/como-e-o-e2-aviao-da-brasileira-embraer-e-por-que-ele-e-considerado-um-sucesso-comercial.ghtml",
+      "date": "Wed, 23 Sep 2026 13:32:56 -0000"
     },
     {
-      "title": "Anac atualiza regras sobre atrasos e cancelamentos de voos; entenda o que muda",
+      "title": "EUA rejeitam pedido da China para participar de negocia\u00E7\u00E3o com Brasil sobre tarifa\u00E7o na OMC",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/23/anac-atualiza-regras-sobre-atrasos-e-cancelamentos-de-voos-entenda-o-que-muda.ghtml",
-      "date": "Wed, 23 Sep 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/23/eua-rejeitam-pedido-da-china-para-participar-de-negociacao-com-brasil-sobre-tarifaco-na-omc.ghtml",
+      "date": "Wed, 23 Sep 2026 13:05:47 -0000"
     },
     {
-      "title": "Mega-Sena 3061 acumula e pr\u00EAmio vai a R$ 38 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "title": "Formaliza\u00E7\u00E3o bate recorde, mas 65% dos empregadores e aut\u00F4nomos ainda n\u00E3o t\u00EAm CNPJ, diz IBGE",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/22/mega-sena-concurso-3061-confira-os-numeros-sorteados.ghtml",
-      "date": "Wed, 23 Sep 2026 00:02:49 -0000"
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/09/23/formalizacao-bate-recorde-mas-65percent-dos-empregadores-e-autonomos-ainda-nao-tem-cnpj-diz-ibge.ghtml",
+      "date": "Wed, 23 Sep 2026 13:00:00 -0000"
     },
     {
-      "title": "Falha em GPS usado por avi\u00F5es da Embraer afeta voos da Azul",
+      "title": "A era do home office acabou? O que mostram os novos dados do IBGE",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/22/falha-gps-avioes-embraer.ghtml",
-      "date": "Tue, 22 Sep 2026 23:47:26 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/23/trabalho-local-ibge.ghtml",
+      "date": "Wed, 23 Sep 2026 13:00:00 -0000"
     },
     {
-      "title": "INSS amplia prazo de aux\u00EDlio-doen\u00E7a sem per\u00EDcia; veja o que muda",
+      "title": "Brasil bate recorde com 103 milh\u00F5es de pessoas ocupadas; mulheres puxam avan\u00E7o desde 2012",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/22/inss-prazo-auxilio-doenca.ghtml",
-      "date": "Tue, 22 Sep 2026 20:02:10 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/23/brasil-bate-recorde-de-pessoas-ocupadas.ghtml",
+      "date": "Wed, 23 Sep 2026 13:00:00 -0000"
     }
   ]
 }
