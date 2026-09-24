@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185679.5,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 184231.06,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "PETR4",
-      "price": 50.12,
-      "change": 1.05,
-      "changeStr": "\u002B1.05%"
+      "price": 49.3,
+      "change": -0.6,
+      "changeStr": "-0.60%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.28,
-      "change": -0.28,
-      "changeStr": "-0.28%"
+      "price": 70.76,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.41,
-      "change": 0.09,
-      "changeStr": "\u002B0.09%"
+      "price": 42.04,
+      "change": -0.78,
+      "changeStr": "-0.78%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.9,
-      "change": -0.72,
-      "changeStr": "-0.72%"
+      "price": 17.72,
+      "change": -1.72,
+      "changeStr": "-1.72%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.85,
-      "change": -1.44,
-      "changeStr": "-1.44%"
+      "price": 21.57,
+      "change": -2.71,
+      "changeStr": "-2.71%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.07,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 6.1,
+      "change": -0.33,
+      "changeStr": "-0.33%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.46,
-      "change": 1.05,
-      "changeStr": "\u002B1.05%"
+      "price": 15.42,
+      "change": 0.78,
+      "changeStr": "\u002B0.78%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.48,
-      "change": -1.33,
-      "changeStr": "-1.33%"
+      "price": 50.93,
+      "change": -0.45,
+      "changeStr": "-0.45%"
     }
   ],
   "news": [
+    {
+      "title": "SIGA: ap\u00F3s encontro com Trump, Xi Jinping deixa a Casa Branca; l\u00EDderes se reunir\u00E3o novamente \u00E0 noite",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/ao-vivo/trump-e-xi-jinping-se-reunem-nos-eua.ghtml",
+      "date": "Thu, 24 Sep 2026 17:46:37 -0000"
+    },
+    {
+      "title": "BC est\u00E1 preocupado com ofertas \u0027agressivas e predat\u00F3rias\u0027 de cr\u00E9dito, diz Gal\u00EDpolo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/24/bc-esta-preocupado-com-ofertas-agressivas-e-predatorias-de-credito-diz-galipolo.ghtml",
+      "date": "Thu, 24 Sep 2026 16:42:17 -0000"
+    },
+    {
+      "title": "Petroleiros ligados ao Ir\u00E3 apreendidos pelos EUA navegam pelo Atl\u00E2ntico",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/24/petroleiros-iranianos-apreendidos-pelos-eua-cruzam-atlantico.ghtml",
+      "date": "Thu, 24 Sep 2026 16:41:09 -0000"
+    },
+    {
+      "title": "Subven\u00E7\u00F5es aos combust\u00EDveis j\u00E1 custaram R$ 40 bilh\u00F5es, diz ministro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/24/subvencoes-aos-combustiveis-ja-custaram-r40-bi-diz-ministro.ghtml",
+      "date": "Thu, 24 Sep 2026 15:28:05 -0000"
+    },
     {
       "title": "Justi\u00E7a libera funcionamento de supermercados em feriados sem negocia\u00E7\u00E3o coletiva",
       "source": "G1 Economia",
@@ -67,12 +91,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/24/google-testa-chips-de-ia-no-espaco.ghtml",
       "date": "Thu, 24 Sep 2026 14:21:29 -0000"
-    },
-    {
-      "title": "AO VIVO: Trump e Xi Jinping se re\u00FAnem na Casa Branca",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/ao-vivo/trump-e-xi-jinping-se-reunem-nos-eua.ghtml",
-      "date": "Thu, 24 Sep 2026 14:19:55 -0000"
     },
     {
       "title": "Governo acomoda reajuste do Bolsa Fam\u00EDlia no or\u00E7amento deste ano e eleva estimativa de rombo fiscal",
@@ -93,28 +111,10 @@
       "date": "Thu, 24 Sep 2026 12:37:01 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta e bate R$ 5,19, com reuni\u00E3o entre Trump e Xi Jinping no foco; Ibovespa cai",
+      "title": "D\u00F3lar opera em alta e bate R$ 5,20, com reuni\u00E3o entre Trump e Xi Jinping no foco; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/24/dolar-ibovespa.ghtml",
       "date": "Thu, 24 Sep 2026 12:00:18 -0000"
-    },
-    {
-      "title": "Caixa aciona TST contra greve ap\u00F3s media\u00E7\u00E3o terminar sem acordo; como ficam as contas e benef\u00EDcios?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/24/greve-caixa-acordo.ghtml",
-      "date": "Thu, 24 Sep 2026 11:50:23 -0000"
-    },
-    {
-      "title": "Ford do Brasil faz recall da Ranger 2.0 modelo 2027 por poss\u00EDvel falha em freios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/24/ford-recall-ranger-freios.ghtml",
-      "date": "Thu, 24 Sep 2026 11:23:14 -0000"
-    },
-    {
-      "title": "BC reduz para 1,8% estimativa de alta do PIB neste ano e v\u00EA nova desacelera\u00E7\u00E3o em 2027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/24/bc-reduzo-para-18percent-estimativa-de-alta-do-pib-neste-ano-e-ve-nova-desaceleracao-em-2027.ghtml",
-      "date": "Thu, 24 Sep 2026 11:04:28 -0000"
     }
   ]
 }
