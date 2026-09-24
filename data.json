@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185814.1,
-      "change": -0.86,
-      "changeStr": "-0.86%"
+      "price": 185679.5,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.6,
-      "change": 2.59,
-      "changeStr": "\u002B2.59%"
+      "price": 50.12,
+      "change": 1.05,
+      "changeStr": "\u002B1.05%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.48,
-      "change": -1.85,
-      "changeStr": "-1.85%"
+      "price": 71.28,
+      "change": -0.28,
+      "changeStr": "-0.28%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.37,
-      "change": -1.88,
-      "changeStr": "-1.88%"
+      "price": 42.41,
+      "change": 0.09,
+      "changeStr": "\u002B0.09%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.03,
-      "change": -2.17,
-      "changeStr": "-2.17%"
+      "price": 17.9,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.17,
-      "change": -2.21,
-      "changeStr": "-2.21%"
+      "price": 21.85,
+      "change": -1.44,
+      "changeStr": "-1.44%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.12,
-      "change": 3.73,
-      "changeStr": "\u002B3.73%"
+      "price": 6.07,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.3,
-      "change": -1.92,
-      "changeStr": "-1.92%"
+      "price": 15.46,
+      "change": 1.05,
+      "changeStr": "\u002B1.05%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.16,
-      "change": -1.24,
-      "changeStr": "-1.24%"
+      "price": 50.48,
+      "change": -1.33,
+      "changeStr": "-1.33%"
     }
   ],
   "news": [
     {
-      "title": "IBGE quer incluir mercado de drogas il\u00EDcitas no PIB; entenda por que e como ser\u00E1 o c\u00E1lculo",
+      "title": "Justi\u00E7a libera funcionamento de supermercados em feriados sem negocia\u00E7\u00E3o coletiva",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/24/ibge-quer-incluir-mercado-de-drogas-ilicitas-no-pib-entenda-por-que-e-como-sera-o-calculo.ghtml",
-      "date": "Thu, 24 Sep 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/24/justica-libera-funcionamento-de-supermercados-em-feriados-sem-negociacao-coletiva.ghtml",
+      "date": "Thu, 24 Sep 2026 14:34:18 -0000"
     },
     {
-      "title": "\u0027Ela n\u00E3o existe, mas paga meu cart\u00E3o\u0027: avatares de IA viram m\u00E1quinas de ganhar dinheiro nas redes",
+      "title": "Google testa chips de IA no espa\u00E7o em lan\u00E7amento de sat\u00E9lite",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/24/ela-nao-existe-mas-paga-meu-cartao-avatares-de-ia-viram-maquinas-de-ganhar-dinheiro-nas-redes.ghtml",
-      "date": "Thu, 24 Sep 2026 07:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/24/google-testa-chips-de-ia-no-espaco.ghtml",
+      "date": "Thu, 24 Sep 2026 14:21:29 -0000"
     },
     {
-      "title": "Elei\u00E7\u00F5es: como lidar com opini\u00F5es pol\u00EDticas diferentes no ambiente de trabalho? Entenda",
+      "title": "AO VIVO: Trump e Xi Jinping se re\u00FAnem na Casa Branca",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/24/eleicoes-como-lidar-com-opinioes-politicas-diferentes-no-ambiente-de-trabalho-entenda.ghtml",
-      "date": "Thu, 24 Sep 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/mundo/ao-vivo/trump-e-xi-jinping-se-reunem-nos-eua.ghtml",
+      "date": "Thu, 24 Sep 2026 14:19:55 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 38 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "title": "Governo acomoda reajuste do Bolsa Fam\u00EDlia no or\u00E7amento deste ano e eleva estimativa de rombo fiscal",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/24/mega-sena-pode-pagar-r-38-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 24 Sep 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/24/governo-acomoda-reajuste-do-bolsa-familia-no-orcamento-deste-ano.ghtml",
+      "date": "Thu, 24 Sep 2026 12:56:49 -0000"
     },
     {
-      "title": "INSS inicia pagamento de benef\u00EDcios de setembro; veja calend\u00E1rio",
+      "title": "Terras raras, tarifas, agro e IA: entenda o que Trump e Xi negociam e os impactos para o Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/24/inss-inicia-pagamento-de-beneficios-de-setembro-veja-calendario.ghtml",
-      "date": "Thu, 24 Sep 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/24/trump-xi-negociacoes-encontro.ghtml",
+      "date": "Thu, 24 Sep 2026 12:44:48 -0000"
     },
     {
-      "title": "Meta lan\u00E7a \u00F3culos inteligentes sem c\u00E2mera ap\u00F3s reclama\u00E7\u00F5es por v\u00EDdeos sem consentimento; veja como eles funcionam",
+      "title": "Banco Central come\u00E7a a avaliar liga\u00E7\u00E3o do PIX com a Europa para permitir remessas internacionais em \u0027poucos segundos\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/24/meta-lanca-oculos-inteligentes-sem-camera-apos-reclamacoes-por-videos-sem-consentimento-veja-como-eles-funcionam.ghtml",
-      "date": "Thu, 24 Sep 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/24/banco-central-comeca-a-avaliar-ligacao-do-pix-com-a-europa.ghtml",
+      "date": "Thu, 24 Sep 2026 12:37:01 -0000"
     },
     {
-      "title": "Greve nos Correios: TST decide se paralisa\u00E7\u00E3o h\u00E1 14 dias \u00E9 abusiva; veja o que est\u00E1 em jogo",
+      "title": "D\u00F3lar opera em alta e bate R$ 5,19, com reuni\u00E3o entre Trump e Xi Jinping no foco; Ibovespa cai",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/24/greve-nos-correios-tst-decide-se-paralisacao-ha-14-dias-e-abusiva-veja-o-que-esta-em-jogo.ghtml",
-      "date": "Thu, 24 Sep 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/24/dolar-ibovespa.ghtml",
+      "date": "Thu, 24 Sep 2026 12:00:18 -0000"
     },
     {
-      "title": "BC aperta regras para criptoativos e exige aviso ao Coaf para transfer\u00EAncias acima de US$ 10 mil",
+      "title": "Caixa aciona TST contra greve ap\u00F3s media\u00E7\u00E3o terminar sem acordo; como ficam as contas e benef\u00EDcios?",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/23/bc-regras-criptoativos.ghtml",
-      "date": "Thu, 24 Sep 2026 01:36:04 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/24/greve-caixa-acordo.ghtml",
+      "date": "Thu, 24 Sep 2026 11:50:23 -0000"
     },
     {
-      "title": "EUA e China prorrogam tr\u00E9gua comercial at\u00E9 janeiro, diz secret\u00E1rio do Tesouro americano",
+      "title": "Ford do Brasil faz recall da Ranger 2.0 modelo 2027 por poss\u00EDvel falha em freios",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/23/eua-china-tregua-comercial.ghtml",
-      "date": "Thu, 24 Sep 2026 00:39:06 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/09/24/ford-recall-ranger-freios.ghtml",
+      "date": "Thu, 24 Sep 2026 11:23:14 -0000"
     },
     {
-      "title": "Agente da OpenAI invadiu site do governo da Austr\u00E1lia, diz primeiro-ministro; caso \u00E9 in\u00E9dito",
+      "title": "BC reduz para 1,8% estimativa de alta do PIB neste ano e v\u00EA nova desacelera\u00E7\u00E3o em 2027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/23/agente-da-openai-invadiu-site-do-governo-da-australia-diz-primeiro-ministro-caso-e-inedito.ghtml",
-      "date": "Wed, 23 Sep 2026 22:09:16 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/24/bc-reduzo-para-18percent-estimativa-de-alta-do-pib-neste-ano-e-ve-nova-desaceleracao-em-2027.ghtml",
+      "date": "Thu, 24 Sep 2026 11:04:28 -0000"
     }
   ]
 }
