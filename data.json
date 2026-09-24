@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 184231.06,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 183965.9,
+      "change": -0.99,
+      "changeStr": "-0.99%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.3,
-      "change": -0.6,
-      "changeStr": "-0.60%"
+      "price": 49.26,
+      "change": -0.69,
+      "changeStr": "-0.69%"
     },
     {
       "symbol": "VALE3",
-      "price": 70.76,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 70.66,
+      "change": -1.15,
+      "changeStr": "-1.15%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.04,
-      "change": -0.78,
-      "changeStr": "-0.78%"
+      "price": 41.87,
+      "change": -1.18,
+      "changeStr": "-1.18%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.72,
-      "change": -1.72,
-      "changeStr": "-1.72%"
+      "price": 17.78,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.57,
-      "change": -2.71,
-      "changeStr": "-2.71%"
+      "price": 21.54,
+      "change": -2.84,
+      "changeStr": "-2.84%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.1,
-      "change": -0.33,
-      "changeStr": "-0.33%"
+      "price": 6.3,
+      "change": 2.94,
+      "changeStr": "\u002B2.94%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.42,
-      "change": 0.78,
-      "changeStr": "\u002B0.78%"
+      "price": 15.34,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.93,
-      "change": -0.45,
-      "changeStr": "-0.45%"
+      "price": 50.74,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     }
   ],
   "news": [
+    {
+      "title": "Passageiro exp\u00F5e genit\u00E1lia em avi\u00E3o e perde o direito de voar por seis meses",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/24/passageiro-expoe-genitalia-em-aviao-e-perde-direito-de-voar-por-seis-meses.ghtml",
+      "date": "Thu, 24 Sep 2026 21:58:47 -0000"
+    },
+    {
+      "title": "Argentina: pobreza sobe de 28,2% para 32,3% no primeiro semestre",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/24/argentina-indice-pobreza.ghtml",
+      "date": "Thu, 24 Sep 2026 21:51:10 -0000"
+    },
+    {
+      "title": "TST marca julgamento da greve na Caixa; o que pode acontecer? Como ficam contas e benef\u00EDcios?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/24/greve-caixa.ghtml",
+      "date": "Thu, 24 Sep 2026 20:47:55 -0000"
+    },
+    {
+      "title": "\u0027Tamagotchi\u0027 com IA: como funciona o Muse Charm, novo dispositivo da Meta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/24/tamagotchi-com-ia-como-funciona-o-muse-charm-novo-dispositivo-da-meta.ghtml",
+      "date": "Thu, 24 Sep 2026 20:47:35 -0000"
+    },
+    {
+      "title": "Greve nos Correios: TST considera paralisa\u00E7\u00E3o n\u00E3o abusiva e afasta fim imediato do movimento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/24/greve-nos-correios-tst.ghtml",
+      "date": "Thu, 24 Sep 2026 19:40:08 -0000"
+    },
     {
       "title": "SIGA: ap\u00F3s encontro com Trump, Xi Jinping deixa a Casa Branca; l\u00EDderes se reunir\u00E3o novamente \u00E0 noite",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/24/justica-libera-funcionamento-de-supermercados-em-feriados-sem-negociacao-coletiva.ghtml",
       "date": "Thu, 24 Sep 2026 14:34:18 -0000"
-    },
-    {
-      "title": "Google testa chips de IA no espa\u00E7o em lan\u00E7amento de sat\u00E9lite",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/24/google-testa-chips-de-ia-no-espaco.ghtml",
-      "date": "Thu, 24 Sep 2026 14:21:29 -0000"
-    },
-    {
-      "title": "Governo acomoda reajuste do Bolsa Fam\u00EDlia no or\u00E7amento deste ano e eleva estimativa de rombo fiscal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/24/governo-acomoda-reajuste-do-bolsa-familia-no-orcamento-deste-ano.ghtml",
-      "date": "Thu, 24 Sep 2026 12:56:49 -0000"
-    },
-    {
-      "title": "Terras raras, tarifas, agro e IA: entenda o que Trump e Xi negociam e os impactos para o Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/24/trump-xi-negociacoes-encontro.ghtml",
-      "date": "Thu, 24 Sep 2026 12:44:48 -0000"
-    },
-    {
-      "title": "Banco Central come\u00E7a a avaliar liga\u00E7\u00E3o do PIX com a Europa para permitir remessas internacionais em \u0027poucos segundos\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/24/banco-central-comeca-a-avaliar-ligacao-do-pix-com-a-europa.ghtml",
-      "date": "Thu, 24 Sep 2026 12:37:01 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta e bate R$ 5,20, com reuni\u00E3o entre Trump e Xi Jinping no foco; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/24/dolar-ibovespa.ghtml",
-      "date": "Thu, 24 Sep 2026 12:00:18 -0000"
     }
   ]
 }
