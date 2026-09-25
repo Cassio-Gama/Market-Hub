@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 183912.92,
-      "change": -0.03,
-      "changeStr": "-0.03%"
+      "price": 183358.83,
+      "change": -0.33,
+      "changeStr": "-0.33%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.72,
-      "change": -1.1,
-      "changeStr": "-1.10%"
+      "price": 48.08,
+      "change": -2.4,
+      "changeStr": "-2.40%"
     },
     {
       "symbol": "VALE3",
-      "price": 70.55,
-      "change": -0.16,
-      "changeStr": "-0.16%"
+      "price": 70.72,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.96,
-      "change": 0.21,
-      "changeStr": "\u002B0.21%"
+      "price": 42.22,
+      "change": 0.84,
+      "changeStr": "\u002B0.84%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.84,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 17.85,
+      "change": 0.39,
+      "changeStr": "\u002B0.39%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.56,
-      "change": 0.09,
-      "changeStr": "\u002B0.09%"
+      "price": 21.61,
+      "change": 0.32,
+      "changeStr": "\u002B0.32%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.47,
-      "change": 2.7,
-      "changeStr": "\u002B2.70%"
+      "price": 6.67,
+      "change": 5.87,
+      "changeStr": "\u002B5.87%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.33,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 15.24,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.68,
-      "change": -0.12,
-      "changeStr": "-0.12%"
+      "price": 50.95,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     }
   ],
   "news": [
+    {
+      "title": "Xi Jinping encerra visita de Estado aos EUA ap\u00F3s encontros com Trump; saiba como foi",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/ao-vivo/trump-e-xi-jinping-se-reunem-nos-eua.ghtml",
+      "date": "Fri, 25 Sep 2026 17:10:09 -0000"
+    },
+    {
+      "title": "Justi\u00E7a dos EUA mant\u00E9m dona da IA Claude entre empresas de risco \u00E0 seguran\u00E7a nacional",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/25/anthropic-estados-unidos-seguranca-nacional.ghtml",
+      "date": "Fri, 25 Sep 2026 17:00:10 -0000"
+    },
+    {
+      "title": "Embraer entrega o primeiro avi\u00E3o C-390 Millennium \u00E0 For\u00E7a A\u00E9rea do Uzbequist\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/25/embraer-entrega-o-primeiro-c-390-millennium-a-forca-aerea-do-uzbequistao.ghtml",
+      "date": "Fri, 25 Sep 2026 16:36:18 -0000"
+    },
+    {
+      "title": "Volkswagen e Audi anunciam recall de quase 3 milh\u00F5es de carros em todo o mundo; veja modelos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/25/volkswagen-e-audi-anunciam-recall-de-quase-3-milhoes-de-carros-veja-modelos-afetados.ghtml",
+      "date": "Fri, 25 Sep 2026 16:28:48 -0000"
+    },
+    {
+      "title": "Abelhas sem ferr\u00E3o: manual ensina a transferir enxames para a colmeia definitiva",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/25/abelhas-sem-ferrao-manual-ensina-a-transferir-enxames-para-a-colmeia-definitiva.ghtml",
+      "date": "Fri, 25 Sep 2026 16:03:55 -0000"
+    },
+    {
+      "title": "AGU e Gilmar Mendes fecham cerco contra \u0027ind\u00FAstria de precat\u00F3rios\u0027 usada pelo Master",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/25/agu-e-gilmar-mendes-fecham-cerco-contra-industria-de-precatorios-usada-pelo-master.ghtml",
+      "date": "Fri, 25 Sep 2026 14:48:34 -0000"
+    },
+    {
+      "title": "Brasil registra mais de 870 mil ind\u00EDcios de contas laranja em seis meses, mostra levantamento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/25/brasil-registra-mais-de-870-mil-indicios-de-contas-laranja-em-seis-meses-mostra-levantamento.ghtml",
+      "date": "Fri, 25 Sep 2026 14:00:00 -0000"
+    },
     {
       "title": "Na mira de Lula, bets planejam ampliar apostas para pontos f\u00EDsicos; governo previa regulamenta\u00E7\u00E3o",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/fim-da-greve-dos-correios.ghtml",
       "date": "Fri, 25 Sep 2026 12:10:13 -0000"
-    },
-    {
-      "title": "IPCA-15: pre\u00E7os sobem 0,70% em setembro, puxados pela energia el\u00E9trica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/25/ipca-15-previa-da-inflacao-setembro.ghtml",
-      "date": "Fri, 25 Sep 2026 12:00:07 -0000"
-    },
-    {
-      "title": "D\u00F3lar abre em queda, ap\u00F3s reuni\u00E3o entre Trump e Xi Jinping e com elei\u00E7\u00F5es no radar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/25/dolar-ibovespa.ghtml",
-      "date": "Fri, 25 Sep 2026 12:00:00 -0000"
-    },
-    {
-      "title": "Sal\u00E1rios de at\u00E9 R$ 37 mil: confira os concursos p\u00FAblicos de 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/salarios-de-ate-r-37-mil-confira-os-concursos-publicos-de-2026.ghtml",
-      "date": "Fri, 25 Sep 2026 11:52:45 -0000"
-    },
-    {
-      "title": "STF mant\u00E9m suspens\u00E3o de multas da NR-1 sobre sa\u00FAde mental no trabalho por mais 90 dias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/stf-mantem-suspensao-de-multas-da-nr-1-sobre-saude-mental-no-trabalho-por-mais-90-dias.ghtml",
-      "date": "Fri, 25 Sep 2026 11:06:22 -0000"
-    },
-    {
-      "title": "TST determina que ao menos 60% dos funcion\u00E1rios da Caixa trabalhem durante greve",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/tst-determina-que-ao-menos-60percent-dos-funcionarios-da-caixa-trabalhem-durante-greve.ghtml",
-      "date": "Fri, 25 Sep 2026 11:00:16 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo na costa do Amap\u00E1 divide moradores entre expectativa de riqueza e medo de impactos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/25/petroleo-na-costa-do-amapa-divide-moradores-entre-expectativa-de-riqueza-e-medo-de-impactos.ghtml",
-      "date": "Fri, 25 Sep 2026 08:00:00 -0000"
-    },
-    {
-      "title": "Quando \u00E9 a Black Friday em 2026? Veja data e dicas para n\u00E3o cair em ciladas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/guia/guia-de-compras/presentes/quando-e-a-black-friday-em-2026-veja-data-e-dicas-para-nao-cair-em-ciladas.ghtml",
-      "date": "Fri, 25 Sep 2026 07:00:00 -0000"
     }
   ]
 }
