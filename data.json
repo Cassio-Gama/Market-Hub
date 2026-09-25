@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 183358.83,
-      "change": -0.33,
-      "changeStr": "-0.33%"
+      "price": 183476.86,
+      "change": -0.27,
+      "changeStr": "-0.27%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.08,
-      "change": -2.4,
-      "changeStr": "-2.40%"
+      "price": 48.07,
+      "change": -2.42,
+      "changeStr": "-2.42%"
     },
     {
       "symbol": "VALE3",
-      "price": 70.72,
-      "change": 0.08,
-      "changeStr": "\u002B0.08%"
+      "price": 70.77,
+      "change": 0.16,
+      "changeStr": "\u002B0.16%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.22,
-      "change": 0.84,
-      "changeStr": "\u002B0.84%"
+      "price": 42.13,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.85,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 17.88,
+      "change": 0.56,
+      "changeStr": "\u002B0.56%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.61,
-      "change": 0.32,
-      "changeStr": "\u002B0.32%"
+      "price": 21.59,
+      "change": 0.23,
+      "changeStr": "\u002B0.23%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.67,
-      "change": 5.87,
-      "changeStr": "\u002B5.87%"
+      "price": 6.76,
+      "change": 7.3,
+      "changeStr": "\u002B7.30%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.24,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 15.32,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.95,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 51.07,
+      "change": 0.65,
+      "changeStr": "\u002B0.65%"
     }
   ],
   "news": [
+    {
+      "title": "Bets pagaram R$ 1,1 bilh\u00E3o aos maiores clubes de futebol em 2025; veja o impacto da proibi\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/25/bets-pagaram-r-11-bilhao-aos-maiores-clubes-de-futebol-em-2025-veja-o-impacto-da-proibicao.ghtml",
+      "date": "Fri, 25 Sep 2026 22:05:58 -0000"
+    },
+    {
+      "title": "Proibi\u00E7\u00E3o das bets: preciso retirar meu dinheiro? Sites v\u00E3o sair do ar? Veja perguntas e respostas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/25/proibicao-das-bets-veja-perguntas-e-respostas.ghtml",
+      "date": "Fri, 25 Sep 2026 21:55:21 -0000"
+    },
+    {
+      "title": "\u0027Proibir n\u00E3o \u00E9 proteger\u0027: associa\u00E7\u00F5es se posicionam contra a MP de Lula que pro\u00EDbe bets no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/posicionamento-anjl-e-ibjr.ghtml",
+      "date": "Fri, 25 Sep 2026 21:50:47 -0000"
+    },
+    {
+      "title": "Governo federal arrecadou R$ 15,3 bilh\u00F5es com bets desde o in\u00EDcio de 2025",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/25/governo-federal-arrecadou-r-153-bilhoes-com-bets-desde-o-inicio-de-2025.ghtml",
+      "date": "Fri, 25 Sep 2026 21:39:00 -0000"
+    },
+    {
+      "title": "Vetadas por Lula, bets foram legalizadas em 2018 e regulamentadas em 2023; veja o hist\u00F3rico",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/25/vetadas-por-lula-bets-foram-legalizadas-em-2018-e-regulamentadas-em-2023-veja-o-historico.ghtml",
+      "date": "Fri, 25 Sep 2026 21:38:11 -0000"
+    },
+    {
+      "title": "Por que \u00E9 t\u00E3o dif\u00EDcil ganhar dinheiro com bets? A matem\u00E1tica explica",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/25/por-que-e-tao-dificil-ganhar-dinheiro-com-bets-a-matematica-explica.ghtml",
+      "date": "Fri, 25 Sep 2026 21:34:24 -0000"
+    },
+    {
+      "title": "Quanto os brasileiros deixam nas bets? Estudo estimou R$ 62,5 bilh\u00F5es em 2025, mas o setor contesta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/25/quanto-os-brasileiros-deixam-nas-bets.ghtml",
+      "date": "Fri, 25 Sep 2026 21:32:50 -0000"
+    },
+    {
+      "title": "A 9 dias das elei\u00E7\u00F5es, governo anuncia proibi\u00E7\u00E3o de bets no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/proibicao-de-bets-no-brasil.ghtml",
+      "date": "Fri, 25 Sep 2026 21:22:44 -0000"
+    },
+    {
+      "title": "Conta de luz: Aneel reduz bandeira tarif\u00E1ria para verde em outubro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/25/conta-de-luz-aneel-reduz-bandeira-tarifaria-para-verde-em-outubro.ghtml",
+      "date": "Fri, 25 Sep 2026 20:06:50 -0000"
+    },
     {
       "title": "Xi Jinping encerra visita de Estado aos EUA ap\u00F3s encontros com Trump; saiba como foi",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/ao-vivo/trump-e-xi-jinping-se-reunem-nos-eua.ghtml",
       "date": "Fri, 25 Sep 2026 17:10:09 -0000"
-    },
-    {
-      "title": "Justi\u00E7a dos EUA mant\u00E9m dona da IA Claude entre empresas de risco \u00E0 seguran\u00E7a nacional",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/25/anthropic-estados-unidos-seguranca-nacional.ghtml",
-      "date": "Fri, 25 Sep 2026 17:00:10 -0000"
-    },
-    {
-      "title": "Embraer entrega o primeiro avi\u00E3o C-390 Millennium \u00E0 For\u00E7a A\u00E9rea do Uzbequist\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/25/embraer-entrega-o-primeiro-c-390-millennium-a-forca-aerea-do-uzbequistao.ghtml",
-      "date": "Fri, 25 Sep 2026 16:36:18 -0000"
-    },
-    {
-      "title": "Volkswagen e Audi anunciam recall de quase 3 milh\u00F5es de carros em todo o mundo; veja modelos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/25/volkswagen-e-audi-anunciam-recall-de-quase-3-milhoes-de-carros-veja-modelos-afetados.ghtml",
-      "date": "Fri, 25 Sep 2026 16:28:48 -0000"
-    },
-    {
-      "title": "Abelhas sem ferr\u00E3o: manual ensina a transferir enxames para a colmeia definitiva",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/09/25/abelhas-sem-ferrao-manual-ensina-a-transferir-enxames-para-a-colmeia-definitiva.ghtml",
-      "date": "Fri, 25 Sep 2026 16:03:55 -0000"
-    },
-    {
-      "title": "AGU e Gilmar Mendes fecham cerco contra \u0027ind\u00FAstria de precat\u00F3rios\u0027 usada pelo Master",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/25/agu-e-gilmar-mendes-fecham-cerco-contra-industria-de-precatorios-usada-pelo-master.ghtml",
-      "date": "Fri, 25 Sep 2026 14:48:34 -0000"
-    },
-    {
-      "title": "Brasil registra mais de 870 mil ind\u00EDcios de contas laranja em seis meses, mostra levantamento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/25/brasil-registra-mais-de-870-mil-indicios-de-contas-laranja-em-seis-meses-mostra-levantamento.ghtml",
-      "date": "Fri, 25 Sep 2026 14:00:00 -0000"
-    },
-    {
-      "title": "Na mira de Lula, bets planejam ampliar apostas para pontos f\u00EDsicos; governo previa regulamenta\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/25/na-mira-de-lula-bets-planejam-ampliar-apostas-para-pontos-fisicos-governo-previa-regulamentacao.ghtml",
-      "date": "Fri, 25 Sep 2026 13:17:03 -0000"
-    },
-    {
-      "title": "Papa Le\u00E3o XIV alerta na Fran\u00E7a para risco de a IA criar um \u0027para\u00EDso de m\u00E1quinas\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/25/papa-leao-xiii-alerta-na-franca-para-risco-de-a-ia-criar-um-paraiso-de-maquinas.ghtml",
-      "date": "Fri, 25 Sep 2026 12:29:13 -0000"
-    },
-    {
-      "title": "Fim da greve dos Correios: ap\u00F3s 15 dias paralisados, trabalhadores retomam atividades nesta sexta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/fim-da-greve-dos-correios.ghtml",
-      "date": "Fri, 25 Sep 2026 12:10:13 -0000"
     }
   ]
 }
