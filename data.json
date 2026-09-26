@@ -8,9 +8,9 @@
     },
     {
       "symbol": "PETR4",
-      "price": 48.07,
-      "change": -2.42,
-      "changeStr": "-2.42%"
+      "price": 47.99,
+      "change": -2.58,
+      "changeStr": "-2.58%"
     },
     {
       "symbol": "VALE3",
@@ -57,6 +57,24 @@
   ],
   "news": [
     {
+      "title": "TikTok firma acordo de at\u00E9 R$ 1,5 bilh\u00E3o e ter\u00E1 de impor limite de 2 horas por dia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/25/tiktok-faz-acordo-de-ate-r-15-bilhao-apos-acusacoes-de-prejudicar-saude-mental-de-adolescentes.ghtml",
+      "date": "Fri, 25 Sep 2026 23:10:12 -0000"
+    },
+    {
+      "title": "Governo anuncia Desenrola 3.0 para renegociar R$ 150 bilh\u00F5es em d\u00EDvidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/25/governo-anuncia-desenrola-30-para-renegociar-r-150-bilhoes-em-dividas.ghtml",
+      "date": "Fri, 25 Sep 2026 22:35:27 -0000"
+    },
+    {
+      "title": "Governo envia projeto que criminaliza apostas e jogos online; penas podem chegar a seis anos de pris\u00E3o ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/25/governo-envia-projeto-que-criminaliza-apostas-e-jogos-online-penas-podem-chegar-a-seis-anos-de-prisao.ghtml",
+      "date": "Fri, 25 Sep 2026 22:30:53 -0000"
+    },
+    {
       "title": "Bets pagaram R$ 1,1 bilh\u00E3o aos maiores clubes de futebol em 2025; veja o impacto da proibi\u00E7\u00E3o",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/25/bets-pagaram-r-11-bilhao-aos-maiores-clubes-de-futebol-em-2025-veja-o-impacto-da-proibicao.ghtml",
@@ -67,6 +85,12 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/25/proibicao-das-bets-veja-perguntas-e-respostas.ghtml",
       "date": "Fri, 25 Sep 2026 21:55:21 -0000"
+    },
+    {
+      "title": "Governo aprova compra de 114 lojas do Epa pelo Supermercados BH; entenda a negocia\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/25/governo-aprova-compra-de-114-lojas-do-epa-pelo-supermercados-bh-entenda-a-negociacao.ghtml",
+      "date": "Fri, 25 Sep 2026 21:51:15 -0000"
     },
     {
       "title": "\u0027Proibir n\u00E3o \u00E9 proteger\u0027: associa\u00E7\u00F5es se posicionam contra a MP de Lula que pro\u00EDbe bets no Brasil",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/25/por-que-e-tao-dificil-ganhar-dinheiro-com-bets-a-matematica-explica.ghtml",
       "date": "Fri, 25 Sep 2026 21:34:24 -0000"
-    },
-    {
-      "title": "Quanto os brasileiros deixam nas bets? Estudo estimou R$ 62,5 bilh\u00F5es em 2025, mas o setor contesta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/25/quanto-os-brasileiros-deixam-nas-bets.ghtml",
-      "date": "Fri, 25 Sep 2026 21:32:50 -0000"
-    },
-    {
-      "title": "A 9 dias das elei\u00E7\u00F5es, governo anuncia proibi\u00E7\u00E3o de bets no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/proibicao-de-bets-no-brasil.ghtml",
-      "date": "Fri, 25 Sep 2026 21:22:44 -0000"
-    },
-    {
-      "title": "Conta de luz: Aneel reduz bandeira tarif\u00E1ria para verde em outubro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/25/conta-de-luz-aneel-reduz-bandeira-tarifaria-para-verde-em-outubro.ghtml",
-      "date": "Fri, 25 Sep 2026 20:06:50 -0000"
-    },
-    {
-      "title": "Xi Jinping encerra visita de Estado aos EUA ap\u00F3s encontros com Trump; saiba como foi",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/ao-vivo/trump-e-xi-jinping-se-reunem-nos-eua.ghtml",
-      "date": "Fri, 25 Sep 2026 17:10:09 -0000"
     }
   ]
 }
