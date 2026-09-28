@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 183476.86,
-      "change": -0.27,
-      "changeStr": "-0.27%"
+      "price": 183875.89,
+      "change": 0.22,
+      "changeStr": "\u002B0.22%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.99,
-      "change": -2.58,
-      "changeStr": "-2.58%"
+      "price": 48.71,
+      "change": 1.5,
+      "changeStr": "\u002B1.50%"
     },
     {
       "symbol": "VALE3",
-      "price": 70.77,
-      "change": 0.16,
-      "changeStr": "\u002B0.16%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 42.13,
+      "price": 71.21,
       "change": 0.62,
       "changeStr": "\u002B0.62%"
     },
     {
+      "symbol": "ITUB4",
+      "price": 41.99,
+      "change": -0.33,
+      "changeStr": "-0.33%"
+    },
+    {
       "symbol": "BBDC4",
-      "price": 17.88,
-      "change": 0.56,
-      "changeStr": "\u002B0.56%"
+      "price": 17.82,
+      "change": -0.34,
+      "changeStr": "-0.34%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.59,
-      "change": 0.23,
-      "changeStr": "\u002B0.23%"
+      "price": 21.63,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.76,
-      "change": 7.3,
-      "changeStr": "\u002B7.30%"
+      "price": 7.1,
+      "change": 5.03,
+      "changeStr": "\u002B5.03%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.32,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 15.25,
+      "change": -0.46,
+      "changeStr": "-0.46%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.07,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 50.72,
+      "change": -0.69,
+      "changeStr": "-0.69%"
     }
   ],
   "news": [
+    {
+      "title": "ChatGPT caiu? Usu\u00E1rios relatam instabilidade nesta segunda-feira ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/28/chatgpt-instabilidade-nesta-segunda-feira.ghtml",
+      "date": "Mon, 28 Sep 2026 16:55:45 -0000"
+    },
+    {
+      "title": "Entidades que representam bets pedem ao STF suspens\u00E3o da MP de Lula que pro\u00EDbe apostas online",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/28/entidades-que-representam-bets-pedem-ao-stf-suspensao-da-mp-de-lula-que-proibe-apostas-online.ghtml",
+      "date": "Mon, 28 Sep 2026 13:55:06 -0000"
+    },
+    {
+      "title": "Petr\u00F3leo sobe quase 3% ap\u00F3s Trump rejeitar proposta de cessar-fogo do Ir\u00E3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/28/preco-do-petroleo-sobe-quase-3percent-apos-trump-rejeitar-proposta-do-ira.ghtml",
+      "date": "Mon, 28 Sep 2026 13:16:53 -0000"
+    },
+    {
+      "title": "SpaceX lan\u00E7a Starship em miss\u00E3o que coloca nave em \u00F3rbita da Terra pela 1\u00AA vez",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/09/28/spacex-faz-14-voo-da-nave-starship.ghtml",
+      "date": "Mon, 28 Sep 2026 12:49:59 -0000"
+    },
+    {
+      "title": "SUV da Volkswagen, rec\u00E9m-lan\u00E7ado no Brasil, j\u00E1 vai mudar de design e nome para ID.Tiguan",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/28/volkswagen-id4-tiguan.ghtml",
+      "date": "Mon, 28 Sep 2026 12:32:23 -0000"
+    },
+    {
+      "title": "D\u00F3lar sobe de olho na d\u00EDvida p\u00FAblica e em nova pesquisa eleitoral; Ibovespa cai",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/28/dolar-ibovespa.ghtml",
+      "date": "Mon, 28 Sep 2026 12:00:00 -0000"
+    },
+    {
+      "title": "Analistas do mercado elevam estimativa de infla\u00E7\u00E3o e projetam crescimento econ\u00F4mico menor",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/28/analistas-do-mercado-elevam-estimativa-de-inflacao-e-projetam-crescimento-economico-menor.ghtml",
+      "date": "Mon, 28 Sep 2026 11:33:04 -0000"
+    },
+    {
+      "title": "Nvidia lan\u00E7a tecnologia para impedir que agentes de IA se rebelem",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/28/nvidia-lanca-tecnologia-para-impedir-que-agentes-de-ia-se-rebelem.ghtml",
+      "date": "Mon, 28 Sep 2026 11:22:35 -0000"
+    },
+    {
+      "title": "China e EUA concordam em reduzir tarifas sobre US$ 60 bilh\u00F5es em mercadorias",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/28/china-e-eua-concordam-em-reduzir-tarifas-sobre-us-60-bilhoes-em-mercadorias.ghtml",
+      "date": "Mon, 28 Sep 2026 10:58:10 -0000"
+    },
     {
       "title": "Golpe com IA: os sinais que voc\u00EA aprendeu a procurar j\u00E1 n\u00E3o funcionam t\u00E3o bem; veja como se proteger",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/28/golpe-com-ia-os-sinais-que-voce-aprendeu-a-procurar-ja-nao-funcionam-tao-bem-veja-como-se-proteger.ghtml",
       "date": "Mon, 28 Sep 2026 07:00:00 -0000"
-    },
-    {
-      "title": "Vai trabalhar no dia da elei\u00E7\u00E3o? Patr\u00E3o pode descontar horas para votar? Veja seus direitos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/28/vai-trabalhar-no-dia-da-eleicao-patrao-pode-descontar-horas-para-votar-veja-seus-direitos.ghtml",
-      "date": "Mon, 28 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Quando \u00E9 o quinto dia \u00FAtil de outubro de 2026? Veja data para pagamentos dos sal\u00E1rios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/28/quando-e-o-quinto-dia-util-de-outubro-de-2026.ghtml",
-      "date": "Mon, 28 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Governo tem reuni\u00E3o com clubes nesta semana para discutir impactos da proibi\u00E7\u00E3o das bets",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/09/28/governo-tem-reuniao-com-clubes-nesta-semana-para-discutir-impactos-da-proibicao-das-bets.ghtml",
-      "date": "Mon, 28 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Starship, nave de futuras miss\u00F5es \u00E0 Lua, far\u00E1 1\u00BA voo com voltas completas na Terra nesta segunda; veja o que esperar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/09/28/starship-nave-de-futuras-missoes-a-lua-fara-1o-voo-com-voltas-completas-na-terra-nesta-segunda-veja-o-que-esperar.ghtml",
-      "date": "Mon, 28 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Bill Gates alerta que IA pode causar \u0027um bilh\u00E3o de mortes\u0027 e defende legisla\u00E7\u00E3o para a tecnologia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/27/bill-gates-entrevista-inteligencia-artificial.ghtml",
-      "date": "Sun, 27 Sep 2026 17:06:36 -0000"
-    },
-    {
-      "title": "Mega-Sena 3063 acumula e pr\u00EAmio vai a R$ 52 milh\u00F5es; confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/27/mega-sena-concurso-3063-confira-os-numeros-sorteados.ghtml",
-      "date": "Sun, 27 Sep 2026 14:01:44 -0000"
-    },
-    {
-      "title": "\nOpenAI para treinamento ap\u00F3s agentes de IA agirem por conta pr\u00F3pria",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/27/openai-para-treinamento-apos-agentes-de-ia-agirem-por-conta-propria.ghtml",
-      "date": "Sun, 27 Sep 2026 13:39:59 -0000"
-    },
-    {
-      "title": "Risco de guerra pode salvar montadoras europeias?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/27/risco-de-guerra-pode-salvar-montadoras-europeias.ghtml",
-      "date": "Sun, 27 Sep 2026 11:33:11 -0000"
-    },
-    {
-      "title": "Regi\u00E3o de Itapetininga promove contato com a natureza atrav\u00E9s do turismo rural",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/09/27/regiao-de-itapetininga-promove-contato-com-a-natureza-atraves-do-turismo-rural.ghtml",
-      "date": "Sun, 27 Sep 2026 10:30:01 -0000"
     }
   ]
 }
