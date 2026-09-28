@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 183875.89,
-      "change": 0.22,
-      "changeStr": "\u002B0.22%"
+      "price": 182991.12,
+      "change": -0.26,
+      "changeStr": "-0.26%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.71,
-      "change": 1.5,
-      "changeStr": "\u002B1.50%"
+      "price": 48.72,
+      "change": 1.52,
+      "changeStr": "\u002B1.52%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.21,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 71.16,
+      "change": 0.55,
+      "changeStr": "\u002B0.55%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.99,
-      "change": -0.33,
-      "changeStr": "-0.33%"
+      "price": 41.71,
+      "change": -1,
+      "changeStr": "-1.00%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.82,
-      "change": -0.34,
-      "changeStr": "-0.34%"
+      "price": 17.66,
+      "change": -1.23,
+      "changeStr": "-1.23%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.63,
-      "change": 0.19,
-      "changeStr": "\u002B0.19%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 7.1,
-      "change": 5.03,
-      "changeStr": "\u002B5.03%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 15.25,
+      "price": 21.49,
       "change": -0.46,
       "changeStr": "-0.46%"
     },
     {
+      "symbol": "MGLU3",
+      "price": 6.6,
+      "change": -2.37,
+      "changeStr": "-2.37%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 15.2,
+      "change": -0.78,
+      "changeStr": "-0.78%"
+    },
+    {
       "symbol": "WEGE3",
-      "price": 50.72,
-      "change": -0.69,
-      "changeStr": "-0.69%"
+      "price": 50.12,
+      "change": -1.86,
+      "changeStr": "-1.86%"
     }
   ],
   "news": [
+    {
+      "title": "UE conclui que produ\u00E7\u00F5es de frango e mel do Brasil atendem requisitos para exporta\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/28/ue-conclui-que-producoes-de-frango-e-mel-do-brasil-atendem-requisitos-para-exportacoes.ghtml",
+      "date": "Mon, 28 Sep 2026 22:54:58 -0000"
+    },
+    {
+      "title": "Leapmotor B10 ganha vers\u00E3o h\u00EDbrida \u0027\u00E0s avessas\u0027 por R$ 179.990; entenda como funciona",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/28/leapmotor-b10-ganha-versao-hibrida-as-avessas-por-r-179990-entenda-como-funciona.ghtml",
+      "date": "Mon, 28 Sep 2026 22:00:05 -0000"
+    },
+    {
+      "title": "Ap\u00F3s proibi\u00E7\u00E3o, mais de 500 novas bets ilegais foram criadas, aponta levantamento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/28/bets-ilegais-foram-criadas-aponta-levantamento.ghtml",
+      "date": "Mon, 28 Sep 2026 20:30:25 -0000"
+    },
+    {
+      "title": "gov.br e site da Receita Federal t\u00EAm instabilidade; usu\u00E1rios reclamam nas redes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/09/28/instabilidade-site-receita-federal-e-govbr.ghtml",
+      "date": "Mon, 28 Sep 2026 18:09:00 -0000"
+    },
+    {
+      "title": "D\u00EDvida p\u00FAblica federal cresce em agosto e atinge R$ 9,29 trilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/28/divida-publica-federal-cresce-em-agosto-e-atinge-r-929-trilhoes.ghtml",
+      "date": "Mon, 28 Sep 2026 18:07:59 -0000"
+    },
+    {
+      "title": "Governo amplia fiscaliza\u00E7\u00E3o de pre\u00E7os de combust\u00EDveis e prev\u00EA multas de at\u00E9 R$ 500 milh\u00F5es contra pr\u00E1ticas abusivas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/28/governo-amplia-fiscalizacao-de-precos-de-combustiveis-e-preve-multas-de-ate-r-500-milhoes-contra-praticas-abusivas.ghtml",
+      "date": "Mon, 28 Sep 2026 17:59:05 -0000"
+    },
     {
       "title": "ChatGPT caiu? Usu\u00E1rios relatam instabilidade nesta segunda-feira ",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/inovacao/noticia/2026/09/28/spacex-faz-14-voo-da-nave-starship.ghtml",
       "date": "Mon, 28 Sep 2026 12:49:59 -0000"
-    },
-    {
-      "title": "SUV da Volkswagen, rec\u00E9m-lan\u00E7ado no Brasil, j\u00E1 vai mudar de design e nome para ID.Tiguan",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/09/28/volkswagen-id4-tiguan.ghtml",
-      "date": "Mon, 28 Sep 2026 12:32:23 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe de olho na d\u00EDvida p\u00FAblica e em nova pesquisa eleitoral; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/28/dolar-ibovespa.ghtml",
-      "date": "Mon, 28 Sep 2026 12:00:00 -0000"
-    },
-    {
-      "title": "Analistas do mercado elevam estimativa de infla\u00E7\u00E3o e projetam crescimento econ\u00F4mico menor",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/28/analistas-do-mercado-elevam-estimativa-de-inflacao-e-projetam-crescimento-economico-menor.ghtml",
-      "date": "Mon, 28 Sep 2026 11:33:04 -0000"
-    },
-    {
-      "title": "Nvidia lan\u00E7a tecnologia para impedir que agentes de IA se rebelem",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/28/nvidia-lanca-tecnologia-para-impedir-que-agentes-de-ia-se-rebelem.ghtml",
-      "date": "Mon, 28 Sep 2026 11:22:35 -0000"
-    },
-    {
-      "title": "China e EUA concordam em reduzir tarifas sobre US$ 60 bilh\u00F5es em mercadorias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/28/china-e-eua-concordam-em-reduzir-tarifas-sobre-us-60-bilhoes-em-mercadorias.ghtml",
-      "date": "Mon, 28 Sep 2026 10:58:10 -0000"
-    },
-    {
-      "title": "Golpe com IA: os sinais que voc\u00EA aprendeu a procurar j\u00E1 n\u00E3o funcionam t\u00E3o bem; veja como se proteger",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/28/golpe-com-ia-os-sinais-que-voce-aprendeu-a-procurar-ja-nao-funcionam-tao-bem-veja-como-se-proteger.ghtml",
-      "date": "Mon, 28 Sep 2026 07:00:00 -0000"
     }
   ]
 }
