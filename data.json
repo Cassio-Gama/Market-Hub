@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 182991.12,
-      "change": -0.26,
-      "changeStr": "-0.26%"
+      "price": 183461.73,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.72,
-      "change": 1.52,
-      "changeStr": "\u002B1.52%"
+      "price": 48.88,
+      "change": 0.33,
+      "changeStr": "\u002B0.33%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.16,
-      "change": 0.55,
-      "changeStr": "\u002B0.55%"
+      "price": 69.66,
+      "change": -2.11,
+      "changeStr": "-2.11%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.71,
-      "change": -1,
-      "changeStr": "-1.00%"
+      "price": 42.05,
+      "change": 0.82,
+      "changeStr": "\u002B0.82%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.66,
-      "change": -1.23,
-      "changeStr": "-1.23%"
+      "price": 17.65,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "BBAS3",
-      "price": 21.49,
-      "change": -0.46,
-      "changeStr": "-0.46%"
+      "price": 22.09,
+      "change": 2.79,
+      "changeStr": "\u002B2.79%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.6,
-      "change": -2.37,
-      "changeStr": "-2.37%"
+      "price": 6.56,
+      "change": -0.61,
+      "changeStr": "-0.61%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.2,
-      "change": -0.78,
-      "changeStr": "-0.78%"
+      "price": 15.24,
+      "change": 0.26,
+      "changeStr": "\u002B0.26%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.12,
-      "change": -1.86,
-      "changeStr": "-1.86%"
+      "price": 49.84,
+      "change": -0.56,
+      "changeStr": "-0.56%"
     }
   ],
   "news": [
     {
-      "title": "Nvidia anuncia aumento recorde em programa de recompra de a\u00E7\u00F5es, e total chega a US$ 235 bilh\u00F5es",
+      "title": "OpenAI lan\u00E7a nova vers\u00E3o de IA mais barata ap\u00F3s descartar atualiza\u00E7\u00E3o por problemas de seguran\u00E7a",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/29/nvidia-anuncia-aumento-recorde-em-programa-de-recompra-de-acoes-e-total-chega-a-us-235-bilhoes.ghtml",
-      "date": "Tue, 29 Sep 2026 12:01:30 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/openai-lanca-nova-versao-de-ia-mais-barata-apos-descartar-atualizacao-por-problemas-de-seguranca.ghtml",
+      "date": "Tue, 29 Sep 2026 18:16:11 -0000"
     },
     {
-      "title": "Desemprego fica em 5,3% no trimestre at\u00E9 agosto e popula\u00E7\u00E3o ocupada bate recorde de 103,5 milh\u00F5es de pessoas",
+      "title": "Apple avalia reformula\u00E7\u00E3o para lan\u00E7ar produtos mais r\u00E1pido, diz site ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/29/desemprego-pnad-agosto.ghtml",
-      "date": "Tue, 29 Sep 2026 12:00:33 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/apple-avalia-reformulacao-para-lancar-produtos-mais-rapido-diz-site.ghtml",
+      "date": "Tue, 29 Sep 2026 17:44:21 -0000"
     },
     {
-      "title": "D\u00F3lar abre em queda, com dados de emprego no radar",
+      "title": "Transa\u00E7\u00F5es com PIX caem 10% ap\u00F3s proibi\u00E7\u00E3o das bets; veja os dados",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/29/dolar-ibovespa.ghtml",
-      "date": "Tue, 29 Sep 2026 12:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/29/transacoes-com-pix-caem-apos-proibicao-das-bets-veja-os-dados.ghtml",
+      "date": "Tue, 29 Sep 2026 17:38:44 -0000"
     },
     {
-      "title": "Em meio \u00E0 corrida eleitoral, inadimpl\u00EAncia volta a subir e bate novo recorde em agosto",
+      "title": "Brasil cria 165,8  mil empregos com carteira assinada em agosto, aponta Caged",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/29/em-meio-a-corrida-eleitoral-inadimplencia-volta-a-subir-e-bate-novo-recorde-em-agosto.ghtml",
-      "date": "Tue, 29 Sep 2026 11:40:42 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/29/brasil-cria-1658-mil-empregos-com-carteira-assinada-em-agosto-aponta-caged.ghtml",
+      "date": "Tue, 29 Sep 2026 17:33:16 -0000"
     },
     {
-      "title": "Dona do Claude admite que IA representa \u0027riscos para a humanidade\u0027",
+      "title": "Disney demite centenas de funcion\u00E1rios, diz revista",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/dona-do-claude-admite-que-ia-representa-riscos-para-a-humanidade.ghtml",
-      "date": "Tue, 29 Sep 2026 11:38:49 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/29/disney-demite-centenas-de-funcionarios-diz-revista.ghtml",
+      "date": "Tue, 29 Sep 2026 17:22:51 -0000"
     },
     {
-      "title": "MP que pro\u00EDbe bets precisa ser aprovada pelo Congresso at\u00E9 o come\u00E7o de mar\u00E7o para n\u00E3o perder validade",
+      "title": "Justi\u00E7a de SP derruba restri\u00E7\u00F5es da 99Food a restaurantes que usam Keeta",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/09/29/mp-que-proibe-bets-precisa-ser-aprovada-pelo-congresso-ate-o-comeco-de-marco-para-nao-perder-validade.ghtml",
-      "date": "Tue, 29 Sep 2026 11:23:08 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/09/29/justica-de-sp-derruba-restricoes-da-99food-a-restaurantes-que-usam-keeta.ghtml",
+      "date": "Tue, 29 Sep 2026 16:50:06 -0000"
     },
     {
-      "title": "Dona do ChatGPT pede desculpas por invas\u00E3o de IA em site do governo australiano ",
+      "title": "Globo anuncia finalistas do Pr\u00EAmio Profissionais do Ano 2026; veja quem s\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/dona-do-chatgpt-pede-desculpas-por-invasao-de-ia-em-site-do-governo-australiano.ghtml",
-      "date": "Tue, 29 Sep 2026 10:48:09 -0000"
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/09/29/globo-anuncia-finalistas-do-premio-profissionais-do-ano-2026.ghtml",
+      "date": "Tue, 29 Sep 2026 16:32:55 -0000"
     },
     {
-      "title": "Por que milhares de empresas est\u00E3o fechando na Argentina e o que isso revela sobre a economia na era Milei?",
+      "title": "Trump diz que cooperar com a China na regula\u00E7\u00E3o da IA prejudicaria empresas dos EUA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/29/por-que-milhares-de-empresas-estao-fechando-na-argentina-e-o-que-isso-revela-sobre-a-economia-na-era-milei.ghtml",
-      "date": "Tue, 29 Sep 2026 10:27:01 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/trump-diz-que-cooperar-com-a-china-na-regulacao-da-ia-prejudicaria-empresas-dos-eua.ghtml",
+      "date": "Tue, 29 Sep 2026 15:38:08 -0000"
     },
     {
-      "title": "D\u00E1 para desligar uma IA? Entenda por que um \u0027bot\u00E3o de emerg\u00EAncia\u0027 pode n\u00E3o ser t\u00E3o simples",
+      "title": "Cultura ou resultados? Pesquisa mostra o que acontece nas empresas quando a meta aperta",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/da-para-desligar-uma-ia-entenda-por-que-um-botao-de-emergencia-pode-nao-ser-tao-simples.ghtml",
-      "date": "Tue, 29 Sep 2026 07:00:01 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/29/cultura-organizacional-empresas-pesquisa-ifood-qualibest.ghtml",
+      "date": "Tue, 29 Sep 2026 15:00:00 -0000"
     },
     {
-      "title": "Pol\u00EDtica no trabalho: onde termina a conversa e come\u00E7a o ass\u00E9dio eleitoral?",
+      "title": "Prazo para op\u00E7\u00E3o pelo Simples Nacional e escolha sobre IBS e CBS muda; entenda novas regras",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/29/politica-no-trabalho-onde-termina-a-conversa-e-comeca-o-assedio-eleitoral.ghtml",
-      "date": "Tue, 29 Sep 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/09/29/prazo-simples-nacional-e-escolha-sobre-ibs-e-cbs-muda.ghtml",
+      "date": "Tue, 29 Sep 2026 14:53:05 -0000"
     }
   ]
 }
