@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 183461.73,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 183827.6,
+      "change": 0.46,
+      "changeStr": "\u002B0.46%"
     },
     {
       "symbol": "PETR4",
-      "price": 48.88,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
+      "price": 49.1,
+      "change": 0.78,
+      "changeStr": "\u002B0.78%"
     },
     {
       "symbol": "VALE3",
-      "price": 69.66,
-      "change": -2.11,
-      "changeStr": "-2.11%"
+      "price": 69.61,
+      "change": -2.18,
+      "changeStr": "-2.18%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.05,
-      "change": 0.82,
-      "changeStr": "\u002B0.82%"
+      "price": 42.3,
+      "change": 1.41,
+      "changeStr": "\u002B1.41%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.65,
-      "change": -0.06,
-      "changeStr": "-0.06%"
+      "price": 17.78,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.09,
-      "change": 2.79,
-      "changeStr": "\u002B2.79%"
+      "price": 22.04,
+      "change": 2.56,
+      "changeStr": "\u002B2.56%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.56,
-      "change": -0.61,
-      "changeStr": "-0.61%"
+      "price": 6.63,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.24,
-      "change": 0.26,
-      "changeStr": "\u002B0.26%"
+      "price": 15.27,
+      "change": 0.46,
+      "changeStr": "\u002B0.46%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.84,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 50.29,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     }
   ],
   "news": [
+    {
+      "title": "Trump re\u00FAne CEOs de IA e anuncia compromisso para refor\u00E7ar controles de seguran\u00E7a",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/trump-reune-ceos-de-ia-e-anuncia-compromisso-para-reforcar-controles-de-seguranca.ghtml",
+      "date": "Tue, 29 Sep 2026 21:43:55 -0000"
+    },
+    {
+      "title": "A cinco dias das elei\u00E7\u00F5es, governo lan\u00E7a Desenrola MEI e novas medidas de renegocia\u00E7\u00E3o de d\u00EDvidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
+      "date": "Tue, 29 Sep 2026 21:30:18 -0000"
+    },
+    {
+      "title": "Greve da Caixa chega ao fim ap\u00F3s decis\u00E3o do TST; ag\u00EAncias reabrem nesta quarta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/29/tst-determina-fim-da-greve-da-caixa.ghtml",
+      "date": "Tue, 29 Sep 2026 19:38:01 -0000"
+    },
     {
       "title": "OpenAI lan\u00E7a nova vers\u00E3o de IA mais barata ap\u00F3s descartar atualiza\u00E7\u00E3o por problemas de seguran\u00E7a",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/09/29/globo-anuncia-finalistas-do-premio-profissionais-do-ano-2026.ghtml",
       "date": "Tue, 29 Sep 2026 16:32:55 -0000"
-    },
-    {
-      "title": "Trump diz que cooperar com a China na regula\u00E7\u00E3o da IA prejudicaria empresas dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/trump-diz-que-cooperar-com-a-china-na-regulacao-da-ia-prejudicaria-empresas-dos-eua.ghtml",
-      "date": "Tue, 29 Sep 2026 15:38:08 -0000"
-    },
-    {
-      "title": "Cultura ou resultados? Pesquisa mostra o que acontece nas empresas quando a meta aperta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/29/cultura-organizacional-empresas-pesquisa-ifood-qualibest.ghtml",
-      "date": "Tue, 29 Sep 2026 15:00:00 -0000"
-    },
-    {
-      "title": "Prazo para op\u00E7\u00E3o pelo Simples Nacional e escolha sobre IBS e CBS muda; entenda novas regras",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/09/29/prazo-simples-nacional-e-escolha-sobre-ibs-e-cbs-muda.ghtml",
-      "date": "Tue, 29 Sep 2026 14:53:05 -0000"
     }
   ]
 }
