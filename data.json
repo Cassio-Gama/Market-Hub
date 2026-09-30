@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185895.92,
-      "change": 1.13,
-      "changeStr": "\u002B1.13%"
+      "price": 186340.45,
+      "change": 1.37,
+      "changeStr": "\u002B1.37%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.43,
-      "change": 0.67,
-      "changeStr": "\u002B0.67%"
+      "price": 49.12,
+      "change": 0.04,
+      "changeStr": "\u002B0.04%"
     },
     {
       "symbol": "VALE3",
-      "price": 69.61,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 69.91,
+      "change": 0.43,
+      "changeStr": "\u002B0.43%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.99,
-      "change": 4,
-      "changeStr": "\u002B4.00%"
+      "price": 44.28,
+      "change": 4.68,
+      "changeStr": "\u002B4.68%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.31,
-      "change": 2.98,
-      "changeStr": "\u002B2.98%"
+      "price": 18.51,
+      "change": 4.11,
+      "changeStr": "\u002B4.11%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.6,
-      "change": 2.54,
-      "changeStr": "\u002B2.54%"
+      "price": 23.07,
+      "change": 4.67,
+      "changeStr": "\u002B4.67%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.17,
-      "change": 8.14,
-      "changeStr": "\u002B8.14%"
+      "price": 7.46,
+      "change": 12.52,
+      "changeStr": "\u002B12.52%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.39,
-      "change": 0.79,
-      "changeStr": "\u002B0.79%"
+      "price": 15.36,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.87,
-      "change": -0.84,
-      "changeStr": "-0.84%"
+      "price": 49.46,
+      "change": -1.65,
+      "changeStr": "-1.65%"
     }
   ],
   "news": [
+    {
+      "title": "Aliado de Alcolumbre, Rodrigo Pacheco toma posse como ministro do TCU ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/30/aliado-de-alcolumbre-rodrigo-pacheco-toma-posse-como-ministro-do-tcu.ghtml",
+      "date": "Wed, 30 Sep 2026 20:22:57 -0000"
+    },
+    {
+      "title": "Mesmo fora da presid\u00EAncia do Fed, Powell volta a ser alvo de Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/30/mesmo-fora-da-presidencia-do-fed-powell-volta-a-ser-alvo-de-trump.ghtml",
+      "date": "Wed, 30 Sep 2026 20:17:23 -0000"
+    },
+    {
+      "title": "Google lan\u00E7a Argon e diz que nova IA pode rivalizar com OpenAI e Anthropic",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/30/google-lanca-gemini-4-e-diz-que-ele-pode-rivalizar-com-openai-e-anthropic.ghtml",
+      "date": "Wed, 30 Sep 2026 20:06:22 -0000"
+    },
+    {
+      "title": "Paramount recebe sinal verde de juiz dos EUA para comprar a Warner Bros.",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/30/juiz-dos-eua-emite-ordem-permitindo-que-a-paramount-conclua-a-aquisicao-da-warner-bros.ghtml",
+      "date": "Wed, 30 Sep 2026 19:26:47 -0000"
+    },
+    {
+      "title": "Como ativar o controle parental para adolescentes no WhatsApp",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/30/como-ativar-o-controle-parental-para-adolescentes-no-whatsapp.ghtml",
+      "date": "Wed, 30 Sep 2026 17:59:33 -0000"
+    },
+    {
+      "title": "Jaecoo 5 chega por R$ 154.990 e mira esfor\u00E7os contra Volkswagen, Chevrolet e Hyundai",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/09/30/jaecoo-5.ghtml",
+      "date": "Wed, 30 Sep 2026 17:00:00 -0000"
+    },
+    {
+      "title": "EUA abrem investiga\u00E7\u00E3o in\u00E9dita sobre OpenAI e Anthropic ap\u00F3s agentes de IA invadirem sistemas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/30/eua-abrem-investigacao-inedita-sobre-openai-e-anthropic-apos-agentes-de-ia-invadirem-sistemas.ghtml",
+      "date": "Wed, 30 Sep 2026 16:51:16 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o: EUA devem enviar ao Brasil proposta de negocia\u00E7\u00E3o, diz equipe de Lula ap\u00F3s reuni\u00E3o com representante de Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml",
+      "date": "Wed, 30 Sep 2026 16:11:46 -0000"
+    },
     {
       "title": "WhatsApp anuncia novos controles parentais para adolescentes no Brasil",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/09/30/tribunal-comercial-dos-eua-analisara-contestacao-a-tarifas-relacionadas-ao-trabalho-forcado.ghtml",
       "date": "Wed, 30 Sep 2026 13:25:13 -0000"
-    },
-    {
-      "title": "Youtuber diz que agente de IA da Meta forneceu seu endere\u00E7o a um estranho \u2014 e a pessoa apareceu na casa dele",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/30/youtuber-diz-que-agente-de-ia-da-meta-forneceu-seu-endereco-a-um-estranho-e-a-pessoa-apareceu-na-casa-dele.ghtml",
-      "date": "Wed, 30 Sep 2026 13:00:14 -0000"
-    },
-    {
-      "title": "Brasil tem mais de 1 boi e quase 8 galinhas por brasileiro; veja onde est\u00E3o e conhe\u00E7a a cidade que tem quase 400 galinhas por habitante",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/30/brasil-tem-mais-de-1-boi-e-quase-8-galinhas-por-brasileiro-veja-onde-estao-e-conheca-a-cidade-que-tem-quase-400-galinhas-por-habitante.ghtml",
-      "date": "Wed, 30 Sep 2026 13:00:01 -0000"
-    },
-    {
-      "title": "No 1\u00BA saldo positivo do ano, estatais federais t\u00EAm super\u00E1vit de R$ 1,76 bilh\u00E3o em agosto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/30/no-1o-saldo-positivo-do-ano-estatais-federais-tem-superavit-de-r-176-bilhao-em-agosto.ghtml",
-      "date": "Wed, 30 Sep 2026 12:04:16 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda, com infla\u00E7\u00E3o dos EUA e contas p\u00FAblicas no foco; Ibovespa sobe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/30/dolar-ibovespa.ghtml",
-      "date": "Wed, 30 Sep 2026 12:00:13 -0000"
-    },
-    {
-      "title": "Jap\u00E3o abre mercado para carne bovina argentina ap\u00F3s 20 anos, diz ministro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/30/japao-abre-mercado-para-carne-bovina-argentina-apos-20-anos-diz-ministro.ghtml",
-      "date": "Wed, 30 Sep 2026 11:52:44 -0000"
-    },
-    {
-      "title": "Contas p\u00FAblicas t\u00EAm d\u00E9ficit de R$ 10 bilh\u00F5es em agosto; d\u00EDvida sobe para 82,9% do PIB, maior n\u00EDvel desde 2021",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/30/contas-publicas-tem-deficit-de-r-10-bilhoes-em-agosto-divida-sobe-para-829percent-do-pib.ghtml",
-      "date": "Wed, 30 Sep 2026 11:35:31 -0000"
-    },
-    {
-      "title": "Dublador de \u2018Yu-Gi-Oh!\u2019 consegue prote\u00E7\u00E3o da voz ap\u00F3s processo contra o TikTok por clonagem de IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/30/tribunal-japones-determina-que-a-voz-humana-esta-protegida-em-caso-de-ia-do-tiktok.ghtml",
-      "date": "Wed, 30 Sep 2026 10:26:59 -0000"
-    },
-    {
-      "title": "Por que algumas pessoas acreditam que a IA \u00E9 um Anticristo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/30/por-que-algumas-pessoas-acreditam-que-a-ia-e-um-anticristo.ghtml",
-      "date": "Wed, 30 Sep 2026 07:00:01 -0000"
     }
   ]
 }
