@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 183827.6,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 185895.92,
+      "change": 1.13,
+      "changeStr": "\u002B1.13%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.1,
-      "change": 0.78,
-      "changeStr": "\u002B0.78%"
+      "price": 49.43,
+      "change": 0.67,
+      "changeStr": "\u002B0.67%"
     },
     {
       "symbol": "VALE3",
       "price": 69.61,
-      "change": -2.18,
-      "changeStr": "-2.18%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.3,
-      "change": 1.41,
-      "changeStr": "\u002B1.41%"
+      "price": 43.99,
+      "change": 4,
+      "changeStr": "\u002B4.00%"
     },
     {
       "symbol": "BBDC4",
-      "price": 17.78,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 18.31,
+      "change": 2.98,
+      "changeStr": "\u002B2.98%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.04,
-      "change": 2.56,
-      "changeStr": "\u002B2.56%"
+      "price": 22.6,
+      "change": 2.54,
+      "changeStr": "\u002B2.54%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.63,
-      "change": 0.45,
-      "changeStr": "\u002B0.45%"
+      "price": 7.17,
+      "change": 8.14,
+      "changeStr": "\u002B8.14%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.27,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 15.39,
+      "change": 0.79,
+      "changeStr": "\u002B0.79%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.29,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 49.87,
+      "change": -0.84,
+      "changeStr": "-0.84%"
     }
   ],
   "news": [
+    {
+      "title": "WhatsApp anuncia novos controles parentais para adolescentes no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/30/whatsapp-anuncia-novos-controles-parentais-para-adolescentes-no-brasil.ghtml",
+      "date": "Wed, 30 Sep 2026 14:19:22 -0000"
+    },
+    {
+      "title": "Tribunal dos EUA analisa a\u00E7\u00E3o contra tarifas de Trump ligadas a trabalho for\u00E7ado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/30/tribunal-comercial-dos-eua-analisara-contestacao-a-tarifas-relacionadas-ao-trabalho-forcado.ghtml",
+      "date": "Wed, 30 Sep 2026 13:25:13 -0000"
+    },
+    {
+      "title": "Youtuber diz que agente de IA da Meta forneceu seu endere\u00E7o a um estranho \u2014 e a pessoa apareceu na casa dele",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/30/youtuber-diz-que-agente-de-ia-da-meta-forneceu-seu-endereco-a-um-estranho-e-a-pessoa-apareceu-na-casa-dele.ghtml",
+      "date": "Wed, 30 Sep 2026 13:00:14 -0000"
+    },
+    {
+      "title": "Brasil tem mais de 1 boi e quase 8 galinhas por brasileiro; veja onde est\u00E3o e conhe\u00E7a a cidade que tem quase 400 galinhas por habitante",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/30/brasil-tem-mais-de-1-boi-e-quase-8-galinhas-por-brasileiro-veja-onde-estao-e-conheca-a-cidade-que-tem-quase-400-galinhas-por-habitante.ghtml",
+      "date": "Wed, 30 Sep 2026 13:00:01 -0000"
+    },
+    {
+      "title": "No 1\u00BA saldo positivo do ano, estatais federais t\u00EAm super\u00E1vit de R$ 1,76 bilh\u00E3o em agosto",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/30/no-1o-saldo-positivo-do-ano-estatais-federais-tem-superavit-de-r-176-bilhao-em-agosto.ghtml",
+      "date": "Wed, 30 Sep 2026 12:04:16 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em queda, com infla\u00E7\u00E3o dos EUA e contas p\u00FAblicas no foco; Ibovespa sobe",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/30/dolar-ibovespa.ghtml",
+      "date": "Wed, 30 Sep 2026 12:00:13 -0000"
+    },
+    {
+      "title": "Jap\u00E3o abre mercado para carne bovina argentina ap\u00F3s 20 anos, diz ministro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/30/japao-abre-mercado-para-carne-bovina-argentina-apos-20-anos-diz-ministro.ghtml",
+      "date": "Wed, 30 Sep 2026 11:52:44 -0000"
+    },
+    {
+      "title": "Contas p\u00FAblicas t\u00EAm d\u00E9ficit de R$ 10 bilh\u00F5es em agosto; d\u00EDvida sobe para 82,9% do PIB, maior n\u00EDvel desde 2021",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/09/30/contas-publicas-tem-deficit-de-r-10-bilhoes-em-agosto-divida-sobe-para-829percent-do-pib.ghtml",
+      "date": "Wed, 30 Sep 2026 11:35:31 -0000"
+    },
+    {
+      "title": "Dublador de \u2018Yu-Gi-Oh!\u2019 consegue prote\u00E7\u00E3o da voz ap\u00F3s processo contra o TikTok por clonagem de IA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/30/tribunal-japones-determina-que-a-voz-humana-esta-protegida-em-caso-de-ia-do-tiktok.ghtml",
+      "date": "Wed, 30 Sep 2026 10:26:59 -0000"
+    },
     {
       "title": "Por que algumas pessoas acreditam que a IA \u00E9 um Anticristo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/09/30/por-que-algumas-pessoas-acreditam-que-a-ia-e-um-anticristo.ghtml",
       "date": "Wed, 30 Sep 2026 07:00:01 -0000"
-    },
-    {
-      "title": "\u0027Nunca \u00E9 suficiente\u0027: como a falta de reconhecimento no trabalho pode afetar a sa\u00FAde",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/30/nunca-e-suficiente-como-a-falta-de-reconhecimento-no-trabalho-pode-afetar-a-saude.ghtml",
-      "date": "Wed, 30 Sep 2026 06:00:01 -0000"
-    },
-    {
-      "title": "Dinheiro esquecido do PIS/Pasep: prazo para pedir ressarcimento termina nesta quarta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/30/dinheiro-esquecido-do-pispasep-prazo-para-pedir-ressarcimento-termina-nesta-quarta.ghtml",
-      "date": "Wed, 30 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Mega-Sena 3064 acumula e pr\u00EAmio vai a R$ 75 milh\u00F5es; confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/29/mega-sena-concurso-3064-confira-os-numeros-sorteados.ghtml",
-      "date": "Wed, 30 Sep 2026 00:02:46 -0000"
-    },
-    {
-      "title": "Trump re\u00FAne CEOs de IA e anuncia compromisso para refor\u00E7ar controles de seguran\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/trump-reune-ceos-de-ia-e-anuncia-compromisso-para-reforcar-controles-de-seguranca.ghtml",
-      "date": "Tue, 29 Sep 2026 21:43:55 -0000"
-    },
-    {
-      "title": "A cinco dias das elei\u00E7\u00F5es, governo lan\u00E7a Desenrola MEI e novas medidas de renegocia\u00E7\u00E3o de d\u00EDvidas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
-      "date": "Tue, 29 Sep 2026 21:30:18 -0000"
-    },
-    {
-      "title": "Greve da Caixa chega ao fim ap\u00F3s decis\u00E3o do TST; ag\u00EAncias reabrem nesta quarta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/29/tst-determina-fim-da-greve-da-caixa.ghtml",
-      "date": "Tue, 29 Sep 2026 19:38:01 -0000"
-    },
-    {
-      "title": "OpenAI lan\u00E7a nova vers\u00E3o de IA mais barata ap\u00F3s descartar atualiza\u00E7\u00E3o por problemas de seguran\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/openai-lanca-nova-versao-de-ia-mais-barata-apos-descartar-atualizacao-por-problemas-de-seguranca.ghtml",
-      "date": "Tue, 29 Sep 2026 18:16:11 -0000"
-    },
-    {
-      "title": "Apple avalia reformula\u00E7\u00E3o para lan\u00E7ar produtos mais r\u00E1pido, diz site ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/apple-avalia-reformulacao-para-lancar-produtos-mais-rapido-diz-site.ghtml",
-      "date": "Tue, 29 Sep 2026 17:44:21 -0000"
-    },
-    {
-      "title": "Transa\u00E7\u00F5es com PIX caem 10% ap\u00F3s proibi\u00E7\u00E3o das bets; veja os dados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/09/29/transacoes-com-pix-caem-apos-proibicao-das-bets-veja-os-dados.ghtml",
-      "date": "Tue, 29 Sep 2026 17:38:44 -0000"
     }
   ]
 }
