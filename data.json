@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 186340.45,
-      "change": 1.37,
-      "changeStr": "\u002B1.37%"
+      "price": 185045.94,
+      "change": -0.69,
+      "changeStr": "-0.69%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.12,
-      "change": 0.04,
-      "changeStr": "\u002B0.04%"
+      "price": 49.55,
+      "change": 0.88,
+      "changeStr": "\u002B0.88%"
     },
     {
       "symbol": "VALE3",
-      "price": 69.91,
-      "change": 0.43,
-      "changeStr": "\u002B0.43%"
+      "price": 68.97,
+      "change": -1.34,
+      "changeStr": "-1.34%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.28,
-      "change": 4.68,
-      "changeStr": "\u002B4.68%"
+      "price": 43.79,
+      "change": -1.11,
+      "changeStr": "-1.11%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.51,
-      "change": 4.11,
-      "changeStr": "\u002B4.11%"
+      "price": 18.24,
+      "change": -1.46,
+      "changeStr": "-1.46%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.07,
-      "change": 4.67,
-      "changeStr": "\u002B4.67%"
+      "price": 22.72,
+      "change": -1.52,
+      "changeStr": "-1.52%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.46,
-      "change": 12.52,
-      "changeStr": "\u002B12.52%"
+      "price": 7.36,
+      "change": -1.34,
+      "changeStr": "-1.34%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.36,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 15.25,
+      "change": -0.72,
+      "changeStr": "-0.72%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.46,
-      "change": -1.65,
-      "changeStr": "-1.65%"
+      "price": 49.58,
+      "change": 0.24,
+      "changeStr": "\u002B0.24%"
     }
   ],
   "news": [
+    {
+      "title": "Petrobras aumenta pre\u00E7o do querosene de avia\u00E7\u00E3o em outubro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/01/petrobras-querosene.ghtml",
+      "date": "Thu, 01 Oct 2026 14:13:35 -0000"
+    },
+    {
+      "title": "Exporta\u00E7\u00F5es agr\u00EDcolas da Argentina \u00E0 Uni\u00E3o Europeia crescem 21% ap\u00F3s acordo Mercosul-UE",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/01/exportacoes-agricolas-da-argentina-para-a-uniao-europeia-disparam-apos-acordo-comercial-com-o-mercosul.ghtml",
+      "date": "Thu, 01 Oct 2026 14:08:49 -0000"
+    },
+    {
+      "title": "Brasil bate recorde de produ\u00E7\u00E3o de petr\u00F3leo pelo 3\u00BA m\u00EAs seguido em agosto",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/01/producao-de-petroleo-brasil.ghtml",
+      "date": "Thu, 01 Oct 2026 14:07:11 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta, de olho nos pre\u00E7os do petr\u00F3leo e cen\u00E1rio pol\u00EDtico brasileiro; Ibovespa sobe",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/01/dolar-ibovespa.ghtml",
+      "date": "Thu, 01 Oct 2026 12:00:12 -0000"
+    },
+    {
+      "title": "PIX por aproxima\u00E7\u00E3o deixa de ter limite di\u00E1rio de R$ 500 a partir desta quinta; veja como pagar com essa modalidade",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/01/pix-por-aproximacao-limite.ghtml",
+      "date": "Thu, 01 Oct 2026 11:44:40 -0000"
+    },
+    {
+      "title": "Empresa australiana compra projeto de terras raras em Minas Gerais por R$ 3,5 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/01/lynas-terras-raras-minas-gerais.ghtml",
+      "date": "Thu, 01 Oct 2026 10:50:30 -0000"
+    },
+    {
+      "title": "Tarifa\u00E7o de Trump j\u00E1 derruba vendas de empresas brasileiras; veja o desafio para substituir os EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/01/tarifaco-de-trump-ja-derruba-vendas-de-empresas-brasileiras-veja-o-desafio-para-substituir-os-eua.ghtml",
+      "date": "Thu, 01 Oct 2026 08:00:01 -0000"
+    },
+    {
+      "title": "Dia do Idoso: os 10 melhores pa\u00EDses para se aposentar \u2014 e quanto voc\u00EA precisa ganhar para morar l\u00E1",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/01/dia-do-idoso-os-10-melhores-paises-para-se-aposentar-e-quanto-voce-precisa-ganhar-para-morar-la.ghtml",
+      "date": "Thu, 01 Oct 2026 08:00:00 -0000"
+    },
+    {
+      "title": "PIX na Europa? Conex\u00E3o pode baratear transfer\u00EAncias e reduzir envio a segundos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/01/pix-na-europa-conexao-pode-baratear-transferencias-e-reduzir-envio-a-segundos.ghtml",
+      "date": "Thu, 01 Oct 2026 08:00:00 -0000"
+    },
     {
       "title": "Casos de ass\u00E9dio eleitoral no trabalho disparam antes da elei\u00E7\u00E3o; veja como denunciar",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/casos-de-assedio-eleitoral-no-trabalho-disparam-antes-da-eleicao-veja-como-denunciar.ghtml",
       "date": "Thu, 01 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Intelig\u00EAncia artificial muda planos de carreira dos jovens; veja profiss\u00F5es que ganham espa\u00E7o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/inteligencia-artificial-muda-planos-de-carreira-dos-jovens-veja-profissoes-que-ganham-espaco.ghtml",
-      "date": "Thu, 01 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Bolsa Fam\u00EDlia 2026: veja calend\u00E1rio de pagamentos em outubro, primeiro m\u00EAs ap\u00F3s reajuste",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/01/bolsa-familia-2026-veja-calendario-de-pagamentos-em-outubro.ghtml",
-      "date": "Thu, 01 Oct 2026 03:00:02 -0000"
-    },
-    {
-      "title": "Pagamento do INSS de outubro: veja calend\u00E1rio e datas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/01/pagamento-do-inss-de-outubro-veja-calendario-e-datas.ghtml",
-      "date": "Thu, 01 Oct 2026 03:00:02 -0000"
-    },
-    {
-      "title": "Calend\u00E1rio BPC/Loas outubro 2026: veja datas de pagamento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/01/calendario-bpcloas-outubro-2026-veja-datas-de-pagamento.ghtml",
-      "date": "Thu, 01 Oct 2026 03:00:01 -0000"
-    },
-    {
-      "title": "Quinto dia \u00FAtil de outubro de 2026: veja a data do pagamento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/quinto-dia-util-de-outubro-de-2026-veja-a-data-do-pagamento.ghtml",
-      "date": "Thu, 01 Oct 2026 03:00:01 -0000"
-    },
-    {
-      "title": "Saque-anivers\u00E1rio FGTS outubro: veja calend\u00E1rio e quem pode sacar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/01/saque-aniversario-fgts-outubro-veja-calendario.ghtml",
-      "date": "Thu, 01 Oct 2026 03:00:01 -0000"
-    },
-    {
-      "title": "Feriados de outubro de 2026: veja o calend\u00E1rio e se haver\u00E1 folga prolongada",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/feriados-de-outubro-de-2026-calendario.ghtml",
-      "date": "Thu, 01 Oct 2026 03:00:01 -0000"
-    },
-    {
-      "title": "Dia Internacional do Caf\u00E9: teste seus conhecimentos sobre a bebida queridinha dos brasileiros",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/01/dia-internacional-do-cafe-teste-seus-conhecimentos-sobre-a-bebida-queridinha-dos-brasileiros.ghtml",
-      "date": "Thu, 01 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 75 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/01/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 01 Oct 2026 03:00:00 -0000"
     }
   ]
 }
