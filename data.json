@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 185045.94,
-      "change": -0.69,
-      "changeStr": "-0.69%"
+      "price": 187197.45,
+      "change": 0.46,
+      "changeStr": "\u002B0.46%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.55,
-      "change": 0.88,
-      "changeStr": "\u002B0.88%"
+      "price": 49.77,
+      "change": 1.32,
+      "changeStr": "\u002B1.32%"
     },
     {
       "symbol": "VALE3",
-      "price": 68.97,
-      "change": -1.34,
-      "changeStr": "-1.34%"
+      "price": 70.3,
+      "change": 0.56,
+      "changeStr": "\u002B0.56%"
     },
     {
       "symbol": "ITUB4",
-      "price": 43.79,
-      "change": -1.11,
-      "changeStr": "-1.11%"
+      "price": 44.15,
+      "change": -0.29,
+      "changeStr": "-0.29%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.24,
-      "change": -1.46,
-      "changeStr": "-1.46%"
+      "price": 18.57,
+      "change": 0.32,
+      "changeStr": "\u002B0.32%"
     },
     {
       "symbol": "BBAS3",
-      "price": 22.72,
-      "change": -1.52,
-      "changeStr": "-1.52%"
+      "price": 23.02,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.36,
-      "change": -1.34,
-      "changeStr": "-1.34%"
+      "price": 7.57,
+      "change": 1.47,
+      "changeStr": "\u002B1.47%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.25,
-      "change": -0.72,
-      "changeStr": "-0.72%"
+      "price": 15.42,
+      "change": 0.39,
+      "changeStr": "\u002B0.39%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.58,
-      "change": 0.24,
-      "changeStr": "\u002B0.24%"
+      "price": 49.56,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     }
   ],
   "news": [
+    {
+      "title": "Jaecoo 5 mira sucesso do Omoda 5 e quer desbancar Hyundai Creta e VW T-Cross; ser\u00E1 que consegue?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/01/jaecoo-5-mira-sucesso-do-omoda-5-e-quer-desbancar-hyundai-creta-e-vw-t-cross-sera-que-consegue.ghtml",
+      "date": "Thu, 01 Oct 2026 17:03:18 -0000"
+    },
+    {
+      "title": "59% dos brasileiros querem parar de trabalhar at\u00E9 os 60 anos, mas s\u00F3 28% acham que v\u00E3o conseguir, diz pesquisa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/01/59percent-dos-brasileiros-querem-parar-de-trabalhar-ate-os-60-anos-mas-so-28percent-acham-que-vao-conseguir-diz-pesquisa.ghtml",
+      "date": "Thu, 01 Oct 2026 16:37:19 -0000"
+    },
+    {
+      "title": "Pol\u00EDcia espanhola prende adolescente de 16 anos suspeito de liderar grupo de hackers em investiga\u00E7\u00E3o na Europa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/01/policia-espanhola-prende-adolescente-de-16-anos-suspeito-de-liderar-grupo-de-hackers-em-investigacao-na-europa.ghtml",
+      "date": "Thu, 01 Oct 2026 16:05:06 -0000"
+    },
+    {
+      "title": "Agentes de IA tentam invadir site do governo do Canad\u00E1; caso acende alerta ap\u00F3s ataque na Austr\u00E1lia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/01/agentes-de-ia-tentam-invadir-site-do-governo-do-canada-caso-acende-alerta-apos-ataque-na-australia.ghtml",
+      "date": "Thu, 01 Oct 2026 15:55:05 -0000"
+    },
     {
       "title": "Petrobras aumenta pre\u00E7o do querosene de avia\u00E7\u00E3o em outubro",
       "source": "G1 Economia",
@@ -75,7 +99,7 @@
       "date": "Thu, 01 Oct 2026 14:07:11 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta, de olho nos pre\u00E7os do petr\u00F3leo e cen\u00E1rio pol\u00EDtico brasileiro; Ibovespa sobe",
+      "title": "D\u00F3lar sobe e fecha a R$ 5,22 com alta do petr\u00F3leo e reta final para as elei\u00E7\u00F5es; Ibovespa avan\u00E7a",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/01/dolar-ibovespa.ghtml",
       "date": "Thu, 01 Oct 2026 12:00:12 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/01/lynas-terras-raras-minas-gerais.ghtml",
       "date": "Thu, 01 Oct 2026 10:50:30 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o de Trump j\u00E1 derruba vendas de empresas brasileiras; veja o desafio para substituir os EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/01/tarifaco-de-trump-ja-derruba-vendas-de-empresas-brasileiras-veja-o-desafio-para-substituir-os-eua.ghtml",
-      "date": "Thu, 01 Oct 2026 08:00:01 -0000"
-    },
-    {
-      "title": "Dia do Idoso: os 10 melhores pa\u00EDses para se aposentar \u2014 e quanto voc\u00EA precisa ganhar para morar l\u00E1",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/01/dia-do-idoso-os-10-melhores-paises-para-se-aposentar-e-quanto-voce-precisa-ganhar-para-morar-la.ghtml",
-      "date": "Thu, 01 Oct 2026 08:00:00 -0000"
-    },
-    {
-      "title": "PIX na Europa? Conex\u00E3o pode baratear transfer\u00EAncias e reduzir envio a segundos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/01/pix-na-europa-conexao-pode-baratear-transferencias-e-reduzir-envio-a-segundos.ghtml",
-      "date": "Thu, 01 Oct 2026 08:00:00 -0000"
-    },
-    {
-      "title": "Casos de ass\u00E9dio eleitoral no trabalho disparam antes da elei\u00E7\u00E3o; veja como denunciar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/casos-de-assedio-eleitoral-no-trabalho-disparam-antes-da-eleicao-veja-como-denunciar.ghtml",
-      "date": "Thu, 01 Oct 2026 06:00:00 -0000"
     }
   ]
 }
