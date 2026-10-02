@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 187197.45,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 188960.45,
+      "change": 0.94,
+      "changeStr": "\u002B0.94%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.77,
-      "change": 1.32,
-      "changeStr": "\u002B1.32%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 70.3,
-      "change": 0.56,
-      "changeStr": "\u002B0.56%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 44.15,
-      "change": -0.29,
-      "changeStr": "-0.29%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 18.57,
-      "change": 0.32,
-      "changeStr": "\u002B0.32%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 23.02,
+      "price": 49.66,
       "change": -0.22,
       "changeStr": "-0.22%"
     },
     {
+      "symbol": "VALE3",
+      "price": 71.12,
+      "change": 1.17,
+      "changeStr": "\u002B1.17%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 44.63,
+      "change": 1.09,
+      "changeStr": "\u002B1.09%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 18.73,
+      "change": 0.86,
+      "changeStr": "\u002B0.86%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 23.38,
+      "change": 1.56,
+      "changeStr": "\u002B1.56%"
+    },
+    {
       "symbol": "MGLU3",
-      "price": 7.57,
-      "change": 1.47,
-      "changeStr": "\u002B1.47%"
+      "price": 7.51,
+      "change": -0.79,
+      "changeStr": "-0.79%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.42,
-      "change": 0.39,
-      "changeStr": "\u002B0.39%"
+      "price": 15.58,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.56,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 50.43,
+      "change": 1.76,
+      "changeStr": "\u002B1.76%"
     }
   ],
   "news": [
     {
-      "title": "Trabalhar nas elei\u00E7\u00F5es d\u00E1 direito a folga? Quanto ganha um mes\u00E1rio? Veja os benef\u00EDcios",
+      "title": "Como plantar girassol? Veja dicas sobre o cultivo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/02/trabalhar-nas-eleicoes-da-direito-a-folga-quanto-ganha-um-mesario.ghtml",
-      "date": "Fri, 02 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/02/como-plantar-girassol-veja-dicas-sobre-o-cultivo.ghtml",
+      "date": "Fri, 02 Oct 2026 12:30:55 -0000"
     },
     {
-      "title": "Mega-Sena 3065 acumula e pr\u00EAmio vai a R$ 82 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "title": "Petrobras faz nova descoberta de petr\u00F3leo em po\u00E7o na costa do Amap\u00E1",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/01/mega-sena-concurso-3065-confira-os-numeros-sorteados.ghtml",
-      "date": "Fri, 02 Oct 2026 00:02:27 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/02/petrobras-petroleo-costa-do-amapa.ghtml",
+      "date": "Fri, 02 Oct 2026 12:29:04 -0000"
     },
     {
-      "title": "\u0027Temos que sobreviver\u0027, diz presidente da Disney sobre onda de demiss\u00F5es",
+      "title": "D\u00F3lar abre em alta, de olho em dados dos EUA e \u00E0s v\u00E9speras das elei\u00E7\u00F5es",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/01/temos-que-sobreviver-diz-presidente-da-disney-sobre-onda-de-demissoes.ghtml",
-      "date": "Thu, 01 Oct 2026 21:45:33 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/02/dolar-ibovespa.ghtml",
+      "date": "Fri, 02 Oct 2026 12:00:18 -0000"
     },
     {
-      "title": "Jaecoo 5 mira sucesso do Omoda 5 e quer desbancar Hyundai Creta e VW T-Cross; ser\u00E1 que consegue?",
+      "title": "Maior juro do mercado, uso do rotativo bate recorde; Lula quer limitar a um cart\u00E3o de cr\u00E9dito por pessoa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/01/jaecoo-5-mira-sucesso-do-omoda-5-e-quer-desbancar-hyundai-creta-e-vw-t-cross-sera-que-consegue.ghtml",
-      "date": "Thu, 01 Oct 2026 17:03:18 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/02/maior-juro-do-mercado-uso-do-rotativo-bate-recorde-lula-quer-limitar-a-um-cartao-de-credito-por-pessoa.ghtml",
+      "date": "Fri, 02 Oct 2026 11:19:43 -0000"
     },
     {
-      "title": "59% dos brasileiros querem parar de trabalhar at\u00E9 os 60 anos, mas s\u00F3 28% acham que v\u00E3o conseguir, diz pesquisa",
+      "title": "Por que a Starbucks est\u00E1 sendo criticada por abrir lojas nesta regi\u00E3o da China",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/01/59percent-dos-brasileiros-querem-parar-de-trabalhar-ate-os-60-anos-mas-so-28percent-acham-que-vao-conseguir-diz-pesquisa.ghtml",
-      "date": "Thu, 01 Oct 2026 16:37:19 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/02/starbucks-china-lojas.ghtml",
+      "date": "Fri, 02 Oct 2026 11:11:09 -0000"
     },
     {
-      "title": "Pol\u00EDcia espanhola prende adolescente de 16 anos suspeito de liderar grupo de hackers em investiga\u00E7\u00E3o na Europa",
+      "title": "Crise da Nike se agrava, e empresa anuncia novos cortes de empregos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/01/policia-espanhola-prende-adolescente-de-16-anos-suspeito-de-liderar-grupo-de-hackers-em-investigacao-na-europa.ghtml",
-      "date": "Thu, 01 Oct 2026 16:05:06 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/02/crise-da-nike-se-agrava-e-empresa-anuncia-novos-cortes-de-empregos.ghtml",
+      "date": "Fri, 02 Oct 2026 10:58:16 -0000"
     },
     {
-      "title": "Agentes de IA tentam invadir site do governo do Canad\u00E1; caso acende alerta ap\u00F3s ataque na Austr\u00E1lia",
+      "title": "INSS vai pagar afastamento para v\u00EDtimas de viol\u00EAncia dom\u00E9stica; veja quem tem direito e como pedir",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/01/agentes-de-ia-tentam-invadir-site-do-governo-do-canada-caso-acende-alerta-apos-ataque-na-australia.ghtml",
-      "date": "Thu, 01 Oct 2026 15:55:05 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/02/inss-vai-pagar-afastamento-para-vitimas-de-violencia-domestica-veja-quem-tem-direito-e-como-pedir.ghtml",
+      "date": "Fri, 02 Oct 2026 08:00:00 -0000"
     },
     {
-      "title": "Petrobras aumenta pre\u00E7o do querosene de avia\u00E7\u00E3o em outubro",
+      "title": "UE considera \u0027dif\u00EDcil\u0027 liberar carne brasileira antes de 2 anos, diz representante do bloco ao g1",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/01/petrobras-querosene.ghtml",
-      "date": "Thu, 01 Oct 2026 14:13:35 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/02/ue-considera-dificil-liberar-carne-brasileira-antes-de-2-anos-diz-representante-do-bloco-ao-g1.ghtml",
+      "date": "Fri, 02 Oct 2026 08:00:00 -0000"
     },
     {
-      "title": "Exporta\u00E7\u00F5es agr\u00EDcolas da Argentina \u00E0 Uni\u00E3o Europeia crescem 21% ap\u00F3s acordo Mercosul-UE",
+      "title": "Empresa registra mais de 15,7 mil dias de atestados em 6 meses no ES: n\u00FAmero alto de afastamentos pode gerar demiss\u00E3o?",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/01/exportacoes-agricolas-da-argentina-para-a-uniao-europeia-disparam-apos-acordo-comercial-com-o-mercosul.ghtml",
-      "date": "Thu, 01 Oct 2026 14:08:49 -0000"
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/02/empresa-registra-mais-de-157-mil-dias-de-atestados-em-6-meses-no-es-numero-alto-de-afastamentos-pode-gerar-demissao.ghtml",
+      "date": "Fri, 02 Oct 2026 07:00:00 -0000"
     },
     {
-      "title": "Brasil bate recorde de produ\u00E7\u00E3o de petr\u00F3leo pelo 3\u00BA m\u00EAs seguido em agosto",
+      "title": "Leil\u00E3o da Receita tem iPhone por R$ 3 mil e Camaro Amarelo por R$ 50 mil; saiba como participar",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/01/producao-de-petroleo-brasil.ghtml",
-      "date": "Thu, 01 Oct 2026 14:07:11 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/02/leilao-da-receita-tem-iphone-por-r-3-mil-e-camaro-amarelo-por-r-50-mil-saiba-como-participar.ghtml",
+      "date": "Fri, 02 Oct 2026 07:00:00 -0000"
     }
   ]
 }
