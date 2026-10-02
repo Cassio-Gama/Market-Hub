@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 188960.45,
-      "change": 0.94,
-      "changeStr": "\u002B0.94%"
+      "price": 190932.62,
+      "change": 2,
+      "changeStr": "\u002B2.00%"
     },
     {
       "symbol": "PETR4",
-      "price": 49.66,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 51.1,
+      "change": 2.67,
+      "changeStr": "\u002B2.67%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.12,
-      "change": 1.17,
-      "changeStr": "\u002B1.17%"
+      "price": 71.15,
+      "change": 1.21,
+      "changeStr": "\u002B1.21%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.63,
-      "change": 1.09,
-      "changeStr": "\u002B1.09%"
+      "price": 44.62,
+      "change": 1.06,
+      "changeStr": "\u002B1.06%"
     },
     {
       "symbol": "BBDC4",
-      "price": 18.73,
-      "change": 0.86,
-      "changeStr": "\u002B0.86%"
+      "price": 19.11,
+      "change": 2.91,
+      "changeStr": "\u002B2.91%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.38,
+      "price": 23.59,
+      "change": 2.48,
+      "changeStr": "\u002B2.48%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 7.55,
+      "change": -0.26,
+      "changeStr": "-0.26%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 15.66,
       "change": 1.56,
       "changeStr": "\u002B1.56%"
     },
     {
-      "symbol": "MGLU3",
-      "price": 7.51,
-      "change": -0.79,
-      "changeStr": "-0.79%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 15.58,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
-    },
-    {
       "symbol": "WEGE3",
-      "price": 50.43,
-      "change": 1.76,
-      "changeStr": "\u002B1.76%"
+      "price": 51.21,
+      "change": 3.33,
+      "changeStr": "\u002B3.33%"
     }
   ],
   "news": [
+    {
+      "title": "Caso Master: Fachin marca reuni\u00E3o com PF para tratar de men\u00E7\u00F5es a ministros do STF",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/02/fachin-marca-reuniao-com-pf-para-tratar-de-mencoes-a-ministros-do-stf-no-master.ghtml",
+      "date": "Fri, 02 Oct 2026 18:39:21 -0000"
+    },
+    {
+      "title": "Quem \u00E9 Shivon Zilis, ex-companheira de Elon Musk e executiva da Neuralink",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/02/quem-e-shivon-zilis-ex-companheira-de-elon-musk-e-executiva-da-neuralink.ghtml",
+      "date": "Fri, 02 Oct 2026 17:19:43 -0000"
+    },
+    {
+      "title": "Executiva Shivon Zilis diz que seu relacionamento com Elon Musk terminou: \u0027Vou sentir falta dele\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/02/shivon-zilis-e-elon-musk.ghtml",
+      "date": "Fri, 02 Oct 2026 16:56:24 -0000"
+    },
+    {
+      "title": "Tesla sobe 5% ap\u00F3s superar previs\u00E3o de entregas, e fortuna de Elon Musk encosta em US$ 1 trilh\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/02/acoes-tesla-entregas.ghtml",
+      "date": "Fri, 02 Oct 2026 16:44:35 -0000"
+    },
+    {
+      "title": "Fortuna do dono da Nvidia ultrapassa US$ 200 bilh\u00F5es ap\u00F3s a\u00E7\u00F5es da empresa baterem recorde",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/02/fortuna-do-dono-da-nvidia-ultrapassa-us-200-bilhoes-apos-acoes-da-empresa-baterem-recorde.ghtml",
+      "date": "Fri, 02 Oct 2026 16:40:44 -0000"
+    },
+    {
+      "title": "Paramount e Warner Bros. v\u00E3o operar sob o nome Skydance ap\u00F3s fus\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/02/paramount-e-warner-bros-vao-operar-sob-o-nome-skydance-apos-fusao.ghtml",
+      "date": "Fri, 02 Oct 2026 16:28:38 -0000"
+    },
+    {
+      "title": "Proibi\u00E7\u00E3o das bets: governo diz que j\u00E1 adotou provid\u00EAncias para derrubar mais de 10 mil sites ilegais desde publica\u00E7\u00E3o de MP",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/02/proibicao-das-bets-governo-diz-que-ja-derrubou-mais-de-10-mil-sites-ilegais.ghtml",
+      "date": "Fri, 02 Oct 2026 16:09:02 -0000"
+    },
+    {
+      "title": "A\u00E7\u00F5es da Nvidia batem recorde e empresa se aproxima de valer US$ 6 trilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/02/acoes-da-nvidia-batem-recorde-e-empresa-se-aproxima-de-valer-us-6-trilhoes.ghtml",
+      "date": "Fri, 02 Oct 2026 14:34:18 -0000"
+    },
+    {
+      "title": "Trump deve nomear Jay Clayton, atual diretor de espionagem, como \u0027czar\u0027 da intelig\u00EAncia artificial, diz TV",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/02/trump-czar-ia.ghtml",
+      "date": "Fri, 02 Oct 2026 14:28:52 -0000"
+    },
     {
       "title": "Como plantar girassol? Veja dicas sobre o cultivo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/02/como-plantar-girassol-veja-dicas-sobre-o-cultivo.ghtml",
       "date": "Fri, 02 Oct 2026 12:30:55 -0000"
-    },
-    {
-      "title": "Petrobras faz nova descoberta de petr\u00F3leo em po\u00E7o na costa do Amap\u00E1",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/02/petrobras-petroleo-costa-do-amapa.ghtml",
-      "date": "Fri, 02 Oct 2026 12:29:04 -0000"
-    },
-    {
-      "title": "D\u00F3lar abre em alta, de olho em dados dos EUA e \u00E0s v\u00E9speras das elei\u00E7\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/02/dolar-ibovespa.ghtml",
-      "date": "Fri, 02 Oct 2026 12:00:18 -0000"
-    },
-    {
-      "title": "Maior juro do mercado, uso do rotativo bate recorde; Lula quer limitar a um cart\u00E3o de cr\u00E9dito por pessoa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/02/maior-juro-do-mercado-uso-do-rotativo-bate-recorde-lula-quer-limitar-a-um-cartao-de-credito-por-pessoa.ghtml",
-      "date": "Fri, 02 Oct 2026 11:19:43 -0000"
-    },
-    {
-      "title": "Por que a Starbucks est\u00E1 sendo criticada por abrir lojas nesta regi\u00E3o da China",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/02/starbucks-china-lojas.ghtml",
-      "date": "Fri, 02 Oct 2026 11:11:09 -0000"
-    },
-    {
-      "title": "Crise da Nike se agrava, e empresa anuncia novos cortes de empregos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/02/crise-da-nike-se-agrava-e-empresa-anuncia-novos-cortes-de-empregos.ghtml",
-      "date": "Fri, 02 Oct 2026 10:58:16 -0000"
-    },
-    {
-      "title": "INSS vai pagar afastamento para v\u00EDtimas de viol\u00EAncia dom\u00E9stica; veja quem tem direito e como pedir",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/02/inss-vai-pagar-afastamento-para-vitimas-de-violencia-domestica-veja-quem-tem-direito-e-como-pedir.ghtml",
-      "date": "Fri, 02 Oct 2026 08:00:00 -0000"
-    },
-    {
-      "title": "UE considera \u0027dif\u00EDcil\u0027 liberar carne brasileira antes de 2 anos, diz representante do bloco ao g1",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/02/ue-considera-dificil-liberar-carne-brasileira-antes-de-2-anos-diz-representante-do-bloco-ao-g1.ghtml",
-      "date": "Fri, 02 Oct 2026 08:00:00 -0000"
-    },
-    {
-      "title": "Empresa registra mais de 15,7 mil dias de atestados em 6 meses no ES: n\u00FAmero alto de afastamentos pode gerar demiss\u00E3o?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/02/empresa-registra-mais-de-157-mil-dias-de-atestados-em-6-meses-no-es-numero-alto-de-afastamentos-pode-gerar-demissao.ghtml",
-      "date": "Fri, 02 Oct 2026 07:00:00 -0000"
-    },
-    {
-      "title": "Leil\u00E3o da Receita tem iPhone por R$ 3 mil e Camaro Amarelo por R$ 50 mil; saiba como participar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/02/leilao-da-receita-tem-iphone-por-r-3-mil-e-camaro-amarelo-por-r-50-mil-saiba-como-participar.ghtml",
-      "date": "Fri, 02 Oct 2026 07:00:00 -0000"
     }
   ]
 }
