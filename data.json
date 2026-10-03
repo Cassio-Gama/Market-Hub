@@ -55,5 +55,66 @@
       "changeStr": "\u002B3.81%"
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Por que a Espanha, que constru\u00EDa casas demais, vive hoje uma grave crise de moradia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/por-que-a-espanha-que-construia-casas-demais-vive-hoje-uma-grave-crise-de-moradia.ghtml",
+      "date": "Sat, 03 Oct 2026 19:36:31 -0000"
+    },
+    {
+      "title": "Ex-funcion\u00E1rio da OpenAI diz que empresas de IA n\u00E3o s\u00E3o \u0027nem de perto cuidadosas o suficiente\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/03/ex-funcionario-da-openai-critica-empresas-de-ia.ghtml",
+      "date": "Sat, 03 Oct 2026 19:24:15 -0000"
+    },
+    {
+      "title": "\u0027O gado est\u00E1 morrendo de sede e fome\u0027: o impacto devastador do El Ni\u00F1o no Corredor Seco da Am\u00E9rica Central",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/03/o-gado-esta-morrendo-de-sede-e-fome-o-impacto-devastador-do-el-nino-no-corredor-seco-da-america-central.ghtml",
+      "date": "Sat, 03 Oct 2026 17:09:51 -0000"
+    },
+    {
+      "title": "Pa\u00EDses j\u00E1 liberaram 325 milh\u00F5es de barris de petr\u00F3leo para conter alta dos pre\u00E7os, diz IEA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/03/paises-ja-liberaram-325-milhoes-de-barris-de-petroleo-para-conter-alta-dos-precos-diz-iea.ghtml",
+      "date": "Sat, 03 Oct 2026 12:00:27 -0000"
+    },
+    {
+      "title": "O que deu errado para a Nike? Como gigante mundial de artigos esportivos perdeu \u0027brilho\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/03/o-que-deu-errado-para-a-nike-como-gigante-mundial-de-artigos-esportivos-perdeu-brilho.ghtml",
+      "date": "Sat, 03 Oct 2026 08:00:00 -0000"
+    },
+    {
+      "title": "Qual ser\u00E1 o maior desafio da economia para o pr\u00F3ximo governo? g1 ouviu mais de 20 economistas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/03/nao-sao-so-as-contas-publicas-economistas-listam-desafios-do-proximo-governo.ghtml",
+      "date": "Sat, 03 Oct 2026 08:00:00 -0000"
+    },
+    {
+      "title": "Mico ou inova\u00E7\u00E3o? Por que candidatos querem mais data centers no Brasil enquanto cresce a rejei\u00E7\u00E3o nos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/03/mico-ou-inovacao-por-que-candidatos-querem-mais-data-centers-no-brasil-enquanto-cresce-a-rejeicao-nos-eua.ghtml",
+      "date": "Sat, 03 Oct 2026 07:00:00 -0000"
+    },
+    {
+      "title": "Qual o futuro da CLT? Candidatos prop\u00F5em mudan\u00E7as e at\u00E9 alternativas ao modelo de carteira assinada",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/03/qual-o-futuro-da-clt.ghtml",
+      "date": "Sat, 03 Oct 2026 07:00:00 -0000"
+    },
+    {
+      "title": "Faz diferen\u00E7a? Qual a ci\u00EAncia por tr\u00E1s do ato de lavar o arroz antes de cozinhar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/03/a-ciencia-por-tras-do-ato-de-lavar-o-arroz-antes-de-cozinhar.ghtml",
+      "date": "Sat, 03 Oct 2026 06:00:01 -0000"
+    },
+    {
+      "title": "Vai trabalhar nas elei\u00E7\u00F5es? Saiba tudo sobre a folga eleitoral",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/03/vai-trabalhar-nas-eleicoes-saiba-tudo-sobre-a-folga-eleitoral.ghtml",
+      "date": "Sat, 03 Oct 2026 06:00:00 -0000"
+    }
+  ]
 }
