@@ -2,58 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 192114.55,
-      "change": 2.63,
-      "changeStr": "\u002B2.63%"
+      "price": 208935.23,
+      "change": 8.76,
+      "changeStr": "\u002B8.76%"
     },
     {
       "symbol": "PETR4",
-      "price": 51.17,
-      "change": 2.81,
-      "changeStr": "\u002B2.81%"
+      "price": 56.29,
+      "change": 10.01,
+      "changeStr": "\u002B10.01%"
     },
     {
       "symbol": "VALE3",
-      "price": 72.1,
-      "change": 2.56,
-      "changeStr": "\u002B2.56%"
+      "price": 71.2,
+      "change": -1.25,
+      "changeStr": "-1.25%"
     },
     {
       "symbol": "ITUB4",
-      "price": 44.83,
-      "change": 1.54,
-      "changeStr": "\u002B1.54%"
+      "price": 50.2,
+      "change": 11.98,
+      "changeStr": "\u002B11.98%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.23,
-      "change": 3.55,
-      "changeStr": "\u002B3.55%"
+      "price": 22.1,
+      "change": 14.92,
+      "changeStr": "\u002B14.92%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.72,
-      "change": 3.04,
-      "changeStr": "\u002B3.04%"
+      "price": 26.8,
+      "change": 12.98,
+      "changeStr": "\u002B12.98%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.61,
-      "change": 0.53,
-      "changeStr": "\u002B0.53%"
+      "price": 9.62,
+      "change": 26.41,
+      "changeStr": "\u002B26.41%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.84,
-      "change": 2.72,
-      "changeStr": "\u002B2.72%"
+      "price": 16.65,
+      "change": 5.11,
+      "changeStr": "\u002B5.11%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.45,
-      "change": 3.81,
-      "changeStr": "\u002B3.81%"
+      "price": 50.19,
+      "change": -2.45,
+      "changeStr": "-2.45%"
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Trump culpa ataques da Ucr\u00E2nia \u00E0 R\u00FAssia por alta dos pre\u00E7os do petr\u00F3leo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/05/trump-culpa-ataques-da-ucrania-a-russia-por-alta-dos-precos-do-petroleo.ghtml",
+      "date": "Mon, 05 Oct 2026 16:52:08 -0000"
+    },
+    {
+      "title": "Starbucks \u00E9 processada nos EUA por bebidas anunciadas como \u0027sem a\u00E7\u00FAcar\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/05/starbucks-e-processada-nos-eua-por-bebidas-anunciadas-como-sem-acucar.ghtml",
+      "date": "Mon, 05 Oct 2026 16:26:29 -0000"
+    },
+    {
+      "title": "Vendas de ve\u00EDculos novos t\u00EAm melhor setembro da hist\u00F3ria; veja RANKING dos mais vendidos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/05/vendas-veiculos-novos-setembro-fenabrave.ghtml",
+      "date": "Mon, 05 Oct 2026 14:35:28 -0000"
+    },
+    {
+      "title": "Ibovespa dispara e bate recorde de 209 mil pontos, com foco em Lula e Fl\u00E1vio no 2\u00BA turno; d\u00F3lar cai abaixo de R$ 4,95",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/05/dolar-ibovespa.ghtml",
+      "date": "Mon, 05 Oct 2026 12:00:20 -0000"
+    },
+    {
+      "title": "Smart Fit fecha acordo para comprar at\u00E9 20% do Buddha Spa por R$ 32 milh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/05/smartfit-buddha-spa.ghtml",
+      "date": "Mon, 05 Oct 2026 11:42:27 -0000"
+    },
+    {
+      "title": "Como funcionam as reservas de petr\u00F3leo usadas para enfrentar crises de abastecimento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/05/como-funcionam-as-reservas-de-petroleo-usadas-para-enfrentar-crises-de-abastecimento.ghtml",
+      "date": "Mon, 05 Oct 2026 06:01:42 -0000"
+    },
+    {
+      "title": "Guerra no Ir\u00E3: por que o pre\u00E7o do petr\u00F3leo n\u00E3o para de subir mesmo com a volta das exporta\u00E7\u00F5es?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/05/guerra-no-ira-por-que-o-preco-do-petroleo-nao-para-de-subir-mesmo-com-a-volta-das-exportacoes.ghtml",
+      "date": "Mon, 05 Oct 2026 06:01:18 -0000"
+    },
+    {
+      "title": "Como e por que a intelig\u00EAncia artificial \u00E9 capaz de aprender a burlar regras",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/05/como-e-por-que-a-inteligencia-artificial-e-capaz-de-aprender-a-burlar-regras.ghtml",
+      "date": "Mon, 05 Oct 2026 06:00:00 -0000"
+    },
+    {
+      "title": "Prazo para sacar o dinheiro nas bets termina nesta segunda; veja perguntas e respostas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/05/prazo-para-sacar-o-dinheiro-nas-bets-termina-nesta-segunda.ghtml",
+      "date": "Mon, 05 Oct 2026 05:12:45 -0000"
+    },
+    {
+      "title": "Ap\u00F3s lideran\u00E7a de Fl\u00E1vio, fundos que acompanham a bolsa brasileira disparam no exterior",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/05/flavio-x-lula-veja-a-reacao-dos-mercados-a-corrida-eleitoral.ghtml",
+      "date": "Mon, 05 Oct 2026 03:00:00 -0000"
+    }
+  ]
 }
