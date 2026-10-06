@@ -2,60 +2,102 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 205569.2,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 205762.16,
+      "change": -0.56,
+      "changeStr": "-0.56%"
     },
     {
       "symbol": "PETR4",
-      "price": 54.09,
-      "change": -2.29,
-      "changeStr": "-2.29%"
+      "price": 53.94,
+      "change": -2.57,
+      "changeStr": "-2.57%"
     },
     {
       "symbol": "VALE3",
-      "price": 70.32,
-      "change": -1.51,
-      "changeStr": "-1.51%"
+      "price": 70.49,
+      "change": -1.27,
+      "changeStr": "-1.27%"
     },
     {
       "symbol": "ITUB4",
-      "price": 50.08,
-      "change": 1.21,
-      "changeStr": "\u002B1.21%"
+      "price": 50.67,
+      "change": 2.41,
+      "changeStr": "\u002B2.41%"
     },
     {
       "symbol": "BBDC4",
-      "price": 22.45,
-      "change": 2.79,
-      "changeStr": "\u002B2.79%"
+      "price": 22.72,
+      "change": 4.03,
+      "changeStr": "\u002B4.03%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.63,
-      "change": -6.46,
-      "changeStr": "-6.46%"
+      "price": 24.66,
+      "change": -6.34,
+      "changeStr": "-6.34%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.48,
-      "change": 0.32,
-      "changeStr": "\u002B0.32%"
+      "price": 9.22,
+      "change": -2.43,
+      "changeStr": "-2.43%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.32,
-      "change": -1.09,
-      "changeStr": "-1.09%"
+      "price": 16.22,
+      "change": -1.7,
+      "changeStr": "-1.70%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.05,
-      "change": -0.39,
-      "changeStr": "-0.39%"
+      "price": 50.77,
+      "change": -0.94,
+      "changeStr": "-0.94%"
     }
   ],
   "news": [
+    {
+      "title": "Fim da escala 6x1: Governo quer expor posicionamento de aliados de Fl\u00E1vio e oposi\u00E7\u00E3o obstrui vota\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/fim-da-escala-6x1-governo-quer-expor-posicionamento-de-aliados-de-flavio-e-oposicao-planeja-estrategia.ghtml",
+      "date": "Tue, 06 Oct 2026 19:32:43 -0000"
+    },
+    {
+      "title": "Brasil perde ritmo e deve crescer menos que Am\u00E9rica Latina em 2026, diz Banco Mundial",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/06/brasil-fica-para-tras-e-deve-crescer-menos-que-america-latina-em-2026-diz-banco-mundial.ghtml",
+      "date": "Tue, 06 Oct 2026 18:46:12 -0000"
+    },
+    {
+      "title": "Bets deixam de funcionar no Brasil: o que acontece com o dinheiro, as contas, os aplicativos e as apostas em andamento?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/06/bets-proibicao-entenda.ghtml",
+      "date": "Tue, 06 Oct 2026 18:36:57 -0000"
+    },
+    {
+      "title": "Professor cria \u0027armadilha\u0027 para descobrir alunos que usaram IA e identifica 60 de 350",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/06/professor-cria-armadilha-para-descobrir-alunos-que-usaram-ia-e-identifica-60-de-350.ghtml",
+      "date": "Tue, 06 Oct 2026 18:24:30 -0000"
+    },
+    {
+      "title": "Balan\u00E7a comercial tem super\u00E1vit de US$ 7,7 bilh\u00F5es em setembro, alta de 146%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/06/balanca-comercial-tem-superavit-de-us-77-bilhoes-em-setembro-alta-de-146percent.ghtml",
+      "date": "Tue, 06 Oct 2026 18:02:59 -0000"
+    },
+    {
+      "title": "Ap\u00F3s fim de prazo para saques de recursos nas bets, contas de apostadores ainda t\u00EAm R$ 1,32 bilh\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/06/apos-fim-de-prazo-para-saques-de-recursos-nas-bets-r-132-bilhao-restam-nas-contas-valores-serao-enviados-para-bancos.ghtml",
+      "date": "Tue, 06 Oct 2026 15:31:56 -0000"
+    },
+    {
+      "title": "Veja os setores da economia que dispararam na bolsa ap\u00F3s o 1\u00BA turno",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/06/setores-da-economia-bolsa-1o-turno.ghtml",
+      "date": "Tue, 06 Oct 2026 15:25:37 -0000"
+    },
     {
       "title": "Paramount conclui compra da Warner Bros. por US$ 110 bilh\u00F5es",
       "source": "G1 Economia",
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/06/governo-atualiza-lista-suja-do-trabalho-escravo-veja-quem-entrou.ghtml",
       "date": "Tue, 06 Oct 2026 13:00:35 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda, com cen\u00E1rio pol\u00EDtico e balan\u00E7a comercial no radar; Ibovespa recua",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/06/dolar-ibovespa.ghtml",
-      "date": "Tue, 06 Oct 2026 12:00:19 -0000"
-    },
-    {
-      "title": "As preocupa\u00E7\u00F5es que levaram a OpenAI, do ChatGPT, a abandonar lan\u00E7amento de novo sistema de IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/06/as-preocupacoes-que-levaram-a-openai-do-chatgpt-a-abandonar-lancamento-de-novo-sistema-de-ia.ghtml",
-      "date": "Tue, 06 Oct 2026 06:30:00 -0000"
-    },
-    {
-      "title": "Vai trabalhar no feriado de 12 de outubro? Veja se d\u00E1 para emendar e quais s\u00E3o seus direitos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/06/feriado-de-12-de-outubro-veja-se-da-para-emendar-e-direitos.ghtml",
-      "date": "Tue, 06 Oct 2026 03:01:01 -0000"
-    },
-    {
-      "title": "Fim da escala 6x1: Senado inicia nova etapa de discuss\u00E3o da PEC; veja o que falta para proposta ser aprovada",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/06/fim-da-escala-6x1-senado-inicia-nova-etapa-de-discussao-da-pec-veja-o-que-falta-para-proposta-ser-aprovada.ghtml",
-      "date": "Tue, 06 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 92 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/06/mega-sena-pode-pagar-r-92-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Tue, 06 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Ibovespa dispara e d\u00F3lar cai ap\u00F3s 1\u00BA turno: por que a vantagem de Fl\u00E1vio sobre Lula animou o mercado   ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/06/ibovespa-dispara-e-dolar-cai-apos-1o-turno-por-que-a-vantagem-de-flavio-sobre-lula-animou-o-mercado.ghtml",
-      "date": "Tue, 06 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Empresas de IA s\u00E3o incapazes de controlar seus modelos, alerta ex-pesquisador da OpenAI",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/05/empresas-de-ia-sao-incapazes-de-controlar-seus-modelos-alerta-ex-pesquisador-da-openai.ghtml",
-      "date": "Mon, 05 Oct 2026 21:54:22 -0000"
     }
   ]
 }
