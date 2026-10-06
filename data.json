@@ -2,60 +2,72 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 208935.23,
-      "change": 8.76,
-      "changeStr": "\u002B8.76%"
+      "price": 206911.89,
+      "change": 7.7,
+      "changeStr": "\u002B7.70%"
     },
     {
       "symbol": "PETR4",
-      "price": 56.29,
-      "change": 10.01,
-      "changeStr": "\u002B10.01%"
+      "price": 55.36,
+      "change": 8.19,
+      "changeStr": "\u002B8.19%"
     },
     {
       "symbol": "VALE3",
-      "price": 71.2,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 71.4,
+      "change": -0.97,
+      "changeStr": "-0.97%"
     },
     {
       "symbol": "ITUB4",
-      "price": 50.2,
-      "change": 11.98,
-      "changeStr": "\u002B11.98%"
+      "price": 49.48,
+      "change": 10.37,
+      "changeStr": "\u002B10.37%"
     },
     {
       "symbol": "BBDC4",
-      "price": 22.1,
-      "change": 14.92,
-      "changeStr": "\u002B14.92%"
+      "price": 21.84,
+      "change": 13.57,
+      "changeStr": "\u002B13.57%"
     },
     {
       "symbol": "BBAS3",
-      "price": 26.8,
-      "change": 12.98,
-      "changeStr": "\u002B12.98%"
+      "price": 26.33,
+      "change": 11,
+      "changeStr": "\u002B11.00%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.62,
-      "change": 26.41,
-      "changeStr": "\u002B26.41%"
+      "price": 9.45,
+      "change": 24.18,
+      "changeStr": "\u002B24.18%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.65,
-      "change": 5.11,
-      "changeStr": "\u002B5.11%"
+      "price": 16.5,
+      "change": 4.17,
+      "changeStr": "\u002B4.17%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.19,
-      "change": -2.45,
-      "changeStr": "-2.45%"
+      "price": 51.25,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     }
   ],
   "news": [
+    {
+      "title": "Empresas de IA s\u00E3o incapazes de controlar seus modelos, alerta ex-pesquisador da OpenAI",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/05/empresas-de-ia-sao-incapazes-de-controlar-seus-modelos-alerta-ex-pesquisador-da-openai.ghtml",
+      "date": "Mon, 05 Oct 2026 21:54:22 -0000"
+    },
+    {
+      "title": "Bets: 26,5 milh\u00F5es de pessoas ainda mant\u00EAm R$1,3 bilh\u00E3o em plataformas; prazo para resgate termina hoje ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/05/bets-265-milhoes-de-pessoas-ainda-mantem-r13-bilhao-em-plataformas-prazo-para-resgate-termina-hoje.ghtml",
+      "date": "Mon, 05 Oct 2026 20:18:33 -0000"
+    },
     {
       "title": "Trump culpa ataques da Ucr\u00E2nia \u00E0 R\u00FAssia por alta dos pre\u00E7os do petr\u00F3leo",
       "source": "G1 Economia",
@@ -75,7 +87,7 @@
       "date": "Mon, 05 Oct 2026 14:35:28 -0000"
     },
     {
-      "title": "Ibovespa dispara e bate recorde de 209 mil pontos, com foco em Lula e Fl\u00E1vio no 2\u00BA turno; d\u00F3lar cai abaixo de R$ 4,95",
+      "title": "Ibovespa dispara e bate recorde de 206 mil pontos, com foco em Lula e Fl\u00E1vio no 2\u00BA turno; d\u00F3lar cai para R$ 5",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/05/dolar-ibovespa.ghtml",
       "date": "Mon, 05 Oct 2026 12:00:20 -0000"
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/05/como-e-por-que-a-inteligencia-artificial-e-capaz-de-aprender-a-burlar-regras.ghtml",
       "date": "Mon, 05 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Prazo para sacar o dinheiro nas bets termina nesta segunda; veja perguntas e respostas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/05/prazo-para-sacar-o-dinheiro-nas-bets-termina-nesta-segunda.ghtml",
-      "date": "Mon, 05 Oct 2026 05:12:45 -0000"
-    },
-    {
-      "title": "Ap\u00F3s lideran\u00E7a de Fl\u00E1vio, fundos que acompanham a bolsa brasileira disparam no exterior",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/05/flavio-x-lula-veja-a-reacao-dos-mercados-a-corrida-eleitoral.ghtml",
-      "date": "Mon, 05 Oct 2026 03:00:00 -0000"
     }
   ]
 }
