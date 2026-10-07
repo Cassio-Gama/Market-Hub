@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 205835.3,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 204915.47,
+      "change": -0.45,
+      "changeStr": "-0.45%"
     },
     {
       "symbol": "PETR4",
-      "price": 53.82,
-      "change": -2.78,
-      "changeStr": "-2.78%"
+      "price": 53.99,
+      "change": 0.32,
+      "changeStr": "\u002B0.32%"
     },
     {
       "symbol": "VALE3",
-      "price": 70.37,
-      "change": -1.44,
-      "changeStr": "-1.44%"
+      "price": 68.42,
+      "change": -2.77,
+      "changeStr": "-2.77%"
     },
     {
       "symbol": "ITUB4",
-      "price": 50.45,
-      "change": 1.96,
-      "changeStr": "\u002B1.96%"
+      "price": 49.93,
+      "change": -1.03,
+      "changeStr": "-1.03%"
     },
     {
       "symbol": "BBDC4",
-      "price": 22.8,
-      "change": 4.4,
-      "changeStr": "\u002B4.40%"
+      "price": 22.42,
+      "change": -1.67,
+      "changeStr": "-1.67%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.64,
-      "change": -6.42,
-      "changeStr": "-6.42%"
+      "price": 24.18,
+      "change": -1.87,
+      "changeStr": "-1.87%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.24,
-      "change": -2.22,
-      "changeStr": "-2.22%"
+      "price": 9.61,
+      "change": 4,
+      "changeStr": "\u002B4.00%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.25,
-      "change": -1.52,
-      "changeStr": "-1.52%"
+      "price": 15.98,
+      "change": -1.66,
+      "changeStr": "-1.66%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.75,
-      "change": -0.98,
-      "changeStr": "-0.98%"
+      "price": 51.05,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     }
   ],
   "news": [
     {
-      "title": "Al\u00E9m dos ovos: granja em SC cria codornas para consumo da carne e exporta metade da produ\u00E7\u00E3o",
+      "title": "\u0027Split payment\u0027: campanha de Fl\u00E1vio diz que acabar\u00E1 com mecanismo essencial da reforma tribut\u00E1ria",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/07/alem-dos-ovos-granja-em-sc-cria-codornas-para-consumo-da-carne-e-exporta-metade-da-producao.ghtml",
-      "date": "Wed, 07 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/07/reforma-tributaria-flavio-defende-mudancas-e-porta-voz-diz-que-vai-acabar-com-split-payment.ghtml",
+      "date": "Wed, 07 Oct 2026 14:25:40 -0000"
     },
     {
-      "title": "\u0027Ningu\u00E9m conseguia prever\u0027: chefe da Stellantis admite erro do setor diante da disparada chinesa",
+      "title": "Fl\u00E1vio diz que fala sobre mudar a Constitui\u00E7\u00E3o \u0027para redemocratizar o pa\u00EDs\u0027 se referia \u00E0 reforma do STF e fim da reelei\u00E7\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/07/ninguem-conseguia-prever-chefe-da-stellantis-admite-erro-do-setor-diante-da-disparada-chinesa.ghtml",
-      "date": "Wed, 07 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/flavio-diz-que-proposta-de-mudanca-na-constituicao-inclui-reducao-da-maioridade-penal-e-medidas-contra-o-stf.ghtml",
+      "date": "Wed, 07 Oct 2026 13:15:37 -0000"
     },
     {
-      "title": "Fim da 6x1: quais setores poder\u00E3o ter escalas diferentes? Veja profiss\u00F5es que podem ficar de fora ",
+      "title": "Leil\u00E3o da ANP: Petrobras e outras petroleiras arrematam 7 das 13 \u00E1reas de explora\u00E7\u00E3o no pr\u00E9-sal",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/07/fim-da-6x1-quais-setores-poderao-ter-escalas-diferentes.ghtml",
-      "date": "Wed, 07 Oct 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/07/anp-leilao.ghtml",
+      "date": "Wed, 07 Oct 2026 12:55:14 -0000"
     },
     {
-      "title": "A rea\u00E7\u00E3o do mercado ao 1\u00BA turno: da euforia \u00E0 incerteza - O Assunto #1820",
+      "title": "Ministros do STF indicam a Nunes Marques que revis\u00E3o criminal de Bolsonaro deve ir a plen\u00E1rio",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/07/a-reacao-do-mercado-ao-1o-turno-da-euforia-a-incerteza-o-assunto-1820.ghtml",
-      "date": "Wed, 07 Oct 2026 03:30:00 -0000"
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/07/fachin-indica-a-nunes-marques-que-revisao-criminal-de-bolsonaro-deve-ir-a-plenario.ghtml",
+      "date": "Wed, 07 Oct 2026 12:27:34 -0000"
     },
     {
-      "title": "ANP realiza leil\u00F5es de petr\u00F3leo e g\u00E1s nesta quarta-feira; b\u00F4nus m\u00EDnimos chegam a R$ 2,18 bilh\u00F5es",
+      "title": "D\u00EDvida p\u00FAblica global deve superar 100% do PIB antes de 2030, alerta FMI",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/07/anp-realiza-leiloes-de-petroleo-e-gas-nesta-quarta-feira-bonus-minimos-chegam-a-r-218-bilhoes.ghtml",
-      "date": "Wed, 07 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/07/divida-pib-fmi.ghtml",
+      "date": "Wed, 07 Oct 2026 12:23:23 -0000"
     },
     {
-      "title": "Mega-Sena 3067 acumula e pr\u00EAmio vai a R$ 100 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "title": "D\u00F3lar opera em alta com exterior no radar; Ibovespa oscila",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/06/mega-sena-concurso-3067-confira-os-numeros-sorteados.ghtml",
-      "date": "Wed, 07 Oct 2026 00:03:51 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/07/dolar-ibovespa.ghtml",
+      "date": "Wed, 07 Oct 2026 12:00:02 -0000"
     },
     {
-      "title": "Aena assume gest\u00E3o do Gale\u00E3o e ficar\u00E1 \u00E0 frente do aeroporto at\u00E9 2039",
+      "title": "Noruega quer proibir uso de \u00F3culos inteligentes em locais p\u00FAblicos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/06/aena-assume-gestao-do-galeao-e-ficara-a-frente-do-aeroporto-ate-2039.ghtml",
-      "date": "Tue, 06 Oct 2026 21:34:38 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/07/noruega-quer-proibir-uso-de-oculos-inteligentes-em-locais-publicos.ghtml",
+      "date": "Wed, 07 Oct 2026 11:42:43 -0000"
     },
     {
-      "title": "Compra da Warner Bros. pela Paramount cria gigante com 200 milh\u00F5es de assinantes; veja os n\u00FAmeros",
+      "title": "Porsche se prepara para era de vendas mais baixas e busca sa\u00EDda no segmento de luxo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/06/paramount-warner-bros-200-milhoes-assinantes.ghtml",
-      "date": "Tue, 06 Oct 2026 20:49:29 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/10/07/porsche-se-prepara-para-era-de-vendas-mais-baixas-e-busca-saida-no-segmento-de-luxo.ghtml",
+      "date": "Wed, 07 Oct 2026 11:20:02 -0000"
     },
     {
-      "title": "Musk \u00E9 trilion\u00E1rio de novo: fortuna chega a US$ 1,04 trilh\u00E3o ap\u00F3s disparada da SpaceX",
+      "title": "Trump sobre megafus\u00E3o entre Paramount e Warner: \u0027vai ser uma \u00F3tima empresa\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/06/musk-e-trilionario-de-novo-fortuna-chega-a-us-104-trilhao-apos-disparada-da-spacex.ghtml",
-      "date": "Tue, 06 Oct 2026 20:15:22 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/07/trump-sobre-megafusao-entre-paramount-e-warner-vai-ser-uma-otima-empresa.ghtml",
+      "date": "Wed, 07 Oct 2026 10:41:56 -0000"
     },
     {
-      "title": "Fim da escala 6x1: Governo quer expor posicionamento de aliados de Fl\u00E1vio e oposi\u00E7\u00E3o obstrui vota\u00E7\u00E3o",
+      "title": "\u0027Quanto dura um amor de ver\u00E3o?\u2019: \u00E2nimo do mercado com Fl\u00E1vio pode ter prazo de validade, avaliam economistas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/fim-da-escala-6x1-governo-quer-expor-posicionamento-de-aliados-de-flavio-e-oposicao-planeja-estrategia.ghtml",
-      "date": "Tue, 06 Oct 2026 19:32:43 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/07/animo-do-mercado-com-flavio-pode-ter-prazo-de-validade-avaliam-economistas.ghtml",
+      "date": "Wed, 07 Oct 2026 08:00:01 -0000"
     }
   ]
 }
