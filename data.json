@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 205762.16,
-      "change": -0.56,
-      "changeStr": "-0.56%"
+      "price": 205835.3,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "PETR4",
-      "price": 53.94,
-      "change": -2.57,
-      "changeStr": "-2.57%"
+      "price": 53.82,
+      "change": -2.78,
+      "changeStr": "-2.78%"
     },
     {
       "symbol": "VALE3",
-      "price": 70.49,
-      "change": -1.27,
-      "changeStr": "-1.27%"
+      "price": 70.37,
+      "change": -1.44,
+      "changeStr": "-1.44%"
     },
     {
       "symbol": "ITUB4",
-      "price": 50.67,
-      "change": 2.41,
-      "changeStr": "\u002B2.41%"
+      "price": 50.45,
+      "change": 1.96,
+      "changeStr": "\u002B1.96%"
     },
     {
       "symbol": "BBDC4",
-      "price": 22.72,
-      "change": 4.03,
-      "changeStr": "\u002B4.03%"
+      "price": 22.8,
+      "change": 4.4,
+      "changeStr": "\u002B4.40%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.66,
-      "change": -6.34,
-      "changeStr": "-6.34%"
+      "price": 24.64,
+      "change": -6.42,
+      "changeStr": "-6.42%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.22,
-      "change": -2.43,
-      "changeStr": "-2.43%"
+      "price": 9.24,
+      "change": -2.22,
+      "changeStr": "-2.22%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.22,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "price": 16.25,
+      "change": -1.52,
+      "changeStr": "-1.52%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.77,
-      "change": -0.94,
-      "changeStr": "-0.94%"
+      "price": 50.75,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     }
   ],
   "news": [
+    {
+      "title": "Mega-Sena, concurso 3067: confira os n\u00FAmeros sorteados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/06/mega-sena-concurso-3067-confira-os-numeros-sorteados.ghtml",
+      "date": "Wed, 07 Oct 2026 00:03:51 -0000"
+    },
+    {
+      "title": "Aena assume gest\u00E3o do Gale\u00E3o e ficar\u00E1 \u00E0 frente do aeroporto at\u00E9 2039",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/06/aena-assume-gestao-do-galeao-e-ficara-a-frente-do-aeroporto-ate-2039.ghtml",
+      "date": "Tue, 06 Oct 2026 21:34:38 -0000"
+    },
+    {
+      "title": "Compra da Warner Bros. pela Paramount cria gigante com 200 milh\u00F5es de assinantes; veja os n\u00FAmeros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/06/paramount-warner-bros-200-milhoes-assinantes.ghtml",
+      "date": "Tue, 06 Oct 2026 20:49:29 -0000"
+    },
+    {
+      "title": "Musk \u00E9 trilion\u00E1rio de novo: fortuna chega a US$ 1,04 trilh\u00E3o ap\u00F3s disparada da SpaceX",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/06/musk-e-trilionario-de-novo-fortuna-chega-a-us-104-trilhao-apos-disparada-da-spacex.ghtml",
+      "date": "Tue, 06 Oct 2026 20:15:22 -0000"
+    },
     {
       "title": "Fim da escala 6x1: Governo quer expor posicionamento de aliados de Fl\u00E1vio e oposi\u00E7\u00E3o obstrui vota\u00E7\u00E3o",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/06/apos-fim-de-prazo-para-saques-de-recursos-nas-bets-r-132-bilhao-restam-nas-contas-valores-serao-enviados-para-bancos.ghtml",
       "date": "Tue, 06 Oct 2026 15:31:56 -0000"
-    },
-    {
-      "title": "Veja os setores da economia que dispararam na bolsa ap\u00F3s o 1\u00BA turno",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/06/setores-da-economia-bolsa-1o-turno.ghtml",
-      "date": "Tue, 06 Oct 2026 15:25:37 -0000"
-    },
-    {
-      "title": "Paramount conclui compra da Warner Bros. por US$ 110 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/06/paramount-warner.ghtml",
-      "date": "Tue, 06 Oct 2026 13:15:49 -0000"
-    },
-    {
-      "title": "Coreia do Sul investiga ataques a bancos ap\u00F3s presidente dizer que h\u00E1 ind\u00EDcios de uso de IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/06/ia-coreia-bancos.ghtml",
-      "date": "Tue, 06 Oct 2026 13:05:09 -0000"
-    },
-    {
-      "title": "Governo atualiza \u0027lista suja\u0027 do trabalho escravo; veja quem entrou",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/06/governo-atualiza-lista-suja-do-trabalho-escravo-veja-quem-entrou.ghtml",
-      "date": "Tue, 06 Oct 2026 13:00:35 -0000"
     }
   ]
 }
