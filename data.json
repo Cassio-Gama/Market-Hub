@@ -2,33 +2,33 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 204915.47,
-      "change": -0.45,
-      "changeStr": "-0.45%"
+      "price": 204302.33,
+      "change": -0.74,
+      "changeStr": "-0.74%"
     },
     {
       "symbol": "PETR4",
-      "price": 53.99,
-      "change": 0.32,
-      "changeStr": "\u002B0.32%"
+      "price": 54.33,
+      "change": 0.95,
+      "changeStr": "\u002B0.95%"
     },
     {
       "symbol": "VALE3",
-      "price": 68.42,
-      "change": -2.77,
-      "changeStr": "-2.77%"
+      "price": 68.75,
+      "change": -2.3,
+      "changeStr": "-2.30%"
     },
     {
       "symbol": "ITUB4",
-      "price": 49.93,
-      "change": -1.03,
-      "changeStr": "-1.03%"
+      "price": 49.11,
+      "change": -2.66,
+      "changeStr": "-2.66%"
     },
     {
       "symbol": "BBDC4",
-      "price": 22.42,
-      "change": -1.67,
-      "changeStr": "-1.67%"
+      "price": 21.96,
+      "change": -3.68,
+      "changeStr": "-3.68%"
     },
     {
       "symbol": "BBAS3",
@@ -38,83 +38,83 @@
     },
     {
       "symbol": "MGLU3",
-      "price": 9.61,
-      "change": 4,
-      "changeStr": "\u002B4.00%"
+      "price": 9.71,
+      "change": 5.09,
+      "changeStr": "\u002B5.09%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.98,
-      "change": -1.66,
-      "changeStr": "-1.66%"
+      "price": 15.97,
+      "change": -1.72,
+      "changeStr": "-1.72%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.05,
-      "change": 0.59,
-      "changeStr": "\u002B0.59%"
+      "price": 51.27,
+      "change": 1.02,
+      "changeStr": "\u002B1.02%"
     }
   ],
   "news": [
     {
-      "title": "\u0027Split payment\u0027: campanha de Fl\u00E1vio diz que acabar\u00E1 com mecanismo essencial da reforma tribut\u00E1ria",
+      "title": "Shake Shack, rede de hamb\u00FArgueres dos EUA, chega ao Brasil com plano de abrir 40 restaurantes; veja card\u00E1pio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/07/shake-shack-rede-de-hamburgueres-dos-eua-chega-ao-brasil-com-plano-de-abrir-40-restaurantes-veja-cardapio.ghtml",
+      "date": "Wed, 07 Oct 2026 20:16:19 -0000"
+    },
+    {
+      "title": "Cr\u00EDtico dos juros nos EUA, Trump acusa dirigentes do Fed de quererem \u0027ver o pa\u00EDs ir mal\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/07/trump-dirigentes-fed.ghtml",
+      "date": "Wed, 07 Oct 2026 19:18:31 -0000"
+    },
+    {
+      "title": "Anac autoriza nova a\u00E9rea canadense a voar para o Brasil; veja quando come\u00E7am os voos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/07/anac-autoriza-nova-aerea-canadense-a-voar-para-o-brasil-veja-quando-comecam-os-voos.ghtml",
+      "date": "Wed, 07 Oct 2026 19:18:03 -0000"
+    },
+    {
+      "title": "Produ\u00E7\u00E3o de ve\u00EDculos cai em setembro; mas previs\u00E3o de vendas no ano \u00E9 de melhor resultado desde 2014",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/07/producao-de-veiculos-cai-em-setembro-mas-vendas-sobem.ghtml",
+      "date": "Wed, 07 Oct 2026 18:30:22 -0000"
+    },
+    {
+      "title": "Fl\u00F3rida pede \u00E0 Justi\u00E7a que obrigue Meta a limitar uso de Instagram e Facebook por menores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/07/florida-pede-a-justica-que-obrigue-meta-a-limitar-uso-de-instagram-e-facebook-por-menores.ghtml",
+      "date": "Wed, 07 Oct 2026 17:46:36 -0000"
+    },
+    {
+      "title": "SpaceX busca US$ 40 bilh\u00F5es para comprar chips de IA da Nvidia, diz ag\u00EAncia ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/07/spacex-busca-us-40-bilhoes-para-comprar-chips-de-ia-da-nvidia-diz-agencia.ghtml",
+      "date": "Wed, 07 Oct 2026 16:45:08 -0000"
+    },
+    {
+      "title": "Justi\u00E7a homologa plano de recupera\u00E7\u00E3o extrajudicial do GPA para renegociar R$ 4,6 bilh\u00F5es em d\u00EDvidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/07/justica-homologa-plano-de-recuperacao-extrajudicial-do-gpa-para-renegociar-r-46-bilhoes-em-dividas.ghtml",
+      "date": "Wed, 07 Oct 2026 16:30:11 -0000"
+    },
+    {
+      "title": "Jaguar apresenta el\u00E9trico Type 01 em meio a pol\u00EAmica de design e an\u00FAncio de demiss\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/07/jaguar-type-01.ghtml",
+      "date": "Wed, 07 Oct 2026 16:18:44 -0000"
+    },
+    {
+      "title": "Estrangeiros colocam recorde de R$ 10 bilh\u00F5es na Bolsa brasileira ap\u00F3s 1\u00BA turno; entenda o movimento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/07/bolsa-10bi-estrangeiros.ghtml",
+      "date": "Wed, 07 Oct 2026 15:44:00 -0000"
+    },
+    {
+      "title": "\u0027Split payment\u0027: campanha de Fl\u00E1vio diz que acabar\u00E1 com mecanismo da reforma tribut\u00E1ria que busca reduzir sonega\u00E7\u00E3o",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/07/reforma-tributaria-flavio-defende-mudancas-e-porta-voz-diz-que-vai-acabar-com-split-payment.ghtml",
       "date": "Wed, 07 Oct 2026 14:25:40 -0000"
-    },
-    {
-      "title": "Fl\u00E1vio diz que fala sobre mudar a Constitui\u00E7\u00E3o \u0027para redemocratizar o pa\u00EDs\u0027 se referia \u00E0 reforma do STF e fim da reelei\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/flavio-diz-que-proposta-de-mudanca-na-constituicao-inclui-reducao-da-maioridade-penal-e-medidas-contra-o-stf.ghtml",
-      "date": "Wed, 07 Oct 2026 13:15:37 -0000"
-    },
-    {
-      "title": "Leil\u00E3o da ANP: Petrobras e outras petroleiras arrematam 7 das 13 \u00E1reas de explora\u00E7\u00E3o no pr\u00E9-sal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/07/anp-leilao.ghtml",
-      "date": "Wed, 07 Oct 2026 12:55:14 -0000"
-    },
-    {
-      "title": "Ministros do STF indicam a Nunes Marques que revis\u00E3o criminal de Bolsonaro deve ir a plen\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/07/fachin-indica-a-nunes-marques-que-revisao-criminal-de-bolsonaro-deve-ir-a-plenario.ghtml",
-      "date": "Wed, 07 Oct 2026 12:27:34 -0000"
-    },
-    {
-      "title": "D\u00EDvida p\u00FAblica global deve superar 100% do PIB antes de 2030, alerta FMI",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/07/divida-pib-fmi.ghtml",
-      "date": "Wed, 07 Oct 2026 12:23:23 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta com exterior no radar; Ibovespa oscila",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/07/dolar-ibovespa.ghtml",
-      "date": "Wed, 07 Oct 2026 12:00:02 -0000"
-    },
-    {
-      "title": "Noruega quer proibir uso de \u00F3culos inteligentes em locais p\u00FAblicos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/07/noruega-quer-proibir-uso-de-oculos-inteligentes-em-locais-publicos.ghtml",
-      "date": "Wed, 07 Oct 2026 11:42:43 -0000"
-    },
-    {
-      "title": "Porsche se prepara para era de vendas mais baixas e busca sa\u00EDda no segmento de luxo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/07/porsche-se-prepara-para-era-de-vendas-mais-baixas-e-busca-saida-no-segmento-de-luxo.ghtml",
-      "date": "Wed, 07 Oct 2026 11:20:02 -0000"
-    },
-    {
-      "title": "Trump sobre megafus\u00E3o entre Paramount e Warner: \u0027vai ser uma \u00F3tima empresa\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/07/trump-sobre-megafusao-entre-paramount-e-warner-vai-ser-uma-otima-empresa.ghtml",
-      "date": "Wed, 07 Oct 2026 10:41:56 -0000"
-    },
-    {
-      "title": "\u0027Quanto dura um amor de ver\u00E3o?\u2019: \u00E2nimo do mercado com Fl\u00E1vio pode ter prazo de validade, avaliam economistas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/07/animo-do-mercado-com-flavio-pode-ter-prazo-de-validade-avaliam-economistas.ghtml",
-      "date": "Wed, 07 Oct 2026 08:00:01 -0000"
     }
   ]
 }
