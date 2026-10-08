@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 204302.33,
-      "change": -0.74,
-      "changeStr": "-0.74%"
+      "price": 205505.73,
+      "change": 0.59,
+      "changeStr": "\u002B0.59%"
     },
     {
       "symbol": "PETR4",
-      "price": 54.33,
-      "change": 0.95,
-      "changeStr": "\u002B0.95%"
+      "price": 55.11,
+      "change": 1.44,
+      "changeStr": "\u002B1.44%"
     },
     {
       "symbol": "VALE3",
-      "price": 68.75,
-      "change": -2.3,
-      "changeStr": "-2.30%"
+      "price": 68.01,
+      "change": -1.08,
+      "changeStr": "-1.08%"
     },
     {
       "symbol": "ITUB4",
-      "price": 49.11,
-      "change": -2.66,
-      "changeStr": "-2.66%"
+      "price": 48.98,
+      "change": -0.26,
+      "changeStr": "-0.26%"
     },
     {
       "symbol": "BBDC4",
-      "price": 21.96,
-      "change": -3.68,
-      "changeStr": "-3.68%"
+      "price": 21.6,
+      "change": -1.64,
+      "changeStr": "-1.64%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.18,
-      "change": -1.87,
-      "changeStr": "-1.87%"
+      "price": 24.11,
+      "change": -0.29,
+      "changeStr": "-0.29%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.71,
-      "change": 5.09,
-      "changeStr": "\u002B5.09%"
+      "price": 10.16,
+      "change": 4.63,
+      "changeStr": "\u002B4.63%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.97,
-      "change": -1.72,
-      "changeStr": "-1.72%"
+      "price": 15.89,
+      "change": -0.5,
+      "changeStr": "-0.50%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.27,
-      "change": 1.02,
-      "changeStr": "\u002B1.02%"
+      "price": 52.16,
+      "change": 1.74,
+      "changeStr": "\u002B1.74%"
     }
   ],
   "news": [
     {
-      "title": "Por que as elei\u00E7\u00F5es mexem tanto com d\u00F3lar e bolsa? Entenda o que o mercado tenta antecipar",
+      "title": "N\u00FAmero de chaves PIX ultrapassa marca de 1 bilh\u00E3o em setembro, revela Banco Central",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/08/por-que-as-eleicoes-mexem-tanto-com-dolar-e-bolsa-entenda-o-que-o-mercado-tenta-antecipar.ghtml",
-      "date": "Thu, 08 Oct 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/economia/pix/noticia/2026/10/08/numero-de-chaves-pix-ultrapassa-marca-de-1-bilhao-em-setembro-revela-banco-central.ghtml",
+      "date": "Thu, 08 Oct 2026 16:05:57 -0000"
     },
     {
-      "title": "\u0027Frango n\u00E3o tem partido\u0027: por que o agro defende equil\u00EDbrio entre China e EUA ap\u00F3s elei\u00E7\u00E3o",
+      "title": "Google lan\u00E7a agente de IA para tarefas de trabalho",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/08/frango-nao-tem-partido-por-que-o-agro-defende-equilibrio-entre-china-e-eua-apos-eleicao.ghtml",
-      "date": "Thu, 08 Oct 2026 07:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/08/google-lanca-agente-de-ia-para-tarefas-de-trabalho.ghtml",
+      "date": "Thu, 08 Oct 2026 15:18:27 -0000"
     },
     {
-      "title": "Banco Master: entenda como funcionavam as opera\u00E7\u00F5es que levaram a uma fraude bilion\u00E1ria",
+      "title": "Representante da campanha diz que governo de Fl\u00E1vio Bolsonaro n\u00E3o privatizaria Banco do Brasil, Caixa e Petrobras",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/08/banco-master-entenda-como-funcionavam-as-operacoes-que-levaram-a-uma-fraude-bilionaria.ghtml",
-      "date": "Thu, 08 Oct 2026 05:00:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/08/representante-da-campanha-diz-que-governo-de-flavio-bolsonaro-nao-privatizaria-banco-do-brasil-caixa-e-petrobras.ghtml",
+      "date": "Thu, 08 Oct 2026 15:17:56 -0000"
     },
     {
-      "title": "Rassvet: por que R\u00FAssia tenta criar sua pr\u00F3pria Starlink para a guerra na Ucr\u00E2nia",
+      "title": "Endividamento das fam\u00EDlias cai pela 1\u00AA vez no ano; inadimpl\u00EAncia recua nas menores rendas e cresce nas maiores",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/08/rassvet-por-que-russia-tenta-criar-sua-propria-starlink-para-a-guerra-na-ucrania.ghtml",
-      "date": "Thu, 08 Oct 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/08/inadimplencia-pesquisa-renda-cnc.ghtml",
+      "date": "Thu, 08 Oct 2026 15:16:46 -0000"
     },
     {
-      "title": "IBGE, Banco Central, CGU e mais: veja concursos com editais previstos para os pr\u00F3ximos meses",
+      "title": "Latam recebe 1\u00BA avi\u00E3o E195-E2 da Embraer, em S\u00E3o Jos\u00E9 dos Campos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/08/ibge-banco-central-cgu-e-mais-veja-concursos-com-editais-previstos-para-os-proximos-meses.ghtml",
-      "date": "Thu, 08 Oct 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/08/latam-recebe-1o-aviao-e195-e2-da-embraer-em-sao-jose-dos-campos.ghtml",
+      "date": "Thu, 08 Oct 2026 15:00:01 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 100 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "title": "Executiva da BYD afirma que maior desafio para expans\u00E3o \u00E9 a geopol\u00EDtica",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/08/mega-sena-pode-pagar-r-100-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 08 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/10/08/executiva-da-byd-afirma-que-maior-desafio-para-expansao-e-a-geopolitica.ghtml",
+      "date": "Thu, 08 Oct 2026 14:50:37 -0000"
     },
     {
-      "title": "F\u00E3-clubes de artistas pop se mobilizam para refor\u00E7ar presen\u00E7a de Lula nas redes sociais",
+      "title": "Amazon lan\u00E7a tablets com Android pela 1\u00AA vez e aumenta pre\u00E7os",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/07/fa-clubes-de-artistas-pop-se-mobilizam-para-reforcar-presenca-de-lula-nas-redes.ghtml",
-      "date": "Thu, 08 Oct 2026 01:55:18 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/08/amazon-lanca-tablets-com-android-pela-1a-vez-e-aumenta-precos.ghtml",
+      "date": "Thu, 08 Oct 2026 13:26:17 -0000"
     },
     {
-      "title": "Trump entregar\u00E1 principal honraria cient\u00EDfica dos EUA a Elon Musk e outros executivos da tecnologia",
+      "title": "D\u00F3lar oscila e Ibovespa sobe, de olho em pre\u00E7os do petr\u00F3leo e pesquisas eleitorais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/07/trump-medalha-executivos-da-tecnologia.ghtml",
-      "date": "Thu, 08 Oct 2026 00:46:56 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/08/dolar-ibovespa.ghtml",
+      "date": "Thu, 08 Oct 2026 12:00:28 -0000"
     },
     {
-      "title": "STF exclui cr\u00E9dito de ICMS da base de c\u00E1lculo de impostos federais e Uni\u00E3o estima impacto de R$16,5 bilh\u00F5es",
+      "title": "Amazon anuncia novos cortes de empregos; maioria est\u00E1 na divis\u00E3o de varejo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/07/stf-exclui-credito-de-icms-da-base-de-calculo-de-impostos-federais-e-uniao-deve-perder-r165-bilhoes.ghtml",
-      "date": "Wed, 07 Oct 2026 21:45:47 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/08/amazon-anuncia-novos-cortes-de-empregos.ghtml",
+      "date": "Thu, 08 Oct 2026 11:48:57 -0000"
     },
     {
-      "title": "PF arquiva investiga\u00E7\u00E3o sobre suposta interfer\u00EAncia dos EUA nas elei\u00E7\u00F5es brasileiras",
+      "title": "Jovem na China usou agente de IA em ataques a bancos da Coreia do Sul, diz CrowdStrike",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/07/pf-arquiva-investigacao-sobre-suposta-interferencia-dos-eua-nas-eleicoes-brasileiras.ghtml",
-      "date": "Wed, 07 Oct 2026 21:08:53 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/08/jovem-na-china-usou-agente-de-ia-em-ataques-a-bancos-da-coreia-do-sul-diz-crowdstrike.ghtml",
+      "date": "Thu, 08 Oct 2026 10:38:50 -0000"
     }
   ]
 }
