@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 206220.23,
-      "change": 0.94,
-      "changeStr": "\u002B0.94%"
+      "price": 208836.77,
+      "change": 1.27,
+      "changeStr": "\u002B1.27%"
     },
     {
       "symbol": "PETR4",
-      "price": 55.48,
-      "change": 2.12,
-      "changeStr": "\u002B2.12%"
+      "price": 56.41,
+      "change": 1.68,
+      "changeStr": "\u002B1.68%"
     },
     {
       "symbol": "VALE3",
-      "price": 67.64,
-      "change": -1.61,
-      "changeStr": "-1.61%"
+      "price": 67.59,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "ITUB4",
-      "price": 49.35,
-      "change": 0.49,
-      "changeStr": "\u002B0.49%"
+      "price": 49.92,
+      "change": 1.16,
+      "changeStr": "\u002B1.16%"
     },
     {
       "symbol": "BBDC4",
-      "price": 21.51,
-      "change": -2.05,
-      "changeStr": "-2.05%"
+      "price": 21.54,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.26,
-      "change": 0.33,
-      "changeStr": "\u002B0.33%"
+      "price": 24.61,
+      "change": 1.44,
+      "changeStr": "\u002B1.44%"
     },
     {
       "symbol": "MGLU3",
-      "price": 10.25,
-      "change": 5.56,
-      "changeStr": "\u002B5.56%"
+      "price": 11.42,
+      "change": 11.41,
+      "changeStr": "\u002B11.41%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.15,
-      "change": 1.13,
-      "changeStr": "\u002B1.13%"
+      "price": 15.97,
+      "change": -1.11,
+      "changeStr": "-1.11%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.77,
-      "change": 0.98,
-      "changeStr": "\u002B0.98%"
+      "price": 51.73,
+      "change": -0.08,
+      "changeStr": "-0.08%"
     }
   ],
   "news": [
     {
-      "title": "STF volta a discutir IPTU por \u00E1rea: levantamento do g1 mostra como capitais usam a metragem",
+      "title": "Governo publica MP que libera R$ 7,5 bilh\u00F5es para segurar pre\u00E7o do diesel e anuncia redu\u00E7\u00E3o de tributos sobre etanol e gasolina",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/09/iptu-por-area-levantamento-do-g1-mostra-como-capitais-usam-a-metragem.ghtml",
-      "date": "Fri, 09 Oct 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/09/governo-publica-mp-que-libera-r-75-bilhoes-para-segurar-precos-dos-combustiveis.ghtml",
+      "date": "Fri, 09 Oct 2026 15:02:47 -0000"
     },
     {
-      "title": "Faturamento do turismo no Brasil bate recorde e pode chegar a R$ 300 bilh\u00F5es em 2026",
+      "title": "Trump cria comit\u00EA para investigar Lisa Cook, diretora do Fed, diz Casa Branca",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/10/09/faturamento-do-turismo-no-brasil-bate-recorde-e-pode-chegar-a-r-300-bilhoes-em-2026.ghtml",
-      "date": "Fri, 09 Oct 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/09/trump-cria-comite-para-investigar-lisa-cook-diretora-do-fed-diz-casa-branca.ghtml",
+      "date": "Fri, 09 Oct 2026 14:13:38 -0000"
     },
     {
-      "title": "Do campo ao Planalto: os problemas que o agro quer ver resolvidos pelo pr\u00F3ximo presidente ",
+      "title": "Embrapa tem cartilha gratuita sobre retorno econ\u00F4mico de touros nelore melhorados",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/09/do-campo-ao-planalto-os-problemas-que-o-agro-quer-ver-resolvidos-pelo-proximo-presidente.ghtml",
-      "date": "Fri, 09 Oct 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/09/embrapa-tem-cartilha-gratuita-sobre-retorno-economico-de-touros-nelore-melhorados.ghtml",
+      "date": "Fri, 09 Oct 2026 14:01:24 -0000"
     },
     {
-      "title": "Sal\u00E1rio n\u00E3o d\u00E1 mais conta? Por que cada vez mais trabalhadores buscam um segundo emprego nos EUA",
+      "title": "Grosseria tem limite at\u00E9 para a IA: Anthropic quer barrar abusos e autoriza Claude a encerrar conversas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/09/por-que-cada-vez-mais-trabalhadores-buscam-um-segundo-emprego-nos-eua.ghtml",
-      "date": "Fri, 09 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/09/grosseria-tem-limite-ate-para-a-ia-anthropic-quer-barrar-abusos-e-autoriza-claude-a-encerrar-conversas.ghtml",
+      "date": "Fri, 09 Oct 2026 13:43:41 -0000"
     },
     {
-      "title": "Mais de um ter\u00E7o das ind\u00FAstrias brasileiras n\u00E3o conseguem cr\u00E9dito de longo prazo",
+      "title": "Governo decide ampliar prazo para solicita\u00E7\u00E3o do Seguro-Defeso; entenda ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/09/mais-de-um-terco-das-industrias-brasileiras-nao-conseguem-credito-de-longo-prazo.ghtml",
-      "date": "Fri, 09 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/09/governo-decide-ampliar-prazo-para-solicitacao-do-seguro-defeso-entenda.ghtml",
+      "date": "Fri, 09 Oct 2026 13:31:07 -0000"
     },
     {
-      "title": "12 de outubro \u00E9 feriado? D\u00E1 para emendar? Entenda quais s\u00E3o os direitos de quem trabalha na data",
+      "title": "US$ 1 tri: simulador permite gastar toda a fortuna de Musk com hamb\u00FArgueres, cavalos, mans\u00F5es e mais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/09/12-de-outubro-e-feriado-entenda-quais-sao-os-direitos.ghtml",
-      "date": "Fri, 09 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/09/us-1-tri-simulador-permite-gastar-toda-a-fortuna-de-musk-com-hamburgueres-cavalos-mansoes-e-mais.ghtml",
+      "date": "Fri, 09 Oct 2026 12:29:18 -0000"
     },
     {
-      "title": "Mega-Sena 3068 acumula e pr\u00EAmio vai a R$ 112 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "title": "Pre\u00E7o dos alimentos: o que ficou mais caro e o que barateou em setembro",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/08/mega-sena-concurso-3068-confira-os-numeros-sorteados.ghtml",
-      "date": "Fri, 09 Oct 2026 00:03:17 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/09/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-em-setembro.ghtml",
+      "date": "Fri, 09 Oct 2026 12:22:59 -0000"
     },
     {
-      "title": "\u0027Imposto do pecado\u0027: discuss\u00E3o sobre al\u00EDquotas ficar\u00E1 para depois das elei\u00E7\u00F5es, diz ministro da Fazenda",
+      "title": "Braskem tem at\u00E9 esta sexta para avan\u00E7ar em acordo sobre d\u00EDvida de R$ 56 bilh\u00F5es; maior credor ainda n\u00E3o aderiu",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/08/imposto-do-pecado-discussao-sobre-aliquotas-ficara-para-depois-das-eleicoes-diz-ministro-da-fazenda.ghtml",
-      "date": "Thu, 08 Oct 2026 23:07:49 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/09/braskem-tem-ate-esta-sexta-para-avancar-em-acordo-sobre-divida-de-r-56-bilhoes-maior-credor-ainda-nao-aderiu.ghtml",
+      "date": "Fri, 09 Oct 2026 12:02:50 -0000"
     },
     {
-      "title": "Gol lan\u00E7a \u2018check-in\u2019 pelo ChatGPT; veja como fazer e quando come\u00E7a",
+      "title": "Ap\u00F3s defla\u00E7\u00E3o em agosto, IPCA sobe 0,82% em setembro e volta a superar o teto da meta",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/08/gol-lanca-check-in-pelo-chatgpt-veja-como-fazer-e-quando-comeca.ghtml",
-      "date": "Thu, 08 Oct 2026 22:20:45 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/09/ipca-setembro.ghtml",
+      "date": "Fri, 09 Oct 2026 12:00:35 -0000"
     },
     {
-      "title": "\u0027Split payment\u0027: mecanismo n\u00E3o prejudica caixa das empresas e garante redu\u00E7\u00E3o da sonega\u00E7\u00E3o, diz Durigan ",
+      "title": "Ibovespa opera em alta e vai aos 209 mil pontos, com infla\u00E7\u00E3o e elei\u00E7\u00F5es no foco; d\u00F3lar cai",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/08/split-payment-mecanismo-nao-prejudica-caixa-das-empresas-e-garante-reducao-da-sonegacao-diz-durigan.ghtml",
-      "date": "Thu, 08 Oct 2026 22:02:08 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/09/dolar-ibovespa.ghtml",
+      "date": "Fri, 09 Oct 2026 12:00:33 -0000"
     }
   ]
 }
