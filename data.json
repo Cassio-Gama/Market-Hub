@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 209066.9,
+      "price": 206769.17,
+      "change": -1.1,
+      "changeStr": "-1.10%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 56.44,
+      "change": 0.79,
+      "changeStr": "\u002B0.79%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 67.07,
+      "change": -1.22,
+      "changeStr": "-1.22%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 49.69,
+      "change": -1.55,
+      "changeStr": "-1.55%"
+    },
+    {
+      "symbol": "BBDC4",
+      "price": 21.22,
+      "change": -1.8,
+      "changeStr": "-1.80%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 24.23,
+      "change": -1.66,
+      "changeStr": "-1.66%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 11.38,
+      "change": -6.87,
+      "changeStr": "-6.87%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 16.21,
       "change": 1.38,
       "changeStr": "\u002B1.38%"
     },
     {
-      "symbol": "PETR4",
-      "price": 56,
-      "change": 0.94,
-      "changeStr": "\u002B0.94%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 67.9,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 50.47,
-      "change": 2.27,
-      "changeStr": "\u002B2.27%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 21.61,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 24.64,
-      "change": 1.57,
-      "changeStr": "\u002B1.57%"
-    },
-    {
-      "symbol": "MGLU3",
-      "price": 12.22,
-      "change": 19.22,
-      "changeStr": "\u002B19.22%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 15.99,
-      "change": -0.99,
-      "changeStr": "-0.99%"
-    },
-    {
       "symbol": "WEGE3",
-      "price": 51.47,
-      "change": -0.58,
-      "changeStr": "-0.58%"
+      "price": 50.91,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     }
   ],
   "news": [
     {
-      "title": "Fim da escala 6x1: o que acontece se o Senado aprovar a PEC nesta quarta",
+      "title": "Com volta ao presencial e empresas em expans\u00E3o, pre\u00E7o do aluguel de escrit\u00F3rios bate recorde em SP",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/13/fim-da-escala-6x1-votacao-senado.ghtml",
-      "date": "Tue, 13 Oct 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/13/preco-aluguel-escritorios-sp.ghtml",
+      "date": "Tue, 13 Oct 2026 17:17:27 -0000"
     },
     {
-      "title": "Sal\u00E1rios acima de R$ 32 mil: saiba tudo sobre o concurso da C\u00E2mara dos Deputados",
+      "title": "\u0027Dinheiro esquecido\u0027: BC diz que R$ 5,8 bilh\u00F5es podem ser resgatados; quase 24 milh\u00F5es de pessoas t\u00EAm direito",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/13/salarios-acima-de-r-32-mil-saiba-tudo-sobre-o-concurso-da-camara-dos-deputados.ghtml",
-      "date": "Tue, 13 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/13/dinheiro-esquecido-bc-diz-que-r-58-bilhoes-podem-ser-resgatados-quase-24-milhoes-de-pessoas-tem-direito.ghtml",
+      "date": "Tue, 13 Oct 2026 14:19:04 -0000"
     },
     {
-      "title": "FMI eleva proje\u00E7\u00E3o para economia global, mas v\u00EA ganho concentrado com a IA",
+      "title": "Na reta final antes do 2\u00BA turno, governo envia ao Congresso projeto de lei que prev\u00EA perd\u00E3o a d\u00EDvidas de MEIs",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/13/fmi-eleva-projecao-para-economia-global-mas-ve-ganho-concentrado-com-a-ia.ghtml",
-      "date": "Tue, 13 Oct 2026 03:30:16 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/10/13/na-reta-final-do-segundo-turno-lula-anuncia-credito-e-medidas-para-pequenos-negocios.ghtml",
+      "date": "Tue, 13 Oct 2026 14:18:10 -0000"
     },
     {
-      "title": "Sorteio da Mega-Sena ser\u00E1 realizado nesta quarta (14); pr\u00EAmio pode chegar a R$ 150 milh\u00F5es",
+      "title": "Governo edita medida provis\u00F3ria para combater liga\u00E7\u00F5es abusivas de telemarketing",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/13/mega-sena-sorteio-quarta-14-outubro-premio-pode-chegar-150-milhoes.ghtml",
-      "date": "Tue, 13 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/13/governo-edita-medida-provisoria-para-combater-ligacoes-abusivas-de-telemarketing.ghtml",
+      "date": "Tue, 13 Oct 2026 14:00:06 -0000"
     },
     {
-      "title": "Pr\u00F3ximo feriad\u00E3o \u00E9 em novembro; veja os quatro feriados que ainda restam em 2026",
+      "title": "Apple lan\u00E7a HomeView, dispositivo com IA para controlar aparelhos da casa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/13/proximo-feriadao-e-em-novembro-feriados-que-ainda-restam-em-2026.ghtml",
-      "date": "Tue, 13 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/13/apple-homeview.ghtml",
+      "date": "Tue, 13 Oct 2026 13:46:47 -0000"
     },
     {
-      "title": "Meta lan\u00E7a Muse Wonder, seu modelo de IA mais avan\u00E7ado, para pressionar OpenAI e Anthropic",
+      "title": "Cientistas pedem \u00F3rg\u00E3o internacional para supervisionar sistemas de IA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/12/meta-lanca-muse-wonder-seus-modelos-de-ia-mais-avancados-para-pressionar-openai-e-anthropic.ghtml",
-      "date": "Mon, 12 Oct 2026 18:45:36 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/13/cientistas-pedem-orgao-internacional-para-supervisionar-sistemas-de-ia.ghtml",
+      "date": "Tue, 13 Oct 2026 12:35:15 -0000"
     },
     {
-      "title": "Declara\u00E7\u00E3o apoiada por 60 pa\u00EDses condena cobran\u00E7a de ped\u00E1gio em rotas mar\u00EDtimas",
+      "title": "FMI eleva previs\u00E3o de crescimento global com impulso da IA, mas alerta para depend\u00EAncia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/12/declaracao-assinada-por-60-paises-condena-cobranca-de-pedagio-em-rotas-maritimas.ghtml",
-      "date": "Mon, 12 Oct 2026 15:58:39 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/13/ia-impulsiona-crescimento-global-e-leva-fmi-a-elevar-projecao-para-2026.ghtml",
+      "date": "Tue, 13 Oct 2026 12:09:59 -0000"
     },
     {
-      "title": "Leite enfrenta mais exig\u00EAncias de seguran\u00E7a do que IA, diz presidente da Microsoft",
+      "title": "D\u00F3lar sobe, de olho nos pre\u00E7os do petr\u00F3leo e pesquisas eleitorais no Brasil; Ibovespa cai",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/12/leite-enfrenta-mais-exigencias-de-seguranca-do-que-ia-diz-presidente-da-microsoft.ghtml",
-      "date": "Mon, 12 Oct 2026 14:33:02 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/13/dolar-ibovespa.ghtml",
+      "date": "Tue, 13 Oct 2026 12:00:19 -0000"
     },
     {
-      "title": "Nobel de Economia: quem ganhou nos \u00FAltimos anos e quais ideias renderam o pr\u00EAmio ",
+      "title": "Alemanha investiga suposto caso de ass\u00E9dio sexual cometido com rob\u00F4 controlado por jovens",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/12/nobel-de-economia-quem-ganhou-nos-ultimos-anos-e-quais-ideias-renderam-o-premio.ghtml",
-      "date": "Mon, 12 Oct 2026 12:04:23 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/13/alemanha-investiga-suposto-caso-de-assedio-sexual-cometido-por-um-robo.ghtml",
+      "date": "Tue, 13 Oct 2026 11:39:45 -0000"
     },
     {
-      "title": "Nobel de Economia 2026 vai para Robert E. Hall e Michael Woodford por seus estudos sobre estabiliza\u00E7\u00E3o econ\u00F4mica",
+      "title": "Mercado financeiro sobe para 5,22% estimativa de infla\u00E7\u00E3o em 2026 e passa a prever juros menores",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/12/nobel-de-economia-2026-vai-para-robert-e-hall-e-michael-woodford.ghtml",
-      "date": "Mon, 12 Oct 2026 09:49:11 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/13/mercado-financeiro-sobe-para-522percent-estimativa-de-inflacao-em-2026-e-passa-a-prever-juros-menores.ghtml",
+      "date": "Tue, 13 Oct 2026 11:30:46 -0000"
     }
   ]
 }
