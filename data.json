@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 207146.42,
-      "change": 0.13,
-      "changeStr": "\u002B0.13%"
+      "price": 206505.98,
+      "change": -0.18,
+      "changeStr": "-0.18%"
     },
     {
       "symbol": "PETR4",
-      "price": 57.89,
-      "change": 1.83,
-      "changeStr": "\u002B1.83%"
+      "price": 58.11,
+      "change": 2.22,
+      "changeStr": "\u002B2.22%"
     },
     {
       "symbol": "VALE3",
-      "price": 66.43,
-      "change": -1.09,
-      "changeStr": "-1.09%"
+      "price": 66.72,
+      "change": -0.66,
+      "changeStr": "-0.66%"
     },
     {
       "symbol": "ITUB4",
-      "price": 49.33,
-      "change": -0.7,
-      "changeStr": "-0.70%"
+      "price": 48.98,
+      "change": -1.41,
+      "changeStr": "-1.41%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.95,
-      "change": -2.1,
-      "changeStr": "-2.10%"
+      "price": 20.87,
+      "change": -2.48,
+      "changeStr": "-2.48%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.37,
-      "change": 0.49,
-      "changeStr": "\u002B0.49%"
+      "price": 24.19,
+      "change": -0.25,
+      "changeStr": "-0.25%"
     },
     {
       "symbol": "MGLU3",
-      "price": 10.88,
-      "change": -4.23,
-      "changeStr": "-4.23%"
+      "price": 10.85,
+      "change": -4.49,
+      "changeStr": "-4.49%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.54,
-      "change": 1.35,
-      "changeStr": "\u002B1.35%"
+      "price": 16.52,
+      "change": 1.23,
+      "changeStr": "\u002B1.23%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.83,
-      "change": 0.04,
-      "changeStr": "\u002B0.04%"
+      "price": 50.44,
+      "change": -0.73,
+      "changeStr": "-0.73%"
     }
   ],
   "news": [
+    {
+      "title": "Estados americanos processam OpenAI e acusam ChatGPT de incentivar automutila\u00E7\u00E3o em jovens",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/14/estados-americanos-processam-openai-e-acusam-chatgpt-de-incentivar-automutilacao-em-jovens.ghtml",
+      "date": "Wed, 14 Oct 2026 21:15:02 -0000"
+    },
+    {
+      "title": "Gol corta voos ap\u00F3s pre\u00E7o do combust\u00EDvel dobrar; veja o que muda para passageiros",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/14/gol-corta-voos-apos-preco-do-combustivel-dobrar-veja-o-que-muda-para-passageiros.ghtml",
+      "date": "Wed, 14 Oct 2026 20:28:53 -0000"
+    },
+    {
+      "title": "Minerais cr\u00EDticos e estrat\u00E9gicos concentram 57% dos empregos da minera\u00E7\u00E3o em 2025, diz ANM",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/14/minerais-criticos-e-estrategicos-concentram-57percent-dos-empregos-da-mineracao-em-2025-diz-anm.ghtml",
+      "date": "Wed, 14 Oct 2026 19:00:00 -0000"
+    },
     {
       "title": "M\u00E9xico vai exigir que plataformas digitais protejam menores de conte\u00FAdos violentos e sexuais",
       "source": "G1 Economia",
@@ -87,7 +105,7 @@
       "date": "Wed, 14 Oct 2026 12:34:10 -0000"
     },
     {
-      "title": "D\u00F3lar sobe, com foco em infla\u00E7\u00E3o americana e pesquisa eleitoral; Ibovespa cai",
+      "title": "D\u00F3lar sobe e fecha a R$ 5,02 com infla\u00E7\u00E3o nos EUA e pesquisa eleitoral no radar; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/14/dolar-ibovespa.ghtml",
       "date": "Wed, 14 Oct 2026 12:01:23 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/10/14/globo-recebe-reconhecimento-da-onu-por-impacto-social-e-praticas-sustentaveis.ghtml",
       "date": "Wed, 14 Oct 2026 11:57:30 -0000"
-    },
-    {
-      "title": "Concurso da C\u00E2mara dos Deputados: veja forma\u00E7\u00F5es exigidas para disputar sal\u00E1rios acima de R$ 32 mil ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/14/concurso-da-camara-dos-deputados-veja-formacoes-exigidas-para-disputar-salarios-acima-de-r-32-mil.ghtml",
-      "date": "Wed, 14 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Anac registra 57 casos de indisciplina no 1\u00BA m\u00EAs de regra que pune m\u00E1 conduta de passageiros",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/14/anac-registra-57-casos-de-indisciplina-no-1o-mes-de-regra-que-pune-ma-conduta-de-passageiros.ghtml",
-      "date": "Wed, 14 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "IA pode afetar 40% dos empregos no mundo e dificultar entrada de jovens no mercado, alerta FMI",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/14/ia-pode-afetar-40percent-dos-empregos-no-mundo-e-dificultar-entrada-de-jovens-no-mercado-alerta-fmi.ghtml",
-      "date": "Wed, 14 Oct 2026 06:00:00 -0000"
     }
   ]
 }
