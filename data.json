@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 203962.56,
-      "change": -1.41,
-      "changeStr": "-1.41%"
+      "price": 207146.42,
+      "change": 0.13,
+      "changeStr": "\u002B0.13%"
     },
     {
       "symbol": "PETR4",
-      "price": 57.12,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
+      "price": 57.89,
+      "change": 1.83,
+      "changeStr": "\u002B1.83%"
     },
     {
       "symbol": "VALE3",
-      "price": 66.55,
-      "change": -0.91,
-      "changeStr": "-0.91%"
+      "price": 66.43,
+      "change": -1.09,
+      "changeStr": "-1.09%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48.74,
-      "change": -1.89,
-      "changeStr": "-1.89%"
+      "price": 49.33,
+      "change": -0.7,
+      "changeStr": "-0.70%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.62,
-      "change": -3.64,
-      "changeStr": "-3.64%"
+      "price": 20.95,
+      "change": -2.1,
+      "changeStr": "-2.10%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.78,
-      "change": -1.94,
-      "changeStr": "-1.94%"
+      "price": 24.37,
+      "change": 0.49,
+      "changeStr": "\u002B0.49%"
     },
     {
       "symbol": "MGLU3",
-      "price": 10.87,
-      "change": -4.31,
-      "changeStr": "-4.31%"
+      "price": 10.88,
+      "change": -4.23,
+      "changeStr": "-4.23%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.19,
-      "change": -0.8,
-      "changeStr": "-0.80%"
+      "price": 16.54,
+      "change": 1.35,
+      "changeStr": "\u002B1.35%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.38,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 50.83,
+      "change": 0.04,
+      "changeStr": "\u002B0.04%"
     }
   ],
   "news": [
+    {
+      "title": "M\u00E9xico vai exigir que plataformas digitais protejam menores de conte\u00FAdos violentos e sexuais",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/14/mexico-plataformas-conteudos.ghtml",
+      "date": "Wed, 14 Oct 2026 18:13:00 -0000"
+    },
+    {
+      "title": "\u0027Rouanet Games\u0027: governo anuncia R$ 200 milh\u00F5es para desenvolver games no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/14/governo-lula-anuncia-r-200-milhoes-para-desenvolver-games-no-brasil.ghtml",
+      "date": "Wed, 14 Oct 2026 17:26:31 -0000"
+    },
+    {
+      "title": "Lula diz que para se fazer uma pol\u00EDtica p\u00FAblica \u00E9 dif\u00EDcil, mas, para destruir, basta um passo: \u0027Tem maluco pra tudo\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/lula-diz-que-na-politica-tem-maluco-pra-tudo-e-que-para-fazer-um-programa-e-dificil-mas-para-destruir-e-um-passo.ghtml",
+      "date": "Wed, 14 Oct 2026 16:51:28 -0000"
+    },
+    {
+      "title": "IA da Meta no WhatsApp cria imagem de \u0027Fl\u00E1vio 22\u0027, mas n\u00E3o de \u0027Lula 13\u0027 e \u0027Fl\u00E1vio Bolsonaro 22\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/14/ia-da-meta-no-whatsapp-reluta-em-criar-imagem-de-campanha-de-lula-mas-aceita-pedidos-para-flavio.ghtml",
+      "date": "Wed, 14 Oct 2026 13:41:36 -0000"
+    },
     {
       "title": "Ford do Brasil faz recall da F-150 por risco de vazamento de combust\u00EDvel e inc\u00EAndio",
       "source": "G1 Economia",
@@ -63,13 +87,13 @@
       "date": "Wed, 14 Oct 2026 12:34:10 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta, com foco em infla\u00E7\u00E3o americana e cen\u00E1rio pol\u00EDtico brasileiro",
+      "title": "D\u00F3lar sobe, com foco em infla\u00E7\u00E3o americana e pesquisa eleitoral; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/14/dolar-ibovespa.ghtml",
       "date": "Wed, 14 Oct 2026 12:01:23 -0000"
     },
     {
-      "title": "Globo recebe reconhecimento da ONU por impacto social e pr\u00E1ticas sustent\u00E1veis",
+      "title": "Manuel Belmar recebe reconhecimento concedido pelo MIPCOM e pela ONU \u00E0 Agenda ESG da Globo",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/10/14/globo-recebe-reconhecimento-da-onu-por-impacto-social-e-praticas-sustentaveis.ghtml",
       "date": "Wed, 14 Oct 2026 11:57:30 -0000"
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/10/14/ia-pode-afetar-40percent-dos-empregos-no-mundo-e-dificultar-entrada-de-jovens-no-mercado-alerta-fmi.ghtml",
       "date": "Wed, 14 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Por que elei\u00E7\u00F5es mexem com a bolsa, o d\u00F3lar e os juros? Entenda o que move o mercado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/14/por-que-eleicoes-mexem-com-a-bolsa-o-dolar-e-os-juros-entenda-o-que-move-o-mercado.ghtml",
-      "date": "Wed, 14 Oct 2026 05:00:01 -0000"
-    },
-    {
-      "title": "Ab\u00F3bora gigante de quase 1.500 kg \u00E9 colhida nos EUA e pode bater recorde mundial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/14/abobora-gigante-de-quase-1500-kg-e-colhida-nos-eua-e-pode-bater-recorde-mundial.ghtml",
-      "date": "Wed, 14 Oct 2026 05:00:00 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 150 milh\u00F5es nesta quarta-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/14/mega-sena-pode-pagar-r-150-milhoes-nesta-quarta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Wed, 14 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Perd\u00E3o de d\u00EDvidas, PIX de R$ 5 mil e teto maior para MEI: entenda o plano do governo para o empreendedor",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/14/perdao-de-dividas-pix-de-r-5-mil-e-teto-maior-para-mei-entenda-o-plano-do-governo-para-o-empreendedor.ghtml",
-      "date": "Wed, 14 Oct 2026 03:00:00 -0000"
     }
   ]
 }
