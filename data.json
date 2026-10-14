@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 206887.52,
-      "change": -1.04,
-      "changeStr": "-1.04%"
+      "price": 203962.56,
+      "change": -1.41,
+      "changeStr": "-1.41%"
     },
     {
       "symbol": "PETR4",
-      "price": 56.85,
-      "change": 1.52,
-      "changeStr": "\u002B1.52%"
+      "price": 57.12,
+      "change": 0.47,
+      "changeStr": "\u002B0.47%"
     },
     {
       "symbol": "VALE3",
-      "price": 67.16,
-      "change": -1.09,
-      "changeStr": "-1.09%"
+      "price": 66.55,
+      "change": -0.91,
+      "changeStr": "-0.91%"
     },
     {
       "symbol": "ITUB4",
-      "price": 49.68,
-      "change": -1.57,
-      "changeStr": "-1.57%"
+      "price": 48.74,
+      "change": -1.89,
+      "changeStr": "-1.89%"
     },
     {
       "symbol": "BBDC4",
-      "price": 21.4,
-      "change": -0.97,
-      "changeStr": "-0.97%"
+      "price": 20.62,
+      "change": -3.64,
+      "changeStr": "-3.64%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.25,
-      "change": -1.58,
-      "changeStr": "-1.58%"
+      "price": 23.78,
+      "change": -1.94,
+      "changeStr": "-1.94%"
     },
     {
       "symbol": "MGLU3",
-      "price": 11.36,
-      "change": -7.04,
-      "changeStr": "-7.04%"
+      "price": 10.87,
+      "change": -4.31,
+      "changeStr": "-4.31%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.32,
-      "change": 2.06,
-      "changeStr": "\u002B2.06%"
+      "price": 16.19,
+      "change": -0.8,
+      "changeStr": "-0.80%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.81,
-      "change": -1.28,
-      "changeStr": "-1.28%"
+      "price": 50.38,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     }
   ],
   "news": [
+    {
+      "title": "Ford do Brasil faz recall da F-150 por risco de vazamento de combust\u00EDvel e inc\u00EAndio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/14/ford-recall-da-f-150-vazamento-de-combustivel.ghtml",
+      "date": "Wed, 14 Oct 2026 12:34:10 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta, com foco em infla\u00E7\u00E3o americana e cen\u00E1rio pol\u00EDtico brasileiro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/14/dolar-ibovespa.ghtml",
+      "date": "Wed, 14 Oct 2026 12:01:23 -0000"
+    },
+    {
+      "title": "Globo recebe reconhecimento da ONU por impacto social e pr\u00E1ticas sustent\u00E1veis",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/10/14/globo-recebe-reconhecimento-da-onu-por-impacto-social-e-praticas-sustentaveis.ghtml",
+      "date": "Wed, 14 Oct 2026 11:57:30 -0000"
+    },
     {
       "title": "Concurso da C\u00E2mara dos Deputados: veja forma\u00E7\u00F5es exigidas para disputar sal\u00E1rios acima de R$ 32 mil ",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/14/perdao-de-dividas-pix-de-r-5-mil-e-teto-maior-para-mei-entenda-o-plano-do-governo-para-o-empreendedor.ghtml",
       "date": "Wed, 14 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Fim da escala 6x1 passa por vota\u00E7\u00E3o no Senado; veja o que acontece se proposta for aprovada ou rejeitada",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/14/fim-da-escala-6x1-votacao-senado.ghtml",
-      "date": "Wed, 14 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Senado deve votar nesta quarta PEC que acaba com a escala 6x1 ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/14/senado-deve-votar-nesta-quarta-pec-que-acaba-com-a-escala-6x1.ghtml",
-      "date": "Wed, 14 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Emissoras de r\u00E1dio e TV se re\u00FAnem na Rep\u00FAblica Dominicana para discutir futuro da produ\u00E7\u00E3o audiovisual nas Am\u00E9ricas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/10/13/encontro-air-republica-dominicana.ghtml",
-      "date": "Wed, 14 Oct 2026 00:28:45 -0000"
     }
   ]
 }
