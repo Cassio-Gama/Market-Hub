@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 205197.12,
-      "change": -0.63,
-      "changeStr": "-0.63%"
+      "price": 204324.27,
+      "change": -1.06,
+      "changeStr": "-1.06%"
     },
     {
       "symbol": "PETR4",
-      "price": 57.73,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 57.36,
+      "change": -1.29,
+      "changeStr": "-1.29%"
     },
     {
       "symbol": "VALE3",
-      "price": 65.92,
-      "change": -1.2,
-      "changeStr": "-1.20%"
+      "price": 66.42,
+      "change": -0.45,
+      "changeStr": "-0.45%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48.73,
-      "change": -0.51,
-      "changeStr": "-0.51%"
+      "price": 48.35,
+      "change": -1.29,
+      "changeStr": "-1.29%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.74,
-      "change": -0.62,
-      "changeStr": "-0.62%"
+      "price": 20.73,
+      "change": -0.67,
+      "changeStr": "-0.67%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.87,
-      "change": -1.32,
-      "changeStr": "-1.32%"
+      "price": 23.76,
+      "change": -1.78,
+      "changeStr": "-1.78%"
     },
     {
       "symbol": "MGLU3",
-      "price": 10.95,
-      "change": 0.92,
-      "changeStr": "\u002B0.92%"
+      "price": 10.39,
+      "change": -4.24,
+      "changeStr": "-4.24%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.75,
-      "change": 1.39,
-      "changeStr": "\u002B1.39%"
+      "price": 16.69,
+      "change": 1.03,
+      "changeStr": "\u002B1.03%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.71,
-      "change": -1.45,
-      "changeStr": "-1.45%"
+      "price": 49.09,
+      "change": -2.68,
+      "changeStr": "-2.68%"
     }
   ],
   "news": [
+    {
+      "title": "Senado aprova projeto que amplia limite do MEI e perdoa d\u00EDvidas de inadimplentes ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/15/senado-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml",
+      "date": "Thu, 15 Oct 2026 21:51:06 -0000"
+    },
+    {
+      "title": "Brasil deve voltar ao top 8 das maiores economias do mundo em 2027, prev\u00EA FMI",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/15/brasil-deve-voltar-ao-top-8-das-maiores-economias-do-mundo-em-2027-preve-fmi.ghtml",
+      "date": "Thu, 15 Oct 2026 20:41:29 -0000"
+    },
+    {
+      "title": "Casas Bahia fecha acordo que prev\u00EA mais de R$ 33 milh\u00F5es para trabalhadores demitidos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/casas-bahia-acordo-demissao-massa.ghtml",
+      "date": "Thu, 15 Oct 2026 20:33:18 -0000"
+    },
+    {
+      "title": "Petrobras bate recorde e chega a R$ 800 bilh\u00F5es em valor de mercado; a\u00E7\u00F5es sobem at\u00E9 110% em 2026",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/15/petrobras-bate-recorde-e-chega-a-r-800-bilhoes-em-valor-de-mercado-acoes-sobem-ate-110percent-em-2026.ghtml",
+      "date": "Thu, 15 Oct 2026 19:31:03 -0000"
+    },
+    {
+      "title": "Deepfakes est\u00E3o cada vez mais dif\u00EDceis de detectar, alertam especialistas da OpenAI e Meta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/deepfakes-estao-cada-vez-mais-dificeis-de-detectar-alertam-especialistas-da-openai-e-meta.ghtml",
+      "date": "Thu, 15 Oct 2026 19:09:31 -0000"
+    },
+    {
+      "title": "Grupo Globo comunica desligamento de Frederic Kachar e refor\u00E7a independ\u00EAncia editorial de seus ve\u00EDculos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/10/15/grupo-globo-comunica-desligamento-de-frederic-kachar-e-reforca-independencia-editorial-de-seus-veiculos.ghtml",
+      "date": "Thu, 15 Oct 2026 18:17:24 -0000"
+    },
     {
       "title": "Netflix reajusta pre\u00E7os dos planos no Brasil; veja novos valores",
       "source": "G1 Economia",
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/15/irmaos-batista-concluem-compra-da-avibras-fabricante-de-armas-e-foguetes-de-jacarei.ghtml",
       "date": "Thu, 15 Oct 2026 15:11:21 -0000"
-    },
-    {
-      "title": "Para proteger menores, governo pede fiscaliza\u00E7\u00E3o de seis jogos com riscos semelhantes aos das bets",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/15/para-proteger-menores-governo-pede-fiscalizacao-de-seis-jogos-com-riscos-semelhantes-aos-das-bets.ghtml",
-      "date": "Thu, 15 Oct 2026 15:00:45 -0000"
-    },
-    {
-      "title": "Tesla lan\u00E7a Roadster hoje; Musk diz que esportivo \u00E9 mais insano que os carros do agente James Bond",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/15/tesla-lanca-novo-roadster.ghtml",
-      "date": "Thu, 15 Oct 2026 12:22:12 -0000"
-    },
-    {
-      "title": "6x1, 5x2, 4x3 e 12x36: entenda como funcionam as escalas de trabalho",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/entenda-como-funcionam-as-escalas-de-trabalho.ghtml",
-      "date": "Thu, 15 Oct 2026 12:18:57 -0000"
-    },
-    {
-      "title": "Correios oferece descarte gratuito de eletr\u00F4nicos em 6 mil ag\u00EAncias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/correios-oferecem-descarte-gratuito-de-eletronicos-em-6-mil-agencias.ghtml",
-      "date": "Thu, 15 Oct 2026 12:04:03 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta, com foco em infla\u00E7\u00E3o americana e pesquisas eleitorais; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/15/dolar-ibovespa.ghtml",
-      "date": "Thu, 15 Oct 2026 12:00:20 -0000"
-    },
-    {
-      "title": "OpenAI acusa ex-funcion\u00E1rio de levar arquivos sobre aparelho n\u00E3o lan\u00E7ado para a Apple",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/openai-acusa-ex-funcionario-de-levar-arquivos-sobre-aparelho-nao-lancado-para-a-apple.ghtml",
-      "date": "Thu, 15 Oct 2026 11:51:35 -0000"
     }
   ]
 }
