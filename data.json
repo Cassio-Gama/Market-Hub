@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 206505.98,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 205197.12,
+      "change": -0.63,
+      "changeStr": "-0.63%"
     },
     {
       "symbol": "PETR4",
-      "price": 58.11,
-      "change": 2.22,
-      "changeStr": "\u002B2.22%"
+      "price": 57.73,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     },
     {
       "symbol": "VALE3",
-      "price": 66.72,
-      "change": -0.66,
-      "changeStr": "-0.66%"
+      "price": 65.92,
+      "change": -1.2,
+      "changeStr": "-1.20%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48.98,
-      "change": -1.41,
-      "changeStr": "-1.41%"
+      "price": 48.73,
+      "change": -0.51,
+      "changeStr": "-0.51%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.87,
-      "change": -2.48,
-      "changeStr": "-2.48%"
+      "price": 20.74,
+      "change": -0.62,
+      "changeStr": "-0.62%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.19,
-      "change": -0.25,
-      "changeStr": "-0.25%"
+      "price": 23.87,
+      "change": -1.32,
+      "changeStr": "-1.32%"
     },
     {
       "symbol": "MGLU3",
-      "price": 10.85,
-      "change": -4.49,
-      "changeStr": "-4.49%"
+      "price": 10.95,
+      "change": 0.92,
+      "changeStr": "\u002B0.92%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.52,
-      "change": 1.23,
-      "changeStr": "\u002B1.23%"
+      "price": 16.75,
+      "change": 1.39,
+      "changeStr": "\u002B1.39%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.44,
-      "change": -0.73,
-      "changeStr": "-0.73%"
+      "price": 49.71,
+      "change": -1.45,
+      "changeStr": "-1.45%"
     }
   ],
   "news": [
+    {
+      "title": "Netflix reajusta pre\u00E7os dos planos no Brasil; veja novos valores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/netflix-reajusta-precos-dos-planos-no-brasil.ghtml",
+      "date": "Thu, 15 Oct 2026 17:39:08 -0000"
+    },
+    {
+      "title": "TCU condiciona an\u00E1lise de contas do BC \u00E0 conclus\u00E3o da an\u00E1lise de liquida\u00E7\u00E3o do Banco Master",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/15/tcu-condiciona-analise-de-contas-do-bc-a-conclusao-da-analise-de-liquidacao-do-banco-master.ghtml",
+      "date": "Thu, 15 Oct 2026 17:19:31 -0000"
+    },
+    {
+      "title": "Amazon lan\u00E7a dispositivos de IA que resumem conversas e criam lembretes",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/amazon-lanca-dispositivos-de-ia-que-resumem-conversas-e-criam-lembretes.ghtml",
+      "date": "Thu, 15 Oct 2026 15:13:29 -0000"
+    },
+    {
+      "title": "Irm\u00E3os Batista concluem compra da Avibras, fabricante de armas e foguetes de Jacare\u00ED, SP",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/15/irmaos-batista-concluem-compra-da-avibras-fabricante-de-armas-e-foguetes-de-jacarei.ghtml",
+      "date": "Thu, 15 Oct 2026 15:11:21 -0000"
+    },
+    {
+      "title": "Para proteger menores, governo pede fiscaliza\u00E7\u00E3o de seis jogos com riscos semelhantes aos das bets",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/15/para-proteger-menores-governo-pede-fiscalizacao-de-seis-jogos-com-riscos-semelhantes-aos-das-bets.ghtml",
+      "date": "Thu, 15 Oct 2026 15:00:45 -0000"
+    },
     {
       "title": "Tesla lan\u00E7a Roadster hoje; Musk diz que esportivo \u00E9 mais insano que os carros do agente James Bond",
       "source": "G1 Economia",
@@ -75,7 +105,7 @@
       "date": "Thu, 15 Oct 2026 12:04:03 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta, com foco em infla\u00E7\u00E3o americana e pesquisas eleitorais",
+      "title": "D\u00F3lar opera em alta, com foco em infla\u00E7\u00E3o americana e pesquisas eleitorais; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/15/dolar-ibovespa.ghtml",
       "date": "Thu, 15 Oct 2026 12:00:20 -0000"
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/openai-acusa-ex-funcionario-de-levar-arquivos-sobre-aparelho-nao-lancado-para-a-apple.ghtml",
       "date": "Thu, 15 Oct 2026 11:51:35 -0000"
-    },
-    {
-      "title": "Fim da escala 6x1 tamb\u00E9m afeta quem trabalha de segunda a sexta; veja o que muda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/fim-da-escala-6x1-tambem-afeta-quem-trabalha-de-segunda-a-sexta-veja-o-que-muda.ghtml",
-      "date": "Thu, 15 Oct 2026 11:08:23 -0000"
-    },
-    {
-      "title": "M\u00E3es solo celebram fim da escala 6x1: \u0027Estava vendo a vida dos meus filhos passar\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/maes-solo-celebram-fim-da-escala-6x1-estava-vendo-a-vida-dos-meus-filhos-passar.ghtml",
-      "date": "Thu, 15 Oct 2026 10:21:34 -0000"
-    },
-    {
-      "title": "Fim da 6x1: entenda quais profiss\u00F5es ser\u00E3o afetadas pela mudan\u00E7a e quem fica de fora",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/fim-da-6x1-entenda-quais-profissoes-serao-afetadas-pela-mudanca-e-quem-fica-de-fora.ghtml",
-      "date": "Thu, 15 Oct 2026 10:09:56 -0000"
-    },
-    {
-      "title": "#N\u00C3O\u00C9BEMASSIM: Bolsa Fam\u00EDlia teve reajuste maior que do sal\u00E1rio m\u00EDnimo em 2026, mas n\u00E3o supera aumento dos \u00FAltimos tr\u00EAs anos   ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/10/15/naoebemassim-bolsa-familia-teve-reajuste-maior-que-do-salario-minimo-em-2026-mas-nao-supera-aumento-dos-ultimos-tres-anos.ghtml",
-      "date": "Thu, 15 Oct 2026 08:00:00 -0000"
-    },
-    {
-      "title": "\u0027Estoques no limite\u0027: guerra no Oriente M\u00E9dio afeta abastecimento de diesel para agricultores no RS",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/15/estoques-no-limite-guerra-no-oriente-medio-afeta-abastecimento-de-diesel-para-agricultores-no-rs.ghtml",
-      "date": "Thu, 15 Oct 2026 08:00:00 -0000"
     }
   ]
 }
