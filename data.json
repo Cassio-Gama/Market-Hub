@@ -3,8 +3,8 @@
     {
       "symbol": "^BVSP",
       "price": 206505.98,
-      "change": -0.18,
-      "changeStr": "-0.18%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "PETR4",
@@ -57,64 +57,64 @@
   ],
   "news": [
     {
-      "title": "Agrot\u00F3xicos, \u00E1gua e c\u00E2ncer: por que a sa\u00FAde virou tema das elei\u00E7\u00F5es em pot\u00EAncia agr\u00EDcola dos EUA",
+      "title": "Tesla lan\u00E7a Roadster hoje; Musk diz que esportivo \u00E9 mais insano que os carros do agente James Bond",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/15/agrotoxicos-agua-e-cancer-por-que-a-saude-virou-tema-das-eleicoes-em-potencia-agricola-dos-eua.ghtml",
-      "date": "Thu, 15 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/10/15/tesla-lanca-novo-roadster.ghtml",
+      "date": "Thu, 15 Oct 2026 12:22:12 -0000"
     },
     {
-      "title": "Volkswagen ID.4 chega por R$ 299.990 para uma disputa dif\u00EDcil com os chineses; g1 testou",
+      "title": "6x1, 5x2, 4x3 e 12x36: entenda como funcionam as escalas de trabalho",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/15/teste-volkswagen-id4.ghtml",
-      "date": "Thu, 15 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/entenda-como-funcionam-as-escalas-de-trabalho.ghtml",
+      "date": "Thu, 15 Oct 2026 12:18:57 -0000"
     },
     {
-      "title": "Regra de transi\u00E7\u00E3o e dois dias de folga: entenda como ficou a proposta que acaba com a escala 6x1",
+      "title": "Correios oferece descarte gratuito de eletr\u00F4nicos em 6 mil ag\u00EAncias",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/15/regra-de-transicao-e-dois-dias-de-folga-entenda-como-ficou-a-proposta-que-acaba-com-a-escala-6x1.ghtml",
-      "date": "Thu, 15 Oct 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/correios-oferecem-descarte-gratuito-de-eletronicos-em-6-mil-agencias.ghtml",
+      "date": "Thu, 15 Oct 2026 12:04:03 -0000"
     },
     {
-      "title": "Abono salarial PIS/Pasep 2026: pagamento complementar come\u00E7a nesta quinta; veja quem recebe",
+      "title": "D\u00F3lar abre em alta, com foco em infla\u00E7\u00E3o americana e pesquisas eleitorais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/abono-salarial-pispasep-2026-pagamento-complementar-comeca-nesta-quinta-veja-quem-recebe.ghtml",
-      "date": "Thu, 15 Oct 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/15/dolar-ibovespa.ghtml",
+      "date": "Thu, 15 Oct 2026 12:00:20 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 170 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "title": "OpenAI acusa ex-funcion\u00E1rio de levar arquivos sobre aparelho n\u00E3o lan\u00E7ado para a Apple",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/15/mega-sena-pode-pagar-r-170-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 15 Oct 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/openai-acusa-ex-funcionario-de-levar-arquivos-sobre-aparelho-nao-lancado-para-a-apple.ghtml",
+      "date": "Thu, 15 Oct 2026 11:51:35 -0000"
     },
     {
-      "title": "Fim da escala 6x1: relembre outros marcos da legisla\u00E7\u00E3o trabalhista brasileira",
+      "title": "Fim da escala 6x1 tamb\u00E9m afeta quem trabalha de segunda a sexta; veja o que muda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/15/fim-da-escala-6x1-relembre-outros-marcos-da-legislacao-trabalhista-brasileira.ghtml",
-      "date": "Thu, 15 Oct 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/fim-da-escala-6x1-tambem-afeta-quem-trabalha-de-segunda-a-sexta-veja-o-que-muda.ghtml",
+      "date": "Thu, 15 Oct 2026 11:08:23 -0000"
     },
     {
-      "title": "Concurso da C\u00E2mara dos Deputados: inscri\u00E7\u00F5es s\u00E3o abertas nesta quinta; sal\u00E1rios passam de R$ 32 mil",
+      "title": "M\u00E3es solo celebram fim da escala 6x1: \u0027Estava vendo a vida dos meus filhos passar\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/15/concurso-da-camara-dos-deputados-inscricoes-sao-abertas-nesta-quinta-salarios-passam-de-r-32-mil.ghtml",
-      "date": "Thu, 15 Oct 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/maes-solo-celebram-fim-da-escala-6x1-estava-vendo-a-vida-dos-meus-filhos-passar.ghtml",
+      "date": "Thu, 15 Oct 2026 10:21:34 -0000"
     },
     {
-      "title": "Tesla apresenta novo Roadster nesta quinta; relembre o modelo enviado ao espa\u00E7o por Elon Musk",
+      "title": "Fim da 6x1: entenda quais profiss\u00F5es ser\u00E3o afetadas pela mudan\u00E7a e quem fica de fora",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/15/tesla-apresenta-novo-roadster-nesta-quinta-relembre-o-modelo-enviado-ao-espaco-por-elon-musk.ghtml",
-      "date": "Thu, 15 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/fim-da-6x1-entenda-quais-profissoes-serao-afetadas-pela-mudanca-e-quem-fica-de-fora.ghtml",
+      "date": "Thu, 15 Oct 2026 10:09:56 -0000"
     },
     {
-      "title": "Simples Nacional: prazo para entrar em 2027 termina nesta quinta; veja o que muda",
+      "title": "#N\u00C3O\u00C9BEMASSIM: Bolsa Fam\u00EDlia teve reajuste maior que do sal\u00E1rio m\u00EDnimo em 2026, mas n\u00E3o supera aumento dos \u00FAltimos tr\u00EAs anos   ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/15/simples-nacional-prazo-para-entrar-em-2027-termina-nesta-quinta-veja-o-que-muda.ghtml",
-      "date": "Thu, 15 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/10/15/naoebemassim-bolsa-familia-teve-reajuste-maior-que-do-salario-minimo-em-2026-mas-nao-supera-aumento-dos-ultimos-tres-anos.ghtml",
+      "date": "Thu, 15 Oct 2026 08:00:00 -0000"
     },
     {
-      "title": "Fim da escala 6x1: veja a repercuss\u00E3o da decis\u00E3o entre empres\u00E1rios e trabalhadores",
+      "title": "\u0027Estoques no limite\u0027: guerra no Oriente M\u00E9dio afeta abastecimento de diesel para agricultores no RS",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/14/fim-da-escala-6x1-veja-a-repercussao.ghtml",
-      "date": "Thu, 15 Oct 2026 01:12:45 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/15/estoques-no-limite-guerra-no-oriente-medio-afeta-abastecimento-de-diesel-para-agricultores-no-rs.ghtml",
+      "date": "Thu, 15 Oct 2026 08:00:00 -0000"
     }
   ]
 }
