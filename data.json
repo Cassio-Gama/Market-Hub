@@ -57,6 +57,30 @@
   ],
   "news": [
     {
+      "title": "No 1\u00BA aumento em tr\u00EAs meses, \u0027pr\u00E9via do PIB\u0027 do Banco Central registra alta de 0,3% em agosto",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/16/previa-do-pib-do-banco-central-tem-crescimento-de-03percent-em-agosto.ghtml",
+      "date": "Fri, 16 Oct 2026 12:02:49 -0000"
+    },
+    {
+      "title": "D\u00F3lar abre com pesquisas eleitorais e fim da escala 6x1 no radar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/16/dolar-ibovespa.ghtml",
+      "date": "Fri, 16 Oct 2026 12:00:00 -0000"
+    },
+    {
+      "title": "Tesla Roadster \u0027voa\u0027 com propulsores de ar comprimido de foguetes da SpaceX; entenda ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/16/tesla-roadster-voa-entenda.ghtml",
+      "date": "Fri, 16 Oct 2026 11:51:09 -0000"
+    },
+    {
+      "title": "Lojas viraram vitrines da internet? Entenda como os brasileiros est\u00E3o mudando a forma de comprar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/16/lojas-viraram-vitrines-da-internet-entenda-como-os-brasileiros-estao-mudando-a-forma-de-comprar.ghtml",
+      "date": "Fri, 16 Oct 2026 08:00:00 -0000"
+    },
+    {
       "title": "Seu caf\u00E9 tradicional mudou? Entenda o que est\u00E1 diferente na composi\u00E7\u00E3o",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/16/seu-cafe-tradicional-mudou-entenda-o-que-esta-diferente-na-composicao.ghtml",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/10/15/senado-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml",
       "date": "Thu, 15 Oct 2026 21:51:06 -0000"
-    },
-    {
-      "title": "Brasil deve voltar ao top 8 das maiores economias do mundo em 2027, prev\u00EA FMI",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/15/brasil-deve-voltar-ao-top-8-das-maiores-economias-do-mundo-em-2027-preve-fmi.ghtml",
-      "date": "Thu, 15 Oct 2026 20:41:29 -0000"
-    },
-    {
-      "title": "Casas Bahia fecha acordo que prev\u00EA mais de R$ 33 milh\u00F5es para trabalhadores demitidos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/casas-bahia-acordo-demissao-massa.ghtml",
-      "date": "Thu, 15 Oct 2026 20:33:18 -0000"
-    },
-    {
-      "title": "Petrobras bate recorde e chega a R$ 800 bilh\u00F5es em valor de mercado; a\u00E7\u00F5es sobem at\u00E9 110% em 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/15/petrobras-bate-recorde-e-chega-a-r-800-bilhoes-em-valor-de-mercado-acoes-sobem-ate-110percent-em-2026.ghtml",
-      "date": "Thu, 15 Oct 2026 19:31:03 -0000"
-    },
-    {
-      "title": "Deepfakes est\u00E3o cada vez mais dif\u00EDceis de detectar, alertam especialistas da OpenAI e Meta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/deepfakes-estao-cada-vez-mais-dificeis-de-detectar-alertam-especialistas-da-openai-e-meta.ghtml",
-      "date": "Thu, 15 Oct 2026 19:09:31 -0000"
     }
   ]
 }
