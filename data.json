@@ -57,6 +57,36 @@
   ],
   "news": [
     {
+      "title": "Seu caf\u00E9 tradicional mudou? Entenda o que est\u00E1 diferente na composi\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/16/seu-cafe-tradicional-mudou-entenda-o-que-esta-diferente-na-composicao.ghtml",
+      "date": "Fri, 16 Oct 2026 06:00:00 -0000"
+    },
+    {
+      "title": "Perd\u00E3o de d\u00EDvidas, aumento do teto e mais funcion\u00E1rios no MEI: veja novas regras e quem tem direito",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/16/mei-faturamento-divida-pl.ghtml",
+      "date": "Fri, 16 Oct 2026 06:00:00 -0000"
+    },
+    {
+      "title": "iPhone Duo entra em pr\u00E9-venda nesta sexta; veja pre\u00E7os do celular dobr\u00E1vel da Apple",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/16/iphone-duo-entra-em-pre-venda-nesta-sexta-veja-precos-do-celular-dobravel-da-apple.ghtml",
+      "date": "Fri, 16 Oct 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Sal\u00E1rio m\u00EDnimo: veja o que j\u00E1 defenderam as campanhas dos candidatos a presidente",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/16/salario-minimo-veja-o-que-ja-defenderam-as-campanhas-dos-candidatos-a-presidente.ghtml",
+      "date": "Fri, 16 Oct 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Tesla apresenta Roadster que \u0027voa\u0027 e dirige de ponta-cabe\u00E7a com tecnologia da SpaceX",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/15/novo-tesla-roadster-elon-musk.ghtml",
+      "date": "Fri, 16 Oct 2026 01:07:20 -0000"
+    },
+    {
       "title": "Senado aprova projeto que amplia limite do MEI e perdoa d\u00EDvidas de inadimplentes ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/10/15/senado-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/deepfakes-estao-cada-vez-mais-dificeis-de-detectar-alertam-especialistas-da-openai-e-meta.ghtml",
       "date": "Thu, 15 Oct 2026 19:09:31 -0000"
-    },
-    {
-      "title": "Grupo Globo comunica desligamento de Frederic Kachar e refor\u00E7a independ\u00EAncia editorial de seus ve\u00EDculos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/10/15/grupo-globo-comunica-desligamento-de-frederic-kachar-e-reforca-independencia-editorial-de-seus-veiculos.ghtml",
-      "date": "Thu, 15 Oct 2026 18:17:24 -0000"
-    },
-    {
-      "title": "Netflix reajusta pre\u00E7os dos planos no Brasil; veja novos valores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/netflix-reajusta-precos-dos-planos-no-brasil.ghtml",
-      "date": "Thu, 15 Oct 2026 17:39:08 -0000"
-    },
-    {
-      "title": "TCU condiciona an\u00E1lise de contas do BC \u00E0 conclus\u00E3o da an\u00E1lise de liquida\u00E7\u00E3o do Banco Master",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/15/tcu-condiciona-analise-de-contas-do-bc-a-conclusao-da-analise-de-liquidacao-do-banco-master.ghtml",
-      "date": "Thu, 15 Oct 2026 17:19:31 -0000"
-    },
-    {
-      "title": "Amazon lan\u00E7a dispositivos de IA que resumem conversas e criam lembretes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/amazon-lanca-dispositivos-de-ia-que-resumem-conversas-e-criam-lembretes.ghtml",
-      "date": "Thu, 15 Oct 2026 15:13:29 -0000"
-    },
-    {
-      "title": "Irm\u00E3os Batista concluem compra da Avibras, fabricante de armas e foguetes de Jacare\u00ED, SP",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/15/irmaos-batista-concluem-compra-da-avibras-fabricante-de-armas-e-foguetes-de-jacarei.ghtml",
-      "date": "Thu, 15 Oct 2026 15:11:21 -0000"
     }
   ]
 }
