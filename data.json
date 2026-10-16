@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 204324.27,
-      "change": -1.06,
-      "changeStr": "-1.06%"
+      "price": 204710.12,
+      "change": 0.19,
+      "changeStr": "\u002B0.19%"
     },
     {
       "symbol": "PETR4",
-      "price": 57.36,
-      "change": -1.29,
-      "changeStr": "-1.29%"
+      "price": 58.64,
+      "change": 2.23,
+      "changeStr": "\u002B2.23%"
     },
     {
       "symbol": "VALE3",
-      "price": 66.42,
-      "change": -0.45,
-      "changeStr": "-0.45%"
+      "price": 67,
+      "change": 0.87,
+      "changeStr": "\u002B0.87%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48.35,
-      "change": -1.29,
-      "changeStr": "-1.29%"
+      "price": 48.06,
+      "change": -0.6,
+      "changeStr": "-0.60%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.73,
-      "change": -0.67,
-      "changeStr": "-0.67%"
+      "price": 20.38,
+      "change": -1.69,
+      "changeStr": "-1.69%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.76,
-      "change": -1.78,
-      "changeStr": "-1.78%"
+      "price": 23.46,
+      "change": -1.26,
+      "changeStr": "-1.26%"
     },
     {
       "symbol": "MGLU3",
-      "price": 10.39,
-      "change": -4.24,
-      "changeStr": "-4.24%"
+      "price": 10.8,
+      "change": 3.95,
+      "changeStr": "\u002B3.95%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.69,
-      "change": 1.03,
-      "changeStr": "\u002B1.03%"
+      "price": 16.72,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.09,
-      "change": -2.68,
-      "changeStr": "-2.68%"
+      "price": 48.06,
+      "change": -2.1,
+      "changeStr": "-2.10%"
     }
   ],
   "news": [
+    {
+      "title": "Tarifa zero nos \u00F4nibus pode reduzir infla\u00E7\u00E3o em 0,25 ponto, mas arrecada\u00E7\u00E3o atual j\u00E1 n\u00E3o cobre custos, diz ANTP",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/16/tarifa-zero-nos-onibus-aos-fins-de-semana-pode-reduzir-inflacao-em-025-ponto-percentual-diz-economista.ghtml",
+      "date": "Fri, 16 Oct 2026 15:30:33 -0000"
+    },
+    {
+      "title": "Fim da escala 6x1 \u00E9 promulgado e prazos come\u00E7am a contar; entenda como ser\u00E1 a transi\u00E7\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/16/transicao-fim-da-escala-6x1.ghtml",
+      "date": "Fri, 16 Oct 2026 13:24:22 -0000"
+    },
+    {
+      "title": "Brasil tem 1,5 milh\u00E3o de crian\u00E7as e adolescentes no trabalho infantil ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/16/brasil-tem-15-milhao-de-criancas-e-adolescentes-no-trabalho-infantil-menor-numero-desde-2016.ghtml",
+      "date": "Fri, 16 Oct 2026 13:00:00 -0000"
+    },
     {
       "title": "No 1\u00BA aumento em tr\u00EAs meses, \u0027pr\u00E9via do PIB\u0027 do Banco Central registra alta de 0,3% em agosto",
       "source": "G1 Economia",
@@ -63,7 +81,7 @@
       "date": "Fri, 16 Oct 2026 12:02:49 -0000"
     },
     {
-      "title": "D\u00F3lar abre com pesquisas eleitorais e fim da escala 6x1 no radar",
+      "title": "D\u00F3lar cai com escala 6x1, pesquisas eleitorais e atividade econ\u00F4mica no radar; Ibovespa sobe",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/16/dolar-ibovespa.ghtml",
       "date": "Fri, 16 Oct 2026 12:00:00 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/10/16/iphone-duo-entra-em-pre-venda-nesta-sexta-veja-precos-do-celular-dobravel-da-apple.ghtml",
       "date": "Fri, 16 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Sal\u00E1rio m\u00EDnimo: veja o que j\u00E1 defenderam as campanhas dos candidatos a presidente",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/16/salario-minimo-veja-o-que-ja-defenderam-as-campanhas-dos-candidatos-a-presidente.ghtml",
-      "date": "Fri, 16 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Tesla apresenta Roadster que \u0027voa\u0027 e dirige de ponta-cabe\u00E7a com tecnologia da SpaceX",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/15/novo-tesla-roadster-elon-musk.ghtml",
-      "date": "Fri, 16 Oct 2026 01:07:20 -0000"
-    },
-    {
-      "title": "Senado aprova projeto que amplia limite do MEI e perdoa d\u00EDvidas de inadimplentes ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/15/senado-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml",
-      "date": "Thu, 15 Oct 2026 21:51:06 -0000"
     }
   ]
 }
