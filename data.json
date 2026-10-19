@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 204833.2,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 205079.25,
+      "change": -0.17,
+      "changeStr": "-0.17%"
     },
     {
       "symbol": "PETR4",
-      "price": 58.15,
-      "change": -2.56,
-      "changeStr": "-2.56%"
+      "price": 58,
+      "change": -2.82,
+      "changeStr": "-2.82%"
     },
     {
       "symbol": "VALE3",
-      "price": 66.49,
-      "change": 0.42,
-      "changeStr": "\u002B0.42%"
+      "price": 66.36,
+      "change": 0.23,
+      "changeStr": "\u002B0.23%"
     },
     {
       "symbol": "ITUB4",
-      "price": 47.94,
-      "change": -0.31,
-      "changeStr": "-0.31%"
+      "price": 47.9,
+      "change": -0.4,
+      "changeStr": "-0.40%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.09,
-      "change": -1.33,
-      "changeStr": "-1.33%"
+      "price": 20.1,
+      "change": -1.28,
+      "changeStr": "-1.28%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.07,
-      "change": 1.86,
-      "changeStr": "\u002B1.86%"
+      "price": 23.95,
+      "change": 1.35,
+      "changeStr": "\u002B1.35%"
     },
     {
       "symbol": "MGLU3",
-      "price": 11.96,
-      "change": 7.65,
-      "changeStr": "\u002B7.65%"
+      "price": 11.83,
+      "change": 6.48,
+      "changeStr": "\u002B6.48%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.62,
-      "change": -1.31,
-      "changeStr": "-1.31%"
+      "price": 16.56,
+      "change": -1.66,
+      "changeStr": "-1.66%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.7,
-      "change": -0.6,
-      "changeStr": "-0.60%"
+      "price": 47.67,
+      "change": -0.67,
+      "changeStr": "-0.67%"
     }
   ],
   "news": [
+    {
+      "title": "Jap\u00E3o lan\u00E7a foguete para miss\u00E3o que pode ser a primeira a coletar amostras de lua de Marte",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/10/19/japao-lanca-foguete-para-possivel-primeira-missao-do-mundo-a-uma-lua-de-marte.ghtml",
+      "date": "Mon, 19 Oct 2026 20:17:48 -0000"
+    },
+    {
+      "title": "Quase 500 mil brasileiros na malha fina receber\u00E3o carta da Receita Federal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/19/quase-500-mil-brasileiros-na-malha-fina-receberao-carta-da-receita-federal.ghtml",
+      "date": "Mon, 19 Oct 2026 19:28:21 -0000"
+    },
+    {
+      "title": "Doen\u00E7a em granja de SC pode afetar exporta\u00E7\u00F5es de frango do Brasil para a China; entenda o risco",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/doenca-em-granja-de-sc-pode-afetar-exportacoes-de-frango-do-brasil-para-a-china-entenda-o-risco.ghtml",
+      "date": "Mon, 19 Oct 2026 19:10:04 -0000"
+    },
+    {
+      "title": "Apple pode ter de pagar mais em caso de patente com indeniza\u00E7\u00E3o de US$ 5,7 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/19/apple-pode-ter-de-pagar-mais-em-caso-de-patente-com-indenizacao-de-us-57-bilhoes.ghtml",
+      "date": "Mon, 19 Oct 2026 18:16:07 -0000"
+    },
+    {
+      "title": "Ap\u00F3s 43 anos, jornalista Christiane Amanpour deixar\u00E1 a CNN americana",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/19/apos-43-anos-christiane-amanpour-deixara-a-cnn-americana.ghtml",
+      "date": "Mon, 19 Oct 2026 17:57:46 -0000"
+    },
+    {
+      "title": "Minist\u00E9rio da Agricultura confirma foco da doen\u00E7a de Newcastle em granja de perus em SC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml",
+      "date": "Mon, 19 Oct 2026 16:20:43 -0000"
+    },
     {
       "title": "ANPD d\u00E1 cinco dias para Meta explicar suspens\u00E3o de contas e remo\u00E7\u00E3o de posts",
       "source": "G1 Economia",
@@ -63,58 +99,22 @@
       "date": "Mon, 19 Oct 2026 15:14:46 -0000"
     },
     {
-      "title": "Governo muda calend\u00E1rio do Bolsa Fam\u00EDlia e concentra pagamentos de outubro em 3 dias; entenda",
+      "title": "Governo antecipa calend\u00E1rio do Bolsa Fam\u00EDlia a seis dias do 2\u00BA turno; veja as datas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/19/bolsa-familia-pagamentos-calendario.ghtml",
       "date": "Mon, 19 Oct 2026 14:21:25 -0000"
     },
     {
-      "title": "Ri Happy pede recupera\u00E7\u00E3o extrajudicial para renegociar R$ 827,4 milh\u00F5es em d\u00EDvidas",
+      "title": "Ri Happy pede recupera\u00E7\u00E3o extrajudicial para renegociar R$ 827 milh\u00F5es em d\u00EDvidas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/19/ri-happy-pede-recuperacao-extrajudicial.ghtml",
       "date": "Mon, 19 Oct 2026 14:12:20 -0000"
     },
     {
-      "title": "Com cacau caro, fabricante de chocolates premium troca CEO ap\u00F3s piora nas vendas; entenda",
+      "title": "Lindt troca CEO ap\u00F3s queda nas vendas e alta no pre\u00E7o do cacau",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/cacau-chocolate-ceo.ghtml",
       "date": "Mon, 19 Oct 2026 14:11:40 -0000"
-    },
-    {
-      "title": "Bolsa Fam\u00EDlia vai ter regra de transi\u00E7\u00E3o de dois anos, diz coordenadora de campanha de Fl\u00E1vio Bolsonaro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/19/bolsa-familia-vai-ter-regra-de-transicao-de-dois-anos-diz-coordenadora-de-campanha-de-flavio-bolsonaro.ghtml",
-      "date": "Mon, 19 Oct 2026 13:48:07 -0000"
-    },
-    {
-      "title": "China cresce 4,5% com exporta\u00E7\u00F5es em alta, mas crise imobili\u00E1ria amea\u00E7a ritmo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/19/china-cresce-45percent-com-exportacoes-em-alta-mas-crise-imobiliaria-ameaca-ritmo.ghtml",
-      "date": "Mon, 19 Oct 2026 12:36:43 -0000"
-    },
-    {
-      "title": "Noruega quer proibir plataformas de jogo \u0027nocivas\u0027 aos menores de 16 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/19/noruega-quer-proibir-plataformas-de-jogo-nocivas-aos-menores-de-16-anos.ghtml",
-      "date": "Mon, 19 Oct 2026 12:33:09 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em queda e Ibovespa sobe na reta final da elei\u00E7\u00E3o presidencial",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/19/dolar-ibovespa.ghtml",
-      "date": "Mon, 19 Oct 2026 12:00:21 -0000"
-    },
-    {
-      "title": "Volkswagen planeja congelar sal\u00E1rios at\u00E9 2030, diz conselho de trabalhadores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/19/volkswagen-planeja-congelar-salarios-ate-2030.ghtml",
-      "date": "Mon, 19 Oct 2026 11:24:43 -0000"
-    },
-    {
-      "title": "Elon Musk promete dar a\u00E7\u00F5es da SpaceX a crian\u00E7as dos EUA; doa\u00E7\u00E3o pode valer R$ 53 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/19/elon-musk-acoes-da-spacex-criancas.ghtml",
-      "date": "Mon, 19 Oct 2026 11:08:56 -0000"
     }
   ]
 }
