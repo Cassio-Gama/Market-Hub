@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 205079.25,
-      "change": -0.17,
-      "changeStr": "-0.17%"
+      "price": 208585.16,
+      "change": 1.71,
+      "changeStr": "\u002B1.71%"
     },
     {
       "symbol": "PETR4",
-      "price": 58,
-      "change": -2.82,
-      "changeStr": "-2.82%"
+      "price": 57.72,
+      "change": -0.48,
+      "changeStr": "-0.48%"
     },
     {
       "symbol": "VALE3",
-      "price": 66.36,
-      "change": 0.23,
-      "changeStr": "\u002B0.23%"
+      "price": 66.15,
+      "change": -0.32,
+      "changeStr": "-0.32%"
     },
     {
       "symbol": "ITUB4",
-      "price": 47.9,
-      "change": -0.4,
-      "changeStr": "-0.40%"
+      "price": 49.17,
+      "change": 2.65,
+      "changeStr": "\u002B2.65%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.1,
-      "change": -1.28,
-      "changeStr": "-1.28%"
+      "price": 20.77,
+      "change": 3.33,
+      "changeStr": "\u002B3.33%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.95,
-      "change": 1.35,
-      "changeStr": "\u002B1.35%"
+      "price": 24.37,
+      "change": 1.75,
+      "changeStr": "\u002B1.75%"
     },
     {
       "symbol": "MGLU3",
-      "price": 11.83,
-      "change": 6.48,
-      "changeStr": "\u002B6.48%"
+      "price": 13,
+      "change": 9.89,
+      "changeStr": "\u002B9.89%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.56,
-      "change": -1.66,
-      "changeStr": "-1.66%"
+      "price": 16.87,
+      "change": 1.87,
+      "changeStr": "\u002B1.87%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.67,
-      "change": -0.67,
-      "changeStr": "-0.67%"
+      "price": 48.32,
+      "change": 1.36,
+      "changeStr": "\u002B1.36%"
     }
   ],
   "news": [
     {
-      "title": "Governo dos Estados Unidos veta uso da IA chinesa DeepSeek em ag\u00EAncias governamentais",
+      "title": "Conab sofre ataques hackers e alerta para poss\u00EDveis falhas em seus sistemas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/20/governo-dos-estados-unidos-veta-uso-da-ia-chinesa-deepseek-em-agencias-governamentais.ghtml",
-      "date": "Tue, 20 Oct 2026 10:37:37 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/20/conab-sofre-ataques-hackers-e-alerta-para-possiveis-falhas-em-seus-sistemas.ghtml",
+      "date": "Tue, 20 Oct 2026 16:33:11 -0000"
     },
     {
-      "title": "Efeito BYD: como Brasil virou \u0027laborat\u00F3rio\u0027 de empresas chinesas",
+      "title": "A 5 dias do segundo turno, Fl\u00E1vio prop\u00F5e devolver via PIX parte de gastos com contas e presta\u00E7\u00F5es, mas n\u00E3o detalha proposta",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/20/efeito-byd-como-brasil-virou-laboratorio-de-empresas-chinesas.ghtml",
-      "date": "Tue, 20 Oct 2026 10:34:50 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/20/a-5-dias-do-segundo-turno-flavio-propoe-devolver-via-pix-parte-de-gastos-com-contas-e-prestacoes-mas-nao-detalha-proposta.ghtml",
+      "date": "Tue, 20 Oct 2026 16:23:42 -0000"
     },
     {
-      "title": "Jeep Compass 2027 ganha vers\u00F5es h\u00EDbridas, mas ainda custa e consome mais que rivais chineses",
+      "title": "Bugatti restaura \u00FAnico Veyron \u0027espelhado\u0027; superesportivo foi visto com o piloto Fernando Alonso",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/20/jeep-compass-2027.ghtml",
-      "date": "Tue, 20 Oct 2026 07:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/10/20/bugatti-restaura-veyron-espelhado.ghtml",
+      "date": "Tue, 20 Oct 2026 14:59:31 -0000"
     },
     {
-      "title": "Como americanos enfrentam a alta da infla\u00E7\u00E3o: \u0027J\u00E1 fiz coisas insanas para sobreviver\u0027",
+      "title": "Apenas Santa Catarina vai deixar de exportar frango para a China, diz secret\u00E1rio do Minist\u00E9rio da Agricultura",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/20/como-americanos-enfrentam-a-alta-da-inflacao-ja-fiz-coisas-insanas-para-sobreviver.ghtml",
-      "date": "Tue, 20 Oct 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/20/apenas-santa-catarina-vai-deixar-de-exportar-frango-para-china-diz-secretario-do-ministerio-da-agricultura.ghtml",
+      "date": "Tue, 20 Oct 2026 14:43:49 -0000"
     },
     {
-      "title": "Doen\u00E7a de Newcastle: mais de 130 granjas s\u00E3o monitoradas ap\u00F3s confirma\u00E7\u00E3o de foco em SC",
+      "title": "Pre\u00E7o do diesel dispara 6,67% e chega a R$ 7,20 por litro no Brasil, aponta pesquisa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/doenca-newcastle-130-granjas-monitoradas-confirmacao-foco-sc.ghtml",
-      "date": "Tue, 20 Oct 2026 04:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/20/preco-do-diesel-dispara-667percent-e-chega-a-r-720-por-litro-no-brasil-aponta-pesquisa.ghtml",
+      "date": "Tue, 20 Oct 2026 14:41:07 -0000"
     },
     {
-      "title": "Profiss\u00F5es em alta para 2027: veja cargos com sal\u00E1rios de at\u00E9 R$ 93,5 mil",
+      "title": "Nova gera\u00E7\u00E3o do Dolphin Mini fica mais potente e carrega bateria em 9 minutos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/20/profissoes-em-alta-para-2027-guia-salarial.ghtml",
-      "date": "Tue, 20 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/10/20/nova-geracao-do-dolphin-mini-fica-mais-potente-e-carrega-bateria-em-9-minutos.ghtml",
+      "date": "Tue, 20 Oct 2026 14:36:33 -0000"
     },
     {
-      "title": "Bolsa Fam\u00EDlia: pagamentos de outubro terminam amanh\u00E3; veja quem recebe, valor e como consultar",
+      "title": "Indicador de risco da d\u00EDvida argentina atinge maior n\u00EDvel desde outubro de 2025",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/20/bolsa-familia-pagamentos-de-outubro-terminam-amanha-veja-quem-recebe-valor-e-como-consultar.ghtml",
-      "date": "Tue, 20 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/20/risco-divida-argentina.ghtml",
+      "date": "Tue, 20 Oct 2026 14:14:12 -0000"
     },
     {
-      "title": "M\u00E9xico suspende importa\u00E7\u00E3o de frango do Brasil ap\u00F3s foco da doen\u00E7a de Newcastle em SC",
+      "title": "Fl\u00E1vio promete, se eleito, retomar benef\u00EDcio para eventos encerrado por Lula ap\u00F3s suspeitas de irregularidades e alto custo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/mexico-suspende-importacao-de-frango-do-brasil-apos-foco-da-doenca-de-newcastle-em-sc.ghtml",
-      "date": "Tue, 20 Oct 2026 02:57:17 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/20/flavio-promete-se-eleito-retomar-beneficio-para-eventos-encerrado-por-lula-apos-suspeitas-de-irregularidades-e-alto-custo.ghtml",
+      "date": "Tue, 20 Oct 2026 14:01:51 -0000"
     },
     {
-      "title": "Justi\u00E7a encerra recupera\u00E7\u00E3o judicial da Americanas",
+      "title": "Brasil deve suspender exporta\u00E7\u00F5es de frango para a China ap\u00F3s foco de doen\u00E7a de Newcastle em SC",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/19/justica-do-rj-fim-de-recuperacao-judicial-da-americanas.ghtml",
-      "date": "Mon, 19 Oct 2026 23:24:34 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/20/brasil-deve-suspender-exportacoes-de-frango-para-a-china-apos-foco-de-doenca-de-newcastle-em-sc.ghtml",
+      "date": "Tue, 20 Oct 2026 13:40:23 -0000"
     },
     {
-      "title": "Argentina de Milei prepara novo corte de 20 mil funcion\u00E1rios p\u00FAblicos; 77 mil j\u00E1 perderam o emprego",
+      "title": "Petr\u00F3leo supera US$ 111 e atinge maior cota\u00E7\u00E3o em cinco meses com escalada de conflitos no Oriente M\u00E9dio",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/19/argentina-de-milei-prepara-novo-corte-de-20-mil-funcionarios-publicos-77-mil-ja-perderam-o-emprego.ghtml",
-      "date": "Mon, 19 Oct 2026 21:43:10 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/20/petroleo-supera-us-111-e-atinge-maior-cotacao-em-cinco-meses.ghtml",
+      "date": "Tue, 20 Oct 2026 12:49:41 -0000"
     }
   ]
 }
