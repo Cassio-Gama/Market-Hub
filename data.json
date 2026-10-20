@@ -57,6 +57,36 @@
   ],
   "news": [
     {
+      "title": "Como americanos enfrentam a alta da infla\u00E7\u00E3o: \u0027J\u00E1 fiz coisas insanas para sobreviver\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/20/como-americanos-enfrentam-a-alta-da-inflacao-ja-fiz-coisas-insanas-para-sobreviver.ghtml",
+      "date": "Tue, 20 Oct 2026 05:00:00 -0000"
+    },
+    {
+      "title": "Doen\u00E7a de Newcastle: mais de 130 granjas s\u00E3o monitoradas ap\u00F3s confirma\u00E7\u00E3o de foco em SC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/doenca-newcastle-130-granjas-monitoradas-confirmacao-foco-sc.ghtml",
+      "date": "Tue, 20 Oct 2026 04:00:00 -0000"
+    },
+    {
+      "title": "Profiss\u00F5es em alta para 2027: veja cargos com sal\u00E1rios de at\u00E9 R$ 93,5 mil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/20/profissoes-em-alta-para-2027-guia-salarial.ghtml",
+      "date": "Tue, 20 Oct 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Bolsa Fam\u00EDlia: pagamentos de outubro terminam amanh\u00E3; veja quem recebe, valor e como consultar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/20/bolsa-familia-pagamentos-de-outubro-terminam-amanha-veja-quem-recebe-valor-e-como-consultar.ghtml",
+      "date": "Tue, 20 Oct 2026 03:00:00 -0000"
+    },
+    {
+      "title": "M\u00E9xico suspende importa\u00E7\u00E3o de frango do Brasil ap\u00F3s foco da doen\u00E7a de Newcastle em SC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/mexico-suspende-importacao-de-frango-do-brasil-apos-foco-da-doenca-de-newcastle-em-sc.ghtml",
+      "date": "Tue, 20 Oct 2026 02:57:17 -0000"
+    },
+    {
       "title": "Justi\u00E7a encerra recupera\u00E7\u00E3o judicial da Americanas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/19/justica-do-rj-fim-de-recuperacao-judicial-da-americanas.ghtml",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/doenca-em-granja-de-sc-pode-afetar-exportacoes-de-frango-do-brasil-para-a-china-entenda-o-risco.ghtml",
       "date": "Mon, 19 Oct 2026 19:10:04 -0000"
-    },
-    {
-      "title": "Apple pode ter de pagar mais em caso de patente com indeniza\u00E7\u00E3o de US$ 5,7 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/19/apple-pode-ter-de-pagar-mais-em-caso-de-patente-com-indenizacao-de-us-57-bilhoes.ghtml",
-      "date": "Mon, 19 Oct 2026 18:16:07 -0000"
-    },
-    {
-      "title": "Ap\u00F3s 43 anos, jornalista Christiane Amanpour deixar\u00E1 a CNN americana",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/19/apos-43-anos-christiane-amanpour-deixara-a-cnn-americana.ghtml",
-      "date": "Mon, 19 Oct 2026 17:57:46 -0000"
-    },
-    {
-      "title": "Minist\u00E9rio da Agricultura confirma foco da doen\u00E7a de Newcastle em granja de perus em SC",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml",
-      "date": "Mon, 19 Oct 2026 16:20:43 -0000"
-    },
-    {
-      "title": "ANPD d\u00E1 cinco dias para Meta explicar suspens\u00E3o de contas e remo\u00E7\u00E3o de posts",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/19/anpd-da-cinco-dias-para-meta-explicar-suspensao-de-contas-e-remocao-de-posts.ghtml",
-      "date": "Mon, 19 Oct 2026 15:14:46 -0000"
-    },
-    {
-      "title": "Governo antecipa calend\u00E1rio do Bolsa Fam\u00EDlia a seis dias do 2\u00BA turno; veja as datas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/19/bolsa-familia-pagamentos-calendario.ghtml",
-      "date": "Mon, 19 Oct 2026 14:21:25 -0000"
     }
   ]
 }
