@@ -2,7 +2,7 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 208302.06,
+      "price": 208295.98,
       "change": 1.57,
       "changeStr": "\u002B1.57%"
     },
@@ -32,9 +32,9 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 24.23,
-      "change": 1.17,
-      "changeStr": "\u002B1.17%"
+      "price": 24.2,
+      "change": 1.04,
+      "changeStr": "\u002B1.04%"
     },
     {
       "symbol": "MGLU3",
@@ -56,6 +56,18 @@
     }
   ],
   "news": [
+    {
+      "title": "TCU recua e aprova contas do BC, tribunal tinha condicionado an\u00E1lise \u00E0 conclus\u00E3o da avalia\u00E7\u00E3o da liquida\u00E7\u00E3o do Banco Master",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/20/tcu-recua-e-aprova-contas-do-bc-tribunal-tinha-condicionado-analise-a-conclusao-da-avaliacao-da-liquidacao-do-banco-master.ghtml",
+      "date": "Tue, 20 Oct 2026 22:08:48 -0000"
+    },
+    {
+      "title": "\nVW faz recall de 73 mil carros el\u00E9tricos por risco de inc\u00EAndio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/20/vw-faz-recall-de-73-mil-carros-eletricos-por-risco-de-incendio.ghtml",
+      "date": "Tue, 20 Oct 2026 20:34:07 -0000"
+    },
     {
       "title": "IBGE ter\u00E1 sele\u00E7\u00E3o com 325 vagas tempor\u00E1rias; veja o que se sabe",
       "source": "G1 Economia",
@@ -87,6 +99,12 @@
       "date": "Tue, 20 Oct 2026 16:23:42 -0000"
     },
     {
+      "title": "Conselho da Meta aponta falhas \u0027recorrentes\u0027 na modera\u00E7\u00E3o de conte\u00FAdo eleitoral",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/20/conselho-da-meta-aponta-falhas-recorrentes-na-moderacao-de-conteudo-eleitoral.ghtml",
+      "date": "Tue, 20 Oct 2026 15:53:04 -0000"
+    },
+    {
       "title": "Bugatti restaura \u00FAnico Veyron \u0027espelhado\u0027; superesportivo foi visto com o piloto Fernando Alonso",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/10/20/bugatti-restaura-veyron-espelhado.ghtml",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/20/apenas-santa-catarina-vai-deixar-de-exportar-frango-para-china-diz-secretario-do-ministerio-da-agricultura.ghtml",
       "date": "Tue, 20 Oct 2026 14:43:49 -0000"
-    },
-    {
-      "title": "Pre\u00E7o do diesel dispara 6,67% e chega a R$ 7,20 por litro no Brasil, aponta pesquisa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/20/preco-do-diesel-dispara-667percent-e-chega-a-r-720-por-litro-no-brasil-aponta-pesquisa.ghtml",
-      "date": "Tue, 20 Oct 2026 14:41:07 -0000"
-    },
-    {
-      "title": "Nova gera\u00E7\u00E3o do Dolphin Mini fica mais potente e carrega bateria em 9 minutos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/20/nova-geracao-do-dolphin-mini-fica-mais-potente-e-carrega-bateria-em-9-minutos.ghtml",
-      "date": "Tue, 20 Oct 2026 14:36:33 -0000"
-    },
-    {
-      "title": "Indicador de risco da d\u00EDvida argentina atinge maior n\u00EDvel desde outubro de 2025",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/20/risco-divida-argentina.ghtml",
-      "date": "Tue, 20 Oct 2026 14:14:12 -0000"
     }
   ]
 }
