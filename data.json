@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 208585.16,
-      "change": 1.71,
-      "changeStr": "\u002B1.71%"
+      "price": 208302.06,
+      "change": 1.57,
+      "changeStr": "\u002B1.57%"
     },
     {
       "symbol": "PETR4",
-      "price": 57.72,
-      "change": -0.48,
-      "changeStr": "-0.48%"
+      "price": 58.21,
+      "change": 0.36,
+      "changeStr": "\u002B0.36%"
     },
     {
       "symbol": "VALE3",
-      "price": 66.15,
-      "change": -0.32,
-      "changeStr": "-0.32%"
+      "price": 65.44,
+      "change": -1.39,
+      "changeStr": "-1.39%"
     },
     {
       "symbol": "ITUB4",
-      "price": 49.17,
-      "change": 2.65,
-      "changeStr": "\u002B2.65%"
+      "price": 48.8,
+      "change": 1.88,
+      "changeStr": "\u002B1.88%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.77,
-      "change": 3.33,
-      "changeStr": "\u002B3.33%"
+      "price": 20.68,
+      "change": 2.89,
+      "changeStr": "\u002B2.89%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.37,
+      "price": 24.23,
+      "change": 1.17,
+      "changeStr": "\u002B1.17%"
+    },
+    {
+      "symbol": "MGLU3",
+      "price": 13.58,
+      "change": 14.79,
+      "changeStr": "\u002B14.79%"
+    },
+    {
+      "symbol": "ABEV3",
+      "price": 16.85,
       "change": 1.75,
       "changeStr": "\u002B1.75%"
     },
     {
-      "symbol": "MGLU3",
-      "price": 13,
-      "change": 9.89,
-      "changeStr": "\u002B9.89%"
-    },
-    {
-      "symbol": "ABEV3",
-      "price": 16.87,
-      "change": 1.87,
-      "changeStr": "\u002B1.87%"
-    },
-    {
       "symbol": "WEGE3",
-      "price": 48.32,
-      "change": 1.36,
-      "changeStr": "\u002B1.36%"
+      "price": 48.79,
+      "change": 2.35,
+      "changeStr": "\u002B2.35%"
     }
   ],
   "news": [
+    {
+      "title": "IBGE ter\u00E1 sele\u00E7\u00E3o com 325 vagas tempor\u00E1rias; veja o que se sabe",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/20/ibge-selecao-vagas-concurso.ghtml",
+      "date": "Tue, 20 Oct 2026 19:21:57 -0000"
+    },
+    {
+      "title": "iFood compra Caju e amplia disputa no mercado de benef\u00EDcios corporativos; o que muda para clientes? ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/negocios/noticia/2026/10/20/ifood-caju-o-que-muda-clientes.ghtml",
+      "date": "Tue, 20 Oct 2026 19:00:00 -0000"
+    },
+    {
+      "title": "Receita devolve valor recorde de R$ 41 bilh\u00F5es em restitui\u00E7\u00F5es do IR 2026",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/20/receita-federal-imposto-de-renda-2026.ghtml",
+      "date": "Tue, 20 Oct 2026 17:30:13 -0000"
+    },
     {
       "title": "Conab sofre ataques hackers e alerta para poss\u00EDveis falhas em seus sistemas",
       "source": "G1 Economia",
@@ -63,7 +81,7 @@
       "date": "Tue, 20 Oct 2026 16:33:11 -0000"
     },
     {
-      "title": "A 5 dias do segundo turno, Fl\u00E1vio prop\u00F5e devolver via PIX parte de gastos com contas e presta\u00E7\u00F5es, mas n\u00E3o detalha proposta",
+      "title": "A 5 dias do 2\u00BA turno, Fl\u00E1vio prop\u00F5e devolver via PIX parte de gastos com contas e presta\u00E7\u00F5es, mas n\u00E3o detalha custos",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/20/a-5-dias-do-segundo-turno-flavio-propoe-devolver-via-pix-parte-de-gastos-com-contas-e-prestacoes-mas-nao-detalha-proposta.ghtml",
       "date": "Tue, 20 Oct 2026 16:23:42 -0000"
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/20/risco-divida-argentina.ghtml",
       "date": "Tue, 20 Oct 2026 14:14:12 -0000"
-    },
-    {
-      "title": "Fl\u00E1vio promete, se eleito, retomar benef\u00EDcio para eventos encerrado por Lula ap\u00F3s suspeitas de irregularidades e alto custo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/20/flavio-promete-se-eleito-retomar-beneficio-para-eventos-encerrado-por-lula-apos-suspeitas-de-irregularidades-e-alto-custo.ghtml",
-      "date": "Tue, 20 Oct 2026 14:01:51 -0000"
-    },
-    {
-      "title": "Brasil deve suspender exporta\u00E7\u00F5es de frango para a China ap\u00F3s foco de doen\u00E7a de Newcastle em SC",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/20/brasil-deve-suspender-exportacoes-de-frango-para-a-china-apos-foco-de-doenca-de-newcastle-em-sc.ghtml",
-      "date": "Tue, 20 Oct 2026 13:40:23 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo supera US$ 111 e atinge maior cota\u00E7\u00E3o em cinco meses com escalada de conflitos no Oriente M\u00E9dio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/20/petroleo-supera-us-111-e-atinge-maior-cotacao-em-cinco-meses.ghtml",
-      "date": "Tue, 20 Oct 2026 12:49:41 -0000"
     }
   ]
 }
