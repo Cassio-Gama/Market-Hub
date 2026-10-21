@@ -2,60 +2,108 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 208295.98,
-      "change": 1.57,
-      "changeStr": "\u002B1.57%"
+      "price": 207702.7,
+      "change": -0.28,
+      "changeStr": "-0.28%"
     },
     {
       "symbol": "PETR4",
-      "price": 58.21,
-      "change": 0.36,
-      "changeStr": "\u002B0.36%"
+      "price": 58.18,
+      "change": -0.05,
+      "changeStr": "-0.05%"
     },
     {
       "symbol": "VALE3",
-      "price": 65.44,
-      "change": -1.39,
-      "changeStr": "-1.39%"
+      "price": 64.48,
+      "change": -1.47,
+      "changeStr": "-1.47%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48.8,
-      "change": 1.88,
-      "changeStr": "\u002B1.88%"
+      "price": 48.85,
+      "change": 0.1,
+      "changeStr": "\u002B0.10%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.68,
-      "change": 2.89,
-      "changeStr": "\u002B2.89%"
+      "price": 20.61,
+      "change": -0.34,
+      "changeStr": "-0.34%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.2,
-      "change": 1.04,
-      "changeStr": "\u002B1.04%"
+      "price": 24.14,
+      "change": -0.25,
+      "changeStr": "-0.25%"
     },
     {
       "symbol": "MGLU3",
-      "price": 13.58,
-      "change": 14.79,
-      "changeStr": "\u002B14.79%"
+      "price": 13.45,
+      "change": -0.96,
+      "changeStr": "-0.96%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.85,
-      "change": 1.75,
-      "changeStr": "\u002B1.75%"
+      "price": 16.81,
+      "change": -0.24,
+      "changeStr": "-0.24%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.79,
-      "change": 2.35,
-      "changeStr": "\u002B2.35%"
+      "price": 46.33,
+      "change": -5.04,
+      "changeStr": "-5.04%"
     }
   ],
   "news": [
+    {
+      "title": "Papa Le\u00E3o XIV vai usar picape da Fiat em visita ao Uruguai, veja o papam\u00F3vel",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/21/papa-leao-xiv-vai-usar-picape-da-fiat-em-visita-ao-uruguai-veja-o-papamovel.ghtml",
+      "date": "Wed, 21 Oct 2026 14:44:05 -0000"
+    },
+    {
+      "title": "IBGE retira men\u00E7\u00E3o a drogas de nota sobre o PIB; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/ibge-retira-mencao-a-drogas-de-nota-sobre-o-pib-entenda.ghtml",
+      "date": "Wed, 21 Oct 2026 14:25:56 -0000"
+    },
+    {
+      "title": "BC estuda limitar cr\u00E9dito de acordo com a renda, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/medidas-bc-endividamento.ghtml",
+      "date": "Wed, 21 Oct 2026 14:24:47 -0000"
+    },
+    {
+      "title": "OpenAI diz que agentes de IA enfraqueceram sistemas criados para monitor\u00E1-los",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/21/openai-agentes-sistemas-de-monitoramento.ghtml",
+      "date": "Wed, 21 Oct 2026 14:09:41 -0000"
+    },
+    {
+      "title": "Tesla e SpaceX discutem poss\u00EDvel fus\u00E3o; \u2018seria uma boa ideia\u2019, diz Musk",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/tesla-e-spacex-discutem-possivel-fusao.ghtml",
+      "date": "Wed, 21 Oct 2026 13:30:23 -0000"
+    },
+    {
+      "title": "Associa\u00E7\u00E3o de restaurantes vai \u00E0 Justi\u00E7a contra modelo de delivery da Keeta; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/associacao-nacional-de-restaurantes-processa-keeta.ghtml",
+      "date": "Wed, 21 Oct 2026 12:40:26 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta, com balan\u00E7os corporativos e pesquisas eleitorais no foco; Ibovespa cai",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/dolar-ibovespa.ghtml",
+      "date": "Wed, 21 Oct 2026 12:00:23 -0000"
+    },
+    {
+      "title": "Anthropic tem preju\u00EDzo de R$ 404,6 bilh\u00F5es no 1\u00BA semestre de 2026",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/21/anthropic-prejuizo.ghtml",
+      "date": "Wed, 21 Oct 2026 11:22:45 -0000"
+    },
     {
       "title": "Por que ajuste fiscal do novo presidente do Chile leva a crise com desemprego recorde",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/21/apos-seis-anos-de-atraso-e-crises-de-seguranca-maior-boeing-737-max-10-e-aprovado-para-voar-conheca.ghtml",
       "date": "Wed, 21 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Os maiores sal\u00E1rios para 2027: veja ranking de carreiras por setor, para quem quer ou n\u00E3o ser chefe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/21/os-maiores-salarios-para-2027-veja-ranking-de-carreiras-por-setor-para-quem-quer-ou-nao-ser-chefe.ghtml",
-      "date": "Wed, 21 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Chefe da Ferrari d\u00E1 nota 10 a Tesla que \u0027voa\u0027 e elogia Elon Musk: \u0027Temos que continuar sonhando\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/21/chefe-da-ferrari-da-nota-10-a-tesla-que-voa-e-elogia-elon-musk-temos-que-continuar-sonhando.ghtml",
-      "date": "Wed, 21 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "De produtos baratos a l\u00EDderes de tecnologia: como a China passou a superar gigantes ocidentais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/10/21/de-produtos-baratos-a-lideres-de-tecnologia-como-a-china-passou-a-superar-gigantes-ocidentais.ghtml",
-      "date": "Wed, 21 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Getty Images entra com pedido de recupera\u00E7\u00E3o judicial nos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/getty-images-entra-com-pedido-de-recuperacao-judicial-nos-eua.ghtml",
-      "date": "Wed, 21 Oct 2026 05:48:07 -0000"
-    },
-    {
-      "title": "Por que o mercado reage \u00E0s elei\u00E7\u00F5es antes mesmo de a economia mudar?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/21/por-que-o-mercado-reage-as-eleicoes-antes-mesmo-de-a-economia-mudar.ghtml",
-      "date": "Wed, 21 Oct 2026 05:00:00 -0000"
-    },
-    {
-      "title": "Doen\u00E7a de Newcastle: opera\u00E7\u00E3o far\u00E1 visitas a 1,6 mil propriedades em \u00E1reas perto de foco confirmado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/21/doenca-newcastle-visitas-propriedades-perto-foco-sc.ghtml",
-      "date": "Wed, 21 Oct 2026 04:00:00 -0000"
-    },
-    {
-      "title": "Lula sanciona nesta quarta lei que prev\u00EA perd\u00E3o de d\u00EDvidas e aumento do teto de faturamento para MEI",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/21/lula-sanciona-nesta-quarta-lei-que-preve-perdao-de-dividas-e-aumento-do-teto-de-faturamento-para-mei.ghtml",
-      "date": "Wed, 21 Oct 2026 03:00:01 -0000"
-    },
-    {
-      "title": "Smart Sampa: como funciona o sistema de 58 mil c\u00E2meras de SP que teve senhas expostas por 11 meses",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/21/smart-sampa-como-funciona-o-sistema-de-58-mil-cameras-de-sp-que-teve-senhas-expostas-por-11-meses.ghtml",
-      "date": "Wed, 21 Oct 2026 03:00:00 -0000"
     }
   ]
 }
