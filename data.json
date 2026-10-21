@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 207702.7,
-      "change": -0.28,
-      "changeStr": "-0.28%"
+      "price": 206537.31,
+      "change": -0.84,
+      "changeStr": "-0.84%"
     },
     {
       "symbol": "PETR4",
-      "price": 58.18,
-      "change": -0.05,
-      "changeStr": "-0.05%"
+      "price": 57.93,
+      "change": -0.48,
+      "changeStr": "-0.48%"
     },
     {
       "symbol": "VALE3",
-      "price": 64.48,
-      "change": -1.47,
-      "changeStr": "-1.47%"
+      "price": 64,
+      "change": -2.2,
+      "changeStr": "-2.20%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48.85,
-      "change": 0.1,
-      "changeStr": "\u002B0.10%"
+      "price": 48.9,
+      "change": 0.2,
+      "changeStr": "\u002B0.20%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.61,
-      "change": -0.34,
-      "changeStr": "-0.34%"
+      "price": 20.62,
+      "change": -0.29,
+      "changeStr": "-0.29%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.14,
-      "change": -0.25,
-      "changeStr": "-0.25%"
+      "price": 24.07,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     },
     {
       "symbol": "MGLU3",
-      "price": 13.45,
-      "change": -0.96,
-      "changeStr": "-0.96%"
+      "price": 13.24,
+      "change": -2.5,
+      "changeStr": "-2.50%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.81,
-      "change": -0.24,
-      "changeStr": "-0.24%"
+      "price": 16.68,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.33,
-      "change": -5.04,
-      "changeStr": "-5.04%"
+      "price": 45.46,
+      "change": -6.83,
+      "changeStr": "-6.83%"
     }
   ],
   "news": [
+    {
+      "title": "Justi\u00E7a libera plano do GPA: dona do P\u00E3o de A\u00E7\u00FAcar inicia reestrutura\u00E7\u00E3o de d\u00EDvidas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/justica-libera-plano-do-gpa-dona-do-pao-de-acucar-inicia-reestruturacao-de-dividas.ghtml",
+      "date": "Wed, 21 Oct 2026 19:31:07 -0000"
+    },
+    {
+      "title": "Golpe do QR Code: criminosos adulteram c\u00F3digos para roubar dinheiro; veja como se proteger",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/21/golpe-do-qr-code-criminosos-adulteram-codigos-para-roubar-dinheiro-veja-como-se-proteger.ghtml",
+      "date": "Wed, 21 Oct 2026 19:04:45 -0000"
+    },
+    {
+      "title": "Meta \u00E9 condenada a pagar US$ 25 bilh\u00F5es por enganar consumidores no caso Cambridge Analytica",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/21/meta-e-condenada-a-pagar-us-25-bilhoes-por-enganar-consumidores-sobre-privacidade-de-dados.ghtml",
+      "date": "Wed, 21 Oct 2026 18:34:46 -0000"
+    },
+    {
+      "title": "INSS: Justi\u00E7a libera R$ 2,9 bilh\u00F5es em atrasados; veja quem tem direito a receber e como consultar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/inss-justica-libera-r-29-bilhoes-em-atrasados-veja-quem-tem-direito-a-receber-e-como-consultar.ghtml",
+      "date": "Wed, 21 Oct 2026 18:02:01 -0000"
+    },
+    {
+      "title": "Ap\u00F3s M\u00E9xico, Mal\u00E1sia suspende importa\u00E7\u00E3o de frango de todo o Brasil; Ar\u00E1bia Saudita vai restringir apenas SC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/21/apos-mexico-malasia-suspende-importacao-de-frango-de-todo-o-brasil-arabia-saudita-vai-restringir-apenas-sc.ghtml",
+      "date": "Wed, 21 Oct 2026 17:47:11 -0000"
+    },
+    {
+      "title": "Uni\u00E3o Europeia pode liberar importa\u00E7\u00E3o de frango e mel do Brasil ap\u00F3s suspens\u00E3o",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/21/uniao-europeia-pode-liberar-importacao-de-frango-e-mel-do-brasil-apos-suspensao.ghtml",
+      "date": "Wed, 21 Oct 2026 17:33:33 -0000"
+    },
+    {
+      "title": "Justi\u00E7a autoriza recupera\u00E7\u00E3o judicial da Casas Bahia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/justica-aprova-recuperacao-judicial-da-casas-bahia.ghtml",
+      "date": "Wed, 21 Oct 2026 15:14:00 -0000"
+    },
+    {
+      "title": "Lula perdoa d\u00EDvidas de MEIs; veja 3 erros que levam pequenos neg\u00F3cios ao vermelho",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/21/perdao-de-dividas-de-meis.ghtml",
+      "date": "Wed, 21 Oct 2026 14:55:37 -0000"
+    },
+    {
+      "title": "Lula sanciona lei que perdoa d\u00EDvidas de MEIs, amplia limite de faturamento e funcion\u00E1rios; veja como vai funcionar ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/21/lula-perdao-dividas-mei.ghtml",
+      "date": "Wed, 21 Oct 2026 14:55:23 -0000"
+    },
     {
       "title": "Papa Le\u00E3o XIV vai usar picape da Fiat em visita ao Uruguai, veja o papam\u00F3vel",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/10/21/papa-leao-xiv-vai-usar-picape-da-fiat-em-visita-ao-uruguai-veja-o-papamovel.ghtml",
       "date": "Wed, 21 Oct 2026 14:44:05 -0000"
-    },
-    {
-      "title": "IBGE retira men\u00E7\u00E3o a drogas de nota sobre o PIB; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/ibge-retira-mencao-a-drogas-de-nota-sobre-o-pib-entenda.ghtml",
-      "date": "Wed, 21 Oct 2026 14:25:56 -0000"
-    },
-    {
-      "title": "BC estuda limitar cr\u00E9dito de acordo com a renda, diz ag\u00EAncia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/medidas-bc-endividamento.ghtml",
-      "date": "Wed, 21 Oct 2026 14:24:47 -0000"
-    },
-    {
-      "title": "OpenAI diz que agentes de IA enfraqueceram sistemas criados para monitor\u00E1-los",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/21/openai-agentes-sistemas-de-monitoramento.ghtml",
-      "date": "Wed, 21 Oct 2026 14:09:41 -0000"
-    },
-    {
-      "title": "Tesla e SpaceX discutem poss\u00EDvel fus\u00E3o; \u2018seria uma boa ideia\u2019, diz Musk",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/tesla-e-spacex-discutem-possivel-fusao.ghtml",
-      "date": "Wed, 21 Oct 2026 13:30:23 -0000"
-    },
-    {
-      "title": "Associa\u00E7\u00E3o de restaurantes vai \u00E0 Justi\u00E7a contra modelo de delivery da Keeta; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/associacao-nacional-de-restaurantes-processa-keeta.ghtml",
-      "date": "Wed, 21 Oct 2026 12:40:26 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta, com balan\u00E7os corporativos e pesquisas eleitorais no foco; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/dolar-ibovespa.ghtml",
-      "date": "Wed, 21 Oct 2026 12:00:23 -0000"
-    },
-    {
-      "title": "Anthropic tem preju\u00EDzo de R$ 404,6 bilh\u00F5es no 1\u00BA semestre de 2026",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/21/anthropic-prejuizo.ghtml",
-      "date": "Wed, 21 Oct 2026 11:22:45 -0000"
-    },
-    {
-      "title": "Por que ajuste fiscal do novo presidente do Chile leva a crise com desemprego recorde",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/por-que-ajuste-fiscal-do-novo-presidente-do-chile-leva-a-crise-com-desemprego-recorde.ghtml",
-      "date": "Wed, 21 Oct 2026 08:00:00 -0000"
-    },
-    {
-      "title": "Ap\u00F3s seis anos de atraso e crises de seguran\u00E7a, maior Boeing 737 MAX 10 \u00E9 aprovado para voar; conhe\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/apos-seis-anos-de-atraso-e-crises-de-seguranca-maior-boeing-737-max-10-e-aprovado-para-voar-conheca.ghtml",
-      "date": "Wed, 21 Oct 2026 06:00:00 -0000"
     }
   ]
 }
