@@ -2,21 +2,21 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 206537.31,
-      "change": -0.84,
-      "changeStr": "-0.84%"
+      "price": 206495.23,
+      "change": -0.86,
+      "changeStr": "-0.86%"
     },
     {
       "symbol": "PETR4",
-      "price": 57.93,
-      "change": -0.48,
-      "changeStr": "-0.48%"
+      "price": 57.75,
+      "change": -0.79,
+      "changeStr": "-0.79%"
     },
     {
       "symbol": "VALE3",
-      "price": 64,
-      "change": -2.2,
-      "changeStr": "-2.20%"
+      "price": 64.03,
+      "change": -2.15,
+      "changeStr": "-2.15%"
     },
     {
       "symbol": "ITUB4",
@@ -26,36 +26,48 @@
     },
     {
       "symbol": "BBDC4",
-      "price": 20.62,
-      "change": -0.29,
-      "changeStr": "-0.29%"
+      "price": 20.65,
+      "change": -0.15,
+      "changeStr": "-0.15%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.07,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 24.1,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     },
     {
       "symbol": "MGLU3",
-      "price": 13.24,
-      "change": -2.5,
-      "changeStr": "-2.50%"
+      "price": 13.04,
+      "change": -3.98,
+      "changeStr": "-3.98%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.68,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 16.69,
+      "change": -0.95,
+      "changeStr": "-0.95%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.46,
-      "change": -6.83,
-      "changeStr": "-6.83%"
+      "price": 45.21,
+      "change": -7.34,
+      "changeStr": "-7.34%"
     }
   ],
   "news": [
+    {
+      "title": "Lucro da Meta dispara 264% e chega a R$ 324 bilh\u00F5es no 3\u00BA trimestre; redes sociais concentram receita",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/lucro-da-meta-dispara-no-3o-trimestre.ghtml",
+      "date": "Wed, 21 Oct 2026 23:05:43 -0000"
+    },
+    {
+      "title": "Desenrola 3.0: Durigan diz que governo vai lan\u00E7ar edital para comprar d\u00EDvidas na quinta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/desenrola-30-durigan-diz-que-governo-vai-lancar-edital-para-comprar-dividas-na-quinta.ghtml",
+      "date": "Wed, 21 Oct 2026 21:05:22 -0000"
+    },
     {
       "title": "Justi\u00E7a libera plano do GPA: dona do P\u00E3o de A\u00E7\u00FAcar inicia reestrutura\u00E7\u00E3o de d\u00EDvidas",
       "source": "G1 Economia",
@@ -103,18 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/21/perdao-de-dividas-de-meis.ghtml",
       "date": "Wed, 21 Oct 2026 14:55:37 -0000"
-    },
-    {
-      "title": "Lula sanciona lei que perdoa d\u00EDvidas de MEIs, amplia limite de faturamento e funcion\u00E1rios; veja como vai funcionar ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/21/lula-perdao-dividas-mei.ghtml",
-      "date": "Wed, 21 Oct 2026 14:55:23 -0000"
-    },
-    {
-      "title": "Papa Le\u00E3o XIV vai usar picape da Fiat em visita ao Uruguai, veja o papam\u00F3vel",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/21/papa-leao-xiv-vai-usar-picape-da-fiat-em-visita-ao-uruguai-veja-o-papamovel.ghtml",
-      "date": "Wed, 21 Oct 2026 14:44:05 -0000"
     }
   ]
 }
