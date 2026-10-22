@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 203754.8,
-      "change": -1.33,
-      "changeStr": "-1.33%"
+      "price": 204120.12,
+      "change": -1.15,
+      "changeStr": "-1.15%"
     },
     {
       "symbol": "PETR4",
-      "price": 57.7,
-      "change": -0.09,
-      "changeStr": "-0.09%"
+      "price": 57.83,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     },
     {
       "symbol": "VALE3",
-      "price": 61.52,
-      "change": -3.92,
-      "changeStr": "-3.92%"
+      "price": 61.49,
+      "change": -3.97,
+      "changeStr": "-3.97%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48.05,
-      "change": -1.74,
-      "changeStr": "-1.74%"
+      "price": 48,
+      "change": -1.84,
+      "changeStr": "-1.84%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.23,
-      "change": -2.03,
-      "changeStr": "-2.03%"
+      "price": 20.22,
+      "change": -2.08,
+      "changeStr": "-2.08%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.82,
-      "change": -1.16,
-      "changeStr": "-1.16%"
+      "price": 23.92,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     },
     {
       "symbol": "MGLU3",
-      "price": 12.7,
-      "change": -2.61,
-      "changeStr": "-2.61%"
+      "price": 12.78,
+      "change": -1.99,
+      "changeStr": "-1.99%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.85,
-      "change": 0.96,
-      "changeStr": "\u002B0.96%"
+      "price": 16.9,
+      "change": 1.26,
+      "changeStr": "\u002B1.26%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.18,
-      "change": -2.28,
-      "changeStr": "-2.28%"
+      "price": 44,
+      "change": -2.68,
+      "changeStr": "-2.68%"
     }
   ],
   "news": [
+    {
+      "title": "Trabalhadora gr\u00E1vida impedida de pausar atendimento para vomitar receber\u00E1 R$ 30 mil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/22/gravida-funcionaria-sera-indenizada-em-r-30-mil-apos-ser-obrigada-a-vomitar-em-lixeira-no-trabalho.ghtml",
+      "date": "Thu, 22 Oct 2026 22:06:34 -0000"
+    },
     {
       "title": "LemFi amplia servi\u00E7os financeiros para brasileiros que vivem no exterior",
       "source": "G1 Economia",
@@ -99,7 +105,7 @@
       "date": "Thu, 22 Oct 2026 12:30:23 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta, com avan\u00E7o nos pre\u00E7os do petr\u00F3leo e na reta final das elei\u00E7\u00F5es no Brasil; Ibovespa cai",
+      "title": "D\u00F3lar sobe e fecha a R$ 5,03 com alta do petr\u00F3leo e reta final das elei\u00E7\u00F5es no radar; Ibovespa cai",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/22/dolar-ibovespa.ghtml",
       "date": "Thu, 22 Oct 2026 12:00:25 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/o-que-e-php-e-a-falha-grave-de-seguranca-detectada-por-ia-que-tirou-sites-do-ar.ghtml",
       "date": "Thu, 22 Oct 2026 11:14:54 -0000"
-    },
-    {
-      "title": "CLT, aposentado, estudante ou MEI? Veja as propostas de Lula e Fl\u00E1vio para o seu bolso",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/22/propostas-de-lula-e-flavio-para-o-seu-bolso.ghtml",
-      "date": "Thu, 22 Oct 2026 08:00:00 -0000"
     }
   ]
 }
