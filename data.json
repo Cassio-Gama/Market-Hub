@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 206495.23,
-      "change": -0.86,
-      "changeStr": "-0.86%"
+      "price": 203436.16,
+      "change": -1.48,
+      "changeStr": "-1.48%"
     },
     {
       "symbol": "PETR4",
-      "price": 57.75,
-      "change": -0.79,
-      "changeStr": "-0.79%"
+      "price": 57.03,
+      "change": -1.25,
+      "changeStr": "-1.25%"
     },
     {
       "symbol": "VALE3",
-      "price": 64.03,
-      "change": -2.15,
-      "changeStr": "-2.15%"
+      "price": 62.41,
+      "change": -2.53,
+      "changeStr": "-2.53%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48.9,
-      "change": 0.2,
-      "changeStr": "\u002B0.20%"
+      "price": 48.18,
+      "change": -1.47,
+      "changeStr": "-1.47%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.65,
-      "change": -0.15,
-      "changeStr": "-0.15%"
+      "price": 20.33,
+      "change": -1.55,
+      "changeStr": "-1.55%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.1,
-      "change": -0.41,
-      "changeStr": "-0.41%"
+      "price": 23.74,
+      "change": -1.49,
+      "changeStr": "-1.49%"
     },
     {
       "symbol": "MGLU3",
-      "price": 13.04,
-      "change": -3.98,
-      "changeStr": "-3.98%"
+      "price": 12.44,
+      "change": -4.6,
+      "changeStr": "-4.60%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.69,
-      "change": -0.95,
-      "changeStr": "-0.95%"
+      "price": 16.77,
+      "change": 0.48,
+      "changeStr": "\u002B0.48%"
     },
     {
       "symbol": "WEGE3",
-      "price": 45.21,
-      "change": -7.34,
-      "changeStr": "-7.34%"
+      "price": 44.76,
+      "change": -1,
+      "changeStr": "-1.00%"
     }
   ],
   "news": [
+    {
+      "title": "Arrecada\u00E7\u00E3o federal sobe para R$ 239 bilh\u00F5es em setembro, novo recorde para o m\u00EAs",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/22/arrecadacao-federal-sobe-para-r-239-bilhoes-em-setembro-novo-recorde-para-o-mes.ghtml",
+      "date": "Thu, 22 Oct 2026 14:00:01 -0000"
+    },
+    {
+      "title": "Falhas no PHP levam tribunais no Brasil e Anatel a suspender sistemas; governo emite alerta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/falhas-no-php-levam-tribunais-no-brasil-e-anatel-a-suspender-sistemas-governo-emite-alerta.ghtml",
+      "date": "Thu, 22 Oct 2026 13:27:04 -0000"
+    },
+    {
+      "title": "Carrefour anuncia venda de 22 lojas ao P\u00E1tria Investimentos e passa a pagar aluguel para continuar operando; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/negocios/noticia/2026/10/22/carrefour-patria-investimentos.ghtml",
+      "date": "Thu, 22 Oct 2026 12:30:23 -0000"
+    },
+    {
+      "title": "D\u00F3lar opera em alta, com avan\u00E7o nos pre\u00E7os do petr\u00F3leo e na reta final das elei\u00E7\u00F5es no Brasil; Ibovespa cai",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/22/dolar-ibovespa.ghtml",
+      "date": "Thu, 22 Oct 2026 12:00:25 -0000"
+    },
+    {
+      "title": "O que \u00E9 PHP e a falha grave de seguran\u00E7a detectada por IA que tirou sites do ar",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/o-que-e-php-e-a-falha-grave-de-seguranca-detectada-por-ia-que-tirou-sites-do-ar.ghtml",
+      "date": "Thu, 22 Oct 2026 11:14:54 -0000"
+    },
     {
       "title": "CLT, aposentado, estudante ou MEI? Veja as propostas de Lula e Fl\u00E1vio para o seu bolso",
       "source": "G1 Economia",
@@ -63,7 +93,7 @@
       "date": "Thu, 22 Oct 2026 08:00:00 -0000"
     },
     {
-      "title": "Ab\u00F3bora de 1.500 kg bate recorde mundial e entra para o Guinness; fruto renderia 3 mil tortas",
+      "title": "Ab\u00F3bora de quase 1.500 kg bate recorde mundial e entra para o Guinness; fruto renderia mais de 3 mil tortas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/22/abobora-de-1500-kg-bate-recorde-mundial-e-entra-para-o-guinness-fruto-renderia-3-mil-tortas.ghtml",
       "date": "Thu, 22 Oct 2026 07:00:00 -0000"
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/quem-inventou-o-nome-inteligencia-artificial-e-por-que-trump-quer-muda-lo.ghtml",
       "date": "Thu, 22 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Qual o futuro dos concursos p\u00FAblicos? Veja o que prop\u00F5em Lula e Fl\u00E1vio Bolsonaro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/22/qual-o-futuro-dos-concursos-publicos-veja-o-que-propoem-lula-e-flavio-bolsonaro.ghtml",
-      "date": "Thu, 22 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Quem paga a conta da corrup\u00E7\u00E3o? Entenda como os desvios afetam a economia e a popula\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/22/quem-paga-a-conta-da-corrupcao-entenda-como-os-desvios-afetam-a-economia-e-a-populacao.ghtml",
-      "date": "Thu, 22 Oct 2026 05:00:00 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 200 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/22/mega-sena-pode-pagar-r-200-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 22 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Lucro da Meta dispara 264% e chega a R$ 324 bilh\u00F5es no 3\u00BA trimestre; redes sociais concentram receita",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/lucro-da-meta-dispara-no-3o-trimestre.ghtml",
-      "date": "Wed, 21 Oct 2026 23:05:43 -0000"
-    },
-    {
-      "title": "Desenrola 3.0: Durigan diz que governo vai lan\u00E7ar edital para comprar d\u00EDvidas na quinta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/desenrola-30-durigan-diz-que-governo-vai-lancar-edital-para-comprar-dividas-na-quinta.ghtml",
-      "date": "Wed, 21 Oct 2026 21:05:22 -0000"
     }
   ]
 }
