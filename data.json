@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 203436.16,
-      "change": -1.48,
-      "changeStr": "-1.48%"
+      "price": 203754.8,
+      "change": -1.33,
+      "changeStr": "-1.33%"
     },
     {
       "symbol": "PETR4",
-      "price": 57.03,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 57.7,
+      "change": -0.09,
+      "changeStr": "-0.09%"
     },
     {
       "symbol": "VALE3",
-      "price": 62.41,
-      "change": -2.53,
-      "changeStr": "-2.53%"
+      "price": 61.52,
+      "change": -3.92,
+      "changeStr": "-3.92%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48.18,
-      "change": -1.47,
-      "changeStr": "-1.47%"
+      "price": 48.05,
+      "change": -1.74,
+      "changeStr": "-1.74%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.33,
-      "change": -1.55,
-      "changeStr": "-1.55%"
+      "price": 20.23,
+      "change": -2.03,
+      "changeStr": "-2.03%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.74,
-      "change": -1.49,
-      "changeStr": "-1.49%"
+      "price": 23.82,
+      "change": -1.16,
+      "changeStr": "-1.16%"
     },
     {
       "symbol": "MGLU3",
-      "price": 12.44,
-      "change": -4.6,
-      "changeStr": "-4.60%"
+      "price": 12.7,
+      "change": -2.61,
+      "changeStr": "-2.61%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.77,
-      "change": 0.48,
-      "changeStr": "\u002B0.48%"
+      "price": 16.85,
+      "change": 0.96,
+      "changeStr": "\u002B0.96%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.76,
-      "change": -1,
-      "changeStr": "-1.00%"
+      "price": 44.18,
+      "change": -2.28,
+      "changeStr": "-2.28%"
     }
   ],
   "news": [
+    {
+      "title": "LemFi amplia servi\u00E7os financeiros para brasileiros que vivem no exterior",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/especial-publicitario/lemfi/noticia/2026/10/22/lemfi-amplia-servicos-financeiros-para-brasileiros-que-vivem-no-exterior.ghtml",
+      "date": "Thu, 22 Oct 2026 18:30:11 -0000"
+    },
+    {
+      "title": "MC Cabelinho volta a publicar v\u00EDdeo contra Fl\u00E1vio Bolsonaro ap\u00F3s postagem ser derrubada pela Meta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/meta-derruba-video-de-mc-cabelinho-sobre-flavio-bolsonaro-as-vesperas-do-2o-turno.ghtml",
+      "date": "Thu, 22 Oct 2026 16:25:01 -0000"
+    },
+    {
+      "title": "\nH\u00F3spede de Airbnb n\u00E3o ser\u00E1 mais obrigado a lavar lou\u00E7a e tirar lixo no check-out",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/10/22/hospede-de-airbnb-nao-sera-mais-obrigado-a-lavar-louca-e-tirar-lixo-no-check-out.ghtml",
+      "date": "Thu, 22 Oct 2026 15:38:48 -0000"
+    },
+    {
+      "title": "Governo Federal decreta emerg\u00EAncia zoosanit\u00E1ria em SC ap\u00F3s foco de doen\u00E7a de Newcastle",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/22/governo-federal-emergencia-sanitaria-em-sc-doenca-de-newcastle.ghtml",
+      "date": "Thu, 22 Oct 2026 15:04:38 -0000"
+    },
     {
       "title": "Arrecada\u00E7\u00E3o federal sobe para R$ 239 bilh\u00F5es em setembro, novo recorde para o m\u00EAs",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/22/propostas-de-lula-e-flavio-para-o-seu-bolso.ghtml",
       "date": "Thu, 22 Oct 2026 08:00:00 -0000"
-    },
-    {
-      "title": "Ab\u00F3bora de quase 1.500 kg bate recorde mundial e entra para o Guinness; fruto renderia mais de 3 mil tortas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/22/abobora-de-1500-kg-bate-recorde-mundial-e-entra-para-o-guinness-fruto-renderia-3-mil-tortas.ghtml",
-      "date": "Thu, 22 Oct 2026 07:00:00 -0000"
-    },
-    {
-      "title": "Combate \u00E0s fraudes e \u00E0 sonega\u00E7\u00E3o: veja o que o setor de combust\u00EDveis cobra do pr\u00F3ximo presidente",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/22/combate-as-fraudes-e-a-sonegacao-veja-o-que-o-setor-de-combustiveis-cobra-do-proximo-presidente.ghtml",
-      "date": "Thu, 22 Oct 2026 07:00:00 -0000"
-    },
-    {
-      "title": "Doen\u00E7a de Newcastle: 6 mil aves s\u00E3o abatidas em granja no Oeste de SC",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/22/doenca-newcastle-6-mil-aves-abatidas-granja-oeste-sc.ghtml",
-      "date": "Thu, 22 Oct 2026 07:00:00 -0000"
-    },
-    {
-      "title": "Quem inventou o nome \u0027intelig\u00EAncia artificial\u0027 e por que Trump quer mud\u00E1-lo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/quem-inventou-o-nome-inteligencia-artificial-e-por-que-trump-quer-muda-lo.ghtml",
-      "date": "Thu, 22 Oct 2026 06:00:00 -0000"
     }
   ]
 }
