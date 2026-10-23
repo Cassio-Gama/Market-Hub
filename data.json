@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 203463.02,
-      "change": -0.32,
-      "changeStr": "-0.32%"
+      "price": 205419.62,
+      "change": 0.64,
+      "changeStr": "\u002B0.64%"
     },
     {
       "symbol": "PETR4",
-      "price": 59.13,
-      "change": 2.25,
-      "changeStr": "\u002B2.25%"
+      "price": 58.73,
+      "change": 1.56,
+      "changeStr": "\u002B1.56%"
     },
     {
       "symbol": "VALE3",
-      "price": 61.82,
-      "change": 0.54,
-      "changeStr": "\u002B0.54%"
+      "price": 62.07,
+      "change": 0.94,
+      "changeStr": "\u002B0.94%"
     },
     {
       "symbol": "ITUB4",
-      "price": 47.61,
-      "change": -0.81,
-      "changeStr": "-0.81%"
+      "price": 48.41,
+      "change": 0.85,
+      "changeStr": "\u002B0.85%"
     },
     {
       "symbol": "BBDC4",
-      "price": 19.76,
-      "change": -2.27,
-      "changeStr": "-2.27%"
+      "price": 20.41,
+      "change": 0.94,
+      "changeStr": "\u002B0.94%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.89,
-      "change": -0.13,
-      "changeStr": "-0.13%"
+      "price": 24.87,
+      "change": 3.97,
+      "changeStr": "\u002B3.97%"
     },
     {
       "symbol": "MGLU3",
-      "price": 12.35,
-      "change": -3.36,
-      "changeStr": "-3.36%"
+      "price": 12.86,
+      "change": 0.63,
+      "changeStr": "\u002B0.63%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.8,
-      "change": -0.59,
-      "changeStr": "-0.59%"
+      "price": 16.83,
+      "change": -0.41,
+      "changeStr": "-0.41%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.28,
-      "change": -1.64,
-      "changeStr": "-1.64%"
+      "price": 43.35,
+      "change": -1.48,
+      "changeStr": "-1.48%"
     }
   ],
   "news": [
+    {
+      "title": "Jap\u00E3o vai simular ataques hackers com IA ap\u00F3s falha no PHP tirar sites do ar em v\u00E1rios pa\u00EDses",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/japao-vai-simular-ataques-hackers-com-ia-apos-falha-no-php-tirar-sites-do-ar-em-varios-paises.ghtml",
+      "date": "Fri, 23 Oct 2026 18:45:42 -0000"
+    },
+    {
+      "title": "Ap\u00F3s Fl\u00E1vio citar volta do Perse, governo fala em projeto para perdoar d\u00EDvidas de bares, restaurantes e empresas de eventos do Simples",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-flavio-citar-volta-do-perse-governo-fala-em-projeto-para-perdoar-dividas-de-bares-restaurantes-e-empresas-de-eventos-do-simples.ghtml",
+      "date": "Fri, 23 Oct 2026 18:02:14 -0000"
+    },
+    {
+      "title": "Mercado de canetas emagrecedoras pode triplicar at\u00E9 2035 e chegar a US$ 22 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/mercado-de-canetas-emagrecedoras-pode-triplicar-ate-2035-e-chegar-a-us-22-bilhoes.ghtml",
+      "date": "Fri, 23 Oct 2026 16:51:25 -0000"
+    },
+    {
+      "title": "Claude Mythos 5 tentou espalhar v\u00EDrus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/ia-da-anthropic-tentou-espalhar-virus-e-criou-perfis-falsos-para-enganar-desenvolvedores-em-teste.ghtml",
+      "date": "Fri, 23 Oct 2026 16:16:21 -0000"
+    },
+    {
+      "title": "Ministro da Fazenda fala em ajuste das contas p\u00FAblicas sem \u0027dar cavalo de pau\u0027 ou \u0027fazer loucuras\u0027; Fl\u00E1vio tem prometido \u0027tesoura\u00E7o\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/ministro-da-fazenda-fala-em-ajuste-das-contas-publicas-sem-dar-cavalo-de-pau-ou-fazer-loucuras-flavio-tem-prometido-tesouraco.ghtml",
+      "date": "Fri, 23 Oct 2026 16:09:12 -0000"
+    },
+    {
+      "title": "Governo vai estudar recarga de carros el\u00E9tricos para expandir a infraestrutura de carregadores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/23/governo-vai-estudar-recarga-de-carros-eletricos-para-expandir-a-infraestrutura.ghtml",
+      "date": "Fri, 23 Oct 2026 15:25:29 -0000"
+    },
+    {
+      "title": "BYD quer dobrar capacidade de produ\u00E7\u00E3o no Brasil e superar Volkswagen e Chevrolet",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/23/byd-quer-dobrar-capacidade-de-producao-no-brasil-e-superar-volkswagen-e-chevrolet.ghtml",
+      "date": "Fri, 23 Oct 2026 14:52:43 -0000"
+    },
+    {
+      "title": "Frango pode ficar mais barato, principalmente no Sul, ap\u00F3s caso de Newcastle em SC, diz Ita\u00FA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/23/frango-pode-ficar-mais-barato-principalmente-no-sul-apos-caso-de-newcastle-em-sc-diz-itau.ghtml",
+      "date": "Fri, 23 Oct 2026 14:46:35 -0000"
+    },
+    {
+      "title": "Gr\u00E9cia aprova proibi\u00E7\u00E3o de redes sociais para menores de 15 anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/grecia-aprova-proibicao-de-redes-sociais-para-menores-de-15-anos.ghtml",
+      "date": "Fri, 23 Oct 2026 14:46:17 -0000"
+    },
     {
       "title": "Microsoft diz que sua IA superou m\u00E9dicos em testes de diagn\u00F3stico",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/microsoft-diz-que-sua-ia-superou-medicos-em-testes-de-diagnostico.ghtml",
       "date": "Fri, 23 Oct 2026 14:16:03 -0000"
-    },
-    {
-      "title": "Google vai pagar a quem usar menos energia el\u00E9trica para aproveitar as sobras em seus data centers",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/google-vai-pagar-a-quem-usar-menos-energia-eletrica-para-aproveitar-as-sobras-em-seus-data-centers.ghtml",
-      "date": "Fri, 23 Oct 2026 13:40:00 -0000"
-    },
-    {
-      "title": "Conhe\u00E7a duas variedades de mirtilo indicadas para o Cerrado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/23/conheca-duas-variedades-de-mirtilo-indicadas-para-o-cerrado.ghtml",
-      "date": "Fri, 23 Oct 2026 13:25:09 -0000"
-    },
-    {
-      "title": "China pede a \u00F3rg\u00E3os governamentais que reduzam perdas de empregos causadas pela IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/23/china-pede-a-orgaos-governamentais-que-reduzam-perdas-de-empregos-causadas-pela-ia.ghtml",
-      "date": "Fri, 23 Oct 2026 13:22:14 -0000"
-    },
-    {
-      "title": "Carteira de pedidos da Embraer chega a US$ 35,7 bilh\u00F5es e bate recorde pelo 7\u00BA trimestre seguido",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/23/carteira-de-pedidos-da-embraer-chega-a-us-357-bilhoes-e-bate-recorde-pelo-7o-trimestre-seguido.ghtml",
-      "date": "Fri, 23 Oct 2026 13:14:11 -0000"
-    },
-    {
-      "title": "Funcion\u00E1rios da Volkswagen na Alemanha amea\u00E7am greve se empresa n\u00E3o cumprir acordos salariais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/23/funcionarios-da-volkswagen-ameacam-greve-alemanha.ghtml",
-      "date": "Fri, 23 Oct 2026 12:35:35 -0000"
-    },
-    {
-      "title": "Brecha no PHP que tirou sites do ar foi descoberta h\u00E1 dois anos; respons\u00E1vel cita falta de recursos para corrigi-la",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/brecha-no-php-que-tirou-sites-do-ar-foi-descoberta-ha-dois-anos-responsavel-cita-falta-de-recursos-para-corrigi-la.ghtml",
-      "date": "Fri, 23 Oct 2026 12:25:57 -0000"
-    },
-    {
-      "title": "Pre\u00E7o dos alimentos: o que ficou mais caro e o que barateou na pr\u00E9via da infla\u00E7\u00E3o de outubro",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/23/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-na-previa-da-inflacao-de-outubro.ghtml",
-      "date": "Fri, 23 Oct 2026 12:02:15 -0000"
-    },
-    {
-      "title": "IPCA-15 sobe 0,32% em outubro, puxado pela alta dos alimentos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/23/ipca-15-previa-da-inflacao-outubro.ghtml",
-      "date": "Fri, 23 Oct 2026 12:00:29 -0000"
-    },
-    {
-      "title": "D\u00F3lar abre em alta, no \u00FAltimo preg\u00E3o antes do 2\u00BA turno",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/23/dolar-ibovespa.ghtml",
-      "date": "Fri, 23 Oct 2026 12:00:01 -0000"
     }
   ]
 }
