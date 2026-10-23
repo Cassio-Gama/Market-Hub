@@ -57,6 +57,30 @@
   ],
   "news": [
     {
+      "title": "Da \u0027motosserra\u0027 ao custo social: como o modelo econ\u00F4mico de Milei virou tema da elei\u00E7\u00E3o brasileira",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/da-motosserra-ao-custo-social-como-o-modelo-economico-de-milei-virou-tema-da-eleicao-brasileira.ghtml",
+      "date": "Fri, 23 Oct 2026 08:00:00 -0000"
+    },
+    {
+      "title": "\u0027Orelha-de-elefante\u0027: moradora encontra planta misteriosa no quintal, e especialista alerta que esp\u00E9cie \u00E9 t\u00F3xica",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/23/orelha-de-elefante-moradora-encontra-planta-misteriosa-no-quintal-e-especialista-alerta-que-especie-e-toxica.ghtml",
+      "date": "Fri, 23 Oct 2026 07:00:00 -0000"
+    },
+    {
+      "title": "Negociar com patr\u00E3o, mudar jornadas e regular apps: o que Lula e Fl\u00E1vio prop\u00F5em aos trabalhadores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/23/negociar-com-patrao-mudar-jornadas-e-regular-apps-o-que-lula-e-flavio-propoem-aos-trabalhadores.ghtml",
+      "date": "Fri, 23 Oct 2026 06:00:00 -0000"
+    },
+    {
+      "title": "\u0027Pobreza de luxo\u0027: por que tanta gente consegue viajar e consumir, mas n\u00E3o comprar uma casa?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/23/pobreza-de-luxo-por-que-tanta-gente-consegue-viajar-e-consumir-mas-nao-comprar-uma-casa.ghtml",
+      "date": "Fri, 23 Oct 2026 05:00:00 -0000"
+    },
+    {
       "title": "Dia do Servidor P\u00FAblico \u00E9 feriado nacional ou ponto facultativo? Veja quem folga",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/23/dia-do-servidor-publico-veja-quem-folga.ghtml",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/10/22/hospede-de-airbnb-nao-sera-mais-obrigado-a-lavar-louca-e-tirar-lixo-no-check-out.ghtml",
       "date": "Thu, 22 Oct 2026 15:38:48 -0000"
-    },
-    {
-      "title": "Governo Federal decreta emerg\u00EAncia zoosanit\u00E1ria em SC ap\u00F3s foco de doen\u00E7a de Newcastle",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/22/governo-federal-emergencia-sanitaria-em-sc-doenca-de-newcastle.ghtml",
-      "date": "Thu, 22 Oct 2026 15:04:38 -0000"
-    },
-    {
-      "title": "Arrecada\u00E7\u00E3o federal sobe para R$ 239 bilh\u00F5es em setembro, novo recorde para o m\u00EAs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/22/arrecadacao-federal-sobe-para-r-239-bilhoes-em-setembro-novo-recorde-para-o-mes.ghtml",
-      "date": "Thu, 22 Oct 2026 14:00:01 -0000"
-    },
-    {
-      "title": "Falhas no PHP levam tribunais no Brasil e Anatel a suspender sistemas; governo emite alerta",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/falhas-no-php-levam-tribunais-no-brasil-e-anatel-a-suspender-sistemas-governo-emite-alerta.ghtml",
-      "date": "Thu, 22 Oct 2026 13:27:04 -0000"
-    },
-    {
-      "title": "Carrefour anuncia venda de 22 lojas ao P\u00E1tria Investimentos e passa a pagar aluguel para continuar operando; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/negocios/noticia/2026/10/22/carrefour-patria-investimentos.ghtml",
-      "date": "Thu, 22 Oct 2026 12:30:23 -0000"
     }
   ]
 }
