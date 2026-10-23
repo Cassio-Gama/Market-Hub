@@ -2,119 +2,58 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 205419.62,
-      "change": 0.64,
-      "changeStr": "\u002B0.64%"
+      "price": 205082.56,
+      "change": 0.47,
+      "changeStr": "\u002B0.47%"
     },
     {
       "symbol": "PETR4",
-      "price": 58.73,
-      "change": 1.56,
-      "changeStr": "\u002B1.56%"
+      "price": 58.68,
+      "change": 1.47,
+      "changeStr": "\u002B1.47%"
     },
     {
       "symbol": "VALE3",
-      "price": 62.07,
-      "change": 0.94,
-      "changeStr": "\u002B0.94%"
+      "price": 61.9,
+      "change": 0.67,
+      "changeStr": "\u002B0.67%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48.41,
-      "change": 0.85,
-      "changeStr": "\u002B0.85%"
+      "price": 48.3,
+      "change": 0.62,
+      "changeStr": "\u002B0.62%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.41,
-      "change": 0.94,
-      "changeStr": "\u002B0.94%"
+      "price": 20.37,
+      "change": 0.74,
+      "changeStr": "\u002B0.74%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.87,
-      "change": 3.97,
-      "changeStr": "\u002B3.97%"
+      "price": 24.72,
+      "change": 3.34,
+      "changeStr": "\u002B3.34%"
     },
     {
       "symbol": "MGLU3",
-      "price": 12.86,
-      "change": 0.63,
-      "changeStr": "\u002B0.63%"
+      "price": 12.69,
+      "change": -0.7,
+      "changeStr": "-0.70%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.83,
-      "change": -0.41,
-      "changeStr": "-0.41%"
+      "price": 16.68,
+      "change": -1.3,
+      "changeStr": "-1.30%"
     },
     {
       "symbol": "WEGE3",
-      "price": 43.35,
-      "change": -1.48,
-      "changeStr": "-1.48%"
+      "price": 42.73,
+      "change": -2.89,
+      "changeStr": "-2.89%"
     }
   ],
-  "news": [
-    {
-      "title": "Jap\u00E3o vai simular ataques hackers com IA ap\u00F3s falha no PHP tirar sites do ar em v\u00E1rios pa\u00EDses",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/japao-vai-simular-ataques-hackers-com-ia-apos-falha-no-php-tirar-sites-do-ar-em-varios-paises.ghtml",
-      "date": "Fri, 23 Oct 2026 18:45:42 -0000"
-    },
-    {
-      "title": "Ap\u00F3s Fl\u00E1vio citar volta do Perse, governo fala em projeto para perdoar d\u00EDvidas de bares, restaurantes e empresas de eventos do Simples",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-flavio-citar-volta-do-perse-governo-fala-em-projeto-para-perdoar-dividas-de-bares-restaurantes-e-empresas-de-eventos-do-simples.ghtml",
-      "date": "Fri, 23 Oct 2026 18:02:14 -0000"
-    },
-    {
-      "title": "Mercado de canetas emagrecedoras pode triplicar at\u00E9 2035 e chegar a US$ 22 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/23/mercado-de-canetas-emagrecedoras-pode-triplicar-ate-2035-e-chegar-a-us-22-bilhoes.ghtml",
-      "date": "Fri, 23 Oct 2026 16:51:25 -0000"
-    },
-    {
-      "title": "Claude Mythos 5 tentou espalhar v\u00EDrus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/ia-da-anthropic-tentou-espalhar-virus-e-criou-perfis-falsos-para-enganar-desenvolvedores-em-teste.ghtml",
-      "date": "Fri, 23 Oct 2026 16:16:21 -0000"
-    },
-    {
-      "title": "Ministro da Fazenda fala em ajuste das contas p\u00FAblicas sem \u0027dar cavalo de pau\u0027 ou \u0027fazer loucuras\u0027; Fl\u00E1vio tem prometido \u0027tesoura\u00E7o\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/23/ministro-da-fazenda-fala-em-ajuste-das-contas-publicas-sem-dar-cavalo-de-pau-ou-fazer-loucuras-flavio-tem-prometido-tesouraco.ghtml",
-      "date": "Fri, 23 Oct 2026 16:09:12 -0000"
-    },
-    {
-      "title": "Governo vai estudar recarga de carros el\u00E9tricos para expandir a infraestrutura de carregadores",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/23/governo-vai-estudar-recarga-de-carros-eletricos-para-expandir-a-infraestrutura.ghtml",
-      "date": "Fri, 23 Oct 2026 15:25:29 -0000"
-    },
-    {
-      "title": "BYD quer dobrar capacidade de produ\u00E7\u00E3o no Brasil e superar Volkswagen e Chevrolet",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/23/byd-quer-dobrar-capacidade-de-producao-no-brasil-e-superar-volkswagen-e-chevrolet.ghtml",
-      "date": "Fri, 23 Oct 2026 14:52:43 -0000"
-    },
-    {
-      "title": "Frango pode ficar mais barato, principalmente no Sul, ap\u00F3s caso de Newcastle em SC, diz Ita\u00FA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/23/frango-pode-ficar-mais-barato-principalmente-no-sul-apos-caso-de-newcastle-em-sc-diz-itau.ghtml",
-      "date": "Fri, 23 Oct 2026 14:46:35 -0000"
-    },
-    {
-      "title": "Gr\u00E9cia aprova proibi\u00E7\u00E3o de redes sociais para menores de 15 anos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/grecia-aprova-proibicao-de-redes-sociais-para-menores-de-15-anos.ghtml",
-      "date": "Fri, 23 Oct 2026 14:46:17 -0000"
-    },
-    {
-      "title": "Microsoft diz que sua IA superou m\u00E9dicos em testes de diagn\u00F3stico",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/microsoft-diz-que-sua-ia-superou-medicos-em-testes-de-diagnostico.ghtml",
-      "date": "Fri, 23 Oct 2026 14:16:03 -0000"
-    }
-  ]
+  "news": []
 }
