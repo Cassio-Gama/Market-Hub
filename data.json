@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 204120.12,
-      "change": -1.15,
-      "changeStr": "-1.15%"
+      "price": 203463.02,
+      "change": -0.32,
+      "changeStr": "-0.32%"
     },
     {
       "symbol": "PETR4",
-      "price": 57.83,
-      "change": 0.14,
-      "changeStr": "\u002B0.14%"
+      "price": 59.13,
+      "change": 2.25,
+      "changeStr": "\u002B2.25%"
     },
     {
       "symbol": "VALE3",
-      "price": 61.49,
-      "change": -3.97,
-      "changeStr": "-3.97%"
+      "price": 61.82,
+      "change": 0.54,
+      "changeStr": "\u002B0.54%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48,
-      "change": -1.84,
-      "changeStr": "-1.84%"
+      "price": 47.61,
+      "change": -0.81,
+      "changeStr": "-0.81%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.22,
-      "change": -2.08,
-      "changeStr": "-2.08%"
+      "price": 19.76,
+      "change": -2.27,
+      "changeStr": "-2.27%"
     },
     {
       "symbol": "BBAS3",
-      "price": 23.92,
-      "change": -0.75,
-      "changeStr": "-0.75%"
+      "price": 23.89,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "MGLU3",
-      "price": 12.78,
-      "change": -1.99,
-      "changeStr": "-1.99%"
+      "price": 12.35,
+      "change": -3.36,
+      "changeStr": "-3.36%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.9,
-      "change": 1.26,
-      "changeStr": "\u002B1.26%"
+      "price": 16.8,
+      "change": -0.59,
+      "changeStr": "-0.59%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44,
-      "change": -2.68,
-      "changeStr": "-2.68%"
+      "price": 43.28,
+      "change": -1.64,
+      "changeStr": "-1.64%"
     }
   ],
   "news": [
     {
-      "title": "Da \u0027motosserra\u0027 ao custo social: como o modelo econ\u00F4mico de Milei virou tema da elei\u00E7\u00E3o brasileira",
+      "title": "Microsoft diz que sua IA superou m\u00E9dicos em testes de diagn\u00F3stico",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/23/da-motosserra-ao-custo-social-como-o-modelo-economico-de-milei-virou-tema-da-eleicao-brasileira.ghtml",
-      "date": "Fri, 23 Oct 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/microsoft-diz-que-sua-ia-superou-medicos-em-testes-de-diagnostico.ghtml",
+      "date": "Fri, 23 Oct 2026 14:16:03 -0000"
     },
     {
-      "title": "\u0027Orelha-de-elefante\u0027: moradora encontra planta misteriosa no quintal, e especialista alerta que esp\u00E9cie \u00E9 t\u00F3xica",
+      "title": "Google vai pagar a quem usar menos energia el\u00E9trica para aproveitar as sobras em seus data centers",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/23/orelha-de-elefante-moradora-encontra-planta-misteriosa-no-quintal-e-especialista-alerta-que-especie-e-toxica.ghtml",
-      "date": "Fri, 23 Oct 2026 07:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/google-vai-pagar-a-quem-usar-menos-energia-eletrica-para-aproveitar-as-sobras-em-seus-data-centers.ghtml",
+      "date": "Fri, 23 Oct 2026 13:40:00 -0000"
     },
     {
-      "title": "Negociar com patr\u00E3o, mudar jornadas e regular apps: o que Lula e Fl\u00E1vio prop\u00F5em aos trabalhadores",
+      "title": "Conhe\u00E7a duas variedades de mirtilo indicadas para o Cerrado",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/23/negociar-com-patrao-mudar-jornadas-e-regular-apps-o-que-lula-e-flavio-propoem-aos-trabalhadores.ghtml",
-      "date": "Fri, 23 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/23/conheca-duas-variedades-de-mirtilo-indicadas-para-o-cerrado.ghtml",
+      "date": "Fri, 23 Oct 2026 13:25:09 -0000"
     },
     {
-      "title": "\u0027Pobreza de luxo\u0027: por que tanta gente consegue viajar e consumir, mas n\u00E3o comprar uma casa?",
+      "title": "China pede a \u00F3rg\u00E3os governamentais que reduzam perdas de empregos causadas pela IA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/23/pobreza-de-luxo-por-que-tanta-gente-consegue-viajar-e-consumir-mas-nao-comprar-uma-casa.ghtml",
-      "date": "Fri, 23 Oct 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/china-pede-a-orgaos-governamentais-que-reduzam-perdas-de-empregos-causadas-pela-ia.ghtml",
+      "date": "Fri, 23 Oct 2026 13:22:14 -0000"
     },
     {
-      "title": "Dia do Servidor P\u00FAblico \u00E9 feriado nacional ou ponto facultativo? Veja quem folga",
+      "title": "Carteira de pedidos da Embraer chega a US$ 35,7 bilh\u00F5es e bate recorde pelo 7\u00BA trimestre seguido",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/23/dia-do-servidor-publico-veja-quem-folga.ghtml",
-      "date": "Fri, 23 Oct 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/23/carteira-de-pedidos-da-embraer-chega-a-us-357-bilhoes-e-bate-recorde-pelo-7o-trimestre-seguido.ghtml",
+      "date": "Fri, 23 Oct 2026 13:14:11 -0000"
     },
     {
-      "title": "Mega-Sena 3073 acumula e pr\u00EAmio vai a R$ 230 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "title": "Funcion\u00E1rios da Volkswagen na Alemanha amea\u00E7am greve se empresa n\u00E3o cumprir acordos salariais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/22/mega-sena-concurso-3073-confira-os-numeros-sorteados.ghtml",
-      "date": "Fri, 23 Oct 2026 00:04:39 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/10/23/funcionarios-da-volkswagen-ameacam-greve-alemanha.ghtml",
+      "date": "Fri, 23 Oct 2026 12:35:35 -0000"
     },
     {
-      "title": "Trabalhadora gr\u00E1vida impedida de pausar atendimento para vomitar receber\u00E1 R$ 30 mil",
+      "title": "Brecha no PHP que tirou sites do ar foi descoberta h\u00E1 dois anos; respons\u00E1vel cita falta de recursos para corrigi-la",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/22/gravida-funcionaria-sera-indenizada-em-r-30-mil-apos-ser-obrigada-a-vomitar-em-lixeira-no-trabalho.ghtml",
-      "date": "Thu, 22 Oct 2026 22:06:34 -0000"
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/brecha-no-php-que-tirou-sites-do-ar-foi-descoberta-ha-dois-anos-responsavel-cita-falta-de-recursos-para-corrigi-la.ghtml",
+      "date": "Fri, 23 Oct 2026 12:25:57 -0000"
     },
     {
-      "title": "LemFi amplia servi\u00E7os financeiros para brasileiros que vivem no exterior",
+      "title": "Pre\u00E7o dos alimentos: o que ficou mais caro e o que barateou na pr\u00E9via da infla\u00E7\u00E3o de outubro",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/especial-publicitario/lemfi/noticia/2026/10/22/lemfi-amplia-servicos-financeiros-para-brasileiros-que-vivem-no-exterior.ghtml",
-      "date": "Thu, 22 Oct 2026 18:30:11 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/23/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-na-previa-da-inflacao-de-outubro.ghtml",
+      "date": "Fri, 23 Oct 2026 12:02:15 -0000"
     },
     {
-      "title": "MC Cabelinho volta a publicar v\u00EDdeo contra Fl\u00E1vio Bolsonaro ap\u00F3s postagem ser derrubada pela Meta",
+      "title": "IPCA-15 sobe 0,32% em outubro, puxado pela alta dos alimentos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/meta-derruba-video-de-mc-cabelinho-sobre-flavio-bolsonaro-as-vesperas-do-2o-turno.ghtml",
-      "date": "Thu, 22 Oct 2026 16:25:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/ipca-15-previa-da-inflacao-outubro.ghtml",
+      "date": "Fri, 23 Oct 2026 12:00:29 -0000"
     },
     {
-      "title": "\nH\u00F3spede de Airbnb n\u00E3o ser\u00E1 mais obrigado a lavar lou\u00E7a e tirar lixo no check-out",
+      "title": "D\u00F3lar abre em alta, no \u00FAltimo preg\u00E3o antes do 2\u00BA turno",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/10/22/hospede-de-airbnb-nao-sera-mais-obrigado-a-lavar-louca-e-tirar-lixo-no-check-out.ghtml",
-      "date": "Thu, 22 Oct 2026 15:38:48 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/dolar-ibovespa.ghtml",
+      "date": "Fri, 23 Oct 2026 12:00:01 -0000"
     }
   ]
 }
