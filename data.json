@@ -55,5 +55,66 @@
       "changeStr": "-2.89%"
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Quem paga a conta? Economistas analisam promessas de Lula e Fl\u00E1vio diante de Or\u00E7amento apertado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml",
+      "date": "Sat, 24 Oct 2026 09:50:53 -0000"
+    },
+    {
+      "title": "INSS: faltou ao 1\u00BA turno? Votar no segundo pode servir como prova de vida; veja como funciona",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/24/inss-faltou-ao-1o-turno-votar-no-segundo-pode-servir-como-prova-de-vida-veja-como-funciona.ghtml",
+      "date": "Sat, 24 Oct 2026 06:00:00 -0000"
+    },
+    {
+      "title": "As propostas de Lula e Fl\u00E1vio Bolsonaro sobre CLT e rela\u00E7\u00F5es trabalhistas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/24/as-propostas-de-lula-e-flavio-bolsonaro-sobre-clt-e-relacoes-trabalhistas.ghtml",
+      "date": "Sat, 24 Oct 2026 05:00:00 -0000"
+    },
+    {
+      "title": "Mega-Sena pode pagar R$ 230 milh\u00F5es neste s\u00E1bado; g1 transmite ao vivo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/24/mega-sena-pode-pagar-r-230-milhoes-neste-sabado-g1-transmite-ao-vivo.ghtml",
+      "date": "Sat, 24 Oct 2026 03:00:00 -0000"
+    },
+    {
+      "title": "BC passa a exigir autoriza\u00E7\u00E3o pr\u00E9via para oferecer cr\u00E9dito a clientes com risco de endividamento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/bc-exige-autorizacao-previa-para-oferecer-credito-a-clientes-em-situacao-de-vulnerabilidade-financeira.ghtml",
+      "date": "Fri, 23 Oct 2026 22:01:54 -0000"
+    },
+    {
+      "title": "Trump retira tarifa de 50% sobre alguns produtos do Canad\u00E1, incluindo madeira e alimentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/trump-retira-tarifa-de-50percent-sobre-alguns-produtos-do-canada-incluindo-madeira-e-alimentos.ghtml",
+      "date": "Fri, 23 Oct 2026 20:52:48 -0000"
+    },
+    {
+      "title": "Jap\u00E3o vai simular ataques hackers com IA ap\u00F3s falha no PHP tirar sites do ar em v\u00E1rios pa\u00EDses",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/japao-vai-simular-ataques-hackers-com-ia-apos-falha-no-php-tirar-sites-do-ar-em-varios-paises.ghtml",
+      "date": "Fri, 23 Oct 2026 18:45:42 -0000"
+    },
+    {
+      "title": "Ap\u00F3s Fl\u00E1vio citar volta do Perse, governo fala em projeto para perdoar d\u00EDvidas de bares, restaurantes e empresas de eventos do Simples",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-flavio-citar-volta-do-perse-governo-fala-em-projeto-para-perdoar-dividas-de-bares-restaurantes-e-empresas-de-eventos-do-simples.ghtml",
+      "date": "Fri, 23 Oct 2026 18:02:14 -0000"
+    },
+    {
+      "title": "Mercado de canetas emagrecedoras pode triplicar at\u00E9 2035 e chegar a US$ 22 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/mercado-de-canetas-emagrecedoras-pode-triplicar-ate-2035-e-chegar-a-us-22-bilhoes.ghtml",
+      "date": "Fri, 23 Oct 2026 16:51:25 -0000"
+    },
+    {
+      "title": "Claude Mythos 5 tentou espalhar v\u00EDrus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/ia-da-anthropic-tentou-espalhar-virus-e-criou-perfis-falsos-para-enganar-desenvolvedores-em-teste.ghtml",
+      "date": "Fri, 23 Oct 2026 16:16:21 -0000"
+    }
+  ]
 }
