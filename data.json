@@ -55,5 +55,66 @@
       "changeStr": "-2.89%"
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "BC passa a exigir autoriza\u00E7\u00E3o pr\u00E9via para oferecer cr\u00E9dito a clientes com risco de endividamento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/bc-exige-autorizacao-previa-para-oferecer-credito-a-clientes-em-situacao-de-vulnerabilidade-financeira.ghtml",
+      "date": "Fri, 23 Oct 2026 22:01:54 -0000"
+    },
+    {
+      "title": "Trump retira tarifa de 50% sobre alguns produtos do Canad\u00E1, incluindo madeira e alimentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/trump-retira-tarifa-de-50percent-sobre-alguns-produtos-do-canada-incluindo-madeira-e-alimentos.ghtml",
+      "date": "Fri, 23 Oct 2026 20:52:48 -0000"
+    },
+    {
+      "title": "Jap\u00E3o vai simular ataques hackers com IA ap\u00F3s falha no PHP tirar sites do ar em v\u00E1rios pa\u00EDses",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/japao-vai-simular-ataques-hackers-com-ia-apos-falha-no-php-tirar-sites-do-ar-em-varios-paises.ghtml",
+      "date": "Fri, 23 Oct 2026 18:45:42 -0000"
+    },
+    {
+      "title": "Ap\u00F3s Fl\u00E1vio citar volta do Perse, governo fala em projeto para perdoar d\u00EDvidas de bares, restaurantes e empresas de eventos do Simples",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-flavio-citar-volta-do-perse-governo-fala-em-projeto-para-perdoar-dividas-de-bares-restaurantes-e-empresas-de-eventos-do-simples.ghtml",
+      "date": "Fri, 23 Oct 2026 18:02:14 -0000"
+    },
+    {
+      "title": "Mercado de canetas emagrecedoras pode triplicar at\u00E9 2035 e chegar a US$ 22 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/mercado-de-canetas-emagrecedoras-pode-triplicar-ate-2035-e-chegar-a-us-22-bilhoes.ghtml",
+      "date": "Fri, 23 Oct 2026 16:51:25 -0000"
+    },
+    {
+      "title": "Claude Mythos 5 tentou espalhar v\u00EDrus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/ia-da-anthropic-tentou-espalhar-virus-e-criou-perfis-falsos-para-enganar-desenvolvedores-em-teste.ghtml",
+      "date": "Fri, 23 Oct 2026 16:16:21 -0000"
+    },
+    {
+      "title": "Ministro da Fazenda fala em ajuste das contas p\u00FAblicas sem \u0027dar cavalo de pau\u0027 ou \u0027fazer loucuras\u0027; Fl\u00E1vio tem prometido \u0027tesoura\u00E7o\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/ministro-da-fazenda-fala-em-ajuste-das-contas-publicas-sem-dar-cavalo-de-pau-ou-fazer-loucuras-flavio-tem-prometido-tesouraco.ghtml",
+      "date": "Fri, 23 Oct 2026 16:09:12 -0000"
+    },
+    {
+      "title": "Governo vai estudar recarga de carros el\u00E9tricos para expandir a infraestrutura de carregadores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/23/governo-vai-estudar-recarga-de-carros-eletricos-para-expandir-a-infraestrutura.ghtml",
+      "date": "Fri, 23 Oct 2026 15:25:29 -0000"
+    },
+    {
+      "title": "BYD quer dobrar capacidade de produ\u00E7\u00E3o no Brasil e superar Volkswagen e Chevrolet",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/23/byd-quer-dobrar-capacidade-de-producao-no-brasil-e-superar-volkswagen-e-chevrolet.ghtml",
+      "date": "Fri, 23 Oct 2026 14:52:43 -0000"
+    },
+    {
+      "title": "Frango pode ficar mais barato, principalmente no Sul, ap\u00F3s caso de Newcastle em SC, diz Ita\u00FA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/23/frango-pode-ficar-mais-barato-principalmente-no-sul-apos-caso-de-newcastle-em-sc-diz-itau.ghtml",
+      "date": "Fri, 23 Oct 2026 14:46:35 -0000"
+    }
+  ]
 }
