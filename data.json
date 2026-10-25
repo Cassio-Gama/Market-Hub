@@ -57,6 +57,12 @@
   ],
   "news": [
     {
+      "title": "Mega-Sena, concurso 3074: confira os n\u00FAmeros sorteados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/24/mega-sena-concurso-3074-confira-os-numeros-sorteados.ghtml",
+      "date": "Sun, 25 Oct 2026 00:04:27 -0000"
+    },
+    {
       "title": "Quem paga a conta? Economistas analisam promessas de Lula e Fl\u00E1vio diante de Or\u00E7amento apertado",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/23/mercado-de-canetas-emagrecedoras-pode-triplicar-ate-2035-e-chegar-a-us-22-bilhoes.ghtml",
       "date": "Fri, 23 Oct 2026 16:51:25 -0000"
-    },
-    {
-      "title": "Claude Mythos 5 tentou espalhar v\u00EDrus e criou perfis falsos para enganar desenvolvedores em teste, diz Anthropic ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/ia-da-anthropic-tentou-espalhar-virus-e-criou-perfis-falsos-para-enganar-desenvolvedores-em-teste.ghtml",
-      "date": "Fri, 23 Oct 2026 16:16:21 -0000"
     }
   ]
 }
