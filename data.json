@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 174918.19,
-      "change": -14.71,
-      "changeStr": "-14.71%"
+      "price": 176608.23,
+      "change": -13.88,
+      "changeStr": "-13.88%"
     },
     {
       "symbol": "PETR4",
-      "price": 54.06,
-      "change": -7.87,
-      "changeStr": "-7.87%"
+      "price": 53.88,
+      "change": -8.18,
+      "changeStr": "-8.18%"
     },
     {
       "symbol": "VALE3",
-      "price": 64.53,
-      "change": 4.25,
-      "changeStr": "\u002B4.25%"
+      "price": 64.38,
+      "change": 4.01,
+      "changeStr": "\u002B4.01%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.23,
-      "change": -14.64,
-      "changeStr": "-14.64%"
+      "price": 41.7,
+      "change": -13.66,
+      "changeStr": "-13.66%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.5,
-      "change": -23.91,
-      "changeStr": "-23.91%"
+      "price": 15.95,
+      "change": -21.7,
+      "changeStr": "-21.70%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.46,
-      "change": -29.37,
-      "changeStr": "-29.37%"
+      "price": 17.47,
+      "change": -29.33,
+      "changeStr": "-29.33%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.1,
-      "change": -59.81,
-      "changeStr": "-59.81%"
+      "price": 5.3,
+      "change": -58.23,
+      "changeStr": "-58.23%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.3,
-      "change": -8.27,
-      "changeStr": "-8.27%"
+      "price": 15.37,
+      "change": -7.85,
+      "changeStr": "-7.85%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.67,
-      "change": 4.54,
-      "changeStr": "\u002B4.54%"
+      "price": 44.53,
+      "change": 4.21,
+      "changeStr": "\u002B4.21%"
     }
   ],
   "news": [
+    {
+      "title": "Globoplay inclui sportv no plano de entrada e muda diferen\u00E7as entre assinaturas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/26/globoplay-inclui-sportv-no-plano-de-entrada-e-muda-diferencas-entre-assinaturas.ghtml",
+      "date": "Mon, 26 Oct 2026 21:00:43 -0000"
+    },
+    {
+      "title": "Circuit breaker \u00E9 acionado pela primeira vez desde a pandemia de Covid-19; relembre todas as vezes em que a Bolsa parou",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/26/circuit-breaker-e-acionado-pela-primeira-vez-desde-a-pandemia-de-covid-19-relembre-todas-as-vezes-em-que-a-bolsa-parou.ghtml",
+      "date": "Mon, 26 Oct 2026 20:54:28 -0000"
+    },
+    {
+      "title": "Ibovespa desaba ap\u00F3s reelei\u00E7\u00E3o de Lula e a\u00E7\u00F5es recuam at\u00E9 58%; veja as maiores quedas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/26/ibovespa-desaba-reeleicao-lula-acoes-recuam.ghtml",
+      "date": "Mon, 26 Oct 2026 20:05:56 -0000"
+    },
     {
       "title": "Em dia de nervosismo no mercado, Tesouro Nacional recompra R$ 7,1 bilh\u00F5es em t\u00EDtulos p\u00FAblicos",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/10/26/audi-trump.ghtml",
       "date": "Mon, 26 Oct 2026 12:30:44 -0000"
-    },
-    {
-      "title": "Modelo de IA da Anthropic acessou dados de eleitores dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/26/modelo-de-ia-da-anthropic-acessou-dados-de-eleitores-dos-eua.ghtml",
-      "date": "Mon, 26 Oct 2026 12:08:28 -0000"
-    },
-    {
-      "title": "Ibovespa cai mais de 15% ap\u00F3s \u0027circuit breaker\u0027; d\u00F3lar sobe e bate R$ 5,60",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/26/dolar-ibovespa.ghtml",
-      "date": "Mon, 26 Oct 2026 12:00:14 -0000"
-    },
-    {
-      "title": "Mercado financeiro baixa estimativa de infla\u00E7\u00E3o e de alta do PIB neste ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/26/mercado-financeiro-baixa-estimativa-de-inflacao-e-de-alta-do-pib-neste-ano.ghtml",
-      "date": "Mon, 26 Oct 2026 11:34:42 -0000"
     }
   ]
 }
