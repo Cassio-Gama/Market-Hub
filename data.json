@@ -2,60 +2,96 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 205082.56,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
+      "price": 174918.19,
+      "change": -14.71,
+      "changeStr": "-14.71%"
     },
     {
       "symbol": "PETR4",
-      "price": 58.68,
-      "change": 1.47,
-      "changeStr": "\u002B1.47%"
+      "price": 54.06,
+      "change": -7.87,
+      "changeStr": "-7.87%"
     },
     {
       "symbol": "VALE3",
-      "price": 61.9,
-      "change": 0.67,
-      "changeStr": "\u002B0.67%"
+      "price": 64.53,
+      "change": 4.25,
+      "changeStr": "\u002B4.25%"
     },
     {
       "symbol": "ITUB4",
-      "price": 48.3,
-      "change": 0.62,
-      "changeStr": "\u002B0.62%"
+      "price": 41.23,
+      "change": -14.64,
+      "changeStr": "-14.64%"
     },
     {
       "symbol": "BBDC4",
-      "price": 20.37,
-      "change": 0.74,
-      "changeStr": "\u002B0.74%"
+      "price": 15.5,
+      "change": -23.91,
+      "changeStr": "-23.91%"
     },
     {
       "symbol": "BBAS3",
-      "price": 24.72,
-      "change": 3.34,
-      "changeStr": "\u002B3.34%"
+      "price": 17.46,
+      "change": -29.37,
+      "changeStr": "-29.37%"
     },
     {
       "symbol": "MGLU3",
-      "price": 12.69,
-      "change": -0.7,
-      "changeStr": "-0.70%"
+      "price": 5.1,
+      "change": -59.81,
+      "changeStr": "-59.81%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.68,
-      "change": -1.3,
-      "changeStr": "-1.30%"
+      "price": 15.3,
+      "change": -8.27,
+      "changeStr": "-8.27%"
     },
     {
       "symbol": "WEGE3",
-      "price": 42.73,
-      "change": -2.89,
-      "changeStr": "-2.89%"
+      "price": 44.67,
+      "change": 4.54,
+      "changeStr": "\u002B4.54%"
     }
   ],
   "news": [
+    {
+      "title": "Em dia de nervosismo no mercado, Tesouro Nacional recompra R$ 7,1 bilh\u00F5es em t\u00EDtulos p\u00FAblicos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/26/em-dia-de-nervosismo-no-mercado-tesouro-nacional-recompra-r-71-bilhoes-em-titulos-publicos.ghtml",
+      "date": "Mon, 26 Oct 2026 15:53:39 -0000"
+    },
+    {
+      "title": "Aplicativos de bancos e corretoras t\u00EAm instabilidade em meio \u00E0 turbul\u00EAncia nos mercados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/26/corretoras-instabilidade.ghtml",
+      "date": "Mon, 26 Oct 2026 14:06:04 -0000"
+    },
+    {
+      "title": "Anthropic, dona do Claude, divulga pedido de IPO nos EUA e revela preju\u00EDzo bilion\u00E1rio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/26/anthropic-ipo-eua.ghtml",
+      "date": "Mon, 26 Oct 2026 13:43:40 -0000"
+    },
+    {
+      "title": "O que \u00E9 circuit breaker? Entenda o mecanismo que suspende negocia\u00E7\u00F5es quando a bolsa despenca",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/26/o-que-e-circuit-breaker-entenda-o-mecanismo-que-suspende-negociacoes-quando-a-bolsa-despenca.ghtml",
+      "date": "Mon, 26 Oct 2026 13:12:39 -0000"
+    },
+    {
+      "title": "Por que as elei\u00E7\u00F5es mexem tanto com d\u00F3lar e bolsa?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/26/por-que-as-eleicoes-mexem-tanto-com-dolar-e-bolsa.ghtml",
+      "date": "Mon, 26 Oct 2026 13:05:31 -0000"
+    },
+    {
+      "title": "Oferta de cr\u00E9dito no PIX depender\u00E1 de autoriza\u00E7\u00E3o pr\u00E9via do cliente, define Banco Central",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/pix/noticia/2026/10/26/oferta-de-credito-no-pix-dependera-de-autorizacao-previa-do-cliente-defina-banco-central.ghtml",
+      "date": "Mon, 26 Oct 2026 12:58:41 -0000"
+    },
     {
       "title": "Presidente da Audi \u00E9 acusado de violar regras da empresa ao aparecer com Trump em com\u00EDcio eleitoral",
       "source": "G1 Economia",
@@ -69,7 +105,7 @@
       "date": "Mon, 26 Oct 2026 12:08:28 -0000"
     },
     {
-      "title": "D\u00F3lar trava em R$ 5,42 ap\u00F3s atingir limite de negocia\u00E7\u00E3o; a\u00E7\u00F5es brasileiras caem no exterior",
+      "title": "Ibovespa cai mais de 15% ap\u00F3s \u0027circuit breaker\u0027; d\u00F3lar sobe e bate R$ 5,60",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/26/dolar-ibovespa.ghtml",
       "date": "Mon, 26 Oct 2026 12:00:14 -0000"
@@ -79,42 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/26/mercado-financeiro-baixa-estimativa-de-inflacao-e-de-alta-do-pib-neste-ano.ghtml",
       "date": "Mon, 26 Oct 2026 11:34:42 -0000"
-    },
-    {
-      "title": "Fundo de a\u00E7\u00F5es brasileiras despenca 26% em Nova York ap\u00F3s reelei\u00E7\u00E3o de Lula",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/26/mercado-financeiro-acoes-brasileiras-bolsa-eua.ghtml",
-      "date": "Mon, 26 Oct 2026 10:59:23 -0000"
-    },
-    {
-      "title": "O que Lula promete para o seu bolso? Veja as propostas para trabalhadores, aposentados e empres\u00E1rios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/26/lula-eleito-propostas-economia.ghtml",
-      "date": "Mon, 26 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "INSS inicia pagamento de benef\u00EDcios de outubro; veja calend\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/26/inss-inicia-pagamento-de-beneficios-de-outubro-veja-calendario.ghtml",
-      "date": "Mon, 26 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "PIB cresceu, desemprego caiu, mas juros e d\u00EDvidas pesaram: veja o balan\u00E7o da economia de Lula 3",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/26/pib-cresceu-desemprego-caiu-mas-juros-e-dividas-pesaram-veja-o-balanco-da-economia-de-lula-3.ghtml",
-      "date": "Mon, 26 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Ap\u00F3s reelei\u00E7\u00E3o de Lula, fundo de a\u00E7\u00F5es brasileiras despenca 19% nos EUA e antecipa rea\u00E7\u00E3o do mercado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/25/ewz-desaba-19percent-apos-reeleicao-de-lula.ghtml",
-      "date": "Mon, 26 Oct 2026 00:43:01 -0000"
-    },
-    {
-      "title": "Elei\u00E7\u00F5es 2026: Anac diz n\u00E3o ter identificado anormalidades na programa\u00E7\u00E3o de voos comerciais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/25/eleicoes-2026-anac-diz-nao-ter-identificado-anormalidades-na-programacao-de-voos-comerciais.ghtml",
-      "date": "Sun, 25 Oct 2026 20:58:14 -0000"
     }
   ]
 }
