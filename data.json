@@ -57,6 +57,36 @@
   ],
   "news": [
     {
+      "title": "Presidente da Audi \u00E9 acusado de violar regras da empresa ao aparecer com Trump em com\u00EDcio eleitoral",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/26/audi-trump.ghtml",
+      "date": "Mon, 26 Oct 2026 12:30:44 -0000"
+    },
+    {
+      "title": "Modelo de IA da Anthropic acessou dados de eleitores dos EUA",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/26/modelo-de-ia-da-anthropic-acessou-dados-de-eleitores-dos-eua.ghtml",
+      "date": "Mon, 26 Oct 2026 12:08:28 -0000"
+    },
+    {
+      "title": "D\u00F3lar trava em R$ 5,42 ap\u00F3s atingir limite de negocia\u00E7\u00E3o; a\u00E7\u00F5es brasileiras caem no exterior",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/26/dolar-ibovespa.ghtml",
+      "date": "Mon, 26 Oct 2026 12:00:14 -0000"
+    },
+    {
+      "title": "Mercado financeiro baixa estimativa de infla\u00E7\u00E3o e de alta do PIB neste ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/26/mercado-financeiro-baixa-estimativa-de-inflacao-e-de-alta-do-pib-neste-ano.ghtml",
+      "date": "Mon, 26 Oct 2026 11:34:42 -0000"
+    },
+    {
+      "title": "Fundo de a\u00E7\u00F5es brasileiras despenca 26% em Nova York ap\u00F3s reelei\u00E7\u00E3o de Lula",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/26/mercado-financeiro-acoes-brasileiras-bolsa-eua.ghtml",
+      "date": "Mon, 26 Oct 2026 10:59:23 -0000"
+    },
+    {
       "title": "O que Lula promete para o seu bolso? Veja as propostas para trabalhadores, aposentados e empres\u00E1rios",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/26/lula-eleito-propostas-economia.ghtml",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/25/eleicoes-2026-anac-diz-nao-ter-identificado-anormalidades-na-programacao-de-voos-comerciais.ghtml",
       "date": "Sun, 25 Oct 2026 20:58:14 -0000"
-    },
-    {
-      "title": "Mega-Sena acumulada: pr\u00EAmio estimado de R$ 300 milh\u00F5es pode ser o 2\u00BA maior da hist\u00F3ria dos sorteios regulares",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/25/mega-sena-acumulada-premio-estimado-de-r-300-milhoes-maiores-historia-sorteios-regulares.ghtml",
-      "date": "Sun, 25 Oct 2026 12:34:15 -0000"
-    },
-    {
-      "title": "Mega-sena n\u00E3o tem ganhadores e pr\u00F3ximo concurso pode pagar at\u00E9 R$ 300 milh\u00F5es; confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/24/mega-sena-concurso-3074-confira-os-numeros-sorteados.ghtml",
-      "date": "Sun, 25 Oct 2026 00:04:27 -0000"
-    },
-    {
-      "title": "Quem paga a conta? Economistas analisam promessas de Lula e Fl\u00E1vio diante de Or\u00E7amento apertado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml",
-      "date": "Sat, 24 Oct 2026 09:50:53 -0000"
-    },
-    {
-      "title": "INSS: faltou ao 1\u00BA turno? Votar no segundo pode servir como prova de vida; veja como funciona",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/24/inss-faltou-ao-1o-turno-votar-no-segundo-pode-servir-como-prova-de-vida-veja-como-funciona.ghtml",
-      "date": "Sat, 24 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "As propostas de Lula e Fl\u00E1vio Bolsonaro sobre CLT e rela\u00E7\u00F5es trabalhistas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/24/as-propostas-de-lula-e-flavio-bolsonaro-sobre-clt-e-relacoes-trabalhistas.ghtml",
-      "date": "Sat, 24 Oct 2026 05:00:00 -0000"
     }
   ]
 }
