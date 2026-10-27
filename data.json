@@ -2,119 +2,58 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176752.11,
-      "change": 0.08,
-      "changeStr": "\u002B0.08%"
+      "price": 175710.05,
+      "change": -0.51,
+      "changeStr": "-0.51%"
     },
     {
       "symbol": "PETR4",
-      "price": 53.53,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 52.79,
+      "change": -2.02,
+      "changeStr": "-2.02%"
     },
     {
       "symbol": "VALE3",
-      "price": 63.12,
-      "change": -1.96,
-      "changeStr": "-1.96%"
+      "price": 63,
+      "change": -2.14,
+      "changeStr": "-2.14%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.61,
-      "change": -0.22,
-      "changeStr": "-0.22%"
+      "price": 41.19,
+      "change": -1.22,
+      "changeStr": "-1.22%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.87,
-      "change": -0.5,
-      "changeStr": "-0.50%"
+      "price": 15.73,
+      "change": -1.38,
+      "changeStr": "-1.38%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.8,
-      "change": 1.89,
-      "changeStr": "\u002B1.89%"
+      "price": 17.38,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.87,
-      "change": 10.75,
-      "changeStr": "\u002B10.75%"
+      "price": 5.75,
+      "change": 8.49,
+      "changeStr": "\u002B8.49%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.48,
-      "change": 0.72,
-      "changeStr": "\u002B0.72%"
+      "price": 15.57,
+      "change": 1.3,
+      "changeStr": "\u002B1.30%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.02,
-      "change": 3.35,
-      "changeStr": "\u002B3.35%"
+      "price": 46.16,
+      "change": 3.66,
+      "changeStr": "\u002B3.66%"
     }
   ],
-  "news": [
-    {
-      "title": "El Ni\u00F1o pode reduzir safra de soja do Brasil em 10%, projeta Serasa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/27/el-nino-pode-reduzir-safra-de-soja-do-brasil-em-10percent-projeta-serasa.ghtml",
-      "date": "Tue, 27 Oct 2026 15:57:25 -0000"
-    },
-    {
-      "title": "Esportivo usado por Tony Stark no filme \u0027Os Vingadores\u0027 vai a leil\u00E3o; lances j\u00E1 passam de R$ 520 mil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/27/nsx-vingadores-leilao.ghtml",
-      "date": "Tue, 27 Oct 2026 14:18:19 -0000"
-    },
-    {
-      "title": "\u0027Imposto do pecado\u0027: governo deve enviar regras ao Congresso nesta semana, diz Durigan",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-diz-que-deve-enviar-nesta-semana-projeto-do-imposto-do-pecado.ghtml",
-      "date": "Tue, 27 Oct 2026 13:29:40 -0000"
-    },
-    {
-      "title": "Durigan anuncia projeto para cumprir centro da meta fiscal e pede \u0027racionalidade\u0027 do mercado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-anuncia-projeto-para-mirar-centro-da-meta-fiscal-e-diz-que-espera-racionalidade-do-mercado.ghtml",
-      "date": "Tue, 27 Oct 2026 13:03:39 -0000"
-    },
-    {
-      "title": "Bilion\u00E1rios brasileiros perdem R$ 75 bilh\u00F5es em um dia ap\u00F3s tombo da bolsa; veja os mais afetados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/27/bilionarios-brasileiros-perdem-us-14-bilhoes-apos-tombo-do-ibovespa.ghtml",
-      "date": "Tue, 27 Oct 2026 12:12:31 -0000"
-    },
-    {
-      "title": "Ibovespa passa a cair, com p\u00F3s-elei\u00E7\u00F5es e \u00E0 espera do Fed; d\u00F3lar recua a R$ 5,30",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/27/dolar-ibovespa.ghtml",
-      "date": "Tue, 27 Oct 2026 12:00:32 -0000"
-    },
-    {
-      "title": "Meme \u0027Mbapp\u00E9 ditador\u0027 faz empresas chinesas romperem contratos com o jogador franc\u00EAs; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/27/mbappe-desculpas-meme-ditator.ghtml",
-      "date": "Tue, 27 Oct 2026 11:50:33 -0000"
-    },
-    {
-      "title": "Principais preocupa\u00E7\u00F5es dos bancos s\u00E3o com as contas p\u00FAblicas e inadimpl\u00EAncia, diz Banco Central ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/27/principais-preocupacoes-dos-bancos-sao-com-as-contas-publicas-e-inadimplencia-diz-relatorio-do-banco-central.ghtml",
-      "date": "Tue, 27 Oct 2026 11:41:28 -0000"
-    },
-    {
-      "title": "Governo prorroga subven\u00E7\u00E3o ao diesel por mais 30 dias, em meio \u00E0 alta do petr\u00F3leo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/27/governo-prorroga-subvencao-ao-diesel-por-mais-30-dias.ghtml",
-      "date": "Tue, 27 Oct 2026 11:13:04 -0000"
-    },
-    {
-      "title": "Den\u00FAncias de ass\u00E9dio eleitoral no trabalho mais que dobram em outubro; veja como denunciar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/27/denuncias-de-assedio-eleitoral-no-trabalho-outubro.ghtml",
-      "date": "Tue, 27 Oct 2026 06:30:00 -0000"
-    }
-  ]
+  "news": []
 }
