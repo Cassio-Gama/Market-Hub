@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176608.23,
-      "change": -13.88,
-      "changeStr": "-13.88%"
+      "price": 176752.11,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
     },
     {
       "symbol": "PETR4",
-      "price": 53.88,
-      "change": -8.18,
-      "changeStr": "-8.18%"
+      "price": 53.53,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     },
     {
       "symbol": "VALE3",
-      "price": 64.38,
-      "change": 4.01,
-      "changeStr": "\u002B4.01%"
+      "price": 63.12,
+      "change": -1.96,
+      "changeStr": "-1.96%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.7,
-      "change": -13.66,
-      "changeStr": "-13.66%"
+      "price": 41.61,
+      "change": -0.22,
+      "changeStr": "-0.22%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.95,
-      "change": -21.7,
-      "changeStr": "-21.70%"
+      "price": 15.87,
+      "change": -0.5,
+      "changeStr": "-0.50%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.47,
-      "change": -29.33,
-      "changeStr": "-29.33%"
+      "price": 17.8,
+      "change": 1.89,
+      "changeStr": "\u002B1.89%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.3,
-      "change": -58.23,
-      "changeStr": "-58.23%"
+      "price": 5.87,
+      "change": 10.75,
+      "changeStr": "\u002B10.75%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.37,
-      "change": -7.85,
-      "changeStr": "-7.85%"
+      "price": 15.48,
+      "change": 0.72,
+      "changeStr": "\u002B0.72%"
     },
     {
       "symbol": "WEGE3",
-      "price": 44.53,
-      "change": 4.21,
-      "changeStr": "\u002B4.21%"
+      "price": 46.02,
+      "change": 3.35,
+      "changeStr": "\u002B3.35%"
     }
   ],
   "news": [
+    {
+      "title": "El Ni\u00F1o pode reduzir safra de soja do Brasil em 10%, projeta Serasa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/27/el-nino-pode-reduzir-safra-de-soja-do-brasil-em-10percent-projeta-serasa.ghtml",
+      "date": "Tue, 27 Oct 2026 15:57:25 -0000"
+    },
+    {
+      "title": "Esportivo usado por Tony Stark no filme \u0027Os Vingadores\u0027 vai a leil\u00E3o; lances j\u00E1 passam de R$ 520 mil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/27/nsx-vingadores-leilao.ghtml",
+      "date": "Tue, 27 Oct 2026 14:18:19 -0000"
+    },
+    {
+      "title": "\u0027Imposto do pecado\u0027: governo deve enviar regras ao Congresso nesta semana, diz Durigan",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-diz-que-deve-enviar-nesta-semana-projeto-do-imposto-do-pecado.ghtml",
+      "date": "Tue, 27 Oct 2026 13:29:40 -0000"
+    },
+    {
+      "title": "Durigan anuncia projeto para cumprir centro da meta fiscal e pede \u0027racionalidade\u0027 do mercado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-anuncia-projeto-para-mirar-centro-da-meta-fiscal-e-diz-que-espera-racionalidade-do-mercado.ghtml",
+      "date": "Tue, 27 Oct 2026 13:03:39 -0000"
+    },
+    {
+      "title": "Bilion\u00E1rios brasileiros perdem R$ 75 bilh\u00F5es em um dia ap\u00F3s tombo da bolsa; veja os mais afetados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/27/bilionarios-brasileiros-perdem-us-14-bilhoes-apos-tombo-do-ibovespa.ghtml",
+      "date": "Tue, 27 Oct 2026 12:12:31 -0000"
+    },
+    {
+      "title": "Ibovespa passa a cair, com p\u00F3s-elei\u00E7\u00F5es e \u00E0 espera do Fed; d\u00F3lar recua a R$ 5,30",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/27/dolar-ibovespa.ghtml",
+      "date": "Tue, 27 Oct 2026 12:00:32 -0000"
+    },
+    {
+      "title": "Meme \u0027Mbapp\u00E9 ditador\u0027 faz empresas chinesas romperem contratos com o jogador franc\u00EAs; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/27/mbappe-desculpas-meme-ditator.ghtml",
+      "date": "Tue, 27 Oct 2026 11:50:33 -0000"
+    },
+    {
+      "title": "Principais preocupa\u00E7\u00F5es dos bancos s\u00E3o com as contas p\u00FAblicas e inadimpl\u00EAncia, diz Banco Central ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/27/principais-preocupacoes-dos-bancos-sao-com-as-contas-publicas-e-inadimplencia-diz-relatorio-do-banco-central.ghtml",
+      "date": "Tue, 27 Oct 2026 11:41:28 -0000"
+    },
+    {
+      "title": "Governo prorroga subven\u00E7\u00E3o ao diesel por mais 30 dias, em meio \u00E0 alta do petr\u00F3leo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/27/governo-prorroga-subvencao-ao-diesel-por-mais-30-dias.ghtml",
+      "date": "Tue, 27 Oct 2026 11:13:04 -0000"
+    },
     {
       "title": "Den\u00FAncias de ass\u00E9dio eleitoral no trabalho mais que dobram em outubro; veja como denunciar",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/27/denuncias-de-assedio-eleitoral-no-trabalho-outubro.ghtml",
       "date": "Tue, 27 Oct 2026 06:30:00 -0000"
-    },
-    {
-      "title": "Empresas recorrem \u00E0 religi\u00E3o para ensinar \u00E9tica \u00E0 IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/27/empresas-recorrem-a-religiao-para-ensinar-etica-a-ia.ghtml",
-      "date": "Tue, 27 Oct 2026 06:30:00 -0000"
-    },
-    {
-      "title": "Taxa\u00E7\u00E3o de bilion\u00E1rios: eleitores da Calif\u00F3rnia podem aprovar primeiro imposto do tipo no mundo?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/27/taxacao-de-bilionarios-eleitores-da-california-podem-aprovar-primeiro-imposto-do-tipo-no-mundo.ghtml",
-      "date": "Tue, 27 Oct 2026 05:00:01 -0000"
-    },
-    {
-      "title": "Dia do Servidor P\u00FAblico \u00E9 feriado ou ponto facultativo? Veja onde haver\u00E1 folga",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/27/dia-do-servidor-publico-veja-onde-havera-folga.ghtml",
-      "date": "Tue, 27 Oct 2026 03:00:02 -0000"
-    },
-    {
-      "title": "\u00C9 hora de comprar a\u00E7\u00F5es? Veja o que avaliar ap\u00F3s o tombo do Ibovespa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/27/comprar-acoes-veja-o-que-avaliar-apos-tombo-do-ibovespa.ghtml",
-      "date": "Tue, 27 Oct 2026 03:00:02 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 305 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/27/mega-sena-pode-pagar-r-305-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Tue, 27 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Mega-Sena 3075 acumula e pr\u00EAmio vai a R$ 305 milh\u00F5es; confira os n\u00FAmeros sorteados",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/26/mega-sena-concurso-3075-confira-os-numeros-sorteados.ghtml",
-      "date": "Tue, 27 Oct 2026 00:05:46 -0000"
-    },
-    {
-      "title": "Globoplay inclui sportv no plano de entrada e muda diferen\u00E7as entre assinaturas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/26/globoplay-inclui-sportv-no-plano-de-entrada-e-muda-diferencas-entre-assinaturas.ghtml",
-      "date": "Mon, 26 Oct 2026 21:00:43 -0000"
-    },
-    {
-      "title": "Circuit breaker \u00E9 acionado pela primeira vez desde a pandemia de Covid-19; relembre todas as vezes em que a Bolsa parou",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/26/circuit-breaker-e-acionado-pela-primeira-vez-desde-a-pandemia-de-covid-19-relembre-todas-as-vezes-em-que-a-bolsa-parou.ghtml",
-      "date": "Mon, 26 Oct 2026 20:54:28 -0000"
-    },
-    {
-      "title": "Ibovespa desaba ap\u00F3s reelei\u00E7\u00E3o de Lula e a\u00E7\u00F5es recuam at\u00E9 58%; veja as maiores quedas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/26/ibovespa-desaba-reeleicao-lula-acoes-recuam.ghtml",
-      "date": "Mon, 26 Oct 2026 20:05:56 -0000"
     }
   ]
 }
