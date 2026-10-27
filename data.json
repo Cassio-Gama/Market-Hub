@@ -57,6 +57,30 @@
   ],
   "news": [
     {
+      "title": "Dia do Servidor P\u00FAblico \u00E9 feriado ou ponto facultativo? Veja onde haver\u00E1 folga",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/27/dia-do-servidor-publico-veja-onde-havera-folga.ghtml",
+      "date": "Tue, 27 Oct 2026 03:00:02 -0000"
+    },
+    {
+      "title": "\u00C9 hora de comprar a\u00E7\u00F5es? Veja o que avaliar ap\u00F3s o tombo do Ibovespa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/27/comprar-acoes-veja-o-que-avaliar-apos-tombo-do-ibovespa.ghtml",
+      "date": "Tue, 27 Oct 2026 03:00:02 -0000"
+    },
+    {
+      "title": "Mega-Sena pode pagar R$ 305 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/27/mega-sena-pode-pagar-r-305-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+      "date": "Tue, 27 Oct 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Mega-Sena 3075 acumula e pr\u00EAmio vai a R$ 305 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/26/mega-sena-concurso-3075-confira-os-numeros-sorteados.ghtml",
+      "date": "Tue, 27 Oct 2026 00:05:46 -0000"
+    },
+    {
       "title": "Globoplay inclui sportv no plano de entrada e muda diferen\u00E7as entre assinaturas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/10/26/globoplay-inclui-sportv-no-plano-de-entrada-e-muda-diferencas-entre-assinaturas.ghtml",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/10/26/anthropic-ipo-eua.ghtml",
       "date": "Mon, 26 Oct 2026 13:43:40 -0000"
-    },
-    {
-      "title": "O que \u00E9 circuit breaker? Entenda o mecanismo que suspende negocia\u00E7\u00F5es quando a bolsa despenca",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/26/o-que-e-circuit-breaker-entenda-o-mecanismo-que-suspende-negociacoes-quando-a-bolsa-despenca.ghtml",
-      "date": "Mon, 26 Oct 2026 13:12:39 -0000"
-    },
-    {
-      "title": "Por que as elei\u00E7\u00F5es mexem tanto com d\u00F3lar e bolsa?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/26/por-que-as-eleicoes-mexem-tanto-com-dolar-e-bolsa.ghtml",
-      "date": "Mon, 26 Oct 2026 13:05:31 -0000"
-    },
-    {
-      "title": "Oferta de cr\u00E9dito no PIX depender\u00E1 de autoriza\u00E7\u00E3o pr\u00E9via do cliente, define Banco Central",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/pix/noticia/2026/10/26/oferta-de-credito-no-pix-dependera-de-autorizacao-previa-do-cliente-defina-banco-central.ghtml",
-      "date": "Mon, 26 Oct 2026 12:58:41 -0000"
-    },
-    {
-      "title": "Presidente da Audi \u00E9 acusado de violar regras da empresa ao aparecer com Trump em com\u00EDcio eleitoral",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/26/audi-trump.ghtml",
-      "date": "Mon, 26 Oct 2026 12:30:44 -0000"
     }
   ]
 }
