@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 175710.05,
-      "change": -0.51,
-      "changeStr": "-0.51%"
+      "price": 170856.77,
+      "change": -2.76,
+      "changeStr": "-2.76%"
     },
     {
       "symbol": "PETR4",
-      "price": 52.79,
-      "change": -2.02,
-      "changeStr": "-2.02%"
+      "price": 52.4,
+      "change": -0.74,
+      "changeStr": "-0.74%"
     },
     {
       "symbol": "VALE3",
-      "price": 63,
-      "change": -2.14,
-      "changeStr": "-2.14%"
+      "price": 61.54,
+      "change": -2.32,
+      "changeStr": "-2.32%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.19,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 39.86,
+      "change": -3.23,
+      "changeStr": "-3.23%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.73,
-      "change": -1.38,
-      "changeStr": "-1.38%"
+      "price": 14.9,
+      "change": -5.28,
+      "changeStr": "-5.28%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.38,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 16.94,
+      "change": -2.53,
+      "changeStr": "-2.53%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.75,
-      "change": 8.49,
-      "changeStr": "\u002B8.49%"
+      "price": 5.08,
+      "change": -11.65,
+      "changeStr": "-11.65%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.57,
-      "change": 1.3,
-      "changeStr": "\u002B1.30%"
+      "price": 15.22,
+      "change": -2.25,
+      "changeStr": "-2.25%"
     },
     {
       "symbol": "WEGE3",
-      "price": 46.16,
-      "change": 3.66,
-      "changeStr": "\u002B3.66%"
+      "price": 46.92,
+      "change": 1.65,
+      "changeStr": "\u002B1.65%"
     }
   ],
   "news": [
     {
-      "title": "LISTA: veja os 6 carros de at\u00E9 R$ 100 mil que consomem menos combust\u00EDvel",
+      "title": "SC confirma 3\u00B0 foco da doen\u00E7a de Newcastle em aves e \u00E1rea de monitoramento \u00E9 ampliada",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/28/lista-veja-carros-economicos.ghtml",
-      "date": "Wed, 28 Oct 2026 06:00:01 -0000"
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/28/sc-confirma-terceiro-foco-da-doenca-de-newcastle-em-aves.ghtml",
+      "date": "Wed, 28 Oct 2026 15:04:09 -0000"
     },
     {
-      "title": "Pol\u00EDticos e influenciadores incentivam demiss\u00E3o e boicote a quem votou em Lula; MPT aponta viola\u00E7\u00F5es",
+      "title": "Dropbox anuncia demiss\u00F5es em todo o mundo; diretor de tecnologia tamb\u00E9m deixar\u00E1 a empresa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/28/politicos-e-influenciadores-incentivam-demissao-e-boicote-a-quem-votou-em-lula-mpt-aponta-violacoes.ghtml",
-      "date": "Wed, 28 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/28/dropbox-anuncia-demissoes-em-todo-o-mundo-diretor-de-tecnologia-tambem-deixara-a-empresa.ghtml",
+      "date": "Wed, 28 Oct 2026 14:55:38 -0000"
     },
     {
-      "title": "Anthropic se prepara para um dos maiores IPOs da hist\u00F3ria; veja ranking",
+      "title": "Endividamento de risco cresce 75% em 5 anos e atinge 20,3 milh\u00F5es de brasileiros, diz BC",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/28/anthropic-maiores-ipos.ghtml",
-      "date": "Wed, 28 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/28/endividamento-cresce-bc.ghtml",
+      "date": "Wed, 28 Oct 2026 14:42:16 -0000"
     },
     {
-      "title": "Terras raras: o que o Brasil tem a ganhar ou perder na disputa bilion\u00E1ria entre China e EUA?",
+      "title": "TCU prop\u00F5e al\u00EDquota de 11,3% para o futuro imposto sobre consumo do governo federal em 2027; Senado tem que aprovar valor",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/28/terras-raras-o-que-o-brasil-tem-a-ganhar-ou-perder-na-disputa-bilionaria-entre-china-e-eua.ghtml",
-      "date": "Wed, 28 Oct 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/28/tcu-propoe-aliquota-de-113percent-para-o-futuro-imposto-sobre-consumo-do-governo-federal-em-2027-senado-tem-que-aprovar-valor.ghtml",
+      "date": "Wed, 28 Oct 2026 14:39:45 -0000"
     },
     {
-      "title": "Novas regras do vale\u2011refei\u00E7\u00E3o e alimenta\u00E7\u00E3o: o que muda nos cart\u00F5es a partir de novembro",
+      "title": "Projeto de lei quer deixar que candidato leve instrutor de sua escolha para exame da CNH",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/28/novas-regras-do-valerefeicao-e-alimentacao-o-que-muda-nos-cartoes-a-partir-de-novembro.ghtml",
-      "date": "Wed, 28 Oct 2026 04:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/10/28/projeto-de-lei-quer-deixar-que-candidato-leve-instrutor-de-sua-escolha-para-exame-da-cnh.ghtml",
+      "date": "Wed, 28 Oct 2026 14:08:58 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 320 milh\u00F5es nesta quarta-feira; g1 transmite ao vivo",
+      "title": "Snapchat \u00E9 julgado nos EUA pela primeira vez em caso de depend\u00EAncia em redes sociais",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/28/mega-sena-pode-pagar-r-320-milhoes-nesta-quarta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Wed, 28 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/28/snapchat-e-julgado-nos-eua-pela-primeira-vez-em-caso-de-dependencia-em-redes-sociais.ghtml",
+      "date": "Wed, 28 Oct 2026 13:47:35 -0000"
     },
     {
-      "title": "Mega-Sena 3076 acumula e pr\u00EAmio vai a R$ 320 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "title": "Ibovespa opera em queda e j\u00E1 acumula perda de 14% na semana; d\u00F3lar recua \u00E0 espera do Fed",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/27/mega-sena-concurso-3076-confira-os-numeros-sorteados.ghtml",
-      "date": "Wed, 28 Oct 2026 00:04:26 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/28/dolar-ibovespa.ghtml",
+      "date": "Wed, 28 Oct 2026 12:00:18 -0000"
     },
     {
-      "title": "FMI fecha acordo com a Argentina e pode liberar mais US$ 900 milh\u00F5es ao pa\u00EDs",
+      "title": "Passadas as elei\u00E7\u00F5es, governo concede garantia para empr\u00E9stimo de R$ 7 bilh\u00F5es de cons\u00F3rcio de bancos aos Correios",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/27/acordo-fmi-argentina.ghtml",
-      "date": "Tue, 27 Oct 2026 21:29:51 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/28/passadas-eleicoes-governo-federal-concede-garantia-para-emprestimo-de-r-7-bilhoes-de-consorcio-de-bancos-aos-correios.ghtml",
+      "date": "Wed, 28 Oct 2026 11:22:06 -0000"
     },
     {
-      "title": "El Ni\u00F1o pode provocar perdas de R$ 33 bilh\u00F5es na safra de soja do Brasil; entenda os riscos",
+      "title": "N\u00FAmero de super-ricos na China atinge maior n\u00EDvel com ascens\u00E3o de empres\u00E1rios de tecnologia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/27/el-nino-pode-reduzir-safra-de-soja-do-brasil-em-10percent-projeta-serasa.ghtml",
-      "date": "Tue, 27 Oct 2026 15:57:25 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/28/numero-de-super-ricos-na-china-atinge-maior-nivel-com-ascensao-de-empresarios-de-tecnologia.ghtml",
+      "date": "Wed, 28 Oct 2026 10:47:39 -0000"
     },
     {
-      "title": "Esportivo usado por Tony Stark no filme \u0027Os Vingadores\u0027 vai a leil\u00E3o; lances j\u00E1 passam de R$ 520 mil",
+      "title": "Governo renova subs\u00EDdio ao diesel; por que o agro \u00E9 t\u00E3o vulner\u00E1vel \u00E0 alta do combust\u00EDvel?",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/27/nsx-vingadores-leilao.ghtml",
-      "date": "Tue, 27 Oct 2026 14:18:19 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/28/por-que-o-agro-e-tao-vulneravel-a-alta-do-diesel.ghtml",
+      "date": "Wed, 28 Oct 2026 08:00:00 -0000"
     }
   ]
 }
