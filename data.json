@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170856.77,
-      "change": -2.76,
-      "changeStr": "-2.76%"
+      "price": 171006.1,
+      "change": -2.68,
+      "changeStr": "-2.68%"
     },
     {
       "symbol": "PETR4",
-      "price": 52.4,
-      "change": -0.74,
-      "changeStr": "-0.74%"
+      "price": 52.51,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "VALE3",
-      "price": 61.54,
-      "change": -2.32,
-      "changeStr": "-2.32%"
+      "price": 61.38,
+      "change": -2.57,
+      "changeStr": "-2.57%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.86,
-      "change": -3.23,
-      "changeStr": "-3.23%"
+      "price": 39.78,
+      "change": -3.42,
+      "changeStr": "-3.42%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.9,
-      "change": -5.28,
-      "changeStr": "-5.28%"
+      "price": 14.68,
+      "change": -6.68,
+      "changeStr": "-6.68%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.94,
-      "change": -2.53,
-      "changeStr": "-2.53%"
+      "price": 16.79,
+      "change": -3.39,
+      "changeStr": "-3.39%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.08,
-      "change": -11.65,
-      "changeStr": "-11.65%"
+      "price": 5.22,
+      "change": -9.22,
+      "changeStr": "-9.22%"
     },
     {
       "symbol": "ABEV3",
@@ -50,71 +50,71 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 46.92,
-      "change": 1.65,
-      "changeStr": "\u002B1.65%"
+      "price": 47.2,
+      "change": 2.25,
+      "changeStr": "\u002B2.25%"
     }
   ],
   "news": [
     {
-      "title": "SC confirma 3\u00B0 foco da doen\u00E7a de Newcastle em aves e \u00E1rea de monitoramento \u00E9 ampliada",
+      "title": "Marabraz tem recupera\u00E7\u00E3o judicial aceita pela Justi\u00E7a e diz que buscar\u00E1 \u0027solu\u00E7\u00E3o sustent\u00E1vel\u0027 para os neg\u00F3cios",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/28/sc-confirma-terceiro-foco-da-doenca-de-newcastle-em-aves.ghtml",
-      "date": "Wed, 28 Oct 2026 15:04:09 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/28/justica-aceita-recuperacao-judicial-da-marabraz-que-tenta-renegociar-divida-de-r-140-milhoes.ghtml",
+      "date": "Wed, 28 Oct 2026 19:31:59 -0000"
     },
     {
-      "title": "Dropbox anuncia demiss\u00F5es em todo o mundo; diretor de tecnologia tamb\u00E9m deixar\u00E1 a empresa",
+      "title": "Anatel vai exigir prova de vida para validar linhas de celular; veja como vai funcionar",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/28/dropbox-anuncia-demissoes-em-todo-o-mundo-diretor-de-tecnologia-tambem-deixara-a-empresa.ghtml",
-      "date": "Wed, 28 Oct 2026 14:55:38 -0000"
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/28/anatel-biometria-linhas-celular.ghtml",
+      "date": "Wed, 28 Oct 2026 18:50:04 -0000"
     },
     {
-      "title": "Endividamento de risco cresce 75% em 5 anos e atinge 20,3 milh\u00F5es de brasileiros, diz BC",
+      "title": "Fed mant\u00E9m juros dos EUA na faixa de 3,75% a 4% ao ano a poucos dias das elei\u00E7\u00F5es para o Congresso",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/28/endividamento-cresce-bc.ghtml",
-      "date": "Wed, 28 Oct 2026 14:42:16 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/28/fed-juros-outubro.ghtml",
+      "date": "Wed, 28 Oct 2026 18:00:34 -0000"
     },
     {
-      "title": "TCU prop\u00F5e al\u00EDquota de 11,3% para o futuro imposto sobre consumo do governo federal em 2027; Senado tem que aprovar valor",
+      "title": "Amazon corta at\u00E9 250 empregos ap\u00F3s lan\u00E7ar novos produtos, diz ag\u00EAncia; veja quais \u00E1reas foram afetadas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/28/tcu-propoe-aliquota-de-113percent-para-o-futuro-imposto-sobre-consumo-do-governo-federal-em-2027-senado-tem-que-aprovar-valor.ghtml",
-      "date": "Wed, 28 Oct 2026 14:39:45 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/28/amazon-corta-ate-250-empregos-apos-lancar-novos-produtos-diz-agencia-veja-quais-areas-foram-afetadas.ghtml",
+      "date": "Wed, 28 Oct 2026 18:00:01 -0000"
     },
     {
-      "title": "Projeto de lei quer deixar que candidato leve instrutor de sua escolha para exame da CNH",
+      "title": "\u0027PixMEI\u0027 de at\u00E9 R$ 5 mil: o que \u00E9, como funciona e quem pode receber ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/28/projeto-de-lei-quer-deixar-que-candidato-leve-instrutor-de-sua-escolha-para-exame-da-cnh.ghtml",
-      "date": "Wed, 28 Oct 2026 14:08:58 -0000"
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/28/pixmei-de-ate-r-5-mil-como-funciona.ghtml",
+      "date": "Wed, 28 Oct 2026 17:22:19 -0000"
     },
     {
-      "title": "Snapchat \u00E9 julgado nos EUA pela primeira vez em caso de depend\u00EAncia em redes sociais",
+      "title": "Apple lan\u00E7a seu primeiro notebook com tela sens\u00EDvel ao toque; vers\u00E3o mais cara custa R$ 180 mil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/28/snapchat-e-julgado-nos-eua-pela-primeira-vez-em-caso-de-dependencia-em-redes-sociais.ghtml",
-      "date": "Wed, 28 Oct 2026 13:47:35 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/28/apple-apresenta-seu-primeiro-notebook-com-tela-sensivel-ao-toque.ghtml",
+      "date": "Wed, 28 Oct 2026 17:13:40 -0000"
     },
     {
-      "title": "Ibovespa opera em queda e j\u00E1 acumula perda de 14% na semana; d\u00F3lar recua \u00E0 espera do Fed",
+      "title": "Reforma tribut\u00E1ria: TCU prop\u00F4s al\u00EDquota de 11,3% para o imposto federal sobre consumo; veja o que muda para empresas em 2027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/28/dolar-ibovespa.ghtml",
-      "date": "Wed, 28 Oct 2026 12:00:18 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/28/reforma-tributaria-tcu-propos-aliquota-de-113percent-para-o-imposto-federal-sobre-consumo-veja-o-que-muda-para-empresas-em-2027.ghtml",
+      "date": "Wed, 28 Oct 2026 17:12:47 -0000"
     },
     {
-      "title": "Passadas as elei\u00E7\u00F5es, governo concede garantia para empr\u00E9stimo de R$ 7 bilh\u00F5es de cons\u00F3rcio de bancos aos Correios",
+      "title": "INSS desmente bloqueio de benef\u00EDcio por falta de biometria; entenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/28/passadas-eleicoes-governo-federal-concede-garantia-para-emprestimo-de-r-7-bilhoes-de-consorcio-de-bancos-aos-correios.ghtml",
-      "date": "Wed, 28 Oct 2026 11:22:06 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/28/inss-bloqueio-de-beneficio-por-falta-de-biometria.ghtml",
+      "date": "Wed, 28 Oct 2026 16:53:36 -0000"
     },
     {
-      "title": "N\u00FAmero de super-ricos na China atinge maior n\u00EDvel com ascens\u00E3o de empres\u00E1rios de tecnologia",
+      "title": "MEIs recebem mensagem sobre perd\u00E3o de d\u00EDvidas; veja como saber se o aviso \u00E9 verdadeiro e evitar golpes",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/28/numero-de-super-ricos-na-china-atinge-maior-nivel-com-ascensao-de-empresarios-de-tecnologia.ghtml",
-      "date": "Wed, 28 Oct 2026 10:47:39 -0000"
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/28/meis-comecam-a-receber-avisos-do-governo-sobre-perdao-de-dividas-veja-onde-consultar.ghtml",
+      "date": "Wed, 28 Oct 2026 15:51:25 -0000"
     },
     {
-      "title": "Governo renova subs\u00EDdio ao diesel; por que o agro \u00E9 t\u00E3o vulner\u00E1vel \u00E0 alta do combust\u00EDvel?",
+      "title": "Empres\u00E1rio \u00E9 preso em opera\u00E7\u00E3o que investiga fraude fiscal de R$ 36,6 milh\u00F5es no setor cafeeiro do ES",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/28/por-que-o-agro-e-tao-vulneravel-a-alta-do-diesel.ghtml",
-      "date": "Wed, 28 Oct 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/28/empresario-e-preso-em-operacao-que-investiga-fraude-fiscal-de-r-366-milhoes-no-setor-cafeeiro-do-es.ghtml",
+      "date": "Wed, 28 Oct 2026 15:06:55 -0000"
     }
   ]
 }
