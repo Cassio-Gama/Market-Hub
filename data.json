@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171006.1,
-      "change": -2.68,
-      "changeStr": "-2.68%"
+      "price": 170838.2,
+      "change": -0.1,
+      "changeStr": "-0.10%"
     },
     {
       "symbol": "PETR4",
-      "price": 52.51,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 52.41,
+      "change": -0.19,
+      "changeStr": "-0.19%"
     },
     {
       "symbol": "VALE3",
-      "price": 61.38,
-      "change": -2.57,
-      "changeStr": "-2.57%"
+      "price": 61,
+      "change": -0.62,
+      "changeStr": "-0.62%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.78,
-      "change": -3.42,
-      "changeStr": "-3.42%"
+      "price": 39.8,
+      "change": 0.05,
+      "changeStr": "\u002B0.05%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.68,
-      "change": -6.68,
-      "changeStr": "-6.68%"
+      "price": 14.38,
+      "change": -2.04,
+      "changeStr": "-2.04%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.79,
-      "change": -3.39,
-      "changeStr": "-3.39%"
+      "price": 16.82,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.22,
-      "change": -9.22,
-      "changeStr": "-9.22%"
+      "price": 5.45,
+      "change": 4.41,
+      "changeStr": "\u002B4.41%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.22,
-      "change": -2.25,
-      "changeStr": "-2.25%"
+      "price": 14.84,
+      "change": -2.5,
+      "changeStr": "-2.50%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.2,
-      "change": 2.25,
-      "changeStr": "\u002B2.25%"
+      "price": 47.47,
+      "change": 0.57,
+      "changeStr": "\u002B0.57%"
     }
   ],
   "news": [
     {
-      "title": "Pizzaria pede que clientes de esquerda n\u00E3o frequentem o local; veja o que diz a lei sobre recusar atendimento",
+      "title": "Tesouro diz que governo prepara pacote de medidas para Lula 4, mas nega que taxa\u00E7\u00E3o de t\u00EDtulos isentos com IOF esteja definida",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/29/pizzaria-pede-que-clientes-de-esquerda-nao-frequentem-o-local-veja-o-que-diz-a-lei-sobre-recusar-atendimento.ghtml",
-      "date": "Thu, 29 Oct 2026 06:00:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/29/tesouro-diz-que-governo-prepara-pacote-de-medidas-para-lula-4-mas-nega-que-taxacao-de-titulos-isentos-com-iof-esteja-definida.ghtml",
+      "date": "Thu, 29 Oct 2026 13:51:21 -0000"
     },
     {
-      "title": "Novembro ter\u00E1 tr\u00EAs feriados; veja datas e poss\u00EDveis emendas em 2026",
+      "title": "ICMS sobre gasolina, diesel e g\u00E1s de cozinha vai subir em 2027; veja valores",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/novembro-tera-tres-feriados-veja-datas.ghtml",
-      "date": "Thu, 29 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/29/icms-gasolina-diesel-gas-de-cozinha.ghtml",
+      "date": "Thu, 29 Oct 2026 12:39:54 -0000"
     },
     {
-      "title": "LISTA: veja quais dos 10 carros mais vendidos do Brasil gastam menos combust\u00EDvel",
+      "title": "INSS alerta para golpes com falsas inscri\u00E7\u00F5es em concurso p\u00FAblico; entenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/29/lista-veja-quais-dos-10-carros-mais-vendidos-do-brasil-gastam-menos-combustivel.ghtml",
-      "date": "Thu, 29 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/29/inss-alerta-para-golpes-com-falsas-inscricoes-em-concurso.ghtml",
+      "date": "Thu, 29 Oct 2026 12:37:46 -0000"
     },
     {
-      "title": "Brasil deve R$ 11 trilh\u00F5es e EUA, US$ 40 trilh\u00F5es: por que as d\u00EDvidas preocupam de formas diferentes?",
+      "title": "Contas do governo t\u00EAm super\u00E1vit de R$ 4,8 bilh\u00F5es em setembro, melhor saldo para o m\u00EAs em tr\u00EAs anos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/29/brasil-e-eua-por-que-as-dividas-preocupam-de-formas-diferentes.ghtml",
-      "date": "Thu, 29 Oct 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/29/contas-do-governo-tem-superavit-de-r-48-bilhoes-em-setembro-melhor-saldo-para-o-mes-em-tres-anos.ghtml",
+      "date": "Thu, 29 Oct 2026 12:33:48 -0000"
     },
     {
-      "title": "Como o PIX mudou o caminho do dinheiro no Brasil e por que isso incomoda Donald Trump?",
+      "title": "Cultivo de \u00F3pio aumenta no Afeganist\u00E3o apesar da proibi\u00E7\u00E3o do governo Talib\u00E3",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/29/como-o-pix-mudou-o-caminho-do-dinheiro-no-brasil-e-por-que-isso-incomoda-donald-trump.ghtml",
-      "date": "Thu, 29 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/29/cultivo-de-opio-aumenta-no-afeganistao-apesar-da-proibicao-do-governo-taliba.ghtml",
+      "date": "Thu, 29 Oct 2026 12:14:45 -0000"
     },
     {
-      "title": "\u2018Todo mundo est\u00E1 ganhando\u0027: por que copiar os investimentos de outras pessoas pode sair caro",
+      "title": "Volkswagen tem preju\u00EDzo de US$ 6,5 bilh\u00F5es, o maior em mais de 10 anos, em meio \u00E0 crise no setor e \u00E0 concorr\u00EAncia chinesa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/29/todo-mundo-esta-ganhando-por-que-copiar-os-investimentos-de-outras-pessoas-pode-sair-caro.ghtml",
-      "date": "Thu, 29 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/10/29/volkswagen-prejuizo-10-anos.ghtml",
+      "date": "Thu, 29 Oct 2026 12:09:03 -0000"
     },
     {
-      "title": "Quando \u00E9 o quinto dia \u00FAtil de novembro de 2026? Veja data para pagamentos dos sal\u00E1rios",
+      "title": "MPT recebe 3.290 den\u00FAncias de ass\u00E9dio eleitoral no trabalho; veja como denunciar",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/quando-e-o-quinto-dia-util-de-novembro-de-2026.ghtml",
-      "date": "Thu, 29 Oct 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/denuncias-de-assedio-eleitoral-no-trabalho-veja-como-denunciar.ghtml",
+      "date": "Thu, 29 Oct 2026 12:04:22 -0000"
     },
     {
-      "title": "Mega-Sena 3077: aposta em Mato Grosso leva maior pr\u00EAmio da hist\u00F3ria de um concurso regular; confira os n\u00FAmeros ",
+      "title": "Ap\u00F3s Mbapp\u00E9, marca Hello Kitty pede desculpas por outra pol\u00EAmica com a China",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/28/mega-sena-3077-sorteia-maior-premio-da-historia-de-um-concurso-regular-confira-os-numeros.ghtml",
-      "date": "Thu, 29 Oct 2026 00:04:41 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/29/apos-mbappe-marca-hello-kitty-pede-desculpas-por-outra-polemica-com-a-china.ghtml",
+      "date": "Thu, 29 Oct 2026 12:04:22 -0000"
     },
     {
-      "title": "MPT pede multa de R$ 3 milh\u00F5es \u00E0 Azul por ass\u00E9dio moral; veja as den\u00FAncias",
+      "title": "D\u00F3lar opera em alta, de olho em dados de infla\u00E7\u00E3o e atividade nos EUA; Ibovespa cai a 170 mil pontos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/28/mpt-pede-multa-de-r-3-milhoes-a-azul-por-assedio-moral-veja-as-denuncias.ghtml",
-      "date": "Wed, 28 Oct 2026 22:21:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/29/dolar-ibovespa.ghtml",
+      "date": "Thu, 29 Oct 2026 12:00:22 -0000"
     },
     {
-      "title": "Lula quer criar Minist\u00E9rio do Idoso",
+      "title": "Vazamento exp\u00F5e dados de mais de 40 mil funcion\u00E1rios da seguran\u00E7a dos EUA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/28/lula-quer-criar-ministerio-do-idoso.ghtml",
-      "date": "Wed, 28 Oct 2026 21:34:38 -0000"
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/29/vazamento-expoe-dados-de-mais-de-40-mil-funcionarios-da-seguranca-dos-eua.ghtml",
+      "date": "Thu, 29 Oct 2026 11:58:26 -0000"
     }
   ]
 }
