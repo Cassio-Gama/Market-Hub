@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170838.2,
+      "price": 169371.38,
+      "change": -0.96,
+      "changeStr": "-0.96%"
+    },
+    {
+      "symbol": "PETR4",
+      "price": 52.4,
+      "change": -0.21,
+      "changeStr": "-0.21%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 60.35,
+      "change": -1.68,
+      "changeStr": "-1.68%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 39.74,
       "change": -0.1,
       "changeStr": "-0.10%"
     },
     {
-      "symbol": "PETR4",
-      "price": 52.41,
-      "change": -0.19,
-      "changeStr": "-0.19%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 61,
-      "change": -0.62,
-      "changeStr": "-0.62%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 39.8,
-      "change": 0.05,
-      "changeStr": "\u002B0.05%"
-    },
-    {
       "symbol": "BBDC4",
-      "price": 14.38,
-      "change": -2.04,
-      "changeStr": "-2.04%"
+      "price": 14.15,
+      "change": -3.61,
+      "changeStr": "-3.61%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.82,
-      "change": 0.18,
-      "changeStr": "\u002B0.18%"
+      "price": 16.46,
+      "change": -1.97,
+      "changeStr": "-1.97%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.45,
-      "change": 4.41,
-      "changeStr": "\u002B4.41%"
+      "price": 5.14,
+      "change": -1.53,
+      "changeStr": "-1.53%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.84,
-      "change": -2.5,
-      "changeStr": "-2.50%"
+      "price": 14.62,
+      "change": -3.94,
+      "changeStr": "-3.94%"
     },
     {
       "symbol": "WEGE3",
-      "price": 47.47,
-      "change": 0.57,
-      "changeStr": "\u002B0.57%"
+      "price": 49.57,
+      "change": 5.02,
+      "changeStr": "\u002B5.02%"
     }
   ],
   "news": [
     {
-      "title": "Tesouro diz que governo prepara pacote de medidas para Lula 4, mas nega que taxa\u00E7\u00E3o de t\u00EDtulos isentos com IOF esteja definida",
+      "title": "Bunge fecha f\u00E1brica de am\u00F4nia usada na produ\u00E7\u00E3o de fertilizantes na Argentina",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/29/tesouro-diz-que-governo-prepara-pacote-de-medidas-para-lula-4-mas-nega-que-taxacao-de-titulos-isentos-com-iof-esteja-definida.ghtml",
-      "date": "Thu, 29 Oct 2026 13:51:21 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/29/bunge-argentina-fertilizantes-fecha-fabrica.ghtml",
+      "date": "Thu, 29 Oct 2026 19:31:33 -0000"
     },
     {
-      "title": "ICMS sobre gasolina, diesel e g\u00E1s de cozinha vai subir em 2027; veja valores",
+      "title": "Ganhar bem n\u00E3o \u00E9 s\u00F3 quest\u00E3o de sal\u00E1rio: entenda o que define seu padr\u00E3o de vida",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/29/icms-gasolina-diesel-gas-de-cozinha.ghtml",
-      "date": "Thu, 29 Oct 2026 12:39:54 -0000"
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/29/o-que-define-seu-padrao-de-vida.ghtml",
+      "date": "Thu, 29 Oct 2026 18:12:30 -0000"
     },
     {
-      "title": "INSS alerta para golpes com falsas inscri\u00E7\u00F5es em concurso p\u00FAblico; entenda",
+      "title": "Exporta\u00E7\u00F5es beneficiadas por acordo com a Uni\u00E3o Europeia crescem 21% em cinco meses; mel e abacate s\u00E3o destaques",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/29/inss-alerta-para-golpes-com-falsas-inscricoes-em-concurso.ghtml",
-      "date": "Thu, 29 Oct 2026 12:37:46 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/29/exportacoes-beneficiadas-por-acordo-com-a-uniao-europeia-crescem-21percent-em-cinco-meses-mel-e-abacate-sao-destaques.ghtml",
+      "date": "Thu, 29 Oct 2026 17:51:32 -0000"
     },
     {
-      "title": "Contas do governo t\u00EAm super\u00E1vit de R$ 4,8 bilh\u00F5es em setembro, melhor saldo para o m\u00EAs em tr\u00EAs anos",
+      "title": "D\u00E9ficit das estatais federais sobe para R$ 8,5 bilh\u00F5es at\u00E9 setembro e bate novo recorde",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/29/contas-do-governo-tem-superavit-de-r-48-bilhoes-em-setembro-melhor-saldo-para-o-mes-em-tres-anos.ghtml",
-      "date": "Thu, 29 Oct 2026 12:33:48 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/29/deficit-das-estatais-federais-sobe-para-r-85-bilhoes-ate-setembro-e-bate-novo-recorde.ghtml",
+      "date": "Thu, 29 Oct 2026 17:40:35 -0000"
     },
     {
-      "title": "Cultivo de \u00F3pio aumenta no Afeganist\u00E3o apesar da proibi\u00E7\u00E3o do governo Talib\u00E3",
+      "title": "Elei\u00E7\u00F5es nos EUA: grupo de produtores rurais financia campanha contra republicanos ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/29/cultivo-de-opio-aumenta-no-afeganistao-apesar-da-proibicao-do-governo-taliba.ghtml",
-      "date": "Thu, 29 Oct 2026 12:14:45 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/29/eleicoes-nos-eua-grupo-de-produtores-rurais-financia-campanha-contra-republicanos.ghtml",
+      "date": "Thu, 29 Oct 2026 17:24:25 -0000"
     },
     {
-      "title": "Volkswagen tem preju\u00EDzo de US$ 6,5 bilh\u00F5es, o maior em mais de 10 anos, em meio \u00E0 crise no setor e \u00E0 concorr\u00EAncia chinesa",
+      "title": "Contas p\u00FAblicas t\u00EAm d\u00E9ficit de R$ 5,5 bilh\u00F5es em setembro; d\u00EDvida soma 82,9% do PIB, maior n\u00EDvel em cinco anos e meio",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/29/volkswagen-prejuizo-10-anos.ghtml",
-      "date": "Thu, 29 Oct 2026 12:09:03 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/29/contas-publicas-tem-deficit-de-r-55-bilhoes-em-setembro-divida-segue-em-829percent-do-pib-maior-nivel-desde-2021.ghtml",
+      "date": "Thu, 29 Oct 2026 17:11:14 -0000"
     },
     {
-      "title": "MPT recebe 3.290 den\u00FAncias de ass\u00E9dio eleitoral no trabalho; veja como denunciar",
+      "title": "Inadimpl\u00EAncia e endividamento das fam\u00EDlias s\u00E3o recorde em setembro, informa Banco Central",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/denuncias-de-assedio-eleitoral-no-trabalho-veja-como-denunciar.ghtml",
-      "date": "Thu, 29 Oct 2026 12:04:22 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/10/29/inadimplencia-e-endividamento-das-familias-sao-recorde-em-setembro-informa-banco-central.ghtml",
+      "date": "Thu, 29 Oct 2026 17:02:47 -0000"
     },
     {
-      "title": "Ap\u00F3s Mbapp\u00E9, marca Hello Kitty pede desculpas por outra pol\u00EAmica com a China",
+      "title": "\u0027Em dois anos, toda a ind\u00FAstria ser\u00E1 rob\u00F4s\u0027: marcas de roupa querem substituir modelos por imagens de IA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/29/apos-mbappe-marca-hello-kitty-pede-desculpas-por-outra-polemica-com-a-china.ghtml",
-      "date": "Thu, 29 Oct 2026 12:04:22 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/29/em-dois-anos-toda-a-industria-sera-robos-marcas-de-roupa-querem-substituir-modelos-por-imagens-de-ia.ghtml",
+      "date": "Thu, 29 Oct 2026 16:17:23 -0000"
     },
     {
-      "title": "D\u00F3lar opera em alta, de olho em dados de infla\u00E7\u00E3o e atividade nos EUA; Ibovespa cai a 170 mil pontos",
+      "title": "Governo Trump aponta plano de espionagem chin\u00EAs contra CEO da Nvidia, diz jornal",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/29/dolar-ibovespa.ghtml",
-      "date": "Thu, 29 Oct 2026 12:00:22 -0000"
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/29/governo-trump-aponta-plano-de-espionagem-chines-contra-ceo-da-nvidia-diz-jornal.ghtml",
+      "date": "Thu, 29 Oct 2026 15:49:08 -0000"
     },
     {
-      "title": "Vazamento exp\u00F5e dados de mais de 40 mil funcion\u00E1rios da seguran\u00E7a dos EUA",
+      "title": "MPT processa Meta em R$ 50 milh\u00F5es e quer remo\u00E7\u00E3o imediata de conte\u00FAdos de ass\u00E9dio eleitoral",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/29/vazamento-expoe-dados-de-mais-de-40-mil-funcionarios-da-seguranca-dos-eua.ghtml",
-      "date": "Thu, 29 Oct 2026 11:58:26 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/mpt-processa-meta-em-r-50-milhoes-e-quer-remocao-imediata-de-conteudos-de-assedio-eleitoral.ghtml",
+      "date": "Thu, 29 Oct 2026 15:43:13 -0000"
     }
   ]
 }
