@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168222.66,
-      "change": -0.57,
-      "changeStr": "-0.57%"
+      "price": 167324.55,
+      "change": -1.1,
+      "changeStr": "-1.10%"
     },
     {
       "symbol": "PETR4",
-      "price": 52.99,
-      "change": 1.51,
-      "changeStr": "\u002B1.51%"
+      "price": 52.7,
+      "change": 0.96,
+      "changeStr": "\u002B0.96%"
     },
     {
       "symbol": "VALE3",
-      "price": 60.8,
-      "change": 1.25,
-      "changeStr": "\u002B1.25%"
+      "price": 61.77,
+      "change": 2.86,
+      "changeStr": "\u002B2.86%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.15,
-      "change": -0.99,
-      "changeStr": "-0.99%"
+      "price": 38.75,
+      "change": -2,
+      "changeStr": "-2.00%"
     },
     {
       "symbol": "BBDC4",
-      "price": 13.99,
-      "change": -1.2,
-      "changeStr": "-1.20%"
+      "price": 13.9,
+      "change": -1.84,
+      "changeStr": "-1.84%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.24,
-      "change": -1.34,
-      "changeStr": "-1.34%"
+      "price": 16.56,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.21,
-      "change": 1.56,
-      "changeStr": "\u002B1.56%"
+      "price": 5.28,
+      "change": 2.92,
+      "changeStr": "\u002B2.92%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.51,
-      "change": -0.27,
-      "changeStr": "-0.27%"
+      "price": 14.59,
+      "change": 0.27,
+      "changeStr": "\u002B0.27%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.99,
-      "change": -0.59,
-      "changeStr": "-0.59%"
+      "price": 48.62,
+      "change": -1.34,
+      "changeStr": "-1.34%"
     }
   ],
   "news": [
     {
-      "title": "Desemprego cai no Brasil e atinge menor taxa para o terceiro trimestre em 14 anos ",
+      "title": "Governo diz que CNU 2027 pode ofertar at\u00E9 3 mil vagas; realiza\u00E7\u00E3o do de provas depende da aprova\u00E7\u00E3o do Or\u00E7amento de 2027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/30/desocupacao-fica-em-52percent-a-menor-para-um-terceiro-trimestre-desde-2012.ghtml",
-      "date": "Fri, 30 Oct 2026 12:00:33 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/30/governo-diz-que-cnu-2027-pode-ofertar-ate-3-mil-vagas-realizacao-do-de-provas-depende-da-aprovacao-do-orcamento-de-2027.ghtml",
+      "date": "Fri, 30 Oct 2026 19:01:26 -0000"
     },
     {
-      "title": "Ibovespa opera em queda e chega aos 167 mil pontos; d\u00F3lar opera em alta, de olho em novos dados econ\u00F4micos",
+      "title": "Ataque hacker de US$6,3 bi \u00E0 Binance: como funciona o seguro de criptomoedas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/30/dolar-ibovespa.ghtml",
-      "date": "Fri, 30 Oct 2026 12:00:21 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/30/ataque-hacker-de-us63-bi-a-binance-como-funciona-o-seguro-de-criptomoedas.ghtml",
+      "date": "Fri, 30 Oct 2026 18:31:11 -0000"
     },
     {
-      "title": "Ap\u00F3s roubo bilion\u00E1rio na Binance, entenda o que s\u00E3o criptomoedas e os riscos de investir",
+      "title": "Rob\u00F4 \u0027guarda-costas\u0027 enfrenta homem com faca e ergue at\u00E9 carro para socorrer pessoa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/30/apos-roubo-bilionario-na-binance-entenda-o-que-sao-criptomoedas-e-os-riscos-de-investir.ghtml",
-      "date": "Fri, 30 Oct 2026 11:59:54 -0000"
+      "url": "https://g1.globo.com/inovacao/noticia/2026/10/30/robo-guarda-costas-enfrenta-homem-com-faca-e-ergue-ate-carro-para-socorrer-pessoa.ghtml",
+      "date": "Fri, 30 Oct 2026 18:21:19 -0000"
     },
     {
-      "title": "Binance: notebook invadido pode ter aberto caminho para roubo de US$ 6,3 bilh\u00F5es",
+      "title": "Cacau abre mercados para o Brasil, mas chocolate pode voltar a ser artigo de luxo devido \u00E0 crise clim\u00E1tica",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/binance-notebook-invadido-pode-ter-aberto-caminho-para-roubo-de-us-63-bilhoes.ghtml",
-      "date": "Fri, 30 Oct 2026 11:33:56 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/cacau-abre-mercados-para-o-brasil-mas-chocolate-pode-voltar-a-ser-artigo-de-luxo-devido-a-crise-climatica.ghtml",
+      "date": "Fri, 30 Oct 2026 18:20:46 -0000"
     },
     {
-      "title": "Hackers roubam R$ 34 bilh\u00F5es em criptomoedas da Binance; veja os maiores ataques j\u00E1 registrados",
+      "title": "OpenAI vai limitar acesso de adolescentes a informa\u00E7\u00F5es sobre armas no ChatGPT",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/30/hackers-roubam-r-34-bilhoes-em-criptomoedas-da-binance-veja-os-maiores-ataques-ja-registrados.ghtml",
-      "date": "Fri, 30 Oct 2026 11:32:32 -0000"
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/openai-chatgpt-informacoes-armas.ghtml",
+      "date": "Fri, 30 Oct 2026 18:08:26 -0000"
     },
     {
-      "title": "Faturamento das 10 maiores empresas do agro cresce 11% e chega a R$ 1,24 trilh\u00E3o; veja ranking",
+      "title": "Ap\u00F3s ataque hacker bilion\u00E1rio, Binance diz que investimentos de brasileiros est\u00E3o seguros",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/10-maiores-empresas-agro.ghtml",
-      "date": "Fri, 30 Oct 2026 11:29:51 -0000"
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/apos-ataque-hacker-bilionario-binance-diz-que-investimentos-de-brasileiros-estao-seguros.ghtml",
+      "date": "Fri, 30 Oct 2026 16:50:12 -0000"
     },
     {
-      "title": "Fora do Mapa da Fome, Brasil ainda tem 44,8 milh\u00F5es de pessoas sem renda suficiente para manter alimenta\u00E7\u00E3o saud\u00E1vel",
+      "title": "\nUni\u00E3o Europeia quer flexibilizar regras para agrot\u00F3xicos; especialistas alertam para riscos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/fora-do-mapa-da-fome-brasil-ainda-tem-448-milhoes-sem-acesso-a-alimentacao-saudavel.ghtml",
-      "date": "Fri, 30 Oct 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/uniao-europeia-quer-flexibilizar-regras-para-agrotoxicos-especialistas-alertam-para-riscos.ghtml",
+      "date": "Fri, 30 Oct 2026 16:43:47 -0000"
     },
     {
-      "title": "Financiamento imobili\u00E1rio mais caro? Bradesco, Ita\u00FA e Santander elevam taxas; Caixa n\u00E3o se manifesta",
+      "title": "Meta faz acordo com adolescente em processo que alega que redes sociais causaram depress\u00E3o e transtornos alimentares",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/30/financiamento-imobiliario-taxas.ghtml",
-      "date": "Fri, 30 Oct 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/30/meta-faz-acordo-com-adolescente-em-processo-que-alega-que-redes-sociais-causaram-depressao-e-transtornos-alimentares.ghtml",
+      "date": "Fri, 30 Oct 2026 16:20:59 -0000"
     },
     {
-      "title": "\u0027N\u00E3o tinha como sobreviver\u0027: seca mata animais e deixa fam\u00EDlias sem renda em Sergipe",
+      "title": "J\u00FAri dos EUA decide a favor da Bayer em a\u00E7\u00E3o sobre c\u00E2ncer ligado a agrot\u00F3xico",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/30/nao-tinha-como-sobreviver-seca-mata-animais-e-deixa-familias-sem-renda-em-sergipe.ghtml",
-      "date": "Fri, 30 Oct 2026 07:00:00 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/juri-dos-eua-decide-a-favor-da-bayer-em-acao-sobre-cancer-ligado-a-agrotoxico.ghtml",
+      "date": "Fri, 30 Oct 2026 16:15:41 -0000"
     },
     {
-      "title": "Governo questionou Meta sobre perfis derrubados no Instagram antes das elei\u00E7\u00F5es",
+      "title": "Ba\u00FA do Globo Rural: relembre a hist\u00F3ria das filhas de seu Z\u00E9 Iz\u00E1, fam\u00EDlia da Serra da Canastra que marcou hist\u00F3ria do programa ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/governo-questiona-meta-sobre-perfis-derrubados-no-instagram-antes-das-eleicoes.ghtml",
-      "date": "Fri, 30 Oct 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/30/bau-do-globo-rural-relembre-a-historia-das-filhas-de-seu-ze-iza-familia-que-vivia-isolada-na-serra-da-canastra.ghtml",
+      "date": "Fri, 30 Oct 2026 16:04:29 -0000"
     }
   ]
 }
