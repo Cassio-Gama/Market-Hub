@@ -2,62 +2,92 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167324.55,
-      "change": -1.1,
-      "changeStr": "-1.10%"
+      "price": 167921.8,
+      "change": -0.75,
+      "changeStr": "-0.75%"
     },
     {
       "symbol": "PETR4",
-      "price": 52.7,
-      "change": 0.96,
-      "changeStr": "\u002B0.96%"
+      "price": 52.71,
+      "change": 0.98,
+      "changeStr": "\u002B0.98%"
     },
     {
       "symbol": "VALE3",
-      "price": 61.77,
-      "change": 2.86,
-      "changeStr": "\u002B2.86%"
+      "price": 62.02,
+      "change": 3.28,
+      "changeStr": "\u002B3.28%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.75,
-      "change": -2,
-      "changeStr": "-2.00%"
+      "price": 38.69,
+      "change": -2.15,
+      "changeStr": "-2.15%"
     },
     {
       "symbol": "BBDC4",
-      "price": 13.9,
-      "change": -1.84,
-      "changeStr": "-1.84%"
+      "price": 13.86,
+      "change": -2.12,
+      "changeStr": "-2.12%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.56,
-      "change": 0.61,
-      "changeStr": "\u002B0.61%"
+      "price": 16.47,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.28,
-      "change": 2.92,
-      "changeStr": "\u002B2.92%"
+      "price": 5.35,
+      "change": 4.29,
+      "changeStr": "\u002B4.29%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.59,
-      "change": 0.27,
-      "changeStr": "\u002B0.27%"
+      "price": 14.6,
+      "change": 0.34,
+      "changeStr": "\u002B0.34%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.62,
-      "change": -1.34,
-      "changeStr": "-1.34%"
+      "price": 48.36,
+      "change": -1.87,
+      "changeStr": "-1.87%"
     }
   ],
   "news": [
     {
-      "title": "Governo diz que CNU 2027 pode ofertar at\u00E9 3 mil vagas; realiza\u00E7\u00E3o do de provas depende da aprova\u00E7\u00E3o do Or\u00E7amento de 2027",
+      "title": "\u00C9 #FAKE que Lula anunciou corte de R$ 6 bilh\u00F5es na Sa\u00FAde e na Educa\u00E7\u00E3o ap\u00F3s elei\u00E7\u00E3o de 2026; v\u00EDdeo foi exibido no ano retrasado",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/10/30/e-fake-que-lula-anunciou-corte-de-r-6-bilhoes-na-saude-e-na-educacao-apos-eleicao-de-2026-video-foi-exibido-no-ano-retrasado.ghtml",
+      "date": "Fri, 30 Oct 2026 21:33:03 -0000"
+    },
+    {
+      "title": "Ra\u00EDzen aprova plano para sair de crise de R$ 65 bilh\u00F5es e ser\u00E1 dividida em duas empresas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/30/raizen-aprova-plano-para-evitar-falencia-e-preve-injecao-de-ate-r-398-bilhoes.ghtml",
+      "date": "Fri, 30 Oct 2026 20:49:18 -0000"
+    },
+    {
+      "title": "Conta de luz: Aneel mant\u00E9m bandeira tarif\u00E1ria verde em novembro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/30/conta-de-luz-aneel-mantem-bandeira-tarifaria-para-verde-em-novembro.ghtml",
+      "date": "Fri, 30 Oct 2026 20:41:24 -0000"
+    },
+    {
+      "title": "Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/trump-diz-que-eua-investigam-se-ataque-contra-a-binance-foi-feita-por-hackers-da-coreia-do-norte.ghtml",
+      "date": "Fri, 30 Oct 2026 20:41:15 -0000"
+    },
+    {
+      "title": "Supermercados v\u00E3o abrir aos domingos durante o ver\u00E3o no ES",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/30/supermercados-vao-abrir-aos-domingos-durante-o-verao-no-es.ghtml",
+      "date": "Fri, 30 Oct 2026 20:06:06 -0000"
+    },
+    {
+      "title": "Governo diz que CNU 2027 pode ofertar at\u00E9 3 mil vagas; realiza\u00E7\u00E3o de provas depende da aprova\u00E7\u00E3o do Or\u00E7amento de 2027",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/30/governo-diz-que-cnu-2027-pode-ofertar-ate-3-mil-vagas-realizacao-do-de-provas-depende-da-aprovacao-do-orcamento-de-2027.ghtml",
       "date": "Fri, 30 Oct 2026 19:01:26 -0000"
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/openai-chatgpt-informacoes-armas.ghtml",
       "date": "Fri, 30 Oct 2026 18:08:26 -0000"
-    },
-    {
-      "title": "Ap\u00F3s ataque hacker bilion\u00E1rio, Binance diz que investimentos de brasileiros est\u00E3o seguros",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/apos-ataque-hacker-bilionario-binance-diz-que-investimentos-de-brasileiros-estao-seguros.ghtml",
-      "date": "Fri, 30 Oct 2026 16:50:12 -0000"
-    },
-    {
-      "title": "\nUni\u00E3o Europeia quer flexibilizar regras para agrot\u00F3xicos; especialistas alertam para riscos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/uniao-europeia-quer-flexibilizar-regras-para-agrotoxicos-especialistas-alertam-para-riscos.ghtml",
-      "date": "Fri, 30 Oct 2026 16:43:47 -0000"
-    },
-    {
-      "title": "Meta faz acordo com adolescente em processo que alega que redes sociais causaram depress\u00E3o e transtornos alimentares",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/30/meta-faz-acordo-com-adolescente-em-processo-que-alega-que-redes-sociais-causaram-depressao-e-transtornos-alimentares.ghtml",
-      "date": "Fri, 30 Oct 2026 16:20:59 -0000"
-    },
-    {
-      "title": "J\u00FAri dos EUA decide a favor da Bayer em a\u00E7\u00E3o sobre c\u00E2ncer ligado a agrot\u00F3xico",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/juri-dos-eua-decide-a-favor-da-bayer-em-acao-sobre-cancer-ligado-a-agrotoxico.ghtml",
-      "date": "Fri, 30 Oct 2026 16:15:41 -0000"
-    },
-    {
-      "title": "Ba\u00FA do Globo Rural: relembre a hist\u00F3ria das filhas de seu Z\u00E9 Iz\u00E1, fam\u00EDlia da Serra da Canastra que marcou hist\u00F3ria do programa ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/30/bau-do-globo-rural-relembre-a-historia-das-filhas-de-seu-ze-iza-familia-que-vivia-isolada-na-serra-da-canastra.ghtml",
-      "date": "Fri, 30 Oct 2026 16:04:29 -0000"
     }
   ]
 }
