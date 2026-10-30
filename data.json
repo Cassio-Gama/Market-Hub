@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169186.42,
-      "change": -1.06,
-      "changeStr": "-1.06%"
+      "price": 168222.66,
+      "change": -0.57,
+      "changeStr": "-0.57%"
     },
     {
       "symbol": "PETR4",
-      "price": 52.2,
-      "change": -0.59,
-      "changeStr": "-0.59%"
+      "price": 52.99,
+      "change": 1.51,
+      "changeStr": "\u002B1.51%"
     },
     {
       "symbol": "VALE3",
-      "price": 60.05,
-      "change": -2.17,
-      "changeStr": "-2.17%"
+      "price": 60.8,
+      "change": 1.25,
+      "changeStr": "\u002B1.25%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.54,
-      "change": -0.6,
-      "changeStr": "-0.60%"
+      "price": 39.15,
+      "change": -0.99,
+      "changeStr": "-0.99%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.16,
-      "change": -3.54,
-      "changeStr": "-3.54%"
+      "price": 13.99,
+      "change": -1.2,
+      "changeStr": "-1.20%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.46,
-      "change": -1.97,
-      "changeStr": "-1.97%"
+      "price": 16.24,
+      "change": -1.34,
+      "changeStr": "-1.34%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.13,
-      "change": -1.72,
-      "changeStr": "-1.72%"
+      "price": 5.21,
+      "change": 1.56,
+      "changeStr": "\u002B1.56%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.55,
-      "change": -4.4,
-      "changeStr": "-4.40%"
+      "price": 14.51,
+      "change": -0.27,
+      "changeStr": "-0.27%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.28,
-      "change": 4.41,
-      "changeStr": "\u002B4.41%"
+      "price": 48.99,
+      "change": -0.59,
+      "changeStr": "-0.59%"
     }
   ],
   "news": [
     {
-      "title": "Governo questiona Meta sobre perfis derrubados no Instagram antes das elei\u00E7\u00F5es",
+      "title": "Desemprego cai no Brasil e atinge menor taxa para o terceiro trimestre em 14 anos ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/30/desocupacao-fica-em-52percent-a-menor-para-um-terceiro-trimestre-desde-2012.ghtml",
+      "date": "Fri, 30 Oct 2026 12:00:33 -0000"
+    },
+    {
+      "title": "Ibovespa opera em queda e chega aos 167 mil pontos; d\u00F3lar opera em alta, de olho em novos dados econ\u00F4micos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/30/dolar-ibovespa.ghtml",
+      "date": "Fri, 30 Oct 2026 12:00:21 -0000"
+    },
+    {
+      "title": "Ap\u00F3s roubo bilion\u00E1rio na Binance, entenda o que s\u00E3o criptomoedas e os riscos de investir",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/30/apos-roubo-bilionario-na-binance-entenda-o-que-sao-criptomoedas-e-os-riscos-de-investir.ghtml",
+      "date": "Fri, 30 Oct 2026 11:59:54 -0000"
+    },
+    {
+      "title": "Binance: notebook invadido pode ter aberto caminho para roubo de US$ 6,3 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/binance-notebook-invadido-pode-ter-aberto-caminho-para-roubo-de-us-63-bilhoes.ghtml",
+      "date": "Fri, 30 Oct 2026 11:33:56 -0000"
+    },
+    {
+      "title": "Hackers roubam R$ 34 bilh\u00F5es em criptomoedas da Binance; veja os maiores ataques j\u00E1 registrados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/30/hackers-roubam-r-34-bilhoes-em-criptomoedas-da-binance-veja-os-maiores-ataques-ja-registrados.ghtml",
+      "date": "Fri, 30 Oct 2026 11:32:32 -0000"
+    },
+    {
+      "title": "Faturamento das 10 maiores empresas do agro cresce 11% e chega a R$ 1,24 trilh\u00E3o; veja ranking",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/10-maiores-empresas-agro.ghtml",
+      "date": "Fri, 30 Oct 2026 11:29:51 -0000"
+    },
+    {
+      "title": "Fora do Mapa da Fome, Brasil ainda tem 44,8 milh\u00F5es de pessoas sem renda suficiente para manter alimenta\u00E7\u00E3o saud\u00E1vel",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/fora-do-mapa-da-fome-brasil-ainda-tem-448-milhoes-sem-acesso-a-alimentacao-saudavel.ghtml",
+      "date": "Fri, 30 Oct 2026 08:00:00 -0000"
+    },
+    {
+      "title": "Financiamento imobili\u00E1rio mais caro? Bradesco, Ita\u00FA e Santander elevam taxas; Caixa n\u00E3o se manifesta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/30/financiamento-imobiliario-taxas.ghtml",
+      "date": "Fri, 30 Oct 2026 08:00:00 -0000"
+    },
+    {
+      "title": "\u0027N\u00E3o tinha como sobreviver\u0027: seca mata animais e deixa fam\u00EDlias sem renda em Sergipe",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/30/nao-tinha-como-sobreviver-seca-mata-animais-e-deixa-familias-sem-renda-em-sergipe.ghtml",
+      "date": "Fri, 30 Oct 2026 07:00:00 -0000"
+    },
+    {
+      "title": "Governo questionou Meta sobre perfis derrubados no Instagram antes das elei\u00E7\u00F5es",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/governo-questiona-meta-sobre-perfis-derrubados-no-instagram-antes-das-eleicoes.ghtml",
       "date": "Fri, 30 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Free flow: prazo para pagar ped\u00E1gios atrasados sem multa est\u00E1 acabando; veja como regularizar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/30/free-flow-pedagio-atrasado-sem-multa.ghtml",
-      "date": "Fri, 30 Oct 2026 06:00:00 -0000"
-    },
-    {
-      "title": "Hackers roubam US$ 6,3 bilh\u00F5es da Binance no maior ataque da hist\u00F3ria das criptomoedas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/30/maior-plataforma-de-criptomoedas-do-mundo-suspende-saques-e-depositos-apos-possivel-ataque-hacker.ghtml",
-      "date": "Fri, 30 Oct 2026 03:41:10 -0000"
-    },
-    {
-      "title": "Simples Nacional 2027: prazo para regularizar pend\u00EAncias termina nesta sexta; veja quem precisa agir",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/30/simples-nacional-2027-prazo-para-regularizar-pendencias-termina-nesta-sexta-veja-quem-precisa-agir.ghtml",
-      "date": "Fri, 30 Oct 2026 03:00:02 -0000"
-    },
-    {
-      "title": "Finados: dia 2 de novembro \u00E9 feriado? D\u00E1 para emendar? Entenda os direitos de quem trabalha",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/30/finados-dia-2-de-novembro-e-feriado-da-para-emendar-entenda-os-direitos-de-quem-trabalha.ghtml",
-      "date": "Fri, 30 Oct 2026 03:00:01 -0000"
-    },
-    {
-      "title": "Honda NSX usado por Ayrton Senna vai a leil\u00E3o e pode passar de R$ 5 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/10/30/honda-nsx-senna.ghtml",
-      "date": "Fri, 30 Oct 2026 03:00:01 -0000"
-    },
-    {
-      "title": "Simples Nacional: empresas t\u00EAm at\u00E9 esta sexta para escolher como pagar IBS e CBS; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/30/simples-nacional-empresas-tem-ate-esta-sexta-para-escolher-como-pagar-ibs-e-cbs-entenda.ghtml",
-      "date": "Fri, 30 Oct 2026 03:00:01 -0000"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 6 milh\u00F5es nesta sexta-feira; g1 transmite ao vivo",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/30/mega-sena-pode-pagar-r-6-milhoes-nesta-sexta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Fri, 30 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Banco Master: entenda como funcionou a fraude bilion\u00E1ria; PF indiciou 15 nesta semana",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/30/banco-master-entenda-como-funcionou-a-fraude-bilionaria-pf-indiciou-15-nesta-semana.ghtml",
-      "date": "Fri, 30 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "title": "O que a intelig\u00EAncia artificial tem a ver com o valor da sua conta de luz?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/30/o-que-a-inteligencia-artificial-tem-a-ver-com-o-valor-da-sua-conta-de-luz.ghtml",
-      "date": "Fri, 30 Oct 2026 03:00:00 -0000"
     }
   ]
 }
