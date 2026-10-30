@@ -2,33 +2,33 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169371.38,
-      "change": -0.96,
-      "changeStr": "-0.96%"
+      "price": 169186.42,
+      "change": -1.06,
+      "changeStr": "-1.06%"
     },
     {
       "symbol": "PETR4",
-      "price": 52.4,
-      "change": -0.21,
-      "changeStr": "-0.21%"
+      "price": 52.2,
+      "change": -0.59,
+      "changeStr": "-0.59%"
     },
     {
       "symbol": "VALE3",
-      "price": 60.35,
-      "change": -1.68,
-      "changeStr": "-1.68%"
+      "price": 60.05,
+      "change": -2.17,
+      "changeStr": "-2.17%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.74,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 39.54,
+      "change": -0.6,
+      "changeStr": "-0.60%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.15,
-      "change": -3.61,
-      "changeStr": "-3.61%"
+      "price": 14.16,
+      "change": -3.54,
+      "changeStr": "-3.54%"
     },
     {
       "symbol": "BBAS3",
@@ -38,24 +38,42 @@
     },
     {
       "symbol": "MGLU3",
-      "price": 5.14,
-      "change": -1.53,
-      "changeStr": "-1.53%"
+      "price": 5.13,
+      "change": -1.72,
+      "changeStr": "-1.72%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.62,
-      "change": -3.94,
-      "changeStr": "-3.94%"
+      "price": 14.55,
+      "change": -4.4,
+      "changeStr": "-4.40%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.57,
-      "change": 5.02,
-      "changeStr": "\u002B5.02%"
+      "price": 49.28,
+      "change": 4.41,
+      "changeStr": "\u002B4.41%"
     }
   ],
   "news": [
+    {
+      "title": "Mega-Sena 3078 acumula e pr\u00EAmio vai a R$ 6 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/29/mega-sena-concurso-3078-confira-os-numeros-sorteados.ghtml",
+      "date": "Fri, 30 Oct 2026 00:04:18 -0000"
+    },
+    {
+      "title": "Petrobras encontra petr\u00F3leo pela 3\u00AA vez no mesmo po\u00E7o na costa do Amap\u00E1",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/29/petrobras-conclui-perfuracao-com-mais-uma-descoberta-de-petroleo-em-aguas-ultra-profundas-do-amapa.ghtml",
+      "date": "Thu, 29 Oct 2026 21:27:42 -0000"
+    },
+    {
+      "title": "Google vai colocar an\u00FAncios nas respostas da intelig\u00EAncia artificial no Brasil ainda em 2026",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/29/google-vai-colocar-anuncios-nas-respostas-da-inteligencia-artificial-no-brasil-ainda-em-2026.ghtml",
+      "date": "Thu, 29 Oct 2026 21:25:39 -0000"
+    },
     {
       "title": "Bunge fecha f\u00E1brica de am\u00F4nia usada na produ\u00E7\u00E3o de fertilizantes na Argentina",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/10/29/inadimplencia-e-endividamento-das-familias-sao-recorde-em-setembro-informa-banco-central.ghtml",
       "date": "Thu, 29 Oct 2026 17:02:47 -0000"
-    },
-    {
-      "title": "\u0027Em dois anos, toda a ind\u00FAstria ser\u00E1 rob\u00F4s\u0027: marcas de roupa querem substituir modelos por imagens de IA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/29/em-dois-anos-toda-a-industria-sera-robos-marcas-de-roupa-querem-substituir-modelos-por-imagens-de-ia.ghtml",
-      "date": "Thu, 29 Oct 2026 16:17:23 -0000"
-    },
-    {
-      "title": "Governo Trump aponta plano de espionagem chin\u00EAs contra CEO da Nvidia, diz jornal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/29/governo-trump-aponta-plano-de-espionagem-chines-contra-ceo-da-nvidia-diz-jornal.ghtml",
-      "date": "Thu, 29 Oct 2026 15:49:08 -0000"
-    },
-    {
-      "title": "MPT processa Meta em R$ 50 milh\u00F5es e quer remo\u00E7\u00E3o imediata de conte\u00FAdos de ass\u00E9dio eleitoral",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/mpt-processa-meta-em-r-50-milhoes-e-quer-remocao-imediata-de-conteudos-de-assedio-eleitoral.ghtml",
-      "date": "Thu, 29 Oct 2026 15:43:13 -0000"
     }
   ]
 }
