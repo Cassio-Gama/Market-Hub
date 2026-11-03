@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167921.8,
-      "change": -0.75,
-      "changeStr": "-0.75%"
+      "price": 165379.92,
+      "change": -1.51,
+      "changeStr": "-1.51%"
     },
     {
       "symbol": "PETR4",
-      "price": 52.71,
-      "change": 0.98,
-      "changeStr": "\u002B0.98%"
+      "price": 50.18,
+      "change": -4.8,
+      "changeStr": "-4.80%"
     },
     {
       "symbol": "VALE3",
-      "price": 62.02,
-      "change": 3.28,
-      "changeStr": "\u002B3.28%"
+      "price": 61.27,
+      "change": -1.21,
+      "changeStr": "-1.21%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.69,
-      "change": -2.15,
-      "changeStr": "-2.15%"
+      "price": 38.42,
+      "change": -0.7,
+      "changeStr": "-0.70%"
     },
     {
       "symbol": "BBDC4",
-      "price": 13.86,
-      "change": -2.12,
-      "changeStr": "-2.12%"
+      "price": 13.58,
+      "change": -2.02,
+      "changeStr": "-2.02%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.47,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 16.17,
+      "change": -1.82,
+      "changeStr": "-1.82%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.35,
-      "change": 4.29,
-      "changeStr": "\u002B4.29%"
+      "price": 5.25,
+      "change": -1.87,
+      "changeStr": "-1.87%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.6,
-      "change": 0.34,
-      "changeStr": "\u002B0.34%"
+      "price": 14.7,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.36,
-      "change": -1.87,
-      "changeStr": "-1.87%"
+      "price": 48.14,
+      "change": -0.45,
+      "changeStr": "-0.45%"
     }
   ],
   "news": [
     {
-      "title": "Mega-Sena pode pagar R$ 46 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
+      "title": "Ford do Brasil faz recall de F-150 por falha na fixa\u00E7\u00E3o dos bancos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/03/mega-sena-pode-pagar-r-46-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Tue, 03 Nov 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/11/03/recall-ford-f-150-bancos.ghtml",
+      "date": "Tue, 03 Nov 2026 14:36:07 -0000"
     },
     {
-      "title": "Simples Nacional: prazo para cancelar op\u00E7\u00F5es de IBS e CBS come\u00E7a nesta ter\u00E7a",
+      "title": "Toyota, GM, VW e mais f\u00E1bricas pedem banimento permanente de carros chineses nos Estados Unidos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/11/03/simples-nacional-prazo-para-cancelar-opcoes-de-ibs-e-cbs.ghtml",
-      "date": "Tue, 03 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/11/03/montadoras-pedem-banimento-permanente-de-carros-chineses-nos-estados-unidos.ghtml",
+      "date": "Tue, 03 Nov 2026 13:41:53 -0000"
     },
     {
-      "title": "Quais s\u00E3o os pr\u00F3ximos feriados de 2026? Veja os tr\u00EAs que restam",
+      "title": "Black Friday 2026: brasileiros est\u00E3o mais exigentes e buscam descontos maiores, diz pesquisa da Globo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/03/quais-sao-os-proximos-feriados-de-2026.ghtml",
-      "date": "Tue, 03 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/03/black-friday-2026-brasileiros-estao-mais-exigentes-e-buscam-descontos-maiores-diz-pesquisa-da-globo.ghtml",
+      "date": "Tue, 03 Nov 2026 13:30:01 -0000"
     },
     {
-      "title": "ICMS sobre os combust\u00EDveis: veja quanto ser\u00E1 o aumento na gasolina, g\u00E1s de cozinha e diesel a partir de 1\u00B0 de fevereiro de 2027 em SP",
+      "title": "Disney planeja milhares de demiss\u00F5es e cobra redu\u00E7\u00E3o de 20% nos custos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/02/icms-sobre-os-combustiveis-veja-quanto-sera-o-aumento-na-gasolina-gas-de-cozinha-e-diesel-a-partir-de-1-de-fevereiro-de-2027-em-sp.ghtml",
-      "date": "Mon, 02 Nov 2026 17:06:19 -0000"
+      "url": "https://g1.globo.com/economia/negocios/noticia/2026/11/03/disney-planeja-milhares-de-demissoes-e-cobra-reducao-de-20percent-nos-custos.ghtml",
+      "date": "Tue, 03 Nov 2026 13:15:49 -0000"
     },
     {
-      "title": "Vale-t\u00EDquete: m\u00E1quinas ter\u00E3o de aceitar todos os cart\u00F5es a partir de 7 de novembro, diz Minist\u00E9rio do Trabalho",
+      "title": "Aliados querem que Lula use pronunciamento para afastar rumores sobre nova pol\u00EDtica econ\u00F4mica e defender equil\u00EDbrio",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/02/vale-tiquete-maquinas-terao-de-aceitar-todos-os-cartoes-a-partir-de-7-de-novembro-diz-ministerio-do-trabalho.ghtml",
-      "date": "Mon, 02 Nov 2026 16:32:08 -0000"
+      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/03/aliados-querem-que-lula-use-pronunciamento-para-afastar-rumores-sobre-nova-politica-economica-e-defender-equilibrio.ghtml",
+      "date": "Tue, 03 Nov 2026 13:07:50 -0000"
     },
     {
-      "title": "IA consegue criar v\u00EDrus que se espalha por conta pr\u00F3pria em eletrodom\u00E9sticos",
+      "title": "Diante da piora nas expectativas do mercado, Durigan fala em melhorar contas p\u00FAblicas sem recorrer a \u0027narrativa f\u00E1cil\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/virus-ia.ghtml",
-      "date": "Mon, 02 Nov 2026 16:00:14 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/03/diante-de-forte-deterioracao-das-expectativas-do-mercado-durigan-promete-melhorar-contas-publicas-sem-recorrer-a-narrativa-facil.ghtml",
+      "date": "Tue, 03 Nov 2026 13:03:47 -0000"
     },
     {
-      "title": "Mercado Bitcoin sofre ataque e suspende saques dias ap\u00F3s roubo bilion\u00E1rio na Binance",
+      "title": "Honda City 2027 muda pouco e n\u00E3o baixa pre\u00E7os para enfrentar os chineses; veja o teste",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/mercado-bitcoin-incidente-seguranca.ghtml",
-      "date": "Mon, 02 Nov 2026 15:07:21 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/11/03/honda-city-2027-muda-pouco-e-nao-baixa-precos-para-enfrentar-os-chineses-veja-o-teste.ghtml",
+      "date": "Tue, 03 Nov 2026 13:00:00 -0000"
     },
     {
-      "title": "Saiba como \u00E9 o KC-390, maior avi\u00E3o produzido na Am\u00E9rica Latina e que ser\u00E1 comprado pela Gr\u00E9cia",
+      "title": "Mega da Virada 2026 abre apostas com pr\u00EAmio estimado em R$ 1 bilh\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/02/saiba-como-e-o-kc-390-maior-aviao-produzido-na-america-latina-e-que-sera-comprado-pela-grecia.ghtml",
-      "date": "Mon, 02 Nov 2026 14:03:41 -0000"
+      "url": "https://g1.globo.com/loterias/noticia/2026/11/03/mega-da-virada-2026-abre-apostas-com-premio-estimado-em-r-1-bilhao.ghtml",
+      "date": "Tue, 03 Nov 2026 12:55:59 -0000"
     },
     {
-      "title": "Compras agr\u00EDcolas da China nos EUA v\u00E3o ao menor n\u00EDvel em 7 anos apesar de acordo comercial",
+      "title": "Durigan quer revisar benef\u00EDcios fiscais em 2027 para reduzir al\u00EDquota do imposto sobre consumo do governo federal",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/02/compras-agricolas-china-eua.ghtml",
-      "date": "Mon, 02 Nov 2026 13:47:08 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/03/durigan-quer-revisar-beneficios-fiscais-em-2027-para-reduzir-aliquota-do-imposto-sobre-o-consumo-do-governo-federal.ghtml",
+      "date": "Tue, 03 Nov 2026 12:19:00 -0000"
     },
     {
-      "title": "Hackers atacam supermercados europeus e elevam temperatura de freezers a 50\u00B0C",
+      "title": "Ministro diz que proposta para \u0027imposto do pecado\u0027 deve ser enviada nesta ter\u00E7a ao Congresso; objetivo \u00E9 manter carga em 2027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/hackers-atacam-supermercados-europeus-e-elevam-temperatura-de-freezers-a-50c.ghtml",
-      "date": "Mon, 02 Nov 2026 11:53:51 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/03/ministro-da-fazenda-diz-que-proposta-para-o-imposto-do-pecado-pode-ser-enviada-hoje-ao-congresso-objetivo-e-manter-carga-atual-em-2027.ghtml",
+      "date": "Tue, 03 Nov 2026 12:15:24 -0000"
     }
   ]
 }
