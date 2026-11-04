@@ -2,60 +2,66 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 165517.84,
-      "change": -1.43,
-      "changeStr": "-1.43%"
+      "price": 165528.92,
+      "change": -1.42,
+      "changeStr": "-1.42%"
     },
     {
       "symbol": "PETR4",
-      "price": 50.58,
-      "change": -4.04,
-      "changeStr": "-4.04%"
+      "price": 50.71,
+      "change": -3.79,
+      "changeStr": "-3.79%"
     },
     {
       "symbol": "VALE3",
-      "price": 60.32,
-      "change": -2.74,
-      "changeStr": "-2.74%"
+      "price": 60.25,
+      "change": -2.85,
+      "changeStr": "-2.85%"
     },
     {
       "symbol": "ITUB4",
-      "price": 38.44,
-      "change": -0.65,
-      "changeStr": "-0.65%"
+      "price": 38.49,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "BBDC4",
-      "price": 13.54,
-      "change": -2.31,
-      "changeStr": "-2.31%"
+      "price": 13.58,
+      "change": -2.02,
+      "changeStr": "-2.02%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.24,
-      "change": -1.4,
-      "changeStr": "-1.40%"
+      "price": 16.19,
+      "change": -1.7,
+      "changeStr": "-1.70%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.17,
-      "change": -3.36,
-      "changeStr": "-3.36%"
+      "price": 5.09,
+      "change": -4.86,
+      "changeStr": "-4.86%"
     },
     {
       "symbol": "ABEV3",
-      "price": 14.76,
-      "change": 1.1,
-      "changeStr": "\u002B1.10%"
+      "price": 14.7,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.69,
-      "change": 2.75,
-      "changeStr": "\u002B2.75%"
+      "price": 49.17,
+      "change": 1.67,
+      "changeStr": "\u002B1.67%"
     }
   ],
   "news": [
+    {
+      "title": "Presidente do BC paraguaio renuncia ap\u00F3s crise financeira no Ueno Bank",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/03/paraguai-crise-banco-renuncia-presidente-do-bc.ghtml",
+      "date": "Tue, 03 Nov 2026 23:50:13 -0000"
+    },
     {
       "title": "Tarifa\u00E7o: Brasil deve receber proposta dos EUA entre esta semana e a pr\u00F3xima, diz ministro",
       "source": "G1 Economia",
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/03/aliados-querem-que-lula-use-pronunciamento-para-afastar-rumores-sobre-nova-politica-economica-e-defender-equilibrio.ghtml",
       "date": "Tue, 03 Nov 2026 13:07:50 -0000"
-    },
-    {
-      "title": "Diante da piora nas expectativas do mercado, Durigan fala em melhorar contas p\u00FAblicas sem recorrer a \u0027narrativa f\u00E1cil\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/03/diante-de-forte-deterioracao-das-expectativas-do-mercado-durigan-promete-melhorar-contas-publicas-sem-recorrer-a-narrativa-facil.ghtml",
-      "date": "Tue, 03 Nov 2026 13:03:47 -0000"
     }
   ]
 }
