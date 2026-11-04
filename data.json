@@ -2,33 +2,33 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167279.69,
-      "change": 1.06,
-      "changeStr": "\u002B1.06%"
+      "price": 167563.47,
+      "change": 1.23,
+      "changeStr": "\u002B1.23%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.89,
-      "change": -5.56,
-      "changeStr": "-5.56%"
+      "price": 47.12,
+      "change": -7.08,
+      "changeStr": "-7.08%"
     },
     {
       "symbol": "VALE3",
-      "price": 62.53,
-      "change": 3.78,
-      "changeStr": "\u002B3.78%"
+      "price": 62.35,
+      "change": 3.49,
+      "changeStr": "\u002B3.49%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.3,
-      "change": 2.1,
-      "changeStr": "\u002B2.10%"
+      "price": 39.71,
+      "change": 3.17,
+      "changeStr": "\u002B3.17%"
     },
     {
       "symbol": "BBDC4",
-      "price": 13.91,
-      "change": 2.43,
-      "changeStr": "\u002B2.43%"
+      "price": 14.06,
+      "change": 3.53,
+      "changeStr": "\u002B3.53%"
     },
     {
       "symbol": "BBAS3",
@@ -38,83 +38,83 @@
     },
     {
       "symbol": "MGLU3",
-      "price": 5.38,
-      "change": 5.7,
-      "changeStr": "\u002B5.70%"
+      "price": 5.5,
+      "change": 8.06,
+      "changeStr": "\u002B8.06%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.15,
-      "change": 3.06,
-      "changeStr": "\u002B3.06%"
+      "price": 15.25,
+      "change": 3.74,
+      "changeStr": "\u002B3.74%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.33,
-      "change": 2.36,
-      "changeStr": "\u002B2.36%"
+      "price": 50.05,
+      "change": 1.79,
+      "changeStr": "\u002B1.79%"
     }
   ],
   "news": [
+    {
+      "title": "Brasil amplia dist\u00E2ncia e segue com o maior juro real do mundo ap\u00F3s Copom manter Selic; veja ranking",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/04/ranking-juro-real-novembro.ghtml",
+      "date": "Wed, 04 Nov 2026 21:31:45 -0000"
+    },
+    {
+      "title": "Copom mant\u00E9m taxa b\u00E1sica de juros da economia em 13,75% ao ano",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/04/copom-mantem-taxa-basica-de-juros-da-economia-em-1375percent-ao-ano.ghtml",
+      "date": "Wed, 04 Nov 2026 21:31:43 -0000"
+    },
+    {
+      "title": "Maior financiador republicano, Musk perde mais de R$ 200 bilh\u00F5es ap\u00F3s derrota eleitoral de aliados de Trump",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/04/musk-perde-bilhoes-apos-derrota-eleitoral-de-aliados-de-trump.ghtml",
+      "date": "Wed, 04 Nov 2026 20:14:32 -0000"
+    },
+    {
+      "title": "Confedera\u00E7\u00E3o do com\u00E9rcio pede mais prazo para implementar a escala 5x2",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/04/confederacao-do-comercio-pede-mais-prazo-para-implementar-a-escala-5x2.ghtml",
+      "date": "Wed, 04 Nov 2026 19:55:54 -0000"
+    },
+    {
+      "title": "SC confirma 4\u00B0 foco da doen\u00E7a de Newcastle e refor\u00E7a medidas de controle em granjas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/04/sc-confirma-quarto-foco-da-doenca-de-newcastle.ghtml",
+      "date": "Wed, 04 Nov 2026 18:35:52 -0000"
+    },
+    {
+      "title": "Papam\u00F3vel de Le\u00E3o XIV no Peru \u00E9 uma Chevrolet S10 adaptada; veja o que mudou na picape",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/11/04/papamovel-leao-xiv-peru.ghtml",
+      "date": "Wed, 04 Nov 2026 18:12:52 -0000"
+    },
+    {
+      "title": "Presidente do Paraguai anuncia ressarcimento de clientes de banco e indica novo chefe para o BC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/04/presidente-paraguai-anuncia-medidas-crise-bancaria.ghtml",
+      "date": "Wed, 04 Nov 2026 17:51:09 -0000"
+    },
+    {
+      "title": "Paraguaios protestam ap\u00F3s quebra de banco digital Ueno e ren\u00FAncia do presidente do BC",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/04/paraguaios-vao-as-ruas-em-protesto-apos-quebra-de-banco-digital-e-renuncia-do-presidente-do-bc.ghtml",
+      "date": "Wed, 04 Nov 2026 17:48:03 -0000"
+    },
+    {
+      "title": "Brasil cria 121 mil empregos formais em setembro, pior resultado para o m\u00EAs desde 2020",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/04/brasil-cria-1213-mil-empregos-formais-em-setembro-queda-de-43percent-na-comparacao-com-mesmo-mes-de-2025.ghtml",
+      "date": "Wed, 04 Nov 2026 17:30:01 -0000"
+    },
     {
       "title": "CEO da OpenAI muda nome para \u2018Ram Altman\u2019 no X ap\u00F3s pol\u00EAmica sobre mem\u00F3ria de computadores",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/11/04/ceo-da-openai-muda-nome-para-ram-altman-no-x-apos-polemica-sobre-memoria-de-computadores.ghtml",
       "date": "Wed, 04 Nov 2026 15:35:19 -0000"
-    },
-    {
-      "title": "De guerra no Ir\u00E3 a regras para IA: o que a vit\u00F3ria democrata pode mudar na economia dos EUA",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/04/vitoria-democrata-nos-eua-ameaca-planos-de-trump-para-economia-e-ia-entenda.ghtml",
-      "date": "Wed, 04 Nov 2026 14:00:54 -0000"
-    },
-    {
-      "title": "Carro voador da Embraer: Eve fecha acordo para vender at\u00E9 12 aeronaves para empresa que vai operar no Sul do Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/04/carro-voador-da-embraer-eve-fecha-acordo-para-vender-ate-12-aeronaves-para-empresa-que-vai-operar-no-sul-do-brasil.ghtml",
-      "date": "Wed, 04 Nov 2026 13:04:00 -0000"
-    },
-    {
-      "title": "Governo publica novas regras para combater golpes por SMS; veja o que muda ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/04/governo-publica-novas-regras-para-combater-golpes-por-sms-veja-o-que-muda.ghtml",
-      "date": "Wed, 04 Nov 2026 12:39:12 -0000"
-    },
-    {
-      "title": "Vit\u00F3ria democrata pode enfraquecer tarifa\u00E7o de Trump? Entenda os impactos para Brasil e outros pa\u00EDses",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/04/vitoria-democrata-impactos-tarifaco-trump.ghtml",
-      "date": "Wed, 04 Nov 2026 12:23:18 -0000"
-    },
-    {
-      "title": "Aeris Energy pede recupera\u00E7\u00E3o extrajudicial para renegociar R$ 1,5 bilh\u00E3o em d\u00EDvidas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/negocios/noticia/2026/11/04/aeris-energy-recuperacao-extrajudicial.ghtml",
-      "date": "Wed, 04 Nov 2026 12:10:26 -0000"
-    },
-    {
-      "title": "D\u00F3lar oscila, de olho em vit\u00F3ria democrata no Congresso americano; Ibovespa sobe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/04/dolar-ibovespa.ghtml",
-      "date": "Wed, 04 Nov 2026 12:01:09 -0000"
-    },
-    {
-      "title": "Canva anuncia demiss\u00E3o de 1,2 mil funcion\u00E1rios e corta 22% da equipe",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/04/canva-anuncia-demissao-de-12-mil-funcionarios-em-reestruturacao.ghtml",
-      "date": "Wed, 04 Nov 2026 11:20:20 -0000"
-    },
-    {
-      "title": "Midterms nos EUA: vit\u00F3ria democrata amea\u00E7a planos de Trump e pode afetar d\u00F3lar e juros no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/04/midterms-nos-eua-vitoria-democrata-ameaca-planos-de-trump-e-pode-afetar-dolar-e-juros-no-brasil.ghtml",
-      "date": "Wed, 04 Nov 2026 11:02:43 -0000"
-    },
-    {
-      "title": "V\u00CDDEO: Avicultor usa ma\u00E7arico para aquecer pintinhos ap\u00F3s queda de energia: \u0027N\u00E3o morreu nenhum\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/04/video-avicultor-usa-macarico-para-aquecer-pintinhos-apos-queda-de-energia-nao-morreu-nenhum.ghtml",
-      "date": "Wed, 04 Nov 2026 08:20:09 -0000"
     }
   ]
 }
