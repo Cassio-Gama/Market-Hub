@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167563.47,
-      "change": 1.23,
-      "changeStr": "\u002B1.23%"
+      "price": 166417.7,
+      "change": -0.68,
+      "changeStr": "-0.68%"
     },
     {
       "symbol": "PETR4",
-      "price": 47.12,
-      "change": -7.08,
-      "changeStr": "-7.08%"
+      "price": 46.44,
+      "change": -1.44,
+      "changeStr": "-1.44%"
     },
     {
       "symbol": "VALE3",
-      "price": 62.35,
-      "change": 3.49,
-      "changeStr": "\u002B3.49%"
+      "price": 62.71,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.71,
-      "change": 3.17,
-      "changeStr": "\u002B3.17%"
+      "price": 39.95,
+      "change": 0.6,
+      "changeStr": "\u002B0.60%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.06,
-      "change": 3.53,
-      "changeStr": "\u002B3.53%"
+      "price": 13.8,
+      "change": -1.85,
+      "changeStr": "-1.85%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.49,
-      "change": 1.85,
-      "changeStr": "\u002B1.85%"
+      "price": 16.52,
+      "change": 0.18,
+      "changeStr": "\u002B0.18%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.5,
-      "change": 8.06,
-      "changeStr": "\u002B8.06%"
+      "price": 5.41,
+      "change": -1.64,
+      "changeStr": "-1.64%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.25,
-      "change": 3.74,
-      "changeStr": "\u002B3.74%"
+      "price": 15.46,
+      "change": 1.38,
+      "changeStr": "\u002B1.38%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.05,
-      "change": 1.79,
-      "changeStr": "\u002B1.79%"
+      "price": 48.16,
+      "change": -3.78,
+      "changeStr": "-3.78%"
     }
   ],
   "news": [
     {
-      "title": "Imposto do pecado come\u00E7a em fevereiro; cerveja ser\u00E1 taxada em 4,2% e vinhos em 8% ",
+      "title": "Ap\u00F3s reuni\u00E3o com Lula, Durigan diz que n\u00E3o h\u00E1 \u0027f\u00F3rmula m\u00E1gica\u0027 e fala em manter compromissos fiscais e da campanha",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/05/imposto-do-pecado-comeca-em-fevereiro-cerveja-sera-taxada-em-42percent.ghtml",
-      "date": "Thu, 05 Nov 2026 11:28:39 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/05/apos-reuniao-com-lula-e-economistas-ministro-da-fazenda-diz-que-nao-ha-formula-magica-e-fala-em-manter-compromissos-fiscais.ghtml",
+      "date": "Thu, 05 Nov 2026 19:08:38 -0000"
     },
     {
-      "title": "Crise banc\u00E1ria leva oposi\u00E7\u00E3o a pedir impeachment do presidente do Paraguai",
+      "title": "\u2018Imposto do pecado\u2019: governo define regras para taxar carros; veja o que pesa no c\u00E1lculo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/05/crise-bancaria-leva-oposicao-a-pedir-impeachment-do-presidente-do-paraguai.ghtml",
-      "date": "Thu, 05 Nov 2026 10:43:57 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml",
+      "date": "Thu, 05 Nov 2026 17:30:01 -0000"
     },
     {
-      "title": "Elei\u00E7\u00F5es nos EUA: vota\u00E7\u00E3o popular pro\u00EDbe foie gras em Washington; Brasil tamb\u00E9m vetou neste ano",
+      "title": "Santiago Pe\u00F1a tentou se blindar da Justi\u00E7a com ren\u00FAncia, diz Ariel Pal\u00E1cios",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/05/eleicoes-nos-eua-votacao-popular-proibe-foie-gras-em-washington-brasil-tambem-vetou-neste-ano.ghtml",
-      "date": "Thu, 05 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/05/com-renuncia-santiago-pena-ganha-cargo-de-senador-vitalicio-no-paraguai.ghtml",
+      "date": "Thu, 05 Nov 2026 17:04:26 -0000"
     },
     {
-      "title": "Fim da escala 6x1: O que fazer se a empresa n\u00E3o respeitar a nova jornada? Veja como denunciar",
+      "title": "Presidente do Paraguai, Santiago Pe\u00F1a, renuncia ap\u00F3s crise banc\u00E1ria; C\u00E2mara decide seguir com impeachment",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/05/fim-da-escala-6x1-veja-como-denunciar-empresa-que-nao-respeitar-a-nova-jornada.ghtml",
-      "date": "Thu, 05 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/05/presidente-do-paraguai-santiago-pena-renuncia-apos-crise-bancaria.ghtml",
+      "date": "Thu, 05 Nov 2026 16:18:43 -0000"
     },
     {
-      "title": "\u0027Imposto do pecado\u0027: o que \u00E9 e como vai funcionar a tributa\u00E7\u00E3o sobre produtos prejudiciais \u00E0 sa\u00FAde",
+      "title": "Google derruba esquema que controlava 1 milh\u00E3o de TV boxes infectados; Brasil \u00E9 o 2\u00BA mais afetado",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/05/imposto-do-pecado-o-que-e-e-como-vai-funcionar.ghtml",
-      "date": "Thu, 05 Nov 2026 03:00:02 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/05/google-derruba-rede-com-1-milhao-de-aparelhos-infectados-incluindo-tv-boxes-brasil-e-o-2o-mais-afetado.ghtml",
+      "date": "Thu, 05 Nov 2026 16:01:11 -0000"
     },
     {
-      "title": "Governo edita medida provis\u00F3ria que define al\u00EDquotas do \u0027imposto do pecado\u0027",
+      "title": "Banco digital que quebrou no Paraguai administrava mais de US$ 800 milh\u00F5es em dinheiro p\u00FAblico; Santiago Pe\u00F1a foi s\u00F3cio do grupo controlador",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/04/governo-edita-medida-provisoria-que-define-aliquotas-do-imposto-do-pecado.ghtml",
-      "date": "Thu, 05 Nov 2026 01:16:39 -0000"
+      "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/11/05/banco-digital-que-quebrou-no-paraguai-administrava-mais-de-us-800-milhoes-em-dinheiro-publico.ghtml",
+      "date": "Thu, 05 Nov 2026 15:14:50 -0000"
     },
     {
-      "title": "Mega-Sena 3081 acumula e pr\u00EAmio vai a R$ 55 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "title": "\u2018Imposto do pecado\u2019: o que entra? Produtos v\u00E3o ficar mais caros? Veja perguntas e respostas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/04/mega-sena-concurso-3081-confira-os-numeros-sorteados.ghtml",
-      "date": "Thu, 05 Nov 2026 00:03:49 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/05/perguntas-e-respostas-imposto-seletivo.ghtml",
+      "date": "Thu, 05 Nov 2026 15:13:41 -0000"
     },
     {
-      "title": "Brasil amplia dist\u00E2ncia e segue com o maior juro real do mundo ap\u00F3s Copom manter Selic; veja ranking",
+      "title": "Da quebra de banco \u00E0 ren\u00FAncia do presidente: entenda o esc\u00E2ndalo financeiro que abalou o Paraguai",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/04/ranking-juro-real-novembro.ghtml",
-      "date": "Wed, 04 Nov 2026 21:31:45 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/05/paraguai-oposicao-tenta-abrir-processo-de-impeachment-contra-pena-apos-crise-bancaria.ghtml",
+      "date": "Thu, 05 Nov 2026 14:33:20 -0000"
     },
     {
-      "title": "Copom mant\u00E9m taxa b\u00E1sica de juros da economia em 13,75% ao ano",
+      "title": "IBGE anuncia concurso com 27 mil vagas tempor\u00E1rias em todo o Brasil; veja sal\u00E1rios",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/04/copom-mantem-taxa-basica-de-juros-da-economia-em-1375percent-ao-ano.ghtml",
-      "date": "Wed, 04 Nov 2026 21:31:43 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/05/ibge-anuncia-concurso-com-27-mil-vagas-temporarias-em-todo-o-brasil-veja-salarios.ghtml",
+      "date": "Thu, 05 Nov 2026 14:26:01 -0000"
     },
     {
-      "title": "Maior financiador republicano, Musk perde mais de R$ 200 bilh\u00F5es ap\u00F3s derrota eleitoral de aliados de Trump",
+      "title": "Crise pol\u00EDtica no Paraguai se agrava, e base governista retira apoio a Pe\u00F1a e se declara a favor de impeachment ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/04/musk-perde-bilhoes-apos-derrota-eleitoral-de-aliados-de-trump.ghtml",
-      "date": "Wed, 04 Nov 2026 20:14:32 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/05/crise-politica-no-paraguai-se-agrava-e-presidente-do-congresso-pede-que-pena-renuncie.ghtml",
+      "date": "Thu, 05 Nov 2026 14:14:41 -0000"
     }
   ]
 }
