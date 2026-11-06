@@ -2,60 +2,78 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166417.7,
-      "change": -0.68,
-      "changeStr": "-0.68%"
+      "price": 166191.45,
+      "change": -0.82,
+      "changeStr": "-0.82%"
     },
     {
       "symbol": "PETR4",
-      "price": 46.44,
-      "change": -1.44,
-      "changeStr": "-1.44%"
+      "price": 45.95,
+      "change": -2.48,
+      "changeStr": "-2.48%"
     },
     {
       "symbol": "VALE3",
-      "price": 62.71,
-      "change": 0.58,
-      "changeStr": "\u002B0.58%"
+      "price": 62.67,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.95,
-      "change": 0.6,
-      "changeStr": "\u002B0.60%"
+      "price": 39.97,
+      "change": 0.65,
+      "changeStr": "\u002B0.65%"
     },
     {
       "symbol": "BBDC4",
-      "price": 13.8,
-      "change": -1.85,
-      "changeStr": "-1.85%"
+      "price": 13.77,
+      "change": -2.06,
+      "changeStr": "-2.06%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.52,
-      "change": 0.18,
-      "changeStr": "\u002B0.18%"
+      "price": 16.49,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.41,
-      "change": -1.64,
-      "changeStr": "-1.64%"
+      "price": 5.43,
+      "change": -1.27,
+      "changeStr": "-1.27%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.46,
-      "change": 1.38,
-      "changeStr": "\u002B1.38%"
+      "price": 15.48,
+      "change": 1.51,
+      "changeStr": "\u002B1.51%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.16,
-      "change": -3.78,
-      "changeStr": "-3.78%"
+      "price": 48.3,
+      "change": -3.5,
+      "changeStr": "-3.50%"
     }
   ],
   "news": [
+    {
+      "title": "EUA anunciam que deixar\u00E3o de usar disquetes no controle de tr\u00E1fego a\u00E9reo at\u00E9 2028",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/05/eua-anunciam-que-deixarao-de-usar-disquetes-no-controle-de-trafego-aereo-ate-2028.ghtml",
+      "date": "Thu, 05 Nov 2026 21:42:12 -0000"
+    },
+    {
+      "title": "Governo define lista de minerais cr\u00EDticos e estrat\u00E9gicos; veja quais s\u00E3o ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/05/governo-define-lista-de-minerais-criticos-e-estrategicos-veja-quais-sao.ghtml",
+      "date": "Thu, 05 Nov 2026 21:26:11 -0000"
+    },
+    {
+      "title": "Lula diz que economia precisa estar \u0027arrumada\u0027 para atrair investimentos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/11/05/lula-diz-que-economia-precisa-estar-arrumada-para-atrair-investimentos-ninguem-vai-querer-investir-em-economia-desordenada.ghtml",
+      "date": "Thu, 05 Nov 2026 21:08:31 -0000"
+    },
     {
       "title": "Ap\u00F3s reuni\u00E3o com Lula, Durigan diz que n\u00E3o h\u00E1 \u0027f\u00F3rmula m\u00E1gica\u0027 e fala em manter compromissos fiscais e da campanha",
       "source": "G1 Economia",
@@ -97,24 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/11/05/perguntas-e-respostas-imposto-seletivo.ghtml",
       "date": "Thu, 05 Nov 2026 15:13:41 -0000"
-    },
-    {
-      "title": "Da quebra de banco \u00E0 ren\u00FAncia do presidente: entenda o esc\u00E2ndalo financeiro que abalou o Paraguai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/05/paraguai-oposicao-tenta-abrir-processo-de-impeachment-contra-pena-apos-crise-bancaria.ghtml",
-      "date": "Thu, 05 Nov 2026 14:33:20 -0000"
-    },
-    {
-      "title": "IBGE anuncia concurso com 27 mil vagas tempor\u00E1rias em todo o Brasil; veja sal\u00E1rios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/05/ibge-anuncia-concurso-com-27-mil-vagas-temporarias-em-todo-o-brasil-veja-salarios.ghtml",
-      "date": "Thu, 05 Nov 2026 14:26:01 -0000"
-    },
-    {
-      "title": "Crise pol\u00EDtica no Paraguai se agrava, e base governista retira apoio a Pe\u00F1a e se declara a favor de impeachment ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/05/crise-politica-no-paraguai-se-agrava-e-presidente-do-congresso-pede-que-pena-renuncie.ghtml",
-      "date": "Thu, 05 Nov 2026 14:14:41 -0000"
     }
   ]
 }
