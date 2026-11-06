@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166191.45,
-      "change": -0.82,
-      "changeStr": "-0.82%"
+      "price": 168782.78,
+      "change": 1.56,
+      "changeStr": "\u002B1.56%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.95,
-      "change": -2.48,
-      "changeStr": "-2.48%"
+      "price": 45.39,
+      "change": -1.22,
+      "changeStr": "-1.22%"
     },
     {
       "symbol": "VALE3",
-      "price": 62.67,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
+      "price": 63.98,
+      "change": 2.09,
+      "changeStr": "\u002B2.09%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.97,
-      "change": 0.65,
-      "changeStr": "\u002B0.65%"
+      "price": 40.7,
+      "change": 1.83,
+      "changeStr": "\u002B1.83%"
     },
     {
       "symbol": "BBDC4",
-      "price": 13.77,
-      "change": -2.06,
-      "changeStr": "-2.06%"
+      "price": 14.11,
+      "change": 2.47,
+      "changeStr": "\u002B2.47%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.49,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 17.05,
+      "change": 3.4,
+      "changeStr": "\u002B3.40%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.43,
-      "change": -1.27,
-      "changeStr": "-1.27%"
+      "price": 5.71,
+      "change": 5.16,
+      "changeStr": "\u002B5.16%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.48,
-      "change": 1.51,
-      "changeStr": "\u002B1.51%"
+      "price": 15.57,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.3,
-      "change": -3.5,
-      "changeStr": "-3.50%"
+      "price": 48.42,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     }
   ],
   "news": [
     {
-      "title": "Feriados em 2027: veja quais datas caem em dias \u00FAteis e podem render emendas",
+      "title": "Pressionado a cortar gastos, Lula diz que Brasil tem \u0027seriedade fiscal\u0027 e que \u0027pobre n\u00E3o pagar\u00E1 a conta\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/06/feriados-em-2027-veja-quais-datas-caem-em-dias-uteis-e-podem-render-emendas.ghtml",
-      "date": "Fri, 06 Nov 2026 07:00:00 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/11/06/pressionado-a-cortar-gastos-lula-diz-que-brasil-tem-responsabilidade-e-seriedade-fiscal-e-que-pobre-nao-vai-pagar-a-conta.ghtml",
+      "date": "Fri, 06 Nov 2026 16:05:07 -0000"
     },
     {
-      "title": "\u0027N\u00E3o falei com Lula nem tenho nada marcado. Isso foi plantado para queimar algu\u00E9m que defendeu a proposta\u0027, diz economista Andr\u00E9 Lara Rezende",
+      "title": "Jap\u00E3o anuncia pacote emergencial de ciberseguran\u00E7a ap\u00F3s onda de ataques",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/06/nao-falei-com-lula-nem-tenho-nada-marcado-isso-foi-plantado-para-queimar-alguem-que-defendeu-a-proposta-diz-economista-andre-lara-rezende.ghtml",
-      "date": "Fri, 06 Nov 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/06/japao-anuncia-pacote-emergencial-de-ciberseguranca-apos-onda-de-ataques.ghtml",
+      "date": "Fri, 06 Nov 2026 15:10:35 -0000"
     },
     {
-      "title": "IBGE abre inscri\u00E7\u00F5es para concurso com mais de 27 mil vagas e sal\u00E1rios que podem superar R$ 4 mil",
+      "title": "Servidores do IBGE t\u00EAm sal\u00E1rios zerados ap\u00F3s greve; sindicato contesta descontos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/06/ibge-abre-inscricoes-para-concurso-com-mais-de-27-mil-vagas-e-salarios-que-podem-superar-r-4-mil.ghtml",
-      "date": "Fri, 06 Nov 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/06/ibge-salarios-servidores.ghtml",
+      "date": "Fri, 06 Nov 2026 14:42:20 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 55 milh\u00F5es nesta sexta-feira; g1 transmite ao vivo",
+      "title": "UE exige que TikTok mude feeds personalizados por poss\u00EDveis efeitos nocivos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/06/mega-sena-pode-pagar-r-55-milhoes-nesta-sexta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Fri, 06 Nov 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/06/ue-exige-que-tiktok-modifique-os-feeds-personalizados-devido-aos-efeitos-nocivos.ghtml",
+      "date": "Fri, 06 Nov 2026 14:39:08 -0000"
     },
     {
-      "title": "\u0027Quase todo meu dinheiro est\u00E1 preso no banco\u0027: brasileiros que foram para o Paraguai s\u00E3o afetados pela crise no pa\u00EDs",
+      "title": "Como criar codornas para produ\u00E7\u00E3o de carne e ovos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/06/brasileiros-que-foram-para-o-paraguai-sao-afetados-pela-crise-no-pais.ghtml",
-      "date": "Fri, 06 Nov 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/06/como-criar-codornas-para-producao-de-carne-e-ovos.ghtml",
+      "date": "Fri, 06 Nov 2026 14:26:03 -0000"
     },
     {
-      "title": "Bolsa do Jap\u00E3o cai mais de 6% ap\u00F3s tombo de a\u00E7\u00F5es de IA nos EUA",
+      "title": "Lula faz primeiros acenos concretos na dire\u00E7\u00E3o de ajuste fiscal e alinha discurso com propostas de Durigan",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/05/bolsa-do-japao-cai-mais-de-6percent-apos-tombo-de-acoes-de-ia-nos-eua.ghtml",
-      "date": "Fri, 06 Nov 2026 01:42:45 -0000"
+      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/06/lula-faz-primeiros-acenos-concretos-na-direcao-de-ajuste-fiscal-e-alinha-discurso-com-propostas-de-durigan.ghtml",
+      "date": "Fri, 06 Nov 2026 13:19:14 -0000"
     },
     {
-      "title": "EUA anunciam que deixar\u00E3o de usar disquetes no controle de tr\u00E1fego a\u00E9reo at\u00E9 2028",
+      "title": "Trump chama IA de \u0027ouro\u0027 e defende expans\u00E3o ap\u00F3s queda de a\u00E7\u00F5es de tecnologia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/05/eua-anunciam-que-deixarao-de-usar-disquetes-no-controle-de-trafego-aereo-ate-2028.ghtml",
-      "date": "Thu, 05 Nov 2026 21:42:12 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/06/trump-chama-ia-de-ouro-e-defende-expansao-apos-queda-de-acoes-de-tecnologia.ghtml",
+      "date": "Fri, 06 Nov 2026 13:11:11 -0000"
     },
     {
-      "title": "Governo define lista de minerais cr\u00EDticos e estrat\u00E9gicos; veja quais s\u00E3o ",
+      "title": "Por que a corrida pela IA virou motivo de preocupa\u00E7\u00E3o e fez a\u00E7\u00F5es despencarem? Gigantes perderam US$ 1 trilh\u00E3o em um dia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/05/governo-define-lista-de-minerais-criticos-e-estrategicos-veja-quais-sao.ghtml",
-      "date": "Thu, 05 Nov 2026 21:26:11 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/06/acoes-ia-globais.ghtml",
+      "date": "Fri, 06 Nov 2026 12:43:18 -0000"
     },
     {
-      "title": "Lula diz que economia precisa estar \u0027arrumada\u0027 para atrair investimentos",
+      "title": "Minha Casa, Minha Vida: governo define regras para fam\u00EDlias afetadas por desastres e obras p\u00FAblicas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/11/05/lula-diz-que-economia-precisa-estar-arrumada-para-atrair-investimentos-ninguem-vai-querer-investir-em-economia-desordenada.ghtml",
-      "date": "Thu, 05 Nov 2026 21:08:31 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/06/minha-casa-minha-vida-imoveis-desastres-e-obras-publicas.ghtml",
+      "date": "Fri, 06 Nov 2026 12:22:50 -0000"
     },
     {
-      "title": "Ap\u00F3s reuni\u00E3o com Lula, Durigan diz que n\u00E3o h\u00E1 \u0027f\u00F3rmula m\u00E1gica\u0027 e fala em manter compromissos fiscais e da campanha",
+      "title": "A\u00E7\u00F5es da maior empresa de azeite do mundo despencam ap\u00F3s mercado avaliar que companhia receber\u00E1 menos com a venda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/05/apos-reuniao-com-lula-e-economistas-ministro-da-fazenda-diz-que-nao-ha-formula-magica-e-fala-em-manter-compromissos-fiscais.ghtml",
-      "date": "Thu, 05 Nov 2026 19:08:38 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/06/acoes-da-deoleo-maior-empresa-de-azeite-do-mundo-caem-apos-venda.ghtml",
+      "date": "Fri, 06 Nov 2026 12:17:46 -0000"
     }
   ]
 }
