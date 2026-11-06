@@ -2,60 +2,84 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168782.78,
-      "change": 1.56,
-      "changeStr": "\u002B1.56%"
+      "price": 168498.45,
+      "change": 1.39,
+      "changeStr": "\u002B1.39%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.39,
-      "change": -1.22,
-      "changeStr": "-1.22%"
+      "price": 45.36,
+      "change": -1.28,
+      "changeStr": "-1.28%"
     },
     {
       "symbol": "VALE3",
-      "price": 63.98,
-      "change": 2.09,
-      "changeStr": "\u002B2.09%"
+      "price": 64.04,
+      "change": 2.19,
+      "changeStr": "\u002B2.19%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.7,
-      "change": 1.83,
-      "changeStr": "\u002B1.83%"
+      "price": 40.53,
+      "change": 1.4,
+      "changeStr": "\u002B1.40%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.11,
-      "change": 2.47,
-      "changeStr": "\u002B2.47%"
+      "price": 14.2,
+      "change": 3.12,
+      "changeStr": "\u002B3.12%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.05,
-      "change": 3.4,
-      "changeStr": "\u002B3.40%"
+      "price": 17.13,
+      "change": 3.88,
+      "changeStr": "\u002B3.88%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.71,
-      "change": 5.16,
-      "changeStr": "\u002B5.16%"
+      "price": 5.61,
+      "change": 3.31,
+      "changeStr": "\u002B3.31%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.57,
-      "change": 0.58,
-      "changeStr": "\u002B0.58%"
+      "price": 15.48,
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 48.42,
-      "change": 0.25,
-      "changeStr": "\u002B0.25%"
+      "price": 48.19,
+      "change": -0.23,
+      "changeStr": "-0.23%"
     }
   ],
   "news": [
+    {
+      "title": "Pix fora do ar: quase 10 mil usu\u00E1rios relatam dificuldades em bancos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/06/pix-fora-do-ar-quase-10-mil-usuarios-relatam-dificuldades-em-bancos.ghtml",
+      "date": "Fri, 06 Nov 2026 22:51:04 -0000"
+    },
+    {
+      "title": "Paraguai come\u00E7a a devolver dinheiro a clientes do Ueno Bank",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/06/paraguai-comeca-a-devolver-dinheiro-a-clientes-de-banco-em-crise.ghtml",
+      "date": "Fri, 06 Nov 2026 21:24:47 -0000"
+    },
+    {
+      "title": "Apple restringe sugest\u00F5es de termos como \u0027Trump ditador\u0027 e \u0027Joe sonolento\u0027 no iPhone",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/06/apple-restringe-sugestoes-de-termos-como-trump-ditador-e-joe-sonolento-no-iphone.ghtml",
+      "date": "Fri, 06 Nov 2026 18:45:46 -0000"
+    },
+    {
+      "title": "Balan\u00E7a comercial tem super\u00E1vit de US$ 9,3 bilh\u00F5es em outubro, alta de 39,4%",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/06/balanca-comercial-tem-superavit-de-us-93-bilhoes-em-outubro-alta-de-394percent.ghtml",
+      "date": "Fri, 06 Nov 2026 18:26:32 -0000"
+    },
     {
       "title": "Pressionado a cortar gastos, Lula diz que Brasil tem \u0027seriedade fiscal\u0027 e que \u0027pobre n\u00E3o pagar\u00E1 a conta\u0027",
       "source": "G1 Economia",
@@ -91,30 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/06/lula-faz-primeiros-acenos-concretos-na-direcao-de-ajuste-fiscal-e-alinha-discurso-com-propostas-de-durigan.ghtml",
       "date": "Fri, 06 Nov 2026 13:19:14 -0000"
-    },
-    {
-      "title": "Trump chama IA de \u0027ouro\u0027 e defende expans\u00E3o ap\u00F3s queda de a\u00E7\u00F5es de tecnologia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/06/trump-chama-ia-de-ouro-e-defende-expansao-apos-queda-de-acoes-de-tecnologia.ghtml",
-      "date": "Fri, 06 Nov 2026 13:11:11 -0000"
-    },
-    {
-      "title": "Por que a corrida pela IA virou motivo de preocupa\u00E7\u00E3o e fez a\u00E7\u00F5es despencarem? Gigantes perderam US$ 1 trilh\u00E3o em um dia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/06/acoes-ia-globais.ghtml",
-      "date": "Fri, 06 Nov 2026 12:43:18 -0000"
-    },
-    {
-      "title": "Minha Casa, Minha Vida: governo define regras para fam\u00EDlias afetadas por desastres e obras p\u00FAblicas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/06/minha-casa-minha-vida-imoveis-desastres-e-obras-publicas.ghtml",
-      "date": "Fri, 06 Nov 2026 12:22:50 -0000"
-    },
-    {
-      "title": "A\u00E7\u00F5es da maior empresa de azeite do mundo despencam ap\u00F3s mercado avaliar que companhia receber\u00E1 menos com a venda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/06/acoes-da-deoleo-maior-empresa-de-azeite-do-mundo-caem-apos-venda.ghtml",
-      "date": "Fri, 06 Nov 2026 12:17:46 -0000"
     }
   ]
 }
