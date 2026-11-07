@@ -8,9 +8,9 @@
     },
     {
       "symbol": "PETR4",
-      "price": 45.36,
-      "change": -1.28,
-      "changeStr": "-1.28%"
+      "price": 45.3,
+      "change": -1.41,
+      "changeStr": "-1.41%"
     },
     {
       "symbol": "VALE3",
@@ -57,7 +57,13 @@
   ],
   "news": [
     {
-      "title": "Pix fora do ar: quase 10 mil usu\u00E1rios relatam dificuldades em bancos",
+      "title": "Mega-Sena 3082 acumula e pr\u00EAmio vai a R$ 60 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/06/mega-sena-concurso-3082-confira-os-numeros-sorteados.ghtml",
+      "date": "Sat, 07 Nov 2026 00:26:25 -0000"
+    },
+    {
+      "title": "PIX fora do ar? Usu\u00E1rios reclamam de instabilidade; Banco Central diz que problema foi resolvido",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/11/06/pix-fora-do-ar-quase-10-mil-usuarios-relatam-dificuldades-em-bancos.ghtml",
       "date": "Fri, 06 Nov 2026 22:51:04 -0000"
@@ -109,12 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/06/como-criar-codornas-para-producao-de-carne-e-ovos.ghtml",
       "date": "Fri, 06 Nov 2026 14:26:03 -0000"
-    },
-    {
-      "title": "Lula faz primeiros acenos concretos na dire\u00E7\u00E3o de ajuste fiscal e alinha discurso com propostas de Durigan",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/06/lula-faz-primeiros-acenos-concretos-na-direcao-de-ajuste-fiscal-e-alinha-discurso-com-propostas-de-durigan.ghtml",
-      "date": "Fri, 06 Nov 2026 13:19:14 -0000"
     }
   ]
 }
