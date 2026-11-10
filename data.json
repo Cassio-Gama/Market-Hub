@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171335.7,
+      "price": 171336.98,
       "change": -0.52,
       "changeStr": "-0.52%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.64,
-      "change": 1,
-      "changeStr": "\u002B1.00%"
+      "price": 44.95,
+      "change": -0.53,
+      "changeStr": "-0.53%"
     },
     {
       "symbol": "VALE3",
-      "price": 64.56,
-      "change": -2.34,
-      "changeStr": "-2.34%"
+      "price": 64.8,
+      "change": -1.98,
+      "changeStr": "-1.98%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.27,
-      "change": -1.08,
-      "changeStr": "-1.08%"
+      "price": 41.2,
+      "change": -1.25,
+      "changeStr": "-1.25%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.43,
-      "change": -1.7,
-      "changeStr": "-1.70%"
+      "price": 14.54,
+      "change": -0.95,
+      "changeStr": "-0.95%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.86,
-      "change": -0.94,
-      "changeStr": "-0.94%"
+      "price": 17.1,
+      "change": 0.47,
+      "changeStr": "\u002B0.47%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.36,
-      "change": 8.9,
-      "changeStr": "\u002B8.90%"
+      "price": 6.52,
+      "change": 11.64,
+      "changeStr": "\u002B11.64%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.75,
-      "change": 0.9,
-      "changeStr": "\u002B0.90%"
+      "price": 15.79,
+      "change": 1.15,
+      "changeStr": "\u002B1.15%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.38,
-      "change": 1.26,
-      "changeStr": "\u002B1.26%"
+      "price": 50.95,
+      "change": 0.41,
+      "changeStr": "\u002B0.41%"
     }
   ],
   "news": [
+    {
+      "title": "Governa acerta com Congresso projeto de ajuste fiscal que pode chegar a R$ 80 bi em 2027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/10/governa-acerta-com-congresso-projeto-de-ajuste-fiscal-de-05percent-do-pib-para-2027.ghtml",
+      "date": "Tue, 10 Nov 2026 22:03:53 -0000"
+    },
+    {
+      "title": "Nvidia perde R$ 2,5 trilh\u00F5es em 2 dias ap\u00F3s den\u00FAncias de infidelidade e suspeita de espionagem envolvendo CEO",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/10/nvidia-perde-r-25-trilhoes-em-2-dias-apos-denuncias-de-infidelidade-e-suspeita-de-espionagem-envolvendo-ceo.ghtml",
+      "date": "Tue, 10 Nov 2026 21:32:56 -0000"
+    },
+    {
+      "title": "Relator atende agroneg\u00F3cio e MP que renegocia d\u00EDvidas rurais \u00E9 aprovada na C\u00E2mara",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/11/10/relator-atende-agronegocio-e-mp-que-renegocia-dividas-rurais-e-aprovada-na-camara.ghtml",
+      "date": "Tue, 10 Nov 2026 21:24:04 -0000"
+    },
+    {
+      "title": "Free flow: governo come\u00E7a a enviar mensagens pelo WhatsApp a motoristas com d\u00EDvidas no ped\u00E1gio eletr\u00F4nico",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/11/10/free-flow-governo-comeca-a-enviar-mensagens-pelo-whatsapp-a-motoristas-com-dividas-no-pedagio-eletronico.ghtml",
+      "date": "Tue, 10 Nov 2026 20:33:08 -0000"
+    },
+    {
+      "title": "Gal\u00EDpolo diz que percep\u00E7\u00E3o de risco dos investidores ajuda a explicar juros altos no Brasil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/10/galipolo-juros-confianca-mercado-economia-cambio.ghtml",
+      "date": "Tue, 10 Nov 2026 20:13:38 -0000"
+    },
+    {
+      "title": "Diretor-geral da PF se desfilia de Associa\u00E7\u00E3o Nacional dos Delegados ap\u00F3s 24 anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/post/2026/11/10/diretor-geral-da-pf-se-desfilia-de-associacao-nacional-dos-delegados-apos-24-anos.ghtml",
+      "date": "Tue, 10 Nov 2026 18:59:11 -0000"
+    },
+    {
+      "title": "Espanha pede suspens\u00E3o do TikTok ap\u00F3s den\u00FAncias de abuso sexual infantil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/10/espanha-tik-tok.ghtml",
+      "date": "Tue, 10 Nov 2026 18:39:54 -0000"
+    },
+    {
+      "title": "Anthropic, dona do Claude, tem IPO estimado em US$ 1,4 trilh\u00E3o, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/10/ipo-anthropic-valor-estreia-na-bolsa.ghtml",
+      "date": "Tue, 10 Nov 2026 18:12:56 -0000"
+    },
+    {
+      "title": "11.11: como evitar problemas nas compras em pr\u00E9via da Black Friday",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/guia/guia-de-compras/1111-como-evitar-problemas-nas-compras-em-previa-da-black-friday-1.ghtml",
+      "date": "Tue, 10 Nov 2026 17:23:27 -0000"
+    },
     {
       "title": "Banco Central do Paraguai diz que j\u00E1 ressarciu 93% dos clientes do Ueno Bank",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/11/10/banco-central-do-paraguai-diz-que-ja-ressarciu-93percent-dos-clientes-do-ueno-bank.ghtml",
       "date": "Tue, 10 Nov 2026 16:17:03 -0000"
-    },
-    {
-      "title": "Quando vai ser a Black Friday 2026? Veja a data oficial e guia para n\u00E3o cair em golpes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/guia/guia-de-compras/presentes/quando-vai-ser-a-black-friday-2026-veja-a-data-oficial-e-guia-para-nao-cair-em-golpes.ghtml",
-      "date": "Tue, 10 Nov 2026 16:14:41 -0000"
-    },
-    {
-      "title": "Diesel ter\u00E1 mais biodiesel? Governo prev\u00EA aprovar em maio aumento da mistura para 20%",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/11/10/diesel-tera-mais-biodiesel-governo-preve-aprovar-em-2027.ghtml",
-      "date": "Tue, 10 Nov 2026 15:53:51 -0000"
-    },
-    {
-      "title": "Petr\u00F3leo cai abaixo de US$ 90 pela primeira vez desde agosto",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/10/petroleo-brent-cai-abaixo-de-us-90-pela-primeira-vez-desde-agosto.ghtml",
-      "date": "Tue, 10 Nov 2026 15:46:41 -0000"
-    },
-    {
-      "title": "Fabricante dos chips da Nvidia vai investir US$ 1 bilh\u00E3o na OpenAI e na Anthropic",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/10/dona-dos-chips-da-nvidia-vai-investir-us-1-bilhao-nas-criadoras-do-chatgpt-e-do-claude.ghtml",
-      "date": "Tue, 10 Nov 2026 15:38:01 -0000"
-    },
-    {
-      "title": "Microsoft pressiona Trump a desistir de proibi\u00E7\u00E3o de tecnologia chinesa para data centers",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/10/microsoft-pressiona-trump-a-desistir-de-proibicao-de-tecnologia-chinesa-para-data-centers.ghtml",
-      "date": "Tue, 10 Nov 2026 14:58:07 -0000"
-    },
-    {
-      "title": "\u0027Split payment\u0027: 98% das opera\u00E7\u00F5es entre empresas devem estar cobertas a partir de outubro de 2027, estima confedera\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/10/split-payment-98percent-das-operacoes-devem-estar-cobertas-ate-outubro-de-2027-estima-confederacao-dos-bancos.ghtml",
-      "date": "Tue, 10 Nov 2026 14:06:55 -0000"
-    },
-    {
-      "title": "EUA v\u00E3o usar IA para revisar dados agr\u00EDcolas ap\u00F3s s\u00E9rie de erros em relat\u00F3rios que influenciam pre\u00E7os",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/10/eua-vao-usar-ia-para-revisar-dados-agricolas-apos-serie-de-erros-em-relatorios-que-influenciam-precos.ghtml",
-      "date": "Tue, 10 Nov 2026 13:00:54 -0000"
-    },
-    {
-      "title": "Acionistas processam Nvidia e Jensen Huang por caso envolvendo poss\u00EDvel espi\u00E3 chinesa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/10/nvidia-acao-coletiva.ghtml",
-      "date": "Tue, 10 Nov 2026 12:47:58 -0000"
-    },
-    {
-      "title": "D\u00F3lar opera em alta e vai a R$ 5,60, de olho em dados de infla\u00E7\u00E3o nos EUA e ata do Copom; Ibovespa cai",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/10/dolar-ibovespa.ghtml",
-      "date": "Tue, 10 Nov 2026 12:00:00 -0000"
     }
   ]
 }
