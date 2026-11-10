@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172236.05,
-      "change": 2.22,
-      "changeStr": "\u002B2.22%"
+      "price": 171335.7,
+      "change": -0.52,
+      "changeStr": "-0.52%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.19,
-      "change": -0.37,
-      "changeStr": "-0.37%"
+      "price": 45.64,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "VALE3",
-      "price": 66.11,
-      "change": 3.23,
-      "changeStr": "\u002B3.23%"
+      "price": 64.56,
+      "change": -2.34,
+      "changeStr": "-2.34%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.72,
-      "change": 2.94,
-      "changeStr": "\u002B2.94%"
+      "price": 41.27,
+      "change": -1.08,
+      "changeStr": "-1.08%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.68,
-      "change": 3.38,
-      "changeStr": "\u002B3.38%"
+      "price": 14.43,
+      "change": -1.7,
+      "changeStr": "-1.70%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.02,
-      "change": -0.64,
-      "changeStr": "-0.64%"
+      "price": 16.86,
+      "change": -0.94,
+      "changeStr": "-0.94%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.84,
-      "change": 4.1,
-      "changeStr": "\u002B4.10%"
+      "price": 6.36,
+      "change": 8.9,
+      "changeStr": "\u002B8.90%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.61,
-      "change": 0.84,
-      "changeStr": "\u002B0.84%"
+      "price": 15.75,
+      "change": 0.9,
+      "changeStr": "\u002B0.90%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.74,
-      "change": 5.29,
-      "changeStr": "\u002B5.29%"
+      "price": 51.38,
+      "change": 1.26,
+      "changeStr": "\u002B1.26%"
     }
   ],
   "news": [
     {
-      "title": "Mel de aroeira \u00E9 estudado por potencial contra bact\u00E9ria ligada a gastrite, \u00FAlceras e c\u00E2ncer de est\u00F4mago",
+      "title": "Banco Central do Paraguai diz que j\u00E1 ressarciu 93% dos clientes do Ueno Bank",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/10/mel-de-aroeira-e-estudado-por-potencial-contra-bacteria-ligada-a-gastrite-ulceras-e-cancer-de-estomago.ghtml",
-      "date": "Tue, 10 Nov 2026 06:00:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/10/banco-central-do-paraguai-diz-que-ja-ressarciu-93percent-dos-clientes-do-ueno-bank.ghtml",
+      "date": "Tue, 10 Nov 2026 16:17:03 -0000"
     },
     {
-      "title": "China supera US$ 1 trilh\u00E3o em super\u00E1vit com impulso da IA",
+      "title": "Quando vai ser a Black Friday 2026? Veja a data oficial e guia para n\u00E3o cair em golpes",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/10/china-supera-us-1-trilhao-em-superavit-com-impulso-da-ia.ghtml",
-      "date": "Tue, 10 Nov 2026 03:59:30 -0000"
+      "url": "https://g1.globo.com/guia/guia-de-compras/presentes/quando-vai-ser-a-black-friday-2026-veja-a-data-oficial-e-guia-para-nao-cair-em-golpes.ghtml",
+      "date": "Tue, 10 Nov 2026 16:14:41 -0000"
     },
     {
-      "title": "O futuro da economia brasileira no quarto mandato de Lula - O Assunto #1842",
+      "title": "Diesel ter\u00E1 mais biodiesel? Governo prev\u00EA aprovar em maio aumento da mistura para 20%",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/10/o-futuro-da-economia-brasileira-no-quarto-mandato-de-lula-o-assunto-1842.ghtml",
-      "date": "Tue, 10 Nov 2026 03:30:01 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/11/10/diesel-tera-mais-biodiesel-governo-preve-aprovar-em-2027.ghtml",
+      "date": "Tue, 10 Nov 2026 15:53:51 -0000"
     },
     {
-      "title": "G\u00E1s do Povo: quem recebe o voucher de novembro e como consultar pelo CPF",
+      "title": "Petr\u00F3leo cai abaixo de US$ 90 pela primeira vez desde agosto",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/10/gas-do-povo-quem-recebe-o-voucher-de-novembro-e-como-consultar-pelo-cpf.ghtml",
-      "date": "Tue, 10 Nov 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/10/petroleo-brent-cai-abaixo-de-us-90-pela-primeira-vez-desde-agosto.ghtml",
+      "date": "Tue, 10 Nov 2026 15:46:41 -0000"
     },
     {
-      "title": "Reforma tribut\u00E1ria muda regras para renda com aluguel; veja como fica para pessoas f\u00EDsicas e jur\u00EDdicas",
+      "title": "Fabricante dos chips da Nvidia vai investir US$ 1 bilh\u00E3o na OpenAI e na Anthropic",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/10/reforma-tributaria-muda-regras-para-renda-com-aluguel-veja-como-fica-para-pessoas-fisicas-e-juridicas.ghtml",
-      "date": "Tue, 10 Nov 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/10/dona-dos-chips-da-nvidia-vai-investir-us-1-bilhao-nas-criadoras-do-chatgpt-e-do-claude.ghtml",
+      "date": "Tue, 10 Nov 2026 15:38:01 -0000"
     },
     {
-      "title": "Vale-refei\u00E7\u00E3o e alimenta\u00E7\u00E3o: decis\u00E3o da Justi\u00E7a n\u00E3o muda regra que beneficiou trabalhadores; entenda",
+      "title": "Microsoft pressiona Trump a desistir de proibi\u00E7\u00E3o de tecnologia chinesa para data centers",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/10/vale-refeicao-e-alimentacao-decisao-da-justica-nao-muda-regra-que-beneficiou-trabalhadores-entenda.ghtml",
-      "date": "Tue, 10 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/10/microsoft-pressiona-trump-a-desistir-de-proibicao-de-tecnologia-chinesa-para-data-centers.ghtml",
+      "date": "Tue, 10 Nov 2026 14:58:07 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 3,5 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
+      "title": "\u0027Split payment\u0027: 98% das opera\u00E7\u00F5es entre empresas devem estar cobertas a partir de outubro de 2027, estima confedera\u00E7\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/10/mega-sena-pode-pagar-r-35-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Tue, 10 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/10/split-payment-98percent-das-operacoes-devem-estar-cobertas-ate-outubro-de-2027-estima-confederacao-dos-bancos.ghtml",
+      "date": "Tue, 10 Nov 2026 14:06:55 -0000"
     },
     {
-      "title": "\u00C1rea t\u00E9cnica da Aneel prop\u00F5e detalhar na conta de luz hor\u00E1rios de maior e menor consumo; entenda",
+      "title": "EUA v\u00E3o usar IA para revisar dados agr\u00EDcolas ap\u00F3s s\u00E9rie de erros em relat\u00F3rios que influenciam pre\u00E7os",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/10/area-tecnica-da-aneel-propoe-detalhar-na-conta-de-luz-horarios-de-maior-e-menor-consumo-entenda.ghtml",
-      "date": "Tue, 10 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/10/eua-vao-usar-ia-para-revisar-dados-agricolas-apos-serie-de-erros-em-relatorios-que-influenciam-precos.ghtml",
+      "date": "Tue, 10 Nov 2026 13:00:54 -0000"
     },
     {
-      "title": "Governo prorroga desonera\u00E7\u00E3o da gasolina e do etanol por mais 30 dias",
+      "title": "Acionistas processam Nvidia e Jensen Huang por caso envolvendo poss\u00EDvel espi\u00E3 chinesa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/09/governo-prorroga-deseneracao-da-gasolina-e-do-etanol-por-mais-30-dias.ghtml",
-      "date": "Tue, 10 Nov 2026 01:34:09 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/10/nvidia-acao-coletiva.ghtml",
+      "date": "Tue, 10 Nov 2026 12:47:58 -0000"
     },
     {
-      "title": "Minist\u00E9rio pede derrubada de 348 perfis de influenciadores que divulgam bets ilegais",
+      "title": "D\u00F3lar opera em alta e vai a R$ 5,60, de olho em dados de infla\u00E7\u00E3o nos EUA e ata do Copom; Ibovespa cai",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/11/09/ministerio-pede-derrubada-de-348-perfis-de-influenciadores-que-divulgam-bets-ilegais.ghtml",
-      "date": "Tue, 10 Nov 2026 00:39:58 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/10/dolar-ibovespa.ghtml",
+      "date": "Tue, 10 Nov 2026 12:00:00 -0000"
     }
   ]
 }
