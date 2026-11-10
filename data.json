@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 170401.7,
-      "change": 1.13,
-      "changeStr": "\u002B1.13%"
+      "price": 172236.05,
+      "change": 2.22,
+      "changeStr": "\u002B2.22%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.31,
-      "change": -0.11,
-      "changeStr": "-0.11%"
+      "price": 45.19,
+      "change": -0.37,
+      "changeStr": "-0.37%"
     },
     {
       "symbol": "VALE3",
-      "price": 65.79,
-      "change": 2.73,
-      "changeStr": "\u002B2.73%"
+      "price": 66.11,
+      "change": 3.23,
+      "changeStr": "\u002B3.23%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.06,
-      "change": 1.31,
-      "changeStr": "\u002B1.31%"
+      "price": 41.72,
+      "change": 2.94,
+      "changeStr": "\u002B2.94%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.47,
-      "change": 1.9,
-      "changeStr": "\u002B1.90%"
+      "price": 14.68,
+      "change": 3.38,
+      "changeStr": "\u002B3.38%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.98,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "price": 17.02,
+      "change": -0.64,
+      "changeStr": "-0.64%"
     },
     {
       "symbol": "MGLU3",
-      "price": 5.75,
-      "change": 2.5,
-      "changeStr": "\u002B2.50%"
+      "price": 5.84,
+      "change": 4.1,
+      "changeStr": "\u002B4.10%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.41,
-      "change": -0.45,
-      "changeStr": "-0.45%"
+      "price": 15.61,
+      "change": 0.84,
+      "changeStr": "\u002B0.84%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.82,
-      "change": 3.38,
-      "changeStr": "\u002B3.38%"
+      "price": 50.74,
+      "change": 5.29,
+      "changeStr": "\u002B5.29%"
     }
   ],
   "news": [
+    {
+      "title": "PIX bate novo recorde e registra 319,7 milh\u00F5es de transa\u00E7\u00F5es em um dia ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/09/pix-bate-novo-recorde-e-registra-3197-milhoes-de-transacoes-em-um-dia.ghtml",
+      "date": "Mon, 09 Nov 2026 21:52:49 -0000"
+    },
+    {
+      "title": "Anthropic, criadora do Claude, lan\u00E7a IA mais potente e barata a uma semana de poss\u00EDvel estreia na bolsa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/09/anthropic-lanca-ia-bolsa.ghtml",
+      "date": "Mon, 09 Nov 2026 20:05:55 -0000"
+    },
+    {
+      "title": "Governo aumenta imposto para pneus importados; tarifa vai de 16% para 30% ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/11/09/governo-eleva-tarifa-de-importacao-de-pneus-de-carros.ghtml",
+      "date": "Mon, 09 Nov 2026 19:24:06 -0000"
+    },
+    {
+      "title": "MPT processa Bella Falconi por posts que sugeriam contratar e manter funcion\u00E1rios conforme suas opini\u00F5es pol\u00EDticas e pede R$ 5 milh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/09/mpt-processa-bella-falconi-posts-politica.ghtml",
+      "date": "Mon, 09 Nov 2026 18:48:29 -0000"
+    },
+    {
+      "title": "Em manifesto, 7 entidades pedem ao governo e ao Congresso eleitos prioridade no combate a supersal\u00E1rios",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/11/09/em-manifesto-7-entidades-pedem-ao-governo-e-ao-congresso-eleitos-prioridade-no-combate-a-supersalarios.ghtml",
+      "date": "Mon, 09 Nov 2026 18:47:26 -0000"
+    },
+    {
+      "title": "Avi\u00E3o da Airbus passa 24 horas no ar, bate recorde no Guinness e \u00E9 testado para voos sem escalas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/11/09/aviao-da-airbus-24-horas.ghtml",
+      "date": "Mon, 09 Nov 2026 17:44:00 -0000"
+    },
+    {
+      "title": "Caixa muda identidade visual pela 1\u00AA vez em quase 30 anos; veja evolu\u00E7\u00E3o do logo desde 1861",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/09/caixa-logo-30-anos.ghtml",
+      "date": "Mon, 09 Nov 2026 16:37:23 -0000"
+    },
+    {
+      "title": "Cadeira de R$ 100 mil, TVs e m\u00F3veis: veja o que saiu no primeiro leil\u00E3o do Master e o que vem no pr\u00F3ximo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/09/cadeira-de-r-100-mil-tvs-e-moveis-veja-o-que-saiu-no-primeiro-leilao-do-master-e-o-que-vem-no-proximo.ghtml",
+      "date": "Mon, 09 Nov 2026 16:29:51 -0000"
+    },
+    {
+      "title": "Fran\u00E7a acusa grupo ligado ao Ir\u00E3 por ataque a geladeiras de supermercados e anuncia san\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/2026/franca-ataque-geladeiras.ghtml",
+      "date": "Mon, 09 Nov 2026 16:26:00 -0000"
+    },
     {
       "title": "China estende tr\u00E9gua comercial com os EUA at\u00E9 janeiro de 2027",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/11/09/china-estende-tregua-comercial-com-os-eua-ate-janeiro-de-2027.ghtml",
       "date": "Mon, 09 Nov 2026 15:02:16 -0000"
-    },
-    {
-      "title": "Grupo brasileiro compra dona da Maguary e do Flying Horse por R$ 500 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/negocios/noticia/2026/11/09/grupo-brasileiro-compra-dona-da-maguary-e-do-flying-horse-por-r-500-milhoes.ghtml",
-      "date": "Mon, 09 Nov 2026 14:32:44 -0000"
-    },
-    {
-      "title": "Trai\u00E7\u00E3o envolvendo CEO da Nvidia rende memes nas redes sociais",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/09/traicao-envolvendo-ceo-da-nvidia-rende-memes-nas-redes-sociais.ghtml",
-      "date": "Mon, 09 Nov 2026 14:20:26 -0000"
-    },
-    {
-      "title": "Paraguai escolhe novo chefe do Banco Central ap\u00F3s colapso de banco digital e crise pol\u00EDtica",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/09/paraguai-escolhe-novo-chefe-do-banco-central-apos-colapso-de-banco-digital-e-crise-politica.ghtml",
-      "date": "Mon, 09 Nov 2026 13:53:57 -0000"
-    },
-    {
-      "title": "Quem \u00E9 Alice Huang, suposta amante do CEO da Nvidia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/09/quem-e-alice-huang-empresaria-chinesa-acusada-de-espionar-ceo-da-nvidia.ghtml",
-      "date": "Mon, 09 Nov 2026 12:59:13 -0000"
-    },
-    {
-      "title": "G\u00E1s do Povo: governo prorroga at\u00E9 2031 programa que prev\u00EA recargas gr\u00E1tis para fam\u00EDlias de baixa renda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/09/governo-federal-prorroga-ate-2031-programa-gas-do-povo.ghtml",
-      "date": "Mon, 09 Nov 2026 12:35:09 -0000"
-    },
-    {
-      "title": "Mercado eleva estimativa de infla\u00E7\u00E3o para 2027 e passa a prever corte de juros s\u00F3 em mar\u00E7o do ano que vem",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/09/mercado-eleva-estimativa-de-inflacao-para-2027-e-passa-a-prever-corte-de-juros-so-em-marco-do-ano-que-vem.ghtml",
-      "date": "Mon, 09 Nov 2026 12:06:33 -0000"
-    },
-    {
-      "title": "D\u00F3lar sobe com proje\u00E7\u00F5es de infla\u00E7\u00E3o e dados da balan\u00E7a comercial no radar; Ibovespa avan\u00E7a",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/09/dolar-ibovespa.ghtml",
-      "date": "Mon, 09 Nov 2026 12:00:01 -0000"
-    },
-    {
-      "title": "Filipinas suspendem importa\u00E7\u00F5es de carne de porco por 60 dias; pa\u00EDs \u00E9 maior cliente do Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/09/filipinas-proibem-importacoes-de-carne-de-porco-por-60-dias-pais-e-maior-cliente-do-brasil.ghtml",
-      "date": "Mon, 09 Nov 2026 11:45:51 -0000"
-    },
-    {
-      "title": "De lavador de pratos a bilion\u00E1rio: quem \u00E9 o CEO da Nvidia envolvido em caso de trai\u00E7\u00E3o e suspeita de espionagem",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/09/de-lavador-de-pratos-a-bilionario-quem-e-o-ceo-da-nvidia-envolvido-em-caso-de-traicao-e-suspeita-de-espionagem.ghtml",
-      "date": "Mon, 09 Nov 2026 11:21:52 -0000"
     }
   ]
 }
