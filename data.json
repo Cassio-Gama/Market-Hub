@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171336.98,
-      "change": -0.52,
-      "changeStr": "-0.52%"
+      "price": 172385.03,
+      "change": 0.61,
+      "changeStr": "\u002B0.61%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.95,
-      "change": -0.53,
-      "changeStr": "-0.53%"
+      "price": 44.09,
+      "change": -1.91,
+      "changeStr": "-1.91%"
     },
     {
       "symbol": "VALE3",
-      "price": 64.8,
-      "change": -1.98,
-      "changeStr": "-1.98%"
+      "price": 64.55,
+      "change": -0.39,
+      "changeStr": "-0.39%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.2,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 41.67,
+      "change": 1.14,
+      "changeStr": "\u002B1.14%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.54,
-      "change": -0.95,
-      "changeStr": "-0.95%"
+      "price": 14.52,
+      "change": -0.14,
+      "changeStr": "-0.14%"
     },
     {
       "symbol": "BBAS3",
-      "price": 17.1,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
+      "price": 17.11,
+      "change": 0.06,
+      "changeStr": "\u002B0.06%"
     },
     {
       "symbol": "MGLU3",
-      "price": 6.52,
-      "change": 11.64,
-      "changeStr": "\u002B11.64%"
+      "price": 7.59,
+      "change": 16.41,
+      "changeStr": "\u002B16.41%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.79,
-      "change": 1.15,
-      "changeStr": "\u002B1.15%"
+      "price": 15.78,
+      "change": -0.06,
+      "changeStr": "-0.06%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.95,
-      "change": 0.41,
-      "changeStr": "\u002B0.41%"
+      "price": 51.91,
+      "change": 1.88,
+      "changeStr": "\u002B1.88%"
     }
   ],
   "news": [
     {
-      "title": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos; entenda o paradoxo",
+      "title": "Ajuste fiscal em negocia\u00E7\u00E3o com o Senado vai \u0027racionalizar algumas despesas\u0027; impacto pode chegar a R$ 60 bi em 2027, diz ministro",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/11/brasil-nunca-produziu-tanta-carne-bovina-mas-brasileiro-come-cada-vez-menos-entenda-o-paradoxo.ghtml",
-      "date": "Wed, 11 Nov 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/11/11/ajuste-fiscal-em-negociacao-com-o-senado-vai-racionalizar-algumas-despesas-impacto-pode-chegar-a-r-60-bi-em-2027-diz-ministro.ghtml",
+      "date": "Wed, 11 Nov 2026 18:25:05 -0000"
     },
     {
-      "title": "F\u00E9rias em 2027: veja como emendar feriados e ganhar at\u00E9 sete dias extras de descanso",
+      "title": "Fiat mostra Argo X e revela detalhes do novo visual que a marca vai adotar no Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/11/ferias-em-2027-veja-como-emendar-feriados-e-ganhar-ate-sete-dias-extras-de-descanso.ghtml",
-      "date": "Wed, 11 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/11/11/fiat-mostra-argo-x.ghtml",
+      "date": "Wed, 11 Nov 2026 16:50:06 -0000"
     },
     {
-      "title": "13\u00BA sal\u00E1rio caiu na conta: pagar d\u00EDvidas, guardar ou gastar? Veja como decidir",
+      "title": "Governo descarta adiamento da reforma tribut\u00E1ria",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/11/11/o-que-fazer-com-o-13o-salario.ghtml",
-      "date": "Wed, 11 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/11/governo-descarta-adiamento-da-reforma-tributaria.ghtml",
+      "date": "Wed, 11 Nov 2026 16:25:56 -0000"
     },
     {
-      "title": "Free flow: qual o prazo para pagar sem multa? Como consultar as tarifas? Veja perguntas e respostas",
+      "title": "Reforma tribut\u00E1ria: governo adia para mar\u00E7o emiss\u00E3o de notas fiscais do Simples Nacional, exceto de presta\u00E7\u00E3o de servi\u00E7o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/11/11/free-flow-whatsapp.ghtml",
-      "date": "Wed, 11 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-governo-adia-para-marco-emissao-de-notas-fiscais-do-simples-nacional-exceto-de-prestacao-de-servico.ghtml",
+      "date": "Wed, 11 Nov 2026 15:55:45 -0000"
     },
     {
-      "title": "Quanto custa matar a saudade do Brasil? Comidas t\u00EDpicas s\u00E3o at\u00E9 179% mais caras no exterior",
+      "title": "Governo notifica Uber ap\u00F3s relatos de recusas de passageiros por discrimina\u00E7\u00E3o pol\u00EDtica",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/11/quanto-custa-matar-a-saudade-do-brasil-comidas-tipicas-sao-ate-179percent-mais-caras-no-exterior.ghtml",
-      "date": "Wed, 11 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/11/governo-notifica-uber-apos-relatos-de-recusas-de-passageiros-por-discriminacao-politica.ghtml",
+      "date": "Wed, 11 Nov 2026 15:50:16 -0000"
     },
     {
-      "title": "Open Energy promete conta de luz mais baixa para quem compartilhar informa\u00E7\u00F5es; saiba como vai funcionar",
+      "title": "Reforma tribut\u00E1ria: sem benef\u00EDcios aprovados pelo Congresso, imposto do governo cairia de 11,3% para 8,5% em 2027, estima Receita",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/11/open-energy-promete-conta-de-luz-mais-baixa-para-quem-compartilhar-informacoes-saiba-como-vai-funcionar.ghtml",
-      "date": "Wed, 11 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-sem-beneficios-aprovados-pelo-congresso-imposto-do-governo-cairia-de-113percent-para-85percent-estima-receita-federal.ghtml",
+      "date": "Wed, 11 Nov 2026 15:36:12 -0000"
     },
     {
-      "title": "Como o caso do CEO da Nvidia com suposta espi\u00E3 chinesa impacta o setor de IA",
+      "title": "Nvidia perde quase R$ 6 trilh\u00F5es ap\u00F3s caso envolvendo CEO, mais que toda a bolsa brasileira ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/11/como-o-caso-do-ceo-da-nvidia-com-suposta-espia-chinesa-impacta-o-setor-de-ia.ghtml",
-      "date": "Wed, 11 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/11/nvidia-bolsa-brasileira.ghtml",
+      "date": "Wed, 11 Nov 2026 15:20:29 -0000"
     },
     {
-      "title": "Governo articula medida de ajuste nas contas que muda c\u00E1lculo dos pisos da sa\u00FAde e da educa\u00E7\u00E3o; entenda ",
+      "title": "Promo\u00E7\u00E3o ou pegadinha? g1 compara pre\u00E7os do 11.11 e revela o que realmente baixou ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/11/governo-articula-medida-de-ajuste-nas-contas-que-muda-calculo-dos-pisos-da-saude-e-da-educacao-entenda.ghtml",
-      "date": "Wed, 11 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/guia/guia-de-compras/promocao-ou-pegadinha-g1-compara-precos-do-11-11-e-revela-o-que-realmente-baixou.ghtml",
+      "date": "Wed, 11 Nov 2026 15:05:57 -0000"
     },
     {
-      "title": "O que \u00E9 o 11.11? Entenda a data e como funcionam os descontos",
+      "title": "Carros vindos da China j\u00E1 vendem duas vezes mais que os da Argentina no Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/guia/guia-de-compras/o-que-e-o-1111-entenda-a-data-e-como-funcionam-os-descontos.ghtml",
-      "date": "Wed, 11 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/11/11/resultados-anfavea.ghtml",
+      "date": "Wed, 11 Nov 2026 14:00:02 -0000"
     },
     {
-      "title": "Ueno Bank, no Paraguai: o que aconteceu com o dinheiro e quanto falta recuperar?",
+      "title": "Reforma tribut\u00E1ria: governo vai propor que primeiro pagamento da CBS seja feito em fevereiro, diz secret\u00E1rio da Receita Federal",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/11/ueno-bank-no-paraguai-o-que-aconteceu-com-o-dinheiro-e-quanto-falta-recuperar.ghtml",
-      "date": "Wed, 11 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-receita-confirma-inicio-da-cbs-em-janeiro-de-2027-e-diz-que-contribuinte-que-agir-de-boa-fe-nao-sera-multado.ghtml",
+      "date": "Wed, 11 Nov 2026 13:11:46 -0000"
     }
   ]
 }
