@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172060.44,
-      "change": 0.42,
-      "changeStr": "\u002B0.42%"
+      "price": 171066.27,
+      "change": -0.58,
+      "changeStr": "-0.58%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.55,
-      "change": -3.11,
-      "changeStr": "-3.11%"
+      "price": 44.58,
+      "change": 2.37,
+      "changeStr": "\u002B2.37%"
     },
     {
       "symbol": "VALE3",
-      "price": 64.43,
-      "change": -0.57,
-      "changeStr": "-0.57%"
+      "price": 64.34,
+      "change": -0.14,
+      "changeStr": "-0.14%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.72,
-      "change": 1.26,
-      "changeStr": "\u002B1.26%"
+      "price": 41.54,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.33,
-      "change": -1.44,
-      "changeStr": "-1.44%"
+      "price": 14.19,
+      "change": -0.98,
+      "changeStr": "-0.98%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.89,
-      "change": -1.23,
-      "changeStr": "-1.23%"
+      "price": 15.59,
+      "change": -7.7,
+      "changeStr": "-7.70%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.66,
-      "change": 17.48,
-      "changeStr": "\u002B17.48%"
+      "price": 7.3,
+      "change": -4.7,
+      "changeStr": "-4.70%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.85,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 15.75,
+      "change": -0.63,
+      "changeStr": "-0.63%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.61,
-      "change": 1.3,
-      "changeStr": "\u002B1.30%"
+      "price": 51.33,
+      "change": -0.54,
+      "changeStr": "-0.54%"
     }
   ],
   "news": [
     {
-      "title": "Novo ranking de melhores empresas para trabalhar no Brasil tem surpresa na lideran\u00E7a; veja lista",
+      "title": "Justi\u00E7a suspende cobran\u00E7a de taxa da Uber para motoristas aceitarem corridas em todo o Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/12/novo-ranking-de-melhores-empresas-para-trabalhar-no-brasil-tem-surpresa-na-lideranca-veja-lista.ghtml",
-      "date": "Thu, 12 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/12/justica-suspende-cobranca-de-taxa-da-uber-para-motoristas.ghtml",
+      "date": "Thu, 12 Nov 2026 17:54:07 -0000"
     },
     {
-      "title": "Senado deve votar pacote de medidas fiscais nesta quinta; governo fala em um impacto de at\u00E9 R$ 60 bi   ",
+      "title": "Governo prev\u00EA convocar 1,3 mil aprovados em concursos ainda em 2026; veja \u00F3rg\u00E3os e cargos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/11/12/senado-deve-votar-pacote-de-medidas-fiscais-nesta-quinta-governo-fala-em-um-impacto-de-ate-r-60-bi.ghtml",
-      "date": "Thu, 12 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/12/concurso-governo-cnpu.ghtml",
+      "date": "Thu, 12 Nov 2026 17:43:10 -0000"
     },
     {
-      "title": "Jensen Huang: O papel do CEO da Nvidia investigado por caso com suposta espi\u00E3 na guerra tecnol\u00F3gica entre EUA e China",
+      "title": "Congresso aprova projeto que autoriza governo a usar R$ 26 bilh\u00F5es em empr\u00E9stimos para pagar Bolsa Fam\u00EDlia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/jensen-huang-o-papel-do-ceo-da-nvidia-investigado-por-caso-com-suposta-espia-na-guerra-tecnologica-entre-eua-e-china.ghtml",
-      "date": "Thu, 12 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/11/12/congresso-aprova-projeto-que-autoriza-governo-a-usar-r-26-bilhoes-em-emprestimos-para-pagar-bolsa-familia.ghtml",
+      "date": "Thu, 12 Nov 2026 16:33:14 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 20 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "title": "Ataque hacker exp\u00F5e CPFs de 7,6 milh\u00F5es de clientes da Caixa; veja quais dados vazaram",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/12/mega-sena-pode-pagar-r-20-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 12 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/caixa-ataque-dados-pix.ghtml",
+      "date": "Thu, 12 Nov 2026 16:20:29 -0000"
     },
     {
-      "title": "Americanas tem preju\u00EDzo de R$ 352 milh\u00F5es no 3\u00BA trimestre",
+      "title": "BB: expectativa eleitoral do agroneg\u00F3cio por perd\u00E3o de d\u00EDvidas rurais ajuda a explicar tombo no resultado",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/11/prejuizo-americanas.ghtml",
-      "date": "Thu, 12 Nov 2026 01:15:50 -0000"
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/12/bb-inadimplencia-do-agronegocio-aumentou-com-expectativa-eleitoral-de-perdao-das-dividas-e-ajuda-a-explicar-queda-no-lucro.ghtml",
+      "date": "Thu, 12 Nov 2026 15:53:19 -0000"
     },
     {
-      "title": "Lucro do Banco do Brasil cai 66,5% no 3\u00BA trimestre, para R$ 1,27 bilh\u00E3o ",
+      "title": "Petrobras anuncia compra de empresa de transporte de etanol por R$ 620 milh\u00F5es",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/11/banco-do-brasil-bb-resultados-3t26.ghtml",
-      "date": "Wed, 11 Nov 2026 23:03:11 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/12/petrobras-anuncia-compra-de-empresa-de-transporte-de-etanol-por-r-620-milhoes.ghtml",
+      "date": "Thu, 12 Nov 2026 15:40:46 -0000"
     },
     {
-      "title": "Baic Arcfox T5 chega ao Brasil por R$ 219.990; SUV el\u00E9trico recarrega em 18 minutos",
+      "title": "Banco do Brasil diz que parte do agro deu calote \u00E0 espera de novas medidas de renegocia\u00E7\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/11/11/baic-arcfox-t5.ghtml",
-      "date": "Wed, 11 Nov 2026 22:25:02 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/banco-do-brasil-dividas-do-agro.ghtml",
+      "date": "Thu, 12 Nov 2026 15:33:28 -0000"
     },
     {
-      "title": "CEO da Nvidia teve outro caso extraconjugal, com executiva da empresa, diz jornal",
+      "title": "Crise na Nvidia: veja como o caso come\u00E7ou e levou \u00E0 ren\u00FAncia de Jensen Huang, fundador da empresa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/11/nvidia-novo-caso-ceo.ghtml",
-      "date": "Wed, 11 Nov 2026 22:09:58 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/crise-na-nvidia-jensen-huang.ghtml",
+      "date": "Thu, 12 Nov 2026 15:19:04 -0000"
     },
     {
-      "title": "Limite de supersal\u00E1rios, mudan\u00E7as no piso da sa\u00FAde; veja as medidas do governo para ajuste fiscal de at\u00E9 R$ 60 bilh\u00F5es",
+      "title": "\u0027\u00C9 o pior momento em quase 5 anos\u0027: por que as a\u00E7\u00F5es do Banco do Brasil derretem quase 10% na Bolsa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/11/limite-de-supersalarios-mudancas-no-piso-da-saude-veja-as-medidas-do-governo-para-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml",
-      "date": "Wed, 11 Nov 2026 22:03:09 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/banco-do-brasil-ibovespa.ghtml",
+      "date": "Thu, 12 Nov 2026 15:05:45 -0000"
     },
     {
-      "title": "Senado aprova MP que renegocia d\u00EDvidas rurais e retira mudan\u00E7as em regras propostas pela C\u00E2mara sobre cigarros eletr\u00F4nicos",
+      "title": "Veja o que Lula disse sobre contas p\u00FAblicas antes de proposta de ajuste fiscal de R$ 60 bilh\u00F5es",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/11/11/senado-aprova-mp-que-renegocia-dividas-rurais-e-retira-mudancas-em-regras-propostas-pela-camara-sobre-cigarros-eletronicos.ghtml",
-      "date": "Wed, 11 Nov 2026 21:41:25 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/11/12/lula-falas-ajuste-fiscal.ghtml",
+      "date": "Thu, 12 Nov 2026 14:58:48 -0000"
     }
   ]
 }
