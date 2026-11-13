@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171324.31,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 172278.23,
+      "change": 0.56,
+      "changeStr": "\u002B0.56%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.7,
-      "change": 2.64,
-      "changeStr": "\u002B2.64%"
+      "price": 45.08,
+      "change": 0.85,
+      "changeStr": "\u002B0.85%"
     },
     {
       "symbol": "VALE3",
-      "price": 63.95,
-      "change": -0.74,
-      "changeStr": "-0.74%"
+      "price": 63.33,
+      "change": -0.97,
+      "changeStr": "-0.97%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.68,
-      "change": -0.1,
-      "changeStr": "-0.10%"
+      "price": 42.32,
+      "change": 1.54,
+      "changeStr": "\u002B1.54%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.32,
-      "change": -0.07,
-      "changeStr": "-0.07%"
+      "price": 14.42,
+      "change": 0.7,
+      "changeStr": "\u002B0.70%"
     },
     {
       "symbol": "BBAS3",
-      "price": 15.48,
-      "change": -8.35,
-      "changeStr": "-8.35%"
+      "price": 15.09,
+      "change": -2.52,
+      "changeStr": "-2.52%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.07,
-      "change": -7.7,
-      "changeStr": "-7.70%"
+      "price": 7.6,
+      "change": 7.5,
+      "changeStr": "\u002B7.50%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.75,
-      "change": -0.63,
-      "changeStr": "-0.63%"
+      "price": 15.81,
+      "change": 0.38,
+      "changeStr": "\u002B0.38%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.65,
-      "change": 0.08,
-      "changeStr": "\u002B0.08%"
+      "price": 51.13,
+      "change": -1.01,
+      "changeStr": "-1.01%"
     }
   ],
   "news": [
     {
-      "title": "Futuro ministro da Fazenda: veja quem s\u00E3o os cotados e o que est\u00E1 em jogo na escolha de Lula",
+      "title": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/13/futuro-ministro-da-fazenda-veja-quem-sao-os-cotados-e-o-que-esta-em-jogo-na-escolha-de-lula.ghtml",
-      "date": "Fri, 13 Nov 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-voltou-por-que-demorou-para-microsoft-resolver-o-problema.ghtml",
+      "date": "Fri, 13 Nov 2026 15:57:18 -0000"
     },
     {
-      "title": "Outlook e IA da Microsoft seguem inst\u00E1veis nesta sexta-feira",
+      "title": "Placar do ajuste fiscal no Senado indica que Lula ter\u00E1 dificuldades para aprovar PECs em 2027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-e-ia-da-microsoft-seguem-instaveis-nesta-sexta-feira.ghtml",
-      "date": "Fri, 13 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/13/placar-do-ajuste-fiscal-no-senado-indica-que-o-governo-tera-dificuldades-para-aprovar-pecs-em-2027.ghtml",
+      "date": "Fri, 13 Nov 2026 15:23:13 -0000"
     },
     {
-      "title": "Proclama\u00E7\u00E3o da Rep\u00FAblica \u00E9 feriado ou ponto facultativo? Veja os direitos de quem trabalha",
+      "title": "Volkswagen lucra apenas R$ 75 por ve\u00EDculo vendido, aponta estudo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/13/proclamacao-da-republica-e-feriado.ghtml",
-      "date": "Fri, 13 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/11/13/volkswagen-lucra-apenas-r-75-por-veiculo-vendido-aponta-estudo.ghtml",
+      "date": "Fri, 13 Nov 2026 15:15:24 -0000"
     },
     {
-      "title": "Mega-Sena 3085 acumula e pr\u00EAmio vai a R$ 27 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "title": "Faxes, celulares e Bluetooth: queda da Microsoft for\u00E7a empresas a recorrer a solu\u00E7\u00F5es antigas\n",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/12/mega-sena-concurso-3085-confira-os-numeros-sorteados.ghtml",
-      "date": "Fri, 13 Nov 2026 00:03:17 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/faxes-celulares-e-bluetooth-queda-da-microsoft.ghtml",
+      "date": "Fri, 13 Nov 2026 15:03:08 -0000"
     },
     {
-      "title": "Ataque hacker ao Tesouro Nacional exp\u00F5e dados de 30 mil cadastros e 4 mil chaves PIX",
+      "title": "Por risco de inc\u00EAndio, ag\u00EAncia dos EUA orienta donos de 720 mil carros da BMW a estacionar ao ar livre",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/12/tesouro-nacional-incidente-seguranca.ghtml",
-      "date": "Thu, 12 Nov 2026 23:13:57 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/11/13/recomendacao-modelos-bmw.ghtml",
+      "date": "Fri, 13 Nov 2026 14:59:18 -0000"
     },
     {
-      "title": "Minist\u00E9rio da Sa\u00FAde abre processo seletivo com centenas de vagas e sal\u00E1rios de at\u00E9 R$ 10,3 mil",
+      "title": "Hugo Motta pode debater projeto de ajuste fiscal com l\u00EDderes na C\u00E2mara j\u00E1 na pr\u00F3xima semana   ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/12/ministerio-da-saude-processo-seletivo.ghtml",
-      "date": "Thu, 12 Nov 2026 20:42:59 -0000"
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/13/hugo-motta-pode-debater-projeto-de-ajuste-fiscal-com-lideres-na-camara-ja-na-proxima-semana.ghtml",
+      "date": "Fri, 13 Nov 2026 14:03:24 -0000"
     },
     {
-      "title": "Produtores de soja rebatem Banco do Brasil sobre d\u00EDvidas do agro; estatal nega ter culpado todo o setor",
+      "title": "Presidente do BB explica quem s\u00E3o os produtores que n\u00E3o aderiram \u00E0 renegocia\u00E7\u00E3o do banco",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/nota-aprosoja.ghtml",
-      "date": "Thu, 12 Nov 2026 20:40:36 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/presidente-do-bb-explica-quem-sao-os-produtores-que-nao-aderiram-a-renegociacao-do-banco.ghtml",
+      "date": "Fri, 13 Nov 2026 13:54:00 -0000"
     },
     {
-      "title": "Ex-CEO da Nvidia teve relacionamento extraconjugal com uma terceira mulher, diz ag\u00EAncia",
+      "title": "Presidente do BB diz que 31 mil produtores rurais est\u00E3o inadimplentes e que \u0027portas\u0027 est\u00E3o \u0027abertas\u0027 para renegocia\u00E7\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/ceo-nvidia-caso.ghtml",
-      "date": "Thu, 12 Nov 2026 19:34:08 -0000"
+      "url": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/13/presidente-do-bb-diz-que-31-mil-produtores-rurais-estao-inadimplentes-e-que-portas-do-banco-estao-abertas-para-renegociacao.ghtml",
+      "date": "Fri, 13 Nov 2026 13:47:41 -0000"
     },
     {
-      "title": "O que s\u00E3o os chips H200, no centro da pol\u00EAmica que levou \u00E0 ren\u00FAncia do CEO da Nvidia",
+      "title": "Presidente do BC diz que debate sobre juro est\u00E1 maior que \u0027disputa de torcida organizada e coment\u00E1rio de postagem em rede social\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/chips-h200-nvidia.ghtml",
-      "date": "Thu, 12 Nov 2026 19:15:13 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/13/presidente-do-bc-critica-debate-sobre-juros-parece-disputa-de-torcida-organizada-e-postagem-em-rede-social.ghtml",
+      "date": "Fri, 13 Nov 2026 13:42:39 -0000"
     },
     {
-      "title": "Outlook fora do ar? Servi\u00E7o de e-mail e IA da Microsoft apresentam instabilidade nesta quinta",
+      "title": "Microsoft diz que Outlook, Teams e Copilot est\u00E3o sendo \u0027gradualmente restaurados\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/outlook-fora-do-ar.ghtml",
-      "date": "Thu, 12 Nov 2026 18:40:04 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/servicos-da-microsoft-sofrem-instabilidade-quinta-e-sexta.ghtml",
+      "date": "Fri, 13 Nov 2026 13:28:08 -0000"
     }
   ]
 }
