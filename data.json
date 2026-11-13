@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 171066.27,
-      "change": -0.58,
-      "changeStr": "-0.58%"
-    },
-    {
-      "symbol": "PETR4",
-      "price": 44.58,
-      "change": 2.37,
-      "changeStr": "\u002B2.37%"
-    },
-    {
-      "symbol": "VALE3",
-      "price": 64.34,
-      "change": -0.14,
-      "changeStr": "-0.14%"
-    },
-    {
-      "symbol": "ITUB4",
-      "price": 41.54,
+      "price": 171324.31,
       "change": -0.43,
       "changeStr": "-0.43%"
     },
     {
+      "symbol": "PETR4",
+      "price": 44.7,
+      "change": 2.64,
+      "changeStr": "\u002B2.64%"
+    },
+    {
+      "symbol": "VALE3",
+      "price": 63.95,
+      "change": -0.74,
+      "changeStr": "-0.74%"
+    },
+    {
+      "symbol": "ITUB4",
+      "price": 41.68,
+      "change": -0.1,
+      "changeStr": "-0.10%"
+    },
+    {
       "symbol": "BBDC4",
-      "price": 14.19,
-      "change": -0.98,
-      "changeStr": "-0.98%"
+      "price": 14.32,
+      "change": -0.07,
+      "changeStr": "-0.07%"
     },
     {
       "symbol": "BBAS3",
-      "price": 15.59,
-      "change": -7.7,
-      "changeStr": "-7.70%"
+      "price": 15.48,
+      "change": -8.35,
+      "changeStr": "-8.35%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.3,
-      "change": -4.7,
-      "changeStr": "-4.70%"
+      "price": 7.07,
+      "change": -7.7,
+      "changeStr": "-7.70%"
     },
     {
       "symbol": "ABEV3",
@@ -50,20 +50,62 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 51.33,
-      "change": -0.54,
-      "changeStr": "-0.54%"
+      "price": 51.65,
+      "change": 0.08,
+      "changeStr": "\u002B0.08%"
     }
   ],
   "news": [
     {
-      "title": "Justi\u00E7a suspende cobran\u00E7a de taxa da Uber para motoristas aceitarem corridas em todo o Brasil",
+      "title": "Tesouro Nacional identifica acesso indevido a dados de 30 mil cadastros e 4 mil chaves PIX",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/12/tesouro-nacional-incidente-seguranca.ghtml",
+      "date": "Thu, 12 Nov 2026 23:13:57 -0000"
+    },
+    {
+      "title": "Minist\u00E9rio da Sa\u00FAde abre processo seletivo com centenas de vagas e sal\u00E1rios de at\u00E9 R$ 10,3 mil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/12/ministerio-da-saude-processo-seletivo.ghtml",
+      "date": "Thu, 12 Nov 2026 20:42:59 -0000"
+    },
+    {
+      "title": "Produtores de soja rebatem fala de presidente do Banco do Brasil sobre d\u00EDvidas do agro; estatal nega ter culpado todo o setor",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/nota-aprosoja.ghtml",
+      "date": "Thu, 12 Nov 2026 20:40:36 -0000"
+    },
+    {
+      "title": "Ex-CEO da Nvidia teve relacionamento extraconjugal com uma terceira mulher, diz ag\u00EAncia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/ceo-nvidia-caso.ghtml",
+      "date": "Thu, 12 Nov 2026 19:34:08 -0000"
+    },
+    {
+      "title": "O que s\u00E3o os chips H200, no centro da pol\u00EAmica que levou \u00E0 ren\u00FAncia do CEO da Nvidia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/chips-h200-nvidia.ghtml",
+      "date": "Thu, 12 Nov 2026 19:15:13 -0000"
+    },
+    {
+      "title": "Outlook fora do ar? Servi\u00E7o de e-mail e IA da Microsoft apresentam instabilidade nesta quinta",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/outlook-fora-do-ar.ghtml",
+      "date": "Thu, 12 Nov 2026 18:40:04 -0000"
+    },
+    {
+      "title": "Crise na Nvidia: fortuna de Jensen Huang encolhe quase US$ 33 bilh\u00F5es em novembro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/crise-na-nvidia-fortuna-de-jensen-huang-encolhe-em-novembro.ghtml",
+      "date": "Thu, 12 Nov 2026 17:57:02 -0000"
+    },
+    {
+      "title": "Justi\u00E7a pro\u00EDbe Uber de cobrar taxa para motoristas aceitarem corridas no Brasil",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/12/justica-suspende-cobranca-de-taxa-da-uber-para-motoristas.ghtml",
       "date": "Thu, 12 Nov 2026 17:54:07 -0000"
     },
     {
-      "title": "Governo prev\u00EA convocar 1,3 mil aprovados em concursos ainda em 2026; veja \u00F3rg\u00E3os e cargos",
+      "title": "CNU: governo prev\u00EA convocar 1,3 mil aprovados na primeira edi\u00E7\u00E3o ainda em 2026",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/12/concurso-governo-cnpu.ghtml",
       "date": "Thu, 12 Nov 2026 17:43:10 -0000"
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/politica/noticia/2026/11/12/congresso-aprova-projeto-que-autoriza-governo-a-usar-r-26-bilhoes-em-emprestimos-para-pagar-bolsa-familia.ghtml",
       "date": "Thu, 12 Nov 2026 16:33:14 -0000"
-    },
-    {
-      "title": "Ataque hacker exp\u00F5e CPFs de 7,6 milh\u00F5es de clientes da Caixa; veja quais dados vazaram",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/caixa-ataque-dados-pix.ghtml",
-      "date": "Thu, 12 Nov 2026 16:20:29 -0000"
-    },
-    {
-      "title": "BB: expectativa eleitoral do agroneg\u00F3cio por perd\u00E3o de d\u00EDvidas rurais ajuda a explicar tombo no resultado",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/12/bb-inadimplencia-do-agronegocio-aumentou-com-expectativa-eleitoral-de-perdao-das-dividas-e-ajuda-a-explicar-queda-no-lucro.ghtml",
-      "date": "Thu, 12 Nov 2026 15:53:19 -0000"
-    },
-    {
-      "title": "Petrobras anuncia compra de empresa de transporte de etanol por R$ 620 milh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/12/petrobras-anuncia-compra-de-empresa-de-transporte-de-etanol-por-r-620-milhoes.ghtml",
-      "date": "Thu, 12 Nov 2026 15:40:46 -0000"
-    },
-    {
-      "title": "Banco do Brasil diz que parte do agro deu calote \u00E0 espera de novas medidas de renegocia\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/banco-do-brasil-dividas-do-agro.ghtml",
-      "date": "Thu, 12 Nov 2026 15:33:28 -0000"
-    },
-    {
-      "title": "Crise na Nvidia: veja como o caso come\u00E7ou e levou \u00E0 ren\u00FAncia de Jensen Huang, fundador da empresa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/12/crise-na-nvidia-jensen-huang.ghtml",
-      "date": "Thu, 12 Nov 2026 15:19:04 -0000"
-    },
-    {
-      "title": "\u0027\u00C9 o pior momento em quase 5 anos\u0027: por que as a\u00E7\u00F5es do Banco do Brasil derretem quase 10% na Bolsa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/banco-do-brasil-ibovespa.ghtml",
-      "date": "Thu, 12 Nov 2026 15:05:45 -0000"
-    },
-    {
-      "title": "Veja o que Lula disse sobre contas p\u00FAblicas antes de proposta de ajuste fiscal de R$ 60 bilh\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/11/12/lula-falas-ajuste-fiscal.ghtml",
-      "date": "Thu, 12 Nov 2026 14:58:48 -0000"
     }
   ]
 }
