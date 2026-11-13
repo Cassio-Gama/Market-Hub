@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 172278.23,
-      "change": 0.56,
-      "changeStr": "\u002B0.56%"
+      "price": 172457.77,
+      "change": 0.66,
+      "changeStr": "\u002B0.66%"
     },
     {
       "symbol": "PETR4",
-      "price": 45.08,
-      "change": 0.85,
-      "changeStr": "\u002B0.85%"
+      "price": 45.3,
+      "change": 1.34,
+      "changeStr": "\u002B1.34%"
     },
     {
       "symbol": "VALE3",
-      "price": 63.33,
-      "change": -0.97,
-      "changeStr": "-0.97%"
+      "price": 63.5,
+      "change": -0.7,
+      "changeStr": "-0.70%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.32,
-      "change": 1.54,
-      "changeStr": "\u002B1.54%"
+      "price": 42.27,
+      "change": 1.42,
+      "changeStr": "\u002B1.42%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.42,
-      "change": 0.7,
-      "changeStr": "\u002B0.70%"
+      "price": 14.52,
+      "change": 1.4,
+      "changeStr": "\u002B1.40%"
     },
     {
       "symbol": "BBAS3",
-      "price": 15.09,
-      "change": -2.52,
-      "changeStr": "-2.52%"
+      "price": 15.1,
+      "change": -2.45,
+      "changeStr": "-2.45%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.6,
-      "change": 7.5,
-      "changeStr": "\u002B7.50%"
+      "price": 7.81,
+      "change": 10.47,
+      "changeStr": "\u002B10.47%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.81,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 15.79,
+      "change": 0.25,
+      "changeStr": "\u002B0.25%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.13,
-      "change": -1.01,
-      "changeStr": "-1.01%"
+      "price": 51.31,
+      "change": -0.66,
+      "changeStr": "-0.66%"
     }
   ],
   "news": [
+    {
+      "title": "OpenAI lan\u00E7a carteira digital que permite ao ChatGPT fazer compras e pagamentos pelo usu\u00E1rio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/chat-gpt-wallet.ghtml",
+      "date": "Fri, 13 Nov 2026 20:28:07 -0000"
+    },
+    {
+      "title": "Quem s\u00E3o os produtores inadimplentes do Banco do Brasil? Especialistas explicam a crise no agro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/quem-sao-os-produtores-inadimplentes-do-banco-do-brasil-especialistas-explicam-a-crise-no-agro.ghtml",
+      "date": "Fri, 13 Nov 2026 18:30:00 -0000"
+    },
+    {
+      "title": "Nvidia avalia CEO de concorrente para substituir Jensen Huang, diz jornal",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/nvidia-rene-haas-arm-holdings.ghtml",
+      "date": "Fri, 13 Nov 2026 18:10:29 -0000"
+    },
+    {
+      "title": "Binance diz ter coberto preju\u00EDzo de R$ 34 bilh\u00F5es ap\u00F3s maior roubo da hist\u00F3ria das criptomoedas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/binance-criptomoeda-roubo.ghtml",
+      "date": "Fri, 13 Nov 2026 16:31:56 -0000"
+    },
+    {
+      "title": "Al\u00E9m do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as a\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml",
+      "date": "Fri, 13 Nov 2026 16:15:00 -0000"
+    },
     {
       "title": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
       "source": "G1 Economia",
@@ -75,7 +105,7 @@
       "date": "Fri, 13 Nov 2026 15:15:24 -0000"
     },
     {
-      "title": "Faxes, celulares e Bluetooth: queda da Microsoft for\u00E7a empresas a recorrer a solu\u00E7\u00F5es antigas\n",
+      "title": "Faxes, celulares e Bluetooth: queda da Microsoft for\u00E7a empresas a recorrer a solu\u00E7\u00F5es antigas",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/faxes-celulares-e-bluetooth-queda-da-microsoft.ghtml",
       "date": "Fri, 13 Nov 2026 15:03:08 -0000"
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/11/13/recomendacao-modelos-bmw.ghtml",
       "date": "Fri, 13 Nov 2026 14:59:18 -0000"
-    },
-    {
-      "title": "Hugo Motta pode debater projeto de ajuste fiscal com l\u00EDderes na C\u00E2mara j\u00E1 na pr\u00F3xima semana   ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/13/hugo-motta-pode-debater-projeto-de-ajuste-fiscal-com-lideres-na-camara-ja-na-proxima-semana.ghtml",
-      "date": "Fri, 13 Nov 2026 14:03:24 -0000"
-    },
-    {
-      "title": "Presidente do BB explica quem s\u00E3o os produtores que n\u00E3o aderiram \u00E0 renegocia\u00E7\u00E3o do banco",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/presidente-do-bb-explica-quem-sao-os-produtores-que-nao-aderiram-a-renegociacao-do-banco.ghtml",
-      "date": "Fri, 13 Nov 2026 13:54:00 -0000"
-    },
-    {
-      "title": "Presidente do BB diz que 31 mil produtores rurais est\u00E3o inadimplentes e que \u0027portas\u0027 est\u00E3o \u0027abertas\u0027 para renegocia\u00E7\u00E3o",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/13/presidente-do-bb-diz-que-31-mil-produtores-rurais-estao-inadimplentes-e-que-portas-do-banco-estao-abertas-para-renegociacao.ghtml",
-      "date": "Fri, 13 Nov 2026 13:47:41 -0000"
-    },
-    {
-      "title": "Presidente do BC diz que debate sobre juro est\u00E1 maior que \u0027disputa de torcida organizada e coment\u00E1rio de postagem em rede social\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/13/presidente-do-bc-critica-debate-sobre-juros-parece-disputa-de-torcida-organizada-e-postagem-em-rede-social.ghtml",
-      "date": "Fri, 13 Nov 2026 13:42:39 -0000"
-    },
-    {
-      "title": "Microsoft diz que Outlook, Teams e Copilot est\u00E3o sendo \u0027gradualmente restaurados\u0027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/servicos-da-microsoft-sofrem-instabilidade-quinta-e-sexta.ghtml",
-      "date": "Fri, 13 Nov 2026 13:28:08 -0000"
     }
   ]
 }
