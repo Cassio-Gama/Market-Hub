@@ -57,6 +57,36 @@
   ],
   "news": [
     {
+      "title": "Microsoft alerta sobre tentativas de golpe ap\u00F3s falha no Teams e no Outlook",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/14/golpe-microsoft-alerta-outlook.ghtml",
+      "date": "Sat, 14 Nov 2026 13:55:00 -0000"
+    },
+    {
+      "title": "Nas Filipinas, ministro diz estar \u0027otimista\u0027 com negocia\u00E7\u00F5es e que restri\u00E7\u00E3o \u00E0 carne su\u00EDna do Brasil \u0027\u00E9 medida de 60 dias\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/politica/noticia/2026/11/14/nas-filipinas-ministro-diz-estar-otimista-com-negociacoes-e-que-restricao-a-carne-suina-do-brasil-e-medida-de-60-dias.ghtml",
+      "date": "Sat, 14 Nov 2026 13:53:13 -0000"
+    },
+    {
+      "title": "It\u00E1lia multa Meta em R$ 5 bilh\u00F5es por acessar fotos e v\u00EDdeos de usu\u00E1rios sem consentimento",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/14/italia-multa-meta.ghtml",
+      "date": "Sat, 14 Nov 2026 12:32:39 -0000"
+    },
+    {
+      "title": "D\u00EDvidas do MEI ser\u00E3o perdoadas automaticamente: veja 10 perguntas e respostas sobre a medida",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/11/14/dividas-do-mei-serao-perdoadas-automaticamente.ghtml",
+      "date": "Sat, 14 Nov 2026 12:16:56 -0000"
+    },
+    {
+      "title": "Microsoft afirma que servi\u00E7os foram totalmente restabelecidos ap\u00F3s falha global",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/14/microsoft-afirma-que-servicos-foram-totalmente-restabelecidos-apos-falha-global.ghtml",
+      "date": "Sat, 14 Nov 2026 11:13:29 -0000"
+    },
+    {
       "title": "Pecu\u00E1ria de elite: como uma vaca pode valer R$ 54 milh\u00F5es e render fortunas com gen\u00E9tica e clonagem",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/14/pecuaria-de-elite-como-uma-vaca-pode-render-fortunas-com-genetica-e-clonagem.ghtml",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/14/ex-manicure-comecou-vendendo-caldinhos-na-rua-e-hoje-fatura-r-40-mil-por-mes.ghtml",
       "date": "Sat, 14 Nov 2026 05:00:00 -0000"
-    },
-    {
-      "title": "Mercado financeiro prev\u00EA juros de dois d\u00EDgitos at\u00E9 2030, ao longo dos dois mandatos de Lula",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/14/mercado-financeiro-preve-juros-de-dois-digitos-ate-2030-ao-longo-dos-dois-mandatos-de-lula.ghtml",
-      "date": "Sat, 14 Nov 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Quais s\u00E3o os pr\u00F3ximos feriados de 2026? Veja os dois que restam",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/14/quais-sao-os-proximos-feriados-de-2026.ghtml",
-      "date": "Sat, 14 Nov 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Cart\u00E3o, cheque especial ou empr\u00E9stimo: qual tem os juros mais altos?",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/11/14/cartao-cheque-especial-ou-emprestimo-qual-tem-os-juros-mais-altos.ghtml",
-      "date": "Sat, 14 Nov 2026 03:00:00 -0000"
-    },
-    {
-      "title": "Paralisa\u00E7\u00E3o de voos nos EUA: Anac diz monitorar situa\u00E7\u00E3o e recomenda que passageiros procurem companhias a\u00E9reas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/13/paralisacao-de-voos-nos-eua-anac-diz-monitorar-situacao-e-recomenda-que-passageiros-procurem-companhias-aereas.ghtml",
-      "date": "Fri, 13 Nov 2026 23:21:18 -0000"
-    },
-    {
-      "title": "OpenAI lan\u00E7a carteira digital que permite ao ChatGPT fazer compras e pagamentos pelo usu\u00E1rio",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/chat-gpt-wallet.ghtml",
-      "date": "Fri, 13 Nov 2026 20:28:07 -0000"
     }
   ]
 }
