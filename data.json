@@ -2,9 +2,9 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 168904.9,
-      "change": -2.06,
-      "changeStr": "-2.06%"
+      "price": 169295.4,
+      "change": -1.83,
+      "changeStr": "-1.83%"
     },
     {
       "symbol": "PETR4",
@@ -14,107 +14,107 @@
     },
     {
       "symbol": "VALE3",
-      "price": 61,
-      "change": -3.94,
-      "changeStr": "-3.94%"
+      "price": 60.7,
+      "change": -4.41,
+      "changeStr": "-4.41%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.12,
-      "change": -2.72,
-      "changeStr": "-2.72%"
+      "price": 41.3,
+      "change": -2.29,
+      "changeStr": "-2.29%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.18,
-      "change": -2.34,
-      "changeStr": "-2.34%"
+      "price": 14.23,
+      "change": -2,
+      "changeStr": "-2.00%"
     },
     {
       "symbol": "BBAS3",
-      "price": 14.7,
-      "change": -2.65,
-      "changeStr": "-2.65%"
+      "price": 14.95,
+      "change": -0.99,
+      "changeStr": "-0.99%"
     },
     {
       "symbol": "MGLU3",
-      "price": 7.42,
-      "change": -4.99,
-      "changeStr": "-4.99%"
+      "price": 7.49,
+      "change": -4.1,
+      "changeStr": "-4.10%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.74,
-      "change": -0.32,
-      "changeStr": "-0.32%"
+      "price": 15.87,
+      "change": 0.51,
+      "changeStr": "\u002B0.51%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.49,
-      "change": -1.6,
-      "changeStr": "-1.60%"
+      "price": 50.4,
+      "change": -1.77,
+      "changeStr": "-1.77%"
     }
   ],
   "news": [
+    {
+      "title": "Os desafios de Lula na volta ao Brasil: forma\u00E7\u00E3o do minist\u00E9rio e ajuste fiscal - O Assunto #1847",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/17/os-desafios-de-lula-na-volta-ao-brasil-formacao-do-ministerio-e-ajuste-fiscal-o-assunto-1847.ghtml",
+      "date": "Tue, 17 Nov 2026 03:30:01 -0000"
+    },
+    {
+      "title": "Concurso da C\u00E2mara: inscri\u00E7\u00F5es terminam nesta ter\u00E7a; sal\u00E1rio passa de R$ 32 mil",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/concurso-da-camara-inscricoes-terminam.ghtml",
+      "date": "Tue, 17 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Mega-Sena pode pagar R$ 34 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/17/mega-sena-pode-pagar-r-34-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+      "date": "Tue, 17 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Aneel pode decidir nesta ter\u00E7a sobre caducidade da concess\u00E3o da Enel-SP",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/17/aneel-pode-decidir-nesta-terca-sobre-caducidade-da-concessao-da-enel-sp.ghtml",
+      "date": "Tue, 17 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Infla\u00E7\u00E3o do estilo de vida: por que quanto mais ganhamos, mais gastamos?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/11/17/inflacao-do-estilo-de-vida-por-que-quanto-mais-ganhamos-mais-gastamos.ghtml",
+      "date": "Tue, 17 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "title": "United Airlines enfrenta falha generalizada, tr\u00EAs dias ap\u00F3s apag\u00E3o a\u00E9reo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/16/united-airlines-enfrenta-falha-generalizada.ghtml",
+      "date": "Mon, 16 Nov 2026 22:07:46 -0000"
+    },
+    {
+      "title": "Alckmin diz que n\u00E3o h\u00E1 raz\u00E3o para mercado ter oscila\u00E7\u00F5es ap\u00F3s pacote fiscal: \u0027Brasil tem seguran\u00E7a jur\u00EDdica e est\u00E1 trabalhando\u0027",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/16/alckmin-diz-que-nao-ha-razao-para-mercado-ter-oscilacoes-apos-pacote-fiscal-brasil-tem-seguranca-juridica-e-esta-trabalhando.ghtml",
+      "date": "Mon, 16 Nov 2026 21:53:07 -0000"
+    },
+    {
+      "title": "Falha t\u00E9cnica afeta servi\u00E7os de grandes bancos dos Estados Unidos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/16/grandes-bancos-dos-eua-relatam-interrupcoes-generalizadas-em-seus-servicos.ghtml",
+      "date": "Mon, 16 Nov 2026 20:48:14 -0000"
+    },
+    {
+      "title": "Fornecedora de caf\u00E9 da Nestl\u00E9 enfrenta audi\u00EAncia por den\u00FAncias de viola\u00E7\u00F5es trabalhistas",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/16/fornecedora-de-cafe-da-nestle-enfrenta-audiencia-por-denuncias-de-violacoes-trabalhistas.ghtml",
+      "date": "Mon, 16 Nov 2026 20:17:37 -0000"
+    },
     {
       "title": "Apple \u00E9 investigada no Cade por barrar PIX por aproxima\u00E7\u00E3o no iPhone; entenda a disputa ",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/economia/noticia/2026/11/16/apple-e-investigada-no-cade-por-barrar-pix-por-aproximacao-no-iphone-entenda-a-disputa.ghtml",
       "date": "Mon, 16 Nov 2026 19:45:44 -0000"
-    },
-    {
-      "title": "\nAlemanha se despede da Adidas em \u00FAltimo jogo ap\u00F3s 77 anos de parceria; Nike assume em 2027 ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/16/nike-adidas-alemanha-futebol-parceria.ghtml",
-      "date": "Mon, 16 Nov 2026 19:33:20 -0000"
-    },
-    {
-      "title": "Calif\u00F3rnia processa OpenAI por ataques cibern\u00E9ticos realizados por IA contra a Hugging Face e outras empresas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/16/opne-ai-ataque-california.ghtml",
-      "date": "Mon, 16 Nov 2026 18:47:59 -0000"
-    },
-    {
-      "title": "Fachin indica a colegas que deve dar prioridade para julgamento sobre escala 5x2",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/16/fachin-indica-a-colegas-que-deve-dar-prioridade-para-julgamento-sobre-escala-5x2.ghtml",
-      "date": "Mon, 16 Nov 2026 18:36:43 -0000"
-    },
-    {
-      "title": "Bets tiraram R$ 40,4 bilh\u00F5es do or\u00E7amento das fam\u00EDlias at\u00E9 julho de 2026, diz Comsefaz",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml",
-      "date": "Mon, 16 Nov 2026 17:02:30 -0000"
-    },
-    {
-      "title": "\nFalha em foguete destr\u00F3i 40 sat\u00E9lites da Amazon que seriam usados em servi\u00E7o rival da Starlink",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/16/falha-em-foguete-destroi-40-satelites-da-amazon-que-seriam-usados-em-servico-rival-da-starlink.ghtml",
-      "date": "Mon, 16 Nov 2026 15:31:47 -0000"
-    },
-    {
-      "title": "Receita apreende R$ 581 milh\u00F5es em opera\u00E7\u00E3o de combate ao tr\u00E1fico de drogas e ao contrabando",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/16/receita-federal-apreende-r-581-milhoes-em-operacao-de-combate-ao-trafico-de-drogas-e-ao-contrabando.ghtml",
-      "date": "Mon, 16 Nov 2026 14:24:50 -0000"
-    },
-    {
-      "title": "Feriado 20 de novembro: veja o que \u00E9 comemorado na data e por que \u00E9 feriado nacional",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/16/feriado-20-de-novembro-veja-o-que-e-comemorado-na-data-e-por-que-e-feriado-nacional.ghtml",
-      "date": "Mon, 16 Nov 2026 13:22:33 -0000"
-    },
-    {
-      "title": "Musk e nomes de peso da tecnologia defendem volta de Jensen Huang \u00E0 Nvidia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/16/musk-e-nomes-de-peso-da-tecnologia-defendem-volta-de-ex-ceo-da-nvidia.ghtml",
-      "date": "Mon, 16 Nov 2026 13:18:54 -0000"
-    },
-    {
-      "title": "Depois do ajuste fiscal, equipe econ\u00F4mica vai propor medidas para reduzir o crescimento das despesas obrigat\u00F3rias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/16/depois-do-ajuste-fiscal-equipe-economica-vai-propor-medidas-para-reduzir-o-crescimento-das-despesas-obrigatorias.ghtml",
-      "date": "Mon, 16 Nov 2026 12:57:38 -0000"
     }
   ]
 }
