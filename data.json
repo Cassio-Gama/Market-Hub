@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 169295.4,
-      "change": -1.83,
-      "changeStr": "-1.83%"
+      "price": 169816.64,
+      "change": 0.31,
+      "changeStr": "\u002B0.31%"
     },
     {
       "symbol": "PETR4",
-      "price": 44.02,
-      "change": -2.83,
-      "changeStr": "-2.83%"
+      "price": 43.98,
+      "change": -0.09,
+      "changeStr": "-0.09%"
     },
     {
       "symbol": "VALE3",
-      "price": 60.7,
-      "change": -4.41,
-      "changeStr": "-4.41%"
+      "price": 60.34,
+      "change": -0.59,
+      "changeStr": "-0.59%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.3,
-      "change": -2.29,
-      "changeStr": "-2.29%"
-    },
-    {
-      "symbol": "BBDC4",
-      "price": 14.23,
-      "change": -2,
-      "changeStr": "-2.00%"
-    },
-    {
-      "symbol": "BBAS3",
-      "price": 14.95,
+      "price": 40.89,
       "change": -0.99,
       "changeStr": "-0.99%"
     },
     {
+      "symbol": "BBDC4",
+      "price": 14.41,
+      "change": 1.26,
+      "changeStr": "\u002B1.26%"
+    },
+    {
+      "symbol": "BBAS3",
+      "price": 14.62,
+      "change": -2.21,
+      "changeStr": "-2.21%"
+    },
+    {
       "symbol": "MGLU3",
-      "price": 7.49,
-      "change": -4.1,
-      "changeStr": "-4.10%"
+      "price": 7.95,
+      "change": 6.14,
+      "changeStr": "\u002B6.14%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.87,
-      "change": 0.51,
-      "changeStr": "\u002B0.51%"
+      "price": 15.93,
+      "change": 0.38,
+      "changeStr": "\u002B0.38%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.4,
-      "change": -1.77,
-      "changeStr": "-1.77%"
+      "price": 51.15,
+      "change": 1.49,
+      "changeStr": "\u002B1.49%"
     }
   ],
   "news": [
     {
-      "title": "Nvidia cria comit\u00EA para supervisionar seguran\u00E7a nacional e controles de exporta\u00E7\u00E3o",
+      "title": "O que \u00E9 o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/17/nvidia-cria-comite-para-supervisionar-seguranca-nacional-e-controles-de-exportacao.ghtml",
-      "date": "Tue, 17 Nov 2026 12:11:34 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml",
+      "date": "Tue, 17 Nov 2026 20:28:31 -0000"
     },
     {
-      "title": "D\u00F3lar oscila na abertura, \u00E0 espera de balan\u00E7o da Nvidia e de olho em dados dos EUA",
+      "title": "Empresas usaram R$ 200 bilh\u00F5es em cr\u00E9ditos para pagar tributos at\u00E9 setembro; Senado debate restri\u00E7\u00E3o no ajuste fiscal",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/17/dolar-ibovespa.ghtml",
-      "date": "Tue, 17 Nov 2026 12:00:34 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
+      "date": "Tue, 17 Nov 2026 18:32:53 -0000"
     },
     {
-      "title": "Mais de 276 mil trabalhadores ainda n\u00E3o sacaram o abono salarial; veja como receber",
+      "title": "STJ suspende decis\u00E3o que impedia cobran\u00E7a de taxa da Uber para motoristas em todo o pa\u00EDs",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/mais-de-276-mil-trabalhadores-ainda-nao-sacaram-o-abono-salarial-veja-como-receber.ghtml",
-      "date": "Tue, 17 Nov 2026 11:54:41 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/stj-cobranca-taxa-uber-motoristas.ghtml",
+      "date": "Tue, 17 Nov 2026 17:56:37 -0000"
     },
     {
-      "title": "Brasileiros t\u00EAm mais dificuldade para poupar que a m\u00E9dia mundial, diz pesquisa; veja o que pesa no bolso",
+      "title": "Na expectativa de votar ajuste fiscal na C\u00E2mara, governo retira urg\u00EAncia de projeto sobre criminaliza\u00E7\u00E3o de bets",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/17/brasileiros-tem-mais-dificuldade-para-poupar-que-a-media-mundial-diz-pesquisa-veja-o-que-pesa-no-bolso.ghtml",
-      "date": "Tue, 17 Nov 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml",
+      "date": "Tue, 17 Nov 2026 17:24:06 -0000"
     },
     {
-      "title": "Caoa Chery Tiggo 9 aposta em luxo e pot\u00EAncia para fisgar clientes de SUVs alem\u00E3es; vale a pena?",
+      "title": "ENAC: mais de 7,6 mil candidatos far\u00E3o exame nacional obrigat\u00F3rio para concursos de cart\u00F3rios",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/11/17/caoa-chery-tiggo-9-aposta-em-luxo-e-potencia-para-fisgar-clientes-de-suvs-alemaes-vale-a-pena.ghtml",
-      "date": "Tue, 17 Nov 2026 07:00:01 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/exame-nacional-cartorios-quarta-edicao-prova-novembro.ghtml",
+      "date": "Tue, 17 Nov 2026 17:21:39 -0000"
     },
     {
-      "title": "\u0027Parece que o rio vem assombrar a gente\u0027: ansiedade clim\u00E1tica atinge produtores ga\u00FAchos que perderam tudo nas enchentes",
+      "title": "Durigan diz que pacote fiscal \u00E9 s\u00F3 o \u0027primeiro passo\u0027 e defende ajuste gradual e \u0027sem negacionismo\u0027 para baixar juros",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/17/parece-que-o-rio-vem-assombrar-a-gente-ansiedade-climatica-atinge-produtores-gauchos-que-perderam-tudo-nas-enchentes.ghtml",
-      "date": "Tue, 17 Nov 2026 07:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml",
+      "date": "Tue, 17 Nov 2026 17:10:51 -0000"
     },
     {
-      "title": "Os desafios de Lula na volta ao Brasil: forma\u00E7\u00E3o do minist\u00E9rio e ajuste fiscal - O Assunto #1847",
+      "title": "Durigan diz que reforma tribut\u00E1ria pode ter \u0027pequeno impacto\u0027 na infla\u00E7\u00E3o e defende reduzir tributos sobre a folha de pagamento",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/17/os-desafios-de-lula-na-volta-ao-brasil-formacao-do-ministerio-e-ajuste-fiscal-o-assunto-1847.ghtml",
-      "date": "Tue, 17 Nov 2026 03:30:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml",
+      "date": "Tue, 17 Nov 2026 16:53:38 -0000"
     },
     {
-      "title": "Concurso da C\u00E2mara: inscri\u00E7\u00F5es terminam nesta ter\u00E7a; sal\u00E1rio passa de R$ 32 mil",
+      "title": "Ex-CEO da Nvidia pede desculpas por erros e diz que aceitaria voltar ao comando: \u0027Assumo meus erros\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/concurso-da-camara-inscricoes-terminam.ghtml",
-      "date": "Tue, 17 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ex-ceo-nvidia-diz-que-aceitaria-voltar-ao-cargo.ghtml",
+      "date": "Tue, 17 Nov 2026 16:45:04 -0000"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 34 milh\u00F5es nesta ter\u00E7a-feira; g1 transmite ao vivo",
+      "title": "Reforma tribut\u00E1ria: apura\u00E7\u00E3o \u0027assistida\u0027, a declara\u00E7\u00E3o pr\u00E9-preenchida das empresas, ser\u00E1 liberada nesta semana, diz Receita",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/17/mega-sena-pode-pagar-r-34-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Tue, 17 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/17/reforma-tributaria-apuracao-assistida-a-declaracao-pre-preenchida-das-empresas-sera-liberada-nesta-semana-diz-receita.ghtml",
+      "date": "Tue, 17 Nov 2026 16:33:11 -0000"
     },
     {
-      "title": "Aneel pode decidir nesta ter\u00E7a sobre caducidade da concess\u00E3o da Enel-SP",
+      "title": "China amea\u00E7a retaliar contra EUA por restri\u00E7\u00F5es a chips de IA que tamb\u00E9m afetam o Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/17/aneel-pode-decidir-nesta-terca-sobre-caducidade-da-concessao-da-enel-sp.ghtml",
-      "date": "Tue, 17 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/17/china-ameaca-retaliar-contra-eua-por-restricoes-a-chips-de-ia-que-tambem-afetam-o-brasil.ghtml",
+      "date": "Tue, 17 Nov 2026 16:05:00 -0000"
     }
   ]
 }
