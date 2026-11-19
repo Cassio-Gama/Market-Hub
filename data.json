@@ -2,45 +2,45 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167642.62,
-      "change": -1.28,
-      "changeStr": "-1.28%"
+      "price": 167537.95,
+      "change": -1.34,
+      "changeStr": "-1.34%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.01,
-      "change": -2.21,
-      "changeStr": "-2.21%"
+      "price": 43.17,
+      "change": -1.84,
+      "changeStr": "-1.84%"
     },
     {
       "symbol": "VALE3",
-      "price": 59.25,
-      "change": -1.81,
-      "changeStr": "-1.81%"
+      "price": 59,
+      "change": -2.22,
+      "changeStr": "-2.22%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.15,
-      "change": -1.81,
-      "changeStr": "-1.81%"
+      "price": 40.19,
+      "change": -1.71,
+      "changeStr": "-1.71%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.14,
-      "change": -1.87,
-      "changeStr": "-1.87%"
+      "price": 14.08,
+      "change": -2.29,
+      "changeStr": "-2.29%"
     },
     {
       "symbol": "BBAS3",
-      "price": 14.24,
-      "change": -2.6,
-      "changeStr": "-2.60%"
+      "price": 14.12,
+      "change": -3.42,
+      "changeStr": "-3.42%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.33,
-      "change": 4.78,
-      "changeStr": "\u002B4.78%"
+      "price": 8.32,
+      "change": 4.65,
+      "changeStr": "\u002B4.65%"
     },
     {
       "symbol": "ABEV3",
@@ -50,12 +50,60 @@
     },
     {
       "symbol": "WEGE3",
-      "price": 51.39,
-      "change": 0.47,
-      "changeStr": "\u002B0.47%"
+      "price": 51.38,
+      "change": 0.45,
+      "changeStr": "\u002B0.45%"
     }
   ],
   "news": [
+    {
+      "title": "Consci\u00EAncia Negra ser\u00E1 o \u00FAltimo feriad\u00E3o antes do Natal; veja as regras para quem trabalha",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/consciencia-negra-feriado.ghtml",
+      "date": "Thu, 19 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Anthropic, dona do Claude, estreia na bolsa avaliada em US$ 1,5 trilh\u00E3o; conhe\u00E7a a empresa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/11/19/anthropic-dona-do-claude-estreia-na-bolsa-conheca-a-empresa.ghtml",
+      "date": "Thu, 19 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "title": "De ruptura com a OpenAI a gigante da bolsa: veja 5 fatos importantes sobre a Anthropic",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/19/de-ruptura-com-a-openai-a-gigante-da-bolsa-veja-5-fatos-importantes-sobre-a-anthropic.ghtml",
+      "date": "Thu, 19 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Maior IPO da hist\u00F3ria: como a Anthropic superou a SpaceX em estreia bilion\u00E1ria na bolsa",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/19/maior-ipo-da-historia-como-a-anthropic-superou-a-spacex.ghtml",
+      "date": "Thu, 19 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Mega-Sena pode pagar R$ 40 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/19/mega-sena-pode-pagar-r-40-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+      "date": "Thu, 19 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "title": "Jetour anuncia f\u00E1brica no Brasil, investimento de R$ 400 milh\u00F5es e novo SUV el\u00E9trico",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/carros/noticia/2026/11/18/jetour-carro-lancamento.ghtml",
+      "date": "Wed, 18 Nov 2026 23:05:06 -0000"
+    },
+    {
+      "title": "TCU mant\u00E9m Correios em lista de estatais da administra\u00E7\u00E3o federal com riscos fiscais ",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/18/tcu-mantem-correios-em-lista-de-estatais-da-administracao-federal-com-riscos-fiscais.ghtml",
+      "date": "Wed, 18 Nov 2026 23:00:18 -0000"
+    },
+    {
+      "title": "99 \u00E9 alvo de a\u00E7\u00E3o por cobrar de motoristas para liberar corridas sem taxas; MPT pede R$ 100 milh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/18/99-acao-mpt-taxa-zero.ghtml",
+      "date": "Wed, 18 Nov 2026 21:56:30 -0000"
+    },
     {
       "title": "Banco do Brasil alerta clientes sobre vazamento de dados pessoais; veja o que foi exposto",
       "source": "G1 Economia",
@@ -67,54 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-tacoma-feita-na-argentina-sera-vendida-no-brasil.ghtml",
       "date": "Wed, 18 Nov 2026 18:32:32 -0000"
-    },
-    {
-      "title": "Reforma tribut\u00E1ria: al\u00EDquota de 11,3% da CBS pode valer s\u00F3 em 2027 e mudar depois; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml",
-      "date": "Wed, 18 Nov 2026 18:28:42 -0000"
-    },
-    {
-      "title": "Quem s\u00E3o os sete jovens fundadores da Anthropic que est\u00E3o prestes a se tornarem multibilion\u00E1rios",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/11/18/quem-sao-os-sete-jovens-fundadores-da-anthropic-que-estao-prestes-a-se-tornarem-multibilionarios.ghtml",
-      "date": "Wed, 18 Nov 2026 17:24:59 -0000"
-    },
-    {
-      "title": "IPO da Anthropic: veja como investir na criadora do Claude por meio de BDRs no Brasil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/18/anthropic-ipo-bolsa-como-investir-bdrs-brasil.ghtml",
-      "date": "Wed, 18 Nov 2026 17:08:39 -0000"
-    },
-    {
-      "title": "Vazamento de documentos exp\u00F5e rela\u00E7\u00F5es do Deutsche Bank com Epstein, Trump e oligarcas russos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/18/vazamento-de-documentos-expoe-relacoes-do-deutsche-bank-com-epstein-trump-e-oligarcas-russos.ghtml",
-      "date": "Wed, 18 Nov 2026 16:30:56 -0000"
-    },
-    {
-      "title": "Durigan descarta recess\u00E3o, mas v\u00EA crescimento em \u0027patamar menor\u0027 em 2027; ministro diz acreditar em aprova\u00E7\u00E3o de ajuste fiscal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/18/durigan-ve-economia-deve-crescer-em-patamar-menor-em-2027-descarta-recessao-e-diz-acreditar-em-aprovacao-de-pacote-fiscal.ghtml",
-      "date": "Wed, 18 Nov 2026 16:11:29 -0000"
-    },
-    {
-      "title": "Toyota do Brasil apresenta a Corolla Deck; picape tem motor h\u00EDbrido flex e chega em maio de 2027",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-mostra-novo-produto.ghtml",
-      "date": "Wed, 18 Nov 2026 14:12:02 -0000"
-    },
-    {
-      "title": "Boato de \u0027apag\u00E3o mundial\u0027 e onda de ataques hackers: o que aconteceu no mundo nas \u00FAltimas semanas",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
-      "date": "Wed, 18 Nov 2026 14:00:43 -0000"
-    },
-    {
-      "title": "Pretos e pardos ganham menos, s\u00E3o maioria entre trabalhadores desocupados e entre v\u00EDtimas de homic\u00EDdio, mostra IBGE",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/18/desigualdades-sociais-cor-raca-ibge.ghtml",
-      "date": "Wed, 18 Nov 2026 13:00:00 -0000"
     }
   ]
 }
