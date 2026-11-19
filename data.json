@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 167537.95,
-      "change": -1.34,
-      "changeStr": "-1.34%"
+      "price": 166181.45,
+      "change": -0.81,
+      "changeStr": "-0.81%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.17,
-      "change": -1.84,
-      "changeStr": "-1.84%"
+      "price": 42.61,
+      "change": -1.3,
+      "changeStr": "-1.30%"
     },
     {
       "symbol": "VALE3",
-      "price": 59,
-      "change": -2.22,
-      "changeStr": "-2.22%"
+      "price": 58.53,
+      "change": -0.8,
+      "changeStr": "-0.80%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.19,
-      "change": -1.71,
-      "changeStr": "-1.71%"
+      "price": 39.93,
+      "change": -0.65,
+      "changeStr": "-0.65%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.08,
-      "change": -2.29,
-      "changeStr": "-2.29%"
+      "price": 13.83,
+      "change": -1.78,
+      "changeStr": "-1.78%"
     },
     {
       "symbol": "BBAS3",
       "price": 14.12,
-      "change": -3.42,
-      "changeStr": "-3.42%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.32,
-      "change": 4.65,
-      "changeStr": "\u002B4.65%"
+      "price": 8.28,
+      "change": -0.48,
+      "changeStr": "-0.48%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.07,
-      "change": 0.88,
-      "changeStr": "\u002B0.88%"
+      "price": 16.05,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.38,
-      "change": 0.45,
-      "changeStr": "\u002B0.45%"
+      "price": 50.91,
+      "change": -0.91,
+      "changeStr": "-0.91%"
     }
   ],
   "news": [
     {
-      "title": "Presidente do Paraguai demite diretor de Itaipu ap\u00F3s pol\u00EAmica sobre dep\u00F3sitos de quase R$ 1 bilh\u00E3o no Ueno Bank",
+      "title": "Mercado de c\u00E2mbio trava ap\u00F3s fala de Lula sobre escolha de ministros e BC interv\u00E9m com leil\u00E3o de d\u00F3lar",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/19/paraguai-itaipu-ueno-presidente.ghtml",
-      "date": "Thu, 19 Nov 2026 12:07:16 -0000"
+      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/mercado-de-cambio-trava-apos-fala-de-lula-sobre-escolha-de-ministros-e-bc-intervem-com-leilao-de-dolar.ghtml",
+      "date": "Thu, 19 Nov 2026 19:28:15 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta e vai a R$ 5,91, com foco no pacote fiscal e na estreia da Anthropic em Wall Street",
+      "title": "Trump comprou at\u00E9 US$ 265 mil em a\u00E7\u00F5es da Nvidia enquanto governo avaliava regras para chips",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/19/dolar-ibovespa.ghtml",
-      "date": "Thu, 19 Nov 2026 12:00:24 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/19/trump-acoes-nvidia.ghtml",
+      "date": "Thu, 19 Nov 2026 18:34:26 -0000"
     },
     {
-      "title": "Como implementar sistemas agroflorestais",
+      "title": "Visa, Mastercard e JPMorgan dizem que fornecedores foram alvo de ataque cibern\u00E9tico",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/19/como-implementar-sistemas-agroflorestais.ghtml",
-      "date": "Thu, 19 Nov 2026 11:39:05 -0000"
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/19/instituicoes-financeiras-ataque-cibernetico.ghtml",
+      "date": "Thu, 19 Nov 2026 18:15:51 -0000"
     },
     {
-      "title": "Perdas do Ueno Bank se aproximam de US$ 1 bilh\u00E3o, segundo Banco Central do Paraguai",
+      "title": "iFood sofre ataque hacker que exp\u00F5e dados de clientes, entregadores e representantes de restaurantes",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/19/perdas-do-ueno-bank-se-aproximam-de-us-1-bilhao-segundo-banco-central.ghtml",
-      "date": "Thu, 19 Nov 2026 10:39:16 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/19/ifood-sofre-invasao-que-expoe-dados-de-clientes-entregadores-e-representantes-de-restaurantes.ghtml",
+      "date": "Thu, 19 Nov 2026 18:00:00 -0000"
     },
     {
-      "title": "Recorde da Anthropic em estreia na bolsa de valores conseguir\u00E1 impedir o estouro da bolha da IA?",
+      "title": "Anthropic entra para grupo das empresas mais valiosas do mundo; veja ranking",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/19/recorde-da-anthropic-em-estreia-na-bolsa-de-valores-conseguira-impedir-o-estouro-da-bolha-da-ia.ghtml",
-      "date": "Thu, 19 Nov 2026 10:25:04 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-valor-de-mercado.ghtml",
+      "date": "Thu, 19 Nov 2026 17:16:05 -0000"
     },
     {
-      "title": "\u00C9 #FAKE que MP do \u0027imposto do pecado\u0027 aumentar\u00E1 em 30% carga tribut\u00E1ria sobre carros em 2027",
+      "title": "Pacientes com c\u00E2ncer jogam cinzas em comiss\u00E1rio europeu em protesto contra agrot\u00F3xicos; V\u00CDDEO",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/19/e-fake-que-mp-do-imposto-do-pecado-aumentara-em-30percent-carga-tributaria-sobre-carros-em-2027.ghtml",
-      "date": "Thu, 19 Nov 2026 08:00:00 -0000"
+      "url": "https://g1.globo.com/saude/noticia/2026/11/19/manifestantes-jogam-cinzas-em-comissario-europeu-em-protesto-contra-agrotoxicos-video.ghtml",
+      "date": "Thu, 19 Nov 2026 17:11:29 -0000"
     },
     {
-      "title": "13\u00BA sal\u00E1rio: calculadora mostra quanto voc\u00EA vai receber, com descontos e novas regras do IR",
+      "title": "Anthropic fecha a US$ 97,17 por a\u00E7\u00E3o, alta de 34,3%; valor da empresa chega a US$ 1,27 trilh\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/13o-salario-calculadora-mostra-quanto-voce-vai-receber-com-descontos-e-novas-regras-do-ir.ghtml",
-      "date": "Thu, 19 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/19/acoes-anthropic-nasdaq.ghtml",
+      "date": "Thu, 19 Nov 2026 16:51:36 -0000"
     },
     {
-      "title": "Black Friday: por que comprar com desconto d\u00E1 prazer, mesmo quando gastamos mais?",
+      "title": "IFI alerta que \u0027bondades\u0027 de Lula na elei\u00E7\u00E3o apertam m\u00E1quina p\u00FAblica e pede ajuste \u0027profundo\u0027 ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/11/19/black-friday-por-que-comprar-com-desconto-da-prazer-mesmo-quando-gastamos-mais.ghtml",
-      "date": "Thu, 19 Nov 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/19/orgao-do-senado-alerta-que-bondades-de-lula-nas-eleicoes-apertam-maquina-publica-e-pede-ajuste-fiscal-profundo.ghtml",
+      "date": "Thu, 19 Nov 2026 16:37:06 -0000"
     },
     {
-      "title": "Consci\u00EAncia Negra ser\u00E1 o \u00FAltimo feriad\u00E3o antes do Natal; veja as regras para quem trabalha",
+      "title": "Ministro afirma que pacote fiscal dar\u00E1 seguran\u00E7a ao mercado, mas admite poss\u00EDveis novas medidas para cumprir metas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/consciencia-negra-feriado.ghtml",
-      "date": "Thu, 19 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/19/moreti-fiscal-mercado.ghtml",
+      "date": "Thu, 19 Nov 2026 16:05:13 -0000"
     },
     {
-      "title": "Anthropic, dona do Claude, estreia na bolsa avaliada em US$ 1,5 trilh\u00E3o; conhe\u00E7a a empresa",
+      "title": "Anthropic: fortunas de fundadores disparam e somam R$ 817,5 bilh\u00F5es com estreia na bolsa; veja ranking",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/11/19/anthropic-dona-do-claude-estreia-na-bolsa-conheca-a-empresa.ghtml",
-      "date": "Thu, 19 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-fortunas-de-fundadores-disparam-apos-estreia-na-bolsa-veja-ranking.ghtml",
+      "date": "Thu, 19 Nov 2026 16:02:12 -0000"
     }
   ]
 }
