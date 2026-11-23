@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166376.44,
-      "change": -0.69,
-      "changeStr": "-0.69%"
+      "price": 164924.77,
+      "change": -0.87,
+      "changeStr": "-0.87%"
     },
     {
       "symbol": "PETR4",
-      "price": 42.67,
-      "change": -1.16,
-      "changeStr": "-1.16%"
+      "price": 41.34,
+      "change": -3.12,
+      "changeStr": "-3.12%"
     },
     {
       "symbol": "VALE3",
       "price": 58.48,
-      "change": -0.88,
-      "changeStr": "-0.88%"
+      "change": 0,
+      "changeStr": "\u002B0.00%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.07,
-      "change": -0.3,
-      "changeStr": "-0.30%"
+      "price": 39.68,
+      "change": -0.97,
+      "changeStr": "-0.97%"
     },
     {
       "symbol": "BBDC4",
-      "price": 13.83,
-      "change": -1.78,
-      "changeStr": "-1.78%"
+      "price": 13.71,
+      "change": -0.87,
+      "changeStr": "-0.87%"
     },
     {
       "symbol": "BBAS3",
-      "price": 14.3,
-      "change": 1.27,
-      "changeStr": "\u002B1.27%"
+      "price": 14.26,
+      "change": -0.28,
+      "changeStr": "-0.28%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.2,
-      "change": -1.44,
-      "changeStr": "-1.44%"
+      "price": 9.03,
+      "change": 10.12,
+      "changeStr": "\u002B10.12%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.08,
-      "change": 0.06,
-      "changeStr": "\u002B0.06%"
+      "price": 15.93,
+      "change": -0.93,
+      "changeStr": "-0.93%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.13,
-      "change": -0.49,
-      "changeStr": "-0.49%"
+      "price": 50.06,
+      "change": -2.09,
+      "changeStr": "-2.09%"
     }
   ],
   "news": [
     {
-      "title": "Brasil \u00E9 o 4\u00BA mais feliz do mundo no trabalho; veja ranking e por que o pa\u00EDs supera na\u00E7\u00F5es mais ricas",
+      "title": "Huang volta ao comando da Nvidia e \u00E9 recebido com aplausos por funcion\u00E1rios; a\u00E7\u00F5es disparam 35%",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/brasil-e-o-4o-mais-feliz-do-mundo-no-trabalho-veja-ranking-e-por-que-o-pais-supera-nacoes-mais-ricas.ghtml",
-      "date": "Mon, 23 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/23/huang-nvidia-ceo-funcionarios.ghtml",
+      "date": "Mon, 23 Nov 2026 20:44:10 -0000"
     },
     {
-      "title": "Batatas espaciais: cientistas descobrem como cultivar alimento em solo semelhante ao da Lua",
+      "title": "Batm\u00F3vel de \u0027Batman: O Retorno\u0027 vai a leil\u00E3o por at\u00E9 R$ 37 milh\u00F5es e pode bater recorde",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/23/batatas-espaciais-cientistas-descobrem-como-cultivar-alimento-em-solo-semelhante-ao-da-lua.ghtml",
-      "date": "Mon, 23 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/11/23/batmovel-de-batman-o-retorno-vai-a-leilao-por-ate-r-37-milhoes-e-pode-bater-recorde.ghtml",
+      "date": "Mon, 23 Nov 2026 20:27:43 -0000"
     },
     {
-      "title": "C\u00E2mara vota projeto de ajuste fiscal nesta segunda; proje\u00E7\u00E3o de economia \u00E9 de R$ 50 bilh\u00F5es em 2027 ",
+      "title": "A\u00E7\u00F5es do BRB perderam quase 75% do valor em um ano; entenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
-      "date": "Mon, 23 Nov 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/acoes-do-brb-perderam-quase-75percent-do-valor-em-um-ano-entenda.ghtml",
+      "date": "Mon, 23 Nov 2026 19:06:05 -0000"
     },
     {
-      "title": "Quais s\u00E3o os pr\u00F3ximos feriados de 2026? Veja o \u00FAnico que resta",
+      "title": "Minist\u00E9rio do Trabalho publica portaria que regulamenta descansos da escala 5x2; entenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/quais-sao-os-proximos-feriados-de-2026.ghtml",
-      "date": "Mon, 23 Nov 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/23/ministerio-do-trabalho-portaria-escala-5x2.ghtml",
+      "date": "Mon, 23 Nov 2026 18:42:53 -0000"
     },
     {
-      "title": "Mega-Sena 3089 acumula e pr\u00EAmio vai a R$ 65 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "title": "Fazenda reduz previs\u00E3o de crescimento da economia para 1,9% neste ano",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
-      "date": "Sun, 22 Nov 2026 14:05:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/23/fazenda-reduz-previsao-de-crescimento-da-economia-para-19percent-neste-ano.ghtml",
+      "date": "Mon, 23 Nov 2026 18:08:00 -0000"
     },
     {
-      "title": "Ovelhas entre pain\u00E9is solares? Entenda a tend\u00EAncia que une gera\u00E7\u00E3o de energia e cria\u00E7\u00E3o de animais",
+      "title": "Durigan v\u00EA pacote fiscal como \u0027primeiro passo\u0027 e diz discutir ajuste nas contas diariamente com Lula",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
-      "date": "Sun, 22 Nov 2026 07:00:01 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/23/durigan-evento-itau.ghtml",
+      "date": "Mon, 23 Nov 2026 17:27:22 -0000"
     },
     {
-      "title": "Nova esp\u00E9cie de perereca \u00E9 descoberta em Minas Gerais ap\u00F3s cientista ouvir canto incomum",
+      "title": "Fiscaliza\u00E7\u00E3o encontra trabalho infantil em 113 empresas e afasta 179 adolescentes",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/22/nova-especie-de-perereca-e-descoberta-em-minas-gerais-apos-cientista-ouvir-canto-incomum.ghtml",
-      "date": "Sun, 22 Nov 2026 07:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/mais-de-100-empresas-sao-flagradas-com-adolescentes-em-atividades-perigosas-179-sao-afastados.ghtml",
+      "date": "Mon, 23 Nov 2026 17:04:24 -0000"
     },
     {
-      "title": "A falha cr\u00EDtica descoberta na linguagem de programa\u00E7\u00E3o usada por 90% das grandes empresas do mundo",
+      "title": "Fortuna de Jensen Huang cresce R$ 219 bilh\u00F5es ap\u00F3s retorno ao comando da Nvidia",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
-      "date": "Sun, 22 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/23/fortuna-de-jensen-huang-cresce-em-apos-volta-ao-comando-da-nvidia.ghtml",
+      "date": "Mon, 23 Nov 2026 16:21:26 -0000"
     },
     {
-      "title": "H\u00E1 3.000 anos, trabalhadores do Egito fizeram uma greve por sal\u00E1rios atrasados; conhe\u00E7a a hist\u00F3ria",
+      "title": "CVM suspende registro do BRB, h\u00E1 1 ano sem divulgar balan\u00E7o; banco fica impedido de negociar a\u00E7\u00F5es",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/22/ha-3000-anos-trabalhadores-do-egito-fizeram-uma-greve-por-salarios-atrasados-conheca-a-historia.ghtml",
-      "date": "Sun, 22 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/cvm-suspende-registro-do-brb-por-relatorios-pendentes-banco-fica-impedido-de-negociar-acoes.ghtml",
+      "date": "Mon, 23 Nov 2026 16:19:53 -0000"
     },
     {
-      "title": "13\u00BA sal\u00E1rio na conta: como decidir entre pagar d\u00EDvidas, investir ou aproveitar as compras",
+      "title": "INSS: Justi\u00E7a libera R$ 2,77 bilh\u00F5es em atrasados; veja quem tem direito e como consultar",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/11/22/13o-salario-na-conta-como-decidir-entre-pagar-dividas-investir-ou-aproveitar-as-compras.ghtml",
-      "date": "Sun, 22 Nov 2026 05:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/23/inss-justica-libera-r-277-bilhoes.ghtml",
+      "date": "Mon, 23 Nov 2026 16:15:07 -0000"
     }
   ]
 }
