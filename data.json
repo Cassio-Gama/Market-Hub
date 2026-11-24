@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 164796.05,
-      "change": -0.95,
-      "changeStr": "-0.95%"
+      "price": 165416.3,
+      "change": 0.38,
+      "changeStr": "\u002B0.38%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.3,
-      "change": -3.21,
-      "changeStr": "-3.21%"
+      "price": 41.37,
+      "change": 0.17,
+      "changeStr": "\u002B0.17%"
     },
     {
       "symbol": "VALE3",
-      "price": 58.41,
-      "change": -0.12,
-      "changeStr": "-0.12%"
+      "price": 55.42,
+      "change": -5.12,
+      "changeStr": "-5.12%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.73,
-      "change": -0.85,
-      "changeStr": "-0.85%"
+      "price": 40.13,
+      "change": 1.01,
+      "changeStr": "\u002B1.01%"
     },
     {
       "symbol": "BBDC4",
-      "price": 13.71,
-      "change": -0.87,
-      "changeStr": "-0.87%"
+      "price": 13.8,
+      "change": 0.66,
+      "changeStr": "\u002B0.66%"
     },
     {
       "symbol": "BBAS3",
-      "price": 14.2,
-      "change": -0.7,
-      "changeStr": "-0.70%"
+      "price": 14.51,
+      "change": 2.18,
+      "changeStr": "\u002B2.18%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.99,
-      "change": 9.63,
-      "changeStr": "\u002B9.63%"
+      "price": 9,
+      "change": 0.11,
+      "changeStr": "\u002B0.11%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.94,
-      "change": -0.87,
-      "changeStr": "-0.87%"
+      "price": 16.17,
+      "change": 1.44,
+      "changeStr": "\u002B1.44%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.91,
-      "change": -2.39,
-      "changeStr": "-2.39%"
+      "price": 50.14,
+      "change": 0.46,
+      "changeStr": "\u002B0.46%"
     }
   ],
   "news": [
     {
-      "title": "A queda de bra\u00E7o entre governo e mercado financeiro - O Assunto #1851",
+      "title": "WhatsApp come\u00E7a a liberar figurinhas com som",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/24/a-queda-de-braco-entre-governo-e-mercado-financeiro-o-assunto-1851.ghtml",
-      "date": "Tue, 24 Nov 2026 03:39:36 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/24/whatsapp-comeca-a-liberar-figurinhas-com-som.ghtml",
+      "date": "Tue, 24 Nov 2026 16:51:24 -0000"
     },
     {
-      "title": "D\u00F3lar a R$ 6: o que explica a disparada da moeda e o que pode frear novas altas?",
+      "title": "\u0027Ningu\u00E9m vai morrer se fechar um dia\u0027, diz ministro sobre fim da escala 6x1",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-a-r-6-o-que-explica-a-disparada-da-moeda-e-o-que-pode-frear-novas-altas.ghtml",
-      "date": "Tue, 24 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/ninguem-vai-morrer-se-fechar-um-dia-diz-ministro-sobre-fim-da-escala-6x1.ghtml",
+      "date": "Tue, 24 Nov 2026 16:43:39 -0000"
     },
     {
-      "title": "INSS inicia pagamento de novembro e do 13\u00BA de novos benefici\u00E1rios; veja calend\u00E1rio",
+      "title": "EUA preparam aumento de tarifas contra China, Uni\u00E3o Europeia e outras economias",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/24/inss-inicia-pagamento-de-novembro-e-do-13o-de-novos-beneficiarios-veja-calendario.ghtml",
-      "date": "Tue, 24 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/eua-tarifas.ghtml",
+      "date": "Tue, 24 Nov 2026 15:03:32 -0000"
     },
     {
-      "title": "BRB diz que segue com atividades banc\u00E1rias, mesmo com registro suspenso na CVM e bloqueio para negociar a\u00E7\u00F5es",
+      "title": "Volkswagen negocia com trabalhadores sob amea\u00E7a de greve na Alemanha",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/brb-afirma-que-segue-com-atividades-bancarias-apos-cvm-suspender-registro-de-companhia-aberta.ghtml",
-      "date": "Mon, 23 Nov 2026 23:05:34 -0000"
+      "url": "https://g1.globo.com/carros/noticia/2026/11/24/volkswagen-negocia-com-trabalhadores-sob-ameaca-de-greve-na-alemanha.ghtml",
+      "date": "Tue, 24 Nov 2026 14:24:27 -0000"
     },
     {
-      "title": "Petrobras volta ao mercado de etanol com compra de 42% de produtora por R$ 2,8 bilh\u00F5es",
+      "title": "Arrecada\u00E7\u00E3o federal avan\u00E7a para R$ 294 bilh\u00F5es em outubro, novo recorde para o m\u00EAs",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/negocios/noticia/2026/11/23/petrobras-etanol.ghtml",
-      "date": "Mon, 23 Nov 2026 22:40:42 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/arrecadacao-federal-avanca-para-r-294-bilhoes-em-outubro-novo-recorde-para-o-mes.ghtml",
+      "date": "Tue, 24 Nov 2026 14:00:01 -0000"
     },
     {
-      "title": "Petrobras prev\u00EA investir US$ 122 bilh\u00F5es entre 2027 e 2031, alta de 11,9% em rela\u00E7\u00E3o ao plano anterior",
+      "title": "Volta de Huang levanta d\u00FAvidas sobre independ\u00EAncia do conselho da Nvidia, dizem cr\u00EDticos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/23/petrobras-investimento-2027-a-2031.ghtml",
-      "date": "Mon, 23 Nov 2026 22:38:01 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/24/volta-de-huang-levanta-duvidas-sobre-independencia-do-conselho-da-nvidia.ghtml",
+      "date": "Tue, 24 Nov 2026 13:19:05 -0000"
     },
     {
-      "title": "Nvidia recupera US$ 953 bilh\u00F5es em um dia com volta de CEO, valor maior que o de toda a B3",
+      "title": "Anthropic cai abaixo do pre\u00E7o do IPO apenas cinco dias ap\u00F3s estreia recorde na bolsa",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-recupera-us-953-bilhoes-em-um-dia-com-volta-de-ceo-valor-maior-que-o-de-toda-a-b3.ghtml",
-      "date": "Mon, 23 Nov 2026 21:21:39 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/acoes-da-anthropic.ghtml",
+      "date": "Tue, 24 Nov 2026 12:59:25 -0000"
     },
     {
-      "title": "Jensen Huang \u00E9 aplaudido por funcion\u00E1rios no retorno \u00E0 Nvidia; VIDEO",
+      "title": "D\u00F3lar cai e chega a R$ 5,80 no menor n\u00EDvel do dia, com foco em ajuste fiscal; Ibovespa sobe ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/23/huang-nvidia-ceo-funcionarios.ghtml",
-      "date": "Mon, 23 Nov 2026 20:44:10 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-ibovespa.ghtml",
+      "date": "Tue, 24 Nov 2026 12:00:24 -0000"
     },
     {
-      "title": "Batm\u00F3vel de \u0027Batman: O Retorno\u0027 vai a leil\u00E3o por at\u00E9 R$ 37 milh\u00F5es e pode bater recorde",
+      "title": "Trump pode ter ganhado R$ 90 milh\u00F5es com volta de Jensen Huang \u00E0 Nvidia, diz jornal",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/11/23/batmovel-de-batman-o-retorno-vai-a-leilao-por-ate-r-37-milhoes-e-pode-bater-recorde.ghtml",
-      "date": "Mon, 23 Nov 2026 20:27:43 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/trump-ganho-nvidia.ghtml",
+      "date": "Tue, 24 Nov 2026 11:59:22 -0000"
     },
     {
-      "title": "A\u00E7\u00F5es do BRB perderam quase 75% do valor em um ano; entenda",
+      "title": "Tarifa\u00E7o de Trump: EUA barram primeira tentativa do Brasil de julgamento na OMC",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/acoes-do-brb-perderam-quase-75percent-do-valor-em-um-ano-entenda.ghtml",
-      "date": "Mon, 23 Nov 2026 19:06:05 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/eua-bloqueia-pedido-do-brasil-para-um-painel-de-disputas-tarifarias-diz-um-funcionario-comercial.ghtml",
+      "date": "Tue, 24 Nov 2026 11:42:37 -0000"
     }
   ]
 }
