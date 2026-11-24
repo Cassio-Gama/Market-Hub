@@ -2,27 +2,27 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 164924.77,
-      "change": -0.87,
-      "changeStr": "-0.87%"
+      "price": 164796.05,
+      "change": -0.95,
+      "changeStr": "-0.95%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.34,
-      "change": -3.12,
-      "changeStr": "-3.12%"
+      "price": 41.3,
+      "change": -3.21,
+      "changeStr": "-3.21%"
     },
     {
       "symbol": "VALE3",
-      "price": 58.48,
-      "change": 0,
-      "changeStr": "\u002B0.00%"
+      "price": 58.41,
+      "change": -0.12,
+      "changeStr": "-0.12%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.68,
-      "change": -0.97,
-      "changeStr": "-0.97%"
+      "price": 39.73,
+      "change": -0.85,
+      "changeStr": "-0.85%"
     },
     {
       "symbol": "BBDC4",
@@ -32,32 +32,74 @@
     },
     {
       "symbol": "BBAS3",
-      "price": 14.26,
-      "change": -0.28,
-      "changeStr": "-0.28%"
+      "price": 14.2,
+      "change": -0.7,
+      "changeStr": "-0.70%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.03,
-      "change": 10.12,
-      "changeStr": "\u002B10.12%"
+      "price": 8.99,
+      "change": 9.63,
+      "changeStr": "\u002B9.63%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.93,
-      "change": -0.93,
-      "changeStr": "-0.93%"
+      "price": 15.94,
+      "change": -0.87,
+      "changeStr": "-0.87%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.06,
-      "change": -2.09,
-      "changeStr": "-2.09%"
+      "price": 49.91,
+      "change": -2.39,
+      "changeStr": "-2.39%"
     }
   ],
   "news": [
     {
-      "title": "Huang volta ao comando da Nvidia e \u00E9 recebido com aplausos por funcion\u00E1rios; a\u00E7\u00F5es disparam 35%",
+      "title": "A queda de bra\u00E7o entre governo e mercado financeiro - O Assunto #1851",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/24/a-queda-de-braco-entre-governo-e-mercado-financeiro-o-assunto-1851.ghtml",
+      "date": "Tue, 24 Nov 2026 03:39:36 -0000"
+    },
+    {
+      "title": "D\u00F3lar a R$ 6: o que explica a disparada da moeda e o que pode frear novas altas?",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-a-r-6-o-que-explica-a-disparada-da-moeda-e-o-que-pode-frear-novas-altas.ghtml",
+      "date": "Tue, 24 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "title": "INSS inicia pagamento de novembro e do 13\u00BA de novos benefici\u00E1rios; veja calend\u00E1rio",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/inss-inicia-pagamento-de-novembro-e-do-13o-de-novos-beneficiarios-veja-calendario.ghtml",
+      "date": "Tue, 24 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "title": "BRB diz que segue com atividades banc\u00E1rias, mesmo com registro suspenso na CVM e bloqueio para negociar a\u00E7\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/brb-afirma-que-segue-com-atividades-bancarias-apos-cvm-suspender-registro-de-companhia-aberta.ghtml",
+      "date": "Mon, 23 Nov 2026 23:05:34 -0000"
+    },
+    {
+      "title": "Petrobras volta ao mercado de etanol com compra de 42% de produtora por R$ 2,8 bilh\u00F5es",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/negocios/noticia/2026/11/23/petrobras-etanol.ghtml",
+      "date": "Mon, 23 Nov 2026 22:40:42 -0000"
+    },
+    {
+      "title": "Petrobras prev\u00EA investir US$ 122 bilh\u00F5es entre 2027 e 2031, alta de 11,9% em rela\u00E7\u00E3o ao plano anterior",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/23/petrobras-investimento-2027-a-2031.ghtml",
+      "date": "Mon, 23 Nov 2026 22:38:01 -0000"
+    },
+    {
+      "title": "Nvidia recupera US$ 953 bilh\u00F5es em um dia com volta de CEO, valor maior que o de toda a B3",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-recupera-us-953-bilhoes-em-um-dia-com-volta-de-ceo-valor-maior-que-o-de-toda-a-b3.ghtml",
+      "date": "Mon, 23 Nov 2026 21:21:39 -0000"
+    },
+    {
+      "title": "Jensen Huang \u00E9 aplaudido por funcion\u00E1rios no retorno \u00E0 Nvidia; VIDEO",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/11/23/huang-nvidia-ceo-funcionarios.ghtml",
       "date": "Mon, 23 Nov 2026 20:44:10 -0000"
@@ -73,48 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/acoes-do-brb-perderam-quase-75percent-do-valor-em-um-ano-entenda.ghtml",
       "date": "Mon, 23 Nov 2026 19:06:05 -0000"
-    },
-    {
-      "title": "Minist\u00E9rio do Trabalho publica portaria que regulamenta descansos da escala 5x2; entenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/23/ministerio-do-trabalho-portaria-escala-5x2.ghtml",
-      "date": "Mon, 23 Nov 2026 18:42:53 -0000"
-    },
-    {
-      "title": "Fazenda reduz previs\u00E3o de crescimento da economia para 1,9% neste ano",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/23/fazenda-reduz-previsao-de-crescimento-da-economia-para-19percent-neste-ano.ghtml",
-      "date": "Mon, 23 Nov 2026 18:08:00 -0000"
-    },
-    {
-      "title": "Durigan v\u00EA pacote fiscal como \u0027primeiro passo\u0027 e diz discutir ajuste nas contas diariamente com Lula",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/23/durigan-evento-itau.ghtml",
-      "date": "Mon, 23 Nov 2026 17:27:22 -0000"
-    },
-    {
-      "title": "Fiscaliza\u00E7\u00E3o encontra trabalho infantil em 113 empresas e afasta 179 adolescentes",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/mais-de-100-empresas-sao-flagradas-com-adolescentes-em-atividades-perigosas-179-sao-afastados.ghtml",
-      "date": "Mon, 23 Nov 2026 17:04:24 -0000"
-    },
-    {
-      "title": "Fortuna de Jensen Huang cresce R$ 219 bilh\u00F5es ap\u00F3s retorno ao comando da Nvidia",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/23/fortuna-de-jensen-huang-cresce-em-apos-volta-ao-comando-da-nvidia.ghtml",
-      "date": "Mon, 23 Nov 2026 16:21:26 -0000"
-    },
-    {
-      "title": "CVM suspende registro do BRB, h\u00E1 1 ano sem divulgar balan\u00E7o; banco fica impedido de negociar a\u00E7\u00F5es",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/cvm-suspende-registro-do-brb-por-relatorios-pendentes-banco-fica-impedido-de-negociar-acoes.ghtml",
-      "date": "Mon, 23 Nov 2026 16:19:53 -0000"
-    },
-    {
-      "title": "INSS: Justi\u00E7a libera R$ 2,77 bilh\u00F5es em atrasados; veja quem tem direito e como consultar",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/23/inss-justica-libera-r-277-bilhoes.ghtml",
-      "date": "Mon, 23 Nov 2026 16:15:07 -0000"
     }
   ]
 }
