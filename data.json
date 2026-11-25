@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 164089.81,
-      "change": -0.43,
-      "changeStr": "-0.43%"
+      "price": 166684.61,
+      "change": 1.58,
+      "changeStr": "\u002B1.58%"
     },
     {
       "symbol": "PETR4",
-      "price": 40.55,
-      "change": -1.82,
-      "changeStr": "-1.82%"
+      "price": 41.36,
+      "change": 2,
+      "changeStr": "\u002B2.00%"
     },
     {
       "symbol": "VALE3",
-      "price": 55.19,
-      "change": -5.51,
-      "changeStr": "-5.51%"
+      "price": 56.9,
+      "change": 3.1,
+      "changeStr": "\u002B3.10%"
     },
     {
       "symbol": "ITUB4",
-      "price": 39.74,
-      "change": 0.03,
-      "changeStr": "\u002B0.03%"
+      "price": 40.01,
+      "change": 0.68,
+      "changeStr": "\u002B0.68%"
     },
     {
       "symbol": "BBDC4",
-      "price": 13.62,
-      "change": -0.66,
-      "changeStr": "-0.66%"
+      "price": 14.19,
+      "change": 4.19,
+      "changeStr": "\u002B4.19%"
     },
     {
       "symbol": "BBAS3",
-      "price": 14.18,
-      "change": -0.14,
-      "changeStr": "-0.14%"
+      "price": 14.69,
+      "change": 3.6,
+      "changeStr": "\u002B3.60%"
     },
     {
       "symbol": "MGLU3",
-      "price": 8.75,
-      "change": -2.67,
-      "changeStr": "-2.67%"
+      "price": 9.29,
+      "change": 6.17,
+      "changeStr": "\u002B6.17%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.1,
-      "change": 1,
-      "changeStr": "\u002B1.00%"
+      "price": 15.81,
+      "change": -1.8,
+      "changeStr": "-1.80%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.2,
-      "change": 0.58,
-      "changeStr": "\u002B0.58%"
+      "price": 49.65,
+      "change": -1.1,
+      "changeStr": "-1.10%"
     }
   ],
   "news": [
     {
-      "title": "Pr\u00EAmio M\u00E9dias de Valor 2026 reconhece 20 empresas que se destacam em gest\u00E3o e resultados",
+      "title": "CMN anuncia medidas para conter o endividamento das fam\u00EDlias   ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/11/25/premio-medias-de-valor-2026-reconhece-20-empresas-que-se-destacam-em-gestao-e-resultados.ghtml",
-      "date": "Wed, 25 Nov 2026 12:15:22 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/25/cmn-anuncia-medidas-para-conter-o-endividamento-das-familias.ghtml",
+      "date": "Wed, 25 Nov 2026 22:10:34 -0000"
     },
     {
-      "title": "D\u00F3lar abre em alta e vai a R$ 5,97, com foco em infla\u00E7\u00E3o e PIB dos EUA e medidas econ\u00F4micas de Lula",
+      "title": "Secret\u00E1ria de Agricultura de Trump defende novas tarifas e acusa Brasil de \u0027pr\u00E1ticas desleais\u0027 contra agricultores dos EUA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/25/dolar-ibovespa.ghtml",
-      "date": "Wed, 25 Nov 2026 12:00:33 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/secretaria-de-agricultura-de-trump-defende-novas-tarifas-e-acusa-brasil-de-praticas-desleais-contra-agricultores-dos-eua.ghtml",
+      "date": "Wed, 25 Nov 2026 21:35:55 -0000"
     },
     {
-      "title": "\u0027Manipula\u00E7\u00E3o pol\u00EDtica\u0027: China critica plano de Trump de impor novo tarifa\u00E7o",
+      "title": "FCC autoriza SpaceX a lan\u00E7ar 1 milh\u00E3o de sat\u00E9lites para criar data centers no espa\u00E7o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/25/china-trump-novo-tarifaco.ghtml",
-      "date": "Wed, 25 Nov 2026 11:32:44 -0000"
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/25/fcc-autoriza-spacex-a-lancar-1-milhao-de-satelites-para-criar-data-centers-no-espaco.ghtml",
+      "date": "Wed, 25 Nov 2026 21:17:17 -0000"
     },
     {
-      "title": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
+      "title": "Por que o PIX est\u00E1 na mira dos EUA em investiga\u00E7\u00E3o que embasa novas tarifas contra o Brasil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/25/os-riscos-que-trump-corre-com-a-volta-de-jensen-huang-ao-comando-da-nvidia.ghtml",
-      "date": "Wed, 25 Nov 2026 11:11:51 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/25/brasil-protesta-contra-recomendacao-dos-eua-de-novas-tarifas-sobre-avioes-e-acucar.ghtml",
+      "date": "Wed, 25 Nov 2026 21:11:50 -0000"
     },
     {
-      "title": "Denza BAO 3: conhe\u00E7a o SUV el\u00E9trico de mais de R$ 400 mil que promete recarga em 9 minutos",
+      "title": "Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que n\u00E3o \u0027ceder\u00E1 a esse tipo de amea\u00E7a\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/11/25/denza-bao-3-conheca-o-suv-eletrico-de-mais-de-r-400-mil-que-promete-recarga-em-9-minutos.ghtml",
-      "date": "Wed, 25 Nov 2026 11:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/25/governo-lula-diz-estar-indignado-com-nova-proposta-de-tarifa-dos-eua-contra-o-brasil-e-que-nao-cedera-a-esse-tipo-de-ameaca.ghtml",
+      "date": "Wed, 25 Nov 2026 21:10:49 -0000"
     },
     {
-      "title": "Horas extras ficam mais caras com fim da escala 6x1; calculadora do g1 mostra o que muda",
+      "title": "Luiz Trabuco: quem \u00E9 o executivo do Bradesco que est\u00E1 entre os cotados para assumir Minist\u00E9rio da Fazenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/25/horas-extras-6x1-5x2-calculadora.ghtml",
-      "date": "Wed, 25 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/11/25/luiz-trabuco-quem-e-o-executivo-cotado-para-ser-ministro-da-fazenda.ghtml",
+      "date": "Wed, 25 Nov 2026 20:33:17 -0000"
     },
     {
-      "title": "Funcion\u00E1rio de loja da Nike tem demiss\u00E3o por justa causa mantida ap\u00F3s gravar dancinha no trabalho",
+      "title": "Inscri\u00E7\u00F5es para concurso do IBGE com 27 mil vagas s\u00E3o prorrogadas; veja como participar",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/25/funcionario-de-loja-da-nike-tem-demissao-por-justa-causa-mantida-apos-gravar-dancinha-no-trabalho.ghtml",
-      "date": "Wed, 25 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/25/inscricoes-concurso-do-ibge-prorrogadas.ghtml",
+      "date": "Wed, 25 Nov 2026 20:06:47 -0000"
     },
     {
-      "title": "Justi\u00E7a derruba suspens\u00E3o e restabelece regras para vale-refei\u00E7\u00E3o e alimenta\u00E7\u00E3o; entenda",
+      "title": "Ap\u00F3s suspens\u00E3o, JBS prev\u00EA retomada das exporta\u00E7\u00F5es de frango \u00E0 UE em dezembro",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/25/justica-derruba-suspensao-e-restabelece-regras-para-vale-refeicao-e-alimentacao-entenda.ghtml",
-      "date": "Wed, 25 Nov 2026 03:17:42 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/jbs-exportacao-frango-uniao-europeia.ghtml",
+      "date": "Wed, 25 Nov 2026 19:50:30 -0000"
     },
     {
-      "title": "Reforma tribut\u00E1ria e fim da escala 6x1 podem pressionar infla\u00E7\u00E3o em 2027; BC e equipe econ\u00F4mica monitoram impactos",
+      "title": "Justi\u00E7a pro\u00EDbe a locadora Unidas de usar menores de 18 anos na lavagem de carros",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/25/reforma-tributaria-e-fim-da-escala-6x1-podem-pressionar-inflacao-em-2027-bc-e-equipe-economica-monitoram-impactos.ghtml",
-      "date": "Wed, 25 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/25/justica-proibe-unidas-de-usar-menores-de-18-anos-na-lavagem-de-carros.ghtml",
+      "date": "Wed, 25 Nov 2026 19:01:24 -0000"
     },
     {
-      "title": "Inscri\u00E7\u00F5es para concurso do IBGE com 27 mil vagas terminam nesta quarta; veja como participar ",
+      "title": "Fim de ano: distribuidoras de energia oferecem descontos e parcelamento para renegociar d\u00EDvidas",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/25/inscricoes-concurso-do-ibge-com-27-mil-vagas.ghtml",
-      "date": "Wed, 25 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/25/fim-de-ano-distribuidoras-de-energia-oferecem-descontos-e-parcelamento-para-renegociar-dividas.ghtml",
+      "date": "Wed, 25 Nov 2026 18:09:10 -0000"
     }
   ]
 }
