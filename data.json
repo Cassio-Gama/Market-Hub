@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 165416.3,
-      "change": 0.38,
-      "changeStr": "\u002B0.38%"
+      "price": 164089.81,
+      "change": -0.43,
+      "changeStr": "-0.43%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.37,
-      "change": 0.17,
-      "changeStr": "\u002B0.17%"
+      "price": 40.55,
+      "change": -1.82,
+      "changeStr": "-1.82%"
     },
     {
       "symbol": "VALE3",
-      "price": 55.42,
-      "change": -5.12,
-      "changeStr": "-5.12%"
+      "price": 55.19,
+      "change": -5.51,
+      "changeStr": "-5.51%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.13,
-      "change": 1.01,
-      "changeStr": "\u002B1.01%"
+      "price": 39.74,
+      "change": 0.03,
+      "changeStr": "\u002B0.03%"
     },
     {
       "symbol": "BBDC4",
-      "price": 13.8,
-      "change": 0.66,
-      "changeStr": "\u002B0.66%"
+      "price": 13.62,
+      "change": -0.66,
+      "changeStr": "-0.66%"
     },
     {
       "symbol": "BBAS3",
-      "price": 14.51,
-      "change": 2.18,
-      "changeStr": "\u002B2.18%"
+      "price": 14.18,
+      "change": -0.14,
+      "changeStr": "-0.14%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9,
-      "change": 0.11,
-      "changeStr": "\u002B0.11%"
+      "price": 8.75,
+      "change": -2.67,
+      "changeStr": "-2.67%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.17,
-      "change": 1.44,
-      "changeStr": "\u002B1.44%"
+      "price": 16.1,
+      "change": 1,
+      "changeStr": "\u002B1.00%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.14,
-      "change": 0.46,
-      "changeStr": "\u002B0.46%"
+      "price": 50.2,
+      "change": 0.58,
+      "changeStr": "\u002B0.58%"
     }
   ],
   "news": [
     {
-      "title": "WhatsApp come\u00E7a a liberar figurinhas com som",
+      "title": "Mega-Sena 3090 acumula e pr\u00EAmio vai a R$ 75 milh\u00F5es; confira os n\u00FAmeros sorteados",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/24/mega-sena-concurso-3090-confira-os-numeros-sorteados.ghtml",
+      "date": "Wed, 25 Nov 2026 00:03:07 -0000"
+    },
+    {
+      "title": "Economia da Argentina encolhe e entra em recess\u00E3o t\u00E9cnica, apontam dados preliminares",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/economia-da-argentina-encolhe-e-entra-em-recessao-tecnica-apontam-dados-preliminares.ghtml",
+      "date": "Tue, 24 Nov 2026 22:33:17 -0000"
+    },
+    {
+      "title": "Ap\u00F3s voltar ao comando da Nvidia, Jensen Huang pede desculpas por trai\u00E7\u00E3o e diz fazer terapia",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/24/apos-voltar-ao-comando-da-nvidia-jensen-huang-pede-desculpas-por-traicao-e-diz-fazer-terapia.ghtml",
+      "date": "Tue, 24 Nov 2026 21:56:24 -0000"
+    },
+    {
+      "title": "Chinesa Huawei \u00E9 condenada nos EUA por neg\u00F3cios no Ir\u00E3 e roubo de segredos comerciais; entenda",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/24/chinesa-huawei-e-condenada-nos-eua.ghtml",
+      "date": "Tue, 24 Nov 2026 20:51:12 -0000"
+    },
+    {
+      "title": "Brasil ter\u00E1 recess\u00E3o se Lula n\u00E3o fizer ajuste fiscal mais robusto, diz Eduardo Giannetti",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/brasil-tera-recessao-se-lula-nao-fizer-ajuste-fiscal-mais-robusto-diz-eduardo-giannetti.ghtml",
+      "date": "Tue, 24 Nov 2026 19:24:54 -0000"
+    },
+    {
+      "title": "\u0027Vamos buscar a autossufici\u00EAncia em diesel\u0027, diz Magda sobre plano da Petrobras at\u00E9 2031",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/petrobras-plano-2027-2031.ghtml",
+      "date": "Tue, 24 Nov 2026 18:01:40 -0000"
+    },
+    {
+      "title": "Governo prepara PEC com medidas para dar \u0027pot\u00EAncia fiscal\u0027 e assegurar cumprimento de meta, diz Moretti",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/24/governo-prepara-pec-com-medidas-de-para-dar-potencia-fiscal-e-assegurar-cumprimento-de-meta.ghtml",
+      "date": "Tue, 24 Nov 2026 17:43:28 -0000"
+    },
+    {
+      "title": "Austr\u00E1lia quer multar big techs em at\u00E9 5% do faturamento global por conte\u00FAdos nocivos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/24/australia-google-meta.ghtml",
+      "date": "Tue, 24 Nov 2026 17:36:10 -0000"
+    },
+    {
+      "title": "\u00C9 #FAKE que v\u00EDdeo de descarte de cebolas na Bahia tenha a ver com alta de pre\u00E7os em 2026; cena h\u00E1 dois anos",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/24/e-fake-que-video-de-descarte-de-cebolas-na-bahia-tenha-a-ver-com-alta-de-precos-em-2026-cena-ha-dois-anos.ghtml",
+      "date": "Tue, 24 Nov 2026 17:27:24 -0000"
+    },
+    {
+      "title": "WhatsApp come\u00E7a a liberar figurinhas com som; veja como funciona",
       "source": "G1 Economia",
       "url": "https://g1.globo.com/tecnologia/noticia/2026/11/24/whatsapp-comeca-a-liberar-figurinhas-com-som.ghtml",
       "date": "Tue, 24 Nov 2026 16:51:24 -0000"
-    },
-    {
-      "title": "\u0027Ningu\u00E9m vai morrer se fechar um dia\u0027, diz ministro sobre fim da escala 6x1",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/24/ninguem-vai-morrer-se-fechar-um-dia-diz-ministro-sobre-fim-da-escala-6x1.ghtml",
-      "date": "Tue, 24 Nov 2026 16:43:39 -0000"
-    },
-    {
-      "title": "EUA preparam aumento de tarifas contra China, Uni\u00E3o Europeia e outras economias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/24/eua-tarifas.ghtml",
-      "date": "Tue, 24 Nov 2026 15:03:32 -0000"
-    },
-    {
-      "title": "Volkswagen negocia com trabalhadores sob amea\u00E7a de greve na Alemanha",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/carros/noticia/2026/11/24/volkswagen-negocia-com-trabalhadores-sob-ameaca-de-greve-na-alemanha.ghtml",
-      "date": "Tue, 24 Nov 2026 14:24:27 -0000"
-    },
-    {
-      "title": "Arrecada\u00E7\u00E3o federal avan\u00E7a para R$ 294 bilh\u00F5es em outubro, novo recorde para o m\u00EAs",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/24/arrecadacao-federal-avanca-para-r-294-bilhoes-em-outubro-novo-recorde-para-o-mes.ghtml",
-      "date": "Tue, 24 Nov 2026 14:00:01 -0000"
-    },
-    {
-      "title": "Volta de Huang levanta d\u00FAvidas sobre independ\u00EAncia do conselho da Nvidia, dizem cr\u00EDticos",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/24/volta-de-huang-levanta-duvidas-sobre-independencia-do-conselho-da-nvidia.ghtml",
-      "date": "Tue, 24 Nov 2026 13:19:05 -0000"
-    },
-    {
-      "title": "Anthropic cai abaixo do pre\u00E7o do IPO apenas cinco dias ap\u00F3s estreia recorde na bolsa",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/24/acoes-da-anthropic.ghtml",
-      "date": "Tue, 24 Nov 2026 12:59:25 -0000"
-    },
-    {
-      "title": "D\u00F3lar cai e chega a R$ 5,80 no menor n\u00EDvel do dia, com foco em ajuste fiscal; Ibovespa sobe ",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-ibovespa.ghtml",
-      "date": "Tue, 24 Nov 2026 12:00:24 -0000"
-    },
-    {
-      "title": "Trump pode ter ganhado R$ 90 milh\u00F5es com volta de Jensen Huang \u00E0 Nvidia, diz jornal",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/24/trump-ganho-nvidia.ghtml",
-      "date": "Tue, 24 Nov 2026 11:59:22 -0000"
-    },
-    {
-      "title": "Tarifa\u00E7o de Trump: EUA barram primeira tentativa do Brasil de julgamento na OMC",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/24/eua-bloqueia-pedido-do-brasil-para-um-painel-de-disputas-tarifarias-diz-um-funcionario-comercial.ghtml",
-      "date": "Tue, 24 Nov 2026 11:42:37 -0000"
     }
   ]
 }
