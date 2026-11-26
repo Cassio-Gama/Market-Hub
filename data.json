@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 173878.31,
-      "change": 4.32,
-      "changeStr": "\u002B4.32%"
+      "price": 176799.84,
+      "change": 6.07,
+      "changeStr": "\u002B6.07%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.34,
-      "change": 4.79,
-      "changeStr": "\u002B4.79%"
+      "price": 43.19,
+      "change": 4.42,
+      "changeStr": "\u002B4.42%"
     },
     {
       "symbol": "VALE3",
-      "price": 58.11,
-      "change": 2.13,
-      "changeStr": "\u002B2.13%"
+      "price": 58.73,
+      "change": 3.22,
+      "changeStr": "\u002B3.22%"
     },
     {
       "symbol": "ITUB4",
-      "price": 41.81,
-      "change": 4.5,
-      "changeStr": "\u002B4.50%"
+      "price": 42.56,
+      "change": 6.37,
+      "changeStr": "\u002B6.37%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.36,
-      "change": 8.25,
-      "changeStr": "\u002B8.25%"
+      "price": 15.83,
+      "change": 11.56,
+      "changeStr": "\u002B11.56%"
     },
     {
       "symbol": "BBAS3",
-      "price": 15.68,
-      "change": 6.74,
-      "changeStr": "\u002B6.74%"
+      "price": 16.54,
+      "change": 12.59,
+      "changeStr": "\u002B12.59%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.72,
-      "change": 4.63,
-      "changeStr": "\u002B4.63%"
+      "price": 9.65,
+      "change": 3.88,
+      "changeStr": "\u002B3.88%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.26,
-      "change": 2.85,
-      "changeStr": "\u002B2.85%"
+      "price": 16.43,
+      "change": 3.92,
+      "changeStr": "\u002B3.92%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.48,
-      "change": 1.67,
-      "changeStr": "\u002B1.67%"
+      "price": 51.36,
+      "change": 3.44,
+      "changeStr": "\u002B3.44%"
     }
   ],
   "news": [
     {
-      "title": "Embraer diz que novas tarifas de Trump pode encarecer passagens e pressionar infla\u00E7\u00E3o nos EUA ",
+      "title": "Governo Lula anuncia Luiz Trabuco para Minist\u00E9rio da Fazenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/26/embraer-aeronaves-eua.ghtml",
-      "date": "Thu, 26 Nov 2026 14:29:23 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/11/26/governo-lula-anuncia-luiz-trabuco-para-ministerio-da-fazenda.ghtml",
+      "date": "Thu, 26 Nov 2026 23:05:51 -0000"
     },
     {
-      "title": "Milhares protestam no Paraguai contra viol\u00EAncia contra mulher e preju\u00EDzos provocados por crise banc\u00E1ria",
+      "title": "Brasil rebate Macron ap\u00F3s fala sobre carne \u0027dopada\u0027 e acusa Fran\u00E7a de protecionismo",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/milhares-protestam-no-paraguai-contra-violencia-contra-a-mulher-e-crise-do-ueno-bank.ghtml",
-      "date": "Thu, 26 Nov 2026 13:48:36 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/governo-lula-acusa-franca-de-disseminar-desinformacao.ghtml",
+      "date": "Thu, 26 Nov 2026 22:20:46 -0000"
     },
     {
-      "title": "Alckmin critica tarifa de 10% dos EUA sobre avi\u00F5es brasileiros e chama medida de \u0027completamente descabida\u0027",
+      "title": "Quem \u00E9 Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/26/alckimin-eua-tarias.ghtml",
-      "date": "Thu, 26 Nov 2026 13:31:21 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/11/26/quem-e-luiz-trabuco-escolhido-como-ministro-da-fazenda-do-governo-lula-4.ghtml",
+      "date": "Thu, 26 Nov 2026 22:11:05 -0000"
     },
     {
-      "title": "Pre\u00E7o dos alimentos: o que ficou mais caro e o que barateou na pr\u00E9via da infla\u00E7\u00E3o de novembro",
+      "title": "Trabuco aceita convite de Lula para assumir Minist\u00E9rio da Fazenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-na-previa-da-inflacao-de-novembro.ghtml",
-      "date": "Thu, 26 Nov 2026 13:15:54 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/11/26/trabuco-aceita-convite-de-lula-para-assumir-ministerio-da-fazenda.ghtml",
+      "date": "Thu, 26 Nov 2026 22:09:01 -0000"
     },
     {
-      "title": "Macron diz que carne brasileira \u00E9 \u0027dopada\u0027 e comemora bloqueio da UE ao produto ",
+      "title": "Ibovespa dispara 6% com expectativa de Trabuco na Fazenda; empresas ganham R$ 232 bilh\u00F5es",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/macron-diz-que-carne-brasileira-e-dopada-e-comemora-veto-da-ue-ao-produto.ghtml",
-      "date": "Thu, 26 Nov 2026 13:06:15 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/26/trabuco-ibovespa-fazenda-dolar.ghtml",
+      "date": "Thu, 26 Nov 2026 21:48:09 -0000"
     },
     {
-      "title": "Grupo Fictor: o que faz a empresa que tentou comprar o Banco Master e \u00E9 investigada por fraude bilion\u00E1ria",
+      "title": "Luiz Trabuco se re\u00FAne com Lula em Bras\u00EDlia; executivo do Bradesco \u00E9 cotado para assumir Minist\u00E9rio da Fazenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/26/fictor-master-fraude.ghtml",
-      "date": "Thu, 26 Nov 2026 12:05:46 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/11/26/luiz-trabuco-chega-a-brasilia-para-se-reunir-com-lula-executivo-do-bradesco-e-cotado-para-assumir-ministerio-da-fazenda.ghtml",
+      "date": "Thu, 26 Nov 2026 20:30:47 -0000"
     },
     {
-      "title": "IPCA-15: pr\u00E9via da infla\u00E7\u00E3o sobe 0,22% em novembro, puxada por alimentos",
+      "title": "Clubes de futebol pedem media\u00E7\u00E3o do STF para preservar patroc\u00EDnio de bets",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/26/ipca-15-previa-da-inflacao-novembro.ghtml",
-      "date": "Thu, 26 Nov 2026 12:00:28 -0000"
+      "url": "https://g1.globo.com/politica/noticia/2026/11/26/clubes-de-futebol-pedem-mediacao-do-stf-para-preservar-patrocinio-de-bets.ghtml",
+      "date": "Thu, 26 Nov 2026 19:09:20 -0000"
     },
     {
-      "title": "Ibovespa dispara e d\u00F3lar cai abaixo de R$ 5,80, de olho em nomes para a Fazenda e pol\u00EDtica fiscal",
+      "title": "Durigan diz que discutir\u00E1 novas medidas fiscais com Lula: \u0027Mostrar claramente o caminho para 2027\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/26/dolar-ibovespa.ghtml",
-      "date": "Thu, 26 Nov 2026 12:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/26/durigan-diz-que-discutira-novas-medidas-fiscais-com-lula-mostrar-claramente-o-caminho-para-2027.ghtml",
+      "date": "Thu, 26 Nov 2026 19:08:44 -0000"
     },
     {
-      "title": "Investimento estrangeiro atinge marca US$ 1,4 trilh\u00E3o em 2025, quase metade do PIB, diz BC",
+      "title": "Espanhol Pablo Hern\u00E1ndez de Cos \u00E9 escolhido para presidir o Banco Central Europeu",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/26/investimento-estrangeiro-atinge-marca-us-14-trilhao-em-2025-quase-metade-do-pib-aplicacoes-no-exterior-superam-reservas.ghtml",
-      "date": "Thu, 26 Nov 2026 11:57:30 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/26/espanhol-pablo-hernandez-de-cos-e-escolhido-para-presidir-o-banco-central-europeu.ghtml",
+      "date": "Thu, 26 Nov 2026 18:42:40 -0000"
     },
     {
-      "title": "Musk dobra a aposta e promete doar duas a\u00E7\u00F5es da SpaceX para cada crian\u00E7a dos EUA",
+      "title": "Renova\u00E7\u00E3o por 30 dias da subven\u00E7\u00E3o de R$ 2,12 por litro de diesel deve ser publicada nesta sexta, diz Fazenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/26/musk-dobra-a-aposta-e-promete-doar-duas-acoes-da-spacex-para-cada-crianca-dos-eua.ghtml",
-      "date": "Thu, 26 Nov 2026 11:43:30 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/26/fazenda-diz-que-renovacao-por-mais-30-dias-da-subvencao-de-r-212-por-litro-de-diesel-sera-publicada-nesta-sexta.ghtml",
+      "date": "Thu, 26 Nov 2026 18:37:06 -0000"
     }
   ]
 }
