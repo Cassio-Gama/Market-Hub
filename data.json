@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 166684.61,
-      "change": 1.58,
-      "changeStr": "\u002B1.58%"
+      "price": 173878.31,
+      "change": 4.32,
+      "changeStr": "\u002B4.32%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.36,
-      "change": 2,
-      "changeStr": "\u002B2.00%"
+      "price": 43.34,
+      "change": 4.79,
+      "changeStr": "\u002B4.79%"
     },
     {
       "symbol": "VALE3",
-      "price": 56.9,
-      "change": 3.1,
-      "changeStr": "\u002B3.10%"
+      "price": 58.11,
+      "change": 2.13,
+      "changeStr": "\u002B2.13%"
     },
     {
       "symbol": "ITUB4",
-      "price": 40.01,
-      "change": 0.68,
-      "changeStr": "\u002B0.68%"
+      "price": 41.81,
+      "change": 4.5,
+      "changeStr": "\u002B4.50%"
     },
     {
       "symbol": "BBDC4",
-      "price": 14.19,
-      "change": 4.19,
-      "changeStr": "\u002B4.19%"
+      "price": 15.36,
+      "change": 8.25,
+      "changeStr": "\u002B8.25%"
     },
     {
       "symbol": "BBAS3",
-      "price": 14.69,
-      "change": 3.6,
-      "changeStr": "\u002B3.60%"
+      "price": 15.68,
+      "change": 6.74,
+      "changeStr": "\u002B6.74%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.29,
-      "change": 6.17,
-      "changeStr": "\u002B6.17%"
+      "price": 9.72,
+      "change": 4.63,
+      "changeStr": "\u002B4.63%"
     },
     {
       "symbol": "ABEV3",
-      "price": 15.81,
-      "change": -1.8,
-      "changeStr": "-1.80%"
+      "price": 16.26,
+      "change": 2.85,
+      "changeStr": "\u002B2.85%"
     },
     {
       "symbol": "WEGE3",
-      "price": 49.65,
-      "change": -1.1,
-      "changeStr": "-1.10%"
+      "price": 50.48,
+      "change": 1.67,
+      "changeStr": "\u002B1.67%"
     }
   ],
   "news": [
     {
-      "title": "Mega-Sena pode pagar R$ 75 milh\u00F5es nesta quinta-feira; g1 transmite ao vivo",
+      "title": "Embraer diz que novas tarifas de Trump pode encarecer passagens e pressionar infla\u00E7\u00E3o nos EUA ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "Thu, 26 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/26/embraer-aeronaves-eua.ghtml",
+      "date": "Thu, 26 Nov 2026 14:29:23 -0000"
     },
     {
-      "title": "Limite do cart\u00E3o de quem usa o cr\u00E9dito rotativo com frequ\u00EAncia ser\u00E1 reduzido; entenda a mudan\u00E7a",
+      "title": "Milhares protestam no Paraguai contra viol\u00EAncia contra mulher e preju\u00EDzos provocados por crise banc\u00E1ria",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/26/limite-do-cartao-de-quem-usa-o-credito-rotativo-com-frequencia-sera-reduzido-entenda-a-mudanca.ghtml",
-      "date": "Thu, 26 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/milhares-protestam-no-paraguai-contra-violencia-contra-a-mulher-e-crise-do-ueno-bank.ghtml",
+      "date": "Thu, 26 Nov 2026 13:48:36 -0000"
     },
     {
-      "title": "CMN anuncia medidas para conter o endividamento das fam\u00EDlias   ",
+      "title": "Alckmin critica tarifa de 10% dos EUA sobre avi\u00F5es brasileiros e chama medida de \u0027completamente descabida\u0027",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/25/cmn-anuncia-medidas-para-conter-o-endividamento-das-familias.ghtml",
-      "date": "Wed, 25 Nov 2026 22:10:34 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/26/alckimin-eua-tarias.ghtml",
+      "date": "Thu, 26 Nov 2026 13:31:21 -0000"
     },
     {
-      "title": "Secret\u00E1ria de Agricultura de Trump defende novas tarifas e acusa Brasil de \u0027pr\u00E1ticas desleais\u0027 contra agricultores dos EUA",
+      "title": "Pre\u00E7o dos alimentos: o que ficou mais caro e o que barateou na pr\u00E9via da infla\u00E7\u00E3o de novembro",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/secretaria-de-agricultura-de-trump-defende-novas-tarifas-e-acusa-brasil-de-praticas-desleais-contra-agricultores-dos-eua.ghtml",
-      "date": "Wed, 25 Nov 2026 21:35:55 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-na-previa-da-inflacao-de-novembro.ghtml",
+      "date": "Thu, 26 Nov 2026 13:15:54 -0000"
     },
     {
-      "title": "FCC autoriza SpaceX a lan\u00E7ar 1 milh\u00E3o de sat\u00E9lites para criar data centers no espa\u00E7o",
+      "title": "Macron diz que carne brasileira \u00E9 \u0027dopada\u0027 e comemora bloqueio da UE ao produto ",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/25/fcc-autoriza-spacex-a-lancar-1-milhao-de-satelites-para-criar-data-centers-no-espaco.ghtml",
-      "date": "Wed, 25 Nov 2026 21:17:17 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/macron-diz-que-carne-brasileira-e-dopada-e-comemora-veto-da-ue-ao-produto.ghtml",
+      "date": "Thu, 26 Nov 2026 13:06:15 -0000"
     },
     {
-      "title": "Por que o PIX est\u00E1 na mira dos EUA em investiga\u00E7\u00E3o que embasa novas tarifas contra o Brasil",
+      "title": "Grupo Fictor: o que faz a empresa que tentou comprar o Banco Master e \u00E9 investigada por fraude bilion\u00E1ria",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/25/brasil-protesta-contra-recomendacao-dos-eua-de-novas-tarifas-sobre-avioes-e-acucar.ghtml",
-      "date": "Wed, 25 Nov 2026 21:11:50 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/26/fictor-master-fraude.ghtml",
+      "date": "Thu, 26 Nov 2026 12:05:46 -0000"
     },
     {
-      "title": "Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que n\u00E3o \u0027ceder\u00E1 a esse tipo de amea\u00E7a\u0027",
+      "title": "IPCA-15: pr\u00E9via da infla\u00E7\u00E3o sobe 0,22% em novembro, puxada por alimentos",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/25/governo-lula-diz-estar-indignado-com-nova-proposta-de-tarifa-dos-eua-contra-o-brasil-e-que-nao-cedera-a-esse-tipo-de-ameaca.ghtml",
-      "date": "Wed, 25 Nov 2026 21:10:49 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/26/ipca-15-previa-da-inflacao-novembro.ghtml",
+      "date": "Thu, 26 Nov 2026 12:00:28 -0000"
     },
     {
-      "title": "Luiz Trabuco: quem \u00E9 o executivo do Bradesco que est\u00E1 entre os cotados para assumir Minist\u00E9rio da Fazenda",
+      "title": "Ibovespa dispara e d\u00F3lar cai abaixo de R$ 5,80, de olho em nomes para a Fazenda e pol\u00EDtica fiscal",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/11/25/luiz-trabuco-quem-e-o-executivo-cotado-para-ser-ministro-da-fazenda.ghtml",
-      "date": "Wed, 25 Nov 2026 20:33:17 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/26/dolar-ibovespa.ghtml",
+      "date": "Thu, 26 Nov 2026 12:00:00 -0000"
     },
     {
-      "title": "Inscri\u00E7\u00F5es para concurso do IBGE com 27 mil vagas s\u00E3o prorrogadas; veja como participar",
+      "title": "Investimento estrangeiro atinge marca US$ 1,4 trilh\u00E3o em 2025, quase metade do PIB, diz BC",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/25/inscricoes-concurso-do-ibge-prorrogadas.ghtml",
-      "date": "Wed, 25 Nov 2026 20:06:47 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/26/investimento-estrangeiro-atinge-marca-us-14-trilhao-em-2025-quase-metade-do-pib-aplicacoes-no-exterior-superam-reservas.ghtml",
+      "date": "Thu, 26 Nov 2026 11:57:30 -0000"
     },
     {
-      "title": "Ap\u00F3s suspens\u00E3o, JBS espera retomada das exporta\u00E7\u00F5es de frango \u00E0 UE em dezembro",
+      "title": "Musk dobra a aposta e promete doar duas a\u00E7\u00F5es da SpaceX para cada crian\u00E7a dos EUA",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/jbs-exportacao-frango-uniao-europeia.ghtml",
-      "date": "Wed, 25 Nov 2026 19:50:30 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/26/musk-dobra-a-aposta-e-promete-doar-duas-acoes-da-spacex-para-cada-crianca-dos-eua.ghtml",
+      "date": "Thu, 26 Nov 2026 11:43:30 -0000"
     }
   ]
 }
