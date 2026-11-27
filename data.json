@@ -2,119 +2,119 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176799.84,
-      "change": 6.07,
-      "changeStr": "\u002B6.07%"
+      "price": 176120.72,
+      "change": -0.38,
+      "changeStr": "-0.38%"
     },
     {
       "symbol": "PETR4",
-      "price": 43.19,
-      "change": 4.42,
-      "changeStr": "\u002B4.42%"
+      "price": 41.58,
+      "change": -3.73,
+      "changeStr": "-3.73%"
     },
     {
       "symbol": "VALE3",
-      "price": 58.73,
-      "change": 3.22,
-      "changeStr": "\u002B3.22%"
+      "price": 57.12,
+      "change": -2.74,
+      "changeStr": "-2.74%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.56,
-      "change": 6.37,
-      "changeStr": "\u002B6.37%"
+      "price": 42.62,
+      "change": 0.14,
+      "changeStr": "\u002B0.14%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.83,
-      "change": 11.56,
-      "changeStr": "\u002B11.56%"
+      "price": 15.72,
+      "change": -0.69,
+      "changeStr": "-0.69%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.54,
-      "change": 12.59,
-      "changeStr": "\u002B12.59%"
+      "price": 16.71,
+      "change": 1.03,
+      "changeStr": "\u002B1.03%"
     },
     {
       "symbol": "MGLU3",
-      "price": 9.65,
-      "change": 3.88,
-      "changeStr": "\u002B3.88%"
+      "price": 10.26,
+      "change": 6.32,
+      "changeStr": "\u002B6.32%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.43,
-      "change": 3.92,
-      "changeStr": "\u002B3.92%"
+      "price": 16.24,
+      "change": -1.16,
+      "changeStr": "-1.16%"
     },
     {
       "symbol": "WEGE3",
-      "price": 51.36,
-      "change": 3.44,
-      "changeStr": "\u002B3.44%"
+      "price": 50.72,
+      "change": -1.25,
+      "changeStr": "-1.25%"
     }
   ],
   "news": [
     {
-      "title": "Carne brasileira \u0027dopada\u0027? Auditoria da pr\u00F3pria Uni\u00E3o Europeia contraria declara\u00E7\u00E3o de Macron",
+      "title": "Meirelles defende que Trabuco anuncie medidas de ajuste fiscal logo no in\u00EDcio da gest\u00E3o",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/27/carne-brasileira-dopada-auditoria-da-propria-uniao-europeia-contraria-declaracao-de-macron.ghtml",
-      "date": "Fri, 27 Nov 2026 07:00:01 -0000"
+      "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/27/meirelles-defende-que-trabuco-anuncie-ajuste-fiscal-no-inicio-da-gestao-e-enfrente-eventual-resistencia-de-aliados.ghtml",
+      "date": "Fri, 27 Nov 2026 17:55:56 -0000"
     },
     {
-      "title": "Nome de confian\u00E7a da Faria Lima, Luiz Trabuco cultivou amizade com Lula \u00E0 frente do Bradesco",
+      "title": "\nArgentina aprova lei contra bets, que pro\u00EDbe patroc\u00EDnio no esporte",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/27/nome-de-confianca-da-faria-lima-luiz-trabuco-cultivou-amizade-com-lula-a-frente-do-bradesco.ghtml",
-      "date": "Fri, 27 Nov 2026 06:00:00 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/27/argentina-aprova-lei-contra-bets-que-proibe-patrocinio-no-esporte.ghtml",
+      "date": "Fri, 27 Nov 2026 17:46:09 -0000"
     },
     {
-      "title": "No dia da Black Friday, 58% dos itens pesquisados t\u00EAm descontos; 33% est\u00E3o mais caros; veja lista",
+      "title": "Manuten\u00E7\u00E3o de Moretti no Minist\u00E9rio do Planejamento \u00E9 vista como praticamente certa, em um aceno de Lula ao PT",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/guia/guia-de-compras/no-dia-da-black-friday-58percent-dos-itens-pesquisados-tem-descontos-33percent-estao-mais-caros.ghtml",
-      "date": "Fri, 27 Nov 2026 04:46:06 -0000"
+      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/manutencao-de-moretti-no-ministerio-do-planejamento-e-vista-como-praticamente-certa-em-um-aceno-de-lula-ao-pt.ghtml",
+      "date": "Fri, 27 Nov 2026 17:30:48 -0000"
     },
     {
-      "title": "Fundo de a\u00E7\u00F5es brasileiras sobe mais de 9% nos EUA ap\u00F3s confirma\u00E7\u00E3o de Trabuco na Fazenda",
+      "title": "No dia da Black Friday, 20% dos produtos ficam mais caros em apenas 12 horas; 60% dos itens seguem com desconto",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/27/ewz-sobe-apos-confirmacao-de-trabuco-na-fazenda.ghtml",
-      "date": "Fri, 27 Nov 2026 04:19:41 -0000"
+      "url": "https://g1.globo.com/guia/guia-de-compras/ofertas-black-friday-precos-sobem-em-12-horas-60porcento-seguem-com-desconto.ghtml",
+      "date": "Fri, 27 Nov 2026 17:14:10 -0000"
     },
     {
-      "title": "Luiz Carlos Trabuco no Minist\u00E9rio da Fazenda - O Assunto #1854",
+      "title": "Justi\u00E7a do Paraguai ordena pris\u00E3o de ex-ministro da Economia por crise banc\u00E1ria",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/27/luiz-carlos-trabuco-no-ministerio-da-fazenda-o-assunto-1854.ghtml",
-      "date": "Fri, 27 Nov 2026 03:30:02 -0000"
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/27/justica-paraguai-ordena-prisao-ex-ministro-economia.ghtml",
+      "date": "Fri, 27 Nov 2026 17:03:31 -0000"
     },
     {
-      "title": "Ap\u00F3s atuar como porta-voz da economia na campanha, futuro de Durigan no governo Lula 4 \u00E9 incerto",
+      "title": "Veja como criar e introduzir abelhas-rainhas nas colmeias",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/27/apos-atuar-como-porta-voz-da-economia-na-campanha-futuro-de-durigan-no-governo-lula-4-e-incerto.ghtml",
-      "date": "Fri, 27 Nov 2026 03:00:02 -0000"
+      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/27/veja-como-criar-e-introduzir-abelhas-rainhas-nas-colmeias.ghtml",
+      "date": "Fri, 27 Nov 2026 16:31:53 -0000"
     },
     {
-      "title": "Trabuco ter\u00E1 ajuste fiscal, juros e resist\u00EAncia no PT entre desafios \u00E0 frente da Fazenda",
+      "title": "Lula convida Camilo Santana para ser ministro da Casa Civil",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-tera-ajuste-fiscal-juros-e-resistencia-no-pt-entre-desafios-a-frente-da-fazenda.ghtml",
-      "date": "Fri, 27 Nov 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/27/lula-convida-camilo-santana-para-ser-ministro-da-casa-civil.ghtml",
+      "date": "Fri, 27 Nov 2026 16:01:23 -0000"
     },
     {
-      "title": "Ap\u00F3s EUA proporem taxar avi\u00F5es brasileiros, Mauro Vieira oferece apoio \u00E0 Embraer para buscar novos mercados",
+      "title": "Golpes no WhatsApp: veja como proteger sua conta e evitar que usem seu n\u00FAmero; V\u00CDDEO",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/politica/noticia/2026/11/27/apos-eua-proporem-taxar-avioes-brasileiros-mauro-vieira-oferece-apoio-a-embraer-para-buscar-novos-mercados.ghtml",
-      "date": "Fri, 27 Nov 2026 03:00:01 -0000"
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/27/golpes-no-whatsapp-veja-como-proteger-sua-conta-e-evitar-que-usem-seu-numero-video.ghtml",
+      "date": "Fri, 27 Nov 2026 16:00:00 -0000"
     },
     {
-      "title": "Por que Trabuco provocou euforia no mercado? Entenda o que esperar para d\u00F3lar, bolsa e juros",
+      "title": "Black Friday: uso do PIX cresce 29% nas primeiras horas do dia em rela\u00E7\u00E3o a 2025, aponta levantamento",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/27/por-que-trabuco-provocou-euforia-no-mercado-entenda-o-que-esperar-para-dolar-bolsa-e-juros.ghtml",
-      "date": "Fri, 27 Nov 2026 03:00:00 -0000"
+      "url": "https://g1.globo.com/guia/guia-de-compras/black-friday-uso-do-pix-cresce-29percent-nas-primeiras-horas-do-dia-em-relacao-a-2025-aponta-levantamento.ghtml",
+      "date": "Fri, 27 Nov 2026 14:57:26 -0000"
     },
     {
-      "title": "\u0027Um pa\u00EDs caminha bem quando conduzido com seriedade e \u00E9tica\u0027, diz Durigan ap\u00F3s anuncio de Trabuco na Fazenda",
+      "title": "Trabuco na Fazenda: veja outros banqueiros que estiveram \u00E0 frente do Minist\u00E9rio da Fazenda",
       "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/26/um-pais-caminha-bem-quando-conduzido-com-seriedade-e-etica-diz-durigan-apos-anuncio-de-trabuco-na-fazenda.ghtml",
-      "date": "Fri, 27 Nov 2026 00:09:17 -0000"
+      "url": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-na-fazenda-veja-outros-banqueiros-que-estiveram-a-frente-do-ministerio-da-fazenda.ghtml",
+      "date": "Fri, 27 Nov 2026 14:48:59 -0000"
     }
   ]
 }
