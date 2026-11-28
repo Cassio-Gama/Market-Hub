@@ -2,60 +2,90 @@
   "slider": [
     {
       "symbol": "^BVSP",
-      "price": 176120.72,
-      "change": -0.38,
-      "changeStr": "-0.38%"
+      "price": 176573.34,
+      "change": -0.13,
+      "changeStr": "-0.13%"
     },
     {
       "symbol": "PETR4",
-      "price": 41.58,
-      "change": -3.73,
-      "changeStr": "-3.73%"
+      "price": 42.14,
+      "change": -2.43,
+      "changeStr": "-2.43%"
     },
     {
       "symbol": "VALE3",
-      "price": 57.12,
-      "change": -2.74,
-      "changeStr": "-2.74%"
+      "price": 57.19,
+      "change": -2.62,
+      "changeStr": "-2.62%"
     },
     {
       "symbol": "ITUB4",
-      "price": 42.62,
-      "change": 0.14,
-      "changeStr": "\u002B0.14%"
+      "price": 42.73,
+      "change": 0.4,
+      "changeStr": "\u002B0.40%"
     },
     {
       "symbol": "BBDC4",
-      "price": 15.72,
-      "change": -0.69,
-      "changeStr": "-0.69%"
+      "price": 16.07,
+      "change": 1.52,
+      "changeStr": "\u002B1.52%"
     },
     {
       "symbol": "BBAS3",
-      "price": 16.71,
-      "change": 1.03,
-      "changeStr": "\u002B1.03%"
+      "price": 16.9,
+      "change": 2.18,
+      "changeStr": "\u002B2.18%"
     },
     {
       "symbol": "MGLU3",
-      "price": 10.26,
-      "change": 6.32,
-      "changeStr": "\u002B6.32%"
+      "price": 10.59,
+      "change": 9.74,
+      "changeStr": "\u002B9.74%"
     },
     {
       "symbol": "ABEV3",
-      "price": 16.24,
-      "change": -1.16,
-      "changeStr": "-1.16%"
+      "price": 16.26,
+      "change": -1.03,
+      "changeStr": "-1.03%"
     },
     {
       "symbol": "WEGE3",
-      "price": 50.72,
-      "change": -1.25,
-      "changeStr": "-1.25%"
+      "price": 49.87,
+      "change": -2.9,
+      "changeStr": "-2.90%"
     }
   ],
   "news": [
+    {
+      "title": "BTG cria fundo de investimentos para comprar at\u00E9 R$ 1,5 bilh\u00E3o em cr\u00E9ditos consignados do BRB",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/27/btg-cria-fundo-de-investimento-para-comprar-ate-r-15-bilhao-em-creditos-consignados-do-brb.ghtml",
+      "date": "Fri, 27 Nov 2026 22:33:08 -0000"
+    },
+    {
+      "title": "Conta de luz: Aneel mant\u00E9m bandeira tarif\u00E1ria verde em dezembro",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/27/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-em-dezembro.ghtml",
+      "date": "Fri, 27 Nov 2026 22:27:55 -0000"
+    },
+    {
+      "title": "OpenAI processa Apple e acusa empresa de roubar segredos comerciais e bloquear fornecedores",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/27/open-ai-apple-ia-segredo-processo.ghtml",
+      "date": "Fri, 27 Nov 2026 19:47:43 -0000"
+    },
+    {
+      "title": "Brasileira transforma teatro em cen\u00E1rio de sonhos na Semana de Arte em Miami",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/especial-publicitario/bradesco-bank-us/noticia/2026/11/27/brasileira-transforma-teatro-em-cenario-de-sonhos-na-semana-de-arte-em-miami.ghtml",
+      "date": "Fri, 27 Nov 2026 19:08:10 -0000"
+    },
+    {
+      "title": "Do fim dos supersal\u00E1rios \u00E0 previd\u00EAncia de militares: o que Durigan pensou para 2027 e agora deixa para Trabuco",
+      "source": "G1 Economia",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/27/durigan-deixa-agenda-fiscal-para-2027.ghtml",
+      "date": "Fri, 27 Nov 2026 18:50:34 -0000"
+    },
     {
       "title": "Meirelles defende que Trabuco anuncie medidas de ajuste fiscal logo no in\u00EDcio da gest\u00E3o",
       "source": "G1 Economia",
@@ -85,36 +115,6 @@
       "source": "G1 Economia",
       "url": "https://g1.globo.com/mundo/noticia/2026/11/27/justica-paraguai-ordena-prisao-ex-ministro-economia.ghtml",
       "date": "Fri, 27 Nov 2026 17:03:31 -0000"
-    },
-    {
-      "title": "Veja como criar e introduzir abelhas-rainhas nas colmeias",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/27/veja-como-criar-e-introduzir-abelhas-rainhas-nas-colmeias.ghtml",
-      "date": "Fri, 27 Nov 2026 16:31:53 -0000"
-    },
-    {
-      "title": "Lula convida Camilo Santana para ser ministro da Casa Civil",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/27/lula-convida-camilo-santana-para-ser-ministro-da-casa-civil.ghtml",
-      "date": "Fri, 27 Nov 2026 16:01:23 -0000"
-    },
-    {
-      "title": "Golpes no WhatsApp: veja como proteger sua conta e evitar que usem seu n\u00FAmero; V\u00CDDEO",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/27/golpes-no-whatsapp-veja-como-proteger-sua-conta-e-evitar-que-usem-seu-numero-video.ghtml",
-      "date": "Fri, 27 Nov 2026 16:00:00 -0000"
-    },
-    {
-      "title": "Black Friday: uso do PIX cresce 29% nas primeiras horas do dia em rela\u00E7\u00E3o a 2025, aponta levantamento",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/guia/guia-de-compras/black-friday-uso-do-pix-cresce-29percent-nas-primeiras-horas-do-dia-em-relacao-a-2025-aponta-levantamento.ghtml",
-      "date": "Fri, 27 Nov 2026 14:57:26 -0000"
-    },
-    {
-      "title": "Trabuco na Fazenda: veja outros banqueiros que estiveram \u00E0 frente do Minist\u00E9rio da Fazenda",
-      "source": "G1 Economia",
-      "url": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-na-fazenda-veja-outros-banqueiros-que-estiveram-a-frente-do-ministerio-da-fazenda.ghtml",
-      "date": "Fri, 27 Nov 2026 14:48:59 -0000"
     }
   ]
 }
